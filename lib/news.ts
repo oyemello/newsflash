@@ -1,3 +1,4 @@
+// lib/news.ts
 import Parser from 'rss-parser';
 import { OpenAI } from 'openai';
 import { sha1 } from './hash';
@@ -14,13 +15,18 @@ const SOURCES = [
 ];
 
 const parser = new Parser();
-const openai = process.env.OPENAI_API_KEY ? new OpenAI({ apiKey: process.env.OPENAI_API_KEY }) : null;
+
+const DISABLE = process.env.DISABLE_SUMMARIES === '1';
+let openai: OpenAI | null = null;
+if (!DISABLE && process.env.OPENAI_API_KEY) {
+  openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+}
 
 export async function fetchRss(): Promise<Item[]> {
   const items: Item[] = [];
   for (const s of SOURCES) {
     const feed = await parser.parseURL(s.url);
-    for (const it of feed.items.slice(0, 30)) {
+    for (const it of feed.items.slice(0, 5)) {
       const title = (it.title || '').trim();
       const url = it.link!;
       const id = sha1((title + url).toLowerCase()).slice(0, 16);
@@ -39,22 +45,20 @@ export async function fetchRss(): Promise<Item[]> {
 }
 
 export async function summarizeBatch(items: Item[]): Promise<Item[]> {
+  if (!openai) {
+    return items.map(i => ({
+      ...i,
+      summary_90w: (i.raw || i.title).slice(0, 400),
+      key_fact: '',
+      topics: [],
+      entities: [],
+      region: '',
+      lang: 'en'
+    }));
+  }
+
   const out: Item[] = [];
   for (const i of items) {
-    if (!openai) {
-      // Fallback when OpenAI is not available
-      out.push({ 
-        ...i, 
-        summary_90w: i.title,
-        key_fact: '',
-        topics: [],
-        entities: [],
-        region: '',
-        lang: 'en'
-      });
-      continue;
-    }
-
     const prompt = `
 You are a professional news editor.
 Summarize in 60–90 words, neutral tone. Include exactly one concise key fact phrase.
@@ -80,11 +84,9 @@ ${(i.raw || '').slice(0, 5000)}
     });
 
     let json: any = {};
-    try {
-      json = JSON.parse(r.choices[0].message.content || '{}');
-    } catch {
-      json = { summary_90w: i.title, key_fact: '', topics: [], entities: [], region: '', lang: 'en' };
-    }
+    try { json = JSON.parse(r.choices[0].message.content || '{}'); }
+    catch { json = { summary_90w: i.title, key_fact: '', topics: [], entities: [], region: '', lang: 'en' }; }
+
     out.push({ ...i, ...json });
   }
   return out;

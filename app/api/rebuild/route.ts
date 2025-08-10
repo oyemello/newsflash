@@ -2,35 +2,47 @@ export const runtime = 'nodejs';
 
 import { NextResponse } from 'next/server';
 import { buildFeedJson } from '@/lib/news';
-import { getRepoFile, upsertFile } from '@/lib/github-files';
+import { getRepoFile, upsertFile } from '@/lib/github';
 import { sha1 } from '@/lib/hash';
 
-export async function GET() {
-  const data = await buildFeedJson();
-  const hash = sha1(data);
+export async function GET(req: Request) {
+  try {
+    const url = new URL(req.url);
+    const dry = url.searchParams.get('dry') === '1';
 
-  const current = await getRepoFile('public/data/feed.json');
-  const currentHash = current.content ? sha1(current.content) : null;
-  if (currentHash === hash) {
-    const res = NextResponse.json({ ok: true, skipped: true, reason: 'no-change' });
+    const data = await buildFeedJson();
+
+    if (dry) {
+      return NextResponse.json({ ok: true, dry: true, bytes: data.length }, { status: 200 });
+    }
+
+    const hash = sha1(data);
+    const current = await getRepoFile('public/data/feed.json');
+    const currentHash = current.content ? sha1(current.content) : null;
+    if (currentHash === hash) {
+      const res = NextResponse.json({ ok: true, skipped: true, reason: 'no-change' });
+      res.headers.set('Cache-Control','public, max-age=0, s-maxage=60, stale-while-revalidate=120');
+      return res;
+    }
+
+    const stamp = new Date().toISOString().replace(/:/g,'-').replace(/\..+/, 'Z');
+    await upsertFile('public/data/feed.json', data, `chore: update feed ${stamp}`, current.sha);
+
+    const ts = new Date();
+    if (ts.getUTCMinutes() === 0) {
+      const archivePath =
+        `public/archive/${ts.getUTCFullYear()}/` +
+        `${String(ts.getUTCMonth()+1).padStart(2,'0')}/` +
+        `${String(ts.getUTCDate()).padStart(2,'0')}/` +
+        `${String(ts.getUTCHours()).padStart(2,'0')}.json`;
+      await upsertFile(archivePath, data, `chore: archive hourly ${stamp}`);
+    }
+
+    const res = NextResponse.json({ ok: true, updated: true });
     res.headers.set('Cache-Control','public, max-age=0, s-maxage=60, stale-while-revalidate=120');
     return res;
+  } catch (e: any) {
+    console.error('REBUILD ERROR:', e?.message);
+    return NextResponse.json({ ok: false, error: e?.message || 'unknown' }, { status: 500 });
   }
-
-  const stamp = new Date().toISOString().replace(/:/g,'-').replace(/\..+/, 'Z');
-  await upsertFile('public/data/feed.json', data, `chore: update feed ${stamp}`, current.sha);
-
-  const ts = new Date();
-  if (ts.getUTCMinutes() === 0) {
-    const archivePath =
-      `public/archive/${ts.getUTCFullYear()}/` +
-      `${String(ts.getUTCMonth()+1).padStart(2,'0')}/` +
-      `${String(ts.getUTCDate()).padStart(2,'0')}/` +
-      `${String(ts.getUTCHours()).padStart(2,'0')}.json`;
-    await upsertFile(archivePath, data, `chore: archive hourly ${stamp}`);
-  }
-
-  const res = NextResponse.json({ ok: true, updated: true });
-  res.headers.set('Cache-Control','public, max-age=0, s-maxage=60, stale-while-revalidate=120');
-  return res;
 }
