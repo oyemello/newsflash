@@ -7,7 +7,7 @@ function useLastUpdated(pollMs = 60000) {
   const FEED_URL = "https://oyemello.github.io/newsflash/public/data/feed.json";
   const [iso, setIso] = useState<string | null>(null);
   const [version, setVersion] = useState<string | null>(null);
-  const [error, setError] = useState<string | null>(null);
+  const [lastUpdatedError, setLastUpdatedError] = useState<string | null>(null);
 
   async function fetchOnce(signal?: AbortSignal) {
     try {
@@ -16,9 +16,9 @@ function useLastUpdated(pollMs = 60000) {
       const json = await res.json();
       if (json?.generatedAt) setIso(json.generatedAt);
       if (json?.version) setVersion(String(json.version));
-      setError(null);
+      setLastUpdatedError(null);
     } catch (e: any) {
-      setError(e?.message || "fetch failed");
+      setLastUpdatedError(e?.message || "fetch failed");
     }
   }
 
@@ -48,15 +48,17 @@ function useLastUpdated(pollMs = 60000) {
     }
   }, [iso]);
 
-  return { label, error };
+  return { label, lastUpdatedError, version };
 }
 
 export default function Home() {
-  const { label, error } = useLastUpdated(60000);
+  const { label, lastUpdatedError, version } = useLastUpdated(60000);
   const [news, setNews] = useState<Item[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState("");
   const [filteredNews, setFilteredNews] = useState<Item[]>([]);
+  const [newsError, setNewsError] = useState<string | null>(null);
+  const [error, setError] = useState<string | null>(null);
 
   const FEED_URL = "https://oyemello.github.io/newsflash/public/data/feed.json";
 
@@ -70,16 +72,16 @@ export default function Home() {
       if (data.items && Array.isArray(data.items)) {
         setNews(data.items);
         setFilteredNews(data.items);
-        setError(null);
+        setNewsError(null);
       } else {
         setNews([]);
         setFilteredNews([]);
-        setError(null);
+        setNewsError(null);
       }
-    } catch (err) {
+    } catch (err: any) {
       setNews([]);
       setFilteredNews([]);
-      setError(null);
+      setNewsError(err?.message || "Failed to fetch news");
     } finally {
       setLoading(false);
     }
@@ -100,7 +102,7 @@ export default function Home() {
       } catch {}
     }, 60000);
     return () => clearInterval(interval);
-  }, []);
+  }, [version]);
 
   useEffect(() => {
     if (searchQuery.trim() === "") {
@@ -150,28 +152,32 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800">
       <div className="container mx-auto px-4 py-8">
         {/* Header */}
-        <header className="text-center mb-8">
+        <header className="flex items-center gap-3 mb-8">
           <h1 className="text-4xl font-bold gradient-text mb-2">NewsFlash</h1>
-          <p className="text-gray-600 dark:text-gray-300 mb-4">
-            Stay updated with the latest developer news and releases
-          </p>
-          {/* Search and Controls */}
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-6">
-            <div className="relative">
-              <input
-                type="text"
-                placeholder="Search news..."
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-64 px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent dark:bg-gray-700 dark:border-gray-600 dark:text-white"
-              />
-            </div>
+          <div className="ml-auto text-xs text-gray-500">
+            Last updated: <span suppressHydrationWarning>{label}</span>
+            {lastUpdatedError ? <span className="text-red-500 ml-2">(offline)</span> : null}
           </div>
         </header>
+        <p className="text-gray-600 dark:text-gray-300 mb-4 text-center">
+          Stay updated with the latest developer news and releases
+        </p>
+        {/* Search and Controls */}
+        <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-6">
+          <div className="relative">
+            <input
+              type="text"
+              placeholder="Search news..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="w-64 px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent dark:bg-gray-700 dark:border-gray-600 dark:text-white"
+            />
+          </div>
+        </div>
         {/* Error Message */}
-        {error && (
+        {newsError && (
           <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-6">
-            {error}
+            {newsError}
           </div>
         )}
         {/* News Grid */}
