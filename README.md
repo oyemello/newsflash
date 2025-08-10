@@ -1,22 +1,26 @@
 # NewsFlash
 
-A modern news aggregator that fetches the latest releases and updates from popular developer repositories on GitHub.
+A modern AI-powered news aggregator that fetches and summarizes the latest news from RSS feeds using OpenAI.
 
 ## Features
 
-- 📰 Real-time news feed from GitHub repositories
+- 📰 Real-time news feed from RSS sources (Guardian, Verge)
+- 🤖 AI-powered content summarization with OpenAI
 - 🔍 Search functionality across news items
 - 🎨 Modern, responsive UI with dark mode support
 - ⚡ Fast API endpoints with caching
-- 🔄 Manual feed refresh capability
+- 🔄 Automatic feed refresh with cron jobs
 - 📱 Mobile-friendly design
+- 💾 GitHub file storage integration
 
 ## Tech Stack
 
 - **Frontend**: Next.js 14, React 18, TypeScript
 - **Styling**: Tailwind CSS
-- **API**: GitHub REST API via Octokit
-- **Deployment**: Vercel-ready
+- **AI**: OpenAI GPT-4 for content summarization
+- **RSS**: RSS Parser for feed aggregation
+- **Storage**: GitHub API for file storage
+- **Deployment**: Vercel with cron jobs
 
 ## Quick Start
 
@@ -24,79 +28,75 @@ A modern news aggregator that fetches the latest releases and updates from popul
 
 - Node.js 18+ 
 - npm or yarn
-- GitHub Personal Access Token
+- OpenAI API Key
+- GitHub Personal Access Token (optional, for file storage)
 
 ### Setup
 
 1. **Clone and install dependencies:**
    ```bash
-   cd quicknews
+   git clone https://github.com/oyemello/newsflash.git
+   cd newsflash
    npm install
    ```
 
 2. **Create environment file:**
    ```bash
-   cp .env.example .env.local
+   # Create .env.local file with:
+   OPENAI_API_KEY=your_openai_api_key_here
+   
+   # Optional GitHub configuration for file storage:
+   GH_OWNER=your_github_username
+   GH_REPO=your_repository_name
+   GH_BRANCH=main
+   GH_PAT=your_github_personal_access_token
    ```
 
-3. **Add your GitHub token:**
-   Get a GitHub Personal Access Token from [GitHub Settings](https://github.com/settings/tokens) and add it to `.env.local`:
-   ```
-   GITHUB_TOKEN=your_github_token_here
-   ```
-
-4. **Run the development server:**
+3. **Run the development server:**
    ```bash
    npm run dev
    ```
 
-5. **Open your browser:**
+4. **Open your browser:**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
 ## API Endpoints
 
 ### GET `/api/feed`
-Fetches the news feed with optional pagination.
-
-**Query Parameters:**
-- `limit` (optional): Number of items to return (default: 50)
-- `offset` (optional): Number of items to skip (default: 0)
+Fetches the news feed from stored JSON file.
 
 **Response:**
 ```json
 {
-  "success": true,
-  "data": [
+  "version": "1234567890",
+  "generatedAt": "2023-12-01T10:00:00Z",
+  "items": [
     {
-      "id": "github-123",
-      "title": "Release v1.0.0",
-      "description": "Major release with new features",
-      "url": "https://github.com/owner/repo/releases/tag/v1.0.0",
-      "published_at": "2023-12-01T10:00:00Z",
-      "updated_at": "2023-12-01T10:00:00Z",
-      "source": "owner/repo",
-      "type": "release",
-      "metadata": {
-        "repository": "owner/repo",
-        "author": "username",
-        "language": "TypeScript",
-        "stars": 1000,
-        "topics": ["javascript", "typescript"]
-      }
+      "id": "abc123def456",
+      "title": "Breaking News Title",
+      "url": "https://example.com/article",
+      "source_id": "guardian-world",
+      "source_name": "The Guardian",
+      "published": "2023-12-01T10:00:00Z",
+      "summary_90w": "AI-generated summary of the article...",
+      "key_fact": "Key fact about the story",
+      "topics": ["technology", "ai"],
+      "entities": ["OpenAI", "Microsoft"],
+      "region": "US",
+      "lang": "en"
     }
   ]
 }
 ```
 
-### POST `/api/rebuild`
-Manually rebuilds the news feed by fetching fresh data from GitHub.
+### GET `/api/rebuild`
+Manually rebuilds the news feed by fetching fresh RSS data and processing with AI.
 
 **Response:**
 ```json
 {
-  "success": true,
-  "message": "Feed rebuilt successfully",
-  "data": [...]
+  "ok": true,
+  "updated": true
 }
 ```
 
@@ -104,47 +104,42 @@ Manually rebuilds the news feed by fetching fresh data from GitHub.
 Returns feed metadata in response headers.
 
 **Headers:**
-- `X-Feed-Count`: Total number of items
-- `X-Feed-Last-Updated`: Last update timestamp
-- `X-Feed-Version`: Feed version
+- `ETag`: Content hash for caching
+- `Cache-Control`: Caching directives
 
-## Configuration
+## RSS Sources
 
-### News Sources
-Edit `lib/news.ts` to modify the list of GitHub repositories to monitor:
+Currently configured sources:
+- **The Guardian World**: `https://www.theguardian.com/world/rss`
+- **The Verge Tech**: `https://www.theverge.com/rss/index.xml`
 
-```typescript
-const NEWS_SOURCES = [
-  { owner: 'vercel', repo: 'next.js', type: 'release' as const },
-  { owner: 'facebook', repo: 'react', type: 'release' as const },
-  // Add more repositories here
-];
-```
+To add more sources, edit `lib/news.ts` and add to the `SOURCES` array.
 
-### Caching
-The app uses in-memory caching with a 1-hour refresh interval. For production, consider using Redis or a similar persistent cache.
+## AI Features
+
+The application uses OpenAI's GPT-4 to:
+- Summarize articles in 60-90 words
+- Extract key facts
+- Identify topics and entities
+- Determine article region and language
 
 ## Deployment
 
 ### Vercel (Recommended)
 
-1. **Push to GitHub:**
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   git push origin main
-   ```
-
-2. **Deploy on Vercel:**
-   - Connect your GitHub repository to Vercel
-   - Add `GITHUB_TOKEN` environment variable
-   - Deploy!
+1. **Connect GitHub repository** to Vercel
+2. **Add environment variables**:
+   - `OPENAI_API_KEY`
+   - `GH_OWNER`, `GH_REPO`, `GH_BRANCH`, `GH_PAT` (optional)
+3. **Deploy** - Cron jobs will automatically run every 5 minutes
 
 ### Environment Variables
 
-- `GITHUB_TOKEN`: GitHub Personal Access Token (required)
-- `DEBUG`: Enable debug logging (optional)
-- `PORT`: Override default port (optional)
+- `OPENAI_API_KEY`: OpenAI API key (required for AI features)
+- `GH_OWNER`: GitHub username/organization (optional)
+- `GH_REPO`: GitHub repository name (optional)
+- `GH_BRANCH`: GitHub branch (default: main)
+- `GH_PAT`: GitHub Personal Access Token (optional)
 
 ## Development
 
@@ -163,11 +158,13 @@ quicknews/
 ├── app/
 │   ├── api/           # API routes
 │   ├── globals.css    # Global styles
+│   ├── layout.tsx     # Root layout
 │   └── page.tsx       # Main page
 ├── lib/               # Utility libraries
+│   ├── github-files.ts # GitHub file operations
 │   ├── github.ts      # GitHub API integration
 │   ├── hash.ts        # Hash utilities
-│   └── news.ts        # News feed logic
+│   └── news.ts        # RSS and AI processing
 ├── public/            # Static assets
 └── vercel.json        # Vercel configuration
 ```

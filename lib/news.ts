@@ -3,26 +3,14 @@ import { OpenAI } from 'openai';
 import { sha1 } from './hash';
 
 export type Item = {
-  id: string;
-  title: string;
-  url: string;
-  source_id: string;
-  source_name: string;
-  published: string | null;
-  image: string | null;
-  summary_90w?: string;
-  key_fact?: string;
-  topics?: string[];
-  entities?: string[];
-  region?: string;
-  lang?: string;
-  raw?: string;
+  id: string; title: string; url: string; source_id: string; source_name: string;
+  published: string | null; image: string | null; summary_90w?: string; key_fact?: string;
+  topics?: string[]; entities?: string[]; region?: string; lang?: string; raw?: string;
 };
 
 const SOURCES = [
   { id: 'guardian-world', url: 'https://www.theguardian.com/world/rss' },
   { id: 'verge-tech', url: 'https://www.theverge.com/rss/index.xml' }
-  // TODO: add more official RSS feeds here later
 ];
 
 const parser = new Parser();
@@ -46,7 +34,6 @@ export async function fetchRss(): Promise<Item[]> {
       });
     }
   }
-  // naive dedupe by title
   const seen = new Set();
   return items.filter(i => !seen.has(i.title.toLowerCase()) && seen.add(i.title.toLowerCase()));
 }
@@ -72,7 +59,6 @@ export async function summarizeBatch(items: Item[]): Promise<Item[]> {
 You are a professional news editor.
 Summarize in 60–90 words, neutral tone. Include exactly one concise key fact phrase.
 Return strict JSON:
-
 {
  "summary_90w": "...",
  "key_fact": "...",
@@ -81,12 +67,11 @@ Return strict JSON:
  "region": "",
  "lang": "en"
 }
-
 TITLE: ${i.title}
 SOURCE: ${i.source_name}
 CONTENT:
 ${(i.raw || '').slice(0, 5000)}
-    `.trim();
+`.trim();
 
     const r = await openai.chat.completions.create({
       model: 'gpt-4o-mini',
@@ -100,7 +85,6 @@ ${(i.raw || '').slice(0, 5000)}
     } catch {
       json = { summary_90w: i.title, key_fact: '', topics: [], entities: [], region: '', lang: 'en' };
     }
-
     out.push({ ...i, ...json });
   }
   return out;
@@ -109,11 +93,6 @@ ${(i.raw || '').slice(0, 5000)}
 export async function buildFeedJson(): Promise<string> {
   const base = await fetchRss();
   const enriched = await summarizeBatch(base);
-
-  const payload = {
-    version: Date.now().toString(),
-    generatedAt: new Date().toISOString(),
-    items: enriched
-  };
+  const payload = { version: Date.now().toString(), generatedAt: new Date().toISOString(), items: enriched };
   return JSON.stringify(payload, null, 2);
 }
