@@ -1,33 +1,31 @@
-name: Rebuild feed and deploy site
+name: Rebuild Feed and Deploy
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 jobs:
-  build:
+  rebuild-and-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      DISABLE_SUMMARIES: ${{ secrets.DISABLE_SUMMARIES }}
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          fetch-depth: 0
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      - run: npm ci
+          node-version: '20'
+      - name: Install dependencies
+        run: npm ci
       - name: Rebuild feed
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          DISABLE_SUMMARIES: ${{ secrets.DISABLE_SUMMARIES || '1' }}
         run: npm run rebuild:feed
-      - name: Commit updated feed
+      - name: Commit feed and archive
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data public/archive || true
-          git diff --cached --quiet || git commit -m "chore: update feed $(date -u +'%Y-%m-%dT%H:%MZ')"
-          git push
+          git add public/data public/archive
+          git diff --cached --quiet || git commit -m "chore: update feed and archive"
       - name: Build static site
         run: npm run export
       - name: Deploy to GitHub Pages
