@@ -14,3 +14,65 @@ h1 { font-size: 20px; margin: 0; font-weight: 700; letter-spacing: .2px; }
 .meta { font-size: 12px; color: #555; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
 .badge { display: inline-block; font-size: 11px; border: 1px solid #ddd; padding: 2px 8px; border-radius: 999px; }
 .toast { position: fixed; bottom: 16px; right: 16px; background: #111; color: #fff; padding: 10px 14px; border-radius: 10px; opacity: 0.95; }
+
+/* Preferences modal styles */
+.bg-opacity-30 {
+  background-color: rgba(0,0,0,0.3);
+}
+
+.fixed.inset-0 {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+}
+
+.max-h-32 {
+  max-height: 8rem;
+}
+
+.overflow-y-auto {
+  overflow-y: auto;
+}
+
+.z-50 {
+  z-index: 50;
+}
+
+/* Newspaper fold animation styles */
+.fold-stage {
+  position: relative;
+  perspective: 1000px;
+  will-change: transform, opacity;
+}
+.fold-content {
+  transition: opacity 0.2s linear;
+}
+.fold-out .fold-content {
+  animation: foldOutTop 0.22s cubic-bezier(.77,.2,.32,1) forwards, foldOutBottom 0.22s cubic-bezier(.77,.2,.32,1) forwards;
+  opacity: 0;
+}
+.fold-in .fold-content {
+  animation: foldInTop 0.22s cubic-bezier(.77,.2,.32,1) forwards, foldInBottom 0.22s cubic-bezier(.77,.2,.32,1) forwards;
+  opacity: 1;
+}
+@keyframes foldOutTop {
+  0% { transform: rotateX(0deg) translateY(0); opacity: 1; }
+  100% { transform: rotateX(-15deg) translateY(-12px); opacity: 0; }
+}
+@keyframes foldOutBottom {
+  0% { transform: rotateX(0deg) translateY(0); opacity: 1; }
+  100% { transform: rotateX(15deg) translateY(12px); opacity: 0; }
+}
+@keyframes foldInTop {
+  0% { transform: rotateX(-15deg) translateY(-12px); opacity: 0; }
+  100% { transform: rotateX(0deg) translateY(0); opacity: 1; }
+}
+@keyframes foldInBottom {
+  0% { transform: rotateX(15deg) translateY(12px); opacity: 0; }
+  100% { transform: rotateX(0deg) translateY(0); opacity: 1; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .fold-stage, .fold-content, .fold-out .fold-content, .fold-in .fold-content {
+    animation: none !important;
+    transition: none !important;
+  }
+}
