@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/feed",
+      "headers": {
+        "Cache-Control": "public, max-age=300, s-maxage=300"
+      }
+    },
+    {
+      "src": "/api/feed.head",
+      "headers": {
+        "Cache-Control": "public, max-age=60, s-maxage=60"
+      }
+    }
+  ],
+  "crons": [
+    { "path": "/api/rebuild", "schedule": "*/5 * * * *" }
+  ],
+  "env": {
+    "GITHUB_TOKEN": "@github_token"
+  }
+}
