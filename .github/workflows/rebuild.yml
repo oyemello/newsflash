@@ -1,0 +1,38 @@
+name: Rebuild feed and deploy site
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - name: Rebuild feed
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DISABLE_SUMMARIES: ${{ secrets.DISABLE_SUMMARIES || '1' }}
+        run: npm run rebuild:feed
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data public/archive || true
+          git diff --cached --quiet || git commit -m "chore: update feed $(date -u +'%Y-%m-%dT%H:%MZ')"
+          git push
+      - name: Build static site
+        run: npm run export
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
+          publish_branch: gh-pages

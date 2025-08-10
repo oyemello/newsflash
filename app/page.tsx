@@ -9,10 +9,55 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredNews, setFilteredNews] = useState<Item[]>([]);
+  const [version, setVersion] = useState<string>('');
 
+  const FEED_URL = 'https://oyemello.github.io/newsflash/public/data/feed.json';
+
+  // Fetch feed from GitHub Pages
+  const fetchNews = async () => {
+    try {
+      setLoading(true);
+      const response = await fetch(FEED_URL);
+      if (!response.ok) throw new Error('Feed not found');
+      const data = await response.json();
+      if (data.items && Array.isArray(data.items)) {
+        setNews(data.items);
+        setFilteredNews(data.items);
+        setVersion(data.version || '');
+        setError(null);
+      } else {
+        setNews([]);
+        setFilteredNews([]);
+        setVersion('');
+        setError(null);
+      }
+    } catch (err) {
+      setNews([]);
+      setFilteredNews([]);
+      setVersion('');
+      setError(null);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  // Initial fetch and polling
   useEffect(() => {
     fetchNews();
-  }, []);
+    const interval = setInterval(async () => {
+      try {
+        const response = await fetch(FEED_URL);
+        if (!response.ok) return;
+        const data = await response.json();
+        if (data.version && data.version !== version) {
+          setNews(data.items || []);
+          setFilteredNews(data.items || []);
+          setVersion(data.version);
+        }
+      } catch {}
+    }, 60000);
+    return () => clearInterval(interval);
+  }, [version]);
 
   useEffect(() => {
     if (searchQuery.trim() === '') {
@@ -27,56 +72,14 @@ export default function Home() {
     }
   }, [searchQuery, news]);
 
-  const fetchNews = async () => {
-    try {
-      setLoading(true);
-      const response = await fetch('/api/feed?limit=50');
-      const data = await response.json();
-      
-      if (data.items) {
-        setNews(data.items);
-        setFilteredNews(data.items);
-      } else {
-        setError('Failed to fetch news');
-      }
-    } catch (err) {
-      setError('Error loading news feed');
-      console.error('Error fetching news:', err);
-    } finally {
-      setLoading(false);
-    }
-  };
-
-  const rebuildFeed = async () => {
-    try {
-      setLoading(true);
-      const response = await fetch('/api/rebuild', { method: 'GET' });
-      const data = await response.json();
-      
-      if (data.ok) {
-        await fetchNews(); // Refresh the feed
-      } else {
-        setError('Failed to rebuild feed');
-      }
-    } catch (err) {
-      setError('Error rebuilding feed');
-      console.error('Error rebuilding feed:', err);
-    } finally {
-      setLoading(false);
-    }
-  };
-
   const formatDate = (dateString: string | null) => {
     if (!dateString) return 'Unknown date';
-    
     const date = new Date(dateString);
     const now = new Date();
     const diffInHours = Math.floor((now.getTime() - date.getTime()) / (1000 * 60 * 60));
-    
     if (diffInHours < 1) return 'Just now';
     if (diffInHours < 24) return `${diffInHours}h ago`;
     if (diffInHours < 48) return 'Yesterday';
-    
     return date.toLocaleDateString('en-US', {
       month: 'short',
       day: 'numeric',
@@ -114,7 +117,6 @@ export default function Home() {
           <p className="text-gray-600 dark:text-gray-300 mb-4">
             Stay updated with the latest developer news and releases
           </p>
-          
           {/* Search and Controls */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-6">
             <div className="relative">
@@ -126,24 +128,14 @@ export default function Home() {
                 className="w-64 px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent dark:bg-gray-700 dark:border-gray-600 dark:text-white"
               />
             </div>
-            
-            <button
-              onClick={rebuildFeed}
-              disabled={loading}
-              className="btn-primary disabled:opacity-50 disabled:cursor-not-allowed"
-            >
-              {loading ? 'Refreshing...' : 'Refresh Feed'}
-            </button>
           </div>
         </header>
-
         {/* Error Message */}
         {error && (
           <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-6">
             {error}
           </div>
         )}
-
         {/* News Grid */}
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
           {filteredNews.map((item) => (
@@ -159,20 +151,16 @@ export default function Home() {
                   {formatDate(item.published)}
                 </span>
               </div>
-              
               <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-2 line-clamp-2">
                 {item.title}
               </h2>
-              
               <p className="text-gray-600 dark:text-gray-300 mb-4 line-clamp-3">
                 {item.summary_90w || item.title}
               </p>
-              
               <div className="flex items-center justify-between">
                 <span className="text-sm text-gray-500 dark:text-gray-400">
                   {item.source_name}
                 </span>
-                
                 <a
                   href={item.url}
                   target="_blank"
@@ -182,7 +170,6 @@ export default function Home() {
                   Read More →
                 </a>
               </div>
-              
               {/* Metadata */}
               {(item.key_fact || item.topics?.length) && (
                 <div className="mt-3 pt-3 border-t border-gray-200 dark:border-gray-700">
@@ -197,7 +184,6 @@ export default function Home() {
             </article>
           ))}
         </div>
-
         {/* Empty State */}
         {filteredNews.length === 0 && !loading && (
           <div className="text-center py-12">
@@ -206,7 +192,6 @@ export default function Home() {
             </p>
           </div>
         )}
-
         {/* Footer */}
         <footer className="text-center mt-12 pt-8 border-t border-gray-200 dark:border-gray-700">
           <p className="text-gray-500 dark:text-gray-400">
