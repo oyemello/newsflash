@@ -22,12 +22,19 @@ jobs:
           npm install -D tsx
       - name: Rebuild feed
         run: npx tsx scripts/rebuild.ts
-      - name: Commit feed and archive
+      - name: Commit updated feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data public/archive
-          git diff --cached --quiet || git commit -m "chore: update feed and archive"
+          # Ensure paths exist so git add never fails
+          mkdir -p public/data public/archive
+          # Add whatever exists; ignore if empty
+          git add public/data || true
+          git add public/archive || true
+          # Commit only if there are staged changes
+          git diff --cached --quiet || git commit -m "chore: update feed $(date -u +'%Y-%m-%dT%H:%MZ')"
+          # Push if we committed anything
+          git rev-parse --verify HEAD >/dev/null 2>&1 && git push || true
       - name: Build static site
         run: npm run export
       - name: Deploy to GitHub Pages
