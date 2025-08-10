@@ -8,8 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "type-check": "tsc --noEmit",
-    "rebuild:feed": "tsx scripts/rebuild.ts",
-    "export": "next build && next export"
+    "rebuild:feed": "tsx scripts/rebuild.ts"
   },
   "dependencies": {
     "@octokit/rest": "^20.0.0",
