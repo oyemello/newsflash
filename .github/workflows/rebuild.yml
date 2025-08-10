@@ -19,9 +19,9 @@ jobs:
       - name: Install deps (robust, no lock strictness)
         run: |
           npm install
-          npm install -D ts-node typescript
+          npm install -D tsx
       - name: Rebuild feed
-        run: npm run rebuild:feed
+        run: npx tsx scripts/rebuild.ts
       - name: Commit feed and archive
         run: |
           git config user.name "github-actions[bot]"
