@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: '*/10 * * * *'
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   rebuild-and-deploy:
     runs-on: ubuntu-latest
