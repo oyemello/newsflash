@@ -123,8 +123,8 @@ export async function buildFeedJson() {
         source_id: src.id,
         source_name: feed.title || src.id,
         published: x.isoDate || x.pubDate || null,
-        raw: x.contentSnippet || x.content || '',
-        summary_90w: null,
+        summary_90w: '' as string | null,
+        raw: (x.contentSnippet || x.content || '') as string,
         topics: src.topics || [],
       }));
       console.log(`   ok: ${src.id} items=${items.length}`);
@@ -136,8 +136,8 @@ export async function buildFeedJson() {
           try {
             if (!it.summary_90w || String(it.summary_90w).trim() === "") {
               const raw = String(it.title || "") + "\n\n" + String(it.summary_90w || it.raw || "");
-              const summary = await summarizeItem(it.title || "", clip(raw, 3000), it.source_name || it.source_id || "unknown");
-              it.summary_90w = typeof summary === 'string' ? summary : null;
+              const _sum = await summarizeItem(it.title || "", clip(raw, 3000), it.source_name || it.source_id || "unknown");
+              it.summary_90w = (typeof _sum === 'string' ? _sum : '').trim();
               done++;
             }
           } catch (e:any) {
