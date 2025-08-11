@@ -27,18 +27,29 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           DISABLE_SUMMARIES: ${{ secrets.DISABLE_SUMMARIES || '1' }}
           RSS_USER_AGENT: ${{ secrets.RSS_USER_AGENT }}
-        run: npx tsx scripts/rebuild.ts
+        run: |
+          npx tsx scripts/rebuild.ts
+          test -f public/data/feed.json || (echo "ERROR: public/data/feed.json missing after rebuild" && exit 1)
+          node -e "const j=require('fs').readFileSync('public/data/feed.json','utf8'); try{JSON.parse(j);console.log('feed.json valid JSON')}catch(e){console.error('Invalid JSON');process.exit(1)}"
       - name: Remove API routes for static export
         run: rm -rf app/api || true
-
-      - name: "Build static site (output: export)"
-        env:
-          NEXT_TELEMETRY_DISABLED: '1'
-        run: npm run build
-
-      - name: Add .nojekyll
-        run: touch out/.nojekyll
-
+      - name: Build static site (output: export)
+        run: |
+          NEXT_TELEMETRY_DISABLED=1 npm run build
+      - name: Ensure data folder in out/
+        run: mkdir -p out/data
+      - name: Copy feed into out/
+        run: cp -f public/data/feed.json out/data/feed.json
+      - name: Verify feed exists in out/
+        run: |
+          test -f out/data/feed.json || (echo "ERROR: out/data/feed.json missing" && ls -R out && exit 1)
+          head -c 120 out/data/feed.json || true
+          echo
+          node -e "const j=require('fs').readFileSync('out/data/feed.json','utf8'); JSON.parse(j); console.log('out/data/feed.json OK')"
+      - name: "Create .nojekyll in out/"
+        run: |
+          mkdir -p out
+          touch out/.nojekyll
       - name: Deploy to GitHub Pages (gh-pages)
         uses: peaceiris/actions-gh-pages@v3
         with:
