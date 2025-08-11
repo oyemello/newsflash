@@ -1,6 +1,7 @@
 import fs from "node:fs/promises";
 import crypto from "node:crypto";
 import Parser from "rss-parser";
+import OpenAI from 'openai';
 
 type FeedItem = {
   id: string;
@@ -81,8 +82,29 @@ function dedupeByTitleAndURL<T extends { title?: string; url?: string }>(items: 
   return out;
 }
 
+const SUM_DISABLE = process.env.DISABLE_SUMMARIES === '1';
+const MAX_SUMMARIES = Number(process.env.MAX_SUMMARIES || 40);
+
+const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+
+function clip(text: string, n = 3000) {
+  return (text || '').slice(0, n);
+}
+
+async function summarizeItem(title: string, snippet: string, source: string) {
+  const prompt = `Summarize this news item in 60–90 words, neutral tone, 1 concrete fact (date/number/quote if notable). Return plain text.\nSource: ${source}\nTitle: ${title}\nContent:\n${snippet}`;
+  const r = await openai.chat.completions.create({
+    model: "gpt-4o-mini",
+    temperature: 0.2,
+    messages: [{ role: "user", content: prompt }]
+  });
+  const out = r.choices?.[0]?.message?.content?.trim() || "";
+  return out;
+}
+
 export async function buildFeedJson() {
   console.log("=== REBUILD START ===");
+  console.log("SUMMARIES:", SUM_DISABLE ? "disabled" : "enabled", "MAX:", MAX_SUMMARIES);
   const collected: any[] = [];
 
   for (const src of SOURCES) {
@@ -101,10 +123,29 @@ export async function buildFeedJson() {
         source_id: src.id,
         source_name: feed.title || src.id,
         published: x.isoDate || x.pubDate || null,
+        raw: x.contentSnippet || x.content || '',
         summary_90w: null,
         topics: src.topics || [],
       }));
       console.log(`   ok: ${src.id} items=${items.length}`);
+      // __SUM__
+      if (!SUM_DISABLE) {
+        let done = 0;
+        for (const it of items) {
+          if (done >= MAX_SUMMARIES) break;
+          try {
+            if (!it.summary_90w || String(it.summary_90w).trim() === "") {
+              const raw = String(it.title || "") + "\n\n" + String(it.summary_90w || it.raw || "");
+              const summary = await summarizeItem(it.title || "", clip(raw, 3000), it.source_name || it.source_id || "unknown");
+              it.summary_90w = typeof summary === 'string' ? summary : null;
+              done++;
+            }
+          } catch (e:any) {
+            console.warn("summarize error:", e?.message || e);
+          }
+        }
+        console.log(`   summarized: ${done} for ${src.id}`);
+      }
       collected.push(...items);
     } catch (e: any) {
       console.warn(`!! PARSE error (${src.id}):`, e?.message || e);
