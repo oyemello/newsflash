@@ -1,6 +1,6 @@
 {
-  "version": "1754941917061",
-  "generatedAt": "2025-08-11T19:51:57.061Z",
+  "version": "1754943445574",
+  "generatedAt": "2025-08-11T20:17:25.574Z",
   "items": [
     {
       "id": "0d765fa57cdb5f39c656d5f8309d93d82d7e5da6",
@@ -10,7 +10,7 @@
       "source_name": "TechCrunch",
       "published": "2025-08-11T19:38:57.000Z",
       "summary_90w": "",
-      "raw": "Manish Chandra is stepping down as Poshmark CEO after nearly 15 years.",
+      "raw": "After nearly 15 years, Manish Chandra will transition to being a member of the board of directors. Namsun Kim, who has served as executive chairman since April, has been appointed as his successor.",
       "topics": [
         "Technology"
       ]
@@ -19,11 +19,24 @@
       "id": "d8d1ed4c709ccb015f64865a971005b3fdf9b547",
       "title": "Trump deploys National Guard to Washington DC and pledges crime crackdown",
       "url": "https://www.bbc.com/news/articles/cm2110me5g4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-08-11T19:31:16.000Z",
       "summary_90w": "",
       "raw": "The president also takes control of the city's police force, as the mayor rejects his claims of a crime wave.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "107d8a0481e3b46706ab58891f8b85f6a5baab40",
+      "title": "European demotion could galvanise Palace - Sutton",
+      "url": "https://www.bbc.com/sport/football/articles/cx2ppkvxx0ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-11T19:23:58.000Z",
+      "summary_90w": "",
+      "raw": "Crystal Palace's demotion to the Conference League could \"galvanise\" the club this season, says Chris Sutton on the Monday Night Club.",
       "topics": [
         "World"
       ]
@@ -231,7 +244,7 @@
       "source_name": "The Verge",
       "published": "2025-08-11T17:53:49.000Z",
       "summary_90w": "",
-      "raw": "Did Tesla remotely deactivate a Cybertruck in the middle of a highway because the owner featured it in an unauthorized music video? It’s highly unlikely. \nOn Sunday, Instagram user @bighuey313 posted a video of his supposed deactivated Cybertruck, complete with a flashing red warning message on the truck’s main touchscreen. “Dog wtf my cybertruck just shut off on the freeway! 😡” he wrote in the caption. “Almost just crashed wtf @teslamotors.”\nThe owner also posted an image of what he claimed was a cease-and-desist letter from Tesla’s vice president of legal affairs, Dinna Eskin. The letter cites “unauthorized use of Tesla’s intellectual property in musical content distributed under your name.” \nThe video quickly went viral on BlueSky, where anti-Elon Musk sentiment has helped fuel nationwide protests against Tesla. But users quickly noticed a number of discrepancies, such as the fact that the letter opens “We represent Tesla” despite being signed by the company’s in-house counsel. The letter also uses Eskin’s old title, “Sr. Director and Deputy General Counsel,” despite her current title of VP. And the warning message isn’t formatted like Tesla’s typical in-vehicle alerts and notifications. An X user speculated that the flashing red title was likely just a YouTube video playing on fullscreen to simulate a legitimate error. \nDespite these issues, the video went viral on BlueSky, X, and Reddit — and likely will continue to travel far and wide, confirming many people’s prior opinions about Tesla and Elon Musk.",
+      "raw": "Did Tesla remotely deactivate a Cybertruck in the middle of a highway because the owner featured it in an unauthorized music video? It’s highly unlikely. \nOn Sunday, Instagram user @bighuey313 posted a video of his supposed deactivated Cybertruck, complete with a flashing red warning message on the truck’s main touchscreen. “Dog wtf my cybertruck just shut off on the freeway! 😡” he wrote in the caption. “Almost just crashed wtf @teslamotors.”\nThe owner also posted an image of what he claimed was a cease-and-desist letter from Tesla’s vice president of legal affairs, Dinna Eskin. The letter cites “unauthorized use of Tesla’s intellectual property in musical content distributed under your name.” \nThe video quickly went viral on BlueSky, where anti-Elon Musk sentiment has helped fuel nationwide protests against Tesla. But users quickly noticed a number of discrepancies, such as the fact that the letter opens “We represent Tesla” despite being signed by the company’s in-house counsel. The letter also uses Eskin’s old title, “Sr. Director and Deputy General Counsel,” despite her current title of VP. And the warning message isn’t formatted like Tesla’s typical in-vehicle alerts and notifications. An X user speculated that the flashing red title was likely just a YouTube video playing on fullscreen to simulate a legitimate error. \nDespite these issues, the video went viral on BlueSky, X, and Reddit — and likely will continue to travel far and wide, confirming many people’s prior opinions about Tesla and Elon Musk. \nUpdate August 11th: Tesla posted on X confirming the video is fake.",
       "topics": [
         "Technology"
       ]
@@ -273,19 +286,6 @@
       "raw": "Ocean debuts an email app for Gmail users with triage tools, a task manager, and more.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "def487ec333d747d80c45e7ab30a7de30657a042",
-      "title": "Watch: Monday Night Club",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l0057bts?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-11T17:33:38.000Z",
-      "summary_90w": "",
-      "raw": "Mark Chapman and guests look ahead to the new Premier League season",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -442,6 +442,19 @@
       "raw": "Reddit says that it has caught AI companies scraping its data from the Internet Archive’s Wayback Machine, so it’s going to start blocking the Internet Archive from indexing the vast majority of Reddit. The Wayback Machine will no longer be able to crawl post detail pages, comments, or profiles; instead, it will only be able to index the Reddit.com homepage, which effectively means Internet Archive will only be able to archive insights into which news headlines and posts were most popular on a given day.\n“Internet Archive provides a service to the open web, but we’ve been made aware of instances where AI companies violate platform policies, including ours, and scrape data from the Wayback Machine,” spokesperson Tim Rathschmidt tells The Verge. \nThe Internet Archive’s mission is to keep a digital archive of websites on the internet and “other cultural artifacts,” and the Wayback Machine is a tool you can use to look at pages as they appeared on certain dates, but Reddit believes not all of its content should be archived that way.“Until they’re able to defend their site and comply with platform policies (e.g., respecting user privacy, re: deleting removed content) we’re limiting some of their access to Reddit data to protect redditors,” Rathschmidt says. \nThe limits will start “ramping up” today, and Reddit says it reached out to the Internet Archive “in advance” to “inform them of the limits before they go into effect,” according to Rathschmidt. He says Reddit has also “raised concerns” about the ability of people to scrape content from the Internet Archive in the past.\nReddit has a recent history of cutting off access to scraper tools as AI companies have begun to use (and abuse) them en masse, but it’s willing to provide that data if companies pay. Last year, Reddit struck a deal with Google for both Google Search and AI training data early last year, and a few months later, it started blocking major search engines from crawling its data unless they pay. It also said its infamous API changes from 2023, which forced some third-party apps to shut down, leading to protests, were because those APIs were abused to train AI models. \nReddit also struck an AI deal with OpenAI, but it sued Anthropic in June, claiming Anthropic was still scraping from Reddit even after Anthropic said it wasn’t scraping anymore.\n“We have a longstanding relationship with Reddit and continue to have ongoing discussions about this matter,” Mark Graham, director of the Wayback Machine, says in a statement to The Verge.\nUpdate, August 11th: Added statement from the Wayback Machine.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "d40fb478cd771fbbbfcf1c9f64be7125bddf97ff",
+      "title": "Ghislaine Maxwell court materials to stay secret, judge rules",
+      "url": "https://www.bbc.com/news/articles/c1jnn2r7r47o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-08-11T16:30:07.000Z",
+      "summary_90w": "",
+      "raw": "The judge said there was nothing new to learn from the materials, and releasing them could hurt future grand jury proceedings.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1017,19 +1030,6 @@
       ]
     },
     {
-      "id": "f8384da29fd1f7c684210f2320a2e03c6084666f",
-      "title": "Palace lose appeal against demotion from Europa League",
-      "url": "https://www.bbc.com/sport/football/articles/c1kzzpp04kgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-11T10:28:48.000Z",
-      "summary_90w": "",
-      "raw": "Crystal Palace are unsuccessful in their appeal against being demoted from the Europa League and will play in the Conference League this season.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "441807ddb64b0246b9323978db7b23b42d256aff",
       "title": "Weather tracker: Europe braces for another heatwave with highs of 44C",
       "url": "https://www.theguardian.com/environment/2025/aug/11/weather-tracker-europe-heatwave-spain-portugal-north-america",
@@ -1563,14 +1563,14 @@
       ]
     },
     {
-      "id": "1435e42676c32f05642dc3db3fe3fecbfd52183c",
-      "title": "Standing ovation as first female umpire for Major League Baseball takes to the pitch",
-      "url": "https://www.bbc.com/news/articles/c62wg6djz35o?at_medium=RSS&at_campaign=rss",
+      "id": "59cc58fd6194d07870d360f8d7a9df61efec8846",
+      "title": "Jubilant scenes but bumpy road ahead in post-Hasina Bangladesh",
+      "url": "https://www.bbc.com/news/articles/c741qken2wvo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2025-08-10T00:04:33.000Z",
+      "published": "2025-08-10T01:52:02.000Z",
       "summary_90w": "",
-      "raw": "Jen Pawol donated her hat to a baseball museum after her history-making game on Saturday.",
+      "raw": "Bangladesh marked a year since Sheikh Hasina fled with promises of renewal, but little mention of its problems.",
       "topics": [
         "World"
       ]
@@ -1584,6 +1584,32 @@
       "published": "2025-08-09T23:28:53.000Z",
       "summary_90w": "",
       "raw": "Ali Akbar has sold papers in Paris since 1973 and once counted President Macron among his customers.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "51fe71f183741b8e58951648b1c5b37fe6e4cfec",
+      "title": "They live next to Peru's largest solar complex - so why are they still in the dark?",
+      "url": "https://www.bbc.com/news/articles/c4ge1gw5zd8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-08-09T23:24:53.000Z",
+      "summary_90w": "",
+      "raw": "Pampa Clemesí, in southern Peru, remains in complete darkness despite being near the country’s largest solar plant.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5b28633a5033c3291c9d357dab22dd3aa6179e98",
+      "title": "What it means to be 'culturally' Irish in 2025 is complicated - as Ed Sheeran has shown",
+      "url": "https://www.bbc.com/news/articles/cgln9y13x3yo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-08-09T23:09:31.000Z",
+      "summary_90w": "",
+      "raw": "Ed Sheeran grew up in England but described himself as 'culturally Irish,' prompting debate about what that really means",
       "topics": [
         "World"
       ]
@@ -1612,45 +1638,6 @@
       "raw": "Some six months after DeepSeek shook Silicon Valley, is the Chinese AI chatbot still relevant?",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "24a0933c7fe0d0ad55950247c065b72c8734a2c0",
-      "title": "Atlanta police officer dies after shooting near health agency HQ",
-      "url": "https://www.bbc.com/news/articles/cp3ekez0k2xo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-08-09T20:17:00.000Z",
-      "summary_90w": "",
-      "raw": "Officials say the 30-year-old suspect may have been ill, or thought he was ill from a Covid vaccine.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "018f3d29f9ef659dddf70d54b5c0a1a88ea232e9",
-      "title": "Putin gives Trump envoy award for CIA official's son killed fighting in Ukraine",
-      "url": "https://www.bbc.com/news/articles/c04rd19e5epo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-08-09T16:14:54.000Z",
-      "summary_90w": "",
-      "raw": "Michael Gloss, 21, who was killed in Ukraine last year, was the son of Juliane Gallina, a CIA deputy director,",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a71e48b0b412344057ba2bedb920a0931bd1470c",
-      "title": "North Korea dismantles propaganda speakers at border",
-      "url": "https://www.bbc.com/news/articles/cm2klzxldl6o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-08-09T12:34:26.000Z",
-      "summary_90w": "",
-      "raw": "The move appears to be a positive reaction to overtures from the South's newly elected president.",
-      "topics": [
-        "World"
       ]
     },
     {
