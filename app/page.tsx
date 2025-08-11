@@ -122,6 +122,24 @@ const FEED_URL =
         ? '/newsflash/data/feed.json'
         : '/data/feed.json');
 
+const FEED_FALLBACK =
+  process.env.NEXT_PUBLIC_FEED_FALLBACK
+  || 'https://raw.githubusercontent.com/oyemello/newsflash/gh-pages/data/feed.json';
+
+async function fetchJsonWithFallback(primary: string, fallback: string) {
+  const bust = (u:string)=> u + (u.includes('?')?'&':'?') + 'v=' + Date.now();
+  try {
+    const r = await fetch(bust(primary), { cache:'no-store' });
+    if (r.ok) return await r.json();
+    console.warn('Primary feed failed', r.status);
+  } catch (e:any) {
+    console.warn('Primary feed error:', e?.message || e);
+  }
+  const r2 = await fetch(bust(fallback), { cache:'no-store' });
+  if (!r2.ok) throw new Error('Both feed URLs failed: ' + r2.status);
+  return await r2.json();
+}
+
 export default function Home() {
   // 1A: Last updated polling
   const { label, lastUpdatedError, version } = useLastUpdated(60000);
@@ -238,10 +256,7 @@ export default function Home() {
     const fetchNews = async () => {
       try {
         setLoading(true);
-        const response = await fetch(FEED_URL);
-        console.log("fetchNews response.status:", response.status);
-        if (!response.ok) throw new Error("Feed not found");
-        const data = await response.json();
+        const data = await fetchJsonWithFallback(FEED_URL, FEED_FALLBACK);
         const items = Array.isArray(data) ? data : (data.items ?? []);
         console.log('feed items len =', items.length);
         setNews(items);
@@ -258,11 +273,8 @@ export default function Home() {
     fetchNews();
     const interval = setInterval(async () => {
       try {
-        const response = await fetch(FEED_URL);
-        if (!response.ok) return;
-        const data = await response.json();
+        const data = await fetchJsonWithFallback(FEED_URL, FEED_FALLBACK);
         const items = Array.isArray(data) ? data : (data.items ?? []);
-        console.log('feed items len =', items.length);
         if (data.version && data.version !== version) {
           setNews(items);
           setFilteredNews(items);
