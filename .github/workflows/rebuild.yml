@@ -1,21 +1,19 @@
 name: Rebuild Feed and Deploy
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/15 * * * *'  # every 15 minutes
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  rebuild-and-deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '20'
 
@@ -24,64 +22,35 @@ jobs:
           npm install
           npm install -D tsx typescript
 
-      - name: Rebuild feed (UA + retries)
+      - name: Rebuild feed
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          DISABLE_SUMMARIES: ${{ secrets.DISABLE_SUMMARIES || '1' }}
+          DISABLE_SUMMARIES: ${{ secrets.DISABLE_SUMMARIES }}
           RSS_USER_AGENT: ${{ secrets.RSS_USER_AGENT }}
         run: |
           npx tsx scripts/rebuild.ts
-          echo "::group::Check public/data/feed.json (post-rebuild)"
-          test -f public/data/feed.json || (echo "ERROR: public/data/feed.json missing after rebuild" && exit 1)
-          node -e "const p='public/data/feed.json',j=require('fs').readFileSync(p,'utf8');try{JSON.parse(j);console.log('OK JSON at',p)}catch(e){console.error('INVALID JSON at',p);process.exit(1)}"
-          head -c 200 public/data/feed.json || true; echo
-          echo "::endgroup::"
+          test -f public/data/feed.json || (echo "ERROR: public/data/feed.json missing" && exit 1)
+          node -e "const j=require('fs').readFileSync('public/data/feed.json','utf8');JSON.parse(j);console.log('feed.json OK');"
 
-      - name: Remove API routes
-        run: rm -rf app/api || true
-
-      - name: Build static site
+      - name: Prepare static export (Pages mode)
         env:
+          NEXT_PUBLIC_IS_PAGES: '1'
           NEXT_TELEMETRY_DISABLED: '1'
         run: npm run build
 
-      - name: Ensure data folder in out
-        run: mkdir -p out/data
-
-      - name: Copy feed into out
-        run: cp -f public/data/feed.json out/data/feed.json
-
-      - name: Verify feed in out
+      - name: Ensure feed in export + health markers
         run: |
-          echo "::group::Check out/data/feed.json (pre-deploy)"
-          test -f out/data/feed.json || (echo "ERROR: out/data/feed.json missing pre-deploy" && ls -R out && exit 1)
-          node -e "const p='out/data/feed.json',j=require('fs').readFileSync(p,'utf8');try{JSON.parse(j);console.log('OK JSON at',p)}catch(e){console.error('INVALID JSON at',p);process.exit(1)}"
-          head -c 200 out/data/feed.json || true; echo
-          echo "::endgroup::"
-
-      - name: Upload feed artifact (debug)
-        uses: actions/upload-artifact@v4
-        with:
-          name: feed-json
-          path: out/data/feed.json
+          mkdir -p out/data
+          cp -f public/data/feed.json out/data/feed.json
+          date -u +%s > out/data/health.txt
+          echo "ok" > out/health.txt
 
       - name: Create .nojekyll
         run: |
           mkdir -p out
           touch out/.nojekyll
 
-      - name: Add vercel.json for static hosting
-        run: |
-          cat > out/vercel.json <<'JSON'
-          {
-            "version": 2,
-            "framework": "static",
-            "buildCommand": "",
-            "outputDirectory": "."
-          }
-          JSON
-
-      - name: Deploy to Pages (gh-pages)
+      - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

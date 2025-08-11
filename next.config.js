@@ -1,13 +1,6 @@
 /** @type {import('next').NextConfig} */
-const isProd = process.env.NODE_ENV === 'production';
-const repo = 'newsflash';
-
-const nextConfig = {
-  output: 'export',
-  images: { unoptimized: true },
-  trailingSlash: true,
-  basePath: isProd ? `/${repo}` : '',
-  assetPrefix: isProd ? `/${repo}/` : '',
+const isPages = process.env.NEXT_PUBLIC_IS_PAGES === '1';
+module.exports = {
+  ...(isPages ? { output: 'export', basePath: '/newsflash', assetPrefix: '/newsflash/' } : {}),
+  reactStrictMode: true,
 };
-
-module.exports = nextConfig;
