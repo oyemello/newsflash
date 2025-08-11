@@ -18,11 +18,15 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Install deps (robust, no lock strictness)
+      - name: Install deps (no lock strictness)
         run: |
           npm install
-          npm install -D tsx
-      - name: Rebuild feed
+          npm install -D tsx typescript
+      - name: Rebuild feed (UA + retries)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DISABLE_SUMMARIES: ${{ secrets.DISABLE_SUMMARIES || '1' }}
+          RSS_USER_AGENT: ${{ secrets.RSS_USER_AGENT }}
         run: npx tsx scripts/rebuild.ts
       - name: Remove API routes for static export
         run: rm -rf app/api || true
