@@ -34,8 +34,9 @@ jobs:
       - name: Remove API routes for static export
         run: rm -rf app/api || true
       - name: Build static site (output: export)
-        run: |
-          NEXT_TELEMETRY_DISABLED=1 npm run build
+        env:
+          NEXT_TELEMETRY_DISABLED: "1"
+        run: npm run build
       - name: Ensure data folder in out/
         run: mkdir -p out/data
       - name: Copy feed into out/
