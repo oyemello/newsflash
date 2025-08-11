@@ -70,6 +70,17 @@ jobs:
           mkdir -p out
           touch out/.nojekyll
 
+      - name: Add vercel.json for static hosting
+        run: |
+          cat > out/vercel.json <<'JSON'
+          {
+            "version": 2,
+            "framework": "static",
+            "buildCommand": "",
+            "outputDirectory": "."
+          }
+          JSON
+
       - name: Deploy to Pages (gh-pages)
         uses: peaceiris/actions-gh-pages@v3
         with:
