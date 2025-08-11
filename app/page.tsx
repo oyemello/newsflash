@@ -1,7 +1,23 @@
 "use client";
 
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { useEffect, useMemo, useState } from "react";
 import { Item } from "@/lib/news";
+
+const TOPIC_TABS = ["All","World","Business","Technology","Markets","Sports","Entertainment"];
+
+function topicForItem(item: Item): string {
+  if (item.topics && item.topics.length) return (item.topics[0] || 'World');
+  const sid = (item.source_id || '').toLowerCase();
+  const t = (item.title || '').toLowerCase();
+  if (sid.includes('world')) return 'World';
+  if (sid.includes('business') || t.includes('market')) return 'Business';
+  if (sid.includes('tech') || sid.includes('technology') || t.includes('ai')) return 'Technology';
+  if (sid.includes('market')) return 'Markets';
+  if (sid.includes('sport')) return 'Sports';
+  if (sid.includes('entertain')) return 'Entertainment';
+  return 'World';
+}
 
 // --- Preferences Hook ---
 function usePrefs(allSources: string[], allTopics: string[]) {
@@ -53,7 +69,7 @@ function usePrefs(allSources: string[], allTopics: string[]) {
 }
 
 function useLastUpdated(pollMs = 60000) {
-  const FEED_URL = "https://oyemello.github.io/newsflash/public/data/feed.json";
+  // Use FEED_URL from above
   const [iso, setIso] = useState<string | null>(null);
   const [version, setVersion] = useState<string | null>(null);
   const [lastUpdatedError, setLastUpdatedError] = useState<string | null>(null);
@@ -100,25 +116,40 @@ function useLastUpdated(pollMs = 60000) {
   return { label, lastUpdatedError, version };
 }
 
-const TOPIC_TABS = [
-  "World", "Business", "Technology", "Markets", "Sports", "Entertainment"
-];
+const FEED_URL = '/data/feed.json';
 
 export default function Home() {
+  // 1A: Last updated polling
   const { label, lastUpdatedError, version } = useLastUpdated(60000);
+  // 1B: State declarations
   const [news, setNews] = useState<Item[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState("");
   const [filteredNews, setFilteredNews] = useState<Item[]>([]);
   const [newsError, setNewsError] = useState<string | null>(null);
   const [activeTopic, setActiveTopic] = useState<string>(TOPIC_TABS[0]);
-  const [foldState, setFoldState] = useState<"none"|"fold-out"|"fold-in">("none");
-  const [pendingTopic, setPendingTopic] = useState<string|null>(null);
   const [prefsOpen, setPrefsOpen] = useState(false);
+  // --- Theme state ---
+  const [theme, setTheme] = useState<'light'|'dark'>(
+    typeof window !== 'undefined'
+      ? (localStorage.getItem('newsflash.theme') as 'light'|'dark' ?? 'light')
+      : 'light'
+  );
+  useEffect(() => {
+    localStorage.setItem('newsflash.theme', theme);
+    document.body.classList.toggle('bg-dark', theme === 'dark');
+    document.body.classList.toggle('bg-light', theme === 'light');
+    document.body.classList.toggle('text-light', theme === 'dark');
+    document.body.classList.toggle('text-dark', theme === 'light');
+  }, [theme]);
+  function handleThemeSwitch() {
+    setTheme(t => t === 'light' ? 'dark' : 'light');
+  }
 
-  const FEED_URL = "https://oyemello.github.io/newsflash/public/data/feed.json";
+  // --- Debug overlay ---
+  const counts = { news: news?.length ?? 0, filtered: filteredNews?.length ?? 0 };
 
-  // --- Build allSources/allTopics ---
+  // --- Preferences ---
   const allSources = useMemo(() => {
     const set = new Set<string>();
     news.forEach(item => {
@@ -127,7 +158,6 @@ export default function Home() {
     });
     return Array.from(set).sort();
   }, [news]);
-
   const allTopics = useMemo(() => {
     const set = new Set<string>();
     news.forEach(item => {
@@ -135,311 +165,280 @@ export default function Home() {
         item.topics.forEach(t => set.add(t));
       }
     });
-    // Fallback buckets if none found
     if (set.size === 0) {
       ["world","business","technology","markets","sports","entertainment"].forEach(t => set.add(t));
     }
     return Array.from(set).sort();
   }, [news]);
-
-  // --- Preferences Hook ---
   const prefs = usePrefs(allSources, allTopics);
+  const { sources, topics, setSources, setTopics } = prefs;
 
-  // --- Filtering ---
+  // Add state for source preferences
+  const [sourcePrefs, setSourcePrefs] = useState<string[]>(() => {
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('sourcePrefs');
+      if (saved) return JSON.parse(saved);
+    }
+    return [];
+  });
+
+  // Modal state for sources
+  const [showSourceModal, setShowSourceModal] = useState(false);
+
+  // Save source preferences
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('sourcePrefs', JSON.stringify(sourcePrefs));
+    }
+  }, [sourcePrefs]);
+
+  // --- Filter state ---
+  const [sortOrder, setSortOrder] = useState<'latest'|'oldest'>('latest');
+
+  // --- Filtering effect ---
   useEffect(() => {
     let filtered = news;
-    if (prefs.sources.length) {
+    if (sources.length) {
       filtered = filtered.filter(item =>
-        prefs.sources.includes(item.source_name || item.source_id)
+        sources.includes(item.source_name || item.source_id)
       );
     }
-    if (prefs.topics.length) {
+    if (topics.length) {
       filtered = filtered.filter(item =>
-        (item.topics && item.topics.some(t => prefs.topics.includes(t)))
+        (item.topics && item.topics.some(t => topics.includes(t)))
       );
     }
     if (searchQuery.trim() !== "") {
       filtered = filtered.filter(
         (item) =>
           item.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-          (item.summary_90w || "").toLowerCase().includes(searchQuery.toLowerCase()) ||
-          item.source_name.toLowerCase().includes(searchQuery.toLowerCase())
+          (item.summary_90w ?? '').toLowerCase().includes(searchQuery.toLowerCase()) ||
+          (item.source_name ?? item.source_id ?? '').toLowerCase().includes(searchQuery.toLowerCase())
       );
     }
-    setFilteredNews(filtered);
-  }, [news, prefs.sources, prefs.topics, searchQuery]);
-
-  // Filtered by topic tab
-  const tabFilteredNews = useMemo(() => {
-    return filteredNews.filter(item => {
-      const topics = (item.topics && item.topics.length) ? item.topics : [item.source_id?.toLowerCase()];
-      return topics.some(t => t && t.toLowerCase() === activeTopic.toLowerCase());
+    // Sort by date
+    filtered = filtered.slice().sort((a, b) => {
+      const da = new Date(a.published ?? 0).getTime();
+      const db = new Date(b.published ?? 0).getTime();
+      return sortOrder === 'latest' ? db - da : da - db;
     });
+    setFilteredNews(filtered);
+  }, [news, sources, topics, searchQuery, sortOrder]);
+  // 1H: Memo for listForTab
+  const listForTab = useMemo(() => {
+    if (activeTopic === "All") return filteredNews;
+    return filteredNews.filter(i => topicForItem(i).toLowerCase() === activeTopic.toLowerCase());
   }, [filteredNews, activeTopic]);
-
-  // Animation logic
-  function handleTabClick(tab: string) {
-    if (tab === activeTopic || foldState !== "none") return;
-    setPendingTopic(tab);
-    setFoldState("fold-out");
-    setTimeout(() => {
-      setActiveTopic(tab);
-      setFoldState("fold-in");
-      setTimeout(() => setFoldState("none"), 230); // match CSS duration
-    }, 230); // fold-out duration
-  }
-
-  // Check if active tab is in selected topics
-  const topicInPrefs = prefs.topics.length === 0 || prefs.topics.some(t => t.toLowerCase() === activeTopic.toLowerCase());
-
-  // Fetch feed from GitHub Pages
-  const fetchNews = async () => {
-    try {
-      setLoading(true);
-      const response = await fetch(FEED_URL);
-      if (!response.ok) throw new Error("Feed not found");
-      const data = await response.json();
-      if (data.items && Array.isArray(data.items)) {
-        setNews(data.items);
-        setFilteredNews(data.items);
+  // 1I: Initial fetch and polling
+  useEffect(() => {
+    const fetchNews = async () => {
+      try {
+        setLoading(true);
+        const response = await fetch(FEED_URL);
+        console.log("fetchNews response.status:", response.status);
+        if (!response.ok) throw new Error("Feed not found");
+        const data = await response.json();
+        const items = Array.isArray(data) ? data : (data.items ?? []);
+        console.log('feed items len =', items.length);
+        setNews(items);
+        setFilteredNews(items);
         setNewsError(null);
-      } else {
+      } catch (err: any) {
         setNews([]);
         setFilteredNews([]);
-        setNewsError(null);
+        setNewsError(err?.message || "Failed to fetch news");
+      } finally {
+        setLoading(false);
       }
-    } catch (err: any) {
-      setNews([]);
-      setFilteredNews([]);
-      setNewsError(err?.message || "Failed to fetch news");
-    } finally {
-      setLoading(false);
-    }
-  };
-
-  // Initial fetch and polling
-  useEffect(() => {
+    };
     fetchNews();
     const interval = setInterval(async () => {
       try {
         const response = await fetch(FEED_URL);
         if (!response.ok) return;
         const data = await response.json();
+        const items = Array.isArray(data) ? data : (data.items ?? []);
+        console.log('feed items len =', items.length);
         if (data.version && data.version !== version) {
-          setNews(data.items || []);
-          setFilteredNews(data.items || []);
+          setNews(items);
+          setFilteredNews(items);
+          setNewsError(null);
         }
       } catch {}
     }, 60000);
     return () => clearInterval(interval);
   }, [version]);
 
-  const formatDate = (dateString: string | null) => {
-    if (!dateString) return "Unknown date";
-    const date = new Date(dateString);
-    const now = new Date();
-    const diffInHours = Math.floor((now.getTime() - date.getTime()) / (1000 * 60 * 60));
-    if (diffInHours < 1) return "Just now";
-    if (diffInHours < 24) return `${diffInHours}h ago`;
-    if (diffInHours < 48) return "Yesterday";
-    return date.toLocaleDateString("en-US", {
-      month: "short",
-      day: "numeric",
-      year: "numeric",
-    });
-  };
+  // Add state for new feed detection
+  const [hasNewFeed, setHasNewFeed] = useState(false);
 
-  if (loading && news.length === 0) {
+  // Polling logic (assume feedVersion is tracked)
+  useEffect(() => {
+    const interval = setInterval(async () => {
+      try {
+        const res = await fetch('/data/feed.json');
+        const data = await res.json();
+        if (data.version && data.version !== version) {
+          setHasNewFeed(true);
+        }
+      } catch {}
+    }, 60000);
+    return () => clearInterval(interval);
+  }, [version]);
+
+  function handleTabClick(tab: string) {
+    setActiveTopic(tab);
+  }
+
+  // --- Render ---
+  if (loading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800">
-        <div className="container mx-auto px-4 py-8">
-          <div className="text-center">
-            <div className="animate-pulse">
-              <h1 className="text-4xl font-bold text-gray-800 dark:text-white mb-4">NewsFlash</h1>
-              <p className="text-gray-600 dark:text-gray-300">Loading the latest developer news...</p>
-            </div>
-          </div>
+      <main className="flex items-center justify-center h-screen">
+        <div className="text-gray-600 text-base">Loading latest feed…</div>
+      </main>
+    );
+  }
+  if (newsError) {
+    return (
+      <main className="flex items-center justify-center h-screen">
+        <div className="text-center">
+          <h1 className="text-2xl font-bold mb-4">Error loading news</h1>
+          <p className="text-gray-700">{newsError}</p>
         </div>
-      </div>
+      </main>
     );
   }
 
-  // --- Preferences Modal ---
-  function handleSavePrefs() {
-    // Persist and update URL
-    localStorage.setItem("newsflash.sources", JSON.stringify(prefs.sources));
-    localStorage.setItem("newsflash.topics", JSON.stringify(prefs.topics));
-    const qs = prefs.toQueryString();
-    window.history.replaceState({}, "", qs ? `?${qs}` : window.location.pathname);
-    setPrefsOpen(false);
-  }
-
+  const hasNews = (news?.length ?? 0) > 0;
   // --- UI ---
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800">
-      <div className="container mx-auto px-4 py-8">
-        {/* Sticky Topic Tabs */}
-        <nav className="sticky top-0 z-40 bg-white/80 dark:bg-gray-900/80 backdrop-blur flex gap-2 mb-4 py-2 px-2 rounded shadow-sm">
+    <main className={`container py-5 ${theme === 'dark' ? 'bg-dark text-light' : 'bg-light text-dark'}`}>
+      <div className={`position-fixed top-0 end-0 m-3 p-2 rounded shadow ${theme === 'dark' ? 'bg-dark text-white' : 'bg-light text-dark'}`} style={{zIndex:50, fontSize:12}}>
+        <div>items: {counts.news}</div>
+        <div>shown: {counts.filtered}</div>
+      </div>
+      {/* --- Header --- */}
+      <header className="d-flex flex-column align-items-center justify-content-center mb-3" style={{borderBottom: '1px solid #eee'}}>
+        <div className="d-flex align-items-center gap-2" style={{background: theme === 'dark' ? 'transparent' : 'rgba(255,255,255,.9)', width: '100%', justifyContent: 'center', padding: '12px 0'}}>
+          <span className="fw-semibold">Sort by:</span>
+          <button className={`btn btn-sm ${sortOrder === 'latest' ? 'btn-primary' : 'btn-outline-primary'}`} onClick={() => setSortOrder('latest')}>Latest</button>
+          <button className={`btn btn-sm ${sortOrder === 'oldest' ? 'btn-primary' : 'btn-outline-primary'}`} onClick={() => setSortOrder('oldest')}>Oldest</button>
+          <button className="btn btn-outline-secondary btn-sm" onClick={() => setShowSourceModal(true)}>
+            Sources{sourcePrefs.length > 0 ? ` (${sourcePrefs.length})` : ''}
+          </button>
+          <button className="btn btn-outline-primary btn-sm" onClick={handleThemeSwitch}>
+            {theme === 'dark' ? 'Light Mode' : 'Dark Mode'}
+          </button>
+        </div>
+      </header>
+
+      {/* Genre/topic tabs centered */}
+      <div className="d-flex justify-content-center mb-3">
+        {/* --- Topic Tabs --- */}
+        <ul className="nav nav-tabs mb-4">
           {TOPIC_TABS.map(tab => (
-            <button
-              key={tab}
-              className={`px-3 py-1 rounded font-medium text-sm transition-colors duration-150 ${tab === activeTopic ? "bg-blue-600 text-white" : "bg-gray-100 text-gray-700 hover:bg-blue-100"}`}
-              onClick={() => handleTabClick(tab)}
-              aria-current={tab === activeTopic ? "page" : undefined}
-            >
-              {tab}
-            </button>
+            <li className="nav-item" key={tab}>
+              <button
+                className={`nav-link${activeTopic === tab ? ' active' : ''}`}
+                aria-current={activeTopic === tab ? "page" : undefined}
+                style={activeTopic === tab ? { pointerEvents: 'none' } : {}}
+                onClick={() => activeTopic !== tab && handleTabClick(tab)}
+                disabled={activeTopic === tab}
+              >
+                {tab}
+              </button>
+            </li>
           ))}
-        </nav>
-        {/* Header */}
-        <header className="flex items-center gap-3 mb-8">
-          <h1 className="text-4xl font-bold gradient-text mb-2">NewsFlash</h1>
-          <div className="ml-auto flex items-center gap-2">
-            <div className="text-xs text-gray-500">
-              Last updated: <span suppressHydrationWarning>{label}</span>
-              {lastUpdatedError ? <span className="text-red-500 ml-2">(offline)</span> : null}
-            </div>
-            <button
-              className="ml-4 px-2 py-1 text-xs rounded bg-gray-200 hover:bg-gray-300 border border-gray-300"
-              onClick={() => setPrefsOpen(true)}
-            >
-              Preferences
-            </button>
-          </div>
-        </header>
-        {/* Preferences Modal/Panel */}
-        {prefsOpen && (
-          <div className="fixed inset-0 bg-black bg-opacity-30 flex items-center justify-center z-50">
-            <div className="bg-white rounded-lg shadow-lg p-6 w-full max-w-sm">
-              <h2 className="text-lg font-semibold mb-4">Preferences</h2>
-              <div className="mb-4">
-                <div className="font-medium mb-1">Sources</div>
-                <div className="max-h-32 overflow-y-auto border rounded p-2 bg-gray-50">
-                  {allSources.map(src => (
-                    <label key={src} className="block text-sm mb-1">
-                      <input
-                        type="checkbox"
-                        checked={prefs.sources.includes(src)}
-                        onChange={e => {
-                          if (e.target.checked) prefs.setSources([...prefs.sources, src]);
-                          else prefs.setSources(prefs.sources.filter(s => s !== src));
-                        }}
-                        className="mr-2"
-                      />
-                      {src}
-                    </label>
-                  ))}
-                </div>
-              </div>
-              <div className="mb-4">
-                <div className="font-medium mb-1">Topics</div>
-                <div className="max-h-32 overflow-y-auto border rounded p-2 bg-gray-50">
-                  {allTopics.map(topic => (
-                    <label key={topic} className="block text-sm mb-1">
-                      <input
-                        type="checkbox"
-                        checked={prefs.topics.includes(topic)}
-                        onChange={e => {
-                          if (e.target.checked) prefs.setTopics([...prefs.topics, topic]);
-                          else prefs.setTopics(prefs.topics.filter(t => t !== topic));
-                        }}
-                        className="mr-2"
-                      />
-                      {topic}
-                    </label>
-                  ))}
-                </div>
-              </div>
-              <div className="flex justify-end gap-2 mt-4">
-                <button
-                  className="px-3 py-1 rounded bg-gray-200 hover:bg-gray-300 border border-gray-300"
-                  onClick={() => setPrefsOpen(false)}
-                >
-                  Cancel
-                </button>
-                <button
-                  className="px-3 py-1 rounded bg-blue-600 text-white hover:bg-blue-700"
-                  onClick={handleSavePrefs}
-                >
-                  Save & Close
-                </button>
-              </div>
-            </div>
+        </ul>
+      </div>
+
+      {/* --- News List --- */}
+      {hasNews && listForTab.length === 0 && (
+        <div className="alert alert-warning small mb-2" role="alert">
+          No items in this topic yet.
+        </div>
+      )}
+      <div className="row g-4">
+        {hasNews && listForTab.length === 0 && (
+          <div className="col-12 text-center py-5">
+            <h2 className="h4 fw-bold mb-2">No news found</h2>
+            <p className="text-muted">Try adjusting your preferences or check back later.</p>
           </div>
         )}
-        {/* Hint if tab not in selected topics */}
-        {!topicInPrefs && (
-          <div className="text-xs text-yellow-700 bg-yellow-50 border border-yellow-200 rounded px-2 py-1 mb-2 inline-block">
-            Not in selected topics — <button className="underline" onClick={() => setPrefsOpen(true)}>adjust Preferences</button>
+        {!hasNews && (
+          <div className="col-12 text-center py-5">
+            <span className="text-muted">Loading latest feed…</span>
           </div>
         )}
-        {/* Cards with fold animation */}
-        <div className={`fold-stage ${foldState === "fold-out" ? "fold-out" : foldState === "fold-in" ? "fold-in" : ""}`}> 
-          <div className="fold-content">
-            <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-              {tabFilteredNews.map((item) => (
-                <article
-                  key={item.id}
-                  className="bg-white dark:bg-gray-800 rounded-lg shadow-md card-hover p-6"
-                >
-                  <div className="flex items-start justify-between mb-3">
-                    <span className="badge badge-news">{item.source_id}</span>
-                    <span className="text-sm text-gray-500 dark:text-gray-400">
-                      {formatDate(item.published)}
-                    </span>
-                  </div>
-                  <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-2 line-clamp-2">
+        {listForTab.length > 0 && listForTab.map((item, index) => (
+          <div key={item.id ?? item.url} className="col-md-6 col-lg-4">
+            <div className={`card h-100 shadow-sm ${theme === 'dark' ? 'bg-secondary text-light' : ''}`}> 
+              <div className="card-body d-flex flex-column">
+                <div className="d-flex justify-content-between mb-2">
+                  <span className="text-secondary small">{formatDate(item.published)}</span>
+                  <span className="text-secondary small">{item.source_name ?? item.source_id ?? ''}</span>
+                </div>
+                <h5 className="card-title mb-2">
+                  <a href={item.url} target="_blank" rel="noopener noreferrer" className={`stretched-link text-decoration-none ${theme === 'dark' ? 'text-light' : 'text-dark'}` }>
                     {item.title}
-                  </h2>
-                  <p className="text-gray-600 dark:text-gray-300 mb-4 line-clamp-3">
-                    {item.summary_90w || item.title}
-                  </p>
-                  <div className="flex items-center justify-between">
-                    <span className="text-sm text-gray-500 dark:text-gray-400">
-                      {item.source_name}
-                    </span>
-                    <a
-                      href={item.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="btn-secondary text-sm"
-                    >
-                      Read More →
-                    </a>
-                  </div>
-                  {/* Metadata */}
-                  {(item.key_fact || item.topics?.length) && (
-                    <div className="mt-3 pt-3 border-t border-gray-200 dark:border-gray-700">
-                      <div className="flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
-                        {item.key_fact && <span className="badge badge-release">{item.key_fact}</span>}
-                        {item.topics?.slice(0, 3).map((topic) => (
-                          <span key={topic} className="text-blue-600 dark:text-blue-400">
-                            #{topic}
-                          </span>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-                </article>
-              ))}
-            </div>
-            {/* Empty State */}
-            {tabFilteredNews.length === 0 && !loading && (
-              <div className="text-center py-12">
-                <p className="text-gray-500 dark:text-gray-400 text-lg">
-                  {searchQuery ? "No news found matching your search." : "No news available at the moment."}
+                  </a>
+                </h5>
+                <p className="card-text text-muted small flex-grow-1">
+                  {item.summary_90w ?? ''}
                 </p>
               </div>
-            )}
+            </div>
+          </div>
+        ))}
+      </div>
+
+      {/* Source Preferences Modal */}
+      {showSourceModal && (
+        <div className="fixed inset-0 bg-opacity-30 z-50" onClick={() => setShowSourceModal(false)}>
+          <div className="modal-dialog modal-dialog-centered" onClick={e => e.stopPropagation()}>
+            <div className={`modal-content p-3 ${theme === 'dark' ? 'bg-modal-dark' : 'bg-modal-light'} modal-lg" style={{minWidth: '340px', maxWidth: '480px'}}`}>
+              <div className="mb-3">
+                {allSources.map(src => (
+                  <label key={src} className="d-block mb-2">
+                    <input
+                      type="checkbox"
+                      checked={sourcePrefs.includes(src)}
+                      onChange={e => {
+                        setSourcePrefs(prefs =>
+                          e.target.checked
+                            ? [...prefs, src]
+                            : prefs.filter(s => s !== src)
+                        );
+                      }}
+                    />{' '}
+                    {src}
+                  </label>
+                ))}
+              </div>
+              <button className="btn btn-primary btn-sm" onClick={() => setShowSourceModal(false)}>Done</button>
+            </div>
           </div>
         </div>
-        {/* Footer */}
-        <footer className="text-center mt-12 pt-8 border-t border-gray-200 dark:border-gray-700">
-          <p className="text-gray-500 dark:text-gray-400">
-            Powered by RSS Feeds • Built with Next.js
-          </p>
-        </footer>
-      </div>
-    </div>
+      )}
+
+      {/* New feed alert */}
+      {hasNewFeed && (
+        <div className="alert alert-info text-center" style={{position: 'fixed', top: 0, left: 0, right: 0, zIndex: 100}}>
+          New news available! <button className="btn btn-sm btn-primary ms-2" onClick={() => window.location.reload()}>Refresh</button>
+        </div>
+      )}
+    </main>
   );
+}
+
+function formatDate(dateString: string | null) {
+  if (!dateString) return "Unknown date";
+  const date = new Date(dateString);
+  const now = new Date();
+  const diffInHours = Math.floor((now.getTime() - date.getTime()) / (1000 * 60 * 60));
+  if (diffInHours < 1) return "Just now";
+  if (diffInHours === 1) return "1 hour ago";
+  if (diffInHours < 24) return `${diffInHours} hours ago`;
+  const options: Intl.DateTimeFormatOptions = { year: 'numeric', month: 'short', day: 'numeric' };
+  return new Intl.DateTimeFormat('en-US', options).format(date);
 }

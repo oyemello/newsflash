@@ -11,7 +11,13 @@ export type Item = {
 
 const SOURCES = [
   { id: 'guardian-world', url: 'https://www.theguardian.com/world/rss' },
-  { id: 'verge-tech', url: 'https://www.theverge.com/rss/index.xml' }
+  { id: 'verge-tech', url: 'https://www.theverge.com/rss/index.xml' },
+  { id: 'bbc-business', url: 'http://feeds.bbci.co.uk/news/business/rss.xml' },
+  { id: 'reuters-markets', url: 'https://www.reuters.com/markets/rss' },
+  { id: 'nyt-markets', url: 'https://rss.nytimes.com/services/xml/rss/nyt/Markets.xml' },
+  { id: 'yahoo-markets', url: 'https://finance.yahoo.com/news/rssindex' },
+  { id: 'espn-sports', url: 'https://www.espn.com/espn/rss/news' },
+  { id: 'guardian-entertainment', url: 'https://www.theguardian.com/uk/culture/rss' }
 ];
 
 const parser = new Parser();
@@ -30,13 +36,24 @@ export async function fetchRss(): Promise<Item[]> {
       const title = (it.title || '').trim();
       const url = it.link!;
       const id = sha1((title + url).toLowerCase()).slice(0, 16);
+      // --- Topic assignment ---
+      let topics: string[] = [];
+      const lowerTitle = title.toLowerCase();
+      if (s.id.includes('world') || lowerTitle.includes('world')) topics.push('World');
+      if (s.id.includes('business') || lowerTitle.includes('business') || lowerTitle.includes('market')) topics.push('Business');
+      if (s.id.includes('tech') || s.id.includes('technology') || lowerTitle.includes('tech') || lowerTitle.includes('ai') || lowerTitle.includes('technology')) topics.push('Technology');
+      if (s.id.includes('market') || lowerTitle.includes('market')) topics.push('Markets');
+      if (s.id.includes('sport') || lowerTitle.includes('sport')) topics.push('Sports');
+      if (s.id.includes('entertain') || lowerTitle.includes('entertain')) topics.push('Entertainment');
+      if (topics.length === 0) topics.push('World');
       items.push({
         id, title, url,
         source_id: s.id,
         source_name: feed.title || s.id,
         published: (it as any).isoDate || it.pubDate || null,
         image: (it as any).enclosure?.url || null,
-        raw: (it as any).contentSnippet || (it as any).content || ''
+        raw: (it as any).contentSnippet || (it as any).content || '',
+        topics
       });
     }
   }
@@ -50,7 +67,7 @@ export async function summarizeBatch(items: Item[]): Promise<Item[]> {
       ...i,
       summary_90w: (i.raw || i.title).slice(0, 400),
       key_fact: '',
-      topics: [],
+      topics: i.topics ?? [], // <-- preserve topics from fetchRss
       entities: [],
       region: '',
       lang: 'en'
@@ -61,7 +78,7 @@ export async function summarizeBatch(items: Item[]): Promise<Item[]> {
   for (const i of items) {
     const prompt = `
 You are a professional news editor.
-Summarize in 60–90 words, neutral tone. Include exactly one concise key fact phrase.
+Summarize in 60 words, neutral tone. Include exactly one concise key fact phrase.
 Return strict JSON:
 {
  "summary_90w": "...",
