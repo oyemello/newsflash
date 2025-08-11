@@ -14,9 +14,22 @@ type FeedItem = {
 };
 
 const SOURCES = [
-  { id: "guardian-world", url: "https://www.theguardian.com/world/rss", topics: ["World"] },
-  { id: "verge-tech", url: "https://www.theverge.com/rss/index.xml", topics: ["Technology"] },
-  // add others here…
+  // BBC News (official RSS)
+  { id: "bbc-top",    url: "https://feeds.bbci.co.uk/news/rss.xml",                 topics: ["World"] },
+  { id: "bbc-world",  url: "https://feeds.bbci.co.uk/news/world/rss.xml",           topics: ["World"] },
+  { id: "bbc-business", url: "https://feeds.bbci.co.uk/news/business/rss.xml",     topics: ["Business"] },
+  { id: "bbc-tech",   url: "https://feeds.bbci.co.uk/news/technology/rss.xml",      topics: ["Technology"] },
+
+  // NPR (official RSS)
+  { id: "npr-top",    url: "https://feeds.npr.org/1001/rss.xml",                    topics: ["World"] },
+  { id: "npr-business", url: "https://feeds.npr.org/1006/rss.xml",                  topics: ["Business"] },
+  { id: "npr-tech",   url: "https://feeds.npr.org/1019/rss.xml",                    topics: ["Technology"] },
+
+  // The Guardian (official RSS)
+  { id: "guardian-world", url: "https://www.theguardian.com/world/rss",             topics: ["World"] },
+
+  // TechCrunch (official RSS)
+  { id: "techcrunch", url: "https://techcrunch.com/feed/",                           topics: ["Technology"] },
 ];
 
 const parser = new Parser();
@@ -98,6 +111,10 @@ export async function buildFeedJson() {
   const before = collected.length;
   const deduped = dedupeByTitleAndURL(collected);
   console.log(`DEDUPE removed ${before - deduped.length} (kept ${deduped.length})`);
+
+  // sort newest-first by published
+  const parseTS = (v: any) => Date.parse(v || 0);
+  deduped.sort((a,b) => (parseTS(b.published) - parseTS(a.published)) || (a.title||'').localeCompare(b.title||''));
 
   const out = {
     version: String(Date.now()),
