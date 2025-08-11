@@ -1,7 +1,33 @@
 {
-  "version": "1754934473571",
-  "generatedAt": "2025-08-11T17:47:53.571Z",
+  "version": "1754935061593",
+  "generatedAt": "2025-08-11T17:57:41.593Z",
   "items": [
+    {
+      "id": "5789a29da3507e1d523e2e25ad2492577bfd0e64",
+      "title": "iRobot’s future isn’t looking up",
+      "url": "https://www.theverge.com/news/757434/irobot-earnings-show-roomba-maker-still-struggling",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-11T17:48:52.000Z",
+      "summary_90w": "",
+      "raw": "iRobot, maker of the iconic Roomba robot vacuum, announced its second-quarter earnings late last week, and the numbers keep going down. Despite launching an entirely new product line, its revenue declined 23 percent to $127.6 million from the previous quarter, with the lucrative US and European markets being hit hardest.\nThe company has struggled in the face of increased competition from Chinese manufacturers and the collapse of a sale to Amazon, which left it deep in debt. Earlier this year, CEO Gary Cohen indicated iRobot could shut down within 12 months if something didn’t change. The clock is ticking.\nLast week, Cohen said that while customer response to the new product line has been “encouraging,” iRobot didn’t meet its goals this quarter “due to persistent market headwinds and delays in scaling production and sales of our new products.” He confirmed the company is still looking at a potential sale or other “strategic alternatives” to get out of debt.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a691470abc6f7adf58d4178f1636c062bd040ea0",
+      "title": "UN condemns targeted Israeli attack that killed five Al Jazeera journalists",
+      "url": "https://www.bbc.com/news/articles/cq688qz3rlro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-11T17:47:23.000Z",
+      "summary_90w": "",
+      "raw": "Israel says it targeted correspondent Anas al-Sharif, accusing him of leading a Hamas cell, which he had denied. Israel provided little evidence for the claim.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "f02a184dd2709ae67aff294da35e91c5fddd34d0",
       "title": "Ocean’s new app brings inbox triage, tasks and invites to Gmail users",
@@ -147,7 +173,7 @@
     },
     {
       "id": "6851b8fb0ebe0663ab3c156875f072b49783a527",
-      "title": "Mourners gather amid outrage over Israeli troops’ killing of journalists in Gaza – live updates",
+      "title": "Mourners gather amid outrage over Israeli troops’ killing of journalists in Gaza – as it happened",
       "url": "https://www.theguardian.com/world/live/2025/aug/11/israel-gaza-war-anas-al-sharif-al-jazeera-benjamin-netanyahu-live-news-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
@@ -193,19 +219,6 @@
       "published": "2025-08-11T16:27:05.000Z",
       "summary_90w": "",
       "raw": "A 16-year-old girl and two boys, aged 14 and 15, are in police custody after an incident on Sunday.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a691470abc6f7adf58d4178f1636c062bd040ea0",
-      "title": "UN condemns targeted Israeli attack that killed five Al Jazeera journalists",
-      "url": "https://www.bbc.com/news/articles/cq688qz3rlro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-11T16:27:01.000Z",
-      "summary_90w": "",
-      "raw": "Israel says it targeted correspondent Anas al-Sharif, accusing him of leading a Hamas cell, which he had denied. Israel provided little evidence for the claim.",
       "topics": [
         "World"
       ]
@@ -329,13 +342,13 @@
     },
     {
       "id": "368eb9e71bcf35d89395f84049f52a16a4385e85",
-      "title": "GitHub is no longer independent at Microsoft after CEO resignation",
+      "title": "GitHub just got less independent at Microsoft after CEO resignation",
       "url": "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition",
       "source_id": "verge-tech",
       "source_name": "The Verge",
       "published": "2025-08-11T15:43:09.000Z",
       "summary_90w": "",
-      "raw": "Microsoft is moving GitHub into its CoreAI team, following the resignation of GitHub CEO Thomas Dohmke today. After nearly four years as CEO, Dohmke is leaving GitHub to “become a startup founder again,” and pursue opportunities outside of Microsoft and GitHub.\nGitHub has operated as a separate company ever since Microsoft acquired it in 2018 for $7.5 billion, but Dohmke’s departure is part of a big shakeup to the way GitHub operates. Microsoft isn’t replacing Dohmke’s CEO position, and GitHub will now be fully part of Microsoft instead of being run as a separate entity. \n“GitHub and its leadership team will continue its mission as part of Microsoft’s CoreAI organization, with more details shared soon,” says Dohmke in a memo to GitHub employees today. “I’ll be staying through the end of 2025 to help guide the transition and am leaving with a deep sense of pride in everything we’ve built as a remote-first organization spread around the world.”\nMicrosoft’s CoreAI team is a new engineering group led by former Meta executive Jay Parikh. It includes Microsoft’s platform and tools division and Dev Div teams, with a focus on building an AI platform and tools for both Microsoft and its customers. Parikh described his vision of an AI agent factory in an interview with Notepad earlier this year, and how he is convincing the developer division of Microsoft to adopt AI.\n “Just like how Bill [Gates] had this idea of Microsoft being a bunch of software developers building a bunch of software, I want our platform, for any enterprise or any organization, to be able to be the thing they turn into their own agent factory,” said Parikh.\nDohmke only just appeared on Decoder last week, discussing Copilot, vibe coding, and what’s next for AI. Dohmke was thinking a lot about the competition and GitHub’s role in the future of software development, and now he’s about to leave to potentially create some more competition for Microsoft’s AI efforts.",
+      "raw": "Microsoft is moving GitHub even more closely into its CoreAI team, following the resignation of GitHub CEO Thomas Dohmke today. After nearly four years as CEO, Dohmke is leaving GitHub to “become a startup founder again,” and pursue opportunities outside of Microsoft and GitHub.\nGitHub has operated as a separate company ever since Microsoft acquired it in 2018 for $7.5 billion, but Dohmke’s departure is part of a big shakeup to the way GitHub operates. Microsoft isn’t replacing Dohmke’s CEO position, and the rest of GitHub’s leadership team will now report more directly to Microsoft’s CoreAI team.\n“GitHub and its leadership team will continue its mission as part of Microsoft’s CoreAI organization, with more details shared soon,” says Dohmke in a memo to GitHub employees today. “I’ll be staying through the end of 2025 to help guide the transition and am leaving with a deep sense of pride in everything we’ve built as a remote-first organization spread around the world.”\nMicrosoft’s CoreAI team is a new engineering group led by former Meta executive Jay Parikh. It includes Microsoft’s platform and tools division and Dev Div teams, with a focus on building an AI platform and tools for both Microsoft and its customers. \nToday’s change means GitHub no longer has a single leader, or CEO, and responsibility for GitHub will align more closely to the CoreAI leadership team. GitHub’s reporting structure originally changed in 2021 when former CEO Nat Friedman stepped down, and Dohmke reported up to Julia Liuson, head of Microsoft’s developer division. Liuson then started reporting to Parikh earlier this year with the formation of the CoreAI team. \nJay Parikh, head of CoreAI, described his vision of an AI agent factory in an interview with Notepad earlier this year, and how he is convincing the developer division of Microsoft to adopt AI. “Just like how Bill [Gates] had this idea of Microsoft being a bunch of software developers building a bunch of software, I want our platform, for any enterprise or any organization, to be able to be the thing they turn into their own agent factory,” said Parikh.\nDohmke only just appeared on Decoder last week, discussing Copilot, vibe coding, and what’s next for AI. Dohmke was thinking a lot about the competition and GitHub’s role in the future of software development, and now he’s about to leave to potentially create some more competition for Microsoft’s AI efforts.\nCorrection, August 11th: GitHub was already part of CoreAI, but its leadership will no longer be under a single CEO.",
       "topics": [
         "Technology"
       ]
@@ -546,19 +559,6 @@
       "raw": "Ricky Jones denies encouraging violent disorder after comments at a counter-protest last year.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "6f6f278dd36543f40b43f010456ecf61a5f198c0",
-      "title": "Ninja’s latest ice cream maker has never been cheaper",
-      "url": "https://www.theverge.com/tech/757228/ninja-swirl-ice-cream-maker-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-11T14:45:00.000Z",
-      "summary_90w": "",
-      "raw": "Ninja’s Swirl can make soft serve ice cream and frozen yogurt, and it’s  $50 off at Amazon.\t\n\nNinja’s Swirl ups the ante for ice cream machines by also allowing you to make soft serve or frozen yogurt at home. It normally costs $349.99, but now you can pick one up for $299.99 at Amazon, its lowest price to date. It’s the first time the ice cream maker has gone on sale since it launched in February. \nNinja Swirl\nNinja’s clever 2-in-1 machine can spin up soft serve and traditional hard scoops in a few easy steps, not to mention creamy milkshakes, gelato, and frozen yogurt. \n\nWhere to Buy:\n\n $349.99 $299.99 at Amazon\n $349.99 $306.99 at Best Buy\n $349.99 $349 at Walmart\n\nThe Swirl is an extension of Ninja’s popular Creami line of ice cream machines, and it works the same way as when making hard-packed ice cream. You prepare your ice cream base, transfer it into one of the included pint containers, freeze the base overnight, and attach the container to the Swirl to churn. If you’re making soft serve or frozen yogurt, you attach the pint container full of your churned base to a nozzle attachment, lock it into place in a slot to the left of the Swirl’s control panel, and pull down on the handle. \nPart of the Ninja Swirl’s appeal is that it has all the functions of the Creami, which means it’s compatible with the same recipes, including non-dairy, high protein, and low-calorie variations on the classics. There’s an active community on Reddit that’s constantly experimenting with recipe tweaks, ingredient swaps, and different flavor combinations. If you’re new to ice cream making, it’s helpful to know where to look when you’d like to try something different, or want to accommodate an allergy.\nThe Ninja Swirl is your best option for making ice cream at home. Cuisinart’s ICE-48 is less expensive, but it can’t make hard-packed ice cream. The Swirl would also make an excellent holiday gift for the adventurous home cook in your life if you want to save money by shopping early.",
-      "topics": [
-        "Technology"
       ]
     },
     {
