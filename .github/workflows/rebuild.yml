@@ -24,15 +24,18 @@ jobs:
           npm install
           npm install -D tsx typescript
 
-      - name: Rebuild feed
+      - name: Rebuild feed (UA + retries)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           DISABLE_SUMMARIES: ${{ secrets.DISABLE_SUMMARIES || '1' }}
           RSS_USER_AGENT: ${{ secrets.RSS_USER_AGENT }}
         run: |
           npx tsx scripts/rebuild.ts
-          test -f public/data/feed.json || (echo "ERROR: public/data/feed.json missing" && exit 1)
-          node -e "const f='public/data/feed.json',j=require('fs').readFileSync(f,'utf8');JSON.parse(j);console.log('feed.json OK')"
+          echo "::group::Check public/data/feed.json (post-rebuild)"
+          test -f public/data/feed.json || (echo "ERROR: public/data/feed.json missing after rebuild" && exit 1)
+          node -e "const p='public/data/feed.json',j=require('fs').readFileSync(p,'utf8');try{JSON.parse(j);console.log('OK JSON at',p)}catch(e){console.error('INVALID JSON at',p);process.exit(1)}"
+          head -c 200 public/data/feed.json || true; echo
+          echo "::endgroup::"
 
       - name: Remove API routes
         run: rm -rf app/api || true
@@ -50,15 +53,24 @@ jobs:
 
       - name: Verify feed in out
         run: |
-          test -f out/data/feed.json || (echo "ERROR: out/data/feed.json missing" && ls -R out && exit 1)
-          node -e "const f='out/data/feed.json',j=require('fs').readFileSync(f,'utf8');JSON.parse(j);console.log('out/data/feed.json OK')"
+          echo "::group::Check out/data/feed.json (pre-deploy)"
+          test -f out/data/feed.json || (echo "ERROR: out/data/feed.json missing pre-deploy" && ls -R out && exit 1)
+          node -e "const p='out/data/feed.json',j=require('fs').readFileSync(p,'utf8');try{JSON.parse(j);console.log('OK JSON at',p)}catch(e){console.error('INVALID JSON at',p);process.exit(1)}"
+          head -c 200 out/data/feed.json || true; echo
+          echo "::endgroup::"
 
-      - name: Create nojekyll
+      - name: Upload feed artifact (debug)
+        uses: actions/upload-artifact@v4
+        with:
+          name: feed-json
+          path: out/data/feed.json
+
+      - name: Create .nojekyll
         run: |
           mkdir -p out
           touch out/.nojekyll
 
-      - name: Deploy to Pages
+      - name: Deploy to Pages (gh-pages)
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
