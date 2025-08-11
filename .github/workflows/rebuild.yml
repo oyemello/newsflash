@@ -1,9 +1,66 @@
-name: yaml-smoke-test
+name: Rebuild Feed and Deploy
 on:
+  schedule:
+    - cron: '*/30 * * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
-  check:
+  rebuild-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Hello
-        run: echo "YAML OK"
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install deps
+        run: |
+          npm install
+          npm install -D tsx typescript
+
+      - name: Rebuild feed
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DISABLE_SUMMARIES: ${{ secrets.DISABLE_SUMMARIES || '1' }}
+          RSS_USER_AGENT: ${{ secrets.RSS_USER_AGENT }}
+        run: |
+          npx tsx scripts/rebuild.ts
+          test -f public/data/feed.json || (echo "ERROR: public/data/feed.json missing" && exit 1)
+          node -e "const f='public/data/feed.json',j=require('fs').readFileSync(f,'utf8');JSON.parse(j);console.log('feed.json OK')"
+
+      - name: Remove API routes
+        run: rm -rf app/api || true
+
+      - name: Build static site
+        env:
+          NEXT_TELEMETRY_DISABLED: '1'
+        run: npm run build
+
+      - name: Ensure data folder in out
+        run: mkdir -p out/data
+
+      - name: Copy feed into out
+        run: cp -f public/data/feed.json out/data/feed.json
+
+      - name: Verify feed in out
+        run: |
+          test -f out/data/feed.json || (echo "ERROR: out/data/feed.json missing" && ls -R out && exit 1)
+          node -e "const f='out/data/feed.json',j=require('fs').readFileSync(f,'utf8');JSON.parse(j);console.log('out/data/feed.json OK')"
+
+      - name: Create nojekyll
+        run: |
+          mkdir -p out
+          touch out/.nojekyll
+
+      - name: Deploy to Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
+          publish_branch: gh-pages
