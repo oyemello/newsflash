@@ -1,7 +1,20 @@
 {
-  "version": "1754955230858",
-  "generatedAt": "2025-08-11T23:33:50.858Z",
+  "version": "1754955883285",
+  "generatedAt": "2025-08-11T23:44:43.285Z",
   "items": [
+    {
+      "id": "4db589fda9ab179ce83edc966db573ec0aa42f94",
+      "title": "Sheila Jordan, a singular voice in jazz, has died",
+      "url": "https://www.npr.org/2025/08/11/847306270/sheila-jordan-obituary",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-08-11T23:26:48.000Z",
+      "summary_90w": "",
+      "raw": "She recorded a magical debut album on Blue Note and was later named a Jazz Master by the National Endowment of the Arts.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "4d3645fc4298483e5039599cc2193e79704658ff",
       "title": "Australia news live: Albanese says Netanyahu’s frustrating ‘denial’ of suffering in Gaza led to move to recognise Palestine",
@@ -1254,13 +1267,13 @@
       "id": "2e706704789f8790f30c945b05bcb59855eca5b9",
       "title": "Boston Public Library aims to increase access to a vast historic archive using AI",
       "url": "https://www.npr.org/2025/08/11/nx-s1-5471614/boston-public-library-harvard-ai",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2025-08-11T09:00:00.000Z",
       "summary_90w": "",
       "raw": "The library is launching a project in collaboration with Harvard Law School and OpenAI this summer to digitize the materials and make them more fully searchable.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -1277,16 +1290,29 @@
       ]
     },
     {
-      "id": "88f224a667546254d25af6df313cfb4eded31142",
-      "title": "Trump's tariff revenue has skyrocketed. But how big is it, really?",
-      "url": "https://www.npr.org/2025/08/11/g-s1-81934/trump-tariffs-record-revenue",
+      "id": "4da50f5b04db72769ec29b4cd6a30e0192b5ac8b",
+      "title": "Influencers criticize birth control and push 'natural' methods. Here's what to know",
+      "url": "https://www.npr.org/2025/08/11/nx-s1-5494736/hormonal-birth-control-side-effects",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-08-11T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "President Trump's new tariffs are pouring in. But it's still only a fraction of overall government revenues — and falls short of new spending in the recent Republican megabill.",
+      "raw": "Social media is full of videos saying hormonal contraception can hurt you and promoting natural alternatives. How did the treatments get such a bad reputation and do alternatives work?",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "88f224a667546254d25af6df313cfb4eded31142",
+      "title": "Trump's tariff revenue has skyrocketed. But how big is it, really?",
+      "url": "https://www.npr.org/2025/08/11/g-s1-81934/trump-tariffs-record-revenue",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2025-08-11T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "President Trump's new tariffs are pouring in. But it's still only a fraction of overall government revenues — and falls short of new spending in the recent Republican megabill.",
+      "topics": [
+        "Business"
       ]
     },
     {
