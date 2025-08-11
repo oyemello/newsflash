@@ -1,7 +1,33 @@
 {
-  "version": "1754933047245",
-  "generatedAt": "2025-08-11T17:24:07.245Z",
+  "version": "1754934473571",
+  "generatedAt": "2025-08-11T17:47:53.571Z",
   "items": [
+    {
+      "id": "f02a184dd2709ae67aff294da35e91c5fddd34d0",
+      "title": "Ocean’s new app brings inbox triage, tasks and invites to Gmail users",
+      "url": "https://techcrunch.com/2025/08/11/oceans-new-app-brings-inbox-triage-tasks-and-invites-to-gmail-users/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-08-11T17:46:50.000Z",
+      "summary_90w": "",
+      "raw": "Ocean debuts an email app for Gmail users with triage tools, a task manager and more.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "83e83d608d4ab14688a142a9daa349b6339a2cf2",
+      "title": "Trump says he will try to get back territory for Ukraine in talks with Putin",
+      "url": "https://www.bbc.com/news/articles/c0e99yqv332o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-11T17:20:54.000Z",
+      "summary_90w": "",
+      "raw": "The US president says talks with Putin on Friday will be a \"feel-out meeting\" aimed at urging Russia to end the war in Ukraine.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "86ed6090889d94f14d92923a92ce4fe2213c927c",
       "title": "Chip giants Nvidia and AMD to pay 15% of sales revenue in China to US",
@@ -26,6 +52,32 @@
       "raw": "The chip giants will hand revenues to the US government in exchange for licences to export to China.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "572b0be163b9dac8b27be8d4f2d73148e5420ae3",
+      "title": "Who was Anas al-Sharif, famous Gaza journalist killed by Israel?",
+      "url": "https://www.bbc.com/news/articles/c6200wnez73o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-11T17:16:51.000Z",
+      "summary_90w": "",
+      "raw": "Sharif was killed when Israel targeted a tent used by media in northern Gaza, alongside six others, Al Jazeera said.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6a7f384a1ff0033f185297270e9f51ece2163cfc",
+      "title": "Trump confirms he and Putin will discuss ‘land swapping’ at Ukraine war summit",
+      "url": "https://www.theguardian.com/world/2025/aug/11/eu-trump-putin-meeting-ukraine-diplomacy",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-08-11T17:14:49.000Z",
+      "summary_90w": "",
+      "raw": "US president gives details on Alaska meeting and expresses frustration with Zelenskyy’s insistence on referendum on any peace deal\nDonald Trump has confirmed that he and Vladimir Putin will discuss “land swapping” when they meet on Friday in Alaska for a high-stakes summit on the Ukraine war.\nBut the US president expressed frustration with Volodymyr Zelenskyy, the Ukrainian leader, for putting conditions on such a potential agreement.\n Continue reading...",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -63,19 +115,6 @@
       "published": "2025-08-11T17:06:32.000Z",
       "summary_90w": "",
       "raw": "It's a looser arrangement than their previous deal - and comes ahead of a second series of Meghan's cookery show being screened later this month.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "83e83d608d4ab14688a142a9daa349b6339a2cf2",
-      "title": "Trump says he will try to get back territory for Ukraine in talks with Putin",
-      "url": "https://www.bbc.com/news/articles/c0e99yqv332o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-11T17:05:51.000Z",
-      "summary_90w": "",
-      "raw": "The US president says talks with Putin on Friday will be a \"feel-out meeting\" aimed at urging Russia to end the war in Ukraine.",
       "topics": [
         "World"
       ]
@@ -140,22 +179,9 @@
       "source_name": "The Verge",
       "published": "2025-08-11T17:00:00.000Z",
       "summary_90w": "",
-      "raw": "Reddit says that it has caught AI companies scraping its data from the Internet Archive’s Wayback Machine, so it’s going to start blocking the Internet Archive from indexing the vast majority of Reddit. The Wayback Machine will no longer be able to crawl post detail pages, comments, or profiles; instead, it will only be able to index the Reddit.com homepage, which effectively means IA will only be able to archive insights into which news headlines and posts were most popular on a given day.\n“Internet Archive provides a service to the open web, but we’ve been made aware of instances where AI companies violate platform policies, including ours, and scrape data from the Wayback Machine,” spokesperson Tim Rathschmidt tells The Verge. \nThe Internet Archive’s mission is to keep a digital archive of websites on the internet and “other cultural artifacts,” and the Wayback Machine is a tool you can use to look at pages as they appeared on certain dates, but Reddit believes not all of its content should be archived that way.“Until they’re able to defend their site and comply with platform policies (e.g., respecting user privacy, re: deleting removed content) we’re limiting some of their access to Reddit data to protect redditors,” Rathschmidt says. \nThe limits will start “ramping up” today, and Reddit says it reached out to the Internet Archive “in advance” to “inform them of the limits before they go into effect,” according to Rathschmidt. He says Reddit has also “raised concerns” about the ability of people to scrape content from the Internet Archive in the past.\nReddit has a recent history of cutting off access to scraper tools as AI companies have begun to use (and abuse) them en masse, but it’s willing to provide that data if companies pay. Last year, Reddit struck a deal with Google for both Google Search and AI training data early last year, and a few months later, it started blocking major search engines from crawling its data unless they pay. It also said its infamous API changes from 2023, which forced some third-party apps to shut down, leading to protests, were because those APIs were abused to train AI models. \nReddit also struck an AI deal with OpenAI, but it sued Anthropic in June, claiming Anthropic was still scraping from Reddit even after Anthropic said it wasn’t scraping anymore.\nThe Internet Archive didn’t immediately respond to a request for comment.",
+      "raw": "Reddit says that it has caught AI companies scraping its data from the Internet Archive’s Wayback Machine, so it’s going to start blocking the Internet Archive from indexing the vast majority of Reddit. The Wayback Machine will no longer be able to crawl post detail pages, comments, or profiles; instead, it will only be able to index the Reddit.com homepage, which effectively means Internet Archive will only be able to archive insights into which news headlines and posts were most popular on a given day.\n“Internet Archive provides a service to the open web, but we’ve been made aware of instances where AI companies violate platform policies, including ours, and scrape data from the Wayback Machine,” spokesperson Tim Rathschmidt tells The Verge. \nThe Internet Archive’s mission is to keep a digital archive of websites on the internet and “other cultural artifacts,” and the Wayback Machine is a tool you can use to look at pages as they appeared on certain dates, but Reddit believes not all of its content should be archived that way.“Until they’re able to defend their site and comply with platform policies (e.g., respecting user privacy, re: deleting removed content) we’re limiting some of their access to Reddit data to protect redditors,” Rathschmidt says. \nThe limits will start “ramping up” today, and Reddit says it reached out to the Internet Archive “in advance” to “inform them of the limits before they go into effect,” according to Rathschmidt. He says Reddit has also “raised concerns” about the ability of people to scrape content from the Internet Archive in the past.\nReddit has a recent history of cutting off access to scraper tools as AI companies have begun to use (and abuse) them en masse, but it’s willing to provide that data if companies pay. Last year, Reddit struck a deal with Google for both Google Search and AI training data early last year, and a few months later, it started blocking major search engines from crawling its data unless they pay. It also said its infamous API changes from 2023, which forced some third-party apps to shut down, leading to protests, were because those APIs were abused to train AI models. \nReddit also struck an AI deal with OpenAI, but it sued Anthropic in June, claiming Anthropic was still scraping from Reddit even after Anthropic said it wasn’t scraping anymore.\nThe Internet Archive didn’t immediately respond to a request for comment.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "25742798eabc0b4500f34e5aa0a0d550083ea62f",
-      "title": "Arthur's Seat blaze likely caused by human activity, says fire service",
-      "url": "https://www.bbc.com/news/articles/cjr11z2yx0yo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-11T16:52:55.000Z",
-      "summary_90w": "",
-      "raw": "The Edinburgh landmark was evacuated as the flames spread up the hill, with no reported casualties.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -312,19 +338,6 @@
       "raw": "Microsoft is moving GitHub into its CoreAI team, following the resignation of GitHub CEO Thomas Dohmke today. After nearly four years as CEO, Dohmke is leaving GitHub to “become a startup founder again,” and pursue opportunities outside of Microsoft and GitHub.\nGitHub has operated as a separate company ever since Microsoft acquired it in 2018 for $7.5 billion, but Dohmke’s departure is part of a big shakeup to the way GitHub operates. Microsoft isn’t replacing Dohmke’s CEO position, and GitHub will now be fully part of Microsoft instead of being run as a separate entity. \n“GitHub and its leadership team will continue its mission as part of Microsoft’s CoreAI organization, with more details shared soon,” says Dohmke in a memo to GitHub employees today. “I’ll be staying through the end of 2025 to help guide the transition and am leaving with a deep sense of pride in everything we’ve built as a remote-first organization spread around the world.”\nMicrosoft’s CoreAI team is a new engineering group led by former Meta executive Jay Parikh. It includes Microsoft’s platform and tools division and Dev Div teams, with a focus on building an AI platform and tools for both Microsoft and its customers. Parikh described his vision of an AI agent factory in an interview with Notepad earlier this year, and how he is convincing the developer division of Microsoft to adopt AI.\n “Just like how Bill [Gates] had this idea of Microsoft being a bunch of software developers building a bunch of software, I want our platform, for any enterprise or any organization, to be able to be the thing they turn into their own agent factory,” said Parikh.\nDohmke only just appeared on Decoder last week, discussing Copilot, vibe coding, and what’s next for AI. Dohmke was thinking a lot about the competition and GitHub’s role in the future of software development, and now he’s about to leave to potentially create some more competition for Microsoft’s AI efforts.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "6a7f384a1ff0033f185297270e9f51ece2163cfc",
-      "title": "Merz invites Trump to emergency call with EU leaders before Putin summit",
-      "url": "https://www.theguardian.com/world/2025/aug/11/eu-trump-putin-meeting-ukraine-diplomacy",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-08-11T15:37:37.000Z",
-      "summary_90w": "",
-      "raw": "Proposal, which would also include Volodymyr Zelenskyy, comes as European calls grow for red lines in Ukraine talks\nThe German chancellor has invited Donald Trump to join emergency virtual talks with EU leaders and Volodymyr Zelenskyy on Wednesday, as European demands grow that the US president agree red lines before Friday’s summit in Alaska with Vladimir Putin.\nNeither Zelenskyy nor European leaders have been invited to Trump’s meeting with the Russian president.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -953,7 +966,7 @@
     },
     {
       "id": "d369b043fb360561f4eacbf65523dbf297880eb4",
-      "title": "Factories are losing immigrant workers, stressing those who remain",
+      "title": "Factories from GE to Kraft Heinz lose immigrant workers, stressing those who remain",
       "url": "https://www.npr.org/2025/08/11/nx-s1-5496335/trump-immigration-workers-parole-tps",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
@@ -1651,19 +1664,6 @@
       "raw": "After President Trump fired the head of the Bureau of Labor Statistics, economists and statisticians across the board were horrified. Because the firing raises the spectre of potential manipulation – and it raises the worry that, in the future, the numbers won't be as trustworthy.\nSo: we looked at two countries that have some experience with data manipulation. To ask what happens when governments get tempted to cook the books. And...once they cook the books... how hard is it to UN-cook them?\nIt's two statistical historical cautionary tales. First, we learn how Argentina tried to mask its true inflation rate, and how that effort backfired. Then, we hear about the difficult process of cleaning up the post-cooked-book mess, in Greece. \nFor more: \n - Can we just change how we measure GDP?\n - The price of lettuce in Brooklyn\n - What really goes on at the Bureau of Labor Statistics (Update)\n - Can we still trust the monthly jobs report? (Update)\n - How office politics could take down Europe\n - The amazing shrinking economy might stop shrinking\n\nListen free at these links: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.\nFind more Planet Money: Facebook / Instagram / TikTok / Our weekly Newsletter.\nSupport Planet Money, get bonus episodes and sponsor-free listening and now Summer School episodes one week early by subscribing to Planet Money+ in Apple Podcasts or at plus.npr.org/planetmoney.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "02e80473726c7dd983899e37717027b46faac4d6",
-      "title": "Impersonators are targeting companies with fake TechCrunch outreach",
-      "url": "https://techcrunch.com/2025/08/08/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-08-09T00:36:41.000Z",
-      "summary_90w": "",
-      "raw": "Fraudsters are impersonating TechCrunch reporters and event leads, and reaching out to companies. Here's what we're doing about it, and what you can look out for.",
-      "topics": [
-        "Technology"
       ]
     },
     {
