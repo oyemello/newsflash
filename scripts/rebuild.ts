@@ -1,86 +1,119 @@
-import { buildFeedJson } from '../lib/news';
-import { Item } from '../lib/news';
-import { writeFileSync, mkdirSync, existsSync } from 'fs';
-import { join } from 'path';
+import fs from "node:fs/promises";
+import crypto from "node:crypto";
+import Parser from "rss-parser";
 
-function normalizeTitle(t: string): string {
-  return t
-    .toLowerCase()
-    .trim()
-    .replace(/[.,/#!$%^&*;:{}=\-_`~()\[\]"'’“”|<>?]/g, "")
-    .replace(/\s+/g, " ");
-}
+type FeedItem = {
+  id: string;
+  title: string;
+  url: string;
+  source_id: string;
+  source_name: string;
+  published: string | null;
+  summary_90w?: string | null;
+  topics?: string[];
+};
 
-function dedupeByTitleAndURL(items: Item[]): Item[] {
-  const seen = new Set<string>();
-  let kept: Item[] = [];
-  for (const i of items) {
-    const key = normalizeTitle(i.title || '').slice(0, 140) + '|' + (i.url || '');
-    if (seen.has(key)) continue;
-    seen.add(key); kept.push(i);
+const SOURCES = [
+  { id: "guardian-world", url: "https://www.theguardian.com/world/rss", topics: ["World"] },
+  { id: "verge-tech", url: "https://www.theverge.com/rss/index.xml", topics: ["Technology"] },
+  // add others here…
+];
+
+const parser = new Parser();
+const UA =
+  process.env.RSS_USER_AGENT ||
+  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) NewsFlashBot/1.0 Safari/537.36";
+
+async function fetchWithRetry(url: string, attempts = 3): Promise<string | null> {
+  let backoff = 500;
+  for (let i = 1; i <= attempts; i++) {
+    try {
+      const res = await fetch(url, {
+        headers: {
+          "User-Agent": UA,
+          "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+          "Accept-Language": "en",
+          "Cache-Control": "no-cache",
+          "Pragma": "no-cache",
+          "Connection": "keep-alive",
+        },
+      });
+      if (!res.ok) {
+        console.warn(`RSS ${res.status} for ${url} (attempt ${i}/${attempts})`);
+        if (i === attempts) return null;
+      } else {
+        return await res.text();
+      }
+    } catch (e: any) {
+      console.warn(`RSS fetch error (${i}/${attempts}) for ${url}:`, e?.message || e);
+      if (i === attempts) return null;
+    }
+    await new Promise(r => setTimeout(r, backoff));
+    backoff *= 2;
   }
-  return kept;
+  return null;
 }
 
-function simpleLevenshtein(a: string, b: string): number {
-  if (a === b) return 0;
-  const dp = Array(a.length + 1).fill(null).map(() => Array(b.length + 1).fill(0));
-  for (let i = 0; i <= a.length; i++) dp[i][0] = i;
-  for (let j = 0; j <= b.length; j++) dp[0][j] = j;
-  for (let i = 1; i <= a.length; i++) {
-    for (let j = 1; j <= b.length; j++) {
-      dp[i][j] = Math.min(
-        dp[i-1][j] + 1,
-        dp[i][j-1] + 1,
-        dp[i-1][j-1] + (a[i-1] === b[j-1] ? 0 : 1)
-      );
+function dedupeByTitleAndURL(items: FeedItem[]): FeedItem[] {
+  const seen = new Set<string>();
+  const out: FeedItem[] = [];
+  for (const i of items) {
+    const key =
+      (i.title || "").toLowerCase().replace(/\s+/g, " ").slice(0, 140) +
+      "|" + (i.url || "");
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push(i);
+  }
+  return out;
+}
+
+export async function buildFeedJson() {
+  const collected: FeedItem[] = [];
+
+  for (const src of SOURCES) {
+    const xml = await fetchWithRetry(src.url, 3);
+    if (!xml) {
+      console.warn(`SKIP source due to fetch failure: ${src.id}`);
+      continue;
+    }
+    try {
+      const feed = await parser.parseString(xml);
+      const items = (feed.items || []).slice(0, 30).map((x: any) => ({
+        id: crypto.createHash("sha1").update(String(x.link || x.id || x.guid || x.title)).digest("hex"),
+        title: x.title || "",
+        url: x.link || "",
+        source_id: src.id,
+        source_name: feed.title || src.id,
+        published: x.isoDate || x.pubDate || null,
+        summary_90w: null,
+        topics: src.topics || [],
+      })) as FeedItem[];
+      collected.push(...items);
+    } catch (e: any) {
+      console.warn(`PARSE error for ${src.id}:`, e?.message || e);
     }
   }
-  return dp[a.length][b.length];
-}
 
-function dedupeBySimilarity(items: Item[]): Item[] {
-  const kept: Item[] = [];
-  for (const i of items) {
-    const normTitle = normalizeTitle(i.title || '');
-    const domain = (i.url || '').split('/')[2] || '';
-    if (kept.some(k => {
-      const kDomain = (k.url || '').split('/')[2] || '';
-      const kNormTitle = normalizeTitle(k.title || '');
-      return domain === kDomain && (kNormTitle.includes(normTitle) || normTitle.includes(kNormTitle) || simpleLevenshtein(kNormTitle, normTitle) <= 6);
-    })) continue;
-    kept.push(i);
-  }
-  return kept;
-}
+  const before = collected.length;
+  const deduped = dedupeByTitleAndURL(collected);
+  console.log(`DEDUPE removed ${before - deduped.length} (kept ${deduped.length})`);
 
-async function main() {
-  const feedStr = await buildFeedJson();
-  const feed = JSON.parse(feedStr);
-  const originalCount = feed.items.length;
-  let deduped = dedupeByTitleAndURL(feed.items);
-  deduped = dedupeBySimilarity(deduped);
-  const dedupedCount = deduped.length;
-  console.log("DEDUPE removed", originalCount - dedupedCount);
-  feed.items = deduped;
-  const feedPath = join(__dirname, '../public/data/feed.json');
-  writeFileSync(feedPath, JSON.stringify(feed, null, 2));
-
-  const now = new Date();
-  const utc = {
-    year: now.getUTCFullYear(),
-    month: String(now.getUTCMonth() + 1).padStart(2, '0'),
-    day: String(now.getUTCDate()).padStart(2, '0'),
-    hour: String(now.getUTCHours()).padStart(2, '0'),
-    minute: now.getUTCMinutes()
+  const out = {
+    version: String(Date.now()),
+    generatedAt: new Date().toISOString(),
+    items: deduped,
   };
 
-  if (utc.minute === 0) {
-    const archiveDir = join(__dirname, `../public/archive/${utc.year}/${utc.month}/${utc.day}`);
-    if (!existsSync(archiveDir)) mkdirSync(archiveDir, { recursive: true });
-    const archivePath = join(archiveDir, `${utc.hour}.json`);
-    writeFileSync(archivePath, JSON.stringify(feed, null, 2));
-  }
+  await fs.mkdir("public/data", { recursive: true });
+  await fs.writeFile("public/data/feed.json", JSON.stringify(out, null, 2));
+  console.log("WROTE feed -> public/data/feed.json");
+  return out;
 }
 
-main();
+if (require.main === module) {
+  buildFeedJson().catch((e) => {
+    console.error("REBUILD FAILED", e);
+    process.exit(1);
+  });
+}
