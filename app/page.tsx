@@ -116,7 +116,11 @@ function useLastUpdated(pollMs = 60000) {
   return { label, lastUpdatedError, version };
 }
 
-const FEED_URL = '/data/feed.json';
+const FEED_URL =
+  process.env.NEXT_PUBLIC_FEED_URL
+  ?? (typeof window !== 'undefined' && window.location.pathname.startsWith('/newsflash')
+        ? '/newsflash/data/feed.json'
+        : '/data/feed.json');
 
 export default function Home() {
   // 1A: Last updated polling

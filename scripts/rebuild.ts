@@ -105,9 +105,9 @@ export async function buildFeedJson() {
     items: deduped,
   };
 
-  await fs.mkdir("public/data", { recursive: true });
-  await fs.writeFile("public/data/feed.json", JSON.stringify(out, null, 2));
-  console.log("WROTE feed -> public/data/feed.json");
+  await fs.mkdir('public/data', { recursive: true });
+  await fs.writeFile('public/data/feed.json', JSON.stringify(out, null, 2));
+  console.log('WROTE -> public/data/feed.json');
   return out;
 }
 
