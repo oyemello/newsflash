@@ -1,7 +1,20 @@
 {
-  "version": "1755040557001",
-  "generatedAt": "2025-08-12T23:15:57.001Z",
+  "version": "1755041663059",
+  "generatedAt": "2025-08-12T23:34:23.059Z",
   "items": [
+    {
+      "id": "22995ab00ebf61ac6ff53d9c4af85c9d4c904d4b",
+      "title": "Russia might be responsible for the PACER hack",
+      "url": "https://www.theverge.com/law/758440/federal-courts-hacked-pacer-cm-ecf-russia",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-12T23:18:29.000Z",
+      "summary_90w": "",
+      "raw": "Just a few days after administrators announced that the “federal Judiciary is taking additional steps to strengthen protections for sensitive case documents in response to recent escalated cyberattacks,” the New York Times reports investigators have found evidence Russia is “at least partially responsible” for a recent hack. Politico reported on the breach last week, saying it was “believed to have exposed sensitive court data across multiple U.S. states” and that while the system’s managers had been aware of its impact since around July 4th, they are still trying to figure out its full extent. \nSearches by the attackers reportedly included cases “involving people with Russian and Eastern European surnames,” and may have compromised sealed records that weren’t publicly available. \nAfter the SolarWinds breach in 2021, new procedures called for highly sensitive documents to be filed using paper or a secure electronic device, and not uploaded to CM/ECF. In 2022, the DOJ reportedly informed the judiciary of another ongoing breach.\nAccording to the Times, district court chief judges were warned last month to keep cases with documents “related to criminal activity with an overseas tie” off of the usual document management system for federal cases, which is made up of the Case Management/Electronic Case Files (CM/ECF) where files are uploaded and managed, as well as PACER, a database that’s available to the public. It points to this order issued Friday by Eastern District of New York chief judge Margo Brodie, saying that, until further notice, “criminal cases and in cases related to criminal investigations are prohibited from being filed in CM/ECF,” and are instead to be uploaded to a separate system that doesn’t connect to PACER.\nLast week’s notice from the Administrative Office of the U.S. Courts said:\nThe vast majority of documents filed with the Judiciary’s electronic case management system are not confidential and indeed are readily available to the public, which is fundamental to an open and transparent judicial system. However, some filings contain confidential or proprietary information that are sealed from public view.\nThese sensitive documents can be targets of interest to a range of threat actors. To better protect them, courts have been implementing more rigorous procedures to restrict access to sensitive documents under carefully controlled and monitored circumstances.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "6ff3e3319fb736548137b223bfcdee2bf83d97a9",
       "title": "Police get new guidance on releasing suspects' ethnicity",
@@ -16,6 +29,19 @@
       ]
     },
     {
+      "id": "d631dc6cf6e77706c45b76a006061be30abf21b9",
+      "title": "Australia news live: arrest after firearm discharged at Sydney airport; Commonwealth Bank profit rises to $10.2bn",
+      "url": "https://www.theguardian.com/australia-news/live/2025/aug/13/australia-news-live-penny-wong-anthony-albanese-gaza-palestine-humanitarian-crisis-reserve-bank-productivity-tax-jim-chalmers-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-08-12T23:07:44.000Z",
+      "summary_90w": "",
+      "raw": "Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nChalmers says he is in complete agreement with PM on productivity roundtable\nChalmers was asked about recent suggestions by Albanese that those hoping for dramatic reform from the roundtable should lower their expectations.\nThe point that the prime minister made last week is the same point that I have made, which is that this economic reform roundtable is not to make decisions, it’s to inform the government’s decisions. And that’s the point that we have made all along.\nWe are aligned. We have an ambitious agenda that we’re focused on delivering, and this economic reform roundtable is a good opportunity to shake the tree for more ideas in our economy. And the people who criticise this process appear to be saying that we should consult less with the business community or the union movement or the community more broadly, experts and economists.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "a6cb8d7136ab50aa23422c8a0c4cd0ae50927eca",
       "title": "The UK car industry is at a crunch point - can it be saved?",
       "url": "https://www.bbc.com/news/articles/c23p028p200o?at_medium=RSS&at_campaign=rss",
@@ -24,19 +50,6 @@
       "published": "2025-08-12T23:00:58.000Z",
       "summary_90w": "",
       "raw": "Tariffs, Brexit, pandemic havoc... All of this caused short-term disruption - but the impact concealed a deeper problem for the UK automotive industry",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d631dc6cf6e77706c45b76a006061be30abf21b9",
-      "title": "Australia news live: arrest after firearm discharged at Sydney airport; Commonwealth Bank profit rises to $10.2bn",
-      "url": "https://www.theguardian.com/australia-news/live/2025/aug/13/australia-news-live-penny-wong-anthony-albanese-gaza-palestine-humanitarian-crisis-reserve-bank-productivity-tax-jim-chalmers-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-08-12T22:50:47.000Z",
-      "summary_90w": "",
-      "raw": "Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nChalmers says he is in complete agreement with PM on productivity roundtable\nChalmers was asked about recent suggestions by Albanese that those hoping for dramatic reform from the roundtable should lower their expectations.\nThe point that the prime minister made last week is the same point that I have made, which is that this economic reform roundtable is not to make decisions, it’s to inform the government’s decisions. And that’s the point that we have made all along.\nWe are aligned. We have an ambitious agenda that we’re focused on delivering, and this economic reform roundtable is a good opportunity to shake the tree for more ideas in our economy. And the people who criticise this process appear to be saying that we should consult less with the business community or the union movement or the community more broadly, experts and economists.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -598,19 +611,6 @@
       "raw": "Trump's expansion of federal authority over Washington, D.C., is in many ways unprecedented, but calls to mind other times the city has been under tighter federal control.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "2538151c82589f8f19fe6acdc2179df97e28ce40",
-      "title": "Perplexity offers to buy Google Chrome for $34.5 billion",
-      "url": "https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-12T16:50:26.000Z",
-      "summary_90w": "",
-      "raw": "Perplexity has just offered to buy Google Chrome for $34.5 billion — a bid that’s far more than the AI search startup itself is valued at, according to reports from The Wall Street Journal and Bloomberg. The startup sent the unsolicited bid on Tuesday, just months after Perplexity said it would buy Chrome if the government forces Google to sell its browser.\nThe startup also offered to buy TikTok earlier this year. Google hasn’t indicated that it would sell Chrome at any price, and so far, the court hasn’t ordered a sale.\nPerplexity spokesperson Jesse Dwyer confirmed to The Verge that the WSJ’s reporting is accurate. The startup’s bid for Chrome stands in stark contrast to the startup’s valuation of about $18 billion. \nDmitry Shevelenko, Perplexity’s chief business officer, told Bloomberg that “multiple large investment funds have agreed to finance the transaction in full.” A spokesperson for the startup also told Bloomberg that Perplexity would invest more than $3 billion in Chrome and Chromium over the next two years if Google accepts the deal.",
-      "topics": [
-        "Technology"
       ]
     },
     {
