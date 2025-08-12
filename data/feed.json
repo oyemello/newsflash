@@ -1,7 +1,33 @@
 {
-  "version": "1755028301107",
-  "generatedAt": "2025-08-12T19:51:41.107Z",
+  "version": "1755029803444",
+  "generatedAt": "2025-08-12T20:16:43.444Z",
   "items": [
+    {
+      "id": "cb20a140c85da1dc8b0f176c8b6e308db2a09a02",
+      "title": "League of Legends is testing a new WASD control scheme, 16 years in",
+      "url": "https://www.theverge.com/news/758360/league-of-legends-wasd-keyboard-control-riot-games",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-12T20:03:55.000Z",
+      "summary_90w": "",
+      "raw": "Riot Games is going to slowly introduce a WASD-based control scheme to League of Legends, which previously relied on point and click controls. “We believe that offering WASD controls will provide a fresh yet familiar way to play for both new players and veterans of the Rift without changing what makes League, League,” Riot says.\nThe company notes that WASD is “the most familiar control scheme for PC games today,” and by adding it as a control option, “we believe League will feel more intuitive to some players who come from other games.” However, Riot is also working to “ensure competitive balance” between the two different control styles, so it’s going to start with a test of the control scheme on League’s public beta environment before slowly rolling it out to non-ranked and eventually ranked and pro play.\nLeague of Legends launched nearly 16 years ago, and while it’s a hugely popular game, it has a reputation for being pretty intimidating to get into. Despite having watched many hours of competitive League, whenever I’ve tried to play it myself, I’ve quickly bounced because of its complexity. WASD controls could lower the barrier to entry, and Riot says that they are “the first of a number of long-term projects we’re working on to help shape League’s future.”",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "adca3c4507b230dace78a48f21edeb1c0e072c66",
+      "title": "Trump administration rewrites and scales back annual human rights report",
+      "url": "https://www.bbc.com/news/articles/cwy0lejvw25o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-12T19:56:50.000Z",
+      "summary_90w": "",
+      "raw": "The report reduces criticism of some US allies like Israel, and escalates disapproval of perceived foes such as Brazil.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "a98708c0eb5ca3eaf01d4d7690567fe460ffe565",
       "title": "The best foldable phone you can buy",
@@ -16,27 +42,27 @@
       ]
     },
     {
-      "id": "e5429f951748d51e3e30d25d44135e9beb419dc7",
-      "title": "Zelensky rules out ceding Donbas region as Russians make fresh advance",
-      "url": "https://www.bbc.com/news/articles/c4g6qd3k2peo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "id": "de99ca96c3276231295a153fee72203dc3fbc2c4",
+      "title": "'Glass half-full' & 'enthralled by details' - Spurs' new era under Frank",
+      "url": "https://www.bbc.com/sport/football/articles/cr4eqzggwqgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-08-12T19:35:25.000Z",
+      "published": "2025-08-12T19:37:30.000Z",
       "summary_90w": "",
-      "raw": "The Ukrainian leader was speaking ahead of a meeting between Donald Trump and Vladimir Putin in Alaska on Friday.",
+      "raw": "BBC senior football correspondent Sami Mokbel looks at how Tottenham are shaping up for the season under new manager Thomas Frank.",
       "topics": [
         "World"
       ]
     },
     {
-      "id": "9b64b8952d60260961c0a25f7caada02b65969d3",
-      "title": "Watch: Mic'd up Livingstone captains team in real time",
-      "url": "https://www.bbc.com/sport/cricket/videos/cz609ddd5zlo?at_medium=RSS&at_campaign=rss",
+      "id": "e5429f951748d51e3e30d25d44135e9beb419dc7",
+      "title": "Zelensky rules out ceding Donbas region as Russians make fresh advance",
+      "url": "https://www.bbc.com/news/articles/c4g6qd3k2peo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-08-12T19:34:34.000Z",
+      "published": "2025-08-12T19:35:25.000Z",
       "summary_90w": "",
-      "raw": "Listen to Birmingham Phoenix captain Liam Livingstone discussing his field placements and conversations with his bowlers, as he is mic'd up in the field against the Oval Invincibles in the men's Hundred.",
+      "raw": "The Ukrainian leader was speaking ahead of a meeting between Donald Trump and Vladimir Putin in Alaska on Friday.",
       "topics": [
         "World"
       ]
@@ -143,19 +169,6 @@
       "raw": "The AI coding wars are heating up. One of the main battlegrounds? \"Context windows,\" or an AI model's working memory - the amount of text it can take into account when it's coming up with an answer. On that front, Anthropic just gained some ground. Today, the AI startup announced a 5x increase in its context window as it races to compete with OpenAI, Google, and other major players.\nContext windows are measured in tokens, and Anthropic's new context window for Claude Sonnet 4, one of its most powerful AI models, can handle 1 million tokens. For reference, Anthropic has said in the past that a 500k context window can handle about 100 half-ho …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "04fce68f7713ebcd4ddd5a9e22ae8b110ab8b19f",
-      "title": "US woman convicted over failed assassination in UK",
-      "url": "https://www.bbc.com/news/articles/c4gj87jxg78o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-12T18:02:26.000Z",
-      "summary_90w": "",
-      "raw": "Aimee Betro flew into the country and tried to shoot a man at point-blank range before going on the run for nearly five years.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -341,19 +354,6 @@
       ]
     },
     {
-      "id": "fc0093142e82ff5fc185a1d9076efd6fe46f6ffa",
-      "title": "Ukraine's borders must not be changed by force, EU leaders say",
-      "url": "https://www.bbc.com/news/articles/clyrlvwx9rgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-12T16:57:04.000Z",
-      "summary_90w": "",
-      "raw": "The EU says \"the people of Ukraine must have the freedom to decide their future\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1a0cc81a491b0e4d52bf034cf719baee96782a0b",
       "title": "D.C. has been under tighter federal control before. Here's what it looked like",
       "url": "https://www.npr.org/2025/08/12/nx-s1-5498451/dc-federal-control-history-home-rule-trump",
@@ -492,19 +492,6 @@
       "published": "2025-08-12T16:15:46.000Z",
       "summary_90w": "",
       "raw": "Anthropic's popular coding model just became a little more enticing for developers with a million-token context window.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "8a42923f06c582c5db2aa6a9eb9c2c0ab4a9c85d",
-      "title": "Apple Cinemas responds to Apple lawsuit",
-      "url": "https://www.theverge.com/news/758192/apple-cinemas-lawsuit-response",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-12T16:13:37.000Z",
-      "summary_90w": "",
-      "raw": "Apple Cinemas, a theater chain not affiliated with Apple, has responded to Apple’s recent lawsuit over alleged trademark infringement, as reported by MacRumors. In its lawsuit, Apple alleged that Apple Cinemas and owner Sand Media have tried to “capitalize on the highly-regarded Apple brand” in connection with an “aggressive nationwide expansion.”\n“We are committed to defending our brand, our history, and our continued right to operate as Apple Cinemas—an identity that is and has always been clearly distinct and fully compliant with all applicable trademark laws,” Apple Cinemas says. The company states that the name “reflects our roots, beginning with our first planned location at the Apple Valley Mall in New England” and that it is now a “top 25 movie theater chain” in the US.\n“Apple Cinemas is a long-established independent theater chain with no connection to Apple Inc. Our name reflects our geographic roots and has never been intended to suggest, or used to imply, any affiliation with their brand. Furthermore, claims of consumer confusion are unfounded. Apple Cinema’s branding is clearly differentiated.”\nWhile Apple alleged that Apple Cinemas and Sand Media have “refused to engage with Apple’s repeated efforts to resolve the matter amicably,” Apple Cinemas says that “we have responded reasonably and transparently to all legal communications regarding this matter and remain focused on growing our business and brand in good faith, as we have for over a decade.”\nApple Cinemas, which has most of its locations in the Northeast US, opened its first West Coast location in San Francisco earlier this year.\nApple didn’t immediately respond to a request for comment.",
       "topics": [
         "Technology"
       ]
