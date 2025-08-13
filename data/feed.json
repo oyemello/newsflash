@@ -1,7 +1,85 @@
 {
-  "version": "1755106347570",
-  "generatedAt": "2025-08-13T17:32:27.570Z",
+  "version": "1755107026585",
+  "generatedAt": "2025-08-13T17:43:46.585Z",
   "items": [
+    {
+      "id": "7cc336566d0b5aa642631ef55545a28f1ca68810",
+      "title": "New York claims Zelle&#8217;s shoddy security enabled a billion dollars in scams",
+      "url": "https://www.theverge.com/news/758827/new-york-zelle-scams-fraud-lawsuit",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-13T17:39:34.000Z",
+      "summary_90w": "",
+      "raw": "New York Attorney General Letitia James is suing the banks behind Zelle over claims that their payment platform enabled “massive amounts of fraud” that caused customers to lose more than $1 billion between 2017 and 2023. In the lawsuit, James alleges Zelle was rushed to market, resulting in a design that made the platform “an obvious conduit for fraudulent activity.”\nEarly Warning Services (EWS), a company owned by major institutions including Bank of America, Capital One, JPMorgan Chase, Wells Fargo, and others, launched Zelle in 2017 as a way to let customers send money from their bank account to other users on the platform. However, James claims EWS “knew from the beginning that key features of the Zelle network made it uniquely susceptible to fraud” and still “failed to adopt basic safeguards.”\nOne of the alleged issues highlighted by James’ lawsuit includes a registration process that ”lacked important verification steps” that enabled scammers to sign up using misleading email addresses, which they could use to pose as a government employee or business to trick Zelle customers into sending them money that they couldn’t get back. Following government pressure, Zelle began paying back victims of imposter scams in 2023.\nAdditionally, James claims EWS did not ensure that banks reported customer complaints about fraud in a “timely” manner and falsely advertised the service as a “safe” money transfer tool. “Even when EWS did receive reports of fraud, it failed to promptly remove the fraudsters from the Zelle network or require banks to reimburse consumers for certain scams,” James alleges.\nThe lawsuit touches on many of the same points as the one initially filed by the Consumer Financial Protection Bureau. In March, the CFPB dropped its lawsuit against Zelle amid the Trump administration’s attempt to dismantle the agency and the firing of former head Rohit Chopra, who had taken an aggressive approach to tech regulation. That still hasn’t stopped scrutiny from federal lawmakers — and now, New York’s attorney general.\nZelle spokesperson Eric Blankenbaker pushed back on these claims in a statement to The Verge, saying Zelle “leads the fight to stop fraud and scams” in the US. “This lawsuit is a political stunt to generate press, not progress,” Blankenbaker says. “The Attorney General wants to hand criminals a blueprint for guaranteed payouts with no consequences, opening the floodgates to more scams, not less. That’s bad policy and puts consumers at greater risk.”\nAttorney General James claims EWS violated New York law and is asking for restitution and damages for all New Yorkers harmed by scams on Zelle. “I look forward to getting justice for the New Yorkers who suffered because of Zelle’s security failures,” James said in the press release.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "16fcea67f4e7c22501d0ffc66a0f7b87b1d34320",
+      "title": "Insta360&#8217;s next ultra-compact action camera is getting a redesign",
+      "url": "https://www.theverge.com/news/758816/insta360-go-ultra-action-camera-4k-leaked-images-specs",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-13T17:37:01.000Z",
+      "summary_90w": "",
+      "raw": "Leaked images reveal the Insta360 Go Ultra will once again be available in black or white color options. | Image: Roland Quandt\t\n\nIt hasn’t been officially announced yet, but leaked pics and specs have revealed the new design and capabilities of Insta360’s next ultra-compact action camera. The most notable update, thanks to product shots shared by reliable leaker Roland Quandt, is a new square design for the camera, which has previously been pill-shaped. It will also supposedly be called the Insta360 Go Ultra, instead of the Insta360 Go 4 had the company stuck with its previous naming convention.\nAccording to the leaks, the Insta 360 Go Ultra measures a little over an inch on each side (30mm) with the lens located in the corner of the camera. It weighs 53 grams, which is quite a bit heavier than the 35.5 gram Go 3 and 26.5 gram Go 2, but the Go Ultra features a new 1/1.28-inch sensor and 4K/60fps video capabilities. That’s twice the framerate of the updated Go 3S that was introduced about a year ago.\nThe camera will feature stabilization and a horizon lock feature, as well as an Active HDR mode that can capture more vivid videos when recording at 4K/30fps. The Go Ultra will also include a redesigned Action Pod dock that includes a flip-up screen for live previews and doubles as a wireless remote. It will also boost the Go Ultra’s runtime, but specific details about the new camera’s battery life aren’t known yet.\nAs for a potential release date? Previous iterations of the Insta 360 Go have debuted in June and even earlier, but leaks haven’t yet revealed when the company plans to officially launch the latest version.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b65011e211e923f6641fc5b05e5fd0e25e0b48f6",
+      "title": "The Xbox app for Windows on Arm will soon let you download games",
+      "url": "https://www.theverge.com/news/758828/microsoft-windows-on-arm-xbox-app-download-feature",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-13T17:36:09.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is adding the ability to download ARM64 compatible games to its Xbox app for Windows on Arm. Windows Insiders can now test a new update to the Xbox app that lets them install games locally, instead of having to rely on Xbox Cloud Gaming.\nCurrently, the Xbox app on devices like the Qualcomm-powered Surface Pro 12 will only let you play cloud games from Microsoft’s Xbox Cloud Gaming service. This new Xbox update will mean some ARM64 games from PC Game Pass or Xbox Game Pass Ultimate will be available on Qualcomm-powered devices for the first time.\nMicrosoft says its Windows and Xbox teams are working together on this Xbox app effort to ensure it has compatibility across the Game Pass catalog, and it’s also “developing new features that will enable more games to be played on Arm-based Windows 11 PCs in the coming months.”\nMicrosoft originally released an ARM64 version of its Xbox app in 2022, but there weren’t enough games natively compiled for Windows on Arm. These days you can just check the Windows on Arm ready site to see which games run well.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f4a2e6a68c37fa9b3165abde624142f1328ed89b",
+      "title": "Instagram is developing a feature that helps users find shared interests",
+      "url": "https://techcrunch.com/2025/08/13/instagram-is-developing-a-feature-that-helps-users-find-shared-interests/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-08-13T17:35:41.000Z",
+      "summary_90w": "",
+      "raw": "People select their favorite movies, books, TV shows, games, and music, or their \"Picks.\" Instagram then finds overlaps with friends who chose the same things.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4a920d15d0f6aaf505198b0a3b290f3a7d78bc00",
+      "title": "Zelenskyy: Trump supports ceasefire and security guarantees for Ukraine at Putin summit",
+      "url": "https://www.npr.org/2025/08/13/nx-s1-5500525/zelenskyy-trump-putin-ceasefire-ukraine-summit",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-08-13T17:32:45.000Z",
+      "summary_90w": "",
+      "raw": "European leaders held a high-stakes meeting Wednesday with President Trump, Vice President JD Vance, Ukraine's Zelenskyy, NATO's chief, and European leaders ahead of Friday's US Russia summit.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bcdcbb7e0fc919f2e798dc930d82377f791347de",
+      "title": "Claire's falls into administration with 2,150 jobs at risk",
+      "url": "https://www.bbc.com/news/articles/cp8zwdy98k8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-13T17:29:58.000Z",
+      "summary_90w": "",
+      "raw": "Claire's has appointed administrators in the UK and Ireland, but its shops will stay open as it considers a possible sale.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "1810b225650e059cd02913e5a38654cdc527730a",
       "title": "Monarch Tractors won’t be built by Foxconn after Ohio factory sale",
@@ -55,6 +133,19 @@
       ]
     },
     {
+      "id": "ba6564811b756822809cf06af7ce7fa257180be6",
+      "title": "Trump to seek extension of DC police takeover past 30-day limit and touts Republican support – live",
+      "url": "https://www.theguardian.com/us-news/live/2025/aug/13/donald-trump-ukraine-russia-washington-kennedy-center-us-politics-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-08-13T17:21:47.000Z",
+      "summary_90w": "",
+      "raw": "Trump says ‘we’re going to be asking for extensions’ on 30-day limit to takeover of DC police as he announces himself as the host Kennedy Center Honors\nWe can expect to hear from Donald Trump at least a few times today. According to the president’s daily schedule, he’ll make an appearance at the Kennedy Center at 11am ET, and make an announcement.\nHe’ll then head back to the White House and sign executive orders at 4pm ET. For now this will be closed press, but could very well open up.\nWill be speaking to European Leaders in a short while. They are great people who want to see a deal done.\nVery unfair media is at work on my meeting with Putin. Constantly quoting fired losers and really dumb people like John Bolton, who just said that, even though the meeting is on American soil, “Putin has already won.” What’s that all about? We are winning on EVERYTHING. The Fake News is working overtime (No tax on overtime!).\nIf I got Moscow and Leningrad free, as part of the deal with Russia, the Fake News would say that I made a bad deal! But now they’ve been caught. Look at all of the real news that’s coming out about their CORRUPTION. They are sick and dishonest people, who probably hate our Country. But it doesn’t matter because we are winning on everything!!! MAGA\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "1b90f188e7957851e2c76c971cdab8845abd3537",
       "title": "Putin to face ‘very severe consequences’ if he does not agree Ukraine ceasefire, says Trump",
       "url": "https://www.theguardian.com/world/2025/aug/13/trump-assurances-europe-putin-ukraine-alaska-talks",
@@ -76,19 +167,6 @@
       "published": "2025-08-13T17:11:08.000Z",
       "summary_90w": "",
       "raw": "Emmanuel Macron writes to Cameroonian president with findings of joint commission on country’s colonial past\nFrance has acknowledged its role in decades of violent repression of independence movements in Cameroon, the latest stage in a slow process of reckoning with its brutal colonial past.\nIn a letter to the Cameroonian president, Paul Biya, dated 30 July, Emmanuel Macron said it was “up to me today to assume the role and responsibility of France in these events”.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ba6564811b756822809cf06af7ce7fa257180be6",
-      "title": "Trump to seek extension of DC police takeover past 30-day limit and touts Republican support – live",
-      "url": "https://www.theguardian.com/us-news/live/2025/aug/13/donald-trump-ukraine-russia-washington-kennedy-center-us-politics-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-08-13T17:10:02.000Z",
-      "summary_90w": "",
-      "raw": "Trump says ‘we’re going to be asking for extensions’ on 30-day limit to takeover of DC police as he announces himself as the host Kennedy Center Honors\nWe can expect to hear from Donald Trump at least a few times today. According to the president’s daily schedule, he’ll make an appearance at the Kennedy Center at 11am ET, and make an announcement.\nHe’ll then head back to the White House and sign executive orders at 4pm ET. For now this will be closed press, but could very well open up.\nWill be speaking to European Leaders in a short while. They are great people who want to see a deal done.\nVery unfair media is at work on my meeting with Putin. Constantly quoting fired losers and really dumb people like John Bolton, who just said that, even though the meeting is on American soil, “Putin has already won.” What’s that all about? We are winning on EVERYTHING. The Fake News is working overtime (No tax on overtime!).\nIf I got Moscow and Leningrad free, as part of the deal with Russia, the Fake News would say that I made a bad deal! But now they’ve been caught. Look at all of the real news that’s coming out about their CORRUPTION. They are sick and dishonest people, who probably hate our Country. But it doesn’t matter because we are winning on everything!!! MAGA\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -284,19 +362,6 @@
       "published": "2025-08-13T16:27:55.000Z",
       "summary_90w": "",
       "raw": "The foreign secretary has written to the Environment Agency to tell them about the error, and has now bought a licence.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "bcdcbb7e0fc919f2e798dc930d82377f791347de",
-      "title": "Claire's falls into administration with 2,150 jobs at risk",
-      "url": "https://www.bbc.com/news/articles/cp8zwdy98k8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-13T16:21:14.000Z",
-      "summary_90w": "",
-      "raw": "Claire's has appointed administrators in the UK and Ireland, but its shops will stay open as it considers a possible sale.",
       "topics": [
         "World"
       ]
@@ -640,19 +705,6 @@
       ]
     },
     {
-      "id": "125dd5499cfd85f6b14512cbb0cf612592c10784",
-      "title": "Hidden Door is an AI storytelling game that actually makes sense",
-      "url": "https://www.theverge.com/games/757816/hidden-door-early-access-ai-story",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-13T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Hidden Door’s character creator.\t\n\nYears before ChatGPT jump-started the generative AI wave, OpenAI technology powered a game called AI Dungeon 2 that essentially let you improvise an open-ended, anything-goes story with an AI narrator. Hidden Door, a new platform that's now  in early access, also lets you cowrite a choose-your-own-adventure-style story with AI. But this narrator won't let you do whatever you want - in fact, that's a lot of the appeal.\nHidden Door is designed to let you play in worlds that include the public domain settings of the Wizard of Oz and Pride and Prejudice as well as The Crow, which Hidden Door has licensed. You create a character, fill in a few d …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "4e8937a66c4137cbfd2fa02acfce30e95d476be2",
       "title": "How we found TeaOnHer spilling users’ driver’s licenses in less than 10 minutes",
       "url": "https://techcrunch.com/2025/08/13/how-we-found-teaonher-spilling-users-drivers-licenses-in-less-than-10-minutes/",
@@ -661,19 +713,6 @@
       "published": "2025-08-13T14:00:00.000Z",
       "summary_90w": "",
       "raw": "Exclusive: A dating gossip app for men exposed thousands of users' personal data, including scans of driver's licenses. The app's developer, Xavier Lampkin, won't say if he plans to notify affected users about the app's security lapse.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "83f1b85cf32a53a9e5240783b240bfe58f505453",
-      "title": "I tested a bunch of gaming laptops and these are the best",
-      "url": "https://www.theverge.com/22295181/best-gaming-laptop",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-13T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Gaming laptops come in various shapes and sizes, though many of the heavy hitters remain thick and beefy machines that maximize cooling to get the most out of their powerful chips. Most are awash in RGB lighting and edgy designs geared towards capital-G Gamers, but there are also thinner, lighter options that are more portable and less showy. \nOur go-to recommendation that checks the boxes for most people is, and has been for a while, the Asus ROG Zephyrus G14. It’s a gaming laptop that doesn’t forget the “laptop” part. The G14 is a versatile machine for both play and work, and it travels exceptionally well.\nOther great, though pricey, recommendations include the big and heavy Asus ROG Strix Scar and Lenovo Legion Pro 7i, or the Razer Blade 16 for lots of graphics power in a thin and sleek design.\nThe most important part of any gaming laptop, just like desktop PCs, is the graphics card. Laptop GPUs can’t stack up to full-size cards that reach much higher wattage in desktops, but that doesn’t stop the likes of Nvidia from making things a little confusing with the naming scheme on its RTX brand of GeForce cards. So keep in mind that, for example, an RTX 5090 laptop card doesn’t come anywhere near the performance of a desktop 5090. Desktops may always win out in raw performance, but gaming laptops are a simpler turnkey solution that can easily go places (yes, even the ones that feel like you’re toting around a cinderblock). \nEven more confusing: the same GPU in one laptop may not perform as well in another if it’s throttled by thermal constraints. We try to test a wide range of gaming laptops, as well as regular laptops, and these are the ones we confidently recommend.\n\n\n\n\n\nThe best gaming laptop\nThe most powerful gaming laptop\nThe best mid-to-high-tier gaming laptops for most people\nThe best budget gaming laptop\nA sleek 16-inch gaming laptop\nThe best convertible gaming laptop\n\nThe best gaming laptop\nAsus ROG Zephyrus G14 (2025)\n\n\n\nProsCons\n\n\nBalanced performance, battery life, and portability\nOLED display\nProgrammable LED strip on the lid\nGreat keyboard and smooth trackpad\n\nGets a bit hot and loud under load\nSoldered RAM\nThermally throttles its GPUs\n\n\n\nWhere to Buy:\n\n $1799.99 $1349.99 at Best Buy (5060)\n $1799.99 at Asus\n\nCPU: AMD Ryzen 9 270, HX 370 / GPU: Nvidia GeForce RTX 5060, RTX 5070, RTX 5070 Ti, RTX 5080 / RAM: 16GB, 32GB / Storage: 1TB / Display: 14-inch OLED, 2880 x 1800, 120Hz, 500 nits / Dimensions: 12.24 x 8.66 x 0.63 to 0.64 inches / Battery: 73Whr / Weight: 3.31 pounds\nAsus’s ROG Zephyrus G14 has been a favorite among Verge staffers for years now, and it remains our go-to pick for its balance of power and portability. It can be your full-time gaming machine as well as your commuter-friendly everyday laptop. Asus redesigned it in 2024 and toned down its more playful aesthetics for a sleeker, refined look, and for 2025 it just got a modest chip bump with RTX 50-series graphics and the ability to charge via USB-C on either side (but you still need to use its proprietary charger for max wattage). \nIt now starts at $1,799.99 instead of $1,699.99. But you get a little more for your extra money since even the base Zephyrus G14 comes with a lovely, high-res OLED display capable of a 120Hz refresh rate, and it still has a great keyboard and trackpad. Games play well on high settings, though due to the thin chassis, the G14 — and even its 16-inch sibling, the Zephyrus G16 — are known to get a little hot to the touch, and their fans are quite noisy.\nZephyrus laptops are never going to offer quite the same performance as much thicker models, like the Asus ROG Strix or other chunkers running equivalent GPUs — they just don’t have as much thermal headroom. But if you want a jack-of-all-trades notebook that puts gaming at the forefront, the G14 (or G16, if you want to go bigger and have the budget) is unlikely to steer you wrong.\nThe most powerful gaming laptop\nMSI Titan 18 HX AI (2025)\n\n\nScore: 7\n\nProsCons\n\n\nTop-tier gaming performance in a laptop\n4K Mini LED screen is massive, looks great, and gets very bright\nMechanical keyboard is loud but feels awesome to type on\n\nAstronomically expensive\nBattery drains very fast, even during regular tasks\nFans get loud\n120Hz refresh is half the speed of cheaper laptops with 2.5K OLEDs\n\n\n\nWhere to Buy:\n\n $5799.99 $5449 at MSI (RTX 5090)\n $5799.99 $5449 at Amazon  (RTX 5090)\n\nCPU: Intel Core Ultra 9 285HX  / GPU: Nvidia Geforce RTX 5090 / RAM: 64GB, 96GB / Storage: 6TB / Display: 18-inch Mini LED 4K (3840 x 2400), 120Hz display, 1,000 nits, 100 percent DCI-P3 / Dimensions: 15.9 x 12.08 x 1.26 inches / Battery: 99.9Whr / Weight: 7.93 pounds\nThe MSI Titan is your pick if budget isn’t a concern. It starts at a ridiculous $5,799.99 with Intel’s flagship Core Ultra 9 285HX CPU and Nvidia’s most powerful GPU, the RTX 5090. The Titan pairs its punchy hardware with a massive 18-inch 4K / 120Hz Mini LED screen that gets incredibly bright, along with 64GB of RAM and a 6TB SSD.\nIt’s loaded with RGB (including an illuminated haptic trackpad), a mechanical keyboard by SteelSeries, five USB ports (two of which are Thunderbolt 5), and a four-speaker / dual-woofer sound setup. It can tackle most games you throw at it on ultra settings. The screen may not be as fast as other laptops with 2.5K / 240Hz panels, but 4K at 18 inches looks so crisp. You have to pay out the nose for this no-holds-barred experience, but the nearly eight-pound behemoth is about as powerful as laptops get right now.\nIn the past, our choice for this tier of laptop was Asus’s ROG Strix Scar 17 using one of AMD’s X3D chips. That model was especially unique since it was significantly cheaper (under $4,000). Perhaps the 18-inch MSI Raider with the Ryzen 9 9955HX3D and RTX 5090 could sway me away from the Titan, but we’ll have to try it out first. (At $5,099.99, the Raider isn’t exactly a budget pick either.)\nThe best mid-to-high-tier gaming laptops for most people\nAsus ROG Strix Scar 16 (2025, RTX 5080)\n\n\nScore: 8\n\nProsCons\n\n\nGreat graphics performance in the latest high-end games\nLots of ports and easy access to RAM / SSDs\nAnimated lid and wraparound RGB are fun\nVery good QHD / 240Hz Mini LED screen\n\nTypical gaming laptop issues (pricey, hefty, and not great battery life)\nCompetition offers OLED screens\nCustomizing lid animations is a pain\n\n\n\nWhere to Buy:\n\n $3299.99 $2999.99 at Amazon\n $3299.99 $3099.99 at Walmart\n $3299.99 at Asus\n\nCPU: Intel Core Ultra 9 275HX / GPU: Nvidia GeForce RTX 5080 / RAM: 32GB / Storage:  2TB / Display: 16-inch Mini LED 2560 x 1600, 240Hz display / Dimensions: 13.94 x 10.55 x 0.9 to 1.21 inches / Battery: 90Whr  Weight: 6.17 pounds\nYou don’t have to spend Titan money to land somewhere in the ballpark of excellent gaming performance. There are a few great options in the mid-to-high tier of gaming laptops, sporting RTX 5080 graphics (or the RTX 5070 Ti if you need to save a bit more). My top pick is the Asus ROG Strix Scar 16, followed closely by the Lenovo Legion Pro 7i.\nLenovo Legion Pro 7i (16-inch, Intel)\n\n\nScore: 8\n\nProsCons\n\n\nGreat performance at 2.5K and even at 4K on an external monitor\nBeautiful OLED screen\nOne of the best keyboards in this class of gaming laptops\n\nNo face or fingerprint unlock\nNumpad makes things slightly cramped, with off-center trackpad\nLenovo’s apps are slightly more invasive with notifications than others\n\n\n\nWhere to Buy:\n\n $3559.99 $2829.99 at Lenovo (RTX 5080, 1TB SSD)\n $3499 $2899 at Lenovo (RTX 5080, 1TB SSD)\n $2969.99 at Best Buy (RTX 5080, 1TB SSD)\n\nThe 16-inch ROG Strix Scar is decked out with a wraparound RGB light bar that creates a colorful underglow and a dot-matrix LED lid for adorning fun illuminated animations. The Strix Scar’s game performance is exceptional, with its RTX 5080 nearly matching the 5090 in the much thinner Razer Blade 16 — and for $1,200 less.\nThe Lenovo Legion Pro 7i is a similarly specced 16-incher, offering the same CPU and GPU in a better, metallic build. It’s got its share of RGB lighting, but it’s done a little more tastefully than the Asus. Meanwhile, the Strix Scar’s 2.5K / 240Hz screen is a Mini LED display that’s bright, colorful, and visually pleasing. It matches the resolution and refresh rate of the OLED on Lenovo’s Legion Pro 7i, but the OLED on the Lenovo is even better, with a punchier look. \nIt’s a bit of a toss-up between these two: the Lenovo has the better screen and build quality, yet it lacks face or fingerprint unlocking. But the Asus is $200 cheaper, and I prefer the trackpad and better key spacing of its numpad-less design. You can’t go wrong here, so picking one based on small nuances like that or just whatever you can get a deal on is fair. (The Lenovo has dipped to as low as $2,899 at retailers like B&H Photo, and a savings of $600 is significant.)\nThe best budget gaming laptop\nHP Victus 15 (2025, RTX 4050)\n\n\n\nProsCons\n\n\nGood pricing\nAMD or Intel CPU options\nRTX 4050 is fine for 1080p gaming\n\n16:9 aspect ratio is outdated\nNot a ton of ports, and only one of them is USB-C\n\n\n\nWhere to Buy:\n\n $899.99 at Best Buy (AMD)\n\nCPU: AMD Ryzen 7 7445HS, Intel Core i5-13420H / GPU: Nvidia GeForce RTX 4050 / RAM: 16GB / Storage: 512GB / Display: 15.6-inch IPS, 1920 x 1080, 144Hz, no touch option / Dimensions: 14.09 x 10.04 x 0.93 / Battery: 70Wh  Weight: 5.06 pounds\nOur previous pick among budget gaming laptops was the HP Victus 15 with an RTX 3050 GPU, which cost around $800 in 2022 when it wasn’t on a steep sale for less. It had a 60Hz screen and just 8GB of RAM, which feels a little paltry for gaming on Windows 11 in 2025. Now, you can get the same chassis with a 1080p / 144Hz screen, a newer RTX 4050 GPU, and either AMD Ryzen 7 7000-series or Intel 13th-Gen CPU for around $850 to $900.\nNvidia has announced its RTX 5050 laptop GPU, which is set to slowly trickle out into new laptops for about $999. We’ll have to see how that stacks up in future testing.\nThe Victus isn’t going to wow you with the best screen or highest-quality components for a keyboard or trackpad, but it does emphasize a solid graphics card in an affordable package. It’s the kind of laptop that will excel with live service games like Minecraft or Fortnite, as well as indie titles. Just don’t expect high or ultra settings on the latest AAA games. With the right expectations, a more inexpensive gaming laptop like the Victus can treat you well.\nA sleek 16-inch gaming laptop\nRazer Blade 16 (2025, RTX 5090)\n\n\nScore: 7\n\nProsCons\n\n\nGreat fit, finish, and build\nSlim and sleek design for a gaming laptop\nExcellent OLED screen comes standard\nVery good performance, especially in DLSS 4 supported games\n\nStarts expensive and gets expensive-er\nMiddling battery life\nThinness aside, minimal improvements over last year’s model\nA cheaper 5080 laptop may be money better spent\nThe matte black finish smudges easily, and the Razer lid logo is still a little cringe\n\n\n\nWhere to Buy:\n\n $4899.99 at Razer\n\nCPU: AMD Ryzen AI 9 365, Ryzen AI 9 HX 370 / GPU: Nvidia Geforce RTX 5060, 5070, RTX 5070 Ti, RTX 5080, RTX 5090 / RAM: 16GB, 32GB, 64GB / Storage: 1TB, 2TB, 4TB / Display: 16-inch OLED, 2560 x 1600, 240Hz / Dimensions: 13.98 x 9.86 x 0.59 to 0.69 inches / Battery: 90Wh / Weight: 4.71 pounds\nThe Razer Blade 16 has long been touted as the MacBook Pro for gamers, and after thickening up for a few years, it’s back to an ultra-thin chassis without much compromise to performance. It’s flush with ports, has a great keyboard and massive trackpad, and its AMD chips can be paired with a variety of Nvidia GeForce RTX GPU — ranging from the 5060 for $2,399.99 to the top-tier 5090 for a much steeper $4,499.99.\nThe Blade sports a lovely 16-inch OLED display with 2560 x 1600 resolution and 240Hz refresh, even for the entry-level configuration. The look of its stealthy matte black design and green Razer logo may not be to everyone’s liking, but pair that with its thinness, and you’ve got something that can travel and blend in almost anywhere.\nI tested the RTX 5090 version in our review, and while it’s impressive, it can be a little hard to justify spending $4,500 without getting the maximum capabilities of that flagship GPU, since the Blade 16’s thinness throttles the 5090. But it’s such a nice overall package if you want your gaming laptop to do it all. The Blade also comes in 14- and 18-inch sizes, but I think the 16 is the sweet spot.\nRead our Razer Blade 16 (2025) review.\nThe best convertible gaming laptop\nAsus ROG Flow Z13 (2025)\n\n\nScore: 8\n\nProsCons\n\n\nImpressive game performance for an iGPU on a tablet\n\nCapable 2.5K performance\n\nLaptop-quality keyboard and trackpad\n\nBattery can get through a day of work (with no gaming breaks)\n\nPlay games on your lap without heating up your legs\n\nExcellent kickstand\n\nStill a pricey, niche device\n\nWish the keyboard cover had Bluetooth like the latest Surface Pro\n\nPower / sleep button is too flush\n\nNo auto-brightness\n\nKeyboard case sometimes not detected after waking from sleep\n\nSingle-zone keyboard RGB looks basic\n\n\n\nWhere to Buy:\n\n $2099.99 at Asus\n $2399.99 at Best Buy\n\nCPU: AMD Ryzen AI Max 390, Ryzen AI Max Plus 395 / GPU: Integrated / RAM: 32GB, 64GB, 128GB / Storage: 1TB SSD / Display: 13.4-inch IPS, 2560 x 1600, 180Hz, touchscreen / Dimensions: 11.81 x 8.03 x 0.51 to 0.59 inches / Battery: 70Whr Weight: 2.65 pounds\nAsus’s ROG Flow Z13 gaming tablet has always been a niche device, but the latest generation with AMD’s new Strix Halo APU is the best version yet. That’s right, Asus switched from a discrete GPU to integrated graphics, but surprisingly, the chunky “Surface Pro for gamers” is actually better for it.\nIt may sound a little reckless to spend $2,100 or more on a gaming tablet, but the Z13 and its new Ryzen AI Max chip offer enough graphical prowess to make most games look great on its 2560 x 1600 / 180Hz IPS display. And it even has the battery chops to squeak through an eight-hour work day, making it an impressive multi-purpose device.\nA regular clamshell laptop may make more logical sense for most people, but the ROG Flow’s form factor just makes it kinda fun. Being able to remove the keyboard entirely allows you to comfortably plop it on your lap and game away without feeling like you’re going to set your legs on fire. And if you’re a mechanical keyboard nerd like me, you can connect your favorite board without the bottom half of a laptop in your way (this is surprisingly useful for using the Z13 as a second screen below a big monitor.\nRead our Asus ROG Flow Z13 (2025) review.\nMonica Chin and Joanna Nelius also contributed to previous versions of this buying guide.\nUpdate, August 13th: Adjusted pricing and availability.",
       "topics": [
         "Technology"
       ]
@@ -726,19 +765,6 @@
       "published": "2025-08-13T13:13:46.000Z",
       "summary_90w": "",
       "raw": "The response comes after Musk threatened to sue Apple via xAI, claiming the iPhone maker was “behaving in a manner that makes it impossible for any AI company besides OpenAI to reach #1 in the App Store.”",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "1d25bacfbfb2ac7e911542aa5a13d8fac6f59be4",
-      "title": "Here’s a look at the final Pebble Time 2 design",
-      "url": "https://www.theverge.com/news/758592/pebble-time-2-final-design-wearables-smartwatches",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-13T13:01:57.000Z",
-      "summary_90w": "",
-      "raw": "Here it is, the Pebble Time 2’s final look. | Image: Eric Migicovsky, Core Devices\t\n\nNow that Pebble is Pebble again, we’re getting an official look at the new Pebble Time 2 that’ll ship to customers later this year. (We got a sneak peek back in March, but those were preliminary designs.)\nThe designs were posted today by Core Devices CEO Eric Migicovsky on his blog and YouTube. The Time 2 will come in four colors, though they haven’t been finalized that yet — Migicovsky says the company is looking for input from Pebble fans. The device will feature stainless steel front, back, and buttons resembling those from the Pebble Time Steel. There’ll also be multicolor RGB backlighting, a second microphone, screw-mounted back cover, and a compass. It also weighs about 48 grams with the strap, and 32.5 grams for the case itself. This is in addition to the specs that were previously teased, like a 1.5-inch 64 color e-paper display, touch screen, standard 22mm straps, heart rate monitor, and 30-day battery life.\n\n“This is basically the watch of my dreams,” Migicovsky says in the video. So far, the design evokes the same minimalist feeling as the original Pebble Time, but with a sleeker profile and rounded edges. Compared to the slightly more dressed up Pebble Time Steel, the bezels on the new Pebble Time 2 are also significantly smaller. The glass is also flatter, so there’s less reflection when viewed from an angle. \nIn his blog, Migicovsky notes that folks who want to switch orders from the Pebble 2 Duo don’t have to do anything special. There’ll be a survey sent out to those who have pre-ordered in the next month or so. Here’s a gallery that you can ooh and ahh over in the meantime.",
       "topics": [
         "Technology"
       ]
@@ -952,19 +978,6 @@
       ]
     },
     {
-      "id": "c416687d7987d26fb69dbaa184652fcc0b03977e",
-      "title": "High prices and health care costs may turn Latino voters away from Republicans in 2026",
-      "url": "https://www.npr.org/2025/08/13/nx-s1-5490046/latino-voters-economy-inflation-healthcare-costs-trump-2026-midterms",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-08-13T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Latino voters helped deliver the White House to President Trump in the last election. Many of them already say they won't vote for Republicans next year, but they aren't yet turning to Democrats.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "bd0059bfd88abc5760401c33bb60fc9156ee1290",
       "title": "Inside one of the most understaffed immigration courts in the country",
       "url": "https://www.npr.org/2025/08/13/nx-s1-5482883/trump-immigration-court-firings-chelmsford",
@@ -1004,14 +1017,14 @@
       ]
     },
     {
-      "id": "4a86db9560c363a3f1ddb8f52fa88ca63c322c7b",
-      "title": "Why a good pep talk doesn't always need to include advice",
-      "url": "https://www.npr.org/2025/08/13/nx-s1-5482854/give-a-good-pep-talk",
+      "id": "9fbc70854e3c69aab4253a013fe420958b16e5c1",
+      "title": "Why the origin of the word 'dog' remains a mystery",
+      "url": "https://www.npr.org/2025/08/13/nx-s1-5500476/dog-history-etymology-origin",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-08-13T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "Need to say a few words of encouragement? The authors of the book Tiny Pep Talks explain how to deliver a message that motivates and inspires — whether it's for a loved one or for yourself.",
+      "raw": "Although \"dog\" is ubiquitous today to describe man's best friend, it remains a mystery where the word originally came from.",
       "topics": [
         "World"
       ]
@@ -1456,19 +1469,6 @@
       "raw": "Chief of Defence Staff Sir Roly Walker says the army is committed to stopping sexual exploitation.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "afd72b2a2ab9902ecc73b68df5657e712dd4fecf",
-      "title": "Google vet raises $8M for Continua to bring AI agents to group chats",
-      "url": "https://techcrunch.com/2025/08/12/google-vet-raises-8m-for-continua-to-bring-ai-agents-to-group-chats/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-08-12T17:15:01.000Z",
-      "summary_90w": "",
-      "raw": "David Petrou, founding member of Google Goggles and Google Glass, wants to enhance group chats with AI.",
-      "topics": [
-        "Technology"
       ]
     },
     {
