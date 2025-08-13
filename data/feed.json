@@ -1,7 +1,20 @@
 {
-  "version": "1755114014721",
-  "generatedAt": "2025-08-13T19:40:14.721Z",
+  "version": "1755114712761",
+  "generatedAt": "2025-08-13T19:51:52.761Z",
   "items": [
+    {
+      "id": "c6be3176ef0c6182ccf8a3527bd67a73d4306ecb",
+      "title": "Apple&#8217;s plan for AI could make Siri the animated center of your smart home",
+      "url": "https://www.theverge.com/news/758931/apple-ai-siri-smart-home-robot-security-camera",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-13T19:41:23.000Z",
+      "summary_90w": "",
+      "raw": "Apple is developing a bunch of products and features to deliver its vision of AI, including multiple robots, a smart home display, and a revamped version of Siri with new technology powering it, according to an extensive report from Bloomberg. The company’s generative AI efforts lag those from other big tech companies, and  it delayed some upgrades to Siri earlier this year, but these rumored new initiatives point to  the smart home as a key place for its AI technology\nOne of the robots is apparently a tabletop robot that “resembles” an iPad mounted to an arm that can move around and follow users as they move around a room, Bloomberg says. Apple has already shared a preview of what this could look like: earlier this year, the company published research showing a tabletop robot that looks like a real-life version of the Pixar logo with a lamp on the end of the arm. In videos, it’s quite charming — it can even dance. \nA key part of the device, which Apple is aiming to launch in 2027, would be a more visual version of Siri that users could have more natural conversations with, like what’s possible with ChatGPT’s voice mode. Bloomberg says Apple has tested using an animated take on the Finder logo for Siri, but the company is also apparently thinking about ideas that are more like Memoji. Apple is also revamping Siri so that it’s powered by LLMs.\nApple is working on other robots, too, including an Amazon Astro-like robot that has wheels, and it has “loosely discussed” humanoid robots, according to Bloomberg.\nBy the “middle of next year,” Apple plans to launch a smart home display that will let you do things like control your smart home, play music, take notes, and do video calls, Bloomberg says, and this device could have the new look for Siri. The display and the tabletop robot may have a new OS that can be used by multiple people, and could be able to personalize what’s shown to a user by scanning their face with a front-facing camera. Bloomberg says the smart home screen resembles a Google Nest Hub but has a square display.\nIn addition to the smart home display, Apple is also working on a security camera, and it plans to develop “multiple types of cameras and home-security products as part of an entirely new hardware and software lineup,” Bloomberg says.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "5adea6ee39bce39b4a6a37d70ca8c9eb54fccd1a",
       "title": "Google CEO adds a new calendar feature at Stripe co-founder’s request",
@@ -10,7 +23,7 @@
       "source_name": "TechCrunch",
       "published": "2025-08-13T19:35:46.000Z",
       "summary_90w": "",
-      "raw": "Now that's some customer service.",
+      "raw": "While users often tag companies and CEOs with online feedback and complaints, you know you've made it when the CEO not only replies to you, but also implements the change you've asked for.",
       "topics": [
         "Technology"
       ]
@@ -754,19 +767,6 @@
       "raw": "The situation is being described as \"catastrophic\" after islands hit by vast amounts of rain.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "2f1f87699e46884c65b751930131134a06b4b1f0",
-      "title": "Some doctors got worse at detecting cancer after relying on AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/758672/some-doctors-got-worse-at-detecting-cancer-after-relying-on-ai",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-13T14:48:13.000Z",
-      "summary_90w": "",
-      "raw": "We’ve heard about upskilling and re-skilling due to AI — but how about de-skilling? A new study published this week found that doctors who frequently use AI to detect cancer in one medical procedure got significantly worse at doing so. \nThe researchers set out to discover whether continuous exposure to AI impacted doctors’ behavior when conducting colonoscopy, so they decided to assess “how endoscopists who regularly used AI performed colonoscopy when AI was not in use.”\nThe answer: Not so hot. The rate was about six percentage points lower. \nThe study was published in The Lancet Gastroenterology & Hepatology journal by medical professionals and researchers in countries including Poland, Norway, Sweden, the U.K., and Japan. It followed doctors at four endoscopy centers in Poland, which were part of a trial program focusing on AI’s use in colonoscopy for potential cancer prevention.\nIt raises questions about the use of AI in healthcare, when it helps and when it could hurt. Last week, The Verge reported on a Google healthcare AI model’s instance of potentially hallucinating a body part and where medical professionals think the industry will go from here.",
-      "topics": [
-        "Technology"
       ]
     },
     {
