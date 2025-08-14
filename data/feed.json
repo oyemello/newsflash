@@ -1,7 +1,33 @@
 {
-  "version": "1755200233227",
-  "generatedAt": "2025-08-14T19:37:13.227Z",
+  "version": "1755201088204",
+  "generatedAt": "2025-08-14T19:51:28.204Z",
   "items": [
+    {
+      "id": "9a1cf0d3ba0c3e1d8fc90c3aeae10aba9799884f",
+      "title": "China is about to launch SSDs so small you insert them like a SIM card",
+      "url": "https://www.theverge.com/news/759624/china-is-about-to-launch-ssds-so-small-you-insert-them-like-a-sim-card",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-14T19:41:23.000Z",
+      "summary_90w": "",
+      "raw": "MicroSD cards are tiny but slow; the M.2 storage sticks in your PC are blazing fast but bigger and fully enclosed. Now, a new type of SSD out of China could be the best of both worlds — and it’s already set to appear in two cutting-edge gaming portables.\nChinese storage manufacturer Biwin is calling it the “Mini SSD,” though another manufacturer refers to it as the “1517”; it measures just 15mm x 17mm x 1.4mm thick, smaller than a U.S. penny and just slightly larger than MicroSD. Despite that, it offers maximum sequential read speeds of 3,700 megabytes per second (or 3,400MB/s writes) over a PCIe 4×2 connection, and offers 512GB, 1TB and 2TB capacities.\n\n\n\n\nTo put that in context, the new MicroSD Express cards that work with the Nintendo Switch 2 top out at a theoretical 985MB/s, less than a third the speed. And while a full-size SD Express card could theoretically beat Mini SSD at 3,940MB/s, it would be nearly twice the size of Biwin’s creation. \nThe nano-SIMs used in recent smartphones are still smaller, though, and M.2 drives are still faster. I whipped up a quick chart so you can easily compare various storage cards and SIMs:\n\nTypeLengthWidthHeightTheoretical max speed\n\nMini SSD15mm17mm1.4mm3,700MB/s\nMicroSD11mm15mm1mm985MB/s\nSD24mm32mm~2mm (varies)3,940MB/s\nM.2 223022mm30mm~2mm (varies)~8,000MB/s\nM.2 228022mm80mm~2mm (varies)~14,000MB/s\nNano-SIM8.8mm12.3mm0.67mmN/A\nMicro-SIM12mm15mm0.76mmN/A\nMini-SIM15mm25mm0.76mmN/A\n\n\n\nIt’s not clear if Biwin’s Mini SSD is a true standard that other storage makers can easily adopt. But the company’s marketing it for laptops, tablets, phones, cameras and more, with its own dedicated slot that works exactly like smartphone SIM card slots: stick in a pin to remove the tray.\nThe company claims IP68 water and dust resistance, which could be handy for phones in particular, and three-meter drop resistance.\nTwo cutting-edge Chinese gaming portables already appear to be customers, both of which made announcements at ChinaJoy this past week. There’s the GPD Win 5, the monster battery backpack wielding Strix Halo handheld we told you about in July, which you can see with the new SSD in the video atop this story. \nOneNetbook’s upcoming OneXPlayer Super X hybrid laptop/tablet, which has the same Strix Halo chip, is also now advertising a dedicated “card slot” for a mini SSD.\nWe don’t have any idea of pricing on these new SSDs, and have seen no product listings for them yet.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8de5706d62e1695f8815e2a6a51f4dcaf3caba30",
+      "title": "Israeli settlement plans will 'bury' idea of Palestinian state, minister says",
+      "url": "https://www.bbc.com/news/articles/ckgdzxpkdd7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-14T19:36:37.000Z",
+      "summary_90w": "",
+      "raw": "Far-right Israeli minister Bezalel Smotrich announced approval for 3,401 new homes in the controversial E1 area project in the occupied West Bank.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "8bd9a7320a4ff7c1d89496e895977e102901f9cc",
       "title": "Nanoleaf&#8217;s smart lights are cheaper than ever in its back-to-school sale",
@@ -24,6 +50,19 @@
       "published": "2025-08-14T19:00:10.000Z",
       "summary_90w": "",
       "raw": "Exclusive: $1m grant comes after reports of rising Islamophobia and a huge turnout for the Sydney Harbour Bridge march\n\nGet our breaking news email, free app or daily news podcast\n\nThe Minns government will establish a $1m program to combat anti-Muslim hate, including establishing a support hotline for victims and a program to build awareness of Islamophobia.\nThe initiative will fund a support hotline for those experiencing Islamophobia and a case management system for victims of abuse so authorities and the community have better information about what behaviours are being experienced.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ac88ecf9b5a258cc857a8607c52aa853dcc28554",
+      "title": "Countries urged to ‘hold the line’ in Geneva plastics treaty negotiations",
+      "url": "https://www.theguardian.com/environment/2025/aug/14/geneva-plastics-treaty-negotiations-un-final-day",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-08-14T18:59:41.000Z",
+      "summary_90w": "",
+      "raw": "Talks continue amid warnings from environmental groups over being ‘sold out’ without meaningful or legally binding measures\nTalks between nations to hammer out a plastics treaty to end plastic pollution continued behind closed doors in Geneva on Thursday, the final day of negotiations, as civil society groups urged countries to “hold the line” to secure a strong agreement.\nWith time running out to seal a deal between 184 countries, environmental groups expressed concern that frontline communities, Indigenous people and others suffering the worst impacts of the world’s growing plastic crisis were being “sold out” in an effort to secure a treaty, without meaningful or legally binding measures that would address the scale of the problem, “at any cost”.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -62,7 +101,7 @@
       "source_name": "TechCrunch",
       "published": "2025-08-14T18:49:58.000Z",
       "summary_90w": "",
-      "raw": "Bluesky is updating its rules.",
+      "raw": "Some of the changes represent an effort by Bluesky to purposefully shape its community and the behavior of its users, nudging them to be nicer and more respectful of others.",
       "topics": [
         "Technology"
       ]
@@ -224,19 +263,6 @@
       ]
     },
     {
-      "id": "ac096790172b4fa16e6437232fbdf5c91cf41892",
-      "title": "Crunch time in Alaska: Trump set to meet Putin in push for Ukraine peace",
-      "url": "https://www.bbc.com/news/articles/c9qy1neql8lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-14T17:15:48.000Z",
-      "summary_90w": "",
-      "raw": "Donald Trump will host Vladimir Putin in Alaska - their first meeting in six years -as he tries to secure a Ukraine war ceasefire.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "6f36d488f8fadfe5f0baab838fb5d1543b2e89ad",
       "title": "Meta’s AI policies let chatbots get romantic with minors",
       "url": "https://www.theverge.com/news/759562/meta-ai-rules-chatbots-romantic-minors",
@@ -310,6 +336,19 @@
       "published": "2025-08-14T17:00:27.000Z",
       "summary_90w": "",
       "raw": "A service of remembrance on Friday will mark the 80th anniversary of Victory over Japan Day.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ed026e761056442c26c35650e325af8bee395a29",
+      "title": "Watch: Every angle of largest cooling tower collapse",
+      "url": "https://www.bbc.com/news/videos/cqle96yxd1vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-14T17:00:01.000Z",
+      "summary_90w": "",
+      "raw": "Contractors say the flattening of eight structures was the largest ever simultaneous demolition of cooling towers.",
       "topics": [
         "World"
       ]
@@ -497,19 +536,6 @@
       ]
     },
     {
-      "id": "8de5706d62e1695f8815e2a6a51f4dcaf3caba30",
-      "title": "Israeli settlement plans will 'bury' idea of Palestinian state, minister says",
-      "url": "https://www.bbc.com/news/articles/ckgdzxpkdd7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-14T16:19:45.000Z",
-      "summary_90w": "",
-      "raw": "Far-right Israeli minister Bezalel Smotrich announced approval for 3,401 new homes in the controversial E1 area project in the occupied West Bank.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "c36f42600eaca1d03b637db5d408ffe645c1036d",
       "title": "‘Why would you take away a parking place?’: the city where anyone can build an urban oasis",
       "url": "https://www.theguardian.com/environment/2025/aug/14/why-would-you-take-away-a-parking-place-the-city-where-anyone-can-build-an-urban-oasis",
@@ -520,19 +546,6 @@
       "raw": "Grätzloasen – low-cost, urban ‘parklets’ built by volunteers – are on the rise in Vienna as sceptics are being won over by the splash of welcome greenery and boost to community spirits\nIn a quiet corner of Vienna’s well-to-do 18th district, Jana is explaining how her assembly of wooden decking and planters is bringing a bit of greenery to the area. “There’s not a single tree on this whole street – it’s just parking spaces on both sides.”\nThis is a grätzloase, or neighbourhood oasis – a miniature park tucked into the side of the road. With the blessing of the city hall, more than 100 of them have sprung up across Vienna. The scheme has been growing since 2015, and its proponents say it’s struck a rare balance for urban projects: cheap, community-driven and appreciated by local people.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "6bb9942ad3bc16a663c608c1f3c26603c80d4bc8",
-      "title": "Google Flights can help you book a trip when you don’t know where to go",
-      "url": "https://www.theverge.com/news/759444/google-flight-deals-ai-update-travel-ideas",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-14T16:05:28.000Z",
-      "summary_90w": "",
-      "raw": "It seems like Google is looking for a way to put AI into everything these days, and now its efforts have reached its airfare-booking service, Flights. On Thursday, Google announced that it’s testing a new AI-powered Flight Deals tool, which could come in handy if you’re planning a trip on a budget but aren’t quite sure where you want to go yet.\nInstead of just entering your preferred airport and destination, Flight Deals takes a more open-ended approach. You can describe the kind of place you’d like to visit, and even get specific about how long you want to sit on a plane and what activities you’d like to do once you get there. Google will then use AI to come up with cheap flights that match your preferences. For example, you can search for “a weekend countryside getaway with trail rides and kayaking” or a “trip to Europe with great cheese and wine in May,” and see what pops up. \nWhile using Flight Deals, I found that it surfaced a mix of obvious vacation spots and some lesser-known locations. When looking for “a tropical destination with snorkeling,” it showed me spots like Cozumel, Mexico; Nassau, Bahamas; and San Juan, Puerto Rico, which were predictable but viable suggestions. But a search for a “trip to Europe with hiking” showed suggestions for a couple of cities that I wouldn’t have thought of — Cluj-Napoca, Romania and Ljubljana, Slovenia — which is nice if you’re looking for something off the beaten path.\nStill, some of the results I got weren’t useful at all. When searching for “a tropical weekend trip that’s less than 5 hours away” from the Orlando airport, it yielded results for Miami and Key West, which may not be ideal for someone looking to travel outside the state. I also managed to stump it by searching for “trips to Japan during cherry blossom season” — it said it found “no deals” for this search. \nIf you don’t specify when you’d like to visit, Google will default to showing you flights within the next six months. You can also play around with some of the filters, like how many stops you want, or which airline you’d prefer — but the nice thing about this AI-powered revamp is that you don’t have to.\nDespite some hiccups, I could still see myself trying out Flight Deals if I’m looking for travel ideas that aren’t super out of my budget. I probably wouldn’t entrust AI with planning out my entire trip, but having it generate some destination ideas, which I can then do more research on, doesn’t hurt. Google Flight Deals is rolling out in beta to users in the US and Canada over the next week. You can find it on the standalone Flight Deals page, or in the top-left menu on Google Flights.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -725,7 +738,7 @@
       "source_name": "NPR Topics: News",
       "published": "2025-08-14T14:37:50.000Z",
       "summary_90w": "",
-      "raw": "When Trump announced his law enforcement actions in D.C., he also singled out a slew of other Democratic cities. The mayors of Baltimore, LA, Oakland, Chicago and New York say crime is down.",
+      "raw": "When Trump announced his law enforcement actions in D.C., he also singled out a slew of other Democratic cities. The mayors of Baltimore, LA, Chicago, New York and Oakland, Calif., say crime is down.",
       "topics": [
         "World"
       ]
@@ -817,19 +830,6 @@
       "published": "2025-08-14T13:16:46.000Z",
       "summary_90w": "",
       "raw": "The exposé was in the \"public interest\", the BBC says, following criticism from senior Kenyan politicians.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a9b09edbedc4436ec7fc21ee6fb1c586debd067f",
-      "title": "Birkenstock sales step up in ‘ugly shoe summer’",
-      "url": "https://www.theguardian.com/fashion/2025/aug/14/birkenstock-sales-step-up-in-ugly-shoe-summer",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-08-14T13:14:18.000Z",
-      "summary_90w": "",
-      "raw": "Price rises and strong demand for closed-toe clogs lead to 16% sales increase for German sandal maker\nPrice rises and strong sales of closed-toe clogs helped the shoe maker Birkenstock beat profit expectations as it became the latest beneficiary of the “ugly shoe summer”.\nThe German sandal maker said sales rose 16% in the three months to the end of June, if currency fluctuations were excluded. The average price of its products sold rose by about 5% and the number of items sold rose by about 8%.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1199,29 +1199,16 @@
       ]
     },
     {
-      "id": "3e8e19db9764cd6da0247268a7374511575d674a",
-      "title": "The fight is on. How redistricting could unfold in 8 entangled states",
-      "url": "https://www.npr.org/2025/08/14/nx-s1-5501537/texas-california-gerrymandering-redistricting",
+      "id": "a8f4575ab6cdf058a22fa1ac7b4729cb172ee75b",
+      "title": "Trump is tightening the screws on corporate America — and CEOs are staying mum",
+      "url": "https://www.npr.org/2025/08/14/nx-s1-5501591/trump-corporate-america-capitalism",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-08-14T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "State leaders in both parties say they're ready to redraw political lines ahead of 2026, but state laws and constitutions make mid-decade redistricting virtually impossible in many places.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a8f4575ab6cdf058a22fa1ac7b4729cb172ee75b",
-      "title": "Trump is tightening the screws on corporate America — and CEOs are staying mum",
-      "url": "https://www.npr.org/2025/08/14/nx-s1-5501591/trump-corporate-america-capitalism",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-08-14T09:00:00.000Z",
-      "summary_90w": "",
       "raw": "Critics warn that Trump's demands for business leaders to step down, and for the government to take a cut of sales, threaten American-style capitalism.",
       "topics": [
-        "Business"
+        "World"
       ]
     },
     {
@@ -1415,19 +1402,6 @@
       "published": "2025-08-13T23:33:52.000Z",
       "summary_90w": "",
       "raw": "Lai has been detained since December 2020, with western nations and rights groups calling for his release\nThe closing arguments in the national security trial against jailed Hong Kong media mogul Jimmy Lai were postponed on Thursday after the Asian financial hub issued its highest-level “black” weather warning, stemming from ex-typhoon Podul.\nQueues had formed outside the court for the public gallery, but torrential rain saw the closing arguments in the trial, which began in late 2023, delayed. Proceedings are expected to resume on Friday.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "483e5821172ae9808f7c75fce7f51f2ce251ce5f",
-      "title": "The three looming court battles that may decide Palestine Action's fate",
-      "url": "https://www.bbc.com/news/articles/c3wn5gdv0wgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-13T23:00:55.000Z",
-      "summary_90w": "",
-      "raw": "Since the Palestine Action ban, the clash ahead now feels as much about politics and PR as about the law.",
       "topics": [
         "World"
       ]
@@ -2249,6 +2223,19 @@
       "raw": "The Australian government says the world-first ban is aimed at protecting youth from online harm.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "53515fb374304cbca7057778293272f5385247e1",
+      "title": "BBC News app",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-04-30T14:04:28.000Z",
+      "summary_90w": "",
+      "raw": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "topics": [
+        "World"
       ]
     }
   ]
