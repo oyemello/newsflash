@@ -20,7 +20,6 @@ A modern AI-powered news aggregator that fetches and summarizes the latest news 
 - **AI**: OpenAI GPT-4 for content summarization
 - **RSS**: RSS Parser for feed aggregation
 - **Storage**: GitHub API for file storage
-- **Deployment**: Vercel with cron jobs
 
 ## Quick Start
 
@@ -125,14 +124,6 @@ The application uses OpenAI's GPT-4 to:
 
 ## Deployment
 
-### Vercel (Recommended)
-
-1. **Connect GitHub repository** to Vercel
-2. **Add environment variables**:
-   - `OPENAI_API_KEY`
-   - `GH_OWNER`, `GH_REPO`, `GH_BRANCH`, `GH_PAT` (optional)
-3. **Deploy** - Cron jobs will automatically run every 5 minutes
-
 ### Environment Variables
 
 - `OPENAI_API_KEY`: OpenAI API key (required for AI features)
@@ -166,7 +157,6 @@ quicknews/
 │   ├── hash.ts        # Hash utilities
 │   └── news.ts        # RSS and AI processing
 ├── public/            # Static assets
-└── vercel.json        # Vercel configuration
 ```
 
 ## Contributing
