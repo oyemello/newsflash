@@ -1,10 +1,23 @@
 {
-  "version": "1755378823675",
-  "generatedAt": "2025-08-16T21:13:43.675Z",
+  "version": "1755379917519",
+  "generatedAt": "2025-08-16T21:31:57.519Z",
   "items": [
     {
+      "id": "f5c367ce27316877e08e31ff22a08ea18dc41a6b",
+      "title": "Match of the Day",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-16T22:59:00.000Z",
+      "summary_90w": "",
+      "raw": "Highlights of six matches from the first weekend of the 2025/26 Premier League season.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "0fdfaaf6f3db211dd1b104f28f121b0f14ef3c64",
-      "title": "Gazan woman flown to Italy for treatment dies of malnutrition",
+      "title": "Malnourished Gazan woman flown to Italy dies in hospital",
       "url": "https://www.bbc.com/news/articles/ce87n455dvxo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -16,14 +29,27 @@
       ]
     },
     {
-      "id": "0fdfaaf6f3db211dd1b104f28f121b0f14ef3c64",
-      "title": "Malnourished Gazan woman flown to Italy dies in hospital",
-      "url": "https://www.bbc.com/news/articles/ce87n455dvxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-08-16T21:07:56.000Z",
+      "id": "287b8d4e5e6752d6a5600042f9a0443a7815c35a",
+      "title": "Putin demands full control of Donetsk and Luhansk as condition for ending Ukraine war – live",
+      "url": "https://www.theguardian.com/world/live/2025/aug/16/putin-trump-summit-alaska-us-europe-ukraine-security-guarantees-zelenskyy-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-08-16T21:07:46.000Z",
       "summary_90w": "",
-      "raw": "The woman was one of 180 Gazans evacuated by Italy in response to the humanitarian crisis",
+      "raw": "Putin told Trump he would halt further advances and freeze Ukrainian frontline where Russian forces occupy significant areas, sources say\n\nZelenskyy to meet Trump on Monday after Putin summit briefing\n\nFor those who feared the summit on Ukraine might resemble Neville Chamberlain’s appeasement of Adolf Hitler in 1938, the reality was worse. \nThe Guardian’s David Smith has this politics sketch from Anchorage:\nToday, following a conversation with President Trump, we further coordinated positions with European leaders. The positions are clear. A real peace must be achieved, one that will be lasting, not just another pause between Russian invasions.\nKillings must stop as soon as possible, the fire must cease both on the battlefield and in the sky, as well as against our port infrastructure. All Ukrainian prisoners of war and civilians must be released, and the children abducted by Russia must be returned. Thousands of our people remain in captivity – they all must be brought home. Pressure on Russia must be maintained while the aggression and occupation continue.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bfdbc0cc9954f8bde085bfc77eaa15eeafcea162",
+      "title": "Wildfires rage in Spain and Portugal as heatwave continues",
+      "url": "https://www.bbc.com/news/videos/c80dx2z8jldo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-16T21:06:13.000Z",
+      "summary_90w": "",
+      "raw": "Thousands of firefighters have been battling huge blazes in Spain and Portugal on Saturday.",
       "topics": [
         "World"
       ]
@@ -39,19 +65,6 @@
       "raw": "A federal judge has blocked the FTC's investigation into Media Matters research around advertising and antisemitic content on X.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "287b8d4e5e6752d6a5600042f9a0443a7815c35a",
-      "title": "Putin demands full control of Donetsk and Luhansk as condition for ending Ukraine war – live",
-      "url": "https://www.theguardian.com/world/live/2025/aug/16/putin-trump-summit-alaska-us-europe-ukraine-security-guarantees-zelenskyy-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-08-16T20:25:47.000Z",
-      "summary_90w": "",
-      "raw": "Putin told Trump he would halt further advances and freeze Ukrainian frontline where Russian forces occupy significant areas, sources say\n\nZelenskyy to meet Trump on Monday after Putin summit briefing\n\nFor those who feared the summit on Ukraine might resemble Neville Chamberlain’s appeasement of Adolf Hitler in 1938, the reality was worse. \nThe Guardian’s David Smith has this politics sketch from Anchorage:\nToday, following a conversation with President Trump, we further coordinated positions with European leaders. The positions are clear. A real peace must be achieved, one that will be lasting, not just another pause between Russian invasions.\nKillings must stop as soon as possible, the fire must cease both on the battlefield and in the sky, as well as against our port infrastructure. All Ukrainian prisoners of war and civilians must be released, and the children abducted by Russia must be returned. Thousands of our people remain in captivity – they all must be brought home. Pressure on Russia must be maintained while the aggression and occupation continue.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -120,19 +133,6 @@
       ]
     },
     {
-      "id": "da31795c66d5d25687d3c99013ad5c4ad94a4920",
-      "title": "Cox thrills as Invincibles hit record Hundred score",
-      "url": "https://www.bbc.com/sport/cricket/articles/c07p52xr8nzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-16T19:51:45.000Z",
-      "summary_90w": "",
-      "raw": "Jordan Cox lights up The Hundred as Oval Invincibles smash the record for the competition's highest total in win over Welsh Fire.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "9afd084eee2f0ca710b348ca88d695c811fe7ef7",
       "title": "AI-powered stuffed animals are coming for your kids",
       "url": "https://techcrunch.com/2025/08/16/ai-powered-stuffed-animals-are-coming-for-your-kids/",
@@ -147,7 +147,7 @@
     },
     {
       "id": "e8a929ff87ddecc47aee2a456da0eeeac1a7f764",
-      "title": "Government moves to end Air Canada strike, ordering both sides to bargaining table",
+      "title": "Air Canada and union ordered to bargaining table to end strike",
       "url": "https://www.bbc.com/news/articles/cwyex8489gno?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
@@ -331,7 +331,7 @@
       "id": "dce1283ba50d015a79d27c8724876b48458356a7",
       "title": "Erin rapidly intensifies to category five hurricane",
       "url": "https://www.bbc.com/news/articles/cdxyezqx4r5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-08-16T15:58:37.000Z",
       "summary_90w": "",
@@ -479,19 +479,6 @@
       "published": "2025-08-16T13:22:46.000Z",
       "summary_90w": "",
       "raw": "In the absence of a deal, Ukrainians focused on the optics of Putin's visit to Trump in Alaska.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6a4925b0c1ed86dcb666eb0fb2fce31f7fba2ddb",
-      "title": "EncroChat selfie led police straight to fugitive",
-      "url": "https://www.bbc.com/news/articles/cj4w17j2e1ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-16T13:20:17.000Z",
-      "summary_90w": "",
-      "raw": "Organised crime gang boss Jamie Rothwell ran his drugs and guns empire from a flat in Barcelona.",
       "topics": [
         "World"
       ]
@@ -765,19 +752,6 @@
       "published": "2025-08-16T04:59:52.000Z",
       "summary_90w": "",
       "raw": "Russian president argues ‘root causes’ of war must be addressed, but Ambassador Vasyl Myroshnychenko says Putin has ‘ambition of destroying democracy next door’\n\nGet our breaking news email, free app or daily news podcast\n\nVladimir Putin remains determined to “revive the Soviet Union” by “destroying democracy next door”, Ukraine’s ambassador to Australia has said in the wake of the Russian president’s inconclusive meeting with the US president, Donald Trump.\nPutin and Trump met for nearly three hours in Alaska, emerging to tell reporters that “great progress” had been made on a deal to end Russia’s war on Ukraine but that there was no peace agreement.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "68148ce58cc50dd395e52f5f2128029cb608d47f",
-      "title": "No ceasefire, no deal: What summit means for Trump, Putin and Ukraine",
-      "url": "https://www.bbc.com/news/articles/clyvd3gkg1po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-08-16T01:50:10.000Z",
-      "summary_90w": "",
-      "raw": "Three BBC correspondents at the meeting in Alaska assess what we learned about the two leaders and what's next for the war.",
       "topics": [
         "World"
       ]
