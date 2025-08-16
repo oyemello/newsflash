@@ -1,7 +1,20 @@
 {
-  "version": "1755373045055",
-  "generatedAt": "2025-08-16T19:37:25.055Z",
+  "version": "1755373904563",
+  "generatedAt": "2025-08-16T19:51:44.563Z",
   "items": [
+    {
+      "id": "9afd084eee2f0ca710b348ca88d695c811fe7ef7",
+      "title": "AI-powered stuffed animals are coming for your kids",
+      "url": "https://techcrunch.com/2025/08/16/ai-powered-stuffed-animals-are-coming-for-your-kids/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-08-16T19:39:40.000Z",
+      "summary_90w": "",
+      "raw": "Do A.I. chatbots packaged inside cute-looking plushies offer a viable alternative to screen time for kids? Maybe not.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "e8a929ff87ddecc47aee2a456da0eeeac1a7f764",
       "title": "Government moves to end Air Canada strike, ordering both sides to bargaining table",
@@ -11,6 +24,19 @@
       "published": "2025-08-16T19:28:35.000Z",
       "summary_90w": "",
       "raw": "Canada's jobs minister intervenes in a bid to preserve \"stability and supply chains\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "287b8d4e5e6752d6a5600042f9a0443a7815c35a",
+      "title": "Putin demands full control of Donetsk and Luhansk as condition for ending Ukraine war – live",
+      "url": "https://www.theguardian.com/world/live/2025/aug/16/putin-trump-summit-alaska-us-europe-ukraine-security-guarantees-zelenskyy-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-08-16T19:26:26.000Z",
+      "summary_90w": "",
+      "raw": "Putin told Trump he would halt further advances and freeze Ukrainian frontline where Russian forces occupy significant areas, sources say\n\nZelenskyy to meet Trump on Monday after Putin summit briefing\n\nFor those who feared the summit on Ukraine might resemble Neville Chamberlain’s appeasement of Adolf Hitler in 1938, the reality was worse. \nThe Guardian’s David Smith has this politics sketch from Anchorage:\nToday, following a conversation with President Trump, we further coordinated positions with European leaders. The positions are clear. A real peace must be achieved, one that will be lasting, not just another pause between Russian invasions.\nKillings must stop as soon as possible, the fire must cease both on the battlefield and in the sky, as well as against our port infrastructure. All Ukrainian prisoners of war and civilians must be released, and the children abducted by Russia must be returned. Thousands of our people remain in captivity – they all must be brought home. Pressure on Russia must be maintained while the aggression and occupation continue.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -29,23 +55,10 @@
       ]
     },
     {
-      "id": "287b8d4e5e6752d6a5600042f9a0443a7815c35a",
-      "title": "Putin demands full control of Donetsk and Luhansk as condition for ending Ukraine war – live",
-      "url": "https://www.theguardian.com/world/live/2025/aug/16/putin-trump-summit-alaska-us-europe-ukraine-security-guarantees-zelenskyy-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-08-16T19:22:41.000Z",
-      "summary_90w": "",
-      "raw": "Putin told Trump he would halt further advances and freeze Ukrainian frontline where Russian forces occupy significant areas, sources say\n\nZelenskyy to meet Trump on Monday after Putin summit briefing\n\nFor those who feared the summit on Ukraine might resemble Neville Chamberlain’s appeasement of Adolf Hitler in 1938, the reality was worse. \nThe Guardian’s David Smith has this politics sketch from Anchorage:\nToday, following a conversation with President Trump, we further coordinated positions with European leaders. The positions are clear. A real peace must be achieved, one that will be lasting, not just another pause between Russian invasions.\nKillings must stop as soon as possible, the fire must cease both on the battlefield and in the sky, as well as against our port infrastructure. All Ukrainian prisoners of war and civilians must be released, and the children abducted by Russia must be returned. Thousands of our people remain in captivity – they all must be brought home. Pressure on Russia must be maintained while the aggression and occupation continue.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "dfb7be5afbb0ef2b4cf3028ffbcc75b0b0624f8a",
       "title": "Trump shifts ceasefire stance and urges Ukraine to agree Russia peace deal",
       "url": "https://www.bbc.com/news/articles/c04rv2p3936o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-08-16T19:12:53.000Z",
       "summary_90w": "",
@@ -277,9 +290,22 @@
     },
     {
       "id": "2b1ff0b4a7118c1da24778846722cdac8cd54802",
-      "title": "Trump's ceasefire pivot will have caused dismay in Kyiv and Europe",
+      "title": "Trump's ceasefire pivot will cause dismay in Kyiv and Europe",
       "url": "https://www.bbc.com/news/articles/clyvd2jpy1no?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-16T15:02:32.000Z",
+      "summary_90w": "",
+      "raw": "The US president demanded a ceasefire before he met Putin. His change of mind flies in the face of what Europe and Ukraine want.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2b1ff0b4a7118c1da24778846722cdac8cd54802",
+      "title": "Trump's ceasefire pivot will have caused dismay in Kyiv and Europe",
+      "url": "https://www.bbc.com/news/articles/clyvd2jpy1no?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-08-16T15:02:32.000Z",
       "summary_90w": "",
@@ -669,7 +695,7 @@
       "id": "68148ce58cc50dd395e52f5f2128029cb608d47f",
       "title": "No ceasefire, no deal: What summit means for Trump, Putin and Ukraine",
       "url": "https://www.bbc.com/news/articles/clyvd3gkg1po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-08-16T01:50:10.000Z",
       "summary_90w": "",
@@ -1519,19 +1545,6 @@
       "published": "2025-08-14T18:32:02.000Z",
       "summary_90w": "",
       "raw": "The Russian hackers used their access to the dam's computer systems to open a floodgate that spilled millions of gallons of water.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "421e772239efc79b6bf7f88def1109151bef74df",
-      "title": "Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down",
-      "url": "https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-08-14T17:40:27.000Z",
-      "summary_90w": "",
-      "raw": "Cohere's market proposition has always been to offer secure LLMs specifically geared for enterprise use, not for consumers.",
       "topics": [
         "Technology"
       ]
