@@ -1,7 +1,33 @@
 {
-  "version": "1755546086299",
-  "generatedAt": "2025-08-18T19:41:26.299Z",
+  "version": "1755546730962",
+  "generatedAt": "2025-08-18T19:52:10.962Z",
   "items": [
+    {
+      "id": "12d3be97bd0ef7c3623e459378f246fcfb4cc530",
+      "title": "Trump says Russia will accept security guarantees for Ukraine, but talks of ‘possible exchanges of territory’ – live",
+      "url": "https://www.theguardian.com/world/live/2025/aug/18/ukraine-war-live-update-russia-zelenskyy-washington-trump-europe-meeting-talks-latest-news",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-08-18T19:40:04.000Z",
+      "summary_90w": "",
+      "raw": "US president holds meeting with Zelenskyy and European leaders after touting ‘very substantial progress’ in Putin talks\n\nTrump tells Zelenskyy ceasefire not needed for Russia-Ukraine peace deal\n\nA Russian drone attack on a five-storey apartment block in the Ukrainian city of Kharkiv early Monday killed five people and wounded more than a dozen others, Ukrainian authorities said.\nThe attack, which took place just before dawn, reduced part of the building to rubble and sparked fires on at least three floors, the region’s governor Oleg Synegubov said on Telegram.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7ce301475a27bc5400e461acae6bb46938701571",
+      "title": "Ex-Israel military intelligence chief said 50,000 Gaza deaths \"necessary\"",
+      "url": "https://www.npr.org/2025/08/18/nx-s1-5506097/ex-israel-military-intelligence-chief-said-50-000-gaza-deaths-necessary",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-08-18T19:38:44.000Z",
+      "summary_90w": "",
+      "raw": "Israeli ex-military intelligence chief said Gaza's high death toll is \"necessary\" to send a message to Palestinians",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "332fcc036d334dd907e358637a4446705324f094",
       "title": "‘Play Instantly on Discord’: Fortnite will be Nvidia and Discord’s first instant game demo",
@@ -52,19 +78,6 @@
       "raw": "It’s been two and a half years since Nvidia’s GeForce Now cloud gaming service got a big boost in graphics, latency, and refresh rates — this September, Nvidia’s GFN will officially add its latest Blackwell GPUs. You’ll soon be able to rent what’s effectively an RTX 5080 in the cloud, one with a whopping 48GB of memory and DLSS 4, then use that power to stream your own near-maxed-out PC games to your phone, Mac, PC, TV, set-top, or Chromebook for $20 a month.\nThe news comes with some caveats, but a bunch of other upgrades, too, the biggest of which is called “Install-to-Play.” Nvidia is finally bringing back the ability to install games without waiting for Nvidia to formally curate them. Nvidia claims that will double the GeForce Now library in one fell swoop.\nNo, you can’t just install any old PC game you own — but every game that’s opted into Valve’s Steam Cloud Play will immediately be available to install. “Literally the moment we add the feature, you’ll see 2,352 games show up,” Nvidia product marketing director Andrew Fear tells The Verge. After that, he says Install-to-Play will let Nvidia add many more games and demos to GFN on their release dates, just so long as publishers tick that box.\nCurrently, Steam is the only platform compatible with Install-to-Play, but Fear tells me many publishers tend to opt in through Valve’s distribution network, including Ubisoft, Paradox, Nacom, Devolver, TinyBuild and CD Projekt Red.\nOne important caveat is that Install-to-Play games won’t launch instantly like curated titles; you’ll need to download and install them each time, unless you pay Nvidia extra for persistent storage at $3 for $200GB, $5 for 500GB, or $8 for 1TB per month. Installs should be fast, though, since Nvidia’s servers are linked to Valve’s Steam servers at up to 1Gbps. When GFN originally launched with a similar feature, I remember downloading games far faster than I’ve ever done at home.\nAnd Nvidia has a new use for your home bandwidth, too. If you’ve got enough, GFN will also now let you stream at 5K resolution (for both 16:9 monitors and ultrawides) at 120fps, or at up to 360fps at 1080p. \n\nThere’s also a new optional Cinematic Quality Streaming mode you can toggle that Nvidia claims can reduce color bleed and restore detail to dark and blurry areas of a scene as it’s streamed over the net, and you can now stream at up to 100Mbps, up from 75Mbps previously, to help maintain that quality. (It uses HDR10 and SDR10, with YUV 4:4:4 chroma sampling, streamed over AV1 with an added AI video filter and some optimizations for clearer text and HUD elements.)\nPlus, Steam Deck OLED owners will be able to stream at its native 90Hz refresh rate (up from 60Hz), LG is bringing a native GeForce Now app directly to its 4K OLED TVs and 5K OLED monitors — “no Android TV devices, no Chromecast, nothing, run it directly on the television,” says Fear — and Logitech racing wheels with haptic feedback are now supported too.\nHow much more performance will you truly get from an RTX 5080 in the cloud? That’s the real question, and we don’t have a clear answer yet. For one thing, Nvidia isn’t promising you’ll always have an RTX 5080-tier GPU for every game you play. The company’s $20-a-month GFN Ultimate tier will still include RTX 4080-class cards too, at least for the time being.\nFear says there’s no ulterior motive there — it’ll just take time for 5080 performance to roll out “as we add the servers and bring up capacity.” He also rattles off a laundry list of popular games that’ll have 5080 performance right away, including Apex Legends, Assassin’s Creed Shadows, Baldur’s Gate 3, Black Myth Wukong, Clair Obscur, Cyberpunk 2077, Doom: The Dark Ages… you get the idea.\nThe other caveat is that while Nvidia claims its new Blackwell Superpods are up to 2.8 times faster at gaming, that’s only if you have DLSS 4 generating three fake frames for every real frame (4x MFG) and being OK with any resulting lag. We weren’t blown away with the uplift from RTX 4080 to RTX 5080 in our review of the physical card, and latency is even more important when you’re streaming over the net.\nThat said, Tom and I have been impressed with GFN’s latency in the past. I’ve parried Expedition 33 foes and Sekiro bosses with it — and in lightweight games, Nvidia’s latency may have gotten even better this gen thanks to partnerships with ISPs like Comcast, T-Mobile and BT for low-latency L4S tech and the new 360fps mode. The company claims the 360fps mode can deliver end-to-end latency of just 30ms in Overwatch 2, a game where you don’t need multi-frame generation (MFG) to get that many frames. \nThat’s more responsive than a home console — assuming you’re close enough and peered well enough to Nvidia’s servers to get 10ms ping, like I do in the San Francisco Bay Area. \nThe good news is, you won’t have to pay an extra cent for the RTX 5080 performance boost either way. GeForce Now Ultimate will remain $19.99 a month for now. “We’re not going to increase our price at all,” says Fear, in a group briefing. When I ask him privately whether Nvidia will increase it later, he can’t say, but claims GFN has only ever increased price when Nvidia saw a big increase in power usage or needed to rebalance currency exchange in some regions. “Nothing’s written in stone, but we’re saying for now no plans to make a price increase.”\nAdditionally, Nvidia is trying an intriguing new experiment that bakes GeForce Now into Discord so gamers can instantly try new games for free right from a Discord server, no GeForce Now login required. Epic Games and Discord are first partner demoing the technology at Gamescom this week. \n“You can simply click a button that says ‘try a game’ and then connect your Epic Games account and immediately jump in and and join the action, and you’ll be playing Fortnite in seconds without any downloads or installs,” says Fear. He tells The Verge that it’s merely a “technology announcement” as of today, but that Nvidia hopes game publishers and developers will reach out if they’re interested in potentially adding it to their games. \nI hope so, as I’ve been in awe of try-before-you-buy cloud gaming ever since Gaikai introduced the idea 15 years ago, but Gaikai’s founder told me years later that publishers didn’t necessarily want it.\nI’m looking forward to trying GeForce Now’s 5080-class servers when they launch in September, alongside the new 90Hz mode for Steam Deck OLED, and I’m curious whether the influx of games will finally make it feel like a true console alternative for me. One of my last big remaining reservations is how many of my Steam games are still missing. \nSpeaking of which, don’t expect to see Sony or Rockstar games like Grand Theft Auto on the service anytime soon. “I have no updates, they have chosen not to be on GFN, and you should go ask them,” Fear tells me.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "12d3be97bd0ef7c3623e459378f246fcfb4cc530",
-      "title": "Trump says Russia will accept security guarantees for Ukraine, but talks of ‘possible exchanges of territory’ – live",
-      "url": "https://www.theguardian.com/world/live/2025/aug/18/ukraine-war-live-update-russia-zelenskyy-washington-trump-europe-meeting-talks-latest-news",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-08-18T19:23:32.000Z",
-      "summary_90w": "",
-      "raw": "US president holds meeting with Zelenskyy and European leaders after touting ‘very substantial progress’ in Putin talks \n\nA Russian drone attack on a five-storey apartment block in the Ukrainian city of Kharkiv early Monday killed five people and wounded more than a dozen others, Ukrainian authorities said.\nThe attack, which took place just before dawn, reduced part of the building to rubble and sparked fires on at least three floors, the region’s governor Oleg Synegubov said on Telegram.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -270,7 +283,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-08-18T17:58:06.000Z",
       "summary_90w": "",
-      "raw": "Arbitrator orders 10,000 striking staff back to work after government intervenes – unconstitutionally union says\nUnion leaders representing 10,000 striking flight attendants have said they would be willing to go to jail rather than comply with an order to return to work, as Canada’s federal government seeks to end a bitter contract dispute that has halted hundreds of summer flights and stranded travellers around the world.\nSpeaking to reporters on Monday, the national president of the Canadian Union of Public Employees said members would remain on the picket lines as part of a work stoppage that has halted Air Canada’s national and international operations during its busiest season.\n Continue reading...",
+      "raw": "Arbitrator orders 10,000 striking staff back to work after government intervenes – unconstitutionally, union says\nUnion leaders representing 10,000 striking flight attendants have said they would be willing to go to jail rather than comply with an order to return to work, as Canada’s federal government seeks to end a bitter contract dispute that has halted hundreds of summer flights and stranded travellers around the world.\nSpeaking to reporters on Monday, the national president of the Canadian Union of Public Employees said members would remain on the picket lines as part of a work stoppage that has halted Air Canada’s national and international operations during its busiest season.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1007,13 +1020,13 @@
       "id": "b60ad71c584762a086231dcddf227302f854d87f",
       "title": "What's behind the Trump administration's immigration memes?",
       "url": "https://www.npr.org/2025/08/18/nx-s1-5482921/memes-white-house-dhs-social-media-trump",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2025-08-18T09:48:28.000Z",
       "summary_90w": "",
       "raw": "White supremacist tropes and ironic viral jokes illustrate the administration's project of redefining who belongs in the United States.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
