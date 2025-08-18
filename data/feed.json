@@ -1,7 +1,20 @@
 {
-  "version": "1755535678194",
-  "generatedAt": "2025-08-18T16:47:58.194Z",
+  "version": "1755536543061",
+  "generatedAt": "2025-08-18T17:02:23.061Z",
   "items": [
+    {
+      "id": "b47a87dd98007f054b0fc898ff9256bb15af7251",
+      "title": "Amazon’s Fallout season two heads to New Vegas",
+      "url": "https://www.theverge.com/games/760687/fallout-season-two-first-look-prime-video",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-18T16:53:18.000Z",
+      "summary_90w": "",
+      "raw": "Prime Video has released new photos from season two of Fallout. Lucy (Ella Purnell), the Ghoul (Walton Goggins), and Maximus (Aaron Moten) return as a trio of Wasteland Wanderers whose adventures will bring them to the post-apocalyptic playground of New Vegas. Take a look.\nKyle MacLachlan, who plays Lucy's father Hank, also returns to the show along with Lucy's brother Norm (Moises Arias) who looks like there's more evil afoot in the Vaults (duh!). Season two of Fallout is set to start sometime in December, which feels like a long way away but is definitely sooner than whenever the next Fallout game will show up.\n\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "7491f843bd93812080abc2ab7a51f8b5b6517f1c",
       "title": "Fujifilm is raising the prices of its cameras again",
@@ -65,6 +78,19 @@
       "raw": "From a new slim iPhone Air model to  redesigned AirPods, here's what to expect from this year's Apple event.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "94858bd9a9da78f38ea9290ae97f6310aa984ad2",
+      "title": "BBC at Rafah crossing as queues of aid trucks wait to enter Gaza",
+      "url": "https://www.bbc.com/news/videos/cev2nmwxe1po?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-18T16:11:47.000Z",
+      "summary_90w": "",
+      "raw": "The BBC's Chief International Correspondent Lyse Doucet is travelling with Palestinian Prime Minister Mohammad Mustafa and Egypt’s Foreign Minister Badr Abdelatty.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -656,13 +682,13 @@
       "id": "caf29a3d589e1d7feed4df5bfc3b680eb4427723",
       "title": "Meta investigated over AI having 'sensual' chats with children",
       "url": "https://www.bbc.com/news/articles/c3dpmlvx1k2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2025-08-18T12:04:06.000Z",
       "summary_90w": "",
       "raw": "The leak has led to backlash amid reports the tech giant's legal staff approved the conversations.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -832,19 +858,6 @@
       "raw": "In a battle prompted by President Trump, Texas and California could redraw lines that change whose votes really matter in the 2026 congressional elections.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "9408c98e78d5c5e9dd60d8a75c36089c92d865a2",
-      "title": "Microsoft is finally improving Windows 11’s dark mode",
-      "url": "https://www.theverge.com/news/760466/microsoft-windows-11-dark-mode-improvements",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-18T09:31:02.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft first introduced a dark mode option in Windows 10 in 2016, but there were still plenty of areas of the operating system that looked like a mish-mash of light and dark modes. Nearly a decade later, the latest preview build of Windows 11 now includes even more darkened UI elements.\nWindows watcher Phantomofearth spotted updated file operation dialogs with a dark theme. If you’re copying files or deleting them, these dialogs will finally have a dark mode instead of light-themed prompt. It’s clearly a work in progress though, as the buttons on these prompts still have light buttons instead of dark ones.\n\n\nWindows 11's file operation (copy, access denied, etc.) dialogs are FINALLY getting support for dark mode! Here's how the dialogs look in dark mode at this point, hidden in build 26100.5061.\nAlso notice the light buttons in the top right, still a work in progress of course. pic.twitter.com/3D00lWIJcn\n— phantomofearth 🌳 (@phantomofearth) August 15, 2025\n\n\nMicrosoft hasn’t officially announced any improvements to its Windows 11 dark mode, but these small changes could indicate a broader overhaul is coming in time for the 25H2 update later this year. The Control Panel, Run prompt, and file properties UI are all still stuck in light mode, so hopefully Microsoft finds the time after nearly 10 years to address these, too.\nI’m not holding out much hope, though. It took Microsoft a few years to even add a dark mode to File Explorer in Windows 10, after the OS shipped with a mixture of light and dark modes. Apple has long had a consistent dark mode in macOS, since it shipped with macOS Mojave in 2018. A new Liquid Glass redesign is even on the way later this year, with a bigger focus on translucency.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1414,7 +1427,7 @@
       "source_name": "TechCrunch",
       "published": "2025-08-16T19:39:40.000Z",
       "summary_90w": "",
-      "raw": "Do A.I. chatbots packaged inside cute-looking plushies offer a viable alternative to screen time for kids? Maybe not.",
+      "raw": "Do AI chatbots packaged inside cute-looking plushies offer a viable alternative to screen time for kids? Maybe not.",
       "topics": [
         "Technology"
       ]
