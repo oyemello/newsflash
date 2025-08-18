@@ -1,7 +1,46 @@
 {
-  "version": "1755526663299",
-  "generatedAt": "2025-08-18T14:17:43.299Z",
+  "version": "1755528113893",
+  "generatedAt": "2025-08-18T14:41:53.893Z",
   "items": [
+    {
+      "id": "bdf3e14fb3c70cf8ad089cd21222a672909c6721",
+      "title": "Man guilty over gangland shooting that left girl, 9, with bullet lodged in brain",
+      "url": "https://www.bbc.com/news/articles/c939v7gejlpo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-18T14:35:58.000Z",
+      "summary_90w": "",
+      "raw": "Javon Riley is found guilty over his role in the shooting of a girl at a restaurant in east London.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0440a958df00c273b3543df5cd5ac0628a221832",
+      "title": "Stadium ban for man bailed in Semenyo racism probe",
+      "url": "https://www.bbc.com/news/articles/clyvdp2n205o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-18T14:24:13.000Z",
+      "summary_90w": "",
+      "raw": "A 47-year-old man is banned from every UK football stadium after Antoine Semenyo reported being racially abused.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c7b2ede2e69060004064343379cbba27ba028c5b",
+      "title": "Claude AI will end &#8216;persistently harmful or abusive user interactions&#8217;",
+      "url": "https://www.theverge.com/news/760561/anthropic-claude-ai-chatbot-end-harmful-conversations",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-18T14:13:37.000Z",
+      "summary_90w": "",
+      "raw": "Anthropic’s Claude AI chatbot can now end conversations deemed “persistently harmful or abusive,” as spotted earlier by TechCrunch. The capability is now available in Opus 4 and 4.1 models, and will allow the chatbot to end conversations as a “last resort” after users repeatedly ask it to generate harmful content despite multiple refusals and attempts at redirection. The goal is to help the “potential welfare” of AI models, Anthropic says, by terminating types of interactions in which Claude has shown “apparent distress.”\nIf Claude chooses to cut a conversation short, users won’t be able to send new messages in that conversation. They can still create new chats, as well as edit and retry previous messages if they want to continue a particular thread.\nDuring its testing of Claude Opus 4, Anthropic says it found that Claude had a “robust and consistent aversion to harm,” including when asked to generate sexual content involving minors, or provide information that could contribute to violent acts and terrorism. In these cases, Anthropic says Claude showed a “pattern of apparent distress” and a “tendency to end harmful conversations when given the ability.”\nAnthropic notes that conversations triggering this kind of response are “extreme edge cases,” adding that most users won’t encounter this roadblock even when chatting about controversial topics. The AI startup has also instructed Claude not to end conversations if a user is showing signs that they might want to hurt themselves or cause “imminent harm” to others. Anthropic partners with Throughline, an online crisis support provider, to help develop responses to prompts related to self-harm and mental health.\nLast week, Anthropic also updated Claude’s usage policy as rapidly advancing AI models raise more concerns about safety. Now, the company prohibits people from using Claude to develop biological, nuclear, chemical, or radiological weapons, as well as to develop malicious code or exploit a network’s vulnerabilities.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "cb58476980eaab85e96f911bfeb335a5b5927c51",
       "title": "Doak to join Bournemouth for £25m as Liverpool sales near £200m",
@@ -29,6 +68,19 @@
       ]
     },
     {
+      "id": "e4b68dbc357fcaec0ed5369576f6afcfe0bc6b2e",
+      "title": "'Can't stop. Won't stop': Documentary filmmakers face federal funding shortfall",
+      "url": "https://www.npr.org/2025/08/18/nx-s1-5490964/documentary-funding-cpb-pbs",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-08-18T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "PBS has been a home for independent documentaries for more than 50 years. But with the closure of the Corporation for Public Broadcasting, nonfiction storytellers have to figure out a way forward.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "ebe53253ceb99be94d6178707720496185c4783c",
       "title": "MSNBC is becoming ‘My Source News Opinion World’",
       "url": "https://www.theverge.com/news/760533/msnbc-my-source-news-opinion-world-rebrand",
@@ -36,7 +88,7 @@
       "source_name": "The Verge",
       "published": "2025-08-18T13:56:39.000Z",
       "summary_90w": "",
-      "raw": "MSNBC is about to look a lot — and sound — a lot different. The cable news network will soon go by My Source News Opinion World (MS NOW) and drop its peacock logo, according to a report from Deadline.\nThe change comes as Comcast, which owns NBCUniversal, plans to spin off its cable business, including networks like MSNBC, CNBC, USA, Oxygen, and E!, into a new company called Versant. In a memo seen by Deadline, MSNBC president Rebecca Kutler told staffers that as part of the transition, NBCUniversal decided that MSNBC needed “a new, separate identity.”\nMSNBC originally launched in 1996 as a joint venture between Microsoft and NBC News, though the tech giant sold its majority stake in the network in 2005 and ended its web partnership in 2012. The network has used the peacock logo associated with NBC for nearly three decades. Additionally, Deadline reports that CNBC will keep its name but drop the peacock logo as well.\nKutler added that the rebrand won’t affect MSNBC’s coverage. “The future of our success is not tied to remaining within the NBC family and using the peacock as part of our identity,” Kutler wrote, according to Deadline. “While our name will be changing, who we are and what we do will not.”\nDisclosure: Comcast is an investor in Vox Media, The Verge’s parent company.",
+      "raw": "MSNBC is about to look a lot — and sound — a lot different. The cable news network will soon go by My Source News Opinion World (MS NOW) and drop its peacock logo, as reported earlier by Deadline.\nThe change comes as Comcast, which owns NBCUniversal, plans to spin off its cable business, including networks like MSNBC, CNBC, USA, Oxygen, and E!, into a new company called Versant. In a memo seen by The Verge, MSNBC president Rebecca Kutler told staffers that as part of the transition, NBCUniversal decided that MSNBC needed “a new, separate identity.”\nMSNBC originally launched in 1996 as a joint venture between Microsoft and NBC News, though the tech giant sold its majority stake in the network in 2005 and ended its web partnership in 2012. The network has used the peacock logo associated with NBC for nearly three decades. Additionally, CNBC will keep its name but drop the peacock logo as well.\nKutler added that the rebrand won’t affect MSNBC’s coverage. “The future of our success is not tied to remaining within the NBC family and using the peacock as part of our identity,” Kutler wrote. “While our name will be changing, who we are and what we do will not.”\nHere’s Kutler’s memo in full:\nAll, \nFollowing up on what you may have already seen from Mark, later this year, we will take on a new name: MS NOW, which stands for My Source for News, Opinion,and the World.\nThis new branding underscores our mission: to serve as a destination for breaking news and best-in-class opinion journalism, all rooted in accurate and reported facts. \nI know this announcement will be met with questions, and I want to acknowledge that for many of you who have spent years or decades here, it is hard to imagine the network by any other name. This was not a decision that was made quickly or without significant debate. \nOver the last eight months, we have worked to untether ourselves from NBC News and embrace our independence under VERSANT. We’ve hired dozens of first-rate reporters and newsroom leaders and have been recruiting for nearly 100 roles across our new and nimble organization. We continue to supercharge our non-linear products, achieving rapid success on YouTube, TikTok, audio, digital, live events, and more – all while aggressively developing a direct-to-consumer product. \nDuring this time of transition, NBCUniversal decided that our brand requires a new, separate identity. This decision now allows us to set our own course and assert our independence as we continue to build our own modern newsgathering operation.\nThe future of our success is not tied to remaining within the NBC family and using the peacock as part of our identity. While our name will be changing, who we are and what we do will not. Our commitment to our work and our audiences will not waiver from what the brand promise has been for three decades. \nIn conjunction with the brand relaunch, we will be making a significant investment in a broad-based marketing campaign, unlike anything we have done in recent memory. Planning is now underway for an employee all-hands meeting next week, where I will have more to share – more news on that soon. \nUntil then, we have millions of people who rely on us to continue doing what we do best. As I said on my first day, our most important job is to show up for our audience, the community that is depending on us now more than ever.\nRebecca\nDisclosure: Comcast is an investor in Vox Media, The Verge’s parent company.",
       "topics": [
         "Technology"
       ]
@@ -94,6 +146,19 @@
       ]
     },
     {
+      "id": "72e6fa168cfc7b713f004e3aaf2b93be60aa94ed",
+      "title": "UK's most remote inhabited island looking for nurse to be only medic",
+      "url": "https://www.bbc.com/news/articles/c5y32lzyrxlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-18T13:44:24.000Z",
+      "summary_90w": "",
+      "raw": "Fair Isle - which is located halfway between Orkney and Shetland - is home to about 50 people.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "80ddd61ec2cd1c74d16e19ad928a2a30ce46ce1f",
       "title": "Israel’s foreign minister revokes visas of Australian representatives to Palestinian Authority",
       "url": "https://www.theguardian.com/australia-news/2025/aug/18/israels-foreign-minister-revokes-visas-of-australian-representatives-to-palestinian-authority-ntwnfb",
@@ -120,27 +185,40 @@
       ]
     },
     {
-      "id": "d1c888aaaa62e2b209175beebdaf965e9f937cb7",
-      "title": "Five things we noticed from the opening Premier League weekend",
-      "url": "https://www.bbc.com/sport/football/articles/c4gz40wvr1zo?at_medium=RSS&at_campaign=rss",
+      "id": "74b7b0b6f7f5c0f805d8828374e5154191c47544",
+      "title": "Love Island will not be investigated by Ofcom despite 14,000 complaints",
+      "url": "https://www.bbc.com/news/articles/cj4wlpvdzjyo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-08-18T13:18:26.000Z",
+      "published": "2025-08-18T13:20:21.000Z",
       "summary_90w": "",
-      "raw": "BBC Sport pick out five observations from the opening weekend of the new Premier League season.",
+      "raw": "Bullying and concerns for contestants' mental health were among the main issues in the complaints.",
       "topics": [
         "World"
       ]
     },
     {
-      "id": "bdf3e14fb3c70cf8ad089cd21222a672909c6721",
-      "title": "Man guilty over gangland shooting that left girl, 9, with bullet lodged in brain",
-      "url": "https://www.bbc.com/news/articles/c939v7gejlpo?at_medium=RSS&at_campaign=rss",
+      "id": "d1c888aaaa62e2b209175beebdaf965e9f937cb7",
+      "title": "Counter-attack Liverpool - what we learned from Premier League weekend",
+      "url": "https://www.bbc.com/sport/football/articles/c4gz40wvr1zo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-08-18T13:06:55.000Z",
+      "published": "2025-08-18T13:18:26.000Z",
       "summary_90w": "",
-      "raw": "Javon Riley is found guilty over his role in the shooting of a girl at a restaurant in east London.",
+      "raw": "BBC Sport picks out five observations from the opening weekend of the new Premier League season.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "287602de9ec36c242fc06d31010d5b95d0c30852",
+      "title": "Will UK feel the effect of Hurricane Erin?",
+      "url": "https://www.bbc.com/weather/articles/cg7jy3jk2e4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-18T13:15:55.000Z",
+      "summary_90w": "",
+      "raw": "Will the remnants of Hurricane Erin have an impact on the UK's weather?  Shireen Jordan explains.",
       "topics": [
         "World"
       ]
@@ -445,19 +523,6 @@
       ]
     },
     {
-      "id": "0440a958df00c273b3543df5cd5ac0628a221832",
-      "title": "Stadium ban for man bailed in Semenyo racism probe",
-      "url": "https://www.bbc.com/news/articles/clyvdp2n205o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-18T10:09:24.000Z",
-      "summary_90w": "",
-      "raw": "A 47-year-old man is banned from every UK football stadium after Antoine Semenyo reported being racially abused.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5bf6e0bf654b5561f10c6597c1800e318010409e",
       "title": "BBC witnesses Israeli settlers' attack on Palestinian farm in West Bank",
       "url": "https://www.bbc.com/news/articles/cewy88jle0eo?at_medium=RSS&at_campaign=rss",
@@ -666,19 +731,6 @@
       ]
     },
     {
-      "id": "46a0e8fe43498daa0a392455d4b4917c3307f2fa",
-      "title": "Bolivia's presidential vote goes to runoff between centrist and right-wing candidates",
-      "url": "https://www.npr.org/2025/08/18/nx-s1-5505907/bolivia-presidential-election-runoff",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-08-18T05:06:35.000Z",
-      "summary_90w": "",
-      "raw": "A dark horse centrist, Sen. Rodrigo Paz, drew more votes than the right-wing front-runners, although not enough to secure an outright victory, early results showed.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a87e9a4149f60348f9dee0c7be2b854467e25df6",
       "title": "I saw a kaleidoscopic light before going blind, says survivor of Laos methanol poisoning",
       "url": "https://www.bbc.com/news/articles/czd0qlmjl05o?at_medium=RSS&at_campaign=rss",
@@ -838,7 +890,7 @@
       "id": "cdb6f651677c52190e7a5e619b86d8c220462109",
       "title": "Croatian ultra-nationalist mega-gig exposes divided society",
       "url": "https://www.bbc.com/news/articles/cz60nyp3714o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-08-17T23:00:29.000Z",
       "summary_90w": "",
@@ -1248,19 +1300,6 @@
       "raw": "Prosecutors accuse LaToya Cantrell of conspiring with her protection cop to pay him for personal liasons.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "ce6eecd6ad2344efd6e8c5596585351e51160522",
-      "title": "Dead Take’s best scares come from real-life performances",
-      "url": "https://www.theverge.com/games/760213/dead-take-review-fmv-horror-game-ben-starr",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-16T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Dead Take, the second game from Tales of Kenzera: Zau developer Surgent Studios, is a quiet horror game where the monster is ambition and the lengths a person will go for stardom. Like a lot of horror games, Dead Take relies on jumpscares to get the heart pumping. But playing this game, my deepest, most upsetting scares didn't come from the startle of a sudden knock but from the performances of the game's actors.  \nIn Dead Take, you play as Chase Lowry (Neil Newbon), a struggling actor who has come to the creepy mansion of Hollywood producer and kingmaker Duke Cain (Abubakar Salim), to look for his friend, Vinnie Monroe (Ben Starr), another …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
