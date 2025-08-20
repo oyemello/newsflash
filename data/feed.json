@@ -1,7 +1,20 @@
 {
-  "version": "1755715773405",
-  "generatedAt": "2025-08-20T18:49:33.405Z",
+  "version": "1755716497635",
+  "generatedAt": "2025-08-20T19:01:37.635Z",
   "items": [
+    {
+      "id": "e0d97877bc7fa1af1844bdcef33f3eaae6533c4e",
+      "title": "Windows 11 test brings AI file search to the Copilot app",
+      "url": "https://www.theverge.com/news/762788/windows-11-test-brings-ai-file-search-to-the-copilot-app",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-20T18:54:52.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is testing out a Windows 11 update that lets you use AI to search through your files and images directly from the Copilot app. This test is currently rolling out to Windows Insiders on Copilot Plus PCs and allows you to use more descriptive language when conducting your search.\nYou can currently use the Copilot app to search for a file based on its name, when it was last opened, or file type. This update takes things a step further by allowing you to describe what you’re looking for, such as “find the file with the chicken tostada recipe.” Microsoft launched AI-powered Windows search on Copilot Plus PCs earlier this year.\nMicrosoft is experimenting with a new Copilot home experience as well, which surfaces your recent apps, files, and conversations. If you select an app within the “get guided help” section, Copilot will automatically start a Vision session, where it scans everything on your screen and guides you through an app. You can also upload a recent photo to Copilot by selecting it from the left side of the screen and then asking the AI assistant for more information about it.\nThese features are rolling out across all Insider channels via the Microsoft Store.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "07e96c70929369b43ca163194974724195710b8a",
       "title": "Pixel 10, new Gemini features, the Pixel Watch, and everything else announced at the Made by Google 2025 event",
@@ -16,6 +29,19 @@
       ]
     },
     {
+      "id": "e8343de16e52f5c7d4c3878597b18af12722caaf",
+      "title": "Man who shot PC with crossbow is jailed",
+      "url": "https://www.bbc.com/news/articles/cy8jlwee0xjo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-20T18:45:37.000Z",
+      "summary_90w": "",
+      "raw": "The judge hears Jason King also stabbed a neighbour's partner in the stomach.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "d6d82c55f07f26f70e8b07e9b50346dbc94f19e0",
       "title": "Labubu could make $1 billion this year",
       "url": "https://techcrunch.com/2025/08/20/labubu-could-make-1-billion-this-year/",
@@ -26,6 +52,19 @@
       "raw": "The plush monster toy Labubu has already generated more than $650 million in 2025 for Pop Mart.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "a13436b21efcdc425ffcc8b23f848a41a563e8b8",
+      "title": "Arsenal make move for Palace star Eze",
+      "url": "https://www.bbc.com/sport/football/articles/czerxg66w8lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-20T18:44:29.000Z",
+      "summary_90w": "",
+      "raw": "Arsenal launch a move for Crystal Palace attacker Eberechi Eze.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -62,7 +101,7 @@
       "source_name": "The Verge",
       "published": "2025-08-20T18:29:38.000Z",
       "summary_90w": "",
-      "raw": "No phone is waterproof. No phone is dustproof. Your phone’s sealants wear away over time; when they’re exposed salt or chlorine in your swimming water; or when they’re dropped, dented, or cracked. Your warranty doesn’t cover liquid damage; if companies find water in an IP68 phone, it’s proof you damaged it! \nBut while these things are all true of every manufacturer in my reporting, I’ve never seen a company proactively say them out loud like Google just did in advertising materials. \nHere’s the image it posted to X:\nThe fine print reads:\nDesigned to comply with dust and water protection rating IP68 under IEC standard 60529 when each device leaves the factory but the device is not water or dust proof. The accessories are not water or dust resistant. Water resistance and dust resistance are not permanent conditions and will diminish or be lost over time due to normal wear and tear, device repair, disassembly or damage. Phone is not drop/tumble proof and dropping your device may result in loss of water/dust resistance. Damage from drops, tumbles, and other external forces are not covered under warranty. Liquid damage voids the warranty. See g.co/pixel/water for details.\nIf this interests you, I suspect you might also like to read about the reality of folding glass, and the reason why most every folding glass phone comes with a plastic screen protector you’re not supposed to remove.",
+      "raw": "No phone is waterproof. No phone is dustproof. Your phone’s sealants wear away over time; when they’re exposed to salt or chlorine in your swimming water; or when they’re dropped, dented, or cracked. Your warranty doesn’t cover liquid damage; if companies find water in an IP68 phone, it’s proof you damaged it! \nBut while these things are all true of every manufacturer in my reporting, I’ve never seen a company proactively say them out loud like Google just did in advertising materials. \nHere’s the image it posted to X:\nThe fine print reads (bolding mine):\nDesigned to comply with dust and water protection rating IP68 under IEC standard 60529 when each device leaves the factory but the device is not water or dust proof. The accessories are not water or dust resistant. Water resistance and dust resistance are not permanent conditions and will diminish or be lost over time due to normal wear and tear, device repair, disassembly or damage. Phone is not drop/tumble proof and dropping your device may result in loss of water/dust resistance. Damage from drops, tumbles, and other external forces are not covered under warranty. Liquid damage voids the warranty. See g.co/pixel/water for details.\nIf this interests you, I suspect you might also like to read about the reality of folding glass, and the reason why most every folding glass phone comes with a plastic screen protector you’re not supposed to remove.",
       "topics": [
         "Technology"
       ]
@@ -562,19 +601,6 @@
       ]
     },
     {
-      "id": "6fb7a009c520f66b5c1bcc70c7f424f4cfef9666",
-      "title": "Google&#8217;s Pixel Buds 2A add Gemini, noise cancellation, and a replaceable battery",
-      "url": "https://www.theverge.com/hands-on/760852/google-pixel-buds-2a-hands-on-active-noise-cancellation-battery-gemini-earbuds",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-20T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Four years after launching the original Pixel Buds A-series, Google's back with the Pixel Buds 2A. The new budget buds are $30 more expensive at $129.99, but add some notable updates like an upgraded chip, Gemini access, a replaceable battery, and most importantly, active noise cancellation. \nThe 2A also adds a Tensor A1 chip, which Google says \"unlocks the power of Google's advanced AI and Gemini features.\" That Gemini access was heavily emphasized during my briefings, though in practice it mostly replaces Google Assistant on the buds. For most people, the most exciting feature enabled by the new Tensor chip is active noise cancellation an …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "63bcfa1cd85bf22f3ceffc683ce9dd9b357faa3b",
       "title": "Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation",
       "url": "https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/",
@@ -650,19 +676,6 @@
       "raw": "The White House joined TikTok, despite ongoing legal battles surrounding the use of the Chinese-owned app.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "e8343de16e52f5c7d4c3878597b18af12722caaf",
-      "title": "Man who shot PC with crossbow jailed for nine years",
-      "url": "https://www.bbc.com/news/articles/cy8jlwee0xjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-20T15:29:31.000Z",
-      "summary_90w": "",
-      "raw": "The judge hears Jason King also stabbed a neighbour's partner in the stomach.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1129,19 +1142,6 @@
       "published": "2025-08-20T11:30:25.000Z",
       "summary_90w": "",
       "raw": "Six Republican governors are sending National Guard troops to the nation's capital to help with the president's crime crackdown. And, Texas lawmakers set to vote on a new congressional map today.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fc158d1b433d5dbb88f3b9200b5003540168575a",
-      "title": "'He has to go, and now' - heat on Martin after Rangers shambles",
-      "url": "https://www.bbc.com/sport/football/articles/crlz4y36jwko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-20T11:18:37.000Z",
-      "summary_90w": "",
-      "raw": "Rangers supporters call for manager Russell Martin's exit after the 3-1 humbling against Club Brugge in the Champions League qualifier.",
       "topics": [
         "World"
       ]
