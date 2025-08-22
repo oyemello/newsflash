@@ -1,7 +1,33 @@
 {
-  "version": "1755897243574",
-  "generatedAt": "2025-08-22T21:14:03.574Z",
+  "version": "1755898297839",
+  "generatedAt": "2025-08-22T21:31:37.839Z",
   "items": [
+    {
+      "id": "9aeae17c2c2648f56c11a0bb0b744885f0e80fa2",
+      "title": "Netflix wants its partners to follow these rules when using gen AI",
+      "url": "https://www.theverge.com/netflix/764433/netflix-gen-ai-production-guidelines",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-22T21:22:47.000Z",
+      "summary_90w": "",
+      "raw": "Netflix has already faced backlash over the use of AI in  What Jennifer Did, director Jenny Popplewell’s 2024 true crime documentary that seemingly used AI-generated images in place of real archival photos.That documentary stood out as a shining example of gen AI’s ability to distort reality in situations where people are specifically looking to be told the truth about something.  Now the streamer is taking steps to avoid similar problems. \nThis week, Netflix published a post on its Partner Help Center hub detailing its guiding principles regarding gen AI and the situations in which it is ok with production teams using the technology. In Netflix’s view, gen AI tools are “valuable creative aids” that make it easier for “users to rapidly generate new and creatively unique media (video, sound, text, and image).” Because the gen AI space is moving at such a breakneck pace, however, the company felt that it was important to outline the rules it expects its partners to follow if and when they use these tools.\n“To support global productions and stay aligned with best practices, we expect all production partners to share any intended use of GenAI with their Netflix contact, especially as new tools continue to emerge with different capabilities and risks,” the post explains. “Most low-risk use cases that follow the guiding principles below are unlikely to require legal review. However, if the output includes final deliverables, talent likeness, personal data, or third-party IP, written approval will be required before you proceed.”\nNetflix’s gen AI best practices are predicated on five specific guidelines that it sees as being “essential to act responsibly when employing generative workflows.” Netflix says:\nThe outputs do not replicate or substantially recreate identifiable characteristics of unowned or copyrighted material, or infringe any copyright-protected works\nThe generative tools used does not store, reuse, or train on production data inputs or outputs.\nWhere possible, generative tools are used in an enterprise-secured environment to safeguard inputs.\nGenerated material is temporary and not part of the final deliverables.\nGenAI is not used to replace or generate new talent performances or union-covered work without consent.\nNetflix also says if its partners are confident that they are following those guidelines, they only need to tell their designated company contact that they intend to use gen AI. But if partners are unsure or know that they’re not adhering to the rules, they should escalate to your Netflix contact for more guidance before proceeding, as written approval may be required.”\nThe post repeatedly stresses that while Netflix is very open to its partners using gen AI in a number of ways, it wants them to be mindful of the potential legal risks they might wander into by not running their plans by management and the company’s legal team beforehand. The post also makes a point of emphasizing that Netflix believes “audiences should be able to trust what they see and hear on screen.” And given gen AI’s potential to “blur the line between fiction and reality or unintentionally mislead viewers,” the streamer wants its partners to tread carefully.\nThough the post does not mention production costs,  all of this comes just a few weeks after Netflix co-CEO Ted Sarandos said that the company remains “convinced that AI represents an incredible opportunity to help creators make films and series better, not just cheaper.” Soon after, Sarandos began pointing to Netflix’s new Argentinian sci-fi series The Eternaut as an example of how gen AI could be used to bring a show in under budget. And now it seems like Netflix is very keen on other creative teams embracing that kind of workflow.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "bb97bdc1f7b27a2a190a8cd11b43173760ce8991",
+      "title": "White House announces chipmaker Intel to give US government 10% stake",
+      "url": "https://www.bbc.com/news/articles/cvg3zpdl3xdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-22T21:14:00.000Z",
+      "summary_90w": "",
+      "raw": "President Trump earlier said the company's CEO agreed to the deal in a recent meeting at the White House.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "980840a40ffe0d7ee2fc3079bfa4c730c2052c5e",
       "title": "Bluesky blocks Mississippi under new age verification law",
@@ -10,7 +36,7 @@
       "source_name": "The Verge",
       "published": "2025-08-22T21:09:14.000Z",
       "summary_90w": "",
-      "raw": "Bluesky will block access to Mississippi IP addresses in response to a new state law requiring age verification and parental consent for underage users. The decision, outlined in a blog post, will stand until courts decide the fate of the law.\n“Mississippi’s approach would fundamentally change how users access Bluesky,” says the post, in ways that rules like the UK’s Online Safety Act (which Bluesky complies with) don’t. The law, HB 1126, “would block everyone from accessing the site — teens and adults — unless they hand over sensitive information, and once they do, the law in Mississippi requires Bluesky to keep track of which users are children.” In the UK, by contrast, users are only blocked from accessing direct messages and sensitive content unless they undergo a verification process using a third-party tool. “Building the required verification systems, parental consent workflows, and compliance infrastructure would require significant resources that our small team is currently unable to spare as we invest in developing safety tools and features for our global community, particularly given the law’s broad scope and privacy implications.”\nHB 1126 is one of numerous attempts to age-gate social media in the US, but most similar laws have been blocked under court challenges as likely unconstitutional. HB 1126 went into effect thanks to an unexplained decision by the Supreme Court earlier this month, rejecting an emergency request to block it while a legal challenge progresses. A concurring opinion from Justice Brett Kavanaugh acknowledged that the law probably violated the First Amendment but said the plaintiffs had not sufficiently demonstrated harms. While the court has said that age verification can be used to block minors from accessing explicit sexual content without unduly burdening adults’ access to information, there’s no precedent extending that option to social media in general.\nNow, however, Bluesky users who log in from inside the borders of Mississippi (without a VPN, anyway) will be met with a message explaining the decision. The decision applies specifically to the Bluesky app; other apps and services on the decentralized AT Protocol will make their own calls about access.\n “Child safety is a core priority, and in this evolving regulatory landscape, we remain committed to building an open social ecosystem that protects users while preserving choice and innovation,” the post says. “We’ll keep you updated as this situation develops.”",
+      "raw": "Bluesky will block access from Mississippi IP addresses in response to a new state law requiring age verification and parental consent for underage users. The decision, outlined in a blog post, will stand until courts decide the fate of the law.\n“Mississippi’s approach would fundamentally change how users access Bluesky,” says the post, in ways that rules like the UK’s Online Safety Act (which Bluesky complies with) don’t. The law, HB 1126, “would block everyone from accessing the site — teens and adults — unless they hand over sensitive information, and once they do, the law in Mississippi requires Bluesky to keep track of which users are children.” In the UK, by contrast, users are only blocked from accessing direct messages and sensitive content unless they undergo a verification process using a third-party tool. “Building the required verification systems, parental consent workflows, and compliance infrastructure would require significant resources that our small team is currently unable to spare as we invest in developing safety tools and features for our global community, particularly given the law’s broad scope and privacy implications.”\nHB 1126 is one of numerous attempts to age-gate social media in the US, but most similar laws have been blocked under court challenges as likely unconstitutional. HB 1126 went into effect thanks to an unexplained decision by the Supreme Court earlier this month, rejecting an emergency request to block it while a legal challenge progresses. A concurring opinion from Justice Brett Kavanaugh acknowledged that the law probably violated the First Amendment but said the plaintiffs had not sufficiently demonstrated harms. While the court has said that age verification can be used to block minors from accessing explicit sexual content without unduly burdening adults’ access to information, there’s no precedent extending that option to social media in general.\nNow, however, Bluesky users who log in from inside the borders of Mississippi (without a VPN, anyway) will be met with a message explaining the decision. The decision applies specifically to the Bluesky app; other apps and services on the decentralized AT Protocol will make their own calls about access.\n “Child safety is a core priority, and in this evolving regulatory landscape, we remain committed to building an open social ecosystem that protects users while preserving choice and innovation,” the post says. “We’ll keep you updated as this situation develops.”",
       "topics": [
         "Technology"
       ]
@@ -114,7 +140,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-08-22T20:26:47.000Z",
       "summary_90w": "",
-      "raw": "Manager of zipline facility detained for alleged religious discrimination after group of eight- to 18-year-olds turned away\nThe manager of a leisure park in southern France has been detained for alleged religious discrimination after a group of Israeli children were refused access.\nThe children, aged eight to 16, were on holiday in Spain and had made a reservation for Thursday to use the Parcours aérien Tyrovol zipline facility in Porté-Puymorens, near the Spanish border in the Pyrenees mountains, the Perpignan prosecutor’s office said.\n Continue reading...",
+      "raw": "Manager of zipline facility detained for alleged religious discrimination after group of eight- to 18-year-olds turned away\nThe manager of a leisure park in southern France has been detained for alleged religious discrimination after a group of Israeli children were refused access.\nThe children, aged eight to 16, were on holiday in Spain and had made a reservation for Thursday to use the Tyrovol zipline adventure park in Porté-Puymorens, near the Spanish border in the Pyrenees mountains, the Perpignan prosecutor’s office said.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -498,7 +524,7 @@
     },
     {
       "id": "de467a2e5bca399f506ee786629ab0535af80da5",
-      "title": "Famine confirmed in Gaza City is 'failure of humanity', UN chief says",
+      "title": "Famine in Gaza City is 'failure of humanity', UN chief says",
       "url": "https://www.bbc.com/news/articles/c05ed5rgld3o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -557,19 +583,6 @@
       "published": "2025-08-22T16:33:13.000Z",
       "summary_90w": "",
       "raw": "Nuno Espirito Santo's future as Nottingham Forest manager is uncertain after a breakdown in his relationship with owner Evangelos Marinakis.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "42839a4c2b9fd36ea19798a06df1f631aad03a85",
-      "title": "Six more people in court over alleged Palestine Action break-in at Israeli defence firm",
-      "url": "https://www.bbc.com/news/articles/c3dp29705v4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-22T16:31:31.000Z",
-      "summary_90w": "",
-      "raw": "The group appear at the Old Bailey following a break-in at the defence firm.",
       "topics": [
         "World"
       ]
@@ -648,19 +661,6 @@
       "published": "2025-08-22T15:53:52.000Z",
       "summary_90w": "",
       "raw": "The thousands of trucks zipping along U.S. highways are often only about half full -- something Oway wants to change with its \"ride-share for freight\" software.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "d979af9abb216f1c1c1d7ba81c7a9f3fd4837834",
-      "title": "Silksong is out soon, and indie games are getting out of the way",
-      "url": "https://www.theverge.com/news/764346/hollow-knight-silksong-indie-game-delays-cloverpit-faeland-aeterna-lucis",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-22T15:53:34.000Z",
-      "summary_90w": "",
-      "raw": "Yesterday, Hollow Knight: Silksong developers Team Cherry announced a September 4th release date for the long-awaited game, and indie developers are announcing delays to get out of the way of the launch. Silksong is a full sequel to the excellent Hollow Knight and is currently the most wishlisted game on Steam, so it’s likely going to be very popular when it’s finally available.\nPanik Arcade, which was set to release its “hellish gambling roguelike” CloverPit on September 3rd, has pushed the game’s launch to September 26th. “We poured our hearts into our little game so of course we want to give it the best possible shot,” Panik Arcade says. “We hope you can understand — we’ll use the extra time of course to polish the game even further and we hope for your support at launch either way.”\n\n\n🚨GAME DELAY 🚨\ndue to Silksong (can’t wait to play) launching just a day after CloverPit, we decided to delay our release\nour new release date is 26th Sept\nwe poured our hearts into our little game, so we want to give it the best possible shot. thanks for understanding!! pic.twitter.com/QwKwBrBuFJ\n— Panik Arcade 🕹️ making CloverPit 🍒🎰 (@PanikArcade) August 22, 2025\n\n\nTalegames, which was planning to launch the adventure RPG Faeland out of early access on September 9th, is postponing the release and plans to share a new date soon. “This wasn’t an easy decision,” Talegames says. “We’ve poured years of work and love into Faeland, and we want to make sure it arrives at a time when it can receive the attention and care it deserves.” \n\n\nOur v1.0 launch was set for Sept 9, but with today’s Silksong news we’ve made the tough call to postpone. A new date is coming soon, thank you all for the love and support ❤️ pic.twitter.com/Lh07iGLHHn\n— TALEGAMES (@Talegamesnews) August 21, 2025\n\n\nAeternum Game Studios, which is developing a 2D sidescrolling game focused on combat and exploration called Aeterna Lucis, is postponing a planned September release to sometime in 2026 because the game “wouldn’t have the visibility it deserves.” Aeternum also says that it still doesn’t have the development kits to “ensure a simultaneous release on all next-generation platforms,” so the delay means it can “bring you Aeterna Lucis at the right time.”\n\n\npic.twitter.com/CUomiRcsZU\n— Aeternum Game Studios (@aeternathegame) August 22, 2025\n\n\nFrogteam Games, which is working on the 2D exploration game Stomp and the Sword of Miracles, is delaying a planned August 29th demo launch, as spotted by Aftermath. “Trying to market an indie game is already really, really hard,” Frogteam Games says. It’s the task of trying to get attention in a deep sea of other amazing games. In the case of Silksong, however, I feel like a little krill trying to not get eaten by a blue whale. Tiny devs like me rely on word of mouth and streamers to bring in visibility, and everyone’s gonna be busy with Silksong for quite a while!\n\n\nHead's up – the Stomp demo has had to be suddenly delayed. I'll keep you all updated when I know what the plan is.\n— Stomp and the Sword of Miracles (@frogteam.games) 2025-08-21T16:29:41.176Z\n\n\nEven with these delays, early September is still packed with notable game releases, including Necrosoft Games’s Demonschool (September 3rd), Rogue Factor’s Hell is Us (September 4th), and Bloober Team’s Cronos: The New Dawn (September 5th). We’ve reached out to the developers of those games to ask if they are changing their release plans because of Silksong.\nUpdate, August 22nd: Added the delay for the demo of Stomp and the Sword of Miracles.",
       "topics": [
         "Technology"
       ]
