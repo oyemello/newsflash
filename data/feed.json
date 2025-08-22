@@ -1,6 +1,6 @@
 {
-  "version": "1755856350302",
-  "generatedAt": "2025-08-22T09:52:30.302Z",
+  "version": "1755857772813",
+  "generatedAt": "2025-08-22T10:16:12.813Z",
   "items": [
     {
       "id": "a9d48a84e55973baee890828d2eecd332f325ec2",
@@ -8,7 +8,7 @@
       "url": "https://www.bbc.com/news/articles/cwye3y3dyn6o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2025-08-22T09:42:20.000Z",
+      "published": "2025-08-22T10:12:33.000Z",
       "summary_90w": "",
       "raw": "Ranil Wickremesinghe has been arrested in connection with the alleged misuse of funds, officials said.",
       "topics": [
@@ -16,14 +16,53 @@
       ]
     },
     {
+      "id": "d3415d2363fbdd181572b9d480c60875533fbbaf",
+      "title": "India top court shelves plan to lock up Delhi's street dogs",
+      "url": "https://www.bbc.com/news/articles/c5yejnze4p1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-22T10:08:00.000Z",
+      "summary_90w": "",
+      "raw": "The Supreme Court says only dogs with rabies or aggressive behaviour should be kept in shelters.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "08fc8fc7d684e579bd0e97d815c90b37eee7033e",
-      "title": "Noel Clarke loses libel case against the Guardian",
+      "title": "Noel Clarke loses libel case against the Guardian over sexual misconduct allegations",
       "url": "https://www.bbc.com/news/articles/cwy33g0lelno?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-08-22T09:35:30.000Z",
+      "published": "2025-08-22T10:04:32.000Z",
       "summary_90w": "",
       "raw": "The award-winning actor sued the newspaper's publisher for printing allegations of sexual misconduct.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5b29dbd58d34fa5b21551ca33ea37862c4331754",
+      "title": "Famine confirmed in Gaza City for first time, UN-backed body says – Israel-Gaza war latest updates",
+      "url": "https://www.theguardian.com/world/live/2025/aug/22/famine-benjamin-netanyahu-palestine-gaza-israel-war-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-08-22T09:46:44.000Z",
+      "summary_90w": "",
+      "raw": "‘Famine in Gaza is entirely man-made’, UN-backed food security body says\nMothers in Gaza have resorted to using legume water and herbs as alternative to infant milk amid Famine, charity warns\nDr. Ra’ed Al-Baba, who works at Al Awda Hospital run by ActionAid’s partner Al-Awda, said usage of alternatives to infant milk had “catastrophic” consequences.\nThere are mothers who resort to using legume water, herbs, and other alternatives to infant milk because of the severe shortage. These methods carry catastrophic risks, causing gastroenteritis, food poisoning, delayed growth, severe anaemia, and even the inability to move. We have seen cases of extreme dehydration from polluted water mixed with these substitutes. This is not survival, this is slow death.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c5406781b9527067de09868d27810418aa12bc49",
+      "title": "Karen Gillan joins the cast of Highlander reboot",
+      "url": "https://www.bbc.com/news/articles/cq87gn3q0yvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-22T09:45:41.000Z",
+      "summary_90w": "",
+      "raw": "The Scottish actress will star alongside former Superman actor Henry Cavill in a reboot of the classic 80s movie.",
       "topics": [
         "World"
       ]
@@ -37,19 +76,6 @@
       "published": "2025-08-22T09:35:23.000Z",
       "summary_90w": "",
       "raw": "A U.N.-backed food security group has issued a dire warning: famine has officially now taken hold in northern Gaza and is expected to spread in the coming months.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "5b29dbd58d34fa5b21551ca33ea37862c4331754",
-      "title": "Famine confirmed in Gaza City for first time, UN-backed body says – Israel-Gaza war latest updates",
-      "url": "https://www.theguardian.com/world/live/2025/aug/22/famine-benjamin-netanyahu-palestine-gaza-israel-war-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-08-22T09:29:24.000Z",
-      "summary_90w": "",
-      "raw": "‘Famine in Gaza is entirely man-made’, UN-backed food security body says\nPoland join international opposition to new settlement plan\nPoland have joined 21 other countries in condemning Israel’s new illegal E1 settlement plan in the West Bank\nThere is now a race against time to stop this famine from becoming any further entrenched.\nEvery hour counts and there is no time to waste. The international community must take meaningful action and use diplomatic pressure to bring about a permanent ceasefire immediately.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -123,13 +149,13 @@
       "id": "1d2e50777871c1c54187d67c71ed62e025909adf",
       "title": "After a few chilly years, the real estate market is looking a little warmer",
       "url": "https://www.npr.org/2025/08/22/nx-s1-5510058/housing-market-mortgage-rates-homebuilding",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2025-08-22T09:00:00.000Z",
       "summary_90w": "",
       "raw": "High mortgage rates cooled home sales over the last few years. But data released this week shows signs that things may be thawing a bit.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -141,6 +167,19 @@
       "published": "2025-08-22T09:00:00.000Z",
       "summary_90w": "",
       "raw": "The Trump administration has tied new requirements to election security grants. Some states told NPR they're passing on the grants as a result.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1709ec1aa924d3649e56069860507a056f1cc3d9",
+      "title": "First wave of Epstein files is being sent to Congress, says Oversight Committee chair",
+      "url": "https://www.npr.org/2025/08/22/nx-s1-5509535/epstein-files-congress-house-oversight-committee-trump",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-08-22T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The Justice Department is expected to deliver files from its Jeffrey Epstein investigation to the House Oversight Committee starting Friday. The panel plans to release some of the files publicly.",
       "topics": [
         "World"
       ]
@@ -276,19 +315,6 @@
       ]
     },
     {
-      "id": "d3415d2363fbdd181572b9d480c60875533fbbaf",
-      "title": "India top court shelves plan to lock up Delhi's street dogs",
-      "url": "https://www.bbc.com/news/articles/c5yejnze4p1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-08-22T07:46:15.000Z",
-      "summary_90w": "",
-      "raw": "The Supreme Court says only dogs with rabies or aggressive behaviour should be kept in shelters.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8d3ce06ad68f6c1d31ad5029e7c2414ab6b64aec",
       "title": "Peter Dutton rules out return to politics in rare public appearance – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2025/aug/22/australia-news-live-penny-wong-gaza-israel-netanyahu-anthony-albanese-childcare-safety-education-database-ntwnfb",
@@ -344,7 +370,7 @@
       "id": "10b3d05272a60c3e553377e6b62c04c09db6b468",
       "title": "Former Thai PM Thaksin acquitted in royal insult case",
       "url": "https://www.bbc.com/news/articles/ckgyx62gk5wo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-08-22T06:23:11.000Z",
       "summary_90w": "",
@@ -656,7 +682,7 @@
       "id": "695df91694c9a4635aaad2a15bb33841d2e09a25",
       "title": "Anger in Italy over non-consensual photos of women shared online",
       "url": "https://www.bbc.com/news/articles/ce874j4ye3no?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-08-22T01:59:57.000Z",
       "summary_90w": "",
