@@ -1,10 +1,114 @@
 {
-  "version": "1755885144328",
-  "generatedAt": "2025-08-22T17:52:24.328Z",
+  "version": "1755886775179",
+  "generatedAt": "2025-08-22T18:19:35.179Z",
   "items": [
+    {
+      "id": "e4c8af303bc468d5bf1ac90f4f15290d84dc0674",
+      "title": "Home Office seeks to appeal against court ruling on Epping asylum hotel",
+      "url": "https://www.bbc.com/news/articles/cy5p2ye95z9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-22T18:15:24.000Z",
+      "summary_90w": "",
+      "raw": "The High Court refused a last-minute request by the Home Office to intervene in the Epping asylum hotel case.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e8ccae1d84520c93440e8146778fb4a91e944f75",
+      "title": "Apple is in talks to use Google’s Gemini for Siri revamp, report says",
+      "url": "https://techcrunch.com/2025/08/22/apple-is-in-talks-to-use-googles-gemini-for-siri-revamp-report-says/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-08-22T18:15:08.000Z",
+      "summary_90w": "",
+      "raw": "Apple promised a major revamp to Siri, but the company's AI capabilities have lagged behind competitors.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c010a41fea4a754a2146b241cc5f4484d1a674c1",
+      "title": "The next Starship flight will test much more than hardware",
+      "url": "https://techcrunch.com/2025/08/22/the-next-starship-flight-will-test-much-more-than-hardware/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-08-22T18:11:17.000Z",
+      "summary_90w": "",
+      "raw": "The tenth Starship flight test will be a referendum on the company's build-fly-fix approach.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8a86ffdef8bae8ad779193531ec43c0c9de80780",
+      "title": "Microsoft tests letting you resume Android apps on Windows 11",
+      "url": "https://www.theverge.com/news/764484/microsoft-tests-letting-you-resume-android-apps-on-windows-11",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-22T18:09:23.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is testing a new Windows 11 feature that will let you resume using your Android apps right on your PC. The capability is gradually rolling out to Windows Insiders in the Dev and Beta Channels, and only supports the Spotify app for now.\nIf you’re in the test, you can try out the feature by linking your Android phone to your PC, and then opening up a song on Spotify’s mobile app. From there, Windows 11 will display a “Resume from your phone” notification alongside the Spotify icon and a prompt to “Continue on this PC.”\nOnce you select the notification, your PC will open Spotify’s desktop app — or prompt you to install it if you haven’t yet — and continue to play the same song from your computer. Microsoft first showcased this feature during a (now-deleted) Build 2025 demo. It sounds pretty similar to Handoff on macOS, which lets you resume your activity on a Mac, iPhone, iPad, or Apple Watch on another device.\nMicrosoft doesn’t say how it plans to expand this Handoff-like feature in the future, but I could see it becoming helpful if you want to continue an activity that you started on your phone, like reading an article or writing an email, on your computer.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "41871fdc131ac2dcc651ea909ada9228a26bcafb",
+      "title": "Canada removes some of its retaliatory tariffs on the U.S.",
+      "url": "https://www.npr.org/2025/08/22/nx-s1-5511357/canada-carney-tariffs-us",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-08-22T18:08:47.000Z",
+      "summary_90w": "",
+      "raw": "Canada is dropping retaliatory tariffs to match U.S. tariff exemptions for goods covered under the United States-Mexico-Canada trade pact, Prime Minister Mark Carney announced Friday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0da99e5d329181dbf4f947f4234b43f08bb00789",
+      "title": "Canada to drop many of its retaliatory tariffs on the US",
+      "url": "https://www.bbc.com/news/articles/c5yk9dqlvygo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-08-22T17:52:04.000Z",
+      "summary_90w": "",
+      "raw": "The move comes after the two countries blew past a self-imposed deadline to reach a trade agreement.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1550c44a473728c1b2cf5a22f62c535746ede50e",
+      "title": "UK agrees to pay Kenyans affected by military fire",
+      "url": "https://www.bbc.com/news/articles/c9vd3k1dpymo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-22T17:38:08.000Z",
+      "summary_90w": "",
+      "raw": "Thousands says they have suffered health problems or lost property after fire caused by British military.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "bb9fbb65e5a1db19944b0e5718bc38acea3aef23",
       "title": "'Biggest event in sport' - Trump says Washington to host 2026 World Cup draw",
+      "url": "https://www.bbc.com/sport/football/articles/cly4pk542d1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-22T17:33:20.000Z",
+      "summary_90w": "",
+      "raw": "The draw for the 2026 men's World Cup will take place in Washington this December, US President Donald Trump has announced.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bb9fbb65e5a1db19944b0e5718bc38acea3aef23",
+      "title": "'The biggest event in sport' - Trump announces 2026 World Cup draw",
       "url": "https://www.bbc.com/sport/football/articles/cly4pk542d1o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -52,19 +156,6 @@
       "raw": "Y Combinator is asking the court to deny Apple’s appeal.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "0da99e5d329181dbf4f947f4234b43f08bb00789",
-      "title": "Canada to drop many of its retaliatory tariffs on the US",
-      "url": "https://www.bbc.com/news/articles/c5yk9dqlvygo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-22T16:58:40.000Z",
-      "summary_90w": "",
-      "raw": "The move comes after the two countries blew past a self-imposed deadline to reach a trade agreement.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -154,19 +245,6 @@
       "published": "2025-08-22T16:25:00.000Z",
       "summary_90w": "",
       "raw": "The band's frontman John Rzeznik talks about their new EP Summer Anthem and how, as he approaches 60, he might consider taking guitar lessons.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e4c8af303bc468d5bf1ac90f4f15290d84dc0674",
-      "title": "Home Office seeks to appeal against court ruling on Epping asylum hotel",
-      "url": "https://www.bbc.com/news/articles/cy5p2ye95z9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-22T16:22:54.000Z",
-      "summary_90w": "",
-      "raw": "The High Court refused a last-minute request by the Home Office to intervene in the Epping asylum hotel case.",
       "topics": [
         "World"
       ]
@@ -809,19 +887,6 @@
       ]
     },
     {
-      "id": "3eee45ee8cede819ca98cc601c480c2afccf0c33",
-      "title": "These programs help poor students with college. Trump wants to pull the funding",
-      "url": "https://www.npr.org/2025/08/22/nx-s1-5501580/trump-proposes-cuts-programs-poor-students-colleges",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-08-22T09:05:00.000Z",
-      "summary_90w": "",
-      "raw": "For 60 years, TRIO has helped millions of people along the path to a degree, but the administration says it is no longer needed.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1d2e50777871c1c54187d67c71ed62e025909adf",
       "title": "After a few chilly years, the real estate market is looking a little warmer",
       "url": "https://www.npr.org/2025/08/22/nx-s1-5510058/housing-market-mortgage-rates-homebuilding",
@@ -871,19 +936,6 @@
       "raw": "Some of the largest retailers in the U.S., including Walmart, Home Depot and Target, have had to raise prices on some items due to tariffs. They've kept prices down on other items.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "177dc972f7f580c068a40969ba9ce8b3879b28d1",
-      "title": "Florida man orders beautification of America after gold-plating the White House",
-      "url": "https://www.theverge.com/news/764142/trump-executive-order-national-design-studio",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-22T08:35:35.000Z",
-      "summary_90w": "",
-      "raw": "We can only hope that Trump keeps his own aesthetic preferences out of it. | Image: Bloomberg via Getty Images\t\n\nPresident Donald Trump signed a new executive order on Thursday to improve the “usability and aesthetics” of US government services by creating “first-class online and offline experiences for Americans.”\n“It is time to update the Government’s design language to be both usable and beautiful,” Trump said in the order, which establishes an America by Design initiative meant to “improve comprehensively the visual presentation and usability of Federal services provided to the public in both digital and physical spaces.” \nA new National Design Studio is being set up to facilitate this, led by a chief design officer — with Airbnb co-founder Joe Gebbia reportedly lined up for the position, according to Reuters.\nGebbia has already been tasked with overhauling the sluggishly paper-based federal retirement process after joining Trump’s DOGE service in February. It’s unclear what direction Gebbia’s design choices will take, but here’s hoping he isn’t too influenced by Trump’s love for all things golden, gaudy, and gilded. Refraining from randomly capitalizing text would also be a bonus.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1176,7 +1228,7 @@
       "id": "d419fd4a38f9a4a92cf3111c0038586a0487cee4",
       "title": "The 95-year-old POW who wants to return to North Korea to die",
       "url": "https://www.bbc.com/news/articles/c1jnk1dr5pgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-08-21T22:04:55.000Z",
       "summary_90w": "",
@@ -1329,19 +1381,6 @@
       ]
     },
     {
-      "id": "528308005ee4ed8c3fc4ef2b0e5ab9ed1ce34d3e",
-      "title": "Microsoft AI chief says it’s ‘dangerous’ to study AI consciousness",
-      "url": "https://techcrunch.com/2025/08/21/microsoft-ai-chief-says-its-dangerous-to-study-ai-consciousness/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-08-21T17:52:53.000Z",
-      "summary_90w": "",
-      "raw": "As AI chatbots surge in popularity, Mustafa Suleyman argues that it's dangerous to consider how these systems could be conscious.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "c5abfcf617849bf1d0a327b05f3a32a4aa3c34da",
       "title": "Israel begins ground offensive in Gaza City",
       "url": "https://www.bbc.co.uk/sounds/play/p0lybfkm?at_medium=RSS&at_campaign=rss",
@@ -1391,19 +1430,6 @@
       "raw": "Geneva, Istanbul and Budapest have been put forward as potential locations - but bilateral talks still remain a long way off.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "466881bd76f9d945ad65b0ecfeead1a61ee117e5",
-      "title": "Apple TV+ price jumps 30% to $12.99 monthly",
-      "url": "https://techcrunch.com/2025/08/21/apple-tv-price-jumps-30-to-12-99-monthly/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-08-21T16:04:22.000Z",
-      "summary_90w": "",
-      "raw": "The updated price is effective for new customers starting Thursday and will affect current subscribers 30 days after their next renewal date.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1651,19 +1677,6 @@
       "raw": "Protesters shouted at Vance, Pete Hegseth and Stephen Miller as they entered DC's largest rail hub.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "489248e679d2f3cb84168b8ac7a5e83b892b68f0",
-      "title": "Trump calls for resignation of Fed governor in latest line of attack",
-      "url": "https://www.npr.org/2025/08/20/nx-s1-5508276/trump-calls-for-resignation-of-fed-governor-in-latest-line-of-attack",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-08-20T16:56:04.000Z",
-      "summary_90w": "",
-      "raw": "President Trump is calling for the resignation of Federal Reserve governor Lisa Cook after a Trump ally accused her of making false statements on mortgage applications.",
-      "topics": [
-        "Business"
       ]
     },
     {
