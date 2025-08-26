@@ -1,7 +1,20 @@
 {
-  "version": "1756234018551",
-  "generatedAt": "2025-08-26T18:46:58.551Z",
+  "version": "1756234699058",
+  "generatedAt": "2025-08-26T18:58:19.058Z",
   "items": [
+    {
+      "id": "60e8dae738be7c30f2c632445d7fe9643178a9f7",
+      "title": "Framework is working on a giant haptic touchpad, Trackpoint nub, and eGPU for its laptops",
+      "url": "https://www.theverge.com/news/766161/framework-egpu-haptic-touchpad-trackpoint-nub",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-26T18:46:19.000Z",
+      "summary_90w": "",
+      "raw": "Today, Framework announced the second-gen Framework Laptop 16 with two industry firsts: the first Nvidia graphics card upgrade you can perform at home in just a couple minutes, and the first complete 240W laptop charging solution over a USB-C cable.\nBut the company’s also revealing some intriguing upgrades that didn’t quite make the cut — including an extra-large haptic touchpad a la Apple’s MacBooks, and the company’s first external graphics module (eGPU). \nNot everything in the video below is actually coming to market, and some of it won’t be aimed at everyday consumers. Framework CEO Nirav Patel says he’s working to bring the fan-favorite ThinkPad Trackpoint nub to its keyboards, but keeps failing because the team can’t find a short enough nub that it doesn’t poke into the Laptop 16’s screen. \n\nBut he says a wide haptic touchpad is genuinely in development, one that won’t need the Framework Laptop 16’s modular spacers to give you a full-width palmrest. And if your main concern is just removing those spacers (I occasionally found the uneven surface annoying in my review), Framework says it’ll release 3D files so you can print your own full-width palmrest for the existing touchpad, in any color you like.\nHere’s a look at that 3D-printed one:\nFramework also says an eGPU is actually in development that uses the Framework Laptop 16’s GPU modules, but not as a consumer product. Patel says that would make it too expensive to fulfill the team’s main goal: “We want to make sure there is a pathway to reuse graphics modules coming out of the Framework Laptop 16, so they’re not sitting in a drawer or worse going out into a landfill somewhere.”\nSo it won’t look like the prototype you see below, but rather something targeted at makers, he says — perhaps we’ll have to 3D print the case for that one ourselves as well.\nPatel also says Framework’s One Key Modules for building your own custom keyboards are still in development — “we’re working hard to bring up the manufacturing yield so we can make it available at a reasonable price” — and expects he’ll be able to offer 64GB RAM modules before long. A transparent bezel for the Framework Laptop 16 didn’t make the cut because it turned out too brittle, though the team’s still looking for polycarbonate or resin blends that’d work better.\nAs for why it’s shipping a new Nvidia RTX 5070 graphics module with just 8GB of RAM, Patel says in a Q&A that’s how much is available with a mobile 5070, and that’s how much could fit into the current design, which only has space for four memory packages on the front.\nWhile they could have gone with a more powerful GPU, “we’d have to grow the thickness of the graphics module by putting them on both sides of the board,” which would increase the thickness of the graphics bay, which would increase the thickness of the laptop, among other adjustments. \n“For this generation, 5070 8GB is it,” says Patel.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "e13bec19b238ef4f1aa479d6abeacda6f9a07d9f",
       "title": "Anthropic settles AI book-training lawsuit with authors",
@@ -10,14 +23,14 @@
       "source_name": "TechCrunch",
       "published": "2025-08-26T18:40:46.000Z",
       "summary_90w": "",
-      "raw": "Anthropic has settled a class action lawsuit with a group of fiction and non-fiction authors, as announced in a filing on Tuesday with the Ninth Circuit Court of Appeals. Anthropic had won a partial victory in a lower court ruling, and was in the process of appealing that ruling. No details of the settlement were […]",
+      "raw": "Called Bartz v. Anthropic, the case deals with Anthropic's use of books as training material for its large language models.",
       "topics": [
         "Technology"
       ]
     },
     {
       "id": "d71b04b3771ea3d757906c617f767f0f66ad9a1c",
-      "title": "Why the U.S. government is not the savior Intel needs",
+      "title": "Why the US government is not the savior Intel needs",
       "url": "https://techcrunch.com/2025/08/26/why-the-u-s-government-is-not-the-savior-intel-needs/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -56,13 +69,13 @@
     },
     {
       "id": "1c1df3d8fdb2df8b13c70114ca398f489c56ee8b",
-      "title": "Teenager took part in terror plot to attack Taylor Swift concert, court finds",
+      "title": "Teenager convicted over IS-inspired plot to attack Taylor Swift concert",
       "url": "https://www.theguardian.com/music/2025/aug/26/teenager-took-part-in-terror-plot-to-attack-taylor-swift-concert-court-finds",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-08-26T18:15:20.000Z",
       "summary_90w": "",
-      "raw": "Mohammad A, 16, gets 18-month suspended sentence for helping plan Islamic State-inspired attack in Vienna\nA Berlin court has convicted a Syrian teenager of contributing to an Islamic State-inspired plot to attack a Taylor Swift concert in Vienna.\nThree dates in the US pop star’s record-breaking Eras tour were cancelled last summer after authorities learned of the plot.\n Continue reading...",
+      "raw": "Mohammad A, 16, given 18-month suspended sentence for helping plan foiled attack in Vienna\nA Berlin court has convicted a Syrian teenager of contributing to an Islamic State-inspired plot to attack a Taylor Swift concert in Vienna.\nThree dates in the US pop star’s record-breaking Eras tour were cancelled last summer after authorities learned of the plot.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -609,19 +622,6 @@
       "published": "2025-08-26T15:05:00.000Z",
       "summary_90w": "",
       "raw": "Framework CEO Nirav Patel said he would deliver \"the holy grail for gamers\" with the Framework Laptop 16. In 2023, he suggested it'd be the first consumer notebook to fulfil the promise of modular, upgradable graphics cards like a desktop PC. We at The Verge were skeptical, because the last time we heard someone tell that story, it ended in lawsuits and forced arbitration. \nBut today, some eighteen months after shipping the Framework Laptop 16, the company has done what no laptop maker has done in modern memory, if ever: it's created a newer, faster discrete graphics card you can easily swap into its existing laptop.\nIn 2024, that laptop o …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "e3cc298699595ee5551fb8175dc57b2055da1ac9",
-      "title": "TikTok Shop, Amazon, and other marketplaces hosted antisemitic T-shirts",
-      "url": "https://www.theverge.com/report/765862/tiktok-shop-amazon-antisemitic-tshirts",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-26T15:04:25.000Z",
-      "summary_90w": "",
-      "raw": "Some TikTok users have reported seeing a troubling product in the last few days: T-shirts for sale on TikTok Shop that are an antisemitic parody of the Jaws movie poster. In the image printed on the shirts, the shark has been transformed into a human nose, the swimmer at the surface of the water is instead a $100 bill, and \"Jaws\" has been edited to read \"Jews,\" propagating antisemitic stereotypes of Jewish people as money hungry.\nThe Verge found multiple listings on TikTok Shop for the shirt from a handful of storefronts, some based in the US and others based in China. Prices range between $8.99 and $15, and other than the offensive design, …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
