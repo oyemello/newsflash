@@ -1,7 +1,33 @@
 {
-  "version": "1756401248916",
-  "generatedAt": "2025-08-28T17:14:08.916Z",
+  "version": "1756402406333",
+  "generatedAt": "2025-08-28T17:33:26.333Z",
   "items": [
+    {
+      "id": "d4a0e8e7c59f19e6e8b0a86e1cbf91307cc47166",
+      "title": "GM’s new adapters reflect the increasingly confused reality of EV charging",
+      "url": "https://www.theverge.com/electric-cars/767535/gms-new-adapters-reflect-increasingly-confused-world-ev-charging",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-28T17:25:33.000Z",
+      "summary_90w": "",
+      "raw": "Look, I sympathize. When General Motors said it would adopt Tesla’s North American Charging Standard (NACS) for its electric vehicles back in 2023, we knew this meant adapters. But we never could have imagined how many adapters we would get. \nToday, GM announced three additional adapters to help EV owners charge at home or in public. And while I’m sure that GM thought it was presenting the information as clearly as it could, I can’t help but wonder what normal, non-EV owners must think of all this.\nThe new adapters are intended to help customers transitioning between the old CCS way of charging to a future dominated by Tesla charging. The vast majority of automakers have committed to adopting the NACS standard for charging, acknowledging that Tesla’s Supercharger network is superior to the mostly CCS-equipped third-party charging stations that exist today.\n\nI can’t help but wonder what normal, non-EV owners must think of all this.\n\n\nThe automakers said they would begin manufacturing EVs with NACS ports built in, but non-Tesla EV owners could access Tesla’s Superchargers by using CCS-to-NACS adapters in the meantime.\nBut the changeover has been slow going. The 2025 Hyundai Ioniq 5 was the first non-Tesla EV to go on sale with a native NACS port. But to the best of my knowledge, there haven’t been any others. GM says its upcoming Cadillac Optiq-V will be its first EV with a built-in NACS charging port, but that vehicle won’t be available until later this year. The 2027 Chevy Bolt will also have a native NACS port, out next year.\nIn the meantime, there’s a growing family of dongles to address this weird, in-between place we’re in right now with EV charging. There’s the typical CCS-to-NACS adapters that most automakers are selling to their customers. And now there’s the NACS-to-J1772 adapter for Level 2 charging — J1772 being the part of the CCS plug used for slower charging. And when GM starts producing EVs with native NACS ports, there will be two more adapters available: J1772-to-NACS dongles for slow charging and CCS-to-NACS ones for fast charging.\nHere’s GM’s infographic that “explains” all this:\nAgain, what’s a normal, non-EV-owning — but perhaps EV-curious — person to think about all this? Are they really going to give up the warm embrace of gas pumps for this adapter hell? Don’t get me wrong, I’m glad that GM is offering more adapters to its customers for added flexibility for all levels of charging. That is undeniably a good thing.\nBut we already know that EV charging can be a bit of a head scratcher. EV owners have complained about varying charging speeds, non-standardized plug types and networks, a lack of price transparency for public charging, and issues with communication between car and charger. It’s getting better, and most people who do most of their charging at home shouldn’t have too many problems. But if you’re trying to bring new people into the experience, this ain’t helpful. \nI’m worried that the growing list of adapters that EV owners will need to acquire to account for any charging scenario could be a significant roadblock in the road to EV adoption — a road that is already littered with significant roadblocks. I’m trying to imagine my mother, who owns a Ford Mustang Mach-E and who struggles with the basics of smartphone operation, navigating all these adapters while on the road to Palm Springs to visit her friends. \nIt’s a lot to ask! Let’s hope there’s a whole world of simplified EV charging just over that next hill.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f17eb264b2af3a2f6b49d1e0c0f29f1c6271dd00",
+      "title": "With no federal facial recognition law, states rush to fill void",
+      "url": "https://www.npr.org/2025/08/28/nx-s1-5519756/biometrics-facial-recognition-laws-privacy",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-08-28T17:23:08.000Z",
+      "summary_90w": "",
+      "raw": "Nearly two dozen states have passed laws regulating how tech companies collect data from our faces, eyes and voices. It comes as Congress has yet to pass any facial recognition technology.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "58f58176c267695d6d8cd49cc49e3dd2d333e1f6",
       "title": "Star Wars: Starfighter is going to be star-studded",
@@ -13,6 +39,19 @@
       "raw": "Production on Star Wars: Starfighter officially began today, and Lucasfilm has finally confirmed the other actors who will be bringing the film to life alongside Ryan Gosling.\nLucasfilm announced today that Star Wars: Starfighters has added Flynn Gray, Matt Smith, Mia Goth, Aaron Pierre, Simon Bird, Jamael Westman, Daniel Ings, and Amy Adams to its cast. The studio also shared a (very grainy) image of Gosling and Gray on the movie’s set. \nIn a statement about the casting news, director Shawn Levy said that he was beyond excited to begin crafting an “original adventure” for the franchise — one set a few years after the events of The Rise of Skywalker.\n“Star Wars shaped my sense of what story can do, how characters and cinematic moments can live with us forever,” Levy said. “To join this storytelling galaxy with such brilliant collaborators onscreen and off, is the thrill of a lifetime.”",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "21c243717a06ea9fd5fb69912f9ec5bee1e4a8de",
+      "title": "Price of weight loss drug Mounjaro to be discounted in UK pharmacies",
+      "url": "https://www.bbc.com/news/articles/cvg3ykg4jrro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-28T17:02:46.000Z",
+      "summary_90w": "",
+      "raw": "The rebate allays fears of a 170% price rise but patients are warned the cost of the drug will still jump.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -263,19 +302,6 @@
       ]
     },
     {
-      "id": "8f2ec3980265a23954461ea8517e86b612a19a43",
-      "title": "Controversial tax rules on Welsh holiday lets could be amended under new proposal",
-      "url": "https://www.bbc.com/news/articles/cvgvyxwzw2lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-28T15:25:58.000Z",
-      "summary_90w": "",
-      "raw": "Mark Drakeford says he has \"listened\" and is proposing \"small changes\" to the controversial rules.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7d27e29ed53605b8ef7ea69a4055a4285c190624",
       "title": "US Fed Governor Lisa Cook sues Trump over his attempt to fire her",
       "url": "https://www.bbc.com/news/articles/c1dxl6ry4y3o?at_medium=RSS&at_campaign=rss",
@@ -442,19 +468,6 @@
       "raw": "Loretta Quinn took out a personal safety intervention order against Dezi Freeman after a disagreement about him accessing her property\n\nGet our breaking news email, free app or daily news podcast\n\nA former neighbour of the suspected Porepunkah gunman said he used to hunt for deer nearby, had an intimate knowledge of Mount Buffalo and used to spy on her, including with drones.\nLoretta Quinn lived next to Dezi Freeman in Myrtleford, on the opposite side of Mount Buffalo to the site of the fatal shooting, between 2017 and 2019.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "5eb8226428ee994d1640e017902e08a6fe4124bf",
-      "title": "MSI’s Katana gaming laptop is $400 off and includes Battlefield 6",
-      "url": "https://www.theverge.com/tech/767400/msi-gaming-laptop-rtx-5070-sony-xm5-oled-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-28T15:00:28.000Z",
-      "summary_90w": "",
-      "raw": "If you’re considering a gaming laptop, but you understandably don’t want to spend anywhere near $2,000, MSI’s Katana gaming laptop with the midrange RTX 5070 GPU is $1,099 (was $1,499.99) at Walmart. This machine has a lot to offer aside from a solid graphics chip for gaming. It includes a 15.6-inch QHD screen with a 165Hz refresh rate, an Intel Core i7-14650HX processor, 16GB of DDR5 RAM (upgradeable, in case you want to add more later on), and a 1TB SSD.\nMSI Katana (2025)\n\nWhere to Buy:\n\n $1499.99 $1099 at Walmart\n\nMost gaming laptops at this price include Nvidia’s less capable RTX 5060, along with an inferior processor. The RTX 5070 (with 8GB of video memory) should let you play most games at the screen’s native QHD resolution with ray tracing settings enabled. But, if games that you’re playing aren’t running as well as you’d like them to, many titles feature the option to turn on DLSS, Nvidia’s AI-powered feature that can greatly boost performance by upscaling lower-res graphics. That, or knock the game resolution down to 1080p instead of 1440p.\nLastly, as part of Intel’s Game Days, you’ll get a free copy of Battlefield 6 with purchase of this laptop. Instructions for redeeming the game (which launches October 10th) are shown in the image gallery on Walmart’s product page. You’ll need to provide proof of purchase to Intel by September 30th, then redeem the code by Halloween.\nOther Verge-approved deals\nIf you’re a fan of Phoenix Wright: Ace Attorney, or perhaps you’ve heard how great the games are but have yet to try them, here’s a chance to get some of them for cheap. The latest Humble bundle features several tiers, each of which include a smattering of Ace Attorney and Mega Man games. They games are redeemable on Steam, and play well on the Steam Deck, among other Windows and SteamOS gaming handhelds. If you click “5 Item Bundle” that costs $5, you can get the original Ace Attorney Trilogy, full of games that originally launched in the US on the Nintendo DS. This bundle also includes Mega Max X Legacy Collection and Mega Man Legacy Collection.\nCostco members in the US can get a special discount on Sony’s last-gen (but still great) WH-1000XM5 over-ear, noise-canceling headphones in black. Through September 7th, you can snag them for $249.99 (originally $399.99), which beats Amazon’s current $298 price. This price is the lowest we’ve seen, beating the previous low of $278 last December. This model is an improvement in a number of ways over its predecessor, the XM4, with a refined design, better sound quality (call quality is better, too), and enhanced active noise cancellation. If you’re deciding between this and the newer $449 XM6, perhaps you ought to give the XM5 a try and potentially put that extra $200 back in your pocket. Read our review.\nIf an affordable 55-inch OLED TV is what you’re after, retailer BuyDig has one. Panasonic’s 55-inch Z85 OLED, which we’ve previously featured in our coverage at $897, is down to just $699. This model includes Amazon’s Fire TV operating system, meaning that no extra device is necessary to begin streaming content from your favorite services. What also makes this a fantastic deal is that this purchase includes Panasonic’s wearable neck speaker (a $178 value) that can be connected to the TV for private listening. This TV likely isn’t as bright as pricier competitors, but it has some good specs, including a 120Hz refresh rate panel with four HDMI 2.1 ports, variable refresh rate, and Nvidia G-Sync compatibility.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -978,19 +991,6 @@
       ]
     },
     {
-      "id": "923d2709a093289394b09d640dfe274622715f7e",
-      "title": "These investigators patrol Las Vegas looking for one thing: water waste",
-      "url": "https://www.npr.org/2025/08/28/nx-s1-5518196/las-vegas-drought-water-patrol-conservation",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-08-28T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Southern Nevada Water Authority has investigators who patrol Las Vegas neighborhoods in search of wasted water.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "527492385727292a3f79b563f95beef74922accf",
       "title": "This rule made many online purchases dirt cheap for U.S. consumers. Now it's ending",
       "url": "https://www.npr.org/2025/08/28/nx-s1-5519361/de-minimis-rule-tariffs-consumers-imports-trump",
@@ -1173,19 +1173,6 @@
       ]
     },
     {
-      "id": "a225ed84824b10325aac10baed0fc78ba43b916b",
-      "title": "US tells Denmark to 'calm down' over alleged Greenland influence operation",
-      "url": "https://www.bbc.com/news/articles/c0j9l08902eo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-08-28T01:44:42.000Z",
-      "summary_90w": "",
-      "raw": "The aim was reportedly to infiltrate Greenland's society and promote its secession from Denmark.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a7cc0432c4399d0d21422e5d9cb70ff609ae7336",
       "title": "With India’s corporate banking lagging decades behind consumer fintech, TransBnk raises $25M to bridge the gap",
       "url": "https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/",
@@ -1233,6 +1220,19 @@
       "published": "2025-08-27T23:30:16.000Z",
       "summary_90w": "",
       "raw": "Draft ordinance in Toyoake has triggered a backlash from locals, with some calling it an attack on individual freedom\nA town in Japan is to urge all residents to restrict their smartphone use to two hours a day in an attempt to tackle online addiction and sleep deprivation.\nOfficials in Toyoake, Aichi prefecture, said the measure would target not only children but also adults, amid growing concern about the physical and psychological toll excessive smartphone use is taking on people of all ages.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0d1ca6f5290038973fcdb252dd15e44bb897a34e",
+      "title": "Has crime in Washington fallen two weeks on from Trump's crackdown?",
+      "url": "https://www.bbc.com/news/articles/czxpzkylg3vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-08-27T23:13:42.000Z",
+      "summary_90w": "",
+      "raw": "Trump says crimes in the capital \"are down like we wouldn't believe\" following his crackdown.",
       "topics": [
         "World"
       ]
@@ -1810,19 +1810,6 @@
       ]
     },
     {
-      "id": "9ba52451fd3389a1da2e1b5d8b98cbc4e94025bf",
-      "title": "How plants and fungi trade resources without a brain",
-      "url": "https://www.npr.org/sections/planet-money/2025/08/26/g-s1-85185/plants-fungi-resources-trade-cooperation",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-08-26T11:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Fungi and plants have something to teach humans about global trade and cooperation",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
       "id": "946ee68edff0cb4e775b227a9906502f009c7174",
       "title": "Cambodia MPs pass ‘chilling’ bill enabling citizenship to be stripped",
       "url": "https://www.theguardian.com/world/2025/aug/26/cambodia-treason-citizenship-law",
@@ -2169,19 +2156,6 @@
       "published": "2025-08-18T12:04:06.000Z",
       "summary_90w": "",
       "raw": "The leak has led to backlash amid reports the tech giant's legal staff approved the conversations.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "b60ad71c584762a086231dcddf227302f854d87f",
-      "title": "What's behind the Trump administration's immigration memes?",
-      "url": "https://www.npr.org/2025/08/18/nx-s1-5482921/memes-white-house-dhs-social-media-trump",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2025-08-18T09:48:28.000Z",
-      "summary_90w": "",
-      "raw": "White supremacist tropes and ironic viral jokes illustrate the administration's project of redefining who belongs in the United States.",
       "topics": [
         "Technology"
       ]
