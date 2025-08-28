@@ -1,18 +1,44 @@
 {
-  "version": "1756415672413",
-  "generatedAt": "2025-08-28T21:14:32.413Z",
+  "version": "1756416655086",
+  "generatedAt": "2025-08-28T21:30:55.086Z",
   "items": [
+    {
+      "id": "20e9bed98e5ecfa0fad1a1de3f978e12590ebb94",
+      "title": "The market's reaction to Nvidia tells a larger story about the ongoing AI frenzy",
+      "url": "https://www.npr.org/2025/08/28/nx-s1-5511230/the-markets-reaction-to-nvidia-tells-a-larger-story-about-the-ongoing-ai-frenzy",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2025-08-28T21:18:27.000Z",
+      "summary_90w": "",
+      "raw": "Big Tech's AI spending spree has kept investors optimistic through all the other economic turmoil this summer. Can it last?",
+      "topics": [
+        "Business"
+      ]
+    },
     {
       "id": "6a547915fd73cbab1d4e3a11eabc2d2eb56edb87",
       "title": "Australia news live: severe weather due in Porepunkah as manhunt continues; Roo-ver to head to moon",
       "url": "https://www.theguardian.com/australia-news/live/2025/aug/29/australia-news-live-porepunkah-shooting-dezi-freeman-manhunt-police-latest-updates-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-08-28T20:54:46.000Z",
+      "published": "2025-08-28T21:14:16.000Z",
       "summary_90w": "",
-      "raw": "The Bureau of Meteorology warns of snow below 1,000m as Dezi Freeman remains at large. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nAustralia will send its first ever rover to the moon in a partnership with Nasa, which the federal government says will be the furthest any Australian space project has travelled.\nThe rover, called Roo-ver, will be sent to the moon by 2030 with a Nasa payload capable of analysing its surface and collecting data to assist with future space exploration trips.\n Continue reading...",
+      "raw": "The Bureau of Meteorology warns of snow below 1,000m as Dezi Freeman remains at large. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nQueensland nurses union reaches ‘bargaining consensus’ with state government\nQueensland’s nurses union says it has reached a “bargaining consensus” with the state government after months of industrial action over a new enterprise bargaining agreement.\nQueensland Nurses and Midwives union secretary, Sarah Beaman, said the government had presented a new offer which the union has agreed to take to members. \n\r\n “We’ve secured an offer that better respects the work nurses and midwives do every day across Queensland Health,” Beaman said.\n\r\n The offer adds double-time overtime for all shift workers, in line with male dominated frontline professions, Beaman said. The state government describes this as a nation-first.\n Continue reading...",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "231a1302d0017caee75b0374302d29c84ac197ac",
+      "title": "Microsoft launches its first in-house AI models",
+      "url": "https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-28T21:13:04.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft announced its first homegrown AI models on Thursday: MAI-Voice-1 AI and MAI-1-preview. The company says its new MAI-Voice-1 speech model can generate a minute’s worth of audio in under one second on just one GPU, while MAI-1-preview “offers a glimpse of future offerings inside Copilot.”\nMicrosoft already uses MA1-Voice-1 to power a couple of its features, including Copilot Daily, which has an AI host recite the day’s top news stories, and to generate podcast-style discussions to help explain topics. \nYou can try MA1-Voice-1 out for yourself on Copilot Labs, where you can enter what you want the AI model to say, as well as change its voice and style of speaking. In addition to this model, Microsoft introduced MAI-1-preview, which it says it trained on around 15,000 Nvidia H100 GPUs. It’s built for users in need of an AI model capable of following instructions and “providing helpful responses to everyday queries.” \nMicrosoft AI chief Mustafa Suleyman said during an episode of Decoder last year that the company’s internal AI models aren’t focused on enterprise use cases. “My logic is that we have to create something that works extremely well for the consumer and really optimize for our use case,” Suleyman said. “So, we have vast amounts of very predictive and very useful data on the ad side, on consumer telemetry, and so on. My focus is on building models that really work for the consumer companion.”\nThe company plans on rolling out MAI-1-preview for certain text use cases in its Copilot AI assistant, which currently relies on OpenAI’s large language models. It has also started publicly testing its MAI-1-preview model on the AI benchmarking platform LMArena.\n“We have big ambitions for where we go next,” Microsoft writes in the blog post. “Not only will we pursue further advances here, but we believe that orchestrating a range of specialized models serving different user intents and use cases will unlock immense value.”",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -531,19 +557,6 @@
       "published": "2025-08-28T16:03:28.000Z",
       "summary_90w": "",
       "raw": "Raphaël Graven, also known as Jean Pormanove, died during a live stream on the Kick website.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "e810a7aae90293bb77c4966291e057481c7a7b70",
-      "title": "Kirby&#8217;s new Switch 2 expansion adds just the right amount of challenge",
-      "url": "https://www.theverge.com/games-review/767427/kirby-and-the-forgotten-land-star-crossed-world-review-switch-2",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-28T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "So I heard you want to play Kirby on hard mode: tough bosses, tricky platforming, complicated puzzles, hidden collectibles, and maybe even punishments for failing. The Star-Crossed World expansion in Kirby and the Forgotten Land's Switch 2 edition certainly introduces new challenges. There's pressure from time constraints and consecutive platforming sequences, multistep puzzles, and bosses have more health, varied attacks, and phases. In Star-Crossed World, the promise of a more difficult Kirby game reaches its conceptual limits. But how hard can a game built around pressing one button to obliterate the problems in front of you get? \nKirby  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -1701,19 +1714,6 @@
       "published": "2025-08-27T08:06:54.000Z",
       "summary_90w": "",
       "raw": "Economic sanctions and trade restrictions against Russia following its full-scale invasion of Ukraine were set to force Moscow's hand. But the U.S. and Europe continue to rely on Russian imports.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
-      "id": "e1d9fa353579965b6bbbd37ec06d6b3f21de7f88",
-      "title": "Protesters occupy Microsoft office as company reviews its work with Israel's military",
-      "url": "https://www.npr.org/2025/08/27/nx-s1-5518786/microsoft-protesters-office-israel",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-08-27T05:05:42.000Z",
-      "summary_90w": "",
-      "raw": "Current and former Microsoft employees were among those arrested. Microsoft has said it is reviewing a report that Israel has used its platform to facilitate attacks on Palestinian targets.",
       "topics": [
         "Business"
       ]
