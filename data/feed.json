@@ -1,6 +1,6 @@
 {
-  "version": "1756395354061",
-  "generatedAt": "2025-08-28T15:35:54.061Z",
+  "version": "1756396353651",
+  "generatedAt": "2025-08-28T15:52:33.651Z",
   "items": [
     {
       "id": "f923579057e798f68b28712825399a9e403915be",
@@ -8,9 +8,35 @@
       "url": "https://www.bbc.com/news/articles/c0ml30vgykro?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-08-28T15:30:49.000Z",
+      "published": "2025-08-28T15:47:47.000Z",
       "summary_90w": "",
       "raw": "James Bubb, who now identifies as a woman named Gwyn Samuels, abused a position of trust, police say.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2d46fc427cd73bfd0c365ad9cf7ec7d291a0fdf1",
+      "title": "Microsoft Word now automatically saves new documents to the cloud",
+      "url": "https://www.theverge.com/news/767522/microsoft-word-automatic-document-save-cloud-default",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-28T15:40:34.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is making a big change to how Word for Windows saves documents. The word processing app will soon automatically save new documents to the cloud, instead of Word users having to enable AutoSave and cloud storage options.\n“We are modernizing the way files are created and stored in Word for Windows,” says Raul Munoz, a product manager on the Office shared services and experiences team at Microsoft. “Now you don’t have to worry about saving your documents: Anything new you create will be saved automatically to OneDrive or your preferred cloud destination.”\nThe change to Word for Windows is being tested with Microsoft 365 Insiders, and the software maker says the change will mean you never have to worry about losing any work and that documents can be accessed across Android and iOS devices or in a web browser.\nNew documents will be saved with a date instead of the existing format that adds a number to the end of a document file name. You’ll be able to change where new documents are created by setting default cloud locations,  and you can also disable the option to create new files in the cloud automatically.\nMicrosoft has been increasingly pushing Word users to save documents to the cloud, with the AutoSave function that stores documents in the cloud by default. The software maker has also been using nag screens in Windows to convince people to enable OneDrive backup settings, which have proved unpopular with Windows users. \nThis latest option to create new files in the cloud automatically adds yet another step to saving files locally if you don’t use OneDrive or other cloud storage. Some Word users have already made their feelings clear about Microsoft’s fresh attempt to get more Windows users to use OneDrive in the comment section of Microsoft’s blog post. “It seems that every few years Microsoft adds yet another step that users have to jump through to get to their files,” said one poster. “It used to be very simple with the C drive being prominently displayed.”",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4f3280e950d3cd757466ba50bc59217b25fb5143",
+      "title": "European leaders outraged after Russian strikes kill 19 and damage EU's HQ",
+      "url": "https://www.bbc.com/news/articles/cvg3y7m2gz0o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-08-28T15:35:35.000Z",
+      "summary_90w": "",
+      "raw": "The overnight attacks destroyed a block of flats and also caused damage to the EU's delegation offices.",
       "topics": [
         "World"
       ]
@@ -37,6 +63,19 @@
       "published": "2025-08-28T15:29:26.000Z",
       "summary_90w": "",
       "raw": "The Puma Gen-E and e-Tourneo Courier are two Ford models drivers can purchase under the government scheme.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6d960e393187b24a16602dc6b99718e40aa0aad2",
+      "title": "UK and EU summon top Russian diplomats after strikes hit British Council and EU offices in deadly attack on Kyiv - Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/aug/28/ukraine-kyiv-strike-russia-europe-zelenskyy-putin-updates-live-news-latest",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-08-28T15:28:32.000Z",
+      "summary_90w": "",
+      "raw": "Overnight raid kills more than a dozen people as European leaders condemn ‘deliberate’ targeting of civilians and institutions\nUkrainian prime minister Yulia Svyrydenko has now responded to the overnight Russian attacks on Kyiv, criticising Moscow for “horrific and deliberate killing of civilians.”\n“The Russians are not choosing to end the war, only constant expansion of atrocities,” she said.\n“Overnight in Kyiv, dozens of buildings were hit: residential houses, office centers, civilian enterprises. Among them also the building where the European Union Delegation to Ukraine is located. \nRussians now believe that they have paralyzed Ukraine’s allies with feigned plans for ‘negotiations’ and endless delays that only serve as methods to buy time with the true goal only of preventing sanctions.\n“My thoughts are with all those affected by the senseless Russian strikes on Kyiv which have damaged the British Council building. \nPutin is killing children and civilians, and sabotaging hopes of peace. \n Continue reading...",
       "topics": [
         "World"
       ]
@@ -123,7 +162,7 @@
       "id": "c678d07776509f27d6450e6f6fc8917b5aec6210",
       "title": "Lives torn apart in Kyiv after Russia's heaviest bombardment for weeks",
       "url": "https://www.bbc.com/news/articles/cj3ld2r2206o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-08-28T15:14:43.000Z",
       "summary_90w": "",
@@ -302,19 +341,6 @@
       ]
     },
     {
-      "id": "6d960e393187b24a16602dc6b99718e40aa0aad2",
-      "title": "UK and EU summon top Russian diplomats after strikes hit British Council and EU offices in deadly attack on Kyiv - Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/aug/28/ukraine-kyiv-strike-russia-europe-zelenskyy-putin-updates-live-news-latest",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-08-28T14:57:21.000Z",
-      "summary_90w": "",
-      "raw": "Overnight raid kills more than a dozen people as European leaders condemn ‘deliberate’ targeting of civilians and institutions\nUkrainian prime minister Yulia Svyrydenko has now responded to the overnight Russian attacks on Kyiv, criticising Moscow for “horrific and deliberate killing of civilians.”\n“The Russians are not choosing to end the war, only constant expansion of atrocities,” she said.\n“Overnight in Kyiv, dozens of buildings were hit: residential houses, office centers, civilian enterprises. Among them also the building where the European Union Delegation to Ukraine is located. \nRussians now believe that they have paralyzed Ukraine’s allies with feigned plans for ‘negotiations’ and endless delays that only serve as methods to buy time with the true goal only of preventing sanctions.\n“My thoughts are with all those affected by the senseless Russian strikes on Kyiv which have damaged the British Council building. \nPutin is killing children and civilians, and sabotaging hopes of peace. \n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "c064fe33858d638dbe89d4e24cb5e1881b42030b",
       "title": "UK, Germany and France say they have triggered UN sanctions on Iran",
       "url": "https://www.theguardian.com/world/2025/aug/28/uk-germany-and-france-say-they-have-triggered-restored-un-sanctions-on-iran",
@@ -429,19 +455,6 @@
       "raw": "Investors are clambering to get onto Swedish vibe-coding startup Lovable’s cap table, making unsolicited offers of investment that value the company at more than $4 billion.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "4f3280e950d3cd757466ba50bc59217b25fb5143",
-      "title": "European leaders outraged after Russian strikes kill 18 and damage EU's HQ ",
-      "url": "https://www.bbc.com/news/articles/cvg3y7m2gz0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-08-28T14:04:05.000Z",
-      "summary_90w": "",
-      "raw": "The overnight attacks destroyed a block of flats and also caused damage to the EU's delegation offices.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -611,19 +624,6 @@
       "raw": "The talks come as Israel prepares to seize Gaza City as a step towards full control of the territory.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "f97a77e51d881ffc0d1cc6732d2c7a41a86bd310",
-      "title": "MagSafe PopSockets have come for your Kindle",
-      "url": "https://www.theverge.com/news/767369/popsocket-popcase-kindle-magsafe-price-availability",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-28T12:05:06.000Z",
-      "summary_90w": "",
-      "raw": "You can now add swappable magnetic PopSocket grips to Kindle e-readers without undertaking any DIY hacks. PopSocket has launched new PopCase Kindle cases that come with a built-in MagSafe ring, optimally positioned for hand placement and weight management when a MagSafe-compatible PopGrip is attached. \nThe $40 cases are available for 11th and 12th-generation Kindles in six designs — including a transparent version that can be customized with stickers, and two illustrated designs that look very BookTok-inspired. There’s also some $30 thematically matching PopGrips featuring books, but the cases will work with PopSocket’s existing lineup of MagSafe grips, including the Kick-Out Grip and Stand, if you want to read hands-free.\nUsers in the Kindle community have been using the adhesive versions of PopSockets for years to make the e-readers easier to hold, and less likely to fall on your face when reading in bed. Manually customizing cases with MagSafe rings has also proved popular with users who prefer to switch between PopGrip designs and other PopSocket accessories, but the PopCase Kindle spares having to make those DIY efforts.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -968,7 +968,7 @@
       "id": "0cab569622d494e34cd20f9261d5e6fba415e713",
       "title": "Xi shows Trump who holds the cards as he sets up meeting with Kim and Putin",
       "url": "https://www.bbc.com/news/articles/cx29z9g2kl2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-08-28T07:13:23.000Z",
       "summary_90w": "",
