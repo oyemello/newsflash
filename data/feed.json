@@ -1,7 +1,59 @@
 {
-  "version": "1756421520009",
-  "generatedAt": "2025-08-28T22:52:00.009Z",
+  "version": "1756422888395",
+  "generatedAt": "2025-08-28T23:14:48.395Z",
   "items": [
+    {
+      "id": "631326f2d5cb9d42d3c11c0d631908b1900d28a2",
+      "title": "Thirsty data centres boom in drought-hit Mexico",
+      "url": "https://www.bbc.com/news/articles/cx2ngz7ep1eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-08-28T23:03:41.000Z",
+      "summary_90w": "",
+      "raw": "Activists in Querétaro criticise state government for prioritising the data processing needs for US tech firms over their own citizens",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6a547915fd73cbab1d4e3a11eabc2d2eb56edb87",
+      "title": "Australia news live: Littleproud says Katter threat not ‘becoming’, police raid Porepunkah property as manhunt continues",
+      "url": "https://www.theguardian.com/australia-news/live/2025/aug/29/australia-news-live-porepunkah-shooting-dezi-freeman-manhunt-police-latest-updates-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-08-28T22:59:15.000Z",
+      "summary_90w": "",
+      "raw": "The Bureau of Meteorology warns of snow below 1,000m as Dezi Freeman remains at large. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nExpelled ambassador says allegations against Iran ‘baseless’ during Sydney airport exit\nIran’s former ambassador to Australia – now persona non grata – denied allegations his government was behind two antisemitic arson attacks in Australia, describing the accusations as “baseless” as he left the country.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "99ed03657bb1d1ecb3068949f83f0efdae9ee39a",
+      "title": "Microsoft fires two more employees for participating in Palestine protests on campus",
+      "url": "https://www.theverge.com/microsoft/767841/microsoft-fires-two-more-protesters-no-azure-for-apartheid",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-28T22:51:24.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft has fired two more employees who participated in recent protests against the company’s contracts with the Israeli military and government. The two employees, Nisreen Jaradat and Julius Shan, were fired “in connection” with demonstrations that saw protesters set up encampments at Microsoft’s headquarters, according to Hossam Nasr, an organizer with the No Azure for Apartheid group.\nTwo other Microsoft employees were fired last night for their involvement with a protest that saw members of the group gain access to a company building and live stream themselves inside the office of Microsoft president Brad Smith. Jaradat had previously sent a mass email around Microsoft saying she was “fed up” with the company’s treatment of her as a Palestinian worker, bypassing the company’s restrictions on language around Palestine and Gaza internally in order to do so.\nThe No Azure for Apartheid group has been taking public actions against Microsoft throughout the year. The group interrupted Microsoft executives during live streamed presentations on multiple occasions this spring. More recently, the group attempted to occupy a plaza on Microsoft’s headquarters. After being removed, they returned the next day with tents and tables and poured red paint across a Microsoft sign; 18 people were arrested.\nProtesters returned again on Tuesday for the demonstration in Smith’s office. Afterward, Smith held a press conference saying that Microsoft is “working every day” to investigate potential misuse of Azure in Israel. But he said the protesters’ actions were “not ok.”\nMicrosoft declined to provide an attributable statement to The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3128d6d88f91c7bbef2423c22b5f925b621c999b",
+      "title": "'India put us on the boat like captives - then threw us in the sea'",
+      "url": "https://www.bbc.com/news/articles/c4g0p0522zeo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-08-28T22:44:27.000Z",
+      "summary_90w": "",
+      "raw": "Rohingya refugees tell the BBC they were flown from Delhi and forced into the sea off the coast of Myanmar.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "c8dbd744cb0f62010b778776bf47a446cc3b1d67",
       "title": "Minneapolis school attacker 'obsessed with idea of killing children', officials say",
@@ -29,19 +81,6 @@
       ]
     },
     {
-      "id": "6a547915fd73cbab1d4e3a11eabc2d2eb56edb87",
-      "title": "Australia news live: Littleproud says Katter threat not ‘becoming’, police raid Porepunkah property as manhunt continues",
-      "url": "https://www.theguardian.com/australia-news/live/2025/aug/29/australia-news-live-porepunkah-shooting-dezi-freeman-manhunt-police-latest-updates-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-08-28T22:30:42.000Z",
-      "summary_90w": "",
-      "raw": "The Bureau of Meteorology warns of snow below 1,000m as Dezi Freeman remains at large. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nExpelled ambassador says allegations against Iran ‘baseless’ during Sydney airport exit\nIran’s former ambassador to Australia – now persona non grata – denied allegations his government was behind two antisemitic arson attacks in Australia, describing the accusations as “baseless” as he left the country.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "94f802cb526b888fc4c730953455800e8354ce45",
       "title": "George Clooney film praised as 'midlife crisis masterpiece'",
       "url": "https://www.bbc.com/news/articles/c4gzxvr7zzpo?at_medium=RSS&at_campaign=rss",
@@ -49,7 +88,7 @@
       "source_name": "BBC News",
       "published": "2025-08-28T22:28:00.000Z",
       "summary_90w": "",
-      "raw": "George Clooney's new film Jay Kelly sees him portray an ageing movie star, a role that plays off parallels to the US actor in real life.",
+      "raw": "Netflix’s Jay Kelly sees the actor portray an ageing movie star, drawing parallels with his own life.",
       "topics": [
         "World"
       ]
@@ -622,19 +661,6 @@
       "published": "2025-08-28T16:19:11.000Z",
       "summary_90w": "",
       "raw": "Fubo is launching a new Sports plan on September 2nd that costs $55.99 per month and comes with over 20 live sports and news-focused channels, including the ESPN and Fox Sports channels, as well as local stations owned by ABC, CBS, and Fox. Where available, this package includes coverage for network TV-broadcast pro and college football games that might slip through the cracks of other streaming options, while going light on channels that aren’t all about sports:\nAt launch, Fubo Sports will include local broadcast stations owned-and-operated by ABC, CBS and FOX plus additional affiliates in select markets as well as ACC Network, Big 10 Network, CBS Sports Network, ESPN, ESPN2, ESPNews, ESPNU, Fox News, FS1, FS2, Fubo Sports Network, ION, NFL Network, SEC Network and Tennis Channel with some network 4K content also available. Access to ESPN’s new direct-to-consumer Unlimited plan, which includes ESPN+, is bundled with a Fubo Sports subscription. Customers in select markets will also receive local broadcast sports channels. Additional networks may be launched.\nTo start, Fubo Sports is only launching in “select markets” where broadcasters own or partner with local affiliates, but the service plans to expand its availability in the future. The “skinny” bundle also comes with all of the content in ESPN’s “Unlimited” $29.99 package, like the network’s 12 channels, and ESPN+ streaming options.\nLast year, Fubo sued Warner Bros. Discovery, Disney, and Fox over plans to create the now-scrapped sports streaming superpower, Venu. Fubo agreed to drop its lawsuit after reaching an agreement to merge with Hulu + Live TV next year, creating a new venture majority-owned by Disney.\nAt $55.99 per month, Fubo Sports sits between the $70 sports-focused plans offered by Comcast and DirecTV, and the $40 bundle with ESPN and Fox One. It also comes with some perks of a standard Fubo subscription, including multiview, a “catch up to live” feature that shows you highlights of a game you’re late to, and unlimited DVR.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "73a9efe7443648bcf26b617687f1da9e9fe78de3",
-      "title": "Kobo replaces Pocket with Instapaper on its e-readers in a free update",
-      "url": "https://www.theverge.com/news/767527/instapaper-replaces-pocket-on-kobo-e-readers",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-28T16:16:22.000Z",
-      "summary_90w": "",
-      "raw": "A big draw of Kobo e-readers has always been Pocket integration. But, when Mozilla announced in late May that it was shutting down the read-it-later app in July, the Kobo community was left in a bit of a lurch. To the company’s credit, in late July, it announced that it would be replacing Pocket with another stalwart of the scene, Instapaper. And, just a month after that, support is already live and available as a free firmware update for all currently supported Kobo readers (and the list is surprisingly long).\nIf you’ve been on the hunt for a Pocket replacement ahead of all your data disappearing on October 8th, Instapaper now seems like the clear front runner if you’re a Kobo user, especially since you don’t need an Instapaper Premium subscription to take advantage. Hopefully the partnership will prove more fruitful than the one with Mozilla which hadn’t seen any significant improvements in years and was nearly killed off in 2023.",
       "topics": [
         "Technology"
       ]
@@ -1420,19 +1446,6 @@
       ]
     },
     {
-      "id": "e5a92de56256ab4f0c4ebcee40de5b222310578b",
-      "title": "A pregnant woman's diary of escape from war zone: 'I prayed the baby wouldn't come'",
-      "url": "https://www.bbc.com/news/articles/c9870xjezk4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-08-27T23:35:30.000Z",
-      "summary_90w": "",
-      "raw": "Gun-wielding drivers, extortion and breakdowns, as couple flee new front line in Sudan's conflict.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e1d0d4c84dc0158bf1e10241b8ee35b94bf27d13",
       "title": "Japanese town wants residents to limit smartphone use to two hours a day",
       "url": "https://www.theguardian.com/world/2025/aug/28/japanese-town-toyoake-proposes-smartphone-limit-residents-two-hours-day",
@@ -1441,19 +1454,6 @@
       "published": "2025-08-27T23:30:16.000Z",
       "summary_90w": "",
       "raw": "Draft ordinance in Toyoake has triggered a backlash from locals, with some calling it an attack on individual freedom\nA town in Japan is to urge all residents to restrict their smartphone use to two hours a day in an attempt to tackle online addiction and sleep deprivation.\nOfficials in Toyoake, Aichi prefecture, said the measure would target not only children but also adults, amid growing concern about the physical and psychological toll excessive smartphone use is taking on people of all ages.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0d1ca6f5290038973fcdb252dd15e44bb897a34e",
-      "title": "Has crime in Washington fallen two weeks on from Trump's crackdown?",
-      "url": "https://www.bbc.com/news/articles/czxpzkylg3vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-08-27T23:13:42.000Z",
-      "summary_90w": "",
-      "raw": "Trump says crimes in the capital \"are down like we wouldn't believe\" following his crackdown.",
       "topics": [
         "World"
       ]
@@ -2169,19 +2169,6 @@
       "published": "2025-08-17T23:03:19.000Z",
       "summary_90w": "",
       "raw": "Just three US firms provide 70% of Europe's cloud-computing, leading to fears of overreliance.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0286dfeba6fa66ac6af451e8010c158e842ca0ef",
-      "title": "VW introduces monthly subscription to increase car power",
-      "url": "https://www.bbc.com/news/articles/c62weyp4qqgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-08-15T13:32:22.000Z",
-      "summary_90w": "",
-      "raw": "The German car-maker says its \"optional power upgrade\" is designed to give customers more choice.",
       "topics": [
         "Technology"
       ]
