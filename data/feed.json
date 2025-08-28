@@ -1,10 +1,49 @@
 {
-  "version": "1756417115352",
-  "generatedAt": "2025-08-28T21:38:35.352Z",
+  "version": "1756417913372",
+  "generatedAt": "2025-08-28T21:51:53.372Z",
   "items": [
     {
+      "id": "750b5462269bf08b34fdbfab1ae60c82651d747c",
+      "title": "MSP locked out of Scottish Parliament after toilet camera claims",
+      "url": "https://www.bbc.com/news/articles/c9wy40rxrvxo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-28T21:40:22.000Z",
+      "summary_90w": "",
+      "raw": "The Daily Record newspaper has reported that MSP Colin Smyth placed a secret camera in a toilet at Holyrood.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "53f92e074fc3df35cebcd5faebfb1f0deb2b0ac5",
+      "title": "We're in the dark about future, says asylum seeker in Epping hotel",
+      "url": "https://www.bbc.com/news/articles/cdxy0p9jx1qo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-28T21:38:32.000Z",
+      "summary_90w": "",
+      "raw": "Migrants living inside an Essex hotel are due to be removed from it by 12 September.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6a547915fd73cbab1d4e3a11eabc2d2eb56edb87",
+      "title": "Australia news live: severe weather due in Porepunkah as manhunt continues; Roo-ver to head to moon",
+      "url": "https://www.theguardian.com/australia-news/live/2025/aug/29/australia-news-live-porepunkah-shooting-dezi-freeman-manhunt-police-latest-updates-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-08-28T21:32:56.000Z",
+      "summary_90w": "",
+      "raw": "The Bureau of Meteorology warns of snow below 1,000m as Dezi Freeman remains at large. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nPolice raid Porepunkah property overnight\nGuardian Australia confirmed a raid took place on a property in Chandler Court last night in Porepunkah.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "913c1a5f3b2153c68cacbc8be5591858974231b8",
-      "title": "Sinner breezes through - but still 'room for improvement'",
+      "title": "Sinner breezes through - but still areas to 'improve'",
       "url": "https://www.bbc.com/sport/tennis/articles/c890jk0v7xzo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -29,19 +68,6 @@
       ]
     },
     {
-      "id": "750b5462269bf08b34fdbfab1ae60c82651d747c",
-      "title": "MSP locked out of Scottish Parliament after toilet camera claims",
-      "url": "https://www.bbc.com/news/articles/c9wy40rxrvxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-28T21:23:46.000Z",
-      "summary_90w": "",
-      "raw": "The Daily Record newspaper has reported that MSP Colin Smyth placed a secret camera in a toilet at Holyrood.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "20e9bed98e5ecfa0fad1a1de3f978e12590ebb94",
       "title": "The market's reaction to Nvidia tells a larger story about the ongoing AI frenzy",
       "url": "https://www.npr.org/2025/08/28/nx-s1-5511230/the-markets-reaction-to-nvidia-tells-a-larger-story-about-the-ongoing-ai-frenzy",
@@ -55,27 +81,14 @@
       ]
     },
     {
-      "id": "6a547915fd73cbab1d4e3a11eabc2d2eb56edb87",
-      "title": "Australia news live: severe weather due in Porepunkah as manhunt continues; Roo-ver to head to moon",
-      "url": "https://www.theguardian.com/australia-news/live/2025/aug/29/australia-news-live-porepunkah-shooting-dezi-freeman-manhunt-police-latest-updates-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-08-28T21:14:16.000Z",
-      "summary_90w": "",
-      "raw": "The Bureau of Meteorology warns of snow below 1,000m as Dezi Freeman remains at large. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nQueensland nurses union reaches ‘bargaining consensus’ with state government\nQueensland’s nurses union says it has reached a “bargaining consensus” with the state government after months of industrial action over a new enterprise bargaining agreement.\nQueensland Nurses and Midwives union secretary, Sarah Beaman, said the government had presented a new offer which the union has agreed to take to members. \n\r\n “We’ve secured an offer that better respects the work nurses and midwives do every day across Queensland Health,” Beaman said.\n\r\n The offer adds double-time overtime for all shift workers, in line with male dominated frontline professions, Beaman said. The state government describes this as a nation-first.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "231a1302d0017caee75b0374302d29c84ac197ac",
-      "title": "Microsoft launches its first in-house AI models",
+      "title": "Microsoft AI launches its first in-house models",
       "url": "https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai",
       "source_id": "verge-tech",
       "source_name": "The Verge",
       "published": "2025-08-28T21:13:04.000Z",
       "summary_90w": "",
-      "raw": "Microsoft announced its first homegrown AI models on Thursday: MAI-Voice-1 AI and MAI-1-preview. The company says its new MAI-Voice-1 speech model can generate a minute’s worth of audio in under one second on just one GPU, while MAI-1-preview “offers a glimpse of future offerings inside Copilot.”\nMicrosoft already uses MA1-Voice-1 to power a couple of its features, including Copilot Daily, which has an AI host recite the day’s top news stories, and to generate podcast-style discussions to help explain topics. \nYou can try MA1-Voice-1 out for yourself on Copilot Labs, where you can enter what you want the AI model to say, as well as change its voice and style of speaking. In addition to this model, Microsoft introduced MAI-1-preview, which it says it trained on around 15,000 Nvidia H100 GPUs. It’s built for users in need of an AI model capable of following instructions and “providing helpful responses to everyday queries.” \nMicrosoft AI chief Mustafa Suleyman said during an episode of Decoder last year that the company’s internal AI models aren’t focused on enterprise use cases. “My logic is that we have to create something that works extremely well for the consumer and really optimize for our use case,” Suleyman said. “So, we have vast amounts of very predictive and very useful data on the ad side, on consumer telemetry, and so on. My focus is on building models that really work for the consumer companion.”\nThe company plans on rolling out MAI-1-preview for certain text use cases in its Copilot AI assistant, which currently relies on OpenAI’s large language models. It has also started publicly testing its MAI-1-preview model on the AI benchmarking platform LMArena.\n“We have big ambitions for where we go next,” Microsoft writes in the blog post. “Not only will we pursue further advances here, but we believe that orchestrating a range of specialized models serving different user intents and use cases will unlock immense value.”",
+      "raw": "Microsoft’s AI division announced its first homegrown AI models on Thursday: MAI-Voice-1 AI and MAI-1-preview. The company says its new MAI-Voice-1 speech model can generate a minute’s worth of audio in under one second on just one GPU, while MAI-1-preview “offers a glimpse of future offerings inside Copilot.”\nMicrosoft already uses MA1-Voice-1 to power a couple of its features, including Copilot Daily, which has an AI host recite the day’s top news stories, and to generate podcast-style discussions to help explain topics. \nYou can try MA1-Voice-1 out for yourself on Copilot Labs, where you can enter what you want the AI model to say, as well as change its voice and style of speaking. In addition to this model, Microsoft introduced MAI-1-preview, which it says it trained on around 15,000 Nvidia H100 GPUs. It’s built for users in need of an AI model capable of following instructions and “providing helpful responses to everyday queries.” \nMicrosoft AI chief Mustafa Suleyman said during an episode of Decoder last year that the company’s internal AI models aren’t focused on enterprise use cases. “My logic is that we have to create something that works extremely well for the consumer and really optimize for our use case,” Suleyman said. “So, we have vast amounts of very predictive and very useful data on the ad side, on consumer telemetry, and so on. My focus is on building models that really work for the consumer companion.”\nThe company plans on rolling out MAI-1-preview for certain text use cases in its Copilot AI assistant, which currently relies on OpenAI’s large language models. It has also started publicly testing its MAI-1-preview model on the AI benchmarking platform LMArena.\n“We have big ambitions for where we go next,” Microsoft writes in the blog post. “Not only will we pursue further advances here, but we believe that orchestrating a range of specialized models serving different user intents and use cases will unlock immense value.”",
       "topics": [
         "Technology"
       ]
@@ -218,7 +231,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-08-28T18:29:13.000Z",
       "summary_90w": "",
-      "raw": "Stretch of Lake Huron shore was promised to Saugeens in 1854 treaty with Crown but wrongly omitted from map\nA stretch of beach will be returned to a First Nation in Canada 170 years after it was mistakenly omitted from its reserve. The sandy sliver of land measures less than two miles long, but has nonetheless sparked an outsized battle, with a nearby resort town claiming the case sets a foreboding precedent for property rights in the country.\nCanada’s supreme court said on Thursday that it would not hear a challenge from the town of South Bruce Peninsula, which is contesting a lower court’s ruling that the Saugeen First Nation’s reserve was erroneously smaller than promised.\n Continue reading...",
+      "raw": "Stretch of Lake Huron shore was promised to Saugeen people in 1854 treaty with crown but was wrongly omitted from map\nA stretch of beach will be returned to a First Nation in Canada 170 years after it was mistakenly omitted from its reserve. The sandy sliver of land measures less than two miles long, but has nonetheless sparked an outsized battle, with a nearby resort town claiming the case sets a foreboding precedent for property rights in the country.\nCanada’s supreme court said on Thursday that it would not hear a challenge from the town of South Bruce Peninsula, which is contesting a lower court’s ruling that the Saugeen First Nation’s reserve was erroneously smaller than promised.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -666,19 +679,6 @@
       ]
     },
     {
-      "id": "3c8325cc4ccf9a878a350ddf7ef1ca5250950559",
-      "title": "Epping hotel order could spark protests, court told",
-      "url": "https://www.bbc.com/news/articles/cpqv01lxvyro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-28T15:22:54.000Z",
-      "summary_90w": "",
-      "raw": "Lawyers for The Bell Hotel owners are challenging the decision for a temporary injunction at court.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "14e608a1ad8e904a0c9bfaa979b0cd8c6f5cde36",
       "title": "Florida's 'Alligator Alcatraz' detention facility to be empty 'within a few days'",
       "url": "https://www.npr.org/2025/08/28/nx-s1-5520698/alligator-alcatraz-detention-facility-empty",
@@ -790,7 +790,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-08-28T15:00:53.000Z",
       "summary_90w": "",
-      "raw": "Labor announced on Thursday Create NSW’s Arts and Cultural Funding Program will provide financial assistance for 62 organisations statewide\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nArts organisations and galleries across New South Wales have voiced their relief after the state government announced $15.4m funding over two years, allaying worries of a looming crisis for NSW’s regional galleries.\nSixty-two arts organisations across NSW will receive $15.4m funding for the next two years through Create NSW’s Arts and Cultural Funding Program (ACFP), the state government announced on Thursday, with $7.5m going to 31 regional arts organisations, including 10 regional galleries.\n Continue reading...",
+      "raw": "Labor announced on Thursday Create NSW’s Arts and Cultural Funding Program will provide financial assistance for 62 organisations statewide\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nArts organisations and galleries across New South Wales have voiced their relief after the state government announced $15.4m in funding over two years, allaying worries of a looming crisis for NSW’s regional galleries.\nSixty-two arts organisations across NSW will receive $15.4m funding for the next two years through Create NSW’s Arts and Cultural Funding Program (ACFP), the state government announced on Thursday, with $7.5m going to 31 regional arts organisations, including 10 regional galleries.\n Continue reading...",
       "topics": [
         "World"
       ]
