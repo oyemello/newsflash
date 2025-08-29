@@ -1,7 +1,33 @@
 {
-  "version": "1756493761430",
-  "generatedAt": "2025-08-29T18:56:01.430Z",
+  "version": "1756494776523",
+  "generatedAt": "2025-08-29T19:12:56.523Z",
   "items": [
+    {
+      "id": "f8711d0e51935167efdf026f11558ce7cb3a253d",
+      "title": "Leak suggests new Philips Hue lights will have direct Matter support",
+      "url": "https://www.theverge.com/news/768232/leak-philips-hue-lights-matter-over-thread",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-29T19:08:13.000Z",
+      "summary_90w": "",
+      "raw": "There’s already been a number of leaks of upcoming Philips Hue products that are expected to be announced next week ahead of IFA. But one thing that hasn’t been mentioned was support for Matter-over-Thread. While there’s no confirmation that support is coming, there’s compelling evidence to suggest it might be. \nFirst off, packaging for two unannounced bulbs appeared on Amazon, with a Matter logo prominently displayed on the box. While Hue devices have been capable of connecting via Matter using the Hue Bridge as a middleman, they’ve never supported the protocol directly. That’s in part because Matter only works via Ethernet, Wi-Fi, and Thread; Hue has been a Zigbee and Bluetooth-only ecosystem for years.\nThen there’s the since-removed FCC filing discovered by HueBlog. A supposed screenshot of the document shows a label for a new Hue White lightbulb with a Matter setup code under the familiar Bluetooth and Zigbee logos. This almost certainly means the lightbulb will connect directly via Matter. Wired Ethernet would obviously be an odd choice. Wi-Fi is a possibility, but the more logical option would be Thread, which is low-power and can create self-healing mesh networks.\nThe one issue is, there’s no mention of Thread or Wi-Fi in the FCC filing anywhere, only Bluetooth and Zigbee. According to HueBlog, however, one document read (before it was removed), “This product only supports BLE 125k/500k/1M/2Mbps:2402-2480MHz, Zigbee:2405-2480MHz. The other functions, bands and modes was [sic] disabled to use by manufacturer [sic] in the software.” What are those other functions, bands, and modes? It’s not specified in any document I could find, but it’s reasonable to assume the list might include Thread which, like Zigbee, uses the 2.4GHz band.\nPhilips isn’t about to abandon Zigbee for Thread overnight, but this would give users direct access to Hue bulbs from any Matter controller, with the Bridge only needed for some advanced features, like dynamic lighting effects. Plus there’s a growing momentum behind Matter-over-Thread, with Ikea recently announcing over 20 products supporting it.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "39bb019df7da21334694a02c24096100bf40e1f0",
+      "title": "US to stop Palestinians attending UN meeting in New York",
+      "url": "https://www.bbc.com/news/articles/cjdym32z9v7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-29T19:04:30.000Z",
+      "summary_90w": "",
+      "raw": "The decision comes as France leads international efforts to recognise a Palestinian state at the UN meeting next month.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "13de97ebbbff73ef634e661e5c0a946a8720f9e9",
       "title": "Uber and Lyft drivers in California win a path to unionization ",
@@ -147,26 +173,13 @@
     },
     {
       "id": "f368395b2104411b2c29fb2b7603d29e0f744be6",
-      "title": "Irish missionary and eight others freed weeks after kidnapping at Haiti orphanage",
+      "title": "Irish missionary and eight others freed weeks after kidnapping in Haiti",
       "url": "https://www.theguardian.com/world/2025/aug/29/nine-captives-haiti-kidnapping-release",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-08-29T17:58:45.000Z",
       "summary_90w": "",
       "raw": "Gena Heraty was abducted at orphanage she ran along with seven Haitian colleagues and a three-year-old child\nAn Irish aid worker and eight fellow captives have been released nearly a month after they were kidnapped in Haiti.\nGena Heraty, a missionary who ran the Our Little Brothers and Sisters orphanage in the hills outside Haiti’s capital, Port-au-Prince, was abducted on 3 August along with seven Haitian colleagues and a three-year-old child.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "39bb019df7da21334694a02c24096100bf40e1f0",
-      "title": "US to stop Palestinians attending UN meeting in New York",
-      "url": "https://www.bbc.com/news/articles/cjdym32z9v7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-29T17:57:49.000Z",
-      "summary_90w": "",
-      "raw": "The decision comes as France leads international efforts to recognise a Palestinian state at the UN meeting next month.",
       "topics": [
         "World"
       ]
@@ -765,19 +778,6 @@
       "published": "2025-08-29T12:47:08.000Z",
       "summary_90w": "",
       "raw": "More than 450 game developers on Blizzard’s Diablo team have formed a union, making them one of the largest and latest groups of Microsoft workers to do so. The new union includes game developers, artists, designers, engineers, and support staff across the Diablo franchise, according to the Communications Workers of America (CWA) press release, which voted “strongly in favor” to be represented by the CWA.\nThe Diablo team is seeking to improve compensation, job security, and workplace conditions under its Microsoft parent company. Over 3,500 employees at Microsoft are now in CWA unions, including more than 500 World of Warcraft developers who formed Blizzard’s first wall-to-wall union last year. Microsoft laid off as many as 9,100 employees earlier this year, and 1,900 employees at Activision Blizzard and Xbox in 2024.\n“With every subsequent round of mass layoffs, I’ve witnessed the dread in my coworkers grow stronger because it feels like no amount of hard work is enough to protect us,” said Kelly Yeo, an organizing committee member for the Diablo union. “This is just the first step for us joining a movement spreading across an industry that is tired of living in fear.”",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "5d2174233ca3f9b008da3fc344c73611111b4e6a",
-      "title": "The Pixel 10’s AI screamed at us",
-      "url": "https://www.theverge.com/the-vergecast/767883/pixel-10-pro-ai-dish-intel-musk-lawsuit",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-29T12:30:00.000Z",
-      "summary_90w": "",
-      "raw": "This seems to be the year that Google's AI features are actually starting to add up to something useful. After a week testing the Pixel 10 Pro, my colleagues Allison Johnson and Vee Song say some of the new features are legitimately useful - at least when they work, which isn't always as expected. Case in point: the live translate feature could shift their voices from one language into another… until they broke down and just started screeching.\nOn this week's Vergecast, we're talking through the Pixel 10 Pro's AI features, including diving deep into the AI-infused Pro Res Zoom feature that's built into the camera app now. I'm fascinated by  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
