@@ -1,7 +1,46 @@
 {
-  "version": "1756572784973",
-  "generatedAt": "2025-08-30T16:53:04.973Z",
+  "version": "1756573985285",
+  "generatedAt": "2025-08-30T17:13:05.285Z",
   "items": [
+    {
+      "id": "e3012a894081995c0be14f7dbbcd040311d6a670",
+      "title": "Jackson 'angry' as Bayern loan collapses after Delap injury",
+      "url": "https://www.bbc.com/sport/football/articles/c5ylneq1kv7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-30T17:03:03.000Z",
+      "summary_90w": "",
+      "raw": "Chelsea revoke permission for Nicolas Jackson to complete a loan move to Bayern Munich after an injury to fellow striker Liam Delap.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1a90b8cf156199724a401a890e261bb63ba60b2a",
+      "title": "No, a Windows update probably didn’t brick your SSD",
+      "url": "https://www.theverge.com/news/768431/windows-update-didnt-brick-your-ssd",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-30T16:57:19.000Z",
+      "summary_90w": "",
+      "raw": "For the last week or two, reports have been circulating that recent Windows 11 updates (specifically KB5063878 and KB5062660) were causing some SSDs using Phison controllers to fail. Tech influencers on YouTube and TikTok were quick to jump on the reports of corrupted data and disappearing drives, laying the blame squarely at Microsoft’s feet. We’re not saying any company is above lying to the public, and Microsoft has a history of rocky update rollouts, but both Microsoft and Phison claim they’ve been unable to recreate the issue.\nPhison said it was made aware of reports that the Windows update was causing drives to fail on August 18th and began investigating the issue. Then it issued a statement on August 27th saying that after running over 2,200 test cycles totaling more than 4,500 hours it was, “unable to reproduce the reported issue, and no partners or customers have reported that the issue affected their drives at this time.”\nMicrosoft followed up just a few days later by saying that, “After thorough investigation, Microsoft has found no connection between the August 2025 Windows security update and the types of hard drive failures reported on social media.”\nThis isn’t terribly surprising since the reports were fairly limited. A Japanese user on Twitter appears to be the first to suggest the Windows update was bricking SSDs and there were some in the comments claiming that they had experienced similar issues. But, there was little evidence to suggest it was widespread and it’s entirely possible that this is a localized problem related to a bad batch of drives. So it seems there’s little reason to believe the August 2025 Windows security update is going to fry your hard drive, no matter what some dude on TikTok says.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "21129b15393b6b81e341290d206ff26a9e55b337",
+      "title": "AI stethoscope could detect major heart conditions in seconds",
+      "url": "https://www.bbc.com/news/articles/c2l748k0y77o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-30T16:50:15.000Z",
+      "summary_90w": "",
+      "raw": "The new technology could be a \"game-changer\" resulting in patients being treated sooner, experts say.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "3b354764c833f940081202b432e0ae16fa2f2bcb",
       "title": "Taco Bell is having second thoughts about relying on AI at the drive-through ",
@@ -16,6 +55,19 @@
       ]
     },
     {
+      "id": "c20aa03ea23786994c1272b22502c2f7a8659df1",
+      "title": "Minute's silence for teenage shinty players killed in Highlands crash",
+      "url": "https://www.bbc.com/news/articles/cy0qe124ye5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-30T16:49:17.000Z",
+      "summary_90w": "",
+      "raw": "Fort William Shinty Club says two of the three friends who died on Thursday were members of the club.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "e69ba5677b7ee31fc316bf004fabcb8a4afb8ac9",
       "title": "Prominent Ukrainian politician Andriy Parubiy shot dead in Lviv",
       "url": "https://www.bbc.com/news/articles/cjw6ep37469o?at_medium=RSS&at_campaign=rss",
@@ -24,6 +76,19 @@
       "published": "2025-08-30T16:41:58.000Z",
       "summary_90w": "",
       "raw": "President Zelensky said the killing of Parubiy was a \"terrible murder\" - with a manhunt under way.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3439827cc7b0b10af224b43dc888682125568a7b",
+      "title": "Teen arrested over imitation firearm 'was on way to comic convention'",
+      "url": "https://www.bbc.com/news/articles/c5ykn7g90qlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-30T16:34:43.000Z",
+      "summary_90w": "",
+      "raw": "A 16-year-old boy has been arrested on suspicion of possession of an imitation firearm, police say.",
       "topics": [
         "World"
       ]
@@ -46,6 +111,19 @@
       "title": "Houthis confirm their prime minister killed in Israeli strikes",
       "url": "https://www.bbc.com/news/articles/c620ykrxedwo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-08-30T16:30:55.000Z",
+      "summary_90w": "",
+      "raw": "Ahmed Ghaleb Nasser al-Rahawi and several others were killed earlier this week, the Iran-backed movement says.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "136ba2e9bd5f8924dfe37f264e81b54e81446b41",
+      "title": "Yemen's Houthi rebels say prime minister was killed in Israeli strike",
+      "url": "https://www.bbc.com/news/articles/c620ykrxedwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-08-30T16:30:55.000Z",
       "summary_90w": "",
@@ -102,19 +180,6 @@
       "published": "2025-08-30T15:13:05.000Z",
       "summary_90w": "",
       "raw": "A US appeals court has ruled that most of Trump’s tariffs are illegal - so what happens now?",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "70ee133f577ee7a8cc0f3860e8dd71fedde55438",
-      "title": "Piastri pips title rival Norris to Dutch GP pole",
-      "url": "https://www.bbc.com/sport/formula1/articles/ckglepgq0z9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-30T15:01:22.000Z",
-      "summary_90w": "",
-      "raw": "Oscar Piastri beats McLaren team-mate Lando Norris to pole position at the Dutch Grand Prix by 0.012 seconds.",
       "topics": [
         "World"
       ]
@@ -258,19 +323,6 @@
       "published": "2025-08-30T13:08:09.000Z",
       "summary_90w": "",
       "raw": "A polar bear in a zoo, a hotel balcony overlooking elephants, a tree mural shrouded by haze: They're images from the new book The Anthropocene Illusion, about the way humans are remaking Earth.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c20aa03ea23786994c1272b22502c2f7a8659df1",
-      "title": "Minute's silence for teenage shinty players killed in Highlands crash",
-      "url": "https://www.bbc.com/news/articles/cy0qe124ye5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-30T13:03:03.000Z",
-      "summary_90w": "",
-      "raw": "Fort William Shinty Club says two of the three friends who died on Thursday were members of the club.",
       "topics": [
         "World"
       ]
@@ -656,7 +708,7 @@
       "id": "7b92bc9ad86c91df76bf11ad050670f71e0386a0",
       "title": "Barrier being built around besieged Sudan city, satellite images show",
       "url": "https://www.bbc.com/news/articles/c4gz1ekdee3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-08-30T01:02:45.000Z",
       "summary_90w": "",
@@ -791,19 +843,6 @@
       "published": "2025-08-29T23:37:32.000Z",
       "summary_90w": "",
       "raw": "The Centers for Disease Control had several top officials depart recently, leading to calls for the health secretary's resignation.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a9aeb4b9db980dd1754b26cddbaf4daa0a7016f3",
-      "title": "America's royal wedding? What Taylor and Travis' big day could look like",
-      "url": "https://www.bbc.com/news/articles/ckgyw2p9n68o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-29T23:14:08.000Z",
-      "summary_90w": "",
-      "raw": "From dress(es) to secret plans, experts share their predictions for America's wedding of the century.",
       "topics": [
         "World"
       ]
@@ -1225,19 +1264,6 @@
       ]
     },
     {
-      "id": "5979090fd1f64eb3bf62729b034e4194e643ada7",
-      "title": "Tesla asks court to toss wrongful death verdict that cost it $243 million",
-      "url": "https://www.theverge.com/news/768068/tesla-wrongful-death-verdict-court-toss",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-29T15:32:56.000Z",
-      "summary_90w": "",
-      "raw": "Lawyers for Tesla filed a motion in court Friday to throw out a jury verdict that found the company’s Autopilot software had contributed to the death of a woman in a crash from 2019. \nEarlier this month, a jury found Tesla partially responsible for the death of 22-year-old Naibel Benavides, who was killed by a Model S driver who plowed into her and her boyfriend Dillon Angulo. Tesla was ordered to pay the families of the victims $243 million in compensatory and punitive damages, a stunning outcome for a company that has managed to avoid taking responsibility for crashes involving its partially autonomous software. \nIn the filing, Tesla’s legal team said the Model S driver bore all the responsibility for the crash. And they are requesting the court invalidate the verdict, or at least order a new jury trial. \n“The $243 million judgment against Tesla flies in the face of basic Florida tort law, the Due Process Clause, and common sense,” the company’s lawyers write, noting that McGee had pressed the accelerator to override Autopilot in the seconds before the crash. “Auto manufacturers do not insure the world against harms caused by reckless drivers.”\nThe lawyers also claim that the plaintiffs should not have been allowed to enter into evidence statements from Tesla CEO Elon Musk, who has long claimed that the company’s vehicles are capable of higher levels of autonomy than they actually are. And they called claims about data coverup on the part of Tesla — the company was accused of withholding camera data from police investigating the crash — were false and “inflamed” the jury against the company. \nThe motion was filed by attorneys from Gibson Dunn, a firm that represented Tesla in a lawsuit against a former employee and a tech startup accused of stealing trade secrets for a robotic hand. \nView Link\n\nAngulo-Benavides; 2025-08-29; [de 568] Tesla's Renewed Motion for Judgment as a Matter of Law (32457875.1)\n\n\nUpdate August 29th: A spokesperson for plaintiff attorney Brett Schreiber sent the following statement:\n“This motion is the latest example of Tesla and Musk’s complete disregard for the human cost of their defective technology. The jury heard all the facts and came to the right conclusion that this was a case of shared responsibility, but that does not discount the integral role Autopilot and the company’s misrepresentations of its capabilities played in the crash that killed Naibel and permanently injured Dillon. We are confident the court will uphold this verdict, which serves not as an indictment of the autonomous vehicle industry, but of Tesla’s reckless and unsafe development and deployment of its Autopilot system.”",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "09aafe79241026ed21e6043498484631b5df52b5",
       "title": "Microsoft and Uber alum raises $3M for YC-backed Munify, a neobank for the Egyptian diaspora",
       "url": "https://techcrunch.com/2025/08/29/microsoft-and-uber-alum-raises-3m-for-yc-backed-munify-a-neobank-for-the-egyptian-diaspora/",
@@ -1573,19 +1599,6 @@
       "raw": "Anthropic is making some major changes to how it handles user data. Users have until September 28 to take action.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "17edc85ee8645e74b68bba08f24b28d4834321d1",
-      "title": "Will the Democrats go \"dark woke\" to take on Trump?",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct7t5v?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-28T19:01:00.000Z",
-      "summary_90w": "",
-      "raw": "California's governor has been imitating the president online.",
-      "topics": [
-        "World"
       ]
     },
     {
