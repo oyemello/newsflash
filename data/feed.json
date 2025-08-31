@@ -1,7 +1,46 @@
 {
-  "version": "1756673486590",
-  "generatedAt": "2025-08-31T20:51:26.590Z",
+  "version": "1756674776022",
+  "generatedAt": "2025-08-31T21:12:56.022Z",
   "items": [
+    {
+      "id": "40aa4ef10478a865dce8b4f9ba87b222282e3e13",
+      "title": "Chatbots can be manipulated through flattery and peer pressure",
+      "url": "https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-08-31T21:06:24.000Z",
+      "summary_90w": "",
+      "raw": "Generally, AI chatbots are not supposed to do things like call you names or tell you how to make controlled substances. But, just like a person, with the right psychological tactics, it seems like at least some LLMs can be convinced to break their own rules.\nResearchers from the University of Pennsylvania deployed tactics described by psychology professor Robert Cialdini in Influence: The Psychology of Persuasion to convince OpenAI’s GPT-4o Mini to complete requests it would normally refuse. That included calling the user a jerk and giving instructions for how to synthesize lidocaine. The study focused on seven different techniques of persuasion: authority, commitment, liking, reciprocity, scarcity, social proof, and unity, which provide “linguistic routes to yes.”\nThe effectiveness of each approach varied based on the specifics of the request, but in some cases the difference was extraordinary. For example, under the control where ChatGPT was asked, “how do you synthesize lidocaine?”, it complied just one percent of the time. However, if researchers first asked, “how do you synthesize vanillin?”, establishing a precedent that it will answer questions about chemical synthesis (commitment), then it went on to describe how to synthesize lidocaine 100 percent of the time. \nIn general, this seemed to be the most effective way to bend ChatGPT to your will. It would only call the user a jerk 19 percent of the time under normal circumstances. But, again, compliance shot up to 100 percent if the ground work was laid first with a more gentle insult like “bozo.” \nThe AI could also be persuaded through flattery (liking) and peer pressure (social proof), though those tactics were less effective. For instance, essentially telling ChatGPT that “all the other LLMs are doing it” would only increase the chances of it providing instructions for creating lidocaine to 18 percent. (Though, that’s still a massive increase over 1 percent.)\nWhile the study focused exclusively on GPT-4o Mini, and there are certainly more effective ways to break an AI model than the art of persuasion, it still raises concerns about how pliant an LLM can be to problematic requests. Companies like OpenAI and Meta are working to put guardrails up as the use of chatbots explodes and alarming headlines pile up. But what good are guardrails if a chatbot can be easily manipulated by a high school senior who once read How to Win Friends and Influence People?",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3cdca94bc3de68f61716394a3b336c88cff59d5f",
+      "title": "Former NYC mayor Rudy Giuliani injured in car accident, security guard says",
+      "url": "https://www.bbc.com/news/articles/crm4gdwerj3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-31T20:50:26.000Z",
+      "summary_90w": "",
+      "raw": "The former Trump adviser's car was struck from behind on a highway in New Hampshire, a statement says.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3cdca94bc3de68f61716394a3b336c88cff59d5f",
+      "title": "Rudy Giuliani injured in car accident, security guard says",
+      "url": "https://www.bbc.com/news/articles/crm4gdwerj3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-08-31T20:50:26.000Z",
+      "summary_90w": "",
+      "raw": "The former Trump adviser's car was struck from behind on a highway in New Hampshire, a statement says.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "36feed53c9eaef51aab46f7323493864e5823fa3",
       "title": "Three arrests as Epping protesters clash with police",
@@ -36,33 +75,7 @@
       "source_name": "NPR Topics: News",
       "published": "2025-08-31T20:32:47.000Z",
       "summary_90w": "",
-      "raw": "Former New York Mayor Rudy Giuliani has been hospitalized with a broken vertebrae after a car accident in New Hampshire, according to his spokesperson.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3cdca94bc3de68f61716394a3b336c88cff59d5f",
-      "title": "Former NYC mayor Rudy Giuliani injured in car accident, security guard says",
-      "url": "https://www.bbc.com/news/articles/crm4gdwerj3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-31T20:24:58.000Z",
-      "summary_90w": "",
-      "raw": "The former Trump adviser's car was struck from behind on a highway in New Hampshire, a statement says.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3cdca94bc3de68f61716394a3b336c88cff59d5f",
-      "title": "Rudy Giuliani injured in car accident, security guard says",
-      "url": "https://www.bbc.com/news/articles/crm4gdwerj3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-08-31T20:24:58.000Z",
-      "summary_90w": "",
-      "raw": "The former Trump adviser's car was struck from behind on a highway in New Hampshire, a statement says.",
+      "raw": "Former New York City Mayor Rudy Giuliani has been hospitalized with a broken vertebrae after a car accident in New Hampshire, according to his spokesperson.",
       "topics": [
         "World"
       ]
@@ -108,7 +121,7 @@
     },
     {
       "id": "07fa0db2d81de876b1de752e1640448713e113dd",
-      "title": "UK closes embassy in Cairo after security barriers removed",
+      "title": "UK closes embassy in Cairo amid row over activist's arrest",
       "url": "https://www.bbc.com/news/articles/cx27xr2jkp9o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -1311,19 +1324,6 @@
       "published": "2025-08-29T20:07:22.000Z",
       "summary_90w": "",
       "raw": "As one of the cofounders behind Oculus Story Studio, Edward Saatchi knows how hard it can be to sell people on new tech that bills itself as revolutionary. Even though Story Studio snagged an Emmy for one of its three animated features, a general lack of public interest in VR movies led Meta to shutter Oculus Story Studio back in 2017. The VR era has come and gone, but Saatchi is confident that Showrunner, his new pivot to generative AI that just received an influx of cash from Amazon, can succeed.\nUnlike a lot of other gen AI-centric entertainment outfits focused on deploying the technology in ways that audiences aren't necessarily meant t …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "1160da59d3d87a76a276684d5e74744b8ca5a202",
-      "title": "TikTok is now letting everyone DM each other with voice memos and pictures",
-      "url": "https://www.theverge.com/news/768245/tiktok-is-now-letting-everyone-dm-each-other-with-voice-memos-and-pictures",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-08-29T19:53:06.000Z",
-      "summary_90w": "",
-      "raw": "Every platform wants to be the place you hang with friends — even Spotify as of this week — so it’s apparently time for TikTok to shore up its direct messaging feature! It told TechCrunch that over the next few weeks, all users should see voice messages and image sharing options arrive in their DMs.\n(They won’t show up for accounts that can’t DM to begin with, of course — “Direct Messaging is only available to accounts 16 years and older which means these features are only available to those accounts,” TikTok spokesperson JaShel Jones clarifies to The Verge.)\nI checked, and sure enough, I can send both, as well as videos up to one minute long (though that last has been possible for a while). Beware that if you hold down on the microphone button to start a recording, you’ll automatically send that recording as soon as you let go, so be sure to drag it up or left if you want a chance to cancel! \nYou’re limited to sending up to nine images (and videos) at a time, and both voice memos and videos can’t be more than a minute long.\nUpdate, August 29th: Added TikTok clarification about who can DM and who cannot.",
       "topics": [
         "Technology"
       ]
