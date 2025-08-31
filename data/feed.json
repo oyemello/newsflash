@@ -1,16 +1,55 @@
 {
-  "version": "1756677113838",
-  "generatedAt": "2025-08-31T21:51:53.838Z",
+  "version": "1756678461214",
+  "generatedAt": "2025-08-31T22:14:21.214Z",
   "items": [
     {
+      "id": "290fd15445b226f9d5820f25a3166f4f2c67f1c4",
+      "title": "Suspect in shooting of Ukrainian politician Andriy Parubiy arrested",
+      "url": "https://www.bbc.com/news/articles/cvgn2ry9510o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-31T22:01:46.000Z",
+      "summary_90w": "",
+      "raw": "Ukrainian President Volodymyr Zelensky announced the arrest without providing further details.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3cdca94bc3de68f61716394a3b336c88cff59d5f",
+      "title": "Former NYC Mayor Rudy Giuliani injured in car accident",
+      "url": "https://www.bbc.com/news/articles/crm4gdwerj3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-08-31T21:54:37.000Z",
+      "summary_90w": "",
+      "raw": "The former Trump adviser's car was struck from behind on a highway in New Hampshire, a statement said.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3cdca94bc3de68f61716394a3b336c88cff59d5f",
+      "title": "Former NYC mayor Rudy Giuliani injured in car accident, security guard says",
+      "url": "https://www.bbc.com/news/articles/crm4gdwerj3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-31T21:54:37.000Z",
+      "summary_90w": "",
+      "raw": "The former Trump adviser's car was struck from behind on a highway in New Hampshire, a statement said.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "414b25c7f121a7a441e4b5997487f0182626d8dc",
-      "title": "Australia politics live: Labor spruiks affordable home build; Joyce’s anti-net zero bill debate to continue in parliament",
+      "title": "Australia politics live: racist anti-immigration rallies were exploited by neo-Nazis to ‘prey on legitimate concerns’, Anne Aly says",
       "url": "https://www.theguardian.com/australia-news/live/2025/sep/01/australia-politics-live-labor-coalition-housing-net-zero-anthony-albanese-sussan-ley-question-time-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-08-31T21:38:33.000Z",
+      "published": "2025-08-31T21:53:45.000Z",
       "summary_90w": "",
-      "raw": "Clare O’Neil says more than 5,000 social and affordable homes built since 2022. Follow today’s news live\nJumping back to Anika Wells on the Today show a bit earlier, she says a trial has found age assurance can be “private, efficient and effective” and means that social media platforms won’t have an excuse not to have age verification in place when the social media ban for under 16-year-olds comes into effect on 10 December this year.\nThere are three different methods around age verification that exist, says Wells, from showing your drivers licence when you look under 25 at the bottle shop, using face ID to log on to a phone, or where social media companies can see your data and infer your age:\nIf they’re [social media companies] seeing you talk to 65-year-olds about caravanning, they might infer that you are 65. If they see that you’re talking to 13-year[-olds] about KPop Demon Hunters, they might infer that you are 13 … There are many effective ways that platforms can use to assure themselves of age come December.\nWhen I was playing rugby union, the catalyst for some really important conversations at a club level was when a former teammate came out, and us sitting down saying, ‘OK, how do we create a more inclusive environment where people feel like they can be themselves while they’re playing rugby union or AFL … ?’\nI think sport has a proud history of challenging society to be more inclusive. But I think when it comes to homophobia, clearly the contact football codes in Australia have a long way to go, and that is about leadership at the top to actually match the changes in society we’ve seen.\n Continue reading...",
+      "raw": "Minister for multicultural affairs says she’s glad the anti-immigration rallies didn’t draw big crowds. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\n‘Nobody ever changed their mind because of a factsheet’: Aly\nAly says the government needs to clearly and succinctly talk about migration, but having worked as a former counter-terrorism expert, says there are some sections of the community who won’t change their mind.\nPeople are driven by emotion, not by facts. And so regardless of how many facts you put out there, there is a there is a section of the community who will still propagate misinformation and disinformation, and who will still use people’s emotional response to things like housing … in order to propagate their agenda.\nAs somebody who has worked … as a professor in radicalisation and … countering violent extremism, nobody ever changed their mind because they were handed a fact sheet.\nI think that when we conflate immigration with all of these other issues, then we feed into the very agenda of the far-right organisations that were part of these marches.\nI would say to those who marched and who argued that they have those, those legitimate concerns, that they were, they were organised by Nazis, the very purpose of them was anti-immigration… one of the very clear calls to action that was listed there was anti-Indian immigration, against people coming from India.\nNow that, to me, is clearly racist when you target a specific ethnicity. That is clearly racism.\nIt is not the migrants who, for want of a better word, blend in to the rest of the community. It is those who are visibly different, who become the brunt of and wear the brunt of these anti-immigration sentiments, and who were the brunt of being blamed for and scapegoated for a whole range of concerns.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -52,32 +91,6 @@
       "raw": "Generally, AI chatbots are not supposed to do things like call you names or tell you how to make controlled substances. But, just like a person, with the right psychological tactics, it seems like at least some LLMs can be convinced to break their own rules.\nResearchers from the University of Pennsylvania deployed tactics described by psychology professor Robert Cialdini in Influence: The Psychology of Persuasion to convince OpenAI’s GPT-4o Mini to complete requests it would normally refuse. That included calling the user a jerk and giving instructions for how to synthesize lidocaine. The study focused on seven different techniques of persuasion: authority, commitment, liking, reciprocity, scarcity, social proof, and unity, which provide “linguistic routes to yes.”\nThe effectiveness of each approach varied based on the specifics of the request, but in some cases the difference was extraordinary. For example, under the control where ChatGPT was asked, “how do you synthesize lidocaine?”, it complied just one percent of the time. However, if researchers first asked, “how do you synthesize vanillin?”, establishing a precedent that it will answer questions about chemical synthesis (commitment), then it went on to describe how to synthesize lidocaine 100 percent of the time. \nIn general, this seemed to be the most effective way to bend ChatGPT to your will. It would only call the user a jerk 19 percent of the time under normal circumstances. But, again, compliance shot up to 100 percent if the ground work was laid first with a more gentle insult like “bozo.” \nThe AI could also be persuaded through flattery (liking) and peer pressure (social proof), though those tactics were less effective. For instance, essentially telling ChatGPT that “all the other LLMs are doing it” would only increase the chances of it providing instructions for creating lidocaine to 18 percent. (Though, that’s still a massive increase over 1 percent.)\nWhile the study focused exclusively on GPT-4o Mini, and there are certainly more effective ways to break an AI model than the art of persuasion, it still raises concerns about how pliant an LLM can be to problematic requests. Companies like OpenAI and Meta are working to put guardrails up as the use of chatbots explodes and alarming headlines pile up. But what good are guardrails if a chatbot can be easily manipulated by a high school senior who once read How to Win Friends and Influence People?",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "3cdca94bc3de68f61716394a3b336c88cff59d5f",
-      "title": "Former NYC mayor Rudy Giuliani injured in car accident, security guard says",
-      "url": "https://www.bbc.com/news/articles/crm4gdwerj3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-31T20:50:26.000Z",
-      "summary_90w": "",
-      "raw": "The former Trump adviser's car was struck from behind on a highway in New Hampshire, a statement says.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3cdca94bc3de68f61716394a3b336c88cff59d5f",
-      "title": "Rudy Giuliani injured in car accident, security guard says",
-      "url": "https://www.bbc.com/news/articles/crm4gdwerj3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-08-31T20:50:26.000Z",
-      "summary_90w": "",
-      "raw": "The former Trump adviser's car was struck from behind on a highway in New Hampshire, a statement says.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -133,6 +146,19 @@
       ]
     },
     {
+      "id": "fd3eb18f694d12db858d446b91102ad5c63875a8",
+      "title": "Arteta's cloak of caution ends in more Anfield misery for Arsenal",
+      "url": "https://www.bbc.com/sport/football/articles/clydelgp7x8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-31T19:24:26.000Z",
+      "summary_90w": "",
+      "raw": "Arsenal manager Mikel Arteta's conservative approach ends in more Anfield misery in defeat by Liverpool, writes chief football writer Phil McNulty.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "3cc4a7a88e508551b138a26d6d370683e2c3013a",
       "title": "Director Jim Jarmusch ‘disappointed and disconcerted’ by Mubi’s funding from Sequoia",
       "url": "https://techcrunch.com/2025/08/31/director-jim-jarmusch-disappointed-and-disconcerted-by-mubis-funding-from-sequoia/",
@@ -162,7 +188,7 @@
       "id": "cd982b6d3bfe678c36d38cfacbc433a7f8a85ab5",
       "title": "Head-on crash between police van and prison bus kills 16 in Namibia",
       "url": "https://www.bbc.com/news/articles/c3v3g9z139wo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-08-31T18:49:24.000Z",
       "summary_90w": "",
@@ -427,19 +453,6 @@
       "published": "2025-08-31T13:31:31.000Z",
       "summary_90w": "",
       "raw": "Could Liverpool sign Alexander Isak and Marc Guehi? Who could Newcastle and Crystal Palace move for instead? The possible stories of transfer deadline day.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "02e48f11d93bdf21e948eac6047898e2ad77cb6e",
-      "title": "Pet sitters help dog deliver 14 pups as owner away",
-      "url": "https://www.bbc.com/news/articles/cgjy38dex7zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-31T13:16:54.000Z",
-      "summary_90w": "",
-      "raw": "Rhian Boxall's brother was assured by a vet his pet wouldn't deliver her pups while he was on holiday.",
       "topics": [
         "World"
       ]
@@ -773,13 +786,13 @@
       "id": "54652df1e1413fe075fda8bce97ef3e81c966cf4",
       "title": "The first game to feel truly cinematic is back - years after its creator left",
       "url": "https://www.bbc.com/news/articles/cy08jr6jwn2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2025-08-31T00:58:36.000Z",
       "summary_90w": "",
       "raw": "The first new game in the series in a decade - a remake - has been released, without involvement of the series creator.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -817,19 +830,6 @@
       "published": "2025-08-31T00:37:28.000Z",
       "summary_90w": "",
       "raw": "The precious medieval work is to be displayed in London next year - but the French art world is strongly opposed.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f8bda2480e0e620600d887380a81d0685514d936",
-      "title": "Drones join battle against eight-toothed beetle threatening forests",
-      "url": "https://www.bbc.com/news/articles/clyr8yml9rro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-31T00:35:20.000Z",
-      "summary_90w": "",
-      "raw": "Forest Research said the UK is the first country to eradicate the beetle after five-year battle.",
       "topics": [
         "World"
       ]
@@ -2210,6 +2210,32 @@
       "raw": "The announcement comes hours after reports that the White House is in talks over taking a 10% stake in Intel.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "1ff134b2401165b759f8a6bb7990c6e6a25ac58d",
+      "title": "Christopher Nolan's mind-bending espionage drama",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m001zr63/tenet?at_mid=jl1tqaOXib&at_campaign=Tenet&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m001zr63&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Tenet&at_bbc_team=BBC",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-08-16T00:02:11.000Z",
+      "summary_90w": "",
+      "raw": "A globe-trotting sci-fi-spy film starring John David Washington",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "47bb015d5e19f4ced0ced7ff1933626dbeb9a687",
+      "title": "Critically acclaimed one-off drama written by Jimmy McGovern",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002g7zb?at_mid=93AqQATdig&at_campaign=Unforgivable&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002g7zb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Unforgivable&at_bbc_team=BBC",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-07-24T05:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Critically acclaimed one-off drama from the multi-award-winning screenwriter",
+      "topics": [
+        "World"
       ]
     },
     {
