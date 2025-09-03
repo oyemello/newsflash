@@ -1,7 +1,59 @@
 {
-  "version": "1756931683327",
-  "generatedAt": "2025-09-03T20:34:43.327Z",
+  "version": "1756932331635",
+  "generatedAt": "2025-09-03T20:45:31.635Z",
   "items": [
+    {
+      "id": "5e7999c594df3a870c920f621776137372017b78",
+      "title": "I tried Jsaux’s new anti-glare Switch 2 screen protector, and it revealed a glaring bug",
+      "url": "https://www.theverge.com/games/770667/i-tried-jsauxs-new-anti-glare-switch-2-screen-protector-and-it-revealed-a-glaring-bug",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-03T20:39:00.000Z",
+      "summary_90w": "",
+      "raw": "Testing this anti-glare screen protector revealed a very dead cockroach in my ceiling.\t\n\nI have a dead cockroach in my ceiling, and I only noticed it thanks to a Switch 2 screen protector that, ironically, is supposed to tame reflections. The protector in question is a pre-production sample of the Jsaux Obsidian AR screen protector, which is coming in October for $21.99.\nThe company claims it's better than standard screen protectors because it features a similar physical vapor deposition (PVD) coating found in the Apple Studio Display. It's supposed to reduce glare while retaining a glossy appearance - an ideal combination for gamers, since you can't always choose where you'll play games.\nIn reality, this pre-production screen …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9f2d277de90aedf7f7e5b1351125c8e71ab5fba1",
+      "title": "Switzerland releases its own AI model trained on public data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/770646/switzerland-ai-model-llm-open-apertus",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-03T20:32:37.000Z",
+      "summary_90w": "",
+      "raw": "Switzerland launched an open-source model called Apertus on Monday as an alternative to proprietary models like OpenAI’s ChatGPT or Anthropic’s Claude, reports SWI as spotted by Engadget. The model’s source code, training data, model weights, and detailed development process are available on the AI model platform HuggingFace. \nApertus, which is Latin for “open,” was designed to “set a new baseline for trustworthy and globally relevant open models,” according to the developers. The model was trained on over 1,800 languages and comes in two sizes with either 8 billion or 70 billion parameters. Apertus is comparable to the 2024 Llama 3 model from Meta, according to SWI.  \nThe model was built to adhere to the European Union’s copyright laws and voluntary AI code of practice, which some US-based AI companies have said reluctantly signed while claiming that the regulations will curb AI innovation and deployment. Apertus’ training data was restricted to public sources, while adhering to the AI crawler opt-out requests on certain websites, according to the developers. (No “stealth-crawling.”)",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c94486f409d4e93715038aadd5636bf4a6366255",
+      "title": "Lisa Cook and the fight for the Fed",
+      "url": "https://www.npr.org/2025/09/03/nx-s1-5518165/lisa-cook-and-the-fight-for-the-fed",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2025-09-03T20:31:59.000Z",
+      "summary_90w": "",
+      "raw": "What does a member of the Federal Reserve Board actually do? We hear from two past members about the job, and the practices meant to keep decisions apolitical.",
+      "topics": [
+        "Business"
+      ]
+    },
+    {
+      "id": "b4db75cbe58602f55def216965c64bd0e950ab0f",
+      "title": "Australia politics live: Bob Carr defends China visit but ‘wouldn’t have picked this guest list’; RBA chief dampens hope for more interest rate cuts",
+      "url": "https://www.theguardian.com/australia-news/live/2025/sep/04/australia-politics-live-bob-carr-daniel-andrews-beijing-putin-question-time-labor-coalition-anthony-albanese-sussan-ley-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-03T20:30:16.000Z",
+      "summary_90w": "",
+      "raw": "Former foreign affairs minister avoided Beijing photocall featuring Vladimir Putin. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nGood morning and welcome to our live news blog. I’m Martin Farrer, bringing you the best breaking news this morning before I hand the news baton to Krishani Dhanji.\nBob Carr, the former Labor foreign affairs minister, has defended his attendance at Xi Jinping’s carefully staged gathering of world leaders this week, but he avoided the controversial photocall with Vladimir Putin and Kim Jong-un in which Daniel Andrews appeared. More coming up.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "223cc6b3a043829524c7b424635ac5dcb79a9980",
       "title": "xAI’s CFO is the latest executive to leave the Elon Musk’s AI firm",
@@ -39,6 +91,19 @@
       "raw": "FirstClub has raised $23 million in a Series A round co-led by Accel and RTP Global to expand its premium quick commerce platform.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "daef7037a86ef02959286be9afc053f4a09ae261",
+      "title": "Is £3bn Premier League spending cause for concern?",
+      "url": "https://www.bbc.com/sport/football/articles/cvgr35xgvjdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-03T20:20:58.000Z",
+      "summary_90w": "",
+      "raw": "Sports editor Dan Roan assesses whether the Premier League's unprecedented £3bn outlay during the summer transfer window, and the drama of a frenetic deadline day, raises concerns.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -471,19 +536,6 @@
       ]
     },
     {
-      "id": "d76692da15da701770971117f89128af05e169df",
-      "title": "James Gunn’s Superman sequel is coming in 2027",
-      "url": "https://www.theverge.com/entertainment/770317/james-gunns-superman-sequel-is-coming-in-2027",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-03T17:31:50.000Z",
-      "summary_90w": "",
-      "raw": "James Gunn has been coy about his plans for a follow-up to this year’s excellent Superman movie, but the writer / director is finally sharing some concrete news about what’s next for the Man of Steel. Gunn announced in an Instagram post today that the Superman sequel will be titled Man of Tomorrow and hit theaters on July 9th, 2027. \n\n\n  \n \n  \n \n\n\n \n\n View this post on Instagram\n\n \n \n \n \n\n \n \n\n \n \n \n\n \n \n \n\nA post shared by James Gunn (@jamesgunn)\n\n\n\nThe Instagram post included a Jim Lee illustration of Superman and Lex Luthor in one of his Warsuits, which could mean we’ll be seeing David Corenswet fighting Nicholas Hoult in a ridiculous armored suit. And it seems as if DC Studios might have taken the original subtitle of its upcoming Supergirl feature and reworked it for the star of its new cinematic universe.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "f83daf3a017ddf3a870df3eeb4aa2aeb745d116c",
       "title": "Orchard Robotics, founded by a Thiel fellow Cornell dropout, raises $22M for farm vision AI ",
       "url": "https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/",
@@ -505,19 +557,6 @@
       "published": "2025-09-03T17:29:03.000Z",
       "summary_90w": "",
       "raw": "When generating an Audio Overview, users can now choose whether they want their AI podcasts to be formatted like a \"Deep Dive,\" \"Brief,\" \"Critique,\" or \"Debate.\"",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "f7eba591c9fc5eeba1f937a4b270d87eb2c48d90",
-      "title": "Major Amazon leak spoils the Philips Hue party",
-      "url": "https://www.theverge.com/news/770345/major-amazon-leak-spoils-the-philips-hue-party",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-03T17:25:52.000Z",
-      "summary_90w": "",
-      "raw": "The unannounced Hue doorbell leaks early.\t\n\nThe Philips Hue store on Amazon’s UK site is hosting a number of new products that have yet to be announced as the big IFA 2025 show gets under way in Berlin, Germany. We’re seeing that rumored Hue Doorbell, a new Hue Bridge Pro (in black), a new Essential lighting sub-brand, and something called MotionAware that turns “light devices into motion sensors,” by using the bulbs’ Zigbee radios to detect motion between Hue lights.\nA video of the doorbell shows two-way remote communication, motion detection, package detection, and integration with indoor and outdoor home lighting. Details are lacking as is pricing, but IFA kicks off in earnest tomorrow so stay tuned — can’t be long now.",
       "topics": [
         "Technology"
       ]
@@ -1186,19 +1225,6 @@
       ]
     },
     {
-      "id": "f4190dc6ee79e29462b23ccc66433afca076bb47",
-      "title": "Alleged Porepunkah killer shown ranting at police in pandemic-era footage as manhunt continues",
-      "url": "https://www.theguardian.com/australia-news/2025/sep/03/alleged-porepunkah-killer-dezi-freeman-shown-ranting-at-police-pandemic-era-footage-as-manhunt-continues-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-03T09:29:17.000Z",
-      "summary_90w": "",
-      "raw": "Videos show Dezi Freeman arguing about Covid-19 mask mandates and telling police they have ‘intelligence of kindergarten children’\n\nGet our breaking news email, free app or daily news podcast\n\nMore than 100 properties have been searched in the hunt for the alleged Porepunkah police killer, as footage of the fugitive arguing about mask mandates with police during the pandemic emerges.\nOn the ninth day of the search Victoria’s police chief commissioner, Mike Bush, would not be drawn on where they think Dezi Freeman is after he allegedly shot and killed two officers at a property in Porepunkah, about 300km north-east of Melbourne last Tuesday. Police teams were on Wednesday seen working on the south-eastern side of the valley under Mount Buffalo.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "bba2abf1bd7679d758e566b85c2b34ab1cb61beb",
       "title": "Trump says 11 killed in US strike on drug-carrying vessel from Venezuela",
       "url": "https://www.bbc.com/news/articles/cpwywjgynyxo?at_medium=RSS&at_campaign=rss",
@@ -1339,19 +1365,6 @@
       "raw": "The search giant is not being broken up -so how much will it be affected by the remedies a judge has instead ordered?",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "ff1d37b1930a417a0e418a16cd7d950efb3716ce",
-      "title": "The art of the free transfer - and why Real Madrid are masters of it",
-      "url": "https://www.bbc.com/sport/football/articles/c9wyw11w77no?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-03T06:51:45.000Z",
-      "summary_90w": "",
-      "raw": "When it comes to acquiring world-class free transfers, Real Madrid are in a league of their own.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1688,19 +1701,6 @@
       "published": "2025-09-02T11:26:42.000Z",
       "summary_90w": "",
       "raw": "One of the world's largest food brands is splitting apart a decade after a messy megamerger staged by Warren Buffett.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
-      "id": "412aa03368e77abdc17146130a428eacb10acfcf",
-      "title": "Federal tax credits for electric vehicles are ending, leading to spike in sales",
-      "url": "https://www.npr.org/2025/09/02/nx-s1-5494650/federal-tax-credits-for-electric-vehicles-are-ending-leading-to-spike-in-sales",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-09-02T08:59:57.000Z",
-      "summary_90w": "",
-      "raw": "Federal discounts for electric vehicles expire at the end of the month. The deadline has led to a spike in EV sales and whiplash for auto dealers.",
       "topics": [
         "Business"
       ]
