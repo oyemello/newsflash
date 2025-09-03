@@ -1,7 +1,85 @@
 {
-  "version": "1756860589797",
-  "generatedAt": "2025-09-03T00:49:49.797Z",
+  "version": "1756865676257",
+  "generatedAt": "2025-09-03T02:14:36.257Z",
   "items": [
+    {
+      "id": "5f8aa17ecd8380ddeed0b8af5c055ec41f544019",
+      "title": "Disney will pay $10 million to settle FTC claim it used cartoons to collect YouTube data on kids",
+      "url": "https://www.theverge.com/policy/769771/disney-ftc-coppa-settlement-kids-data",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-03T02:01:35.000Z",
+      "summary_90w": "",
+      "raw": "Disney has agreed to pay $10 million to settle allegations from the Federal Trade Commission that it violated federal law by misleadingly labeling cartoons on YouTube so it could illegally collect children’s personal data.\nThe FTC alleges that Disney failed to label some videos of its popular kids cartoons it uploaded to YouTube as “Made for Kids” — a designation that makes such videos ineligible for certain features, like the collection of personal information. It’s a way YouTube makes it harder to target kids with personalized ads. But rather than mark individual videos as either “Made for Kids” or “Not Made for Kids,” the FTC alleges, Disney left the default designation at the channel level, so any video uploaded to a “Not Made for Kids” channel would bear that “Not Made for Kids” label instead. \nThe result was that videos with content from kid-friendly movies like “The Incredibles,” “Toy Story,” and “Frozen” would be marked as “Not Made for Kids,” according to the government, circumventing YouTube’s heightened restrictions, including allowing YouTube to autoplay other “Not Made for Kids” videos after the Disney ones finished. That resulted in Disney collecting information on kids and serving them targeted ads on videos that were technically designed at not for kids, the FTC alleges, in violation of the Children’s Online Privacy Protection (COPPA) Rule, which requires parental consent to collect information on kids under 13. \nYouTube implemented the labeling system after its own 2019 settlement with the FTC over alleged violation of the COPPA Rule. \nDisney should have known that some of its videos were marked incorrectly, the government alleges, since YouTube already told Disney in 2020 that it was labeling its videos incorrectly,  changing the labels on over 300 of its videos from “Not Made for Kids” to “Made for Kids” at that time, according to the complaint. But Disney continued to upload videos with only the default designation at the channel level, the FTC says.\nUnder the proposed settlement, Disney will pay a $10 million civil settlement, obtain parents’ consent for collecting data from kids under 13 as required by law, and create a new program to review whether videos uploaded to YouTube should be marked as made for kids or not which it must maintain for the next ten years — unless YouTube comes up with its own system “to determine the age, age range, or age category of all YouTube users.” If so, Disney will no longer need its own system to figure out how videos should be labeled.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4eb3eb7b94623fc51ae1c08c10752296a5d7e4fc",
+      "title": "Xi Jinping appears with Vladimir Putin and Kim Jong-un at China military parade",
+      "url": "https://www.theguardian.com/world/2025/sep/03/china-military-parade-xi-jinping-appears-with-vladimir-putin-kim-jong-un",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-03T01:59:40.000Z",
+      "summary_90w": "",
+      "raw": "Trump criticises victory day event as China caps off a week of diplomatic grandstanding seen as a rebuke to the west\nNorth Korean leader Kim Jong-un and Russia’s Vladimir Putin have appeared alongside Xi Jinping at a large military parade in Beijing on Wednesday, capping a week of diplomatic grandstanding by the Chinese president and his allies seen as a rebuke to the west.\nIn unprecedented scenes, Xi shook the hands of both leaders and chatted with the pair as they walked down a red carpet towards Tiananmen Square and the parade to mark 80 years since the end of the second world war.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4827aec408e374f42ee2a797f5cf51ab212876cb",
+      "title": "Australia politics live: NSW police minister admits she ‘had the figure wrong’ on antisemitic incidents; Watt approves coalmine extension",
+      "url": "https://www.theguardian.com/australia-news/live/2025/sep/03/australia-politics-live-labor-coalition-greens-anthony-albanese-sussan-ley-question-time-nauru-immigration-asylum-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-03T01:59:17.000Z",
+      "summary_90w": "",
+      "raw": "Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nRowland denies government trying to put more information out of public’s reach\nSo what about the Albanese government’s promise that it’s open and transparent?\nAs we found out through robodebt, which was another example of a lack of transparency which cost people lives under the previous government, just labelling something cabinet in confidence does not make it so and we intend to enshrine that in this law.\nWe’ve had cases where FoI requests have been generated, sometimes around 600 of them in one instance, going to a small agency, which tied up the services of that agency for over two months. Now, you might think that’s not important, but let me tell you what that agency was. That was eSafety. That is an organisation responsible for ensuring the safety, particularly of young people, online getting tied up, doing 600 frivolous FoI requests that they are required by law to deal with.\nI would point out that there is currently a charging regime in the Freedom of Information Act, and every state and territory bar the ACT actually imposes a modest application fee of somewhere between $30 and the mid-50s.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5d4c8253a35a3d55bd4fa1b0b4514cf77311fdd4",
+      "title": "China’s victory day live: Trump criticises parade as Xi Jinping appears alongside Putin and Kim Jong-un",
+      "url": "https://www.theguardian.com/world/live/2025/sep/03/china-victory-day-military-parade-80th-japan-surrender-live-updates-xi-jinping-putin-kim-jong-un-latest",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-03T01:57:30.000Z",
+      "summary_90w": "",
+      "raw": "Xi Jinping is showing off China’s military hardware at event attended by leaders from Russia, North Korea, Iran and Myanmar\nThe parade has commenced, they are singing the Chinese national anthem.\nPhotos have emerged showing North Korean leader Kim Jong-un stepping off his armoured train at Beijing Railway Station accompanied by his daughter, Kim Ju-ae.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "19748ab56d2566a698991b9886df485db53e89a0",
+      "title": "US House panel releases 33,000 pages of Epstein files",
+      "url": "https://www.bbc.com/news/articles/cp949lrj373o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-03T01:12:07.000Z",
+      "summary_90w": "",
+      "raw": "But Republicans and Democrats alike say the files, including jail CCTV, contain little new information.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9f7a6816ffd9702bb19c0245b06297472e23a09b",
+      "title": "Sue Gray questions class-based civil service scheme",
+      "url": "https://www.bbc.com/news/articles/cd7y7jln1l8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-03T00:57:46.000Z",
+      "summary_90w": "",
+      "raw": "The PM's former chief of staff says she \"learned a lot from being around people from different walks of life\" in the civil service.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "ad7775d11a4d79ff28aaa90e8d620b7153ceb652",
       "title": "'Fury' over Father Ted creator arrest and 'nervy bond markets'",
@@ -11,32 +89,6 @@
       "published": "2025-09-03T00:41:38.000Z",
       "summary_90w": "",
       "raw": "Father Ted creator Graham Linehan's arrest and skyrocketing borrowing costs dominate Wednesday's papers.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "5d4c8253a35a3d55bd4fa1b0b4514cf77311fdd4",
-      "title": "China’s victory day parade live: Xi Jinping expected to appear alongside Putin and Kim Jong-un",
-      "url": "https://www.theguardian.com/world/live/2025/sep/03/china-victory-day-military-parade-80th-japan-surrender-live-updates-xi-jinping-putin-kim-jong-un-latest",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-03T00:30:10.000Z",
-      "summary_90w": "",
-      "raw": "Xi Jinping is showing off China’s military hardware and will be joined by allies from Russia, North Korea, Iran and Myanmar\nHello, I’m Ima Caldwell and I’ll be taking you through our live coverage of China’s victory day parade in Beijing.\nThe military showcase will unfold in Tiananmen Square, starting at 9am local time (CST), commemorating 80 years since Japan’s surrender in the second world war.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4827aec408e374f42ee2a797f5cf51ab212876cb",
-      "title": "Australia politics live: Daniel Andrews and Bob Carr criticised for reportedly attending Beijing ‘parade for dictators’",
-      "url": "https://www.theguardian.com/australia-news/live/2025/sep/03/australia-politics-live-labor-coalition-greens-anthony-albanese-sussan-ley-question-time-nauru-immigration-asylum-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-03T00:24:15.000Z",
-      "summary_90w": "",
-      "raw": "Shadow home affairs minister Andrew Hastie says decision to attend reflected poorly on judgment of Andrews and Carr. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nRowland denies government trying to put more information out of public’s reach\nSo what about the Albanese government’s promise that it’s open and transparent?\nAs we found out through robodebt, which was another example of a lack of transparency which cost people lives under the previous government, just labelling something cabinet in confidence does not make it so and we intend to enshrine that in this law.\nWe’ve had cases where FoI requests have been generated, sometimes around 600 of them in one instance, going to a small agency, which tied up the services of that agency for over two months. Now, you might think that’s not important, but let me tell you what that agency was. That was eSafety. That is an organisation responsible for ensuring the safety, particularly of young people, online getting tied up, doing 600 frivolous FoI requests that they are required by law to deal with.\nI would point out that there is currently a charging regime in the Freedom of Information Act, and every state and territory bar the ACT actually imposes a modest application fee of somewhere between $30 and the mid-50s.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -523,19 +575,6 @@
       ]
     },
     {
-      "id": "5b4f323610455da78e2e14ba456092538c691cd7",
-      "title": "Trump is moving Space Command to Alabama",
-      "url": "https://www.theverge.com/news/769475/trump-space-command-alabama-headquarters",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-02T19:44:24.000Z",
-      "summary_90w": "",
-      "raw": "President Donald Trump is moving US Space Command’s headquarters from Colorado to Alabama, he announced during a press conference on Tuesday. The change reverses former President Joe Biden’s 2023 decision to leave it in Colorado Springs, where its temporary headquarters have been established.\nDuring the press conference, Rep. Mike Rogers (R-AL), chair of the House Armed Services Committee, called Biden’s decision to keep Space Command in Colorado “political,” though Trump claimed Colorado’s mail-in ballot policy was a “big factor” in choosing Alabama.\nWhen asked why the administration chose Alabama for the Space Command, Trump said, “…it just works, because we have so much else there,” referencing the presence of NASA, SpaceX, and the Jeff Bezos-owned Blue Origin in the state. He also said the Space Command headquarters will “play a key role” in building the Golden Dome missile defense system.\nFollowing the shutdown of Space Command in 2002, Trump passed a law to reestablish it in 2019, during his first term, beginning a search for its next headquarters. Trump planned to bring Space Command to Huntsville, Alabama, but Biden opted to keep its headquarters in Colorado Springs, Colorado, where Space Command originally formed.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "19c9d71fe33d74644215f33e9dcea203c275498e",
       "title": "Amazon launches Lens Live, an AI-powered shopping tool for use in the real world",
       "url": "https://techcrunch.com/2025/09/02/amazon-launches-lens-live-an-ai-powered-shopping-tool-for-use-in-the-real-world/",
@@ -778,19 +817,6 @@
       "published": "2025-09-02T17:05:30.000Z",
       "summary_90w": "",
       "raw": "Graham Linehan was arrested on suspicion of inciting violence and bailed pending further investigation.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0a86fb99c1aff90636771d8c9a474fa379798525",
-      "title": "Killer jailed for 45 years for prison officer 'execution' over seized phone",
-      "url": "https://www.bbc.com/news/articles/c9d0d63pnw2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-02T16:56:16.000Z",
-      "summary_90w": "",
-      "raw": "Armed robber Elias Morgan waited four years to take revenge on father-of-three Lenny Scott.",
       "topics": [
         "World"
       ]
@@ -1122,13 +1148,13 @@
     },
     {
       "id": "9f5aebe63d3e84e946a7f7f19216060a7d95c1cc",
-      "title": "CA court rules against guard in LA. and Trump vows to send them to Chicago",
+      "title": "Judge rules against National Guard in LA, and Trump vows to send them to Chicago",
       "url": "https://www.npr.org/2025/09/02/nx-s1-5525647/a-california-judge-rules-that-trumps-deployment-of-the-guard-to-la-was-illegal",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-09-02T14:22:15.000Z",
       "summary_90w": "",
-      "raw": "President Trump took control of the state's National Guard in June and deployed it to Los Angeles to face anti-immigration protestors and assist officers making detentions and deportations.",
+      "raw": "After a federal court in California ruled that President Trump's use of the National Guard in Los Angeles was illegal, Trump touted his use of the Guard in Washington, D.C., and said Chicago is next.",
       "topics": [
         "World"
       ]
@@ -1233,19 +1259,6 @@
       "published": "2025-09-02T12:05:56.000Z",
       "summary_90w": "",
       "raw": "Slow but specialised form of transport has been used by the reclusive country’s leaders for decades\nNorth Korea’s leader, Kim Jong-un, has arrived in Beijing on his signature green train to attend a military parade in China celebrating the formal surrender of Japan in the second world war.\nKim left Pyongyang for China on Monday.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "42c431dbf6d49382d6adc81880a2cfb8157b19a1",
-      "title": "Whisky maker Suntory’s CEO resigns amid investigation into suspected illegal supplements",
-      "url": "https://www.theguardian.com/business/2025/sep/02/whisky-suntory-ceo-resigns-takeshi-niinami",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-02T11:52:37.000Z",
-      "summary_90w": "",
-      "raw": "Takeshi Niinami bought supplements in the belief that they were legal, says Jim Beam and Laphroaig owner\nTakeshi Niinami, one of Japan’s best-known business leaders, has resigned as chief executive of the drinks company Suntory after police raided his home as part of an investigation into suspected illegal supplements.\nHis resignation from the owner of the Jim Beam whisky brand has sent shockwaves through Japan’s corporate world, with Suntory executives attempting to reassure investors and consumers at a hastily arranged news conference.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1924,19 +1937,6 @@
       "raw": "Once thought of as a male-dominated pastime, the number of women streaming and playing video games is growing rapidly.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "a0f764c3195d2709031d36be34005eb81c8a471e",
-      "title": "Dance through the history of funk music",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002hqjm/we-want-the-funk?at_mid=WX7MHbacyO&at_campaign=We_Want_the_Funk&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002hqjm&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=We_Want_the_Funk&at_bbc_team=BBC",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-08-23T21:32:47.000Z",
-      "summary_90w": "",
-      "raw": "A comprehensive journey through the history of funk music.",
-      "topics": [
-        "World"
       ]
     },
     {
