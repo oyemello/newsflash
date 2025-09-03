@@ -1,6 +1,6 @@
 {
-  "version": "1756884703516",
-  "generatedAt": "2025-09-03T07:31:43.516Z",
+  "version": "1756885242559",
+  "generatedAt": "2025-09-03T07:40:42.559Z",
   "items": [
     {
       "id": "d69070c2afed8e2a7753c6ed51fb329cb1b27481",
@@ -583,6 +583,19 @@
       "published": "2025-09-02T23:07:53.000Z",
       "summary_90w": "",
       "raw": "President Trump says the U.S. military has struck a drug-laden vessel in the southern Caribbean after it left Venezuela. The strike comes a week after Washington deployed warships to the region.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b48d6aa7902484f6161edb09926a7623411adc51",
+      "title": "Compassion v fear: Delhi divided over feeding stray dogs",
+      "url": "https://www.bbc.com/news/articles/c0kzkzvx848o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-02T23:04:26.000Z",
+      "summary_90w": "",
+      "raw": "Activists are pushing for the welfare of stray dogs, while anxious residents cite safety risks.",
       "topics": [
         "World"
       ]
@@ -1407,19 +1420,6 @@
       ]
     },
     {
-      "id": "7789d37b5c798382871e02e48886c6dee9e86066",
-      "title": "Beijing tightens control ahead of Xi's big moment on world stage",
-      "url": "https://www.bbc.com/news/articles/cn020wrnw78o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-02T06:37:27.000Z",
-      "summary_90w": "",
-      "raw": "It is a big week for Xi Jinping, who will host Vladimir Putin and Kim Jong Un in Beijing at a massive military parade.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "513444dfa843e2ed963274b891736ebe8f13c954",
       "title": "BMW, I am so breaking up with you",
       "url": "https://techcrunch.com/2025/09/01/bmw-i-am-so-breaking-up-with-you/",
@@ -1602,16 +1602,29 @@
       ]
     },
     {
+      "id": "11bb68c9eb1ae36273c401408e3d530704541490",
+      "title": "BYD shares slide as China's EV price war hits profits  ",
+      "url": "https://www.bbc.com/news/articles/cx2pr1wwq44o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-09-01T07:50:54.000Z",
+      "summary_90w": "",
+      "raw": "The EV maker faces a crowed market, with rivals like XPeng and Telsa, which have all cut prices.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
       "id": "a1adb860fc6d32d550d2d65abe7b023af8f732c4",
       "title": "Enforcing Australia's social media ban on kids is possible but contains risks, report says",
       "url": "https://www.bbc.com/news/articles/clyrkj0d44vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2025-09-01T02:34:13.000Z",
       "summary_90w": "",
       "raw": "The impending ban is popular with many parents, but experts have raised concerns over privacy and age verification technology.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -2039,19 +2052,6 @@
       "published": "2025-08-21T12:55:28.000Z",
       "summary_90w": "",
       "raw": "Elon Musk's artificial intelligence (AI) chatbot appears to have published messages without users' knowledge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "6c0761697a3c5b8d76a00937173b97ca5d7be14c",
-      "title": "Microsoft boss troubled by rise in reports of 'AI psychosis'",
-      "url": "https://www.bbc.com/news/articles/c24zdel5j18o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-08-20T16:36:03.000Z",
-      "summary_90w": "",
-      "raw": "Mustafa Suleyman said there was still \"zero evidence of AI consciousness today\".",
       "topics": [
         "Technology"
       ]
