@@ -1,7 +1,46 @@
 {
-  "version": "1756932331635",
-  "generatedAt": "2025-09-03T20:45:31.635Z",
+  "version": "1756932730161",
+  "generatedAt": "2025-09-03T20:52:10.161Z",
   "items": [
+    {
+      "id": "89f59d31c354d6e17539bc89780fa6ae073b4b09",
+      "title": "Apple’s Siri upgrade could reportedly be powered by Google Gemini",
+      "url": "https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-03T20:50:38.000Z",
+      "summary_90w": "",
+      "raw": "An AI Siri is in the works and it could be running Gemini under the hood.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f61aed1703a5b195742bd5a56276a97cfbaad8fc",
+      "title": "At least 15 dead after Lisbon's historic funicular derails",
+      "url": "https://www.bbc.com/news/articles/c1jzlgj915no?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-03T20:48:39.000Z",
+      "summary_90w": "",
+      "raw": "Lisbon's mayor says the capital is in mourning, adding it was a \"tragic moment for the city\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "20eb2ef62bd42eaea6cc83f99facf1ca08a5458a",
+      "title": "Apple&#8217;s rumored AI search tool for Siri could rely on Google",
+      "url": "https://www.theverge.com/news/770712/apple-ai-search-tool-siri-google-gemini",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-03T20:47:46.000Z",
+      "summary_90w": "",
+      "raw": "Apple is working on an AI-powered search feature for Siri – but it might need Google’s help to make it happen, according to a report from Bloomberg’s Mark Gurman. As noted by Gurman, Google is currently in the lead to help Apple revamp its voice assistant, which could involve using a custom Gemini model running on the iPhone maker’s servers.\nThe new feature, reportedly called “World Knowledge Answers” internally, will allow users to search for information and receive AI-generated summaries based on results from the web. Its interface will also incorporate text, photos, videos, and points of interest, allowing it to challenge the AI-powered search features from companies like OpenAI and Perplexity.\nPutting AI search into Siri is part of Apple’s delayed plans to upgrade the voice assistant with new features that will let it tap into your personal data and perform actions based on the content on your screen. The new Siri will reportedly work by leveraging a planner, which helps interpret voice or text prompts, a search system to scan user data or the internet, and a summarizer to package all of this information for users.\nThis week, Apple and Google reached a “formal agreement” for Apple to test a Google-designed AI model for Siri’s summaries, according to Bloomberg. Apple reportedly plans to use its own AI models to search user data, but it’s still evaluating Anthropic’s Claude and Gemini for Siri’s planning function.\nEven though Apple’s set to take the wraps off its iPhone 17 lineup next week, the company is expected to launch the AI-upgraded Siri alongside iOS 26.4 as early as next March.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "5e7999c594df3a870c920f621776137372017b78",
       "title": "I tried Jsaux’s new anti-glare Switch 2 screen protector, and it revealed a glaring bug",
@@ -29,19 +68,6 @@
       ]
     },
     {
-      "id": "c94486f409d4e93715038aadd5636bf4a6366255",
-      "title": "Lisa Cook and the fight for the Fed",
-      "url": "https://www.npr.org/2025/09/03/nx-s1-5518165/lisa-cook-and-the-fight-for-the-fed",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-09-03T20:31:59.000Z",
-      "summary_90w": "",
-      "raw": "What does a member of the Federal Reserve Board actually do? We hear from two past members about the job, and the practices meant to keep decisions apolitical.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
       "id": "b4db75cbe58602f55def216965c64bd0e950ab0f",
       "title": "Australia politics live: Bob Carr defends China visit but ‘wouldn’t have picked this guest list’; RBA chief dampens hope for more interest rate cuts",
       "url": "https://www.theguardian.com/australia-news/live/2025/sep/04/australia-politics-live-bob-carr-daniel-andrews-beijing-putin-question-time-labor-coalition-anthony-albanese-sussan-ley-ntwnfb",
@@ -56,7 +82,7 @@
     },
     {
       "id": "223cc6b3a043829524c7b424635ac5dcb79a9980",
-      "title": "xAI’s CFO is the latest executive to leave the Elon Musk’s AI firm",
+      "title": "xAI’s CFO is the latest executive to leave Elon Musk’s AI firm",
       "url": "https://techcrunch.com/2025/09/03/xais-cfo-is-the-latest-executive-to-leave-the-elon-musks-ai-firm/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -65,19 +91,6 @@
       "raw": "Mike Liberatore left xAI at the end of July. He is the latest in a string of executive departures at Elon Musk's AI firm.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f61aed1703a5b195742bd5a56276a97cfbaad8fc",
-      "title": "At least 15 dead after Lisbon's historic funicular derails",
-      "url": "https://www.bbc.com/news/articles/c1jzlgj915no?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-03T20:21:11.000Z",
-      "summary_90w": "",
-      "raw": "Lisbon's mayor says the capital is in mourning, adding it was a \"tragic moment for the city\".",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -520,19 +533,6 @@
       "raw": "On display in Beijing were nuclear weapons launched by air, sea and land, laser weapons and four-legged drones\nIt was hardly a subtle attempt to project power. China showed off air-, sea- and land-launched nuclear weapons in its parade on Wednesday, a triad intended to demonstrate that Beijing’s long-term aspiration is to match US military might.\nAlso on display were large underwater torpedo-like drones, intended to threaten western warships, as well as anti-drone lasers and four-legged “robot wolves”, all designed to be noticed, regardless of their actual military effectiveness.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "2676b29faf3d52f87ee9a5241ee8f2ff01518dfd",
-      "title": "Mophie adds wireless charging to the AirPods Max with a clever new stand",
-      "url": "https://www.theverge.com/news/770322/mophie-airpods-max-headphones-wireless-charging-stand",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-03T17:33:29.000Z",
-      "summary_90w": "",
-      "raw": "The aptly-named Max Headphones Charging Stand is specifically designed for Apple’s flagship headphones. | Image: Mophie\t\n\nMophie has announced a new wireless charger for Apple’s AirPods Max called the Max Headphones Charging Stand. The AirPods Max don’t support wireless charging, so Mophie’s new stand relies on a small dongle that stays connected to the headphones’ USB-C port at all times. When docked in the stand, the dongle magnetically aligns and connects to charging pins that deliver power to the battery while additional magnets in the cradle put the headphones into sleep mode.\nThe Max Headphones Charging Stand is available now through Mophie’s online store for $150, and includes a dongle compatible with the USB-C version of the AirPods Max that Apple introduced a year ago. The company currently has no plans to introduce a Lightning connector version of the dongle that would make the stand compatible with older versions of the AirPods Max.\nThe stand features a weighted base made from anodized aluminum, while the cradle that supports the AirPods Max earcups is made from soft-touch silicone so it won’t scratch the headphones’ finish.\nAlthough it’s a more convenient way to keep the AirPods Max charged when not in use (they only go into their battery-saving sleep mode when placed in their case) the stand is another accessory demanding precious desktop real estate. To help further justify the splurge, Mophie includes a second Qi-compatible pad on the base for wirelessly charging your AirPods earbuds or a smartphone, but there’s no mention of Qi2.2 or even Qi2 support, so don’t expect fast charging speeds or the convenience of magnets there.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1121,19 +1121,6 @@
       ]
     },
     {
-      "id": "affbbcb11158078444971c7c0c0a435406dfb637",
-      "title": "College social app Fizz expands into grocery delivery",
-      "url": "https://techcrunch.com/2025/09/03/college-social-app-fizz-expands-into-grocery-delivery/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-03T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The new partnership will allow students to order anything from late-night snacks to weekly groceries directly within the Fizz app in as fast as 15 minutes.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "06aa1975d4538ca33b10208bfacf5a7f5dcd9730",
       "title": "Race to find survivors after Sudan landslide kills hundreds",
       "url": "https://www.bbc.com/news/articles/cdj2jygzzk9o?at_medium=RSS&at_campaign=rss",
@@ -1701,6 +1688,19 @@
       "published": "2025-09-02T11:26:42.000Z",
       "summary_90w": "",
       "raw": "One of the world's largest food brands is splitting apart a decade after a messy megamerger staged by Warren Buffett.",
+      "topics": [
+        "Business"
+      ]
+    },
+    {
+      "id": "412aa03368e77abdc17146130a428eacb10acfcf",
+      "title": "Federal tax credits for electric vehicles are ending, leading to spike in sales",
+      "url": "https://www.npr.org/2025/09/02/nx-s1-5494650/federal-tax-credits-for-electric-vehicles-are-ending-leading-to-spike-in-sales",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2025-09-02T08:59:57.000Z",
+      "summary_90w": "",
+      "raw": "Federal discounts for electric vehicles expire at the end of the month. The deadline has led to a spike in EV sales and whiplash for auto dealers.",
       "topics": [
         "Business"
       ]
