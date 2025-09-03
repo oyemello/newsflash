@@ -1,16 +1,42 @@
 {
-  "version": "1756934001861",
-  "generatedAt": "2025-09-03T21:13:21.861Z",
+  "version": "1756935020267",
+  "generatedAt": "2025-09-03T21:30:20.267Z",
   "items": [
+    {
+      "id": "c699e70ea35239222c9c4bfa861a7fb5a238bbd9",
+      "title": "Scale AI is suing a former employee and rival Mercor, alleging they tried to steal its biggest customers  ",
+      "url": "https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employee-and-rival-mercor-alleging-they-tried-to-steal-its-biggest-customers/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-03T21:21:30.000Z",
+      "summary_90w": "",
+      "raw": "Scale is clearly concerned enough about the threat of Mercor, and the poaching of one of its employees, to pursue legal action",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "f61aed1703a5b195742bd5a56276a97cfbaad8fc",
       "title": "At least 15 dead after Lisbon's historic funicular derails",
       "url": "https://www.bbc.com/news/articles/c1jzlgj915no?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2025-09-03T21:09:25.000Z",
+      "published": "2025-09-03T21:16:15.000Z",
       "summary_90w": "",
       "raw": "Lisbon's mayor says the capital is in mourning, adding it was a \"tragic moment for the city\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e20eef030daea95215be8ec0de8ff2718dbb5f96",
+      "title": "Rayner admits underpaying tax on £800,000 Hove flat as Starmer backs her",
+      "url": "https://www.bbc.com/news/articles/cy50446rq73o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-03T21:10:28.000Z",
+      "summary_90w": "",
+      "raw": "The deputy prime minister says she has referred herself for an ethics probe by the PM's adviser.",
       "topics": [
         "World"
       ]
@@ -37,6 +63,19 @@
       "published": "2025-09-03T21:00:06.000Z",
       "summary_90w": "",
       "raw": "A number of European governments are proposing restrictive measures on migrants in response to public concern",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b4db75cbe58602f55def216965c64bd0e950ab0f",
+      "title": "Australia politics live: Bob Carr defends China visit but ‘wouldn’t have picked this guest list’; RBA chief dampens hope for more interest rate cuts",
+      "url": "https://www.theguardian.com/australia-news/live/2025/sep/04/australia-politics-live-bob-carr-daniel-andrews-beijing-putin-question-time-labor-coalition-anthony-albanese-sussan-ley-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-03T20:58:07.000Z",
+      "summary_90w": "",
+      "raw": "Former foreign affairs minister avoided Beijing photocall featuring Vladimir Putin. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nAustralia’s stronger-than-expected economic growth could dash hopes for further interest rate cuts, Australia Associated Press reports.\nReserve Bank of Australia governor Michele Bullock insisted she does not know “at this stage” what the uplift in economic growth revealed on Wednesday could mean for interest rates.\nI certainly would have avoided them, if there were the remotest possibility [of being photographed with Putin].\nWhen I accepted the invitation to come to the commemoration of China’s enormously historically significant victory over the Japanese aggressor … the idea of the parade grew up separate from that.\nDan Andrews can speak for himself. He is someone who has been battered to death by media hostility in his own state, and gone on to win big majorities … he can defend himself.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -91,19 +130,6 @@
       "raw": "Switzerland launched an open-source model called Apertus on Monday as an alternative to proprietary models like OpenAI’s ChatGPT or Anthropic’s Claude, reports SWI as spotted by Engadget. The model’s source code, training data, model weights, and detailed development process are available on the AI model platform HuggingFace. \nApertus, which is Latin for “open,” was designed to “set a new baseline for trustworthy and globally relevant open models,” according to the developers. The model was trained on over 1,800 languages and comes in two sizes with either 8 billion or 70 billion parameters. Apertus is comparable to the 2024 Llama 3 model from Meta, according to SWI.  \nThe model was built to adhere to the European Union’s copyright laws and voluntary AI code of practice, which some US-based AI companies have said reluctantly signed while claiming that the regulations will curb AI innovation and deployment. Apertus’ training data was restricted to public sources, while adhering to the AI crawler opt-out requests on certain websites, according to the developers. (No “stealth-crawling.”)",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "b4db75cbe58602f55def216965c64bd0e950ab0f",
-      "title": "Australia politics live: Bob Carr defends China visit but ‘wouldn’t have picked this guest list’; RBA chief dampens hope for more interest rate cuts",
-      "url": "https://www.theguardian.com/australia-news/live/2025/sep/04/australia-politics-live-bob-carr-daniel-andrews-beijing-putin-question-time-labor-coalition-anthony-albanese-sussan-ley-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-03T20:30:16.000Z",
-      "summary_90w": "",
-      "raw": "Former foreign affairs minister avoided Beijing photocall featuring Vladimir Putin. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nGood morning and welcome to our live news blog. I’m Martin Farrer, bringing you the best breaking news this morning before I hand the news baton to Krishani Dhanji.\nBob Carr, the former Labor foreign affairs minister, has defended his attendance at Xi Jinping’s carefully staged gathering of world leaders this week, but he avoided the controversial photocall with Vladimir Putin and Kim Jong-un in which Daniel Andrews appeared. More coming up.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -481,19 +507,6 @@
       "raw": "If you ever doubted the “console wars” were over, here’s a new piece of data to consider: Helldivers 2, formerly console exclusive to Sony’s PS5, is currently the best-selling title on Xbox. In fact, it’s the first and third best-selling game, if you count its more premium edition, and it’s currently the ninth-most played game on the platform — mostly beaten by free-to-play games like Fortnite and Roblox but also Minecraft and GTA V. \nIt doesn’t surprise me that Helldivers 2 is popular on Xbox, because it was a huge hit on PS5 and PC. Last May, Sony revealed that Helldivers 2 had become PlayStation’s fastest-selling game of all time with 12 million copies sold in 12 weeks, and it may have now crossed 18 million after reportedly racking up nearly a million on Xbox in its first week on sale.\nNo, what’s surprising is that we now live in an era where companies like Sony and Microsoft no longer entirely see their hit games as a way to get players to buy their own consoles, and instead just want to sell as many copies of these games as they can. Back in May, we wrote about how the top three games on PlayStation came from Microsoft, and now it’s reciprocal! \nSony has come around to this position slowly, but by 2022, it planned for roughly half of its games to come out on PC or mobile instead of just console, and though PlayStation game boss Hermen Hulst suggested in 2024 that some of Sony’s big single-player games might be held in reserve, the company revealed this August that it’s gradually “moving away from a hardware centric business model.” It’s about selling games, not consoles. \nHere’s where some of you will no doubt point out: is Helldivers 2 actually a PlayStation game? Since PlayStation is merely the publisher and doesn’t own its developer Arrowhead Game Studios, is it really such a big deal? \nI would say yes, because Sony has been the one in control, the one making the strategic decisions over when and where and how much PlayStation goodness to share. When players balked at how Helldivers 2 originally required you to log in with a PlayStation account on PC, it was out of Arrowhead’s hands. When players wanted an Xbox version, Arrowhead said it was entirely up to Sony. \nMicrosoft doesn’t have to cut such publishing deals to bring Xbox’s biggest games to PlayStation, though. When it chose to bring Indiana Jones and Hellblade 2 to PS5, it could do so because it owns both giant publisher / developer Bethesda and developer Ninja Theory itself.\nWhat is an Xbox, and what is a PlayStation, if not the place to play specific games? Is it a launcher and a set of familiar controls? Is it a feeling? That’s the challenge facing Microsoft and Sony if they continue down this road.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "e20eef030daea95215be8ec0de8ff2718dbb5f96",
-      "title": "Rayner admits underpaying tax on £800,000 Hove flat as Starmer backs her",
-      "url": "https://www.bbc.com/news/articles/cy50446rq73o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-03T17:49:40.000Z",
-      "summary_90w": "",
-      "raw": "The deputy prime minister says she has referred herself for an ethics probe by the PM's adviser.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1079,19 +1092,6 @@
       "raw": "How two-time US Open champion Naomi Osaka has rediscovered her form in New York, two months after a dispiriting Wimbledon exit.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "32e6a20cb12e08756e4f292b603794f8fe881669",
-      "title": "Advanced geothermal startups are just getting warmed up",
-      "url": "https://techcrunch.com/2025/09/03/advanced-geothermal-startups-are-just-getting-warmed-up/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-03T13:14:54.000Z",
-      "summary_90w": "",
-      "raw": "Geothermal energy startups including Fervo Energy and Sage Geosystems are signing key deals that bring their technology closer to broader commercial deployment.",
-      "topics": [
-        "Technology"
       ]
     },
     {
