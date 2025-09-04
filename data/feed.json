@@ -1,7 +1,85 @@
 {
-  "version": "1756971084740",
-  "generatedAt": "2025-09-04T07:31:24.740Z",
+  "version": "1756971545699",
+  "generatedAt": "2025-09-04T07:39:05.699Z",
   "items": [
+    {
+      "id": "58199daa41a1a12dfecebdbbaf82b12334c9b53e",
+      "title": "Hue launches its first video doorbell",
+      "url": "https://www.theverge.com/news/769914/hue-video-doorbell-pricing-release-date",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-04T07:30:00.000Z",
+      "summary_90w": "",
+      "raw": "After a Philips Hue app update leaked a new Hue video doorbell in March, parent company Signify is making it official this week. The $169 Hue Secure video doorbell is arriving in October to complement Hue’s other Secure indoor and outdoor camera offerings.\nThe Hue Secure video doorbell looks much like any other smart doorbell on the market, with a candy bar shape and a large button for visitors to activate. It’s a wired doorbell, so you’ll need power at the front of your house instead of relying on an easier battery-powered doorbell installation.\nSignify is using both 2.4GHz and 5GHz Wi-Fi options on the Hue doorbell, as well as a Zigbee radio to pair with Hue lights. You can configure the Hue doorbell to automatically turn on other Hue lights when someone approaches your front door, and it also comes with a plug-in chime that can act as a siren for the Hue security system. The chime is also a requirement as the Hue doorbell won’t work with any existing doorbell chime.\nThe Hue doorbell itself has a 2K image sensor with a fish-eye lens and a square aspect ratio. That’s better than the resolution available on Google’s Nest doorbells or even Blink’s buzzer, but it’s right in line with TP-Link’s Tapo D225 and Ring’s popular battery doorbell plus. Google is also rumored to be launching a 2K video doorbell next month.\nThe Hue doorbell will also work with Google Home and Samsung SmartThings, as well as inside the main Hue app. Like many other smart doorbells, you’ll get alerts when someone is at your door or if a package arrives, and there’s a two-way talk mode to greet guests or tell delivery drivers where to hide your package.\nOne way Signify is hoping it will stand out against the competition is with free video history for a full day. “We’re going to be offering 24 hours of motion-activated video clips free for all Hue Secure products and existing users,” said George Yianni, CTO and founder of Philips Hue, in an interview with The Verge’s smart home expert Jennifer Pattison Tuohy. Previously, you had to buy a subscription for 30 or 60 days of recorded video, so this is a good improvement if you need a day’s worth.\nExisting Hue security cameras are also being updated to work with the Apple Home app, but the doorbell won’t be compatible at launch. “We are also looking at Matter, but decided not to wait,” Yianni said. Camera support for Matter is slated to arrive in the fall with Matter 1.5.\nIn October, Signify will also launch a new 2K wired camera in Europe, priced at €179,99 or €199.99 with a stand. The Hue-branded camera is an update to the original Hue security cameras from 2023 and will integrate into Hue Secure features like light and sound alarms. A camera update is arriving soon that will allow Hue cameras to recognize if a smoke alarm is going off and set lights to a smoke-penetrating red-light setting.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6df1ed0c14622fc39d8b9ed7f9a92047db13a14b",
+      "title": "Inside Philips Hue’s plans to make all your lights motion sensors",
+      "url": "https://www.theverge.com/smart-home/768585/philips-hue-motion-aware-rf-sensing-lights-motion-ivani",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-04T07:30:00.000Z",
+      "summary_90w": "",
+      "raw": "The Hue Bridge Pro, Philips Hue’s first new Zigbee hub in a decade, is the brains behind its new motion-sensing technology.\t\n\nPhilips Hue has announced that its smart light bulbs - both new and existing models - are being upgraded to feature built-in motion sensing. The new feature, called Hue MotionAware, uses radio-frequency (RF) sensing to detect changes in the Zigbee signal between bulbs, allowing them to respond to movement without the need for separate motion sensors.\nIt's a major upgrade for Hue users, introducing a powerful new capability to existing hardware at no extra cost - though to activate the feature, you will need Hue's new Bridge Pro ($90), which also launched this week at the IFA 2025 tech show. According to Signify, Hue's parent company, Motion …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d3fc1c1cd078d9deb4bb1928f843652afb2d4fa7",
+      "title": "Philips Hue lights get bigger, brighter, and cheaper with a major product refresh",
+      "url": "https://www.theverge.com/ifa-berlin/769934/philips-hue-essentials-bridge-pro-light-strip-matter-ifa-launch",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-04T07:30:00.000Z",
+      "summary_90w": "",
+      "raw": "Philips Hue’s new line of smart lights includes revamped light strips, such as the Hue Flux Ultra Bright Strip Light that can output 6,000 lumens. | Image: Hue\t\n\nSmart lighting company Philips Hue debuted a bunch of new products this week at the IFA tech show in Berlin, Germany, and most of them are available now. The launch, which is the biggest in the company’s history, includes cheaper smart lights, a new bridge for its Zigbee ecosystem, a redesigned line of light strips, and new software features and connectivity capabilities. Hue also introduced its first video doorbell and an upgraded camera to its Hue Secure line.\nHue’s third-generation bridge arrives\nThe Hue Bridge Pro ($89.99 / €89.99) is a total redesign of the ecosystem’s central hub and the first upgrade to Hue’s bridge in 10 years. It connects to Hue’s Zigbee bulbs and accessories to add features like lighting scenes, dynamic effects, schedules, and out-of-home control. Sporting a new black look, it has a faster processor, more memory, and increased capacity. Designed to appeal to Hue super-users, it can connect 150 lights and 50 accessories (a soft limit) — that’s three times the capacity of the V2 bridge, which is not being retired.\nAdditionally, the Pro can store over 500 custom lighting scenes and provide faster response times, according to Signify, Hue’s parent company. Its Hue Chip Pro enables the company’s new Hue MotionAware feature, which turns your existing Hue lights into motion sensors for motion-activated lighting and security features. The Pro finally brings Wi-Fi (2.4GHz) to a Hue bridge, so it doesn’t have to sit next to your router.\nThere’s a migration tool that will transfer all the settings of your current Bridge with a few taps. The company says support for combining multiple bridges into a single Bridge Pro will arrive before the end of the year. The Hue Bridge Pro is available now for $89.99.\nNew line of low-cost lights\nWell known for being one of the pricier, premium smart lighting companies, Philips Hue has announced a new entry-level lineup of smart lights, which it says is designed to appeal to new smart home users. \nStarting at $25 per bulb, or as low as $15 in a multipack, the new Hue Essential lineup includes A19 bulbs ($24.99, or a four-pack for $60), BR30 downlight ($24.99, or a two-pack for $40), and GU10 spotlights ($24.99, or a four-pack for $60). An RGB color Essential Strip Light costs $59.99 for 5 meters and $99.99 for 10, and an Essential Flex Strip Light, a new neon option for Hue, is available for $99.99 for 5 meters and $169.99 for 10 meters.\nThese lights are compatible with the Hue Bridge (V2 and Pro) and have all the same capabilities and connectivity features as the company’s higher-end lights, just with lower specs. The key differences are that they don’t dim as low, have a narrower range of white (2200–6500K), and offer more basic color quality.\nThe Essential bulbs (not the light strips) will also support Matter-over-Thread connectivity, as part of a next-gen connectivity chip for all its new bulbs. This will be alongside the “core technologies” of Bluetooth and Zigbee.\nThis means you can connect them directly to Apple Home, Amazon Alexa, or any Matter platform. (You’ll need a Matter controller and Thread border router for setup.) Previously, you needed a Hue Bridge to connect to Apple Home, but you could connect to Alexa via Bluetooth or Zigbee with the right Echo Hub.\nThe bulbs are available now, with the light strips slated for December. There will be several starter kit options that bundle lights with Hue Bridge V2, starting at $79.99.\nNew flagship bulbs\nAlong with the launch of its lower-cost line, Hue is revamping its flagship bulb, the Philips Hue A19. The company says the new model is 40 percent more energy efficient compared to its prior bulbs, and can dim to 0.2 percent brightness. The color-capable versions maintain Hue’s top color-matching quality, which the company is now calling ChromaSync, to differentiate from the Essentials. \nAll the new Hue bulbs also have the next-gen connectivity chip, which supports Matter-over-Thread connectivity to connect to any Matter-compatible smart home platform. They’re available now, starting at $59.99 for white and color ambiance, $44.99 for white ambiance, and $15.99 for white.\nHue’s existing bulbs will not be upgraded to Matter-over-Thread, and the Bridge Pro does not support Thread, but existing Hue bulbs can be bridged to Matter through the Bridge V2 or Bridge Pro.\nLots of love for light strips\nThe company’s line of light strips is being expanded and will feature seven models, which are set to launch in the US in March. The flagship model is the new OmniGlow strip light, which Signify’s John Smith says is “the best light strip we’ve ever made.” It uses advanced chip-scale-package (CSP) technology to get rid of the spottiness commonly found on most light strips, packing together 170 tiny LEDs in each square centimeter. It can dim down to 0.5 percent and pump out up to 4,500 lumens of brightness.\nAlong with the two new Essential light strips, Hue is introducing a less expensive version of its white and color gradient ambient light strip. The Hue Flux Strip Light costs $70 for 3 meters and $99.99 for 5 meters. An Ultra Bright version that can also reach up to 6,000 lumens is slated to launch later next year.\nThe new light strips will all work with a new line of accessories from Hue, which includes corners, blackout cables, and extenders that can reach up to 20 meters, providing more flexibility when placing the strips. Outdoors, a new gradient light strip and neon strip are joining the lineup. All of the new lights, except for the Essentials, feature ChromaSync technology but operate over Zigbee and Bluetooth only, without Thread.\nHere’s a rundown of the new light strip lineup:\nPhilips Hue OmniGlow strip light, starting at $139.99.\nPhilips Hue Flux strip light, starting at $69.99.  \nPhilips Hue Flux ultra bright strip light, starting at €99.99 (no US pricing or launch date).  \nPhilips Hue Flux outdoor strip light, starting at €149.99 (no US pricing).  \nPhilips Hue neon outdoor strip light, starting at $149.99.  \nPhilips Hue Essential strip light\nPhilips Hue Essential flex strip light, flexible neon-style light\nPermanently outdoors\nThe Festavia Permanent Lights can stay up year-round to instantly decorate your home for the season. \t\nHue is expanding its already robust outdoor lighting offerings with permanent patio lights and permanent outdoor lights. The Festavia Hue Globe string lights start at $159.99 and feature color and tunable white light, the same effects as the current Festavia string lights. They have a striking design similar to Hue’s high-end LightGuide bulbs. \nHue is getting in on the craze for permanent outdoor lights fixed to the outside of your house with the Festavia Permanent lights (starting at $119.99). These are white and color ambiance lights designed to be fixed to your home “permanently” along a roofline, for example. They are available now in several lengths.\nOverall, it’s an impressive rollout for the company, which has faced mounting pressure from cheaper competitors.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6390bf231ce786aa7202ebf707caccbf226ba78b",
+      "title": "Philips Hue responds to cheaper competitors with major product overhaul",
+      "url": "https://www.theverge.com/smart-home/768554/philips-hue-essentials-smart-lighting-cheaper-support-matter-thread",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-04T07:30:00.000Z",
+      "summary_90w": "",
+      "raw": "All the new Hue Essentials line white and color ambiance LED bulbs cost $25 each, or as low as $15 each, if you buy a multipack.\t\n\nPhilips Hue has announced the biggest revamp of its smart lighting line in years, introducing lower-cost lights, support for Matter over Thread, and a new generation of brighter light strips. The update includes the launch of a new Essentials line, motion-sensing technology across all Hue lights, and what the company calls the \"brightest and best light strip money can buy.\" \nPhilips Hue is well known for high-quality smart lights that are super expensive but super reliable, thanks to its mature Zigbee network. Now, the Dutch lighting company, owned by Signify, is looking to more directly compete with its increasing number of budget rivals,  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8579d9ff0532c215f0d00d0e190cce0bcb97e3b7",
+      "title": "Your Sonos speakers can now control your Hue lights",
+      "url": "https://www.theverge.com/smart-home/768604/your-sonos-speakers-control-hue-lights",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-04T07:30:00.000Z",
+      "summary_90w": "",
+      "raw": "Sonos’s built in voice controller moves beyond music control to smart lighting with a new partnership with Philips Hue.\t\n\nHue is teaming up with Sonos to let you control your smart lights using its built-in voice assistant. As rumored, the new function, which launched at IFA 2025 this week, lets you turn your Hue lights on, off, and dim them, as well as control scenes, simply by asking your speaker. The controller processes everything locally, so it should result in faster response times than cloud-based solutions used by most voice assistants. \nThis is the first use case outside of music for the Sonos voice assistant, but it’s just the beginning of the Hue-Sonos integration. George Yianni, CTO and founder of Philips Hue, says they have bigger plans for the future. “There’s a lot of crossover in our customer bases and we have a roadmap of use cases planned,” he says. “Think lights that support the mood that you want to create when you’re playing music, or music that can help enhance the scenes that you’re recalling on the lighting side.”",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "63874349db39ea29ffe3d26dae1000ba328b76ab",
+      "title": "Rayner consulted three people before flat purchase",
+      "url": "https://www.bbc.com/news/articles/cqxzj2qq1lno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-04T07:28:37.000Z",
+      "summary_90w": "",
+      "raw": "It is unclear whether the individuals the deputy PM consulted had expertise in complex tax law.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "b4db75cbe58602f55def216965c64bd0e950ab0f",
       "title": "Australia news live: Ben Roberts-Smith’s final appeal bid rejected by high court; some Rip Curl and Kathmandu stores to close",
@@ -128,19 +206,6 @@
       "published": "2025-09-04T06:00:46.000Z",
       "summary_90w": "",
       "raw": "Elderly woman with Alzheimer’s, medical workers and children among 6,000 Palestinians held\nOnly one in four detainees from Gaza are identified as fighters by Israel’s military intelligence, classified data indicates, with civilians making up the vast majority of Palestinians held without charge or trial in abusive prisons.\nThose jailed for long periods without charge or trial include medical workers, teachers, civil servants, media workers, writers, sick and disabled people and children.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "63874349db39ea29ffe3d26dae1000ba328b76ab",
-      "title": "Rayner consulted three people about flat purchase",
-      "url": "https://www.bbc.com/news/articles/cqxzj2qq1lno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-04T06:00:38.000Z",
-      "summary_90w": "",
-      "raw": "It is unclear whether the individuals the deputy PM consulted had expertise in complex tax law.",
       "topics": [
         "World"
       ]
@@ -367,14 +432,14 @@
       ]
     },
     {
-      "id": "15d3c26867c11a7bb371932f1262e9f7c2d830b0",
-      "title": "Canada's QAnon 'queen' arrested in Saskatchewan village",
-      "url": "https://www.bbc.com/news/articles/c8exrp72e20o?at_medium=RSS&at_campaign=rss",
+      "id": "5ff6a9fc738d8072c5a17aa22c840a71ec2a2da6",
+      "title": "How rewatching 'painful' Wimbledon final inspired Anisimova to beat Swiatek",
+      "url": "https://www.bbc.com/sport/tennis/articles/cwy94dl11exo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-04T01:04:05.000Z",
+      "published": "2025-09-04T01:19:49.000Z",
       "summary_90w": "",
-      "raw": "Romana Didulo, who leads a cult inspired by US-based conspiracy theory QAnon, was arrested as she was on a livestream.",
+      "raw": "Amanda Anisimova says she rewatched her Wimbledon final defeat by Iga Swiatek to inspire her to victory over the second seed in the US Open quarter-finals.",
       "topics": [
         "World"
       ]
@@ -692,19 +757,6 @@
       ]
     },
     {
-      "id": "9f2d277de90aedf7f7e5b1351125c8e71ab5fba1",
-      "title": "Switzerland releases its own AI model trained on public data",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/770646/switzerland-ai-model-llm-open-apertus",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-03T20:32:37.000Z",
-      "summary_90w": "",
-      "raw": "Switzerland launched an open-source model called Apertus on Monday as an alternative to proprietary models like OpenAI’s ChatGPT or Anthropic’s Claude, reports SWI as spotted by Engadget. The model’s source code, training data, model weights, and detailed development process are available on the AI model platform HuggingFace. \nApertus, which is Latin for “open,” was designed to “set a new baseline for trustworthy and globally relevant open models,” according to the developers. The model was trained on over 1,800 languages and comes in two sizes with either 8 billion or 70 billion parameters. Apertus is comparable to the 2024 Llama 3 model from Meta, according to SWI.  \nThe model was built to adhere to the European Union’s copyright laws and voluntary AI code of practice, which some US-based AI companies have said reluctantly signed while claiming that the regulations will curb AI innovation and deployment. Apertus’ training data was restricted to public sources, while adhering to the AI crawler opt-out requests on certain websites, according to the developers. (No “stealth-crawling.”)",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "608102d1cdc7f5e8b6c4110e029582303678f921",
       "title": "xAI’s CFO is the latest executive to leave Elon Musk’s AI firm",
       "url": "https://techcrunch.com/2025/09/03/xais-cfo-is-the-latest-executive-to-leave-elon-musks-ai-firm/",
@@ -822,19 +874,6 @@
       ]
     },
     {
-      "id": "ef49b6da6156c80702ef838a8acebdbc6556424e",
-      "title": "007 First Light looks like a hit, man",
-      "url": "https://www.theverge.com/news/770509/007-first-light-state-of-play-september-2025",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-03T18:59:54.000Z",
-      "summary_90w": "",
-      "raw": "IO Interactive, developers of the much-beloved Hitman series, showed off its latest title, 007 First Light during a special September State of Play. In it, instead of a bald Agent 47, you play a youthful and immaculately coiffed James Bond — and that’s pretty much the biggest distinction between the two games. Watch the thirty minute stream here.\n\nAs in Hitman, First Light’s gameplay demo featured a fancy party at a luxurious estate, lots of slow walking to blend in with the crowd, listening to ambient conversation for clues, and, of course, lots of fancy cars to drive and inevitably wreck. Basically, what IO showed of First Light makes the game look like Hitman with a fancy 007 skin. Which, honestly, probably suits a lot of players just fine.\nWith the success of Teenage Mutant Ninja Turtles: Shredders Revenge and Indiana Jones and the Great Circle, licensed games are making a big comeback. And while IO continues to update Hitman: World of Assassination with new missions and fancy new targets, it’s been four years since the last full Hitman release. 007 First Light seems like it’ll be a new way to scratch that spy thriller assassination itch and you won’t have to wait too long for it either. 007 First Light launches on March 27th on Xbox, PlayStation, Switch 2, and PC.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "9a34fb40907479b89130d9441396279060faf843",
       "title": "SpaceX gets a green light to more than double its Florida launches",
       "url": "https://techcrunch.com/2025/09/03/spacex-gets-the-green-light-to-more-than-double-its-florida-launches/",
@@ -939,19 +978,6 @@
       ]
     },
     {
-      "id": "9ebaaa97b2b29a838f5450d7aecfa1509451b290",
-      "title": "Anker&#8217;s power bank with built-in USB-C cables is a great deal at $25 off",
-      "url": "https://www.theverge.com/tech/770332/anker-laptop-charger-samsung-galaxy-buds-3-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-03T18:08:45.000Z",
-      "summary_90w": "",
-      "raw": "The Anker Laptop Power Bank can charge four devices at once.\t\n\nAnker’s Laptop Power Bank came to the rescue of my laptop and smartphone during a recent power outage. They were on the verge of dying, but its pair of built-in USB-C cables powered up my devices so I could keep working remotely. Since then, I carry it with me wherever I go, and it’s bailed me out time and again. If you need a powerful, portable charger, you can buy it for $94.49 ($25 off) at Amazon, Best Buy, and directly from Anker with code WS7DV2RO9DEU, which is about $7 shy of its all-time low.\nAnker 25,000mAh Laptop Power Bank\nAnker’s latest power bank sports three USB-C ports, plus one USB-A port. It tops out at 165W when charging two devices simultaneously, or 130W when charging three or four.\n\nWhere to Buy:\n\n $119.99 $94.49 at Amazon\n $119.99 $94.49 at Best Buy\n $119.99 $94.49 at Anker (with code WS7DV2JSRCFW)\n\nThis power bank is equipped with three USB-C ports, each capable of delivering up to 100 watts of power when only one 100W-ready device is plugged in. It can provide up to 165W of power when two devices are plugged in via USB-C, or up to 130W when you’ve got up to four devices plugged in. Anker also includes a USB-A port, which is handy for those who own older devices. During the aforementioned power outage, it simultaneously powered my MacBook, smartphone, and even a USB-C-powered flashlight, bringing my tech back to life in just a couple of minutes. \nWhat I also liked is that Anker includes a useful digital display that helps you keep tabs of remaining charge, battery health, and per-port power output. And, while the 25,000mAh / 90Wh power bank is a bit on the heavier side, it’s compliant with airline carry-on regulations, meaning you can safely take it to top up your gadgets during a flight. It’s a helpful gadget to have on hand, whether you’re working from a cafe, traveling, or stuck in the middle of a blackout.\nA couple more ways to save\nWoot’s selling the Samsung’s Galaxy 3 Buds for $74.99, down from $179.99. Samsung’s entry-level earbuds reminded us of the AirPods Pro with their angular stemmed design and gesture-based controls. The open-style earbuds also offer solid noise cancellation along with an IP57 rating and wireless charging support. Read our hands-on impressions.\nYou can buy Metaphor: ReFantazio for Xbox Series X from Woot for $21.99, down from $69.99. The medieval-era, turn-based RPG from the creators of Persona delivers a well-written story that explores themes of discrimination with nuance, while offering beautiful visuals and engaging combat. Like some of Woot’s other deals, this title includes a 90-day warranty instead of a one-year warranty. Read our review.\nGovee’s Outdoor UpDown Wall Light is on sale for $109.99 ($20 off) at Amazon exclusively for Prime members. The color-changing smart wall lamp provides up and down illumination coverage of up to 12m, while Govee lets you choose from over 64 preset scenes. It also boasts an IP66 waterproof rating and is compatible with Matter, so you can connect it to a wide range of major smart home platforms.\nCorrection, September 3rd: An earlier version of this article misstated in the headline that Anker’s Laptop Power Bank features a pair of retractable USB-C cables. It only has one.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "6e6cbb96dc149ad762d5baa2b8b164817e5025ac",
       "title": "Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features",
       "url": "https://techcrunch.com/2025/09/03/google-brings-material-3-expressive-to-pixel-6-and-newer-devices-along-with-other-features/",
@@ -960,32 +986,6 @@
       "published": "2025-09-03T18:00:00.000Z",
       "summary_90w": "",
       "raw": "Google announced on Wednesday that it's bringing a slew of new features to the Android ecosystem and Pixel devices.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "39afffa0a40bc309bf493eac5f85175c24b07ce2",
-      "title": "More Pixel phones are getting Google’s new look for Android",
-      "url": "https://www.theverge.com/news/770174/google-pixel-drop-september-2025-material-3-expressive",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-03T18:00:00.000Z",
-      "summary_90w": "",
-      "raw": "This month’s Google Pixel drop includes a broader rollout of the company’s splashy UI revamp. Starting today, Google will bring its Material 3 Expressive design language to Pixel 6 devices and newer, in addition to the Pixel Tablet.\nGoogle first revealed the youthful new design language in May before launching it with its Android 16-equipped Pixel 10 phones last month. Along with a more colorful, bubbly look, Material 3 Expressive introduces more personalization options, like iPhone-like calling cards that allow you to create custom call screens for your contacts.\nIn addition to this rollout, Google is bringing a bunch of new features to the Pixel Buds Pro 2, which it previewed during its Made by Google event last month. That includes Adaptive Audio, a feature that automatically adjusts volume based on the sounds in your environment, as well as a new capability that automatically dampens sudden loud noises to protect your hearing. The update adds background noise reduction when interacting with Gemini as well, and the ability to accept or ignore calls by nodding or shaking your head.\nGoogle will also start automatically displaying Maps on your Pixel Watch or WearOS device when you start walking or biking navigation on your phone, allowing you to easily see where you’re going without taking out your phone. These Pixel-specific updates are rolling out now, and “will continue over the next few weeks.”\nSome other tweaks are coming to a wider range of Android devices, too, including the ability to share Bluetooth audio with friends, access AI-powered writing suggestions in Gboard, and favorite your creations in Emoji Kitchen. There’s a redesigned Quick Share menu that lets you toggle between sending and receiving files, and a new Androidify app that uses AI to create your own Android bot using a selfie and a prompt.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "18eaab8c752488243624eb4f0ee46524ae57f54e",
-      "title": "Pixel phones can now stream music for you and a friend at the same time",
-      "url": "https://www.theverge.com/news/770233/google-android-bluetooth-audio-le-multiple-headphones",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-03T18:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Pixel phones will now be able to stream audio to multiple headphones at once thanks to expanded Bluetooth LE Audio and Auracast support. If you have a Pixel 8 or newer, you’ll now be able to pair two headphones at a time. That means you can make your friend listen to the new Nourished by Time single with you on the bus, or catch up on Alien Earth with your significant other on a plane. \nYou’ll be able to create a private broadcast and share it to multiple headphones with a QR code or using Fast Pair — perfect for those times when you’re insisting to a room full of people that they absolutely have to listen to Disintegration Loops on headphones to appreciate it. \nOf course, if you want to host a depressing silent disco, your friends will need headphones that also support LE Audio. Google is expanding Android support to multiple Sony models, including the LinkBuds S, WF-1000XM5, InZone Buds, LinkBuds Open, LinkBuds Fit, WH-1000XM6, and InZone H9 II. That’s in addition to existing support for hearing aids, Samsung’s Galaxy phones, and certain Xiaomi devices.\nIn addition to LE Audio support, Google is also updating the Pixel Buds Pro 2 with Adaptive Audio. That means you can take advantage of active noise cancellation, but still stay aware of your surroundings. So, you won’t hear the constant din of traffic while out for a walk, but if someone honks their horn as you’re about to step out into the street, it’ll cut through. It will also include Loud Noise Protection, which will save your precious eardrums in case a firetruck goes screaming by, sirens blaring.",
       "topics": [
         "Technology"
       ]
@@ -1111,7 +1111,7 @@
       "id": "120d64af2dfb7dfb6fb4a3fc8eb9b9309b435b54",
       "title": "Hot mic catches Xi and Putin discussing organ transplants and immortality",
       "url": "https://www.bbc.com/news/articles/cr70rvrd41ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-03T16:51:50.000Z",
       "summary_90w": "",
@@ -1716,6 +1716,19 @@
       "raw": "One of the world's largest food brands is splitting apart a decade after a messy megamerger staged by Warren Buffett.",
       "topics": [
         "Business"
+      ]
+    },
+    {
+      "id": "673bb3efe1c54a50e50b0d3cac69138b47323da5",
+      "title": "From building dream careers to losing everything",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002d2kp/footballs-financial-shame-the-story-of-the-v11?at_mid=OgibwZ9HpE&at_campaign=Footballs_Financial_Shame_The_Story_of_the_V11&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002d2kp&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Footballs_Financial_Shame_The_Story_of_the_V11&at_bbc_team=BBC",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-02T05:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Unveiling a hidden scandal affecting a group of former Premier League players.",
+      "topics": [
+        "World"
       ]
     },
     {
