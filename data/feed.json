@@ -1,16 +1,185 @@
 {
-  "version": "1756997576547",
-  "generatedAt": "2025-09-04T14:52:56.547Z",
+  "version": "1756998930364",
+  "generatedAt": "2025-09-04T15:15:30.364Z",
   "items": [
     {
-      "id": "a54cf28c19007d0ed34d83ac3c1dc2de1b6fecd4",
-      "title": "PM refuses to say if he will sack Rayner if she broke rules",
-      "url": "https://www.bbc.com/news/articles/ce321d2n45vo?at_medium=RSS&at_campaign=rss",
+      "id": "a51907517ab25be81c74dd53d622d1f45eeb92ab",
+      "title": "Head of UK's Turing AI Institute resigns after funding threat",
+      "url": "https://www.bbc.com/news/articles/c8rvx85z3z7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-09-04T15:08:12.000Z",
+      "summary_90w": "",
+      "raw": "Dr Jean Innes is stepping down after the government told the charity to focus on defence research.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1d4c5b747987d82a211039841d33eb7c16e2d06f",
+      "title": "What we know about Lisbon's deadly funicular crash",
+      "url": "https://www.bbc.com/news/articles/cn95l12epxzo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-04T15:07:08.000Z",
+      "summary_90w": "",
+      "raw": "At least 16 people died after a carriage on the city's famous Glória hillside railway derailed.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1d4c5b747987d82a211039841d33eb7c16e2d06f",
+      "title": "What we know so far",
+      "url": "https://www.bbc.com/news/articles/cn95l12epxzo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-04T14:45:48.000Z",
+      "published": "2025-09-04T15:07:08.000Z",
       "summary_90w": "",
-      "raw": "The PM's standards adviser is investigating if Rayner breached the ministerial code after underpaying stamp duty.",
+      "raw": "At least 16 people died after a carriage on the city's famous Glória hillside railway derailed.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "51361f99e7ef0b61141b6b1f7c685120a3cb03be",
+      "title": "JetBlue will use Amazon’s Project Kuiper satellites for free in-flight internet",
+      "url": "https://techcrunch.com/2025/09/04/jetblue-will-use-amazons-project-kuiper-satellites-for-free-in-flight-internet/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-04T15:05:46.000Z",
+      "summary_90w": "",
+      "raw": "While many other airlines are choosing Starlink, JetBlue is opting for Amazon's newer Kuiper satellites. But the service won't launch until 2027.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "04fd4d773ea9152601fb5f769b0cbf55dbef44d8",
+      "title": "Google told to pay $425m in privacy lawsuit",
+      "url": "https://www.bbc.com/news/articles/c3dr91z0g4zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-09-04T15:05:06.000Z",
+      "summary_90w": "",
+      "raw": "Google says the decision misunderstands how its products work, and it will appeal the ruling.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2c151c9921adc9f60156c8d20139b692ae59b5d3",
+      "title": "Jury orders Google to pay $425 million for violating user privacy",
+      "url": "https://www.theverge.com/news/771540/google-class-action-verdict-user-privacy-tracking",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-04T15:03:02.000Z",
+      "summary_90w": "",
+      "raw": "A federal jury in California has ordered Google to pay $425 million for violating user privacy by collecting the data of millions of people even after they disabled tracking, as reported earlier by Reuters.\nThe decision stems from a class action lawsuit filed in July 2020, which accused Google of unlawfully accessing app activity data on users’ mobile phones from July 2016 to September 2024. The lawsuit alleged that during this period, Google continued to collect user data across third-party apps even if they had the “Web & App Activity” setting turned off. \nThe Web & App Activity setting is supposed to control how Google collects information related to your searches, location, and activity on third-party sites, apps, and devices that partner with Google to show ads. Google says it uses this information to provide you with “more personalized experiences.” \nThe jury found Google liable for two of three claims brought by the class action lawsuit, including invasion of privacy and intrusion upon seclusion. The class, which covers around 98 million users and 174 million devices, originally sought over $31 billion in compensatory damages.\nGoogle plans to appeal the verdict. “This decision misunderstands how our products work,” Google spokesperson José Castañeda said in a statement to The Verge. “Our privacy tools give people control over their data, and when they turn off personalization, we honor that choice.” Google argues that it treats data pseudonymously when users turn off the Web & App Activity setting, and claims that users “knew and consented” to this practice.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b69360617dad9b27a8310dfe5316c24ee66ea5cd",
+      "title": "Surgeon jailed after amputation of own legs",
+      "url": "https://www.bbc.com/news/articles/c5yvpx20le2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-04T15:01:05.000Z",
+      "summary_90w": "",
+      "raw": "Neil Hopper claimed that injuries to his legs were the result of sepsis and not self-inflicted.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "66707f21f8144c6ee3748c48fe2890016a7638bd",
+      "title": "SwitchBot has ambitions to be the AI that powers your smart home",
+      "url": "https://www.theverge.com/ifa-berlin/770638/switchbot-has-ambitions-to-be-the-ai-that-powers-your-smart-home",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-04T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "SwitchBot’s new AI Hub can interpret events captured by its cameras and use them to trigger events.\t\n\nAI could bring the smart home closer to the Star Trek dream: a central \"computer\" that runs your home. At IFA this week, SwitchBot - best known for its button-pushing robots - is debuting a product that lays the groundwork for at least part of that vision. \nThe new SwitchBot AI Hub combines local AI processing with a cloud-based visual language model (VLM) to interpret events in your home and use them to trigger automations, moving the company a small step closer to creating a truly intelligent home.\nPaired with SwitchBot's home security cameras, including its pan-tilt indoor camera and video doorbell, the AI Hub will \"understand\" events i …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ab1843571075a69e6bbf99c914f08a60fb2d4eef",
+      "title": "SwitchBot launches three AI-powered smart home products — including a pair of robots",
+      "url": "https://www.theverge.com/ifa-berlin/770534/switchbot-ai-hub-eink-frame-robot-pet",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-04T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Niko and Noa are AI-powered pets.\t\n\nIt was inevitable that AI would be everywhere at IFA this year, but the smart home is where we’re really seeing action. SwitchBot, known for its quirky and clever home gadgets, launched three new AI-powered products this week: a smart home AI Hub, a colorful E Ink AI Art Frame, and two animated AI pets named Niko and Noa.\nAll-seeing AI\nThe SwitchBot AI Hub is a souped-up version of SwitchBot’s existing smart home hubs, which are designed to connect and control its Bluetooth devices, such as smart shades, locks, and lights. This model adds both on-device and cloud-based AI, working with SwitchBot’s cameras and sensors to capture, process, and interpret what’s happening in your home.\nFor example, SwitchBot says the hub could detect an event like “an elderly person falling” and use that as a trigger for an automation. This “event comprehension” uses a vision language model (VLM), which requires a cloud connection and a subscription.  Meanwhile, the on-device AI can identify faces, pets, vehicles, furniture, and more — helping you keep track of things. The company says you can even ask it things like, “Show me where I left my phone,” and it will pull up relevant footage.\nSpecs-wise, the AI Hub is a big upgrade over the Hub 3, featuring dual-band Wi-Fi, extended Bluetooth, and 32GB of built-in storage (expandable to 1TB). It can manage up to eight 2K cameras, stream locally via RTSP, and display footage on a monitor. The hub can support more than 100 SwitchBot devices and bridges up to 30 products into a Matter ecosystem. It’s powered by a 6T AI chip.\nE-paper meets AI \nSwitchBot is also entering a new category with the AI Art Frame, a colorful E Ink Spectra 6 display that blends home decor with AI creativity. You can upload your own photos or generate artwork using prompts in the SwitchBot app, powered by the company’s locally trained AI model.\nAvailable in 7.3-, 13.3-, and 31.5-inch sizes, the frame fits into standard Ikea frames and runs on battery power, allowing for flexible placement. SwitchBot says it can last up to two years on a single charge.\nCuddly with a side of AI\nAnd finally, SwitchBot is bringing an actual robot to IFA — well, two. \nNoa and Niko are SwitchBot’s new AI pets, part of its Kata friends series. Described as soft-bodied household robots “designed for companionship,” videos of Noa and Niko show them flapping their arms and blinking their glowy blue eyes. They resemble fluffy penguins and, according to SwitchBot, they feature small wheels that allow them to move independently. \nThe company also says that the AI-powered bots can “recognize family members, respond to gestures and emotions, and show feelings such as happiness, sadness, or jealousy,” as well as learn your household routines.\nSwitchBot has not announced pricing or a release date for any of these products. However, given the company’s track record of turning ambitious prototypes — such as its multitasking CES robot — into real products, these gadgets have a high likelihood of making it to market. I’ll be getting hands-on time with all of them at IFA this week.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b85f1f7c4f4748d741864625e0184d65f9f74fce",
+      "title": "Tech companies ‘be on alert,’ NAACP says with new guiding principles for data centers",
+      "url": "https://www.theverge.com/exclusive/770650/data-center-ai-naacp-guiding-principles",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-04T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "One of the top civil rights organizations in the US is putting the tech industry \"on alert,\" issuing a call to action for communities to demand more accountability from companies building new data centers.\nElectricity demand is rising in the US for the first time in nearly two decades, thanks in large part to massive new data centers that are being built to support advancements in AI. Utilities and some tech companies are increasingly meeting that demand with fossil fuels that worsen air quality and exacerbate the climate crisis - prompting the NAACP to issue \"guiding principles\" to help local community members to fight back. \n\"No communit …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "663ca7ef305baa826f0c53921b8e332a85938b0c",
+      "title": "The best fitness trackers and watches we’ve tested",
+      "url": "https://www.theverge.com/22985108/best-fitness-tracker",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-04T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Fitness trackers have come a long way from the simple bands that tracked steps and little else. Modern trackers can monitor everything from your heart health to how well you’ve recovered from a hard bout of training. Even flagship smartwatches, which used to be lackluster trackers, have become pretty adept workout companions. Whatever your fitness goals are, there’s probably a fitness tracker that can help you achieve them.\nCompared to some other gadgets, wearables are incredibly personal, which means there are a few extra considerations you’ll have to take into account before reaching for your wallet. It makes it hard to say that any one fitness tracker is the best for everyone. Thankfully, the best thing about fitness trackers in 2025 is that there’s enough variety to fit into every kind of lifestyle. \nFeatured in this article\nBest budget option: Amazfit Active 2\nThe spiffy Amazfit Active 2 delivers outsized value for its budget-friendly price. It offers a wide array of health tracking features, built-in GPS, and up to 10 days of battery life.\n\nWhere to Buy:\n\n $99.99 at Amazon\n $99.99 at Walmart\n $99.99 at Amazfit\n\nBest for serious athletes: Garmin Fenix 7S Pro\nThe Fenix 7S Pro remains a great intro to Garmin’s platform. It features an updated optical heart rate sensor, excellent battery life, solar charging, and built-in multiband GPS.\n\nWhere to Buy:\n\n $899.99 $749.99 at Amazon\n $899.99 $749.99 at Best Buy\n $899.99 at Garmin\n\n\n\n\n\n\nBest fitness tracker overall\nBest fitness watch for casual users\nBest for serious outdoor athletes\nBest non-wrist tracker\nBest fitness band\nMost stylish fitness watch\nBest fitness tracker for iPhone users\nBest fitness smartwatch for Samsung phones\nBest fitness smartwatch for Android\nBest for early adopters and elite athletes\nWhat’s new\n\nBest fitness tracker overall\nAmazfit Active 2\nThe Amazfit Active 2 delivers outsized value for the price. It looks spiffy and has a wide array of health tracking features, plus built-in GPS and AI chatbots to provide extra context to your data.\n\n\nScore: 7\n\nProsCons\n\n\nStacked feature set for the price\nLooks spiffy\nGood battery life\n\nTouchscreen and voice commands are finicky\nCan’t edit workouts\nAI chatbots are meh\n\n\n\nWhere to Buy:\n\n $99.99 at Amazon\n $99.99 at Walmart\n $99.99 at Amazfit\n\nSize: 43mm w/ 20mm straps / Weight: 29.5g for standard, 31.7g for premium / Battery life: Up to 10 days / Display type: OLED touchscreen / GPS: Five GNSS systems / Connectivity: Bluetooth, Wi-Fi / Water resistance: 5ATM / Music storage: N/A\nHear us out: the Amazfit Active 2 is the best all-rounder on the block. Smartwatches are definitely getting more high-tech, but the Active 2 keeps the spirit of a humble fitness tracker — a good price, all the basic health features with a holistic tracking approach, and a comfy yet stylish design. At $99.99 for the standard version, and $129.99 for the premium version with a leather band, you get an incredible amount of bang for your buck. \nThe hardware and design are surprisingly chic for the price. The standard version has a stainless steel case and tempered glass screen, while the premium version bumps you up to sapphire crystal and gets you an extra leather strap. The screen itself is nice and bright at 2,000 nits and you get an estimated 10 days of regular use on a single charge. (In testing, I got closer to eight to nine days as a power-user.) European users also get NFC payments. \nAs far as health features go, you get all the basics like continuous heart rate monitoring, blood oxygen rate, heart rate variability, stress tracking, alerts for abnormally high and low heart rate, and skin temperature tracking. It’s also got a daily readiness score and detailed sleep tracking if you’re into recovery metrics. (There’s also a Zepp Aura AI chatbot if you ever want to get more in-depth insights into your recovery metrics; It costs an extra $77 yearly including taxes, but it’s also totally optional.) For workouts, it supports 160 different sport types, including HYROX and a new strength training mode that automatically counts reps. The Active 2 also adds offline maps, turn-by-turn directions, the ability to connect to third-party peripherals, and Zepp Coach — an AI-powered coach that can generate custom training plans for you. Built-in GPS with five satellite systems is also included.\nI don’t have a lot to complain about. My biggest gripes are the touch screen is hard to use with sweaty fingers and the onboard AI assistant for voice commands sometimes requires you to enunciate. You do lack advanced health features, like EKGs or sleep apnea detection, but that’s not really the point of something like the Active 2. This is meant to be a classic, basic fitness tracker that happens to look like a watch — and it does that with aplomb. \nRead my full Amazfit Active 2 review.\nBest fitness watch for casual users\nGarmin Venu Sq 2\nThe Garmin Venu Sq 2 is a great replacement for a Fitbit smartwatch. Not only do they look similar, but the Venu Sq 2 has way more fitness features, long battery life, and no subscription.\n\n\nScore: 8\n\nProsCons\n\n\nBright display\nLong battery life\nTons of training and health features\nNo subscriptions\n\nCluttered app\nProprietary USB-A charger\n\n\n\nWhere to Buy:\n\n $249.99 $188.69 at Amazon\n $249.99 $199.99 at Walmart\n $249.99 at Garmin\n\nSizes: 40mm w/ 20mm straps / Weight: 38g / Battery life: Up to 11 days / Display type: OLED touchscreen / GPS: All-systems GNSS / Connectivity: Bluetooth, Ant Plus / Water resistance: 5ATM / Music storage: 4GB (for Music Edition)\nThe $250 Garmin Venu Sq 2 is the watch I recommend for anyone looking to replace their aging Fitbit Versa 2, 3, or 4. It’s got a similar look and vibe, with a much nicer OLED display and longer battery life.\nGarmin is known for its comprehensive fitness tracking, and that’s not an exception here. Of course, you get the basics, like steps and calories burned, but you get a whole lot more, too. There’s built-in GPS for tracking walks, runs, and bike rides, as well as plenty of other sports profiles like yoga and strength training. For smart features, you get push notifications, timers, contactless payments, and a bunch of safety features like Garmin’s Incident Detection, which is its take on fall detection. (You will need to carry your phone with you, however, as this doesn’t have LTE.)\nIf you want the option of onboard music, you can shell out $50 extra for the Music Edition, which comes with enough storage for about 500 songs. I wouldn’t recommend it, however, as you’ll most likely have your phone on you since this isn’t a true standalone watch.\nWhat I like most about this watch, however, is that it’s one that you can grow with. On top of recovery metrics and sleep tracking, it also has Garmin Coach — a built-in, free training program for beginner and intermediate-level runners hoping to tackle a 5K, 10K, or half marathon. For health tracking, you can monitor heart rate, blood oxygen, intensity minutes (how many minutes of moderate exercise you get per week), stress, hydration, respiratory rate, and menstrual cycles. None of these existing data features are locked behind a paywall; however, Garmin introduced a premium tier earlier in the year that provides personalized AI-powered insights and additional features for $6.99 a month (or $69.99 a year).\nOne note: there is a Venu 3, which adds a newer heart rate sensor and nap detection. I liked it quite a bit, and it ticks off a lot of the right boxes — except for price. It’s $450, which puts it outside what I’d consider ideal for casual users. Another option is Garmin’s Forerunner 165 — it’s a $249 budget training watch that’s quite similar to the Venu Sq 2 feature-wise, albeit with a sportier vibe. \nBasically, go with what you find within your budget. I firmly believe older models are still a good choice if all you want is the fitness-tracking basics. This is especially true since newer software updates often make their way to older Garmins. Garmin users also tend to hang onto their devices for a good while. Strava’s 2023 year-end survey found that the most popular smartwatch among its users was an eight-year-old Garmin!\nRead my full review Garmin Venu Sq 2 review.\nBest for serious outdoor athletes\nGarmin Fenix 7S Pro\nLike the Garmin Epix Pro, the Fenix 7 Pro line has an updated optical heart rate sensor for improved accuracy. It also has excellent battery life, a slightly brighter MIP display, solar charging, and the option of upgrading to sapphire crystal.\n\n\nScore: 8\n\nProsCons\n\n\nHands-free flashlight\nLong battery life\nMultiband GPS\nUpgraded heart rate monitor\n\nThe improved MIP display is still not the easiest to read in dim lighting\nToo similar to the standard Fenix 7\n\n\n\nWhere to Buy:\n\n $899.99 $749.99 at Amazon\n $899.99 at Best Buy\n $899.99 at Garmin\n\nSizes: 7S Pro: 42mm w/ 20mm straps; 7: 47mm w/ 22mm straps; 7X: 51mm w/ 26mm straps / Weight: 7S Pro: 63g (Solar), 58g or 65g (Sapphire Solar, titanium or stainless steel); 7: 79g (Solar), 73g (Sapphire Solar); 7X: 96g (Solar), 89g (Sapphire Solar) / Battery life: 7S: up to 11 days, 14 w/ Solar; 7: up to 18 days, 22 days w/ solar; 7X: up to 28 days, 37 w/ solar / Display type: MIP touchscreen / GPS: All-systems GNSS and dual-frequency GPS / Connectivity: Bluetooth, Ant Plus, Wi-Fi / Water resistance: 10ATM / Music storage: Up to 32GB\nGarmin’s Fenix 7 series is no joke, and the Fenix 7 Pro lineup takes it up a notch. It’s got built-in multiband GPS, solar charging on all models, the option of touchscreen or button navigation, topographical maps, and oodles upon oodles of data. Plus, every Fenix 7 Pro model has a hands-free LED flashlight, an upgraded heart rate sensor, and an improved memory-in-pixel display that’s slightly easier to read in low lighting.\nGarmin wearables are also known for providing extensive in-depth metrics, and the Fenix 7 Pro lineup is no exception. You get excellent recovery metrics as well as helpful training guides and coaching programs. The best part is that Garmin doesn’t charge extra for those features. That’s good news, as these are expensive watches.\nI appreciate how quickly these Fenix 7 watches can pick up a GPS signal. That’s a must if you’re training in the dead of winter. These watches can also take a beating. All models are built to military-grade standards and feature up to 10ATM of water resistance. That means they’re more than capable of a dunk in the ocean.\nAlthough the screen is brighter, MIP displays still aren’t my absolute favorite — the OLED on the Garmin Epix 2 and the Epix Pro are much easier on the eyes. It’s admittedly tough to pick between the Fenix 7, Fenix 7 Pro, Epix 2, and Epix Pro lineups — especially now that the Epix Pro also has great battery life, the LED flashlight, and now comes in multiple sizes. What it boils down to is whether you prioritize a brighter display, longer battery life, or price.\nPersonally, I prefer the Epix Pro for better readability, but the Fenix 7 Pro is the better choice if this is your first introduction to Garmin’s platform. You’ll get better battery life, the same LED flashlight, all the same training features, and a lower starting price. You should also consider Garmin’s Forerunner 570 and Forerunner 970, which were released in late May for $547.99 and $749.99, respectively. \nBoth watches have an OLED screen, built-in microphone and speaker system, skin temperature sensors, and the ability to generate a daily report that includes information about your upcoming workouts, events, estimated sleep needs, and the weather. The new watches also support Garmin Coach, a free tool that helps you train for fitness events like marathons. The 970 has three exclusive fitness features called running tolerance, running economy, and step speed loss, which analyze your running efficiency and give you suggestions on how many miles to run each week. Some of these features require Garmin’s $170 HRM 600 chest strap, which provides non-wrist-based heart rate metrics. (You can check out our Garmin buying guide if you’d like even more alternatives.)\nTechnically, there’s the Fenix 8 series on the block. That said, I still think the standard Fenix 7 or 7 Pro lineup is the better overall value. The Fenix 8 adds diving features and voice assistant capabilities, but it also ups the standard Fenix 7’s starting price of $650 by an additional $350. That’s tough to swallow, especially since retailers may offer discounts on older models to get rid of existing inventory.\nRead my full Garmin Fenix 7S Pro review.\nBest non-wrist tracker\nOura Ring 4\n\n\nScore: 9\n\nProsCons\n\n\nMore sizes\nSlimmer design\nExpanded auto workout detection\nRedesigned app\nBetter battery life\n\nSubscription required to get all features\nI still wish this had a charging case\n\n\n\nWhere to Buy:\n\n $349 at Amazon\n $349 at Best Buy\n $349 at Oura\n\nSizes: 12 proprietary sizes, 4–15, sizing kit needed / Weight: 4–6g (depends on size) / Battery life: Up to seven days / Display type: None / GPS: None / Connectivity: Bluetooth / Water resistance: Up to 328 feet / Music storage: None\nThe vast majority of fitness trackers are worn on the wrist, but the $349 Oura Ring isn’t. The smart ring is a good option for people who are looking for something a little more discreet. It’s also less distracting than some other wrist-based options, as it lacks a screen and doesn’t mirror push notifications from your phone. \nThe Oura Ring 4 isn’t functionally that much different from the previous Gen 3. It’s slimmer, features a all-titanium design, has improved battery life, and has an updated sensor algorithm that Oura says is more accurate. None of these software features are gatekept to the Ring 4, so Gen 3 owners shouldn’t feel the need to upgrade unless their ring no longer lasts more than two days on a single charge. That said, the fourth-gen ring has an expanded size range spanning from 4 to 15. If you felt your Gen 3 was a bit snug or couldn’t find a size that fit right, you may have a better option now.\nWhile smaller than your average wearable, the Oura Ring still tracks a ton of metrics, including heart rate variability, body temperature, blood oxygen, all-day heart rate monitoring, and cycle tracking. Since launching, the Oura Ring has also added activity tracking, blood oxygen levels, chronotypes to help visualize your circadian rhythms, a social feature called Circles, improved stress tracking, and cardiovascular age and capacity metrics. \nMore recently, it’s added an AI chatbot, meal logging, and glucose tracking, though you’ll have to purchase a $99 Dexcom Stelo CGM to take advantage of the latter. It’s rolled out a more accurate sleep stages algorithm as well, and the app has been entirely revamped to better organize these features and metrics. An update that rolled out in May improved its step-tracking accuracy by using an algorithm that can better detect when movement is the result of a step. The same update improved its calorie burn estimates by using heart rate measurements to determine the intensity of your workouts.\nThe Oura Ring tracks typical metrics — such as steps and calories burned —  but its main focus is sleep and recovery. Each day, you’re given three sets of scores for your readiness, sleep, and activity. It’s a simple, holistic look at your overall wellness and an ideal pick if you want a more hands-off experience with your data.\nIf you’ve got a Samsung Galaxy Watch, you may want to consider the $399.99 Galaxy Ring. It’s a bit more expensive than the base Oura Ring, but it doesn’t come with a subscription, and you get much better battery life when used with the Galaxy Watch. The hardware is also excellent, especially the charging case. That said, this is only an option for Android users, and even then, you don’t unlock its full potential unless you’ve got other Samsung gear. I also recommend the $349 Ultrahuman Ring Air for folks who don’t like the idea of Oura’s monthly subscription.\nYou can read my experiences with a bunch of other smart rings, but right now, the Oura Ring is the most polished with the best overall experience.\nRead my full Oura Ring 4 review.\nBest fitness band\nAmazfit Band 7\nThe Amazfit Band 7 offers a lot of features for the price, including an OLED display, long battery life, and features like abnormal heart rate notifications.\n\n\nScore: 7\n\nProsCons\n\n\nSuper affordable\nGood feature set for the price\nOLED display looks nice\nComfortable and lightweight\nLong battery life\n\nHard to put on one-handed\nSome app quirks\nGPS can be wonky\n\n\n\nWhere to Buy:\n\n $49.98 at Amazon\n $49.99 at Amazfit\n $49.99 at Best Buy\n\nSize: 42mm x 24mm x 12.2mm with 16mm straps / Weight: 28g / Battery life: Up to 18 days / Display type: OLED / GPS: Tethered / Connectivity: Bluetooth / Water resistance: 5ATM / Music storage: None\nIt’s truly hard to beat the Amazfit Band 7’s $49.99 price — doubly so since you can often find it on sale for even less. Wearing the Band 7 feels like a throwback to 2014, which is great if all you’re looking for is a simple and casual tracker that won’t break the bank.\nNo one is going to compliment you on the Band 7’s design, but it’s got a handful of cute watch faces that make good use of its OLED touchscreen. And despite having an OLED display, you’ll still get roughly 14 days of battery life on a single charge. It’s also incredibly lightweight, making it a good option for sleep tracking as well.\nYou also get an absurd number of features for the price. That includes Amazon Alexa, continuous heart rate monitoring, blood oxygen monitoring, stress tracking, advanced sleep tracking, training metrics like VO2 max and load, abnormal heart rate alerts, menstrual tracking, push notifications, find my phone, a camera remote, and even a Pomodoro timer. You’re sacrificing contactless payments and will have to settle for tethered GPS, but this is a fair tradeoff considering everything else you’re getting. It’s not the best option for hardcore fitness tracking, but this is a great option if all you’re looking to do is casually track activity and your steps.\nAmazfit’s been making surprisingly good budget trackers for a while. That said, if you’re a little wary of a lesser-known brand, the $159.95 Fitbit Charge 6 is a decent alternative. It’s pricier, but you get a lot of what Amazfit is missing. That includes Google services like YouTube Music, Google Wallet, and Google Maps. Plus, it has built-in GPS and the ability to broadcast your heart rate with some Bluetooth-compatible gym equipment.\nRead my full Amazfit Band 7 review.\nMost stylish fitness watch\nWithings ScanWatch Light\nThe Withings Scanwatch Light is a hybrid analog smartwatch that tracks the basics like steps and activities, while delivering up to 30 days of battery life.\n\n\nScore: 7\n\nProsCons\n\n\nLong battery life\nAlso gets you lots of compliments\nComfortable to wear\nGreat price\nAdds period tracking\n\nHas fewer sensors than the ScanWatch 2\nAgain, the OLED display is tiny\n\n\n\nWhere to Buy:\n\n $249.99 at Amazon\n $249.99 at Target\n $249.95 at Withings\n\nSizes: 37mm with 18mm straps  / Weight: 45g / Battery life: Up to 39 days / Display type:  OLED display / GPS: Tethered GPS / Connectivity: Bluetooth / Water resistance: 5ATM / Music storage: N/A\nThe $249.95 Withings ScanWatch Light is a fetching hybrid analog smartwatch. Think of it as a dressier fitness band with some Swatch-like design sensibilities. It’s got all your basics like simple push notifications, timers, and alarms. Plus, you can track steps, sleep, menstrual cycles, and GPS activities straight from the wrist. It looks spiffy on the wrist, and if you like a pop of color, Withings offers minty green and pale blue color options. It’s also got excellent battery life, with an estimated 30 days on a single charge. I got a little less in testing at around 25 days, but that’s still much better than the vast majority of flagship smartwatches. This also looks way more stylish than beefier multisport watches with similar battery life.\nAs its name suggests, the Light is a pared-down version of the $369.95 ScanWatch 2. The main things you’re missing are an EKG sensor for atrial fibrillation detection, a temperature sensor, blood oxygen tracking, and an altimeter for tracking elevation. For basic fitness tracking, you don’t really need those sensors. That’s why I think the extra $100 in savings is worth it for the Light, especially since both are lacking in safety features, contactless payments, and some other bells and whistles you can get from other watches in the $350 price range. That said, if you want extras, the ScanWatch 2 also gets you a slightly more elegant look thanks to the second step-counter dial.\nAnother option I like is the $179.99 Garmin Vivomove Sport, which actually dominated this category in the past few years. It’s hard to beat the price, especially since it gets you access to Garmin’s platform. However, Garmin’s “hidden” OLED display can get washed out in bright lighting, and battery life was significantly shorter than other hybrid analog watches at around five days. Still, if you’d prefer a platform with a focus on fitness rather than wellness, the Vivomove Sport may be the better move over a Withings watch.\nRead my full reviews of the Withings ScanWatch 2 and Light.\nBest fitness tracker for iPhone users\nApple Watch Series 10\nThe Apple Watch Series 10 has a larger, wide-angle OLED display with up to 30 percent more screen area. It’s thinner and lighter than its predecessors, yet it charges faster and features the same fitness and wellness features.\n\n\nScore: 8\n\nProsCons\n\n\nBigger display but not bulky\nWide-angle OLED is neat\nMuch faster charging\nSleep apnea detection has potential\n\nLack of blood oxygen (in US) may impact your upgrade plans\nAnother year of minor updates\n\n\n\nWhere to Buy:\n\n $399 $329 at Amazon\n $399 $329 at Walmart\n\nSizes: 42mm, 46mm / Weight: 29.3g (42mm), 35.3g (46mm) / Battery life: Up to 18 hours / Display type: Always-on LTPO OLED / GPS: Built-in GPS, plus GLONASS, Galileo, QZSS, Beidou / Connectivity: LTE (optional), Bluetooth, Wi-Fi / Water resistance: Up to 50 meters / Music storage: 32GB\nIf you’re looking for a smartwatch that does fitness well, then iPhone owners need to look no further than the $399 Apple Watch Series 10. (The LTE version costs $50 more.) This is another iterative update, but the Series 10 is a much more comfortable watch than previous models. It’s thinner and lighter, plus there’s a larger display. If you’ve got a Series 5 or older, now is a good time to upgrade.\nWatchOS 11, which was released in September 2024, included a suite of training features. There’s Training Load, which gives you greater insight into how intensely you’ve been working out the past week compared to the last 28 days. There’s also a Vitals app that flags when key metrics, like sleep duration or heart rate, may be out of whack. Plus, you can finally pause your rings for rest days. The software update also brought some savvy updates to the Smart Stack. For example, if you’re in a noisy cafe wondering what song’s playing, the Smart Stack can surface the Shazaam widget. It also supports Live Activities, turning your wrist into a mini Dynamic Island. Health-wise, we also have FDA-cleared sleep apnea detection.\nApple announced new fitness features that will be available in watchOS 26 (out this fall), which the Series 10 and other recent models will support. To name some highlights coming, the Workout app has been redesigned with corner buttons that serve as shortcuts. There’s also a new Apple Intelligence feature called “Workout Buddy,” which generates a persona to give you pep talks, insights, and advice based on your fitness data. Workout Buddy will only be available if you have an iPhone that’s compatible with Apple Intelligence (iPhone 15 Pro or newer) nearby and if you’re wearing Bluetooth headphones. For more details about WatchOS 26, you can read my overview of the first public beta.\nRecently, Apple was able to reintroduce blood oxygen monitoring to the Apple Watch Series 10 via a software update. Previously, a ban introduced by medical device maker Masimo required Apple to disable the feature on Apple Watches sold in the US after January 18th, 2024. Now, data collected by the Apple Watch will be measured and calculated on the iPhone paired to it, and it will be accessible in the Health app. The data won’t be available on your wrist, but you can still access it pretty easily. That said, this feature isn’t that useful for most people yet, and the Apple Watch’s sleep apnea feature exclusively uses the accelerometer rather than the blood oxygen sensor. \nIf you’re a first-time buyer, you may want to opt for the second-gen Apple Watch SE. It’s slightly cheaper at $249, and while you don’t get as many features, it’s a good introduction to the ecosystem. Otherwise, if you’re the type of athlete who covets a Garmin, you may also want to consider splurging on the Apple Watch Ultra 2. It’s more expensive at $799, but it has the brightest screen of any Apple Watch, comes with dual-frequency GPS, has diving and hiking safety features, and is made of more durable materials. \nRead my full Apple Watch Series 10 review.\nBest fitness smartwatch for Samsung phones\nSamsung Galaxy Watch Ultra\nThe Samsung Galaxy Watch Ultra is targeted at more outdoorsy folks with dual-frequency GPS, a new multisport activity, an emergency siren, and increased durability.\n\n\nScore: 7\n\nProsCons\n\n\nLonger battery life than the regular Galaxy Watch\nDouble pinch is useful\nAdds dual-frequency GPS and sleep apnea detection\nCheaper than the Apple Watch Ultra\n\nWhere is Samsung in this? \nThe squircle chonk doesn’t fit small wrists\nSleep apnea feature is limited to Galaxy phones\nAGEs metric is baffling\n\n\n\nWhere to Buy:\n\n $649.99 at Samsung\n $649.99 at Best Buy\n\nSizes: 47mm / Weight: 60.5g / Battery life: Up to 100 hours / Display type: Always-on OLED / GPS: Built-in GPS / Connectivity: LTE (optional), Bluetooth, Wi-Fi / Water resistance: 10ATM, IP68 / Music storage: 32GB\nTruthfully, the Samsung Galaxy Watch Ultra left me a bit disappointed after reviewing it — not because it’s a bad piece of hardware, but because it copies a bit too much from Apple. Even so, this is the most full-featured fitness smartwatch a Samsung phone owner can buy.\nSamsung recently released the Galaxy Watch 8, with an all-new squircle design that may seem controversial at first, but allowed Samsung to make the smartwatch slimmer than its predecessor. It also sits flatter against your skin, which made it more comfortable to wear. I preferred the Galaxy Watch 7 over the Ultra for casual fitness tracking and wearability, and that’s still true with the Watch 8, but the improvements over the previous generation aren’t significant. Its battery is barely bigger, and its brighter screen (up to 3,000 nits vs. 2,000) didn’t make a big difference even in direct sunlight.\nThere’s a new Vascular Load feature, which measures how stressed your vascular system is while you sleep, but it doesn’t give a reason why this metric is important. Its Antioxidant Index, which gauges whether you’ve eaten enough fruits and vegetables, can help encourage you to eat more healthily when creating a new diet. \nIn testing, the sensor works by using blue, yellow, and infrared LEDs to pick up the carotenoid levels in your skin. Carotenoids are an antioxidant that gives fruits and vegetables their color. The sensor could be fooled by pressing any colorful objects — a piece of broccoli, blackberry (which exploded), marker-colored finger, and Cheeze-It — against it. I did find its Running Coach feature, which creates a training regimen based on your performance after a 12-minute run, to be helpful. Its assessment of my current fitness level was fair, and the workouts it suggested were well-structured.\nAs far as AI is concerned, the Galaxy Watch 8 has Google Gemini, which was hit or miss in my testing. It couldn’t send a message in Slack, and the K-pop-inspired running playlist it created had a few songs outside that genre, but it’s handy if you want to use Google’s AI on your wrist rather than taking out your phone. Google Gemini support is one feature of One UI 8 (Samsung’s fork of Wear OS 6, Google’s latest wearable operating system), which also includes Material 3 Expressive, a redesign optimized for circular watches. Live updates, which let you track things like deliveries, rideshares, and information from navigation apps, will also be coming in 2026. Samsung’s One UI 8 also came to the Galaxy Watch Ultra as a software update.\nHowever, there’s still a significant gap between the Galaxy Watch 8 and the Ultra in my testing as far as accuracy, especially for GPS tracking. And what really sealed the deal for me was the difference in battery life. (The gaps are much less egregious between the base Apple Watch and Ultra 2.) The caveat is, if all you want is casual fitness tracking, the Galaxy Watch 8 is the better choice for wearability. It’s just more comfortable for sleep tracking and lighter overall. Just keep in mind it lacks the Ultra’s emergency siren and shortcut button.\nBoth watches have the same processor, a 3-in-1 BioActive Sensor, some AI health features, and FDA-cleared sleep apnea detection. The hardware in both current-generation Galaxy smartwatches makes for a more future-proof purchase, but I found the AI health features to be hit-or-miss in practice. As always, some features, like EKGs and sleep apnea detection, are limited to Samsung owners. That makes this hard to wholeheartedly recommend this to non-Samsung Android users.\nSamsung Galaxy Watch 8\nSamsung’s latest smartwatch features a new squircle design, Gemini, and some new health features like an Antioxidant Index and Running Coach.\n\nWhere to Buy:\n\n $349.99 $299 at Samsung\n $349.99 at Best Buy\n $349.99 at Amazon\n\nIf the Ultra doesn’t float your boat, now is a good time to find the Galaxy Watch 7 series, particularly the base models, on sale. The base Galaxy Watch 8 is not a massive update over the Watch 7 as far as actual use goes.\nRead my full Samsung Galaxy Watch Ultra review.\nBest fitness smartwatch for Android\nPixel Watch 3 (41mm, Bluetooth)\nThe Pixel Watch 3 adds a host of new fitness features, brighter screens, and nifty Google integrations.\n\n\nScore: 8\n\nProsCons\n\n\nWe finally get a bigger size!\nModerate battery improvements\nLots of neat Google integrations\nGood running updates\nReadiness and Cardio Load scores not locked behind paywall\n\nIt’s best with a Pixel phone\n\n\n\nWhere to Buy:\n\n $349.99 $249 at Amazon\n $349.99 $249.99 at Best Buy\n $349.99 $249.99 at Google\n\nSizes: 41mm, 45mm / Weight: 31g / Battery life: Up to 24 hours / Display type: Always-on OLED / GPS: Built-in GPS / Connectivity: LTE (optional), Bluetooth, Wi-Fi / Water resistance: 5ATM / Music storage: 32GB\nGoogle has added so many updates to the Pixel Watch 3 that there’s too many to call out individually. However, they fall into two buckets: refinement and expansion. The hardware is mostly the same as the Pixel Watch 2 in terms of design. However, we now have a brighter screen, smaller bezels, and a new 45mm size. The larger size is quite nice, especially if you prefer larger screens without sacrificing wearability.\nBattery life is also better. There’s a new battery-saver mode that kicks in when you hit 15 percent, and the new displays are also more power efficient. Plus, bedtime mode is automatic now, so that helps the watch last longer overnight for sleep tracking. It’s only a modest improvement over the Pixel Watch 2, but it’s dramatic compared to the original.\nSoftware is where the Pixel Watch 3 makes the most updates. There are a ton of new fitness and health features, including a new running dashboard, custom running workouts, and AI-generated workout suggestions. There’s also a revamped Daily Readiness Score and a new Cardio Load metric, which gauges how intensely you’ve been exercising. If you’re located in the US or Europe, you can also take advantage of Google’s new Loss of Pulse feature, which calls emergency services on your behalf if it detects you no longer have a pulse.\nThe Pixel Watch 3 also better integrates with Google services and the Pixel ecosystem. You can now view your Nest Doorbell or Camera feed straight from the wrist — and it’s quite handy if you get a lot of packages or guests. If you have Google TV, you can use the watch as a remote. Now that the watch has an ultra wideband chip, it can also now unlock your Pixel phone. You can also use the Recorder app to capture audio and send it straight to your Pixel phone.\nThat said, some of these features now mean the Pixel Watch works best with a Pixel phone. If you’re looking for alternatives to Google and Samsung, the $329.99 OnePlus Watch 3 was released on July 8th. We’ve gone hands-on with the smartwatch and are pleased that it finally has a rotating crown, larger brighter display, better battery life, and faster charging. It also introduces new health features, including a wrist temperature sensor and OnePlus’ 60S Health Check-In, which gives you a quick scan of your heart rate, blood oxygen levels, mental wellness, wrist temperature, sleep quality, and vascular age when you touch a side button.\nRead my full Google Pixel Watch 3 review.\nBest for early adopters and elite athletes\nWhoop MG\nThe new Whoop MG features the ability to take EKGs and get beta blood pressure insights. It comes with the premium Whoop Life subscription.\n\n\nScore: 6\n\nProsCons\n\n\nGood hardware and software upgrades\nMore affordable — kind of\nStreamlined app design\nBetter battery life\n\nWhoop Age will be my villain origin story\nThe clasp still befuddles\nThat whole upgrade debacle\nStraps are not backward-compatible\nIt adds up to fresh paint on the same product\n\n\n\nWhere to Buy:\n\n $359 at Amazon\n $359 at Whoop\n $359 at Best Buy\n\nSizes: 34.7 mm x 24 mm x 10.6 mm / Weight: 27g / Battery life: Up to 14 days / Display type: None / GPS: None / Connectivity: Bluetooth / Water resistance: Up to 10 meters / Music storage: None\nThe Whoop MG isn’t a huge departure from the Whoop 4.0, which I reviewed previously, but it’s still the best choice for elite athletes. Its buckle still annoyed me, and bands from the previous generation are incompatible with this model, though Whoop will give you a credit for trading in your current bands. Its processor is 60 percent faster but I didn’t feel any difference in day-to-day use, save for faster data syncing with Whoop’s app. I did notice the bump in battery life from five to 14 hours, Whoop’s redesigned app, and a handful of new health and wellness features.\nA key part of the Whoop MG’s appeal is the dense daily reports on your health and wellness accessible within its app. They verge on overwhelming, with an emphasis on how much activities have strained your body. The new Whoop Coach (an AI-powered chatbot) summarizes information about your sleep duration, activity, and heart rate to give you advice on hitting the fitness goals you selected during setup. \nSimilarly, a feature called Healthspan calculates your Whoop Age based on three weeks worth of sleep, exercise, steps, VO2 Max, heart rate, and lean body mass data. It’ll update your Whoop Age weekly after its first assessment, but be mindful that it discounts factors like genetics, your environment, and lifestyle, which significantly impact the rate your body actually ages. \nThe Whoop MG has an FDA-cleared EKG reader, and can send you notifications if it detects atrial fibrillation. It can also give you blood pressure insights, but is currently in beta. Whoop Advanced Labs is an upcoming service that will let you send in a blood test to be reviewed by clinicians to give you even more health insights. If you like the distraction-free design of a smart ring, but want your wearable on your wrist instead of your finger, consider the Whoop MG.  \nRead my Whoop MG review\nWhat’s new\nGoogle announced the Pixel Watch 4 at its Made by Google event on August 20th. The smartwatch comes in 41mm and 45mm sizes, starts at $349.99, and begins shipping on October 9th. The Pixel Watch 4 has a brighter screen with smaller bezels and a greater viewing area. Google says its battery lasts 20 or 30 hours per charge depending on which model you choose and that charging speeds are about 25 percent faster compared to the Pixel Watch 3. It also says that both the display and battery are replaceable. The Pixel Watch 4 launches with Wear OS 6, which includes support for Google Gemini and has more rounded widgets that match the watch’s circular shape while also being more glanceable. The watch has a new dual-frequency GPS and Satellite SOS feature, which allows you to use an LTE version of the Pixel Watch 4 to call emergency services even if your smartphone isn’t with you. Read our hands on.\nApple revealed it will be holding an event on September 9th. Historically, Apple has used its September events to debut its next-generation iPhone and Apple Watch models. While we don’t have specific details, it’s possible the Apple Watch, Apple Watch SE, and Apple Watch Ultra lines will all be refreshed. A rumor first reported by MacRumors suggests the Apple Watch Ultra 3’s screen may get a little larger.\nPolar is launching a competitor to the Whoop strap called the Polar Loop on September 10th for $199.99. Polar says the fitness band doesn’t have a screen, lasts up to eight days per charge, and tracks your activity, sleep, and heart rate. The fitness band won’t require a subscription to access any data. \nUpdate, September 4th: Adjusted pricing / availability and information about the Google Pixel Watch 4, Garmin Forerunner 570 and 970, the reintroduction of Blood Oxygen reading on the Apple Watch Series 10, new Oura Ring 4 features, and information about Apple’s upcoming event and the announcement of the Polar Loop. Brandt Ranj also contributed to this post.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "76528b4e6f2a0f55c4f5df2dea45df9d328fae5d",
+      "title": "Welcome to Optimizer, our relentless quest to live a smarter, healthier life",
+      "url": "https://www.theverge.com/optimizer-newsletter/769130/optimizer-newsletter-gadgets-apps-wearable-health",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-04T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Every year, I sit in these fancy amphitheaters and watch the biggest names in tech promise how their latest phone, smartwatch, app, chatbot, or doohickey will make our lives better. This calendar app? It's going to make you more efficient. This smartwatch? Get ready for six-pack abs and a sub-four-hour marathon time. AI on your phone will give you so much of your time back that, buddy, you won't know what to do with it.\nAnd then I get these shiny new inventions sent to me. I open boxes, download apps, interview founders, and get to testing. Sometimes, these things truly do make my life better. Other times, they send me spiraling thanks to d …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d335af194891244455fd6d2ce4fc198a2c550649",
+      "title": "Starmer considering digital ID scheme to tackle illegal migration",
+      "url": "https://www.bbc.com/news/articles/c5y5379djl3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-04T14:59:42.000Z",
+      "summary_90w": "",
+      "raw": "The prime minister says the proposal could play an important part in tackling illegal working in the UK.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "32f54c95784ba164002ef372212e16d838b60737",
+      "title": "Macron says ‘Coalition of the Willing’ will finalise ‘robust’ Ukrainian security guarantees – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/04/ukraine-russia-security-guarantees-coalition-of-the-willing-paris-europe-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-04T14:49:48.000Z",
+      "summary_90w": "",
+      "raw": "Leaders who are gathered in Paris are expected to speak to Donald Trump this afternoon\nThe Dutch prime minister Dick Schoof is next.\nBelgium’s Bart de Wever, Finland’s Alexander Stubb, and the EU’s Ursula von der Leyen and António Costa are the first leaders arriving at the Élysée Palace, welcomed by Macron on the doorstep.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -42,27 +211,14 @@
       ]
     },
     {
-      "id": "a51907517ab25be81c74dd53d622d1f45eeb92ab",
-      "title": "Head of UK's Turing AI Institute resigns after funding threat",
-      "url": "https://www.bbc.com/news/articles/c8rvx85z3z7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-09-04T14:44:29.000Z",
-      "summary_90w": "",
-      "raw": "Dr Jean Innes is stepping down after the government told the charity to focus on defence research.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "b69360617dad9b27a8310dfe5316c24ee66ea5cd",
-      "title": "Surgeon admits fraud over amputation of own legs",
-      "url": "https://www.bbc.com/news/articles/c5yvpx20le2o?at_medium=RSS&at_campaign=rss",
+      "id": "c7ceeb2271006880c81c54f7d48504fac294db3d",
+      "title": "Swinney sets out latest plan for an independence referendum",
+      "url": "https://www.bbc.com/news/articles/cy4rlxz2kz0o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-04T14:40:17.000Z",
+      "published": "2025-09-04T14:43:39.000Z",
       "summary_90w": "",
-      "raw": "Neil Hopper claimed that injuries to his legs were the result of sepsis and not self-inflicted.",
+      "raw": "The first minister says a majority of SNP MSPs at Holyrood should be the trigger for a new vote.",
       "topics": [
         "World"
       ]
@@ -75,22 +231,9 @@
       "source_name": "The Verge",
       "published": "2025-09-04T14:39:46.000Z",
       "summary_90w": "",
-      "raw": "Hollow Knight: Silksong launched today, and immediately afterward the major video game storefronts were struggling to stay online. Shortly after Silksong’s 10 AM ET release time, Steam, the Nintendo eShop, Xbox, and PlayStation all displayed error messages or failed to load entirely.\nHollow Knight: Silksong is one of the most anticipated indie releases in recent memory. Its gravitational pull has been so strong, several other indie games releasing around the same time as Silksong have delayed their games to get out of its way. Compounding the feverish anticipation is the fact that Team Cherry is selling Silksong for essentially nothing — it’ll only cost $20 in an environment where big-time publishers are floating $80 and $90 new releases.\nThe hype for Silksong has also been a boon to the original Hollow Knight. In the days before Silksong’s release, Hollow Knight has gotten a significant bump on the Steam charts, boasting its highest concurrent player count ever, seven years after its release in 2017. Silksong has already beaten Hollow Knight’s record, as SteamDB reports there are over 100,000 concurrent players. That number will only grow as players continue to trickle in as Steam and the other gaming storefronts start functioning normally again.",
+      "raw": "Hollow Knight: Silksong launched today, and immediately afterward the major video game storefronts were struggling to stay online. Shortly after Silksong’s 10 AM ET release time, Steam, the Nintendo eShop, Xbox, and PlayStation stores all displayed error messages or failed to load entirely.\nHollow Knight: Silksong is one of the most anticipated indie releases in recent memory. Its gravitational pull has been so strong, several other indie games releasing around the same time as Silksong announced delays to get out of its way. Compounding the feverish anticipation is that Team Cherry is selling Silksong for essentially nothing — it’ll only cost $20 in an environment where big-time publishers are floating $80 and $90 new releases.\nThe hype for Silksong has also been a boon to the original Hollow Knight. In the days before Silksong’s release, Hollow Knight has gotten a significant bump on the Steam charts, boasting its highest concurrent player count ever, seven years after its release in 2017. Silksong has already beaten Hollow Knight’s record, as SteamDB reports there are over 100,000 concurrent players. That number will only grow as players continue to trickle in as Steam and the other gaming storefronts start functioning normally again.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "32f54c95784ba164002ef372212e16d838b60737",
-      "title": "Macron says ‘Coalition of the Willing’ will finalise ‘robust’ Ukrainian security guarantees – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/04/ukraine-russia-security-guarantees-coalition-of-the-willing-paris-europe-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-04T14:38:56.000Z",
-      "summary_90w": "",
-      "raw": "Leaders who are gathered in Paris are expected to speak to Donald Trump this afternoon\nThe Dutch prime minister Dick Schoof is next.\nBelgium’s Bart de Wever, Finland’s Alexander Stubb, and the EU’s Ursula von der Leyen and António Costa are the first leaders arriving at the Élysée Palace, welcomed by Macron on the doorstep.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -224,58 +367,6 @@
       ]
     },
     {
-      "id": "d4bf03e3a4fd851d83e7f738b360ac9fc35bf456",
-      "title": "Annual Paramount Plus subscriptions are half off until September 18th",
-      "url": "https://www.theverge.com/tech/771361/paramount-plus-essential-premium-annual-subscription-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-04T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The deal includes both the Essential and Premium plans.\t\n\nIf your plan to combat the post-summer blues is binge-watching TV shows, movies, and sports, Paramount Plus is offering a great deal. New and returning subscribers can save 50 percent on an annual subscription to its Paramount Plus Essential and Paramount Plus Premium plans until September 18th. The deal knocks the annual price of an Essential plan to $29.99 (from $59.99) and the cost of a Premium plan to $59.99 (from $119.99). These plans will renew at its full price next year if you continue your subscription. \nParamount Plus Essential (annual subscription)\nThe ad-supported Paramount Plus Essential plan provides access to a wide variety of shows and films, including Tales of the Teenage Mutant Ninja Turtles, the entire Yellowstone catalog, Top Gun: Maverick, and Bob Marley: One Love. \n\nWhere to Buy:\n\n $59.99 $29.99 at Paramount Plus\n\n\nParamount Plus Premium (annual subscription)\nParamount Plus Premium grants you ad-free access to movies and shows from the Paramount Plus and Showtime Originals libraries, including Star Trek: Strange New Worlds, Yellowjackets, and Top Gun: Maverick.\n\nWhere to Buy:\n\n $119.99 $59.99 at Paramount\n\nBoth plans include access to a library of over 40,000 episodes of TV and movies, along with the ability to watch NFL and UEFA Champions League games live on up to three devices simultaneously. The Essentials plan is “ad-supported,” while the Premium plan is ad-free (except when watching live TV), and includes the ability to stream TV shows and movies in 4K with HDR, download content for offline viewing, and access the full Showtime Originals library (Essentials subscribers get limited access). Premium subscribers can also stream CBS live 24/7. \n\nThese discounts line up with the beginning of the NFL season, but you don’t have to love football to subscribe. You can stream South Park, Star Trek: Strange New Worlds, Criminal Minds Evolution, Sonic the Hedgehog 3, Gladiator II, Transformers One and hundreds of other classic and contemporary TV series and movies. Premium subscribers can watch Showtime Originals, including Yellowjackets, Dexter Resurrection, and The Chi. \nBoth Paramount Plus subscriptions are a solid deal at their discounted prices, but remember to set a reminder in your phone for around the time they’ll renew so you can assess whether you want to continue paying for them at full price.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "3d0249c471593ab101f3bf77c13fe3f1b6aa1a4d",
-      "title": "Ecovacs claims its fast-charging robovac can clean nonstop",
-      "url": "https://www.theverge.com/news/770205/ecovacs-deebot-omni-x11-fast-charging-robovac",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-04T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Ecovacs’ latest mopping robovac may not need to take charging breaks while cleaning your home. The company says its new Deebot X11 Omnicyclone uses GaN-enabled fast charging to power up every time it returns to its base station for mop rinses, allowing it to keep cleaning without stopping to charge.\nThe X11 Omnicyclone robovac comes with 19,500Pa of suction power and an upgraded roller mop that extends up to 15mm to reach corners. It’s capable of traversing thresholds, rugs, doorframes, and uneven surfaces using a 4WD system with “mechanical climbing levers” that automatically engage when it detects flooring changes. Ecovacs says the robovac can “reliably” handle up to 4cm shifts, while its mop lifts up to 10mm.\nThe robovac’s base station ditches disposable dust bags for an auto-empty technology that “delivers consistent suction and multi-stage filtration,” according to Ecovacs. It’s also capable of cleaning the nylon mop roller with hot water, as well as drying it.\nThe Deebot X11 Omnicyclone robovac costs $1,499 and is available for purchase on Ecovacs’ website and Amazon in the US and Canada.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "319978a5d1f1805b22b76cef7555dd5d8bdb1a93",
-      "title": "Govee’s trippy new light strip puts three lights in every bulb",
-      "url": "https://www.theverge.com/smart-home/770936/govee-permanent-outdoor-lights-prism",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-04T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Govee has some colorful new ideas for how a light strip can decorate your home. Its latest, the Permanent Outdoor Lights Prism, puts three lights in every bulb along the strip, with a prism lens above them that’s designed to create three distinct or blended beams of light.\nThe strip supports full color, and Govee imagines the three beams being used to create vibrant effects that a more traditional light strip — emitting a single color per bulb — wouldn’t be capable of. That includes either a more natural gradient transitioning from one fan of light to the next or stark multicolored blades that look far different than traditional Christmas lights.\nGovee’s new strip supports Matter, Alexa, and Google Assistant, and it comes with an IP68 water- and dust-resistance rating so it can stay permanently mounted outside your house. The strips start shipping on September 22nd in the US. Pricing wasn’t shared before publication, but you can bet they’ll be expensive. Govee’s Permanent Outdoor Lights 2 run $330 for 100 feet, and its Permanent Outdoor Lights Pro run $440 for 100 feet.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "3297c4bbb65a614e18c257277248a7d8c7265f7b",
-      "title": "Govee&#8217;s new TV backlight uses a triple camera",
-      "url": "https://www.theverge.com/news/771242/govee-tv-backlight-3-pro-launch-availability",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-04T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Govee TV Backlight 3 Pro will be available sometime in late September.\t\n\nGovee has launched a new TV backlight kit for folks who like to add immersive lighting that syncs with whatever is playing on the display. The Govee TV Backlight 3 Pro features an “industry-first HDR triple-camera wide-area color matching system,” according to Govee, which is designed to capture the colors on your TV screen with greater accuracy than other cameras in the smart-lighting company’s older kits.\n“For the first time, this innovative system integrates a groundbreaking image sensor that features HDR capture capability, delivering high-fidelity 105dB dynamic range imaging for superior signal-to-noise performance,” Govee said in its press release. The TV Backlight 3 Pro light strip that attaches to the back of displays has also been upgraded to be 30 percent brighter than its predecessors, and it uses an “AI intelligent color mixing system” that automatically adjusts the backlight’s white balance and saturation settings.\nThe Govee TV Backlight 3 Pro will be available sometime in September, with the price and size models to be announced later. Pricing for the Lite version of the Govee TV Backlight 3 started at $90 when it launched in 2024, so we’ll have to see how the Pro model stacks up in comparison.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "92686da525ded0d2d7bd7a37b63712ff3d5042bb",
       "title": "Only 2 days left to claim your exhibitor spot at TechCrunch Disrupt 2025",
       "url": "https://techcrunch.com/2025/09/04/only-2-days-left-to-claim-your-exhibitor-spot-at-techcrunch-disrupt-2025/",
@@ -284,19 +375,6 @@
       "published": "2025-09-04T14:00:00.000Z",
       "summary_90w": "",
       "raw": "Put your startup in the heart of the action — where 10,000+ founders, investors, press, and decision-makers come to discover what’s next.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "188e9dbd3e1b32682b381935d02e5a1f048c5a68",
-      "title": "The quest to keep OpenAI honest",
-      "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/770325/eyesonopenai-coalition-nonprofit-sam-altman-ai",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-04T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "We’ve covered OpenAI on Decoder in several ways this summer, from how it’s navigating the AI talent wars to how people are starting to feel attached to ChatGPT.\nNext week, we’re airing a recent conversation I had with Bret Taylor, the chairman of OpenAI’s board. But today, I want to zoom in on the battle that’s brewing about the future of OpenAI itself. \nDespite being one of the most valuable companies in the world, OpenAI is still technically a nonprofit. That structure was designed back in 2015 to keep investors from steering artificial intelligence onto paths that could harm humanity. It’s also what set the stage for the dramatic board coup in 2023 that briefly ousted Sam Altman as CEO. And now, OpenAI is trying to shake its nonprofit structure so it can raise even more money and, eventually, go public.\n\n\nThere’s a lot at stake here, and not just for OpenAI. To unpack why it matters, I’m joined today by Catherine Bracy, CEO of TechEquity, and Orson Aguilar, CEO of LatinoProsperity. They help run EyesOnOpenAI, a coalition of advocacy groups that’s challenging OpenAI’s attempted restructuring.\nAs you’ll hear, Catherine and Orson argue that OpenAI has enjoyed the advantages of being a nonprofit while drifting away from its mission. It’s a complicated and fascinating story that cuts to the heart of how the most important AI company in the world is structured and the impacts of that structure.\nHere, I should note that OpenAI declined to comment on this episode specifically. Instead, I was referred to a May blog post from Sam Altman, in which he wrote that the company’s proposed restructuring will still create the “largest and most effective nonprofit in history.”\nIf you’d like to read more on what we talked about in this episode, check out the links below:\nOpenAI abandons plans to become a for-profit company | The Verge\nWhy California’s AG must continue the investigation into OpenAI | CalMatters\nAn open letter to OpenAI | EyesOnOpenAI\nOpenAI eyes $50B valuation in potential employee share sale | Reuters\nOpenAI thinks its critics are funded by billionaires | San Francisco Standard\nQuestions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!",
       "topics": [
         "Technology"
       ]
@@ -367,16 +445,16 @@
       ]
     },
     {
-      "id": "7e5d9dce89ce26843dc267270e3f60e099f990a0",
-      "title": "TCL gives parents a monochrome mode to combat kids&#8217; phone addiction",
-      "url": "https://www.theverge.com/news/768556/tcl-nxtpaper-5g-junior-ifa-e-reader-kids-phone",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-04T13:30:00.000Z",
+      "id": "6d6f91d2da133f679420119a3cbbdd02caf5f5f4",
+      "title": "How style guru Giorgio Armani revolutionised fashion",
+      "url": "https://www.bbc.com/news/articles/c90z02n04nwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-04T13:34:28.000Z",
       "summary_90w": "",
-      "raw": "The Nxtpaper 5G Junior ships with a choice of blue or orange case included.\t\n\nTCL has been making its E Ink-inspired Nxtpaper phones for years, but it’s taken the company until now to realize that parents are a likely demographic for it. That’s finally been remedied with the Nxtpaper 5G Junior, a kids phone launching in Europe with a focus on eye health and screentime, which arrives alongside the more mainstream Nxtpaper 60 Ultra.\nThe Nxtpaper 5G Junior has been announced at the IFA trade show, but it won’t go on sale in Europe until December and will cost £159 / €249 (around $250). It will also include a protective case. So far, there are no plans for a US launch.\nLike other recent Nxtpaper phones, the key selling point is a dedicated button that activates Max Ink Mode, which switches the matte display to a monochromatic mode that looks a lot like E Ink and is easier on the eyes for reading. The appeal to parents will be an extra way to manage screentime: not just a binary on / off, but an in-between option that’s better for kids’ eyes and not particularly well-suited to playing Fortnite. It extends the device’s battery life, too.\nThe phone includes a variety of parental controls powered by Google’s Family Link, along with a “Digital Detox” mode to encourage healthy phone use. TCL has also created a range of cutesy characters called the AI Genius Squad, which look like they’ve been lifted from a slightly subpar Pixar movie.\nOne immediate downside is that this is a pretty big phone. With a 6.7-inch screen and the included case, this will be a bulky, heavy device that might be a little tricky for smaller hands. It comes with 256GB of storage — enough for plenty of apps and games — and dual rear cameras.\nTCL is also launching the Nxtpaper 60 Ultra, the first phone to ship with the latest Nxtpaper 4.0 tech, with reduced glare and display flicker. It’s even bigger, with a 7.2-inch display and has a triple rear camera, including a 50-megapixel telephoto lens, plus optional stylus support. It’s launching today in Europe from €449 (around $525), as well as Asia and Latin America.",
+      "raw": "He worked his way up from a Milan department store to a global empire that changed the way we dress.",
       "topics": [
-        "Technology"
+        "World"
       ]
     },
     {
@@ -409,7 +487,7 @@
       "id": "2c49ae24bac003fd911373213e633d9fd9eb8cf0",
       "title": "Jellyfish disrupt French nuclear power plant for second time in a month",
       "url": "https://www.bbc.com/news/articles/c5ygkxlmg41o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-09-04T13:11:35.000Z",
       "summary_90w": "",
@@ -537,7 +615,7 @@
     },
     {
       "id": "5515937e50afb4180e337235fac56032a47c9256",
-      "title": "DuckDuckGo adds access to advanced models to it subscription plan",
+      "title": "DuckDuckGo adds access to advanced AI models to its subscription plan",
       "url": "https://techcrunch.com/2025/09/04/duckduckgo-adds-access-to-advanced-models-to-it-subscription-plan/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -570,19 +648,6 @@
       "published": "2025-09-04T11:43:42.000Z",
       "summary_90w": "",
       "raw": "The overloaded boat was carrying passengers including children when it hit a submerged tree stump.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "be3f96eee7b4554a0e36d5c91fabe40eac7f59cc",
-      "title": "Second arrest over racist abuse sent to England footballer Jess Carter",
-      "url": "https://www.bbc.com/news/articles/cp8j1r4glzxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-04T11:32:44.000Z",
-      "summary_90w": "",
-      "raw": "A 30-year-old is arrested in Derbyshire after the messages were sent during the Women's Euros.",
       "topics": [
         "World"
       ]
@@ -757,8 +822,21 @@
       ]
     },
     {
+      "id": "21131966a29eb8b5fae106e97be11cfa4a8b0c6f",
+      "title": "Indian doctors remove parasitic foetuses from baby's stomach",
+      "url": "https://www.bbc.com/news/articles/cr4q0d4n6dno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-04T09:51:41.000Z",
+      "summary_90w": "",
+      "raw": "The 20-day-old baby had two malformed foetuses inside her abdomen.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "caa890f6f0f606b901b8d900822c98f38d915655",
-      "title": "Watch: RFK Jr. testifies about U.S. heath policy amid turmoil at CDC",
+      "title": "Watch: RFK Jr. testifies about U.S. health policy amid turmoil at CDC",
       "url": "https://www.npr.org/sections/shots-health-news/2025/09/04/nx-s1-5525885/rfk-cdc-hhs-senate-finance",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
@@ -952,19 +1030,6 @@
       ]
     },
     {
-      "id": "eb4dcd3f9af31aad61ae4ed3bcfbbad04aa355b9",
-      "title": "Counting rings reveals Sycamore Gap tree age range",
-      "url": "https://www.bbc.com/news/articles/ckgygex6k87o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-04T05:04:46.000Z",
-      "summary_90w": "",
-      "raw": "There has been a lack of clarity over the age of the Hadrian's Wall tree which was illegally felled.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "168fd6e7eb6dc3b2f40e56e38c546a0b1d875935",
       "title": "Play now",
       "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
@@ -1014,19 +1079,6 @@
       "raw": "Wildfires were 30% more intense than would have been expected without global heating, scientists say\nThe extreme weather that fuelled “astonishing” blazes across Spain and Portugal last month was made 40 times more likely by climate breakdown, early analysis suggests.\nThe deadly wildfires, which torched 500,000 hectares (1.2m acres) of the Iberian peninsula in a matter of weeks, were also 30% more intense than scientists would have expected in a world without climate change, according to researchers from the World Weather Attribution network.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "04fd4d773ea9152601fb5f769b0cbf55dbef44d8",
-      "title": "Google told to pay $425m in privacy lawsuit",
-      "url": "https://www.bbc.com/news/articles/c3dr91z0g4zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-09-04T03:43:30.000Z",
-      "summary_90w": "",
-      "raw": "Google says the decision misunderstands how its products work, and it will appeal the ruling.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1186,32 +1238,6 @@
       ]
     },
     {
-      "id": "1d4c5b747987d82a211039841d33eb7c16e2d06f",
-      "title": "What we know about Lisbon's deadly funicular crash",
-      "url": "https://www.bbc.com/news/articles/cn95l12epxzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-03T21:33:06.000Z",
-      "summary_90w": "",
-      "raw": "At least 16 people died after a carriage on the city's famous Glória hillside railway derailed.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1d4c5b747987d82a211039841d33eb7c16e2d06f",
-      "title": "What we know so far",
-      "url": "https://www.bbc.com/news/articles/cn95l12epxzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-03T21:33:06.000Z",
-      "summary_90w": "",
-      "raw": "At least 16 people died after a carriage on the city's famous Glória hillside railway derailed.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "c699e70ea35239222c9c4bfa861a7fb5a238bbd9",
       "title": "Scale AI is suing a former employee and rival Mercor, alleging they tried to steal its biggest customers  ",
       "url": "https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employee-and-rival-mercor-alleging-they-tried-to-steal-its-biggest-customers/",
@@ -1222,19 +1248,6 @@
       "raw": "Scale is clearly concerned enough about the threat of Mercor, and the poaching of one of its employees, to pursue legal action.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "98b5084e74c414dfa3446f027f4d8bb72c4b3660",
-      "title": "Migrant crisis: How Europe went from Merkel's 'We can do it' to pulling up the drawbridge",
-      "url": "https://www.bbc.com/news/articles/cn5e5q7w41eo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-03T21:00:06.000Z",
-      "summary_90w": "",
-      "raw": "A number of European governments are proposing restrictive measures on migrants in response to public concern",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1519,19 +1532,6 @@
       "published": "2025-09-03T16:27:08.000Z",
       "summary_90w": "",
       "raw": "Roblox says it's expanding its use of age-estimation technology and entering a partnership with the IARC to standardize its game ratings.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "10587fbf7ffd4ee0dec75ed68a9b8396edcf704e",
-      "title": "Netflix CPO Eunice Kim joins TechCrunch Disrupt 2025 to talk scaling product and reimagining entertainment",
-      "url": "https://techcrunch.com/2025/09/03/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-03T16:15:00.000Z",
-      "summary_90w": "",
-      "raw": "At TechCrunch Disrupt 2025, Netflix chief product officer Eunice Kim will be joining the Disrupt Stage to share Netflix's evolving story and what's to come.",
       "topics": [
         "Technology"
       ]
@@ -1833,19 +1833,6 @@
       "raw": "Staff were sent home and the company shut down its IT systems in an effort to minimise the damage done.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "275def6966a5d40e480db28f60586589a73383eb",
-      "title": "Strong aftershock hits Afghanistan after quake kills more than 1,400",
-      "url": "https://www.bbc.com/news/articles/cpqvqeg3nz5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-02T16:20:58.000Z",
-      "summary_90w": "",
-      "raw": "Many remain trapped under rubble as rescuers use helicopters in remote areas hit by recent landslides.",
-      "topics": [
-        "World"
       ]
     },
     {
