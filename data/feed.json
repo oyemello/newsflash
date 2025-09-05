@@ -1,18 +1,31 @@
 {
-  "version": "1757109110092",
-  "generatedAt": "2025-09-05T21:51:50.092Z",
+  "version": "1757110415439",
+  "generatedAt": "2025-09-05T22:13:35.439Z",
   "items": [
     {
       "id": "76d81638d9b80d90fd38c1e1e8fc79e09b51402a",
       "title": "Under Trump, the Federal Trade Commission is abandoning its ban on noncompetes",
       "url": "https://www.npr.org/2025/09/05/nx-s1-5528937/ftc-noncompete-ban-trump",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
       "published": "2025-09-05T21:46:33.000Z",
       "summary_90w": "",
       "raw": "Federal Trade Commission Chair Andrew Ferguson has called his agency's rule banning noncompetes unconstitutional. Still, he says protecting workers against noncompetes remains a priority.",
       "topics": [
-        "Business"
+        "World"
+      ]
+    },
+    {
+      "id": "d60aa9b49d72681ed35b6e705714977b151b7988",
+      "title": "Public banned from Commons chamber after hidden phone found",
+      "url": "https://www.bbc.com/news/articles/ckgzmzkw24wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-05T21:34:02.000Z",
+      "summary_90w": "",
+      "raw": "A temporary ban has been put in place \"until further notice\", a UK Parliament spokesperson has said.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -91,6 +104,19 @@
       "raw": "In what’s potentially the first major payout to creatives whose work was used to train AI systems, Anthropic has reached an agreement to pay “at least” a staggering $1.5 billion, plus interest, to authors to settle its class-action lawsuit. The amount breaks down to smaller payouts expected to be approximately $3,000 per book or work. Lawyers for the plaintiffs said it’s “believed to be the largest publicly reported recovery in the history of US copyright litigation.”\n“This result is nothing short of remarkable,” the legal filing states.\nThe settlement is subject to court approval, and a hearing will take place on September 8th. According to a press release, the final amount could be higher, in that approximately 500,000 works will likely be paid out, but if the total is higher than that, Anthropic will pay an additional $3,000 per work, and it all depends on the number of claims submitted. As part of the settlement, Anthropic must also destroy the original files it downloaded and any copies.\n“The settlement only releases claims based on past acts – it does not give Anthropic a license or permission for future AI training and it does not release any claims that arise after August 25, 2025,” the release stated.\nThe landmark decision is part of a year-long saga. In August 2024, three authors — Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson — alleged that Anthropic had “built a multibillion-dollar business by stealing hundreds of thousands of copyrighted books.” Over the summer, a federal judge handed Anthropic a small win, ruling that the company was within its legal rights to train its AI models on legally purchased books. But the judge also said that Anthropic would need to face a separate trial for its alleged use of pirated books. In July, a California federal judge ruled that the authors could bring a class action lawsuit representing all US writers whose work allegedly came from libraries of pirated books downloaded by Anthropic. And late last month, Anthropic said it had settled the class action lawsuit — but we didn’t know the terms until now.\n“In June, the District Court issued a landmark ruling on AI development and copyright law, finding that Anthropic’s approach to training AI models constitutes fair use,” Aparna Sridhar, Anthropic’s deputy general counsel, told The Verge in a statement. “Today’s settlement, if approved, will resolve the plaintiffs’ remaining legacy claims. We remain committed to developing safe AI systems that help people and organizations extend their capabilities, advance scientific discovery, and solve complex problems.” \nThe settlement is especially noteworthy during a time of mounting lawsuits against AI companies over copyright infringement from media outlets, platforms, creatives, and companies — and, at the same time, an increasing number of partnerships with those same AI companies from companies and media outlets willing to provide data to train AI systems in order to get a piece of the pie. \nIt’s not the only legal action Anthropic has faced in recent years. This summer, Reddit filed suit against Anthropic, claiming that the AI company’s bots had accessed Reddit more than 100,000 times since July 2024, after Anthropic had said it blocked them from doing so. And in 2023, Universal Music sued Anthropic over “systematic and widespread infringement of their copyrighted song lyrics.”\nFor this case, authors and rightsholders may visit AnthropicCopyrightSettlement.com, the release stated, a website that “which gives potential class members an option to provide contact information to Class Counsel.” \n“In the coming weeks, and if the court preliminarily approves the settlement, the website will provide to find a full and easily searchable listing of all works covered by the settlement and information for class members about their options and rights regarding the settlement,” the release said. \nView Link",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "98a754232ee8aef661f6171e659a1779bcdd58d4",
+      "title": "Starmer carries out major reshuffle after Rayner resignation",
+      "url": "https://www.bbc.com/news/articles/cgmzgjywr8wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-05T19:58:58.000Z",
+      "summary_90w": "",
+      "raw": "Angela Rayner's exit has prompted a major shake-up with David Lammy becoming deputy prime minister.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1004,19 +1030,6 @@
       ]
     },
     {
-      "id": "33d4959c1cf5cb80b03fb318e8dc80a65f557e3a",
-      "title": "RFK Jr. pressed on vaccine accessibility. And, a plan for Ukraine's post-war safety",
-      "url": "https://www.npr.org/2025/09/05/g-s1-87198/up-first-newsletter-robert-f-kennedy-national-guard-washington-dc-coalition-of-the-willing",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-05T11:21:30.000Z",
-      "summary_90w": "",
-      "raw": "Robert F. Kennedy Jr. tries to defend his actions regarding vaccines in a Senate hearing. And, a European coalition announces a plan for Ukraine's post-war security.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5b624cef156b4eeb6ac53106bfe9211ecc57aa86",
       "title": "Tesla proposes new pay package for Elon Musk worth up to $1T",
       "url": "https://techcrunch.com/2025/09/05/tesla-proposes-new-pay-package-for-elon-musk-worth-up-to-1t/",
@@ -1128,7 +1141,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-05T09:17:19.000Z",
       "summary_90w": "",
-      "raw": "Exclusive: Isaac Herzog to visit London for expected talks with ministers, with UK on brink of recognising Palestinian statehood\n\nUK politics live – latest updates\n\nThe president of Israel will travel to London next week amid outcry from Labour MPs who have urged Keir Starmer not to meet the visiting delegation.\nThe arrival of Isaac Herzog is fraught with complication for ministers, with the UK government on the brink of recognising the state of Palestine at the UN general assembly.\n Continue reading...",
+      "raw": "Exclusive: Isaac Herzog to visit London for expected talks with ministers, with UK on brink of recognising Palestinian statehood\nThe president of Israel will travel to London next week amid outcry from Labour MPs who have urged Keir Starmer not to meet the visiting delegation.\nThe arrival of Isaac Herzog is fraught with complication for ministers, with the UK government on the brink of recognising the state of Palestine at the UN general assembly.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1381,19 +1394,6 @@
       ]
     },
     {
-      "id": "3093303bed3cba5c0debebac8b29cfe438f9a504",
-      "title": "David Bowie’s secret final project discovered locked in his study ",
-      "url": "https://www.bbc.com/news/articles/c3dpdpvj083o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-04T23:27:15.000Z",
-      "summary_90w": "",
-      "raw": "Shortly before his death, the star wrote dozens of notes for a musical set in 18th Century London.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "02f504e5ea738c87577a6a427f99746592866cf3",
       "title": "Rivian makes its second small workforce cut of the year ahead of R2 SUV launch",
       "url": "https://techcrunch.com/2025/09/04/rivian-makes-its-second-small-workforce-cut-of-the-year-ahead-of-r2-suv-launch/",
@@ -1636,19 +1636,6 @@
       "published": "2025-09-04T05:37:32.000Z",
       "summary_90w": "",
       "raw": "In today’s newsletter: In hosting anti-western leaders at its largest ever military parade, Beijing sent a defiant message that will be heard loud and clear across the world\n\nGood morning. All eyes have been on China this week as the second biggest global economy flexed its muscles.\nDozens of world leaders, including from the global south, authoritarian pariah states and the EU, attended China’s largest ever military parade on Wednesday to mark the 80th anniversary of the end of the second world war, which China calls the war of resistance against Japanese aggression.\nUK news | Deputy PM Angela Rayner has admitted she underpaid stamp duty on her £800,000 seaside flat, after coming under intense pressure to be more transparent about her property arrangements.\nRussia | Vladimir Putin has invited Kim Jong-un to visit Russia during a lengthy meeting in Beijing on the sidelines of China’s biggest military parade, as Kim promised to do “everything I can to assist” Moscow.\nPolice | The Metropolitan police have declined to drop their investigation into the comedy writer Graham Linehan for tweets about trans issues, and said that the law used by officers to detain him needs reviewing.\nIsrael | Israeli drones dropped four grenades near UN peacekeepers in south Lebanon, the agency’s force said on Wednesday, in what it described as “one of the most serious attacks” on its personnel since a November ceasefire.\nPortugal | A day of national mourning has been declared in Portugal after at least 15 people were killed when Lisbon’s well-known Gloria funicular railway car derailed and crashed on Wednesday.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "5dbb34225979e86522cc6f2fb9796eb6e48b92aa",
-      "title": "The Global Story: The deal that broke Ukraine's trust",
-      "url": "https://www.bbc.co.uk/programmes/w3ct714l?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-04T05:00:00.000Z",
-      "summary_90w": "",
-      "raw": "An exploration of the 1994 Budapest Memorandum, intended to enshrine Ukraine's security.",
       "topics": [
         "World"
       ]
