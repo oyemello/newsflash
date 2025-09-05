@@ -1,6 +1,6 @@
 {
-  "version": "1757055018627",
-  "generatedAt": "2025-09-05T06:50:18.627Z",
+  "version": "1757056547434",
+  "generatedAt": "2025-09-05T07:15:47.434Z",
   "items": [
     {
       "id": "c0d692486b5cc35ea745b2b2151fe84b888efffc",
@@ -8,9 +8,22 @@
       "url": "https://www.bbc.com/news/articles/c5yjd7v9xj0o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-05T06:36:24.000Z",
+      "published": "2025-09-05T07:08:28.000Z",
       "summary_90w": "",
       "raw": "Sales volumes rose by a stronger-than-expected 0.6% in July, official statistics show.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5aaf469182b42fe77c09d60b8af502b43e71ba0a",
+      "title": "Joe Biden undergoes skin cancer surgery",
+      "url": "https://www.bbc.com/news/articles/c80grled59do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-05T07:01:58.000Z",
+      "summary_90w": "",
+      "raw": "The former US president had been spotted with a wound on the right side of his head in recent days.",
       "topics": [
         "World"
       ]
@@ -21,11 +34,24 @@
       "url": "https://www.theguardian.com/australia-news/live/2025/sep/05/australia-news-live-albanese-trump-tariffs-meeting-porepunkah-police-officer-funerals-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-09-05T06:34:23.000Z",
+      "published": "2025-09-05T07:01:20.000Z",
       "summary_90w": "",
       "raw": "Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nCoalition of the willing meeting a ‘positive sign’ for Ukraine, former ambassador says\nThe former Australian ambassador to Russia, Peter Tesch, has appeared on ABC News Breakfast after Anthony Albanese joined a virtual meeting with world leaders signed up to the coalition of the willing for Ukraine on Thursday night.\nThe issue is that we are still no closer to a credible and durable peace settlement, because Moscow keeps walking both sides of the street, and that is provoking a degree of frustration. But in the absence of serious, additional pressure upon Moscow, it’s difficult to see a near-term solution here - notwithstanding Ukraine’s clear willingness to engage seriously in discussions.\nAnd importantly, although the details are vague … President Trump at least remains engaged in that dialogue and that’s very important.\nOur case for a 35% pay increase over three years will begin in the NSW Industrial Relations Commission later this month. As part of this case, which is one of the biggest industrial cases this state has seen, we will present evidence around the gendered undervaluation of nurses and midwives’ work and the work value changes our professions have seen over the past 16 years.\n Continue reading...",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "9cedb3eda41cab5124405ba0e1f118021aa0cf92",
+      "title": "Timekettle’s new translation earbuds are made for sharing",
+      "url": "https://www.theverge.com/news/771665/timekettle-w4-ai-interpreter-wireless-earbuds-bone-conduction",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-05T07:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The Timekettle W4 AI look like a supersized pair of wireless earbuds. | Image: Timekettle\t\n\nTimekettle has announced a new pair of real-time translation headphones called the W4 AI Interpreter Earbuds. They use bone conduction technology that helps improve accuracy in loud environments.\nAvailable now for $349 in navy blue and sandy gold color options, the earbuds are a more affordable alternative to the company’s $449 over-the-ear W4 Pro released earlier this year that looked like the clunky Bluetooth headsets that were popular a few decades ago. Timekettle says its new W4 AI are instead “optimized for casual use” with a design that looks more like modern wireless earbuds, but with a much larger stem.\nThe reason the W4 AI aren’t as compact as other wireless earbuds like Apple’s AirPods is because they contain additional electronics to run Timekettle’s Babel OS 2.0 real-time translation software that’s powered by AI LLM models. The company says the system “instantly converts speech between 42 languages and 95 accents” with up to 98 percent accuracy thanks to its ability to understand and anticipate the context of what you’re saying so it can differentiate between similar sounding words. As with the W4 Pro, you can also create your own custom lexicon for the new W4 AI so it doesn’t get confused when talking to someone about skibidi toilets.\nTo further improve its translation accuracy the W4 AI includes a new feature not seen on Timekettle’s other products. The earbuds use a combination of a standard microphone and a sensor that detects voice vibrations through the bones in your head to more accurately recognize what you’re saying, even in loud environments. The bone conduction sensor also improves sensitivity so you can talk quieter, potentially allowing for more discreet conversations when talking in public.\nBattery life is rated at up to four hours of continuous translation or up to 10 hours when paired with the W4 AI’s charging case that splits in two with an earbud on either side. They can also be used as standard wireless earbuds when you just want to listen to music which boosts battery life to up to eight hours, or 18 with a top-off in their charging case.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -485,7 +511,7 @@
     },
     {
       "id": "ff2cfd45348d73727073e95ca44b2167af9e3a17",
-      "title": "'My mother was my shelter and storm': Arundhati Roy on her fierce new memoir",
+      "title": "'My mother was my shelter and storm': Booker Prize Winner on her fierce new memoir",
       "url": "https://www.bbc.com/news/articles/c4gzdnp43l8o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -604,7 +630,7 @@
       "id": "d7a3e2584327f1df22c6e1ef2ed6915d7b46d228",
       "title": "Sweden accuses Russia of GPS jamming over Baltic Sea ",
       "url": "https://www.bbc.com/news/articles/clyx3ly54veo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-04T21:28:08.000Z",
       "summary_90w": "",
@@ -715,19 +741,6 @@
       "raw": "It is unclear what caused the crash in which 16 people died and more than 20 were injured, including many foreign nationals.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "99a094ee9fb50184192b99771e16e19f508d1b2f",
-      "title": "The new Street Fighter movie Hadokens into theaters in October 2026",
-      "url": "https://www.theverge.com/news/771977/street-fighter-movie-release-date-cast",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-04T20:04:04.000Z",
-      "summary_90w": "",
-      "raw": "Ryu in Street Fighter 6.\t\n\nThe new Street Fighter movie, which has been in the works since 2023, now has a cast and a release date. The film hits theaters on October 16th, 2026, and the cast includes some big names like Jason Momoa, 50 Cent, Orville Peck, and Eric André, according to a series of posts from an X account for the movie.\nHere is the cast revealed in those posts:\nAndrew Koji is Ryu\nNoah Centineo is Ken\nCallina Liang is Chun-li\nCody Rhodes is Guile\nOrville Peck is Vega\n50 Cent is Balrog\nJason Momoa is Blanka\nVidyut Jammwal is Dhalsim\nOlivier Richters is Zangief\nNirooki Goto is E. Honda\nDavid Dastmalchian is M. Bison\nRoman Reigns is Akuma\nAndrew Shulz is Dan Hibiki\nEric André is Don Sauvage\nMel Jarnson is Cammy\nRayna Vallandingham is Juli\nAlexander Volkanovski is Joe\nThe Hollywood Reporter also shared the film’s logline:\nSet in 1993, estranged Street Fighters Ryu (Andrew Koji) and Ken Masters (Noah Centineo) are thrown back into combat when the mysterious Chun-Li (Callina Liang) recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don’t, it’s GAME OVER!\nThe film, from Capcom and Legendary Entertainment, will be distributed by Paramount, which announced this week that it’s also working on a live-action Call of Duty movie.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1781,19 +1794,6 @@
       "raw": "Why evil histories sell. A visit to Hitler's bunker, and a deep dive into the economics and ethical quandaries of \"dark tourism.\"",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "bba2abf1bd7679d758e566b85c2b34ab1cb61beb",
-      "title": "Trump says 11 killed in US strike on 'drug-carrying vessel from Venezuela'",
-      "url": "https://www.bbc.com/news/articles/cpwywjgynyxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-03T09:10:59.000Z",
-      "summary_90w": "",
-      "raw": "The Trump administration has signalled a willingness to use military force against drug cartels.",
-      "topics": [
-        "World"
       ]
     },
     {
