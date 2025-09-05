@@ -1,16 +1,120 @@
 {
-  "version": "1757067365261",
-  "generatedAt": "2025-09-05T10:16:05.261Z",
+  "version": "1757068681824",
+  "generatedAt": "2025-09-05T10:38:01.824Z",
   "items": [
+    {
+      "id": "05d5fc75c6515532991512b7bd43705d506ecf2c",
+      "title": "Boy, 3, pulled from funicular crash that has shocked Portugal",
+      "url": "https://www.bbc.com/news/articles/cgrqj7ydr0ko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-05T10:33:53.000Z",
+      "summary_90w": "",
+      "raw": "It is unclear what caused the crash in which 16 people died and more than 20 were injured, including many foreign nationals.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1aac30926c385092526cf71f063618b27a083184",
+      "title": "OnePlus and Hasselblad are parting ways",
+      "url": "https://www.theverge.com/news/772369/oneplus-and-hasselblad-are-parting-ways",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-05T10:30:52.000Z",
+      "summary_90w": "",
+      "raw": "The OnePlus 13 will likely be the last OnePlus phone to feature a Hasselblad logo.\t\n\nOnePlus CEO Pete Lau announced on the company’s user forums today that its five-year partnership with camera company Hasselblad has come to an end. From now on, OnePlus will develop its own imaging engine instead.\nOnePlus first teamed up with Hasselblad for the 9 and 9 Pro flagships, and a Hasselblad logo has featured on the camera of all of its top-tier phones since. That’s now set to change with the upcoming OnePlus 14 (which may actually be the OnePlus 15 to avoid the unlucky number “4” in China).\nHasselblad didn’t just provide its logo though. It worked with OnePlus (and parent company Oppo) for years to develop imaging algorithms to improve its photography, once a weak point for the brand and now considered a bit of a strength. OnePlus is now taking that work in-house, developing the OnePlus DetailMax Engine. It’ll be interesting to see how close that ends up being to the Oppo Lumo engine, launched this April alongside the Find X8 Ultra (which, for what it’s worth, has a truly excellent camera).\nMaking things a little weirder, Oppo just extended its partnership with Hasselblad in July, promising a new mobile imaging system to come later this year. I’m still struggling to square that circle.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c0d692486b5cc35ea745b2b2151fe84b888efffc",
+      "title": "Sunny weather and football boosted retail sales in July",
+      "url": "https://www.bbc.com/news/articles/c5yjd7v9xj0o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-05T10:29:36.000Z",
+      "summary_90w": "",
+      "raw": "Sales volumes rose by a stronger-than-expected 0.6% in July, official statistics show.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e1e278bb55a3e3d4511e2fdf09d0a73b404dcb0b",
+      "title": "Xbox engineer brings Windows Mixed Reality headsets back to life",
+      "url": "https://www.theverge.com/news/772360/microsoft-windows-mixed-reality-headsets-streamvr-driver",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-05T10:28:48.000Z",
+      "summary_90w": "",
+      "raw": "Windows Mixed Reality headsets in 2018. | Image: Getty Images\t\n\nWindows Mixed Reality headsets were left in a non-functional state last year, after Microsoft suddenly discontinued the platform with its 24H2 update to Windows 11. Now, an Xbox engineer at Microsoft is bringing these headsets back to life, thanks to a new driver that enables SteamVR support.\nMatthieu Bucchianeri, a software engineer that worked on Microsoft’s Windows Mixed Reality headsets, has released a free “Oasis Driver for Windows Mixed Reality” on Steam. It’s named Oasis as that’s the codename Microsoft used for its Windows Mixed Reality efforts. The driver, spotted by UploadVR, requires an Nvidia GPU, simply because it relies on features “missing in the AMD and Intel graphics driver,” according to Bucchianeri.\nThis Oasis driver doesn’t require the Mixed Reality Portal application, and it can run OpenVR and OpenXR applications through SteamVR. “The driver offers full headset and motion controller tracking as well as a native SteamVR rendering pipeline,” says Bucchianeri.\nWhile Microsoft should have delivered this type of driver to ensure Windows Mixed Reality headsets weren’t useless with the latest Windows 11 updates, Bucchianeri — who is now an Xbox engineer at Microsoft — has created this independently by reverse-engineering Nvidia and SteamVR code. He’s not releasing the source code as a result, and the Oasis driver will remain free to use.\nIf you’re interested in trying out the Oasis driver, you can download it from Steam. Make sure you also follow the quick start steps in the documentation for the driver, too.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "64c9d34f2608e4c0532d8cf7e9afa87cfb21e479",
       "title": "Three British nationals among 16 killed in Lisbon crash, say Portuguese police",
       "url": "https://www.bbc.com/news/articles/c62lmed42p1o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-05T10:09:36.000Z",
+      "published": "2025-09-05T10:24:28.000Z",
       "summary_90w": "",
       "raw": "Authorities have confirmed three Brits are among 16 people who were killed in Wednesday's accident.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "36b188204caaaeca2dcddb05c2b25f2f4e35951d",
+      "title": "Rubio says US will 'blow up' foreign crime groups if needed",
+      "url": "https://www.bbc.com/news/articles/cx23nzwjnwwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-05T10:23:23.000Z",
+      "summary_90w": "",
+      "raw": "The secretary of state made the comments during a trip to Ecuador, where he announced new measures targeting criminal gangs.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "36b188204caaaeca2dcddb05c2b25f2f4e35951d",
+      "title": "US prepared to 'blow up' foreign crime groups if needed, US secretary of state says",
+      "url": "https://www.bbc.com/news/articles/cx23nzwjnwwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-05T10:23:23.000Z",
+      "summary_90w": "",
+      "raw": "The secretary of state made the comments during a trip to Ecuador, where he announced new measures targeting criminal gangs.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "485a8951c5e4bec493b022f082d9100fc235375a",
+      "title": "Putin says western troops in Ukraine would be ‘legitimate targets’ as European countries pledge security support – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/05/volodymyr-zelenskyy-ukraine-robert-fico-slovakia-vladimir-putin-russia-energy-europe-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-05T10:17:46.000Z",
+      "summary_90w": "",
+      "raw": "Macron says 26 nations have offered security guarantees for Ukraine as Zelenskyy meets Slovakia’s Fico amid tension over Russian energy supplies\n\nMacron says 26 countries ready to supply postwar military backing for Ukraine\n\n\nUS president Donald Trump has just posted on his Truth Social account, saying:\n“Looks like we’ve lost India and Russia to deepest, darkest, China. May they have a long and prosperous future together! President Donald J. Trump”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "918e38b1d100eda5abff24196c9cd9ee73a2e17a",
+      "title": "Initial report into Lisbon funicular crash due after 16 killed",
+      "url": "https://www.theguardian.com/world/2025/sep/05/initial-report-into-lisbon-funicular-crash-due-after-16-killed",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-05T10:17:29.000Z",
+      "summary_90w": "",
+      "raw": "Portuguese investigators find no evidence of sabotage, with mechanical or maintenance issues among possible causes\n\n‘Someone needs to answer for what happened’: Lisbon reacts to streetcar crash that killed 16\n\nPortuguese accident investigators are to release a preliminary report into the funicular railway crash that killed 16 people and injured 21 others on Wednesday evening.\nThe accident, described by Portugal’s prime minister, Luís Montenegro, as “one of the biggest tragedies in our recent history”, happened shortly after 6pm when one of the Elevador da Glória’s two streetcars derailed and hurtled down a hill and into a building in the centre of Lisbon.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -42,32 +146,6 @@
       ]
     },
     {
-      "id": "485a8951c5e4bec493b022f082d9100fc235375a",
-      "title": "Putin says western troops in Ukraine would be ‘legitimate targets’ as European countries pledge security support – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/05/volodymyr-zelenskyy-ukraine-robert-fico-slovakia-vladimir-putin-russia-energy-europe-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-05T09:52:30.000Z",
-      "summary_90w": "",
-      "raw": "Macron says 26 nations have offered security guarantees for Ukraine as Zelenskyy meets Slovakia’s Fico amid tension over Russian energy supplies\n\nMacron says 26 countries ready to supply postwar military backing for Ukraine\n\n\nIn other news, Portuguese accident investigators are today due to release their preliminary report into the funicular railway crash that killed 16 people and injured 21 others on Wednesday evening.\nThe accident, described by the country’s prime minister, Luís Montenegro, as “one of the biggest tragedies in our recent history”, happened shortly after 6pm when one of the Elevador da Glória’s two cars derailed and hurtled down a hill and into a building in the centre of the Portuguese capital.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "918e38b1d100eda5abff24196c9cd9ee73a2e17a",
-      "title": "Initial report into Lisbon funicular crash due after 16 killed",
-      "url": "https://www.theguardian.com/world/2025/sep/05/initial-report-into-lisbon-funicular-crash-due-after-16-killed",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-05T09:47:34.000Z",
-      "summary_90w": "",
-      "raw": "Portuguese investigators find no evidence of sabotage, with mechanical or maintenance issues among possible causes\n\n‘Someone needs to answer for what happened’: Lisbon reacts to streetcar crash that killed 16\n\nPortuguese accident investigators are due to release their preliminary report into the funicular railway crash that killed 16 people and injured 21 others on Wednesday evening.\nThe accident, described by the country’s prime minister, Luís Montenegro, as “one of the biggest tragedies in our recent history”, happened shortly after 6pm when one of the Elevador da Glória’s two streetcars derailed and hurtled down a hill and into a building in the centre of the Portuguese capital.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "fc4aafcd604b1f392f982da07551a1e248261761",
       "title": "Putin rejects Western security in Ukraine, warning troops would be target",
       "url": "https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss",
@@ -91,19 +169,6 @@
       "raw": "Qualcomm is joining forces with BMW on a new driver-assist system that will allow drivers to take their hands off the wheel on approved roads.\nQualcomm, which supplies infotainment, driver-assist, and telematics systems to a variety of automakers, is looking to raise its portfolio in the auto industry, as more car companies turn to advanced processors and chips to power high-tech features. The San Diego-based chipmaker says it currently has $45 billion in future revenue in its automotive pipeline right now.\nNow it’s teaming up with BMW to bring hands-free driving and more advanced autonomous features to more vehicles. The two companies jointly developed the new software system, which signals a growing role for automakers in the development of their autonomous systems. It’s built on Qualcomm’s Snapdragon Ride system-on-a-chip using this jointly developed software stack. And Qualcomm says it was built “to meet the highest safety standards,” citing the European Union’s New Car Assessment Programme for Level 2 Plus systems.\n\nThe San Diego-based chipmaker says it currently has $45 billion in future revenue in its automotive pipeline right now\n\n\nThese systems are similar to Tesla’s Full Self-Driving, GM’s Super Cruise, and Ford’s BlueCruise, insofar as they allow drivers to remove their hands from the steering wheel and feet from the pedals on approved roads. (Different auto brands have different rules about when this is allowed, and for how long.)\nThe system, which Qualcomm calls its Snapdragon Ride Pilot, made its debut at the Munich auto show today in the BMW iX3, which is the German automaker’s first “Neue Klasse” next-gen electric vehicle. Qualcomm says the system has been validated for use in more than 60 countries, with plans to expand to over 100 in 2026. Snapdragon Ride Pilot will be made available to all automakers and Tier-1 suppliers. \nWhile most hands-free systems are marketed as convenience features, Qualcomm says its new driver-assist features should also help improve safety. “That’s why we believe at Qualcomm that ADAS [advanced driver-assist systems] and automated driving should be as prevalent as seatbelts,” Qualcomm VP for product marketing Ignacio Contreras said in a recent briefing, “not only for the safety benefits that it brings to the car, but also for the convenience and productivity improvements that technology brings to users worldwide.”\nWith more cars equipped with partial automation hitting the road, safety researchers are growing increasingly worried about driver attention and the potential for these systems to cause crashes. There is compelling evidence that, regardless of the company, most driver-assist systems are less safe than normal human driving. Drivers tend to develop an overreliance on these systems to drive the car for them — even after a short period of use. And when it’s time to take back control of the vehicle, their reaction times are slower than what’s considered safe.\nQualcomm says the new software will ensure that the driver stays engaged with the road using the vehicle’s monitoring system. “The system has the built-in redundancy from that perspective,” said Dheeraj Ahuja, the company’s head of autonomous driving. “It has multiple algorithms trying to make these decisions as safe as possible. However, life on the road is quite chaotic at times, and this is where the driver engagement is very important.”",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "18970d608a5f89ad3528d91e6607d341daa1dbde",
-      "title": "Council U-turn on abusive language crackdown",
-      "url": "https://www.bbc.com/news/articles/cn82lm14pdpo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-05T09:27:49.000Z",
-      "summary_90w": "",
-      "raw": "Thanet District Council says it plans to review the evidence and consult on an amended order.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -219,19 +284,6 @@
       "published": "2025-09-05T09:01:00.000Z",
       "summary_90w": "",
       "raw": "The iceberg, known as A23a, has been on a journey following the current into warmer waters for months. Now, it has begun the predicted and natural process of breaking apart, and eventually melting.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c0d692486b5cc35ea745b2b2151fe84b888efffc",
-      "title": "Sunny weather and football boosted retail sales in July",
-      "url": "https://www.bbc.com/news/articles/c5yjd7v9xj0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-05T09:00:09.000Z",
-      "summary_90w": "",
-      "raw": "Sales volumes rose by a stronger-than-expected 0.6% in July, official statistics show.",
       "topics": [
         "World"
       ]
@@ -357,7 +409,7 @@
       "id": "dc75229a503f700540aff2f119496dc4f239e3dc",
       "title": "Thailand names third prime minister in two years",
       "url": "https://www.bbc.com/news/articles/cr4q051zxgyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-09-05T08:56:04.000Z",
       "summary_90w": "",
@@ -484,19 +536,6 @@
       ]
     },
     {
-      "id": "03528fbfca8be2b935310ab4aa2fa4071804ec0c",
-      "title": "Better get used to your smart lights having built-in microphones",
-      "url": "https://www.theverge.com/news/772038/lepro-smart-light-built-in-microphone-ifa",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-05T06:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Lepro TB1-Pro AI table lamp. | Image: Lepro\t\n\nWe’re all used to having our lights respond to verbal commands at this point. But normally, there’s a middleman passing our commands along, whether that’s our phone or a smart speaker that is actually listening to what we say. Lepro is eliminating the need for a separate controller by building a microphone directly into the power cord on its new AI Lighting Pro series.\nThe lineup includes a light strip (S1-Pro AI), a rope light (N1-Pro AI), a rail-thin floor lamp (OE1-Pro AI), and a wild-looking table lamp (TB1-Pro AI). The S1 is a pretty standard light strip, while the N1 adds diffusion to create a more seamless look. The OE1 includes RGB and a 2700K warm-white mode for reading and relaxing. And the TB1 has three independently movable and configurable intertwined rings that resemble a gyroscope. There’s no word on pricing or when they’ll launch in the US outside of “later in 2025.”\nAll have a built-in microphone and a voice assistant called LightGPM, which you can summon by saying “Hey Lepro.” While the capabilities are limited to controlling the light, the level of control is impressive. It can handle basic stuff like turning lights on and off and changing colors, but it can also use an LLM to create lighting patterns and effects in response to moods or activities like “I’m doing yoga” or “I’m a very stressed-out Mets fan.” \nThe lights also have Wi-Fi and can integrate with Alexa and Google Assistant, but that’s not what makes them interesting. It’s the standalone operation, the addition of yet another device in your home that is always listening. Other manufacturers have built voice control directly into their products, like Roborock and Ecovacs on their vacuums, and Sonos on its speakers, but it’s less common on lights (Dollar Tree is clearly a pioneer). The question is, do you need another device in your house listening to your every word and feeding it to an LLM? Maybe not, but chances are you’re gonna have to get used to it.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "a2ebe463b9c2060be0b20f35da586a0703cbbe3a",
       "title": "Legion Go 2 official: Lenovo’s new flagship handheld costs $1,099 — and up",
       "url": "https://www.theverge.com/news/769776/legion-go-2-official-lenovo-new-flagship-handheld-cost",
@@ -531,19 +570,6 @@
       "published": "2025-09-05T06:00:00.000Z",
       "summary_90w": "",
       "raw": "This is what going 90 looks like on a laptop.\t\n\nLenovo has made laptop screens that roll, flip, and go transparent, and now for IFA 2025 it’s announcing a new concept with a screen that can rotate into portrait mode. The Lenovo ThinkBook VertiFlex Concept is a pretty standard-looking 14-inch productivity laptop, but if you nudge the screen’s edge from its top-right corner, the whole display rotates 90 degrees within its chassis, realigning itself into a better view for documents, coding, or doomscrolling.\nThat’s it. That’s its whole trick. It’s both utterly delightful and a touch mundane — much simpler than other, wilder Lenovo concepts. There isn’t some fancy flexible OLED display or whirring motor built into the chassis — just a clever, pivoting track system hidden behind its screen. It’s one of the most down-to-earth Lenovo concepts yet, which means it’s got a good chance of turning into a real product.\nI got to see the concept laptop in person during an early preview in New York City ahead of its IFA debut in Berlin. As with other Lenovo concepts, I found it charming, and the company reps had an anxious air of “Do you think this is cool too?” \nAnd, well, it is pretty cool. If you’re like me and you often plug your laptop into a big monitor and use the laptop screen as a secondary display, being able to use it in a vertical orientation is pretty nifty.\nThe screen was easy enough to rotate vertically with one hand. I felt obligated to be gentle with it and hold the laptop deck down with my other hand to prevent the whole thing toppling over, but it was sturdy enough that that wasn’t necessary. Once the screen is turned, the laptop lid has just enough room on either side to rest a phone beside it, the better for using Lenovo’s Smart Connect app to transfer files and control your Android phone with your mouse — though it wasn’t fully working in my brief demo.\nThere isn’t much else to the VertiFlex concept laptop itself. Lenovo isn’t talking full specs, but the one I saw had two Thunderbolt (presumably Thunderbolt 4) ports, one USB-A port, HDMI, and a 3.5mm audio jack. The 14-inch concept laptop is not especially thin or particularly light, at 17.9mm / 0.7 inches thick and 1.39kg / 3.06 pounds. It’s a little thinner and two-thirds of a pound lighter than the rollable ThinkBook Plus, but still thicker and heavier than a conventional laptop like the ThinkPad X9.\nI was excited last year by the ThinkBook Flip concept, which took the flexible OLED from the rollable and turned it into a slightly simpler folding-screen setup. With a standard non-flexible panel and fewer moving parts like motors, the VertiFlex is even simpler. I’m not quite as stoked by a regular old rotating screen as I am by ones that fold or flip, but it still seems fun and potentially useful — and likely to be a lot cheaper than the $3,300 ThinkPad Plus Gen 6 rollable. Lenovo reps told me that the VertiFlex concept could also be easily scaled to different laptop sizes. Do people want their laptop screens to rotate into portrait mode? I have no idea. I certainly wouldn’t mind it, for the right price. But I love quirky devices, and I’m happy to see Lenovo throw more ideas at the wall and see what sticks.\nPhotography by Antonio G. Di Benedetto / The Verge",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "5f521a845afc61327023c61d1c1cb92b1d1f18f4",
-      "title": "This stand can automatically lift, tilt, and turn your laptop toward you",
-      "url": "https://www.theverge.com/news/772033/this-stand-can-automatically-lift-tilt-and-turn-your-laptop-towards-you",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-05T06:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Laptop stands are a dime a dozen, but this one adapts to you. It also “dances.”\t\n\nLenovo’s Smart Motion Concept laptop stand, announced at IFA 2025, automatically raises and lowers itself and turns and tilts to position your laptop at an ergonomic eye level. It’s a lot like an amped-up Apple Center Stage webcam, but the whole laptop adapts to you and your posture.\nThat’s basically what it felt like when it was demoed for me at a recent preview event, where it tracked me side to side and up and down around a table. In another demo, it did a “dance” where it ran through its full range of motion to some cheesy music. (More Elaine than any TikTok-level choreography.)\nThe stand’s other features include built-in cooling fans and a USB hub. The USB connection allows Lenovo’s software to use the webcam to keep the user in frame. In addition to face tracking, the stand is controllable with a remote or through hand gestures while wearing Lenovo’s AI Ring — another concept it showed back at MWC.\nThe Smart Motion stand was born from Lenovo’s Auto Twist concept, a laptop that turned its screen to face you. Lenovo envisions that, should a product with this tech ever launch, part of its role could be to meet accessibility needs in a variety of laptops.\nPhotography by Antonio G. Di Benedetto / The Verge",
       "topics": [
         "Technology"
       ]
@@ -609,6 +635,19 @@
       "published": "2025-09-05T04:41:52.000Z",
       "summary_90w": "",
       "raw": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "dfb6ba7762df09ceaafd583fee84b75298e7844f",
+      "title": "'I'll try to kick his ass' - Sabalenka wants 'battle of the sexes' game against Kyrgios",
+      "url": "https://www.bbc.com/sport/tennis/articles/c0m40npwezko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-05T03:37:46.000Z",
+      "summary_90w": "",
+      "raw": "World number one Aryna Sabalenka says 'I'll try my best to kick his ass' if a proposed 'Battle of the Sexes'-style match with Nick Kyrgios goes ahead.",
       "topics": [
         "World"
       ]
@@ -687,32 +726,6 @@
       "published": "2025-09-05T02:05:28.000Z",
       "summary_90w": "",
       "raw": "The most recent earthquake on Thursday night sent people rushing out of their homes in panic.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "36b188204caaaeca2dcddb05c2b25f2f4e35951d",
-      "title": "Rubio says US will 'blow up' foreign crime groups if needed",
-      "url": "https://www.bbc.com/news/articles/cx23nzwjnwwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-05T01:43:49.000Z",
-      "summary_90w": "",
-      "raw": "The secretary of state made the comments during a trip to Ecuador, where he announced new measures targeting criminal gangs.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "36b188204caaaeca2dcddb05c2b25f2f4e35951d",
-      "title": "US prepared to 'blow up' foreign crime groups if needed, US secretary of state says",
-      "url": "https://www.bbc.com/news/articles/cx23nzwjnwwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-05T01:43:49.000Z",
-      "summary_90w": "",
-      "raw": "The secretary of state made the comments during a trip to Ecuador, where he announced new measures targeting criminal gangs.",
       "topics": [
         "World"
       ]
@@ -949,19 +962,6 @@
       "raw": "The new fund hopes to send a \"Seqouia-like\" signal to other investors that there are promising later-stage climate tech startups waiting to be funded.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "05d5fc75c6515532991512b7bd43705d506ecf2c",
-      "title": "Boy, 3, pulled from funicular crash that has shocked Portugal",
-      "url": "https://www.bbc.com/news/articles/cgrqj7ydr0ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-04T20:33:09.000Z",
-      "summary_90w": "",
-      "raw": "It is unclear what caused the crash in which 16 people died and more than 20 were injured, including many foreign nationals.",
-      "topics": [
-        "World"
       ]
     },
     {
