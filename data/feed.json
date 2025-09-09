@@ -1,16 +1,55 @@
 {
-  "version": "1757405976861",
-  "generatedAt": "2025-09-09T08:19:36.861Z",
+  "version": "1757407429262",
+  "generatedAt": "2025-09-09T08:43:49.262Z",
   "items": [
     {
+      "id": "7bf31c7ec6f7d3a6c606878a6c354828ed5298d3",
+      "title": "Windows 11 SSD issues blamed on reviewers using &#8216;early versions of firmware&#8217;",
+      "url": "https://www.theverge.com/report/774201/phison-windows-11-ssd-issues-early-firmware",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-09T08:27:59.000Z",
+      "summary_90w": "",
+      "raw": "Reports have been circulating for the past few weeks that recent Windows 11 updates (KB5063878 and KB5062660) were causing some SSDs using Phison controllers to fail. While plenty of YouTube and TikTok videos have blamed Microsoft for the issues, Phison has identified “early versions of firmware and BIOS” as the problem instead.\n“Many of the reports originate from media testing conducted on hardware running early versions of firmware and BIOS,” says Michael Wu, GM and President of Phison US, in a statement to The Verge. “These versions are performance preview drives and are not identical to those provided to end users through official distribution channels. We have observed that outdated firmware is still being used on some SSDs and we encourage any reviewers facing this to leverage updated channel firmware readily available through manufacturer-provided update utilities.”\nYouTuber JayzTwoCents claimed last week that the “Windows update and SSD problem is WAY worse than we thought!” JayzTwoCents showed a Crucial T500 drive (with a Phison E25 controller) failing after Microsoft’s latest Windows 11 security updates, and needing a power cycle to come back to life. It’s not clear whether JayzTwoCents was using pre-release SSD firmware, or even an early motherboard BIOS.\nPhison was able to replicate issues reported by the PCDIY! community though, and found that these were down to engineering preview firmware. “Phison examined the exact SSDs used in the PCDIY! testing and determined PCDIY! was utilizing an engineering preview firmware, which is not the final firmware used in the Corsair Force Series MP600 SSD 2TB and other drives with the E16 controller available for sale to consumers on the market,” explains Wu. Phison also performed the same tests on consumer SSDs and found no crashes or failures.\nMicrosoft said late last month that it had “found no connection” between its security updates and the drive failures reported on social media and elsewhere. That didn’t stop many people, including prominent YouTubers, from blaming Microsoft for the SSD issues. That’s hardly surprising though, given Microsoft’s history of chaotic Windows updates.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "31bd01bf9c60501d44aa088c1b19295afecb7b55",
+      "title": "François Bayrou to resign as French PM as government collapses to spark crisis – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/09/france-crisis-government-emmanuel-macron-europe-latest-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-09T08:24:53.000Z",
+      "summary_90w": "",
+      "raw": "Government collapses after Emmanuel Macron’s ally wins support of just 194 MPs with 364 against\nBonjour.\nAfter a dramatic debate in the National Assembly last night, the ousted French prime minister François Bayrou is expected at the Élysée Palace today to formally resign from the post, starting the clock for president Emmanuel Macron to name the next person to take on the impossible mission of passing the budget in the current, extraordinarily divided, parliament.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "89fc1f60cd9aa607aa391d407e572b9d8ee0e149",
-      "title": "Australia news live: Brittany Higgins ordered to pay 80% of Linda Reynolds’ legal costs after defamation ruling",
+      "title": "News live: some Australians living in US may have to return home to renew visa under new Trump administration rules",
       "url": "https://www.theguardian.com/australia-news/live/2025/sep/09/australia-news-live-anthony-albanese-vanuatu-china-pacific-forum-murray-watt-nature-protection-laws-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-09-09T08:09:31.000Z",
+      "published": "2025-09-09T08:23:44.000Z",
       "summary_90w": "",
-      "raw": "Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nInman Grant said big tech is not stopping online sharing of child abuse images\nInman Grant said last night none of the big technology companies are doing enough to stop images of “the most heinous abuse to children” from being shared online.\nThey use anthropomorphism to mimic real human conversation, and they also use a bit of sycophancy to reinforce all your beliefs and to keep you chatting. And the problem with children who don’t have the cognitive ability to really ascertain what is real and what is not, in terms of a relationship with a human versus a computer program, this has led to some tragic outcomes.\nWe need guardrails and we don’t need a body count or ruined or lost lives like we’ve seen in the US here in Australia.\n Continue reading...",
+      "raw": "Follow today’s news live\n\nBrittany Higgins ordered to pay 80% of Linda Reynolds’ legal costs after defamation ruling\n\nGet our breaking news email, free app or daily news podcast\n\nInman Grant said big tech is not stopping online sharing of child abuse images\nInman Grant said last night none of the big technology companies are doing enough to stop images of “the most heinous abuse to children” from being shared online.\nThey use anthropomorphism to mimic real human conversation, and they also use a bit of sycophancy to reinforce all your beliefs and to keep you chatting. And the problem with children who don’t have the cognitive ability to really ascertain what is real and what is not, in terms of a relationship with a human versus a computer program, this has led to some tragic outcomes.\nWe need guardrails and we don’t need a body count or ruined or lost lives like we’ve seen in the US here in Australia.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "42a898bb51d45aa7c618b05edea72ee504e49d98",
+      "title": "Badenoch 'worried' UK may need IMF bailout",
+      "url": "https://www.bbc.com/news/articles/c89dx7z98g7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-09T08:23:08.000Z",
+      "summary_90w": "",
+      "raw": "The Conservative leader tells the BBC the UK could be forced to go \"cap in hand\" unless the government delivers a plan for economic growth.",
       "topics": [
         "World"
       ]
@@ -102,6 +141,19 @@
       "published": "2025-09-09T07:32:08.000Z",
       "summary_90w": "",
       "raw": "The new league tables score trusts on measures including finances and patient access to care.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7b6c653830a09a7b83e60d235b433366ef9d4cb9",
+      "title": "The pride of Ethiopia - What it took to build Africa's largest hydro-electric dam",
+      "url": "https://www.bbc.com/news/articles/cr4qx6377qgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-09T07:29:19.000Z",
+      "summary_90w": "",
+      "raw": "In a fractious nation, the dam's construction has brought people together despite controversy abroad.",
       "topics": [
         "World"
       ]
@@ -374,7 +426,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-09T04:06:31.000Z",
       "summary_90w": "",
-      "raw": "After four years on the run with their father, Phillips three children have all been located and are ‘doing well under the circumstances’, say authorities\nPolice in New Zealand have released images and given details of the campsite where two of fugitive Tom Phillips’ children were found, after their father was shot and killed by police on Monday.\nPhillips had spent nearly four years hiding in the wilderness with his children. He was killed in an exchange of fire with police after reports of a burglary in the remote town of Piopio. A police officer is recovering in hospital after being shot in the head by Phillips with a high-powered rifle in the standoff. About 11 hours after Phillips was killed, two of his children were found safe and well at the campsite in Waitomo. It is understood the third child was with Phillips at the time of the shooting.\n Continue reading...",
+      "raw": "After four years on the run with their father, Phillips’ three children have all been located and are ‘doing well under the circumstances’, say authorities\nPolice in New Zealand have released images and given details of the campsite where two of fugitive Tom Phillips’ children were found, after their father was shot and killed by police on Monday.\nPhillips had spent nearly four years hiding in the wilderness with his children. He was killed in an exchange of fire with police after reports of a burglary in the remote town of Piopio. A police officer is recovering in hospital after being shot in the head by Phillips with a high-powered rifle in the standoff. About 11 hours after Phillips was killed, two of his children were found safe and well at the campsite in Waitomo. It is understood the third child was with Phillips at the time of the shooting.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -432,19 +484,6 @@
       ]
     },
     {
-      "id": "42a898bb51d45aa7c618b05edea72ee504e49d98",
-      "title": "Badenoch 'worried' UK may need IMF bailout",
-      "url": "https://www.bbc.com/news/articles/c89dx7z98g7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-09T03:24:12.000Z",
-      "summary_90w": "",
-      "raw": "The Conservative leader tells the BBC the UK could be forced to go \"cap in hand\" unless the government delivers a plan for economic growth.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "32db2407a94e414f83c0b83b96fc7c1cdc34389d",
       "title": "US lawmakers release Epstein 'birthday book' with alleged Trump note ",
       "url": "https://www.bbc.com/news/articles/cvgqnn4ngvdo?at_medium=RSS&at_campaign=rss",
@@ -468,6 +507,19 @@
       "raw": "Nepal has reversed its social media ban following nationwide “Gen Z” protests and public backlash.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "36bfe6c4f3313e95430b5531feab0618f45800dd",
+      "title": "Tunisia denies claims Greta Thunberg's Gaza flotilla was hit by drone",
+      "url": "https://www.bbc.com/news/articles/cly67g7pdlko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-09T02:23:16.000Z",
+      "summary_90w": "",
+      "raw": "Leaders of the flotilla say the fire was caused by a drone but Tunisian authorities say the claims are not true.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -562,6 +614,19 @@
       ]
     },
     {
+      "id": "799f90d88d736597fd15a6f56375e5f9adac8607",
+      "title": "Why monsoon rains have been so deadly in India this year",
+      "url": "https://www.bbc.com/news/articles/c9wdr08wq2zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-08T23:02:59.000Z",
+      "summary_90w": "",
+      "raw": "Rains have caused landslides and severe floods in parts of the country and killed hundreds.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "87ecb72aee1bb4d097c882dee343af3b0e5f2b97",
       "title": "Bazball 'misconceptions' are 'disrespectful' - McCullum",
       "url": "https://www.bbc.com/sport/cricket/articles/c87y80jel42o?at_medium=RSS&at_campaign=rss",
@@ -624,6 +689,19 @@
       "raw": "AMD’s FSR 4 AI upscaling and frame-generation technology can now be enabled for “most games that support FSR 3.1 with DirectX 12,” the company says in the patch notes for its newest 25.9.1 driver.  This support has been a big promise from AMD, but it’s taken awhile to come to fruition; FSR 4 first launched alongside the company’s RX 9000-series graphics cards back in March.\nAMD touts FSR 4, its competitor to Nvidia’s DLSS 4, as a “significant leap forward” over FSR 3. “By utilizing ML algorithms, FSR 4 can intelligently predict and compensate for lost pixels during low-resolution rendering, thereby providing gamers with high performance and crisp, high-definition visuals that are just as good as native,” AMD says.\nThe new driver brings official FSR 4 support to cover more than 85 titles. But for FSR 3.1 games, you can force FSR 4 by flipping a toggle in the AMD Software: Adrenalin Edition app. “This last step allows the driver to override the FSR 3.1 game implementation with the latest version of FSR 4,” according to AMD. \nFSR 4 support has slowly been trickling out to games since its release, including being added to titles like Cyberpunk 2077, Ghost of Tsushima, and F1 25.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "09724871117da7d410f0dcdf709e3e32ed2b89fa",
+      "title": "Japan is set to choose its fourth PM in five years - who could be next?",
+      "url": "https://www.bbc.com/news/articles/c62l9488ljlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-08T22:00:24.000Z",
+      "summary_90w": "",
+      "raw": "Japan's next leader will face the challenge of steering a much weakened government.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -991,19 +1069,6 @@
       ]
     },
     {
-      "id": "067dc99f6e3671ad907dd7a7d00bdfaa5006a1ec",
-      "title": "Third British victim of Lisbon funicular crash was 82-year-old man from Holyhead",
-      "url": "https://www.theguardian.com/world/2025/sep/08/third-british-victim-of-lisbon-funicular-crash-was-82-year-old-man-from-holyhead",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-08T18:09:57.000Z",
-      "summary_90w": "",
-      "raw": "Andrew David Kenneth Young, a transport enthusiast, among 16 who died when tourist attraction derailed\nThe third British victim of the Lisbon funicular crash has been named by Welsh police as Andrew David Kenneth Young, 82, a transport enthusiast from Holyhead.\nYoung was among 16 people who died when the Elevador da Glória, a popular tourist attraction, derailed in the centre of the Portuguese capital on Wednesday.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8cd7c4e39cfd0f683f4b2cf54a484029416907d1",
       "title": "Hamas discussing US 'ideas' for Gaza ceasefire after Trump's 'last warning'",
       "url": "https://www.bbc.com/news/articles/cn0rxl7jwwpo?at_medium=RSS&at_campaign=rss",
@@ -1155,19 +1220,6 @@
       "published": "2025-09-08T17:00:47.000Z",
       "summary_90w": "",
       "raw": "From a new slim iPhone Air model to  redesigned AirPods, here's what to expect from this year's Apple event.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "7834a30d0ed275f815ce16127360611953385b5c",
-      "title": "Google admits the open web is in ‘rapid decline’",
-      "url": "https://www.theverge.com/news/773928/google-open-web-rapid-decline",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-08T16:50:20.000Z",
-      "summary_90w": "",
-      "raw": "For months, Google has maintained that the web is “thriving,” AI isn’t tanking traffic, and its search engine is sending people to a wider variety of websites than ever. But in a court filing from last week, Google admitted that “the open web is already in rapid decline,” as spotted earlier by Jason Kint and reported on by Search Engine Roundtable.\nGoogle submitted the filing ahead of another trial that will determine how it will address its monopoly in the advertising technology business. The US Department of Justice recommends that Google break up its advertising business, but the company argues in the filing that this isn’t ideal because it would “only accelerate” the decline of the open web, “harming publishers who currently rely on open-web display advertising revenue.”\nGoogle:\nFinally, while Plaintiffs continue to advance essentially the same divestiture remedies they noticed in their complaint filed in January 2023, the world has continued to turn. Plaintiffs put forth remedies as if trial, the Court’s liability decision, and remedies discovery never happened—and also as if the incredibly dynamic ad tech ecosystem had stood still while these judicial proceedings continued. \nBut the changes have been many: AI is reshaping ad tech at every level; non-open web display ad formats like Connected TV and retail media are exploding in popularity; and Google’s competitors are directing their investments to these new growth areas. The fact is that today, the open web is already in rapid decline and Plaintiffs’ divestiture proposal would only accelerate that decline, harming publishers who currently rely on open-web display advertising revenue. As the law makes clear, the last thing a court should do is intervene to reshape an industry that is already in the midst of being reshaped by market forces.\nThe statement sharply contrasts Google’s recent narrative about the health of search on the web. Google has a clear incentive to make itself appear weaker or less monopolistic in the courtroom, but its admission reflects a reality many publishers are going through. Several digital publishers and independent website owners have reported experiencing a decline in traffic following changes to Google Search’s algorithm and the rise of AI chatbots. \nIn an emailed statement to The Verge, Google spokesperson Jackie Berté said the statement is “one cherry-picked line that misrepresents” the company’s legal filing. “It’s clear from the preceding sentence that we’re referring to ‘open-web display advertising’ and not the open web as a whole,” Berté said. “We are pointing out the obvious: that investments in non-open web display advertising like connected TV and retail media are growing at the expense of those in open web display advertising.”\nWhen asked about changes to web traffic during an episode of Decoder in May, Google CEO Sundar Pichai said the company is “definitely sending traffic to a wider range of sources and publishers” following the rollout of AI search tools.\nNick Fox, Google’s senior vice president of knowledge, similarly defended Google against claims that changes to search are impacting web traffic. “From our point of view, the web is thriving,” Fox said on an episode of the AI Inside podcast. In the wake of a report from Pew Research, which said people are “less likely” to click on links when presented with Google’s AI Overview, Google Search head Liz Reid claimed that click volume has remained “relatively stable” when compared to the same time last year, adding that Google continues to “send billions of clicks to websites every day.”\nView Link\nUpdate, September 8th: Added a statement from Google.",
       "topics": [
         "Technology"
       ]
@@ -1407,19 +1459,6 @@
       ]
     },
     {
-      "id": "82eb201f0fb6c960f6bd056609aa7f6a5000188d",
-      "title": "Duped of millions in 'digital arrest', Indian woman seeks answers from banks",
-      "url": "https://www.bbc.com/news/articles/clydllln9lgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-08T00:45:32.000Z",
-      "summary_90w": "",
-      "raw": "Anjali asks why such huge sums leaving her account didn’t trigger red flags and automatic alerts.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "560ce79c5ad9c75d0a13333406a1f6952e60334e",
       "title": "Carlos Alcaraz wins his 2nd U.S. Open at match delayed by Trump's attendance",
       "url": "https://www.npr.org/2025/09/07/nx-s1-5533207/carlos-alcaraz-trump-us-open-tennis-rolex",
@@ -1454,32 +1493,6 @@
       "published": "2025-09-07T23:14:55.000Z",
       "summary_90w": "",
       "raw": "Some 400 US agents took part in the immigration raid on the Hyundai facility, detaining hundreds of workers, many South Korean nationals.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "67443c3bc8ea74ec08ff53c2960049d49b2088ad",
-      "title": "'I don't dare go back': BBC visits Cambodian villages caught in Thai border conflict ",
-      "url": "https://www.bbc.com/news/articles/c059j8759rlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-07T22:04:15.000Z",
-      "summary_90w": "",
-      "raw": "Tension along disputed parts of the border with Thailand erupted into conflict in July, leaving dozens dead.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ce1f11abc06037f96091936f74176bcd11cd3e44",
-      "title": "Greta Thunberg's Gaza flotilla arrives in Tunisia",
-      "url": "https://www.bbc.com/news/articles/c4gjz0d366eo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-07T20:53:14.000Z",
-      "summary_90w": "",
-      "raw": "The boats, carrying 350 pro-Palestinian activists and stocked with medical and food supplies, are en route to Gaza.",
       "topics": [
         "World"
       ]
