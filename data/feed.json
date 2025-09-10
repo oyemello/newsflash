@@ -1,6 +1,6 @@
 {
-  "version": "1757503701996",
-  "generatedAt": "2025-09-10T11:28:21.996Z",
+  "version": "1757504247282",
+  "generatedAt": "2025-09-10T11:37:27.282Z",
   "items": [
     {
       "id": "2e33163f88b726341f7665fb60df09f51a9edec9",
@@ -29,6 +29,19 @@
       ]
     },
     {
+      "id": "182605071b77d2a7879cb3410e4841e1613d96cd",
+      "title": "New French PM takes office as ‘Block Everything’ protests rock country – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/10/france-block-everything-protests-macron-lecornu-europe-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-10T11:17:59.000Z",
+      "summary_90w": "",
+      "raw": "Sebastien Lecornu appointment comes amid protests across France including 1,000 demonstrators trying to enter Gare du Nord station in Paris\nEmmanuel Macron appoints his third prime minister in a year\nA teacher taking part in the protests in Paris said he was against the ousted government’s planned budget cuts. “[François]Bayrou was ousted, [now] his policies must be eliminated,” Christophe Lalande told Reuters, calling for more funding for schools and hospitals.\nAt another protest in the city, unionist Amar Lagha told the news agency:\nThis day is a message to all the workers of this country: that there is no resignation, the fight continues, and a message to this government that we won’t back down, and if we have to die, we’ll die standing.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "637bf42c7bd8cea9b26baa21ca2e995383fa2f80",
       "title": "Children feared among three dead in Channel crossing attempt",
       "url": "https://www.bbc.com/news/articles/ckgy0n4d99jo?at_medium=RSS&at_campaign=rss",
@@ -37,6 +50,19 @@
       "published": "2025-09-10T11:16:50.000Z",
       "summary_90w": "",
       "raw": "Calais authorities say the three who died were likely crushed to the bottom of the boat.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "86930cf8dcb8d0002a141956106ee004328f5e28",
+      "title": "Poland’s PM warns prospect of military conflict ‘closer than at any time since second world war’ amid Russian drone incursion – live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/10/poland-pm-condemns-repeated-violation-of-airspace-amid-russian-attack-on-ukraine-follow-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-10T11:11:31.000Z",
+      "summary_90w": "",
+      "raw": "Tusk says there were 19 violations of Polish airspace overnight and most likely that four drones shot down\n\nFull report: Poland shoots down drones over its territory amid Russian attack on Ukraine, says military\n\nLubelskie region governor Krzysztof Komorski is leading an emergency meeting with the police this morning. \n\r\n In a post on X, he urged residents to follow the guidance from the relevant authorities.\nPrime minister Donald Tusk meanwhile said in his latest update that he is in “constant contact” with Nato secretary general Mark Rutte.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -130,32 +156,6 @@
       "raw": "Ask someone their worst fears about AI, and you'll find a few recurring topics - from near-term fears like AI tools replacing human workers and the loss of critical thinking to apocalyptic scenarios like AI-designed weapons of mass destruction and automated war. Most have one thing in common: a loss of human control. \nAnd the system many AI experts fear most will spiral out of our grip? Elon Musk's Grok. \nGrok was designed to compete with leading AI systems like Anthropic's Claude and OpenAI's ChatGPT. From the beginning, its selling point has been loose guardrails. When xAI, Musk's AI startup, debuted Grok in November 2023, the announceme …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "182605071b77d2a7879cb3410e4841e1613d96cd",
-      "title": "New French PM takes office as ‘Block Everything’ protests rock country – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/10/france-block-everything-protests-macron-lecornu-europe-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-10T10:56:34.000Z",
-      "summary_90w": "",
-      "raw": "Sebastien Lecornu appointment comes amid protests across France including 1,000 demonstrators trying to enter Gare du Nord station in Paris\nEmmanuel Macron appoints his third prime minister in a year\nA teacher taking part in the protests in Paris said he was against the ousted government’s planned budget cuts. “[François]Bayrou was ousted, [now] his policies must be eliminated,” Christophe Lalande told Reuters, calling for more funding for schools and hospitals.\nAt another protest in the city, unionist Amar Lagha told the news agency:\nThis day is a message to all the workers of this country: that there is no resignation, the fight continues, and a message to this government that we won’t back down, and if we have to die, we’ll die standing.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "86930cf8dcb8d0002a141956106ee004328f5e28",
-      "title": "Poland’s PM warns prospect of military conflict ‘closer than at any time since second world war’ amid Russian drone incursion – live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/10/poland-pm-condemns-repeated-violation-of-airspace-amid-russian-attack-on-ukraine-follow-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-10T10:55:32.000Z",
-      "summary_90w": "",
-      "raw": "Tusk says there were 19 violations of Polish airspace overnight and most likely that four drones shot down\n\nFull report: Poland shoots down drones over its territory amid Russian attack on Ukraine, says military\n\nLubelskie region governor Krzysztof Komorski is leading an emergency meeting with the police this morning. \n\r\n In a post on X, he urged residents to follow the guidance from the relevant authorities.\nPrime minister Donald Tusk meanwhile said in his latest update that he is in “constant contact” with Nato secretary general Mark Rutte.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -309,7 +309,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-10T10:07:25.000Z",
       "summary_90w": "",
-      "raw": "Three double killings come as police carry out ‘targeted operations’ to tackle gang violence in Cape Flats area\nSix people have been shot dead in two days in a crime-plagued area of Cape Town, adding to the death toll in a city already reeling from the scourge of gang-related violence.\nAt 11.30pm on Monday, two women aged 19 and 25 were killed and a 24-year-old woman injured in a shooting in Wallacedene, an informal settlement on Cape Town’s north-eastern edge, according to South African police. About 10 minutes later, two other women in their 20s were killed by gunshots to the head in a bedroom in the same area, with police saying the incidents may be linked.\n Continue reading...",
+      "raw": "Three double killings come as police carry out ‘targeted operations’ to tackle gang violence in Cape Flats area\nSix people have been shot dead in two days in a crime-plagued area of Cape Town, adding to the death toll in a city already reeling from the scourge of gang-related violence.\nAt 11.30pm on Monday, two women, aged 19 and 25, were killed and a 24-year-old woman injured in a shooting in Wallacedene, an informal settlement on Cape Town’s north-eastern edge, South African police said. About 10 minutes later, two other women in their 20s were killed by gunshots to the head in a bedroom in the same area, with police saying the deaths may be linked.\n Continue reading...",
       "topics": [
         "World"
       ]
