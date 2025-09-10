@@ -1,16 +1,146 @@
 {
-  "version": "1757507026438",
-  "generatedAt": "2025-09-10T12:23:46.438Z",
+  "version": "1757509503037",
+  "generatedAt": "2025-09-10T13:05:03.037Z",
   "items": [
     {
-      "id": "d15d9a5891ad997b6c2babf039c4a54231edf42b",
-      "title": "By listening to these birds for decades, scientists track signs of a changing forest",
-      "url": "https://www.npr.org/2025/09/10/nx-s1-5535788/songbirds-experimental-forest-change-new-hampshire",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-10T12:09:53.000Z",
+      "id": "aa7e9305139bd6082166ca3e6b8d50571f651392",
+      "title": "AI gaming startup Born raises $15M to build ‘social’ AI companions that combat loneliness",
+      "url": "https://techcrunch.com/2025/09/10/born-maker-of-virtual-pet-pengu-raises-15m-to-launch-a-new-wave-of-social-ai-companions/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-10T13:00:00.000Z",
       "summary_90w": "",
-      "raw": "Scientists tracking the birds in an experimental forest in New Hampshire have also tracked changes in the forest ecosystem over decades.",
+      "raw": "Born, maker of cute virtual pet Pengu, believes the current chatbot landscape isn't the final form factor for AI friends. The Berlin-based startup raised $15M on the idea that AI companions should have a social component.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "953d83e2803be1e929e5cb4490903ae14444a410",
+      "title": "Grammarly can now fix your Spanish and French grammar",
+      "url": "https://www.theverge.com/news/775144/grammarly-new-languages",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-10T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "For 16 years, a team of linguists carefully crafted and honed the grammar editing software Grammarly to match natural English language patterns. Now, the company is getting a big assist from AI to expand similar offerings to five more languages: Spanish, French, Portuguese, German, and Italian. This expansion caters to what has been the “number one feature request” since the company’s founding, according to Grammarly’s VP of enterprise product, Luke Behnke. \nIn addition to catching spelling mistakes, the app reworks sentences and paragraphs to match the tone of native speech and improve the overall clarity — now in six languages. Grammarly also translates the six core languages into 19 different languages “without having to leave the tool and go to another translation provider,” Behnke says. \nThe competition for AI-based software for languages other than English is heating up, with Google Search’s AI Mode just broadening the number of languages by five and Apple’s latest AirPods debuting a live language translation feature. \nGrammarly indicated a broader ambition to become an AI productivity app, starting with the acquisition of the buzzy email application Superhuman in July, followed by the launch of nine AI agents designed for students and educators.\nThe company says that its software has been built on machine learning from the get-go. “We call it an agent. … I know that’s maybe an overused AI word at this point, but it is kind of the first agent that people ever used,” Behnke says of Grammarly’s proofreading product. Large language models entered the picture in 2023. The software is built on open-source large language models that are fine-tuned by analytical linguists. \nThe number of new linguist teams did not “linearly scale” with the increased number of languages offered by Grammarly, Behnke said. The company used “a smaller group of people” in addition to internal feedback and evaluations of the new languages, Behnke says. Suggestions and paragraph rewrites emerge from these in-house models “hosted on our infrastructure with our own security controls and very tight training rules,” Behnke says.\nIn the beta rollout to “about a million” users, native speakers of the five new languages accepted Grammarly’s suggestions at rates similar to English speakers. The rollout took some users by surprise when the familiar red lines suddenly appeared under text written in their native language, Behnke says.\nGrammarly also uses third-party LLMs for advanced features. Users can choose to incorporate an external LLM from major companies such as OpenAI, Behnke says. While third-party LLMs cannot train on Grammarly user data, Grammarly does train its own models on user data. Enterprise and education customers automatically have training turned off, while other users have to opt out of training. \nWhile the company has not disclosed which languages are in the pipeline, Behnke says that Grammarly customers specializing in customer support services have requested more languages in the global areas where offshore call centers are located.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "02286458d93ebba7a362c5fcc7de80357055d898",
+      "title": "Grammarly now offers spelling and grammar check for five more languages",
+      "url": "https://techcrunch.com/2025/09/10/grammarly-now-offers-spelling-and-grammar-check-for-five-more-languages/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-10T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Grammarly built its reputation on being a tool for checking spelling, grammar, and writing tips in English. The company is now expanding the scope of these features to support five new languages: Spanish, French, Portuguese, German and Italian.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2195f22fad5cda0e7589a485398bd395411b3101",
+      "title": "Hands-on: Nvidia’s GeForce Now RTX 5080 is better and worse than I hoped",
+      "url": "https://www.theverge.com/hands-on/775222/nvidia-geforce-now-rtx-5080-hands-on",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-10T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Today, Nvidia is soft-launching its latest gaming GPUs in the cloud - upgrading its $20-a-month GeForce Now Ultimate cloud gaming service with RTX 5080 graphics for select games, with more to come down the road. At the same time, it's also adding thousands more titles to the bring-your-own-games service by letting you install them yourself, while also unlocking a 360Hz mode for ultra-fast desktop monitors, launching a 90Hz version of its Steam Deck app, and more.\nDo all these changes make GeForce Now fundamentally better? Absolutely, and it was already pretty good! But while playing I couldn't escape the thought: it's a good thing Nvidia is …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7d32193fcc4c99c45ad2c6792971ad069f2f9972",
+      "title": "Lyft and May Mobility launch robotaxis in Atlanta",
+      "url": "https://techcrunch.com/2025/09/10/lyfts-modest-robotaxi-launch-highlights-growing-gap-with-uber-and-waymo/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-10T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Lyft is trying to carve out a presence in the autonomous vehicle market. But the ride-hailing company still lags far behind Uber.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "97857e351a407ffc87bf29ba4a0974fdcd1cbfde",
+      "title": "Rendezvous Robotics exits stealth with $3M to build reconfigurable space infrastructure",
+      "url": "https://techcrunch.com/2025/09/10/rendezvous-robotics-exits-stealth-with-3m-to-build-reconfigurable-space-infrastructure/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-10T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Rendezvous Robotics wants to scale the space industry by changing the way structures are built on orbit.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "769ca66f50336ba383c77098ea30618439f32579",
+      "title": "The web has a new system for making AI companies pay up",
+      "url": "https://www.theverge.com/news/775072/rsl-standard-licensing-ai-publishing-reddit-yahoo-medium",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-10T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "A new licensing standard aims to let web publishers set the terms of how AI system developers use their work. On Wednesday, major brands like Reddit, Yahoo, Medium, Quora, and People Inc. announced support for Really Simple Licensing (RSL), an open content licensing standard that enables publishers to outline how bots should pay to scrape their sites for AI training data. They’re hoping the collective action gives them leverage to get AI companies on board.\nThe RSL Standard builds upon the robots.txt protocol, which has long allowed publishers to provide instructions to web crawlers about what parts of their site they can and can’t access. But instead of just saying yes or no to specific bots, websites can now add licensing and royalty terms to their robots.txt file. They can also embed the terms in online books, videos, and training datasets that they may want compensation for.\nBehind the RSL Standard is a newly formed rights organization called the RSL Collective, helmed by Eckart Walther, a co-creator of the Really Simple Syndication (RSS) standard and former CardSpring CEO, and Doug Leeds, the former CEO of IAC Publishing and Ask.com. “The goal is to create a new, scalable business model for the web,” Walther tells The Verge. “RSL takes some of those early RSS ideas and creates a new layer for the entire internet where licensing rights and compensation rights are defined.”\nThe RSL Standard supports a variety of licensing models, including free ones. Site owners can ask AI companies to pay a subscription or assign a pay-per-crawl fee through the RSL Standard, which companies must pay each time an AI bot crawls the website. They can also implement a pay-per-inference fee, allowing sites to receive compensation when an AI model references their work to generate a response. Bots that are crawling sites for other purposes, like archival or search engine inclusion, can proceed as usual.\n\n“What we’re doing is not reinventing wheels or inventing wheels.”\n\n\nSeveral media companies, including The Verge parent company Vox Media, The Wall Street Journal owner News Corp, and The New York Times, have struck licensing agreements with individual AI companies such as OpenAI and Amazon. But the RSL Collective aims to simplify this process by allowing any website owner or creator to get paid for their work rather than negotiating separate deals.\nLike a lot of standards, RSL’s success depends on major industry players — in this case, AI companies — buying into it. AI model builders have repeatedly been accused of ignoring sites’ robots.txt files, and there’s no simple way to tally something like the inference fee without their participation. The RSL Collective is betting that bringing together some of the biggest web publishers will make adopting the standard more appealing. “Our job is to go out and get a big group of people to say it’s in your interest, both efficiently, because you can negotiate with everybody at once, and legally, because if you don’t, you’re violating everybody at once,” Leeds says.\nThe RSL Standard by itself also can’t block bots from visiting a website, unlike the “pay per crawl” system already offered by Cloudflare. The RSL Collective is currently working with Fastly, a content delivery network, to admit AI bots to websites based on whether they’ve agreed to license content. Fastly is “the bouncer at the door to the club, and they won’t let people in unless they have the right ID,” Leeds says. “RSL is issuing the IDs. So we say, ‘Hey, you’ve agreed to license this content,’ and Fastly says, ‘Come on, in your ID checks out.’” Publishers who don’t use Fastly can still ask AI companies to license their content, but they’ll be unable to block AI crawlers until more providers build a solution.\nLeeds believes that the RSL Collective can legally enforce licenses as well, as he says “all participants in the collective rights organization participate in the enforcement of any infringement,” spreading the legal costs. He compares the system to existing digital rights organizations, like the music rights group ASCAP, which collects licensing fees and distributes them to members. While conventional music licensing benefits from a particularly strong and well-established legal precedent for copyright protection, however, unauthorized scraping and the use of media for training AI systems still land in a legal gray area, with major AI players currently fighting lawsuits from Reddit, Getty Images, and many online publishers.\n“There has always been a question of whether bots have agreed to terms that they don’t see,” Leeds and Walther added in an emailed statement. “RSL changes that fundamentally, putting crawlers on notice of what the terms are before they access a site.”\nEven so, Leeds hopes the system can create an intuitive way to navigate licensing works for AI training. “What we’re doing is not reinventing wheels or inventing wheels — we’re just bringing them to a place that they haven’t existed before,” Leeds says. “The reason they haven’t existed here before is because they haven’t had a standard that we could build on. So that’s why RSL Standard is so important: it gives the infrastructure to then create the things that have worked in every other media industry that hasn’t happened yet.”\nThe RSL Collective is free for publishers and creators to join, with other big brands like O’Reilly, wikiHow, and IGN owner Ziff Davis also on board.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2326ad0ca194fcf2ca4864c968fcbcec8ef65fd7",
+      "title": "This app just raised $14M to take on the loneliness epidemic",
+      "url": "https://techcrunch.com/2025/09/10/this-gen-z-founded-app-just-raised-14m-to-take-on-the-loneliness-episdemic/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-10T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Clyx is social platform that helps users find IRL community events to join.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3f9fb1a9ae6b2643d98bfd51e972e401dde7a3bf",
+      "title": "Zoox opens its Las Vegas robotaxi service to the public",
+      "url": "https://techcrunch.com/2025/09/10/zoox-opens-its-las-vegas-robotaxi-service-to-the-public/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-10T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "But it's not quite a commercial service just yet. These rides are free — for now.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b13baba09a2166be6abeed7906607f3792833643",
+      "title": "Zoox’s robotaxis are open for business in Las Vegas",
+      "url": "https://www.theverge.com/news/774748/zoox-amazon-robotaxi-las-vegas-public",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-10T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Amazon’s Zoox announced today that it’s making its robotaxis available to all customers in Las Vegas. The company says it is the first to operate with a purpose-built autonomous vehicle in commercial service. And the news comes a few weeks after federal regulators gave the company the green light to expand the use of its robotaxis for demonstration purposes. \nZoox says that its toaster-shaped AVs will be available for passenger trips on the Las Vegas Strip starting today. The vehicles are limited to pickups and dropoffs at only a handful of destinations, including Resort World Las Vegas, AREA15, Topgolf, and other “resort and entertainment properties.” The company says it will be adding new destinations as it gradually expands it service. \nZoox’s robotaxis are fully driverless insofar as they lack traditional controls like pedals and steering wheels. Instead, the interior of the vehicle features bench seats positioned on either side, so passengers face each other while they ride. The exterior is covered in sensors, including cameras, lidar, and radar. The vehicles typically won’t exceed 45 mph when in operation. \nZoox is also inviting interested riders to join its waitlist for a robotaxi service in San Francisco. Zoox has a permit to test its driverless vehicles in two cities, San Francisco and Foster City, under certain circumstances, but has yet to receive a permit for a commercial robotaxi service in the state. The company is also testing vehicles in Los Angeles, Seattle, and Austin. Zoox plans to deploy a total of 50 vehicles across both Las Vegas and San Francisco. “Over time, this will scale to meet increased demand,” spokesperson Marissa Wigam said.\nIn Las Vegas, Zoox’s robotaxis will pickup and dropoff passengers from designated zones at its partnering destination. Resort World and AREA15, in particular, have created Zoox-only zones with a “Zoox concierge” onsite to help with passenger with questions they may have. \nRides can be requested in the Zoox app, where customers will find a bevy of Uber-like details, like wait times, license plate numbers of arriving vehicles, and options to submit feedback. For those in need of assistance, a “help” button in both the app and vehicle will connect them to remote operators. \nVerge contributor Abigail Bassett tested Zoox’s robotaxis at CES earlier this year, and found the seats in particular to be too thin and uncomfortable. (Others who have tested the vehicles have made similar criticisms.) But aside from a few “pucker” moments, the robotaxi did relatively well. The route was predetermined, and with today’s announcement, it sounds like those waiting for a truly dynamic, go-anywhere, 24/7, purpose-built robotaxi service will have to wait a bit longer.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c7b70e8456a1017fae26d04b586fb5d56937d0a0",
+      "title": "South Korean woman who bit off attacker’s tongue acquitted after 61 years",
+      "url": "https://www.theguardian.com/world/2025/sep/10/south-korean-woman-who-bit-off-attackers-tongue-acquitted-after-61-years",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-10T12:55:02.000Z",
+      "summary_90w": "",
+      "raw": "Choi Mal-ja’s appeal gained momentum after #MeToo movement inspired her to seek justice\nA court in South Korea has acquitted a woman convicted six decades ago after biting off part of a man’s tongue during an alleged sexual assault, after she challenged the ruling, inspired by the country’s #MeToo movement.\nChoi Mal-ja was 19 in 1964 when she was attacked by a 21-year-old man in the southern town of Gimhae. He pinned her to the ground and repeatedly forced his tongue into her mouth, at one point blocking her nose to stop her from breathing, according to court records.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -21,9 +151,139 @@
       "url": "https://www.theguardian.com/world/live/2025/sep/10/france-block-everything-protests-macron-lecornu-europe-live-news-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-09-10T12:09:25.000Z",
+      "published": "2025-09-10T12:49:32.000Z",
       "summary_90w": "",
-      "raw": "Sebastien Lecornu appointment comes amid protests across France including 1,000 demonstrators trying to enter Gare du Nord station in Paris\nEmmanuel Macron appoints his third prime minister in a year\nA teacher taking part in the protests in Paris said he was against the ousted government’s planned budget cuts. “[François]Bayrou was ousted, [now] his policies must be eliminated,” Christophe Lalande told Reuters, calling for more funding for schools and hospitals.\nAt another protest in the city, unionist Amar Lagha told the news agency:\nThis day is a message to all the workers of this country: that there is no resignation, the fight continues, and a message to this government that we won’t back down, and if we have to die, we’ll die standing.\n Continue reading...",
+      "raw": "Sébastien Lecornu appointment comes amid protests across France including 1,000 demonstrators trying to enter Gare du Nord station in Paris\nEmmanuel Macron appoints his third prime minister in a year\nA teacher taking part in the protests in Paris said he was against the ousted government’s planned budget cuts. “[François]Bayrou was ousted, [now] his policies must be eliminated,” Christophe Lalande told Reuters, calling for more funding for schools and hospitals.\nAt another protest in the city, unionist Amar Lagha told the news agency:\nThis day is a message to all the workers of this country: that there is no resignation, the fight continues, and a message to this government that we won’t back down, and if we have to die, we’ll die standing.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "86930cf8dcb8d0002a141956106ee004328f5e28",
+      "title": "Poland closer to conflict than any time since second world war, PM says, as Russia claims drone incursion was unintentional – live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/10/poland-pm-condemns-repeated-violation-of-airspace-amid-russian-attack-on-ukraine-follow-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-10T12:47:17.000Z",
+      "summary_90w": "",
+      "raw": "Donald Tusk says there were 19 violations of Polish airspace overnight and most likely that four drones shot down\n\nFull report: Poland shoots down drones over its territory amid Russian attack on Ukraine, says military\n\nLubelskie region governor Krzysztof Komorski is leading an emergency meeting with the police this morning. \n\r\n In a post on X, he urged residents to follow the guidance from the relevant authorities.\nPrime minister Donald Tusk meanwhile said in his latest update that he is in “constant contact” with Nato secretary general Mark Rutte.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0d419850870765f0051c95b57e13ec916ed95efb",
+      "title": "Thomas Skinner sorry over Strictly interview exit",
+      "url": "https://www.bbc.com/news/articles/c1l8vnzmeqpo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-10T12:46:42.000Z",
+      "summary_90w": "",
+      "raw": "The former Apprentice star left abruptly before finishing his media duties ahead of the new series.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7d30e64d94e18bd426d9221454301eec1c632092",
+      "title": "Reddit is dropping subscriber counts on subreddits",
+      "url": "https://www.theverge.com/news/775524/reddit-subreddit-member-count-vistors-contributions",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-10T12:44:30.000Z",
+      "summary_90w": "",
+      "raw": "Reddit users can no longer see how many people are subscribed to their favorite subreddit communities. The platform has announced that it’s removing the member count metric that appears on subreddit pages — located under the page bio on the right for desktop users, or at the top under the subreddit name on mobile — to better focus on real-time engagement.\nThe member count is being replaced by two metrics. One shows how many users have visited a subreddit in the past seven days, “based on a rolling 28-day average,” according to Reddit, and the other displays how many contributions have been made in the past seven days, excluding any posts or comments that have been removed. The change aims to provide a better glimpse at how active a subreddit actually is, as Redditors may simply be “lurking” in these communities without adding content or engaging in conversations.\n“Member counts don’t tell the whole story. In most cases, Redditors don’t need to be a member of a community to post or comment, which means member totals have never fully reflected true engagement,” Reddit said in its announcement. “By emphasizing active participation over passive membership, we’re continuing to highlight what makes Reddit unique: real people engaging in real conversations.”\nThis update is part of Reddit’s goal to improve moderation on the platform, because allowing individuals to moderate an unlimited number of large communities isn’t “sustainable,” according to Reddit. The new visitor counts will be used to limit how many busy subreddits each moderator can oversee, restricting them to a maximum of five communities with over 100k visitors. Reddit says that communities with fewer than 100k visitors “won’t count toward this limit,” and that the change will only impact 0.1 percent of active mods.\nModerators can still view the total number of subscribers by looking at the subreddit insights, but this isn’t something that regular Reddit users will be able to see. The changes haven’t gone down well, judging by the comments on Reddit’s post on r/modnews, but the new metrics do seem useful for users who want a more accurate look at how active a subreddit actually is.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2b0615520663f609bb01d6849f514cc2e5d7b6e7",
+      "title": "Sacked referee David Coote accused of making indecent image of child",
+      "url": "https://www.bbc.com/news/articles/c80g5v1lg0eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-10T12:40:20.000Z",
+      "summary_90w": "",
+      "raw": "The former Premier League referee is due in court in Nottingham on Thursday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a021628643fc5c868efed3feb41393d64f2c7b47",
+      "title": "UK's first 'super-university' to be created as two merge from 2026",
+      "url": "https://www.bbc.com/news/articles/cy85905dj2wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-10T12:34:59.000Z",
+      "summary_90w": "",
+      "raw": "Universities are facing ongoing financial worries, with the regulator saying other mergers could follow.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2fb309309a9468af62804db8cba280746e0ba862",
+      "title": "Jihadists 'summarily executed' 127 people in Niger, says rights group  ",
+      "url": "https://www.bbc.com/news/articles/c4gkx78xeg8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-10T12:29:01.000Z",
+      "summary_90w": "",
+      "raw": "Worshippers have been gunned down in mosques and homes have been torched in escalating violence, Human Rights Watch says.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4fd76b83c01aa4823edba66f9883959b72c9b5fd",
+      "title": "Weleda launches inquiry into Nazi camp skin test claims",
+      "url": "https://www.bbc.com/news/articles/cy7pgd5nkr6o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-10T12:23:34.000Z",
+      "summary_90w": "",
+      "raw": "A new study alleges the skincare brand's product was used for human experiments by a Nazi doctor.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "220c941ab8c89c56cc1f04ff6ec0b8dfd99133e3",
+      "title": "Banksy mural scrubbed from Royal Courts of Justice",
+      "url": "https://www.bbc.com/news/articles/cm2z30p033ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-10T12:13:54.000Z",
+      "summary_90w": "",
+      "raw": "The artwork of a judge hitting a protester with a gavel has been removed from the listed building.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "59e7ad23370909f02190e43e1e7c360caa34c32e",
+      "title": "Ursula von der Leyen calls for suspension of EU trade with Israel",
+      "url": "https://www.theguardian.com/world/2025/sep/10/ursula-von-der-leyen-suspension-eu-trade-israel",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-10T12:12:15.000Z",
+      "summary_90w": "",
+      "raw": "Commission president cites illegal West Bank settlement plans, Gaza and attempts to ‘undermine two-state solution’\nThe European Commission president, Ursula von der Leyen, has called for a suspension of trade with Israel, as she spoke of Europe’s “painful” inability to respond to the war on Gaza and ensuing humanitarian disaster.\nIn her most extended condemnation yet of the Israeli government, von der Leyen criticised plans for illegal settlements that would split the occupied West Bank in half, as well as incitement of violence by extremist Israeli ministers, as a “clear attempt to undermine the two-state solution”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d15d9a5891ad997b6c2babf039c4a54231edf42b",
+      "title": "By listening to these birds for decades, scientists track signs of a changing forest",
+      "url": "https://www.npr.org/2025/09/10/nx-s1-5535788/songbirds-experimental-forest-change-new-hampshire",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-10T12:09:53.000Z",
+      "summary_90w": "",
+      "raw": "Scientists tracking the birds in an experimental forest in New Hampshire have also tracked changes in the forest ecosystem over decades.",
       "topics": [
         "World"
       ]
@@ -43,7 +303,7 @@
     },
     {
       "id": "f46fd62eb33bd94a37683832d0239447685b72b5",
-      "title": "More embarrassing Epstein exchanges to come, says Mandelson",
+      "title": "More embarrassing Epstein exchanges to come, says Mandelson as Starmer backs him at PMQs",
       "url": "https://www.bbc.com/news/articles/c5yevwvvneyo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -55,14 +315,14 @@
       ]
     },
     {
-      "id": "86930cf8dcb8d0002a141956106ee004328f5e28",
-      "title": "Poland’s PM warns prospect of military conflict ‘closer than at any time since second world war’ amid Russian drone incursion – live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/10/poland-pm-condemns-repeated-violation-of-airspace-amid-russian-attack-on-ukraine-follow-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-10T12:04:47.000Z",
+      "id": "5442a524c38cdfcaa396e60d2c4a53b31b783ce1",
+      "title": "Protests hit France as new PM takes office",
+      "url": "https://www.bbc.com/news/articles/c8643qg252lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-10T12:01:20.000Z",
       "summary_90w": "",
-      "raw": "Tusk says there were 19 violations of Polish airspace overnight and most likely that four drones shot down\n\nFull report: Poland shoots down drones over its territory amid Russian attack on Ukraine, says military\n\nLubelskie region governor Krzysztof Komorski is leading an emergency meeting with the police this morning. \n\r\n In a post on X, he urged residents to follow the guidance from the relevant authorities.\nPrime minister Donald Tusk meanwhile said in his latest update that he is in “constant contact” with Nato secretary general Mark Rutte.\n Continue reading...",
+      "raw": "A grassroots movement is encouraging people to protest against the political class and proposed budget cuts.",
       "topics": [
         "World"
       ]
@@ -75,7 +335,7 @@
       "source_name": "The Verge",
       "published": "2025-09-10T12:00:00.000Z",
       "summary_90w": "",
-      "raw": "Last month, Joby Aviation purchased Blade Air Mobility’s helicopter taxi business for $125 million, with the goal of eventually replacing those noisy, polluting helicopters with its more quiet, battery-powered air taxis. But while it waits for FAA certification, Joby is teaming up with Uber to get more passengers in its newly acquired fleet of helicopters. \nJoby announced today that Uber customers will soon be able to reserve a helicopter ride on the ridehailing company’s app. The integration will launch “as soon as next year,” at which point Uber customers will be able to book helicopter trips from any of Blade’s Manhattan-based landing pads to a short list of destinations, including JFK and Newark airports as well as the Hamptons. Blade also serves several locales along the French Riviera, including Cannes, Saint-Tropez, Nice, and Monaco. \n\nThe integration will launch “as soon as next year”\n\n\nBlade, which formed in 2014, has a robust helicopter transportation business, having flown more than 50,000 passengers in New York and Souther Europe in 2024. But some experts believe that helicopters could become obsolete as more electric vertical takeoff landing (eVTOL) aircraft are given clearance to fly. Joby, meanwhile, bought itself a leg up over its competitors by acquiring a company with established routes, customers, and infrastructure. \nAnd now, through this Uber partnership, the company will be able to introduce an influential swath of the ridehailing company’s customer base to “the magic of seamless urban air travel,” said JoeBen Bevirt, CEO of Joby, in a statement.  \nJoby is in the process of acquiring FAA certification for its eVTOL aircraft, which looks like an oversized drone and can carry up to four passengers. The vehicle can take off vertically, like a helicopter, and then shift into forward flight using tilt rotors. Joby says it can reach a top speed of 200mph, travel 100 miles on a single battery charge, and is 100 times quieter than a conventional aircraft. Its pouch-style lithium-ion batteries can power the craft’s six electric motors for at least 10,000 flight cycles. \nThe company has been working with Uber for a while, first linking up in 2019, and then eventually acquiring the ridehailing company’s Elevate air taxi division in 2020. Joby plans on launching its first commercial service in Dubai in 2026, and has announced plans to operate in New York, Los Angeles, Florida, the UK, and Japan.",
+      "raw": "Last month, Joby Aviation purchased Blade Air Mobility’s helicopter taxi business for $125 million, with the goal of eventually replacing those noisy, polluting helicopters with its more quiet, battery-powered air taxis. But while it waits for FAA certification, Joby is teaming up with Uber to get more passengers in its newly acquired fleet of helicopters. \nJoby announced today that Uber customers will soon be able to reserve a helicopter ride on the ridehailing company’s app. The integration will launch “as soon as next year,” at which point Uber customers will be able to book helicopter trips from any of Blade’s Manhattan-based landing pads to a short list of destinations, including JFK and Newark airports as well as the Hamptons. Blade also serves several locales along the French Riviera, including Cannes, Saint-Tropez, Nice, and Monaco. \n\nThe integration will launch “as soon as next year”\n\n\nBlade, which formed in 2014, has a robust helicopter transportation business, having flown more than 50,000 passengers in New York and Southern Europe in 2024. But some experts believe that helicopters could become obsolete as more electric vertical takeoff landing (eVTOL) aircraft are given clearance to fly. Joby, meanwhile, bought itself a leg up over its competitors by acquiring a company with established routes, customers, and infrastructure.\nAnd now, through this Uber partnership, the company will be able to introduce an influential swath of the ridehailing company’s customer base to “the magic of seamless urban air travel,” said JoeBen Bevirt, CEO of Joby, in a statement.  \nJoby is in the process of acquiring FAA certification for its eVTOL aircraft, which looks like an oversized drone and can carry up to four passengers. The vehicle can take off vertically, like a helicopter, and then shift into forward flight using tilt rotors. Joby says it can reach a top speed of 200mph, travel 100 miles on a single battery charge, and is 100 times quieter than a conventional aircraft. Its pouch-style lithium-ion batteries can power the craft’s six electric motors for at least 10,000 flight cycles. \nThe company has been working with Uber for a while, first linking up in 2019, and then eventually acquiring the ridehailing company’s Elevate air taxi division in 2020. Joby plans on launching its first commercial service in Dubai in 2026, and has announced plans to operate in New York, Los Angeles, Florida, the UK, and Japan.",
       "topics": [
         "Technology"
       ]
@@ -143,6 +403,19 @@
       "raw": "The app is getting two new modes, Double Date and College Mode — essentially extensions of existing features — alongside a \"For You\" mode on the home screen that presents the classic Tinder experience. The company said it will add more dating modes that will lean into interests, dating intentions, and different ways to connect.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "cfdc2ebe92c1a2e61a4b35c79c7cedd236560592",
+      "title": "Gaza aid flotilla carrying Greta Thunberg reports second drone attack in 24 hours",
+      "url": "https://www.theguardian.com/world/2025/sep/10/gaza-aid-flotilla-carrying-greta-thunberg-reports-second-drone-attack-on-boat-at-tunisian-port",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-10T11:46:06.000Z",
+      "summary_90w": "",
+      "raw": "Global Sumud Flotilla says no passengers or crew harmed by alleged incendiary device dropped on boat in Tunisian port\nA flotilla seeking to break Israel’s aid blockade of Gaza has said it was attacked by a drone for the second time in less than 24 hours.\nThe Global Sumud Flotilla (GSF), which is carrying pro-Palestinian activists, including Greta Thunberg, said in a statement early on Wednesday that it had been attacked by another drone, which dropped an incendiary device on one of its boats, the Alma, as it was moored in the port of Sidi Bou Said in Tunisia. None of the passengers or crew were harmed and no structural damage was caused, it said\n Continue reading...",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -263,19 +536,6 @@
       ]
     },
     {
-      "id": "dc123a7350960b9fe12eaee717dafa769c1320b6",
-      "title": "Nvidia’s latest GeForce driver is ready for Borderlands 4 and RTX Remix mods",
-      "url": "https://www.theverge.com/news/775467/nvidia-geforce-game-ready-driver-borderlands-4-rtx-remix-update",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-10T11:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Nvidia is releasing a new GeForce Game Ready driver today in preparation for the Borderlands 4 release later this week. There’s also an Nvidia app update arriving today that includes a new RTX Remix update to allow modders to improve fire and smoke effects in older games.\nToday’s Game Ready driver (581.29) includes optimizations for DLSS 4 in Borderlands 4, with the new game also supporting Multi Frame Generation and Nvidia’s Reflex technology. Dying Light: The Beast is also part of the Game Ready driver, with optimizations ahead of its release next week with DLSS 4 Multi Frame Generation, DLSS Super Resolution, and regular DLSS Frame Generation support.\nThe new RTX Remix update lets modders create new particles in Remix that are similar to those found in modern games. More than 165 RTX Remix games are now ready to be modded further to improve smoke and fire effects. Modders have managed to greatly improve older games thanks to RTX Remix, and Nvidia used Half-Life 2 as a showcase for its RTX 50-series GPUs and the RTX Remix tool earlier this year.\nNvidia’s RTX 50-series GPUs are also restocked at Amazon, Best Buy, and Newegg with a variety of cards at or close to recommended retail prices. Here are the latest deals available:\nGigabyte GeForce RTX 5060 WINDFORCE OC 8GB GDDR7 – $298.99 at Amazon\nASUS DUAL NVIDIA GeForce RTX 5060 OC Edition 8GB GDDR7 – $299.99 at Best Buy\nZotac GAMING GeForce RTX 5060 Ti 16GB AMP – $599.00 at Newegg CA\nPNY GeForce RTX 5060 Ti 8GB EPIC-X RGB Overclocked – $379.99 at Walmart\nPNY NVIDIA GeForce RTX 5060 Ti 8GB EPIC-X RGB OC Triple Fan – $379.99 at B&H Photo\nASUS PRIME NVIDIA GeForce RTX 5070 12GB GDDR7 – $549.99 at Best Buy\nPNY GeForce RTX 5070 Ti Overclocked Triple Fan – $699.00 at Walmart\nGIGABYTE NVIDIA GeForce RTX 5070 Ti WINDFORCE SFF 16GB GDDR7 – $749.99 at Best Buy\nPNY – GeForce RTX 5080 16GB OC GDDR7 — $999.99 at Best Buy",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "779c843f5b44d69ad8a4c616f6041f00ecbd65f2",
       "title": "Spotify adds lossless streaming after 8 years of teasing",
       "url": "https://www.theverge.com/spotify/775189/spotify-lossless-streaming-flac-audio",
@@ -312,19 +572,6 @@
       "raw": "Ask someone their worst fears about AI, and you'll find a few recurring topics - from near-term fears like AI tools replacing human workers and the loss of critical thinking to apocalyptic scenarios like AI-designed weapons of mass destruction and automated war. Most have one thing in common: a loss of human control. \nAnd the system many AI experts fear most will spiral out of our grip? Elon Musk's Grok. \nGrok was designed to compete with leading AI systems like Anthropic's Claude and OpenAI's ChatGPT. From the beginning, its selling point has been loose guardrails. When xAI, Musk's AI startup, debuted Grok in November 2023, the announceme …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "edeed55ea663f16b45469933a2885fd6d7176614",
-      "title": "Strongbow and Jägermeister pull ads after watchdog probe",
-      "url": "https://www.bbc.com/news/articles/cj07244j6zvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-10T10:51:01.000Z",
-      "summary_90w": "",
-      "raw": "The social media ads were withdrawn after complaints over the way they presented their alcoholic drinks were upheld.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -380,14 +627,14 @@
       ]
     },
     {
-      "id": "a021628643fc5c868efed3feb41393d64f2c7b47",
-      "title": "UK's first 'super-university' to be created as two merge from 2026",
-      "url": "https://www.bbc.com/news/articles/cy85905dj2wo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "id": "33bc623fa4b98469ed6d7eeb3ca66f79faa83a4e",
+      "title": "Watch: Army patrols streets of Kathmandu after fierce protests",
+      "url": "https://www.bbc.com/news/videos/cyv647g63gvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2025-09-10T10:27:40.000Z",
+      "published": "2025-09-10T10:32:09.000Z",
       "summary_90w": "",
-      "raw": "Universities are facing ongoing financial worries, with the regulator saying other mergers could follow.",
+      "raw": "Charlotte Scarr reports from the Kathmandu where deadly protests against corruption and nepotism took place.",
       "topics": [
         "World"
       ]
@@ -455,19 +702,6 @@
       "raw": "Steve Inskeep speaks with Illinois Governor JB Pritzker about President Trump's threats to send National Guard troops to Chicago and the future of the Democratic Party.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "886b638ffe665f03b7054e7b2b0f0108f368650c",
-      "title": "Zillow’s new AI staging feature is impressively unimpressive",
-      "url": "https://www.theverge.com/news/775465/zillow-ai-virtual-staging",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-10T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A before and after image of a bedroom changed using Zillow’s Virtual Staging tool.\t\n\nZillow is launching an AI-powered feature that will allow home hunters to empty the room of furniture or subtly change the design style. The intent is to make it easier to overcome the owner’s dodgy design choices and questionable furniture so buyers can better picture themselves living in a property.\nIn concept, the tool, called Virtual Staging, is great. It tackles a genuine and difficult problem that almost anyone who has searched for a home at some point has encountered. “Too many buyers overlook what could be the perfect home for their family simply because they can’t see past the furniture or design choices,” says Zillow home trends expert Amanda Pendleton.\nUnfortunately, Virtual Staging is rather basic in this phase of the rollout. The lackluster changes are so subtle — adjusting a bit of furniture here, changing the color of a rug there — you’d have trouble knowing anything had changed without the telltale sparkles of AI or the ability to slide back and forth between preselected styles like modern, Scandinavian, luxury and farmhouse.\nZillow says the feature is a “smarter way to shop” and sell, joining an AI search feature it upgraded last year to help shoppers find homes. Its use will be limited to premium “Showcase” listings, and even then it’s only on “select featured room photos.” All the examples seem limited to plain white walls, as well.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -562,19 +796,6 @@
       ]
     },
     {
-      "id": "0c1598b42f85b71ec89dd43feb53a92803c17900",
-      "title": "Wegovy maker Novo Nordisk to cut 9,000 jobs amid increased competition",
-      "url": "https://www.theguardian.com/business/2025/sep/10/ozempic-maker-novo-nordisk-to-cut-9000-jobs-amid-increased-competition",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-10T09:00:41.000Z",
-      "summary_90w": "",
-      "raw": "Danish manufacturer of weight-loss and diabetes drugs under pressure from US rival Eli Lilly \n\nBusiness live – latest news\n\nThe Danish maker of the weight-loss drug Wegovy and diabetes drug Ozempic is to cut 9,000 jobs as it issued a profit warning amid fierce competition from its US rival Eli Lilly.\nNovo Nordisk’s decision to cut 11% of its global workforce of 78,400 takes place as sales of Wegovy have slowed sharply as it has lost ground to Eli Lilly’s Mounjaro jabs, as well as cheaper versions by generic drugmakers, and the pharmaceutical sector faces the threat of targeted US tariffs.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b9de68978e719dc44efdbde5be2d100a778d8028",
       "title": "33 million voters have been run through a Trump administration citizenship check",
       "url": "https://www.npr.org/2025/09/10/nx-s1-5477367/save-election-citizenship-data-trump",
@@ -609,6 +830,19 @@
       "published": "2025-09-10T09:00:00.000Z",
       "summary_90w": "",
       "raw": "People drink more sugary beverages when it's hot, researchers found, significantly increasing their sugar intake. That impact could grow as climate change raises the world's temperatures.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7114bf6194f1cddff2d7d7dfa7ea08b601d92ca4",
+      "title": "Watch: Mandelson says he regrets falling for Epstein's lies",
+      "url": "https://www.bbc.com/news/videos/c5y5v8l14p6o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-10T08:51:03.000Z",
+      "summary_90w": "",
+      "raw": "Watch: Mandelson says he regrets falling for Epstein's lies",
       "topics": [
         "World"
       ]
@@ -702,19 +936,6 @@
       "raw": "Choi Mal-ja only managed to break free after biting off about 1.5cm of her alleged attacker's tongue.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "0b498d353dde0ee901951fe8526be99f332972d7",
-      "title": "Nikon&#8217;s first RED co-brand is the Nikon ZR",
-      "url": "https://www.theverge.com/cameras/775373/nikons-first-red-co-brand-is-the-nikon-zr",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-10T06:01:57.000Z",
-      "summary_90w": "",
-      "raw": "Nikon has just unveiled the ZR, its first official co-brand with RED, the cinema camera company it purchased in April of last year.\nThe ZR takes what Nikon has already been doing well, with its heavily adaptable Z-mount, internal RAW video recording and popular color science and turns it up to 11 for video shooters. That's headlined by its ability to shoot RED R3D NE files. These files allow you to change settings like ISO and white balance can be changed in post, giving you way more flexibility after shooting. It was a big reason people purchased RED cameras in the past, and it'll makes it much easier to color match these cameras to existi …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -887,19 +1108,6 @@
       ]
     },
     {
-      "id": "899641e2f88e05e52a27f32297b4b09e2609f658",
-      "title": "Alzheimer's blood test could 'revolutionise' diagnosis",
-      "url": "https://www.bbc.com/news/articles/cm2ze84e8p1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-10T00:36:00.000Z",
-      "summary_90w": "",
-      "raw": "Scientists leading the trial at University College London believe the blood test could improve the accuracy of diagnosis of the disease to more than 90%.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b2e6aa52f4c884c36ffed1ff202583bab55424a8",
       "title": "See stunning shots of Chappell Roan, Charli XCX and Doja Cat up for music photo award",
       "url": "https://www.bbc.com/news/articles/c306n1ve8y5o?at_medium=RSS&at_campaign=rss",
@@ -913,19 +1121,6 @@
       ]
     },
     {
-      "id": "d1c77c8c26a0195573771df28def0d10bd48a859",
-      "title": "Apple says the iPhone 17 comes with a massive security upgrade",
-      "url": "https://www.theverge.com/news/775234/iphone-17-air-a19-memory-integrity-enforcement-mte-security",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-10T00:05:58.000Z",
-      "summary_90w": "",
-      "raw": "It’s less noticeable than a thinner profile or trick camera lenses, but Apple is pointing out another upgrade in the iPhone 17 family of phones that it says is part of “the most significant upgrade to memory safety in the history of consumer operating systems.” Explicitly targeting the spyware industry that produces exploits for tools like Pegasus to hack on targeted devices, a series of changes in Apple’s chips, OS, and development tools are part of what it calls Memory Integrity Enforcement (MIE).\nWith the introduction of the iPhone 17 lineup and iPhone Air, we’re excited to deliver Memory Integrity Enforcement: the industry’s first ever, comprehensive, always-on memory-safety protection covering key attack surfaces — including the kernel and over 70 userland processes — built on the Enhanced Memory Tagging Extension (EMTE) and supported by secure typed allocators and tag confidentiality protections.\nThe approach is similar to what we’ve seen from Microsoft’s introduction of memory integrity security features for Windows 11, as well as a series of changes that have arrived to prevent speculative-execution vulnerabilities like Spectre. Apple’s blog post also mentions efforts by ARM with the Memory Tagging Extension (MTE) to fight memory bugs, which is supported on Google’s Pixel phones starting with the Pixel 8 series and enabled for supported apps if you turn on Advanced Protection. \n\n\n🔺iPhone models announced today include Memory Integrity Enforcement, the culmination of an unprecedented design and engineering effort that we believe represents the most significant upgrade to memory safety in the history of consumer operating systems. https://t.co/ule9gaXzc1\n— Ivan Krstić (@radian) September 9, 2025\n\n\nApple says its implementation goes a step further, with the ability to protect all users by default and by designing its A19 and A19 Pro chips for enhanced security, while still adding memory safety changes for older hardware that doesn’t support the new memory tagging features. The company also says its new mitigation for Spectre V1 leaks works with “virtually zero CPU cost” — as performance hits have been an issue for memory integrity and other security features — with all of the changes making “mercenary spyware” even more expensive to develop. \nThe folks behind the security-focused GrapheneOS project acknowledged the “major security improvements” that will help iPhone security in a post on X, but also said they had issues with the presentation and how it portrayed iOS security versus features like MTE, already released for Android. We’ll learn more about how much has changed once these updates reach devices and attackers take their turn trying to crack open the iPhone 17 and iPhone Air’s security.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "b0c422100f50c5b7296cd3a56b2078cb7846e313",
       "title": "White House says US military informed Trump about Doha strikes–  as it happened",
       "url": "https://www.theguardian.com/world/live/2025/sep/09/israel-gaza-city-evacuation-order-idf-military-offensive-live-updates-middle-east-crisis-latest-news",
@@ -936,19 +1131,6 @@
       "raw": "This blog has now closed. You can read our full report on the Israeli attack on Hamas leaders in Qatar here and all our reporting on Israel’s war on Gaza here\nDan Sabbagh is the Guardian’s defence and security editor\nFifty-one Israeli arms makers and the US defence giant behind the F-35 fighters used to bomb Gaza are among the 1,600 exhibitors at the biennial DSEI trade show that begins in London’s Docklands on Tuesday.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "ed1c378dffed937cdf490347dac8e75fccb88764",
-      "title": "Apple is giving iPhone 14 and 15 users another free year of satellite features",
-      "url": "https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-09T23:38:46.000Z",
-      "summary_90w": "",
-      "raw": "iPhone 14 and iPhone 15 users are getting another year of free access to satellite connectivity features, according to a footnote on Apple’s newsroom posts for the iPhone 17 and iPhone 17 Pro. “The free trial will be extended for iPhone 14 and iPhone 15 users who have activated their device in a country that supports Apple’s satellite features prior to 12 a.m. PT on September 9, 2025,” Apple says.\nApple originally launched its Emergency SOS service via satellite shortly after it released the iPhone 14 lineup, in November 2022, and at the time, Apple said the feature would be free for the first two years. (The feature is still free for two years after activation on iPhone 14 models and newer.) But in 2023, Apple added an additional free year for existing iPhone 14 users, meaning that the deadline to potentially start paying for the earliest adopters would be November 2025. Now, it appears that deadline has been bumped to November 2026.\nWith iOS 18 last year, Apple expanded its satellite messaging features to let you text friends or family when you’re off the grid. Today, Apple also announced that the new Apple Watch Ultra 3 will have satellite connectivity features.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1017,19 +1199,6 @@
       ]
     },
     {
-      "id": "acd6bba88b0bdae3bf10c6f51fe777e23860a1cc",
-      "title": "Reeves clamps down on emergency funds for ministers ahead of Budget",
-      "url": "https://www.bbc.com/news/articles/cyv63l3395zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-09T22:00:37.000Z",
-      "summary_90w": "",
-      "raw": "Ahead of the Autumn budget, the chancellor is limiting access to the Treasury's emergency funds.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "dbfa6840189ef6b0abde8217328c3b41afcf0ed8",
       "title": "Abducted Israeli-Russian researcher Elizabeth Tsurkov freed in Iraq",
       "url": "https://www.bbc.com/news/articles/cx2xydl9pdjo?at_medium=RSS&at_campaign=rss",
@@ -1090,19 +1259,6 @@
       "published": "2025-09-09T21:10:49.000Z",
       "summary_90w": "",
       "raw": "The PM will stress the \"the action Israel must take to end the horrific suffering\" in Gaza, No 10 said.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3b485095ad8edc48c1a9f45bfa58bcbabcca433b",
-      "title": "Israeli-Russian graduate student freed after 903 days in captivity of Iraqi militant group",
-      "url": "https://www.theguardian.com/us-news/2025/sep/09/israeli-russian-graduate-student-freed-after-903-days-in-hezbollah-captivity",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-09T20:58:21.000Z",
-      "summary_90w": "",
-      "raw": "Elizabeth Tsurkov, who entered Iraq to do research for Princeton, had gone missing there in early 2023\nIsraeli-Russian academic and Princeton student Elizabeth Tsurkov has been released after being kidnapped by an Iraqi Shia militia group and spending more than two years in captivity, Donald Trump said in a post on social media.\n“I am pleased to report that Elizabeth Tsurkov, a Princeton Student, whose sister is an American Citizen, was just released by Kata’ib Hezbollah (MILITANT Hezbollah), and is now safely in the American Embassy in Iraq after being tortured for many months. I will always fight for JUSTICE, and never give up. HAMAS, RELEASE THE HOSTAGES, NOW!” the US president wrote in a TruthSocial post on Tuesday.\nThis article was amended on 10 September 2025. An earlier version incorrectly said Tsurkov was kidnapped by Hezbollah. She was in the captivity of a Iraqi Shia militia group\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1199,58 +1355,6 @@
       ]
     },
     {
-      "id": "e7d2f29e26637ce4c23acfcd8c9663e5b1ba977a",
-      "title": "Israel Strikes Hamas In Qatar",
-      "url": "https://www.bbc.co.uk/sounds/play/p0m1tc3m?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-09T20:07:00.000Z",
-      "summary_90w": "",
-      "raw": "Hamas says six people killed in air strike but its leadership team survived.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "eac05bc5d1f0dbb8da0b46393a76882c585126d6",
-      "title": "Macron names ally Sébastien Lecornu as new French PM",
-      "url": "https://www.bbc.com/news/articles/crmenp1k0mjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-09T20:01:29.000Z",
-      "summary_90w": "",
-      "raw": "It comes after a vote of confidence ousted François Bayrou after nine months in power.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d4c139595932b364975c9d74287679aa59b1b380",
-      "title": "Apple unveils Apple Watch Series 11, Watch Ultra 3, and Watch SE 3",
-      "url": "https://techcrunch.com/2025/09/09/apple-unveils-apple-watch-series-11-watch-ultra-3-and-watch-se-3/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-09T19:55:43.000Z",
-      "summary_90w": "",
-      "raw": "One perk is the Apple Watch Series 11 can alert you to possible hypertension. Apple says it plans to notify over 1 million people with undiagnosed hypertension in the first year alone.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "97b242d53263a834f02d5bd5ee5c5135cfcd21a0",
-      "title": "All of the iPhone 17 models compared",
-      "url": "https://techcrunch.com/2025/09/09/all-of-the-iphone-17-models-compared/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-09T19:26:24.000Z",
-      "summary_90w": "",
-      "raw": "All four of the devices will be available to preorder on Friday and will be available on September 19.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "ab57dffe2f1e167f72af1643fea1f785c951095c",
       "title": "Bowen: Diplomacy in ruins after Israel strikes Hamas leaders in Qatar",
       "url": "https://www.bbc.com/news/articles/cm2zepgp5neo?at_medium=RSS&at_campaign=rss",
@@ -1274,58 +1378,6 @@
       "raw": "The Doha attack signals that Benjamin Netanyahu will press forward hard on all fronts, writes Jeremy Bowen.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "dec57d306b48744bf8cf0ee91cade1da0ad87d0f",
-      "title": "Apple’s new iPhone 17 devices don’t have an AI-powered Siri yet. It doesn’t matter.",
-      "url": "https://techcrunch.com/2025/09/09/apples-new-iphone-17-devices-dont-have-an-ai-powered-siri-yet-it-doesnt-matter/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-09T18:50:09.000Z",
-      "summary_90w": "",
-      "raw": "Until now, Apple has only released what could be considered baseline AI features for its devices, like AI writing tools, summarization, generative AI images, live translation, visual search, and Genmoji, among others.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "b929e8effb57373fe2d7ba3e2ffa214151247996",
-      "title": "iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event",
-      "url": "https://techcrunch.com/2025/09/09/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-09T18:44:26.000Z",
-      "summary_90w": "",
-      "raw": "From a new slim iPhone Air model to  redesigned AirPods, here's what was announced at this year's Apple event.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "7f410d30a71016ebb5e28543a4de6d9e27cb5d01",
-      "title": "Apple debuts the $999 ultra-thin iPhone Air",
-      "url": "https://techcrunch.com/2025/09/09/apple-debuts-the-999-ultra-thin-iphone-air/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-09T18:26:42.000Z",
-      "summary_90w": "",
-      "raw": "This replaces the Plus model in the company’s 2025 lineup, following the underperformance of the iPhone 16 Plus last year.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "8be8bd69b1f300a550f95186f4c7ab6eb4bceb71",
-      "title": "iPhone Air is Apple’s thinnest, lightest iPhone yet",
-      "url": "https://techcrunch.com/video/iphone-air-is-apples-thinnest-lightest-iphone-yet/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-09T18:15:00.000Z",
-      "summary_90w": "",
-      "raw": "Apple announced a new iPhone Air, coming in at just 145 grams and a 5.5mm thickness as the company tries to pack a punch in a slim design. Does that also mean we might see a foldable iPhone in the near future? Apple remains behind on that form factor, but the Air brings it one […]",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1368,14 +1420,14 @@
       ]
     },
     {
-      "id": "12ee62380315570c9993a99b483a6cb3b2731a19",
-      "title": "Nepal parliament set on fire after PM resigns over anti-corruption protests",
-      "url": "https://www.bbc.com/news/articles/c0m4vjwrdwgo?at_medium=RSS&at_campaign=rss",
+      "id": "73f065a0ff97169913df5471d003c050292c6048",
+      "title": "More than a dozen robbers storm jewellery shop in California",
+      "url": "https://www.bbc.com/news/videos/c1edl9qppelo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2025-09-09T16:57:48.000Z",
+      "published": "2025-09-09T17:11:04.000Z",
       "summary_90w": "",
-      "raw": "KP Sharma Oli steps down amid Nepal's worst unrest in decades, with at least 22 deaths reported in clashes.",
+      "raw": "An 88-year-old jewellery store owner in San Jose is recovering after being assaulted during a violent smash-and-grab robbery.",
       "topics": [
         "World"
       ]
@@ -1420,6 +1472,19 @@
       ]
     },
     {
+      "id": "7b6c653830a09a7b83e60d235b433366ef9d4cb9",
+      "title": "The pride of Ethiopia - What it took to build Africa's largest hydro-electric dam",
+      "url": "https://www.bbc.com/news/articles/cr4qx6377qgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-09T15:33:01.000Z",
+      "summary_90w": "",
+      "raw": "In a fractious nation, the dam's construction has brought people together despite controversy abroad.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "0b7bbe56c335a5284801381e0fb0268841ce0acb",
       "title": "'The Office' creators deliver 'The Paper,' a sharp mockumentary about journalism",
       "url": "https://www.npr.org/2025/09/09/nx-s1-5535137/the-office-creators-deliver-the-paper-a-sharp-mockumentary-about-journalism",
@@ -1430,45 +1495,6 @@
       "raw": "The issues facing journalism these days — from online clickbait to corporate interference — run throughout The Paper. But it's primarily a comedy, with characters and actors that will win you over.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "2cbc52a60c278440b9feaacfd22134c511670f48",
-      "title": "Russian air strike kills 24 in pension queue, Ukraine says",
-      "url": "https://www.bbc.com/news/articles/c1jz08j8313o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-09T14:36:46.000Z",
-      "summary_90w": "",
-      "raw": "The attack targeted the eastern village of Yarova, officials say, a few kilometres from the front line.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "400f674fecbc0511aeac11938cd9f483e70d8bc2",
-      "title": "Surprise as Ivory Coast's ex-first lady cleared to contest presidency",
-      "url": "https://www.bbc.com/news/articles/cy4jpjqy9wlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-09T14:33:25.000Z",
-      "summary_90w": "",
-      "raw": "Simone Gbagbo will run against President Alassane Ouattara, who is seeking a controversial fourth term.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "54c811e354dd58ba41b5872e4c20b6f6b1979314",
-      "title": "Dozens of DR Congo mourners killed in attack linked to jihadist group",
-      "url": "https://www.bbc.com/news/articles/czdj4qgm4d9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-09T14:30:05.000Z",
-      "summary_90w": "",
-      "raw": "A funeral ceremony was being held in a village when the night-time assault took place, officials say.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1524,19 +1550,6 @@
       ]
     },
     {
-      "id": "ec005248a3896bda17a53ced282d69a827255940",
-      "title": "ICC hears war crimes case against Ugandan rebel leader",
-      "url": "https://www.bbc.com/news/articles/c1kwe02vyvdo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-09T11:31:06.000Z",
-      "summary_90w": "",
-      "raw": "This is the court's first-ever confirmation of charges hearing without the accused present.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1097d90ff1d8a06a7f69bf485cef26b33abb0a4a",
       "title": "Here's what happens when private equity buys homes in your neighborhood",
       "url": "https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords",
@@ -1563,32 +1576,6 @@
       ]
     },
     {
-      "id": "7f0fef5926ad08fac48daea9ee918216942349fa",
-      "title": "Murdochs reach deal in succession battle over media empire",
-      "url": "https://www.bbc.com/news/articles/cn825x71g4do?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-09T10:01:36.000Z",
-      "summary_90w": "",
-      "raw": "Lachlan Murdoch will retain control of the conservative Fox and News Corp empire under the deal.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9378e09d87d3a68b88f425c5d0382e5eee98f44a",
-      "title": "At least 10 dead after train crashes into bus in Mexico",
-      "url": "https://www.bbc.com/news/articles/c98elewrepko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-09T09:40:09.000Z",
-      "summary_90w": "",
-      "raw": "An investigation is under way after a freight train hit a bus as it tried to cross railway tracks.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "eb434b6040dc3a728f1bf892db9aff0fe30d9d63",
       "title": "Trump wants to win AI race, but his immigration policies could get in the way",
       "url": "https://www.npr.org/2025/09/09/nx-s1-5479090/trump-wants-to-win-ai-race-but-his-immigration-policies-could-get-in-the-way",
@@ -1602,32 +1589,6 @@
       ]
     },
     {
-      "id": "4908a9e47356afa8eac588b20a065e2900a7b343",
-      "title": "Norway's left clinches vote win as populist right surges into second place",
-      "url": "https://www.bbc.com/news/articles/cq65255l27qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-09T07:38:58.000Z",
-      "summary_90w": "",
-      "raw": "Labour has a chance of forming a narrow majority if it secures the support of four smaller parties on the centre left.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e8d88eadd40bf7553df55ac7237b44d4b8733ff7",
-      "title": "Thai court rules ex-PM Thaksin must serve one year in jail",
-      "url": "https://www.bbc.com/news/articles/cly7k2g37g4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-09T06:41:09.000Z",
-      "summary_90w": "",
-      "raw": "The Supreme Court ruling is yet another blow to the influential Shinawatra political dynasty.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b43f1a70cd709e15aa36363cd06d0de67efbd2d1",
       "title": "Albanese went to Vanuatu to sign a $500m agreement – but leaves empty-handed thanks to concerns about China",
       "url": "https://www.theguardian.com/australia-news/2025/sep/09/albanese-went-to-vanuatu-to-sign-a-500m-agreement-but-leaves-empty-handed-thanks-to-concerns-about-china",
@@ -1636,19 +1597,6 @@
       "published": "2025-09-09T06:31:43.000Z",
       "summary_90w": "",
       "raw": "Vanuatu’s PM says ‘more discussions’ needed on Nakamal agreement due to concerns over his nation’s ability to seek infrastructure funding from other countries\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe federal government is racing to save a major new agreement with Vanuatu, after Anthony Albanese’s plans to sign the deal were rebuffed over concerns about infrastructure funding from China.\nSpeaking alongside Vanuatu’s prime minister, Jotham Napat, on Tuesday, Albanese said he was confident the Nakamal agreement will be “able to be signed soon”, talking up cooperation and proper process with Vanuatu’s governing coalition.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a9448aa73221d75321a7cae4cc340fbb464b4943",
-      "title": "NZ 'suitcase murder': Anti-depressants found in children's bodies",
-      "url": "https://www.bbc.com/news/articles/c1wgqpx3q1go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-09T06:07:00.000Z",
-      "summary_90w": "",
-      "raw": "A jury heard Hakyung Lee killed her children in an attempted mass suicide after her husband's death.",
       "topics": [
         "World"
       ]
@@ -1680,45 +1628,6 @@
       ]
     },
     {
-      "id": "d2490d90ed4ec14bc10563301cb4cba1d28932c4",
-      "title": "First photos of site where NZ bushman hid children released",
-      "url": "https://www.bbc.com/news/articles/cj4y9ev2rw4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-09T04:32:15.000Z",
-      "summary_90w": "",
-      "raw": "Police also found a stash of firearms and ammunition at the campsite surrounded by dense vegetation.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "56bb7bae5d6fad8a89cc779a183e2d37e0cfa7c1",
-      "title": "Images of Tom Phillips’ remote campsite revealed a day after fugitive father shot dead by New Zealand police",
-      "url": "https://www.theguardian.com/world/2025/sep/09/tom-phillips-new-zealand-remote-campsite-images-pictures-revealed",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-09T04:06:31.000Z",
-      "summary_90w": "",
-      "raw": "After four years on the run with their father, Phillips’ three children have all been located and are ‘doing well under the circumstances’, say authorities\nPolice in New Zealand have released images and given details of the campsite where two of fugitive Tom Phillips’ children were found, after their father was shot and killed by police on Monday.\nPhillips had spent nearly four years hiding in the wilderness with his children. He was killed in an exchange of fire with police after reports of a burglary in the remote town of Piopio. A police officer is recovering in hospital after being shot in the head by Phillips with a high-powered rifle in the standoff. About 11 hours after Phillips was killed, two of his children were found safe and well at the campsite in Waitomo. It is understood the third child was with Phillips at the time of the shooting.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3d033bcc9ad5bb685bd656044f345a264761ab17",
-      "title": "Ferrari chair to do community service over tax case",
-      "url": "https://www.bbc.com/news/articles/c8d7q99yd06o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-08T23:36:20.000Z",
-      "summary_90w": "",
-      "raw": "John Elkann and two of his siblings will pay €183m to settle an Italian inheritance tax dispute.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "650cdff15223761bb9f2b9c5da0e0a913ec8e09c",
       "title": "It's taken three years to recover from China hack, election watchdog says",
       "url": "https://www.bbc.com/news/articles/c80gl8yvj9go?at_medium=RSS&at_campaign=rss",
@@ -1729,6 +1638,32 @@
       "raw": "In the first interview about the hack, the commission's new boss admits that huge mistakes were made, but says the organisation is now secure.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "799f90d88d736597fd15a6f56375e5f9adac8607",
+      "title": "Why monsoon rains have been so deadly in India this year",
+      "url": "https://www.bbc.com/news/articles/c9wdr08wq2zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-08T23:02:59.000Z",
+      "summary_90w": "",
+      "raw": "Rains have caused landslides and severe floods in parts of the country and killed hundreds.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "09724871117da7d410f0dcdf709e3e32ed2b89fa",
+      "title": "Japan is set to choose its fourth PM in five years - who could be next?",
+      "url": "https://www.bbc.com/news/articles/c62l9488ljlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-08T22:00:24.000Z",
+      "summary_90w": "",
+      "raw": "Japan's next leader will face the challenge of steering a much weakened government.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1753,6 +1688,45 @@
       "published": "2025-09-08T18:12:48.000Z",
       "summary_90w": "",
       "raw": "Johnson’s office sent invoice to hedge fund manager, which was paid, weeks after meeting Venezuelan leader last year\n\nRevealed: how Boris Johnson traded PM contacts for global business deals\n\nFrom a private jet somewhere over the Caribbean Sea in February last year, Boris Johnson called his old political adversary David Cameron, then the foreign secretary, to notify him of a visit.\nJohnson had taken a day out from a family holiday in the Dominican Republic for an unlikely meeting with the leftwing president of Venezuela, Nicolás Maduro, a man whom Johnson, when in office, had likened to a “dictator of an evil regime”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5b0777425ff706aa0a48864d0d28e30987c4189a",
+      "title": "Why the French PM had to go and what happens next?",
+      "url": "https://www.bbc.com/news/articles/cy4r7dmxgxmo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-08T17:18:52.000Z",
+      "summary_90w": "",
+      "raw": "France's prime minister has lost a confidence vote, sending parliament into another period of chaos and uncertainty.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c0a9e015ed19cb89202decdc9f0ba220e6c18f7b",
+      "title": "'Playing perfectly' - how does Alcaraz rank v men's tennis legends at 22?",
+      "url": "https://www.bbc.com/sport/tennis/articles/czew374r499o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-08T15:16:05.000Z",
+      "summary_90w": "",
+      "raw": "BBC Sport explores Carlos Alcaraz's stunning record compared to tennis' biggest legends in the men's game after his sixth Grand Slam triumph.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9cb378cc85e8cb3a084ce045d63bad7d81ad4efb",
+      "title": "How the coup trial of Jair Bolsonaro has divided Brazil",
+      "url": "https://www.bbc.com/news/articles/cn4wx9zlpj5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-08T14:37:59.000Z",
+      "summary_90w": "",
+      "raw": "The ex-president is accused of trying to overturn his election loss but his supporters say it is a witch hunt.",
       "topics": [
         "World"
       ]
@@ -1784,6 +1758,19 @@
       ]
     },
     {
+      "id": "a17d725e28af25ca18a225e04e46ddd1a9a797a8",
+      "title": "Watch: Glitz, glamour and emotional speeches at VMAs 2025",
+      "url": "https://www.bbc.com/news/videos/crl5ngr2069o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-08T09:04:06.000Z",
+      "summary_90w": "",
+      "raw": "The MTV Video Music Awards (VMAs) have taken place in New York, with high profile figures in the music industry taking to the red carpet.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "6e00fb424ec91f139262628f5690412ff9932b90",
       "title": "Food-makers are phasing out artificial dyes. The problem: Americans love the color",
       "url": "https://www.npr.org/2025/09/08/nx-s1-5529276/sams-club-food-dye-taste-history",
@@ -1807,6 +1794,19 @@
       "raw": "The United States imports oil products from India's Reliance Industries refinery, which sources nearly half its oil from Russia.",
       "topics": [
         "Business"
+      ]
+    },
+    {
+      "id": "2ddfbb3dc5f62c8ce222017e5bcb40503f190088",
+      "title": "Huge drugs bust reveals battles on cocaine 'superhighway'",
+      "url": "https://www.bbc.com/news/articles/c5yvplyrrwno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-08T05:02:40.000Z",
+      "summary_90w": "",
+      "raw": "An audacious attempt to smuggle tonnes of cocaine was stopped, but pressure from drug cartels remains.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -2273,19 +2273,6 @@
       "published": "2025-04-30T14:04:28.000Z",
       "summary_90w": "",
       "raw": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "03b8fd0252e81ca33e69e04c5abb9c6184e01504",
-      "title": "Protein: how much do we really need?",
-      "url": "https://www.bbc.co.uk/sounds/play/m001xzrx?at_mid=JAhdrOsaPb&at_campaign=Protein_Powerhouse_or_Piffle&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=m001xzrx&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Protein_Powerhouse_or_Piffle&at_bbc_team=BBC",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2024-03-27T12:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Protein is having a moment in the spotlight. Should you be worried about getting enough?",
       "topics": [
         "World"
       ]
