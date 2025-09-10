@@ -1,7 +1,33 @@
 {
-  "version": "1757543618439",
-  "generatedAt": "2025-09-10T22:33:38.439Z",
+  "version": "1757544210107",
+  "generatedAt": "2025-09-10T22:43:30.107Z",
   "items": [
+    {
+      "id": "f86ebe78fc516febccb7bb6e228cd3b49e564cbe",
+      "title": "T20 Cricket",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-10T23:02:40.000Z",
+      "summary_90w": "",
+      "raw": "Highlights of the first game of the T20 series between England and South Africa.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f115cfeaad35bf8d6ad3ed222f76d21c480fa0d8",
+      "title": "Amazon drivers could be wearing AR glasses with a built-in display next year",
+      "url": "https://www.theverge.com/news/776155/amazon-augmented-reality-glasses-jayhawk-launch-rumors",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-10T22:30:08.000Z",
+      "summary_90w": "",
+      "raw": "The new glasses would go beyond Amazon’s Echo Frames.\t\n\nAmazon, like Meta, Google, Samsung, and Snap, is working on a new pair of augmented-reality (AR) glasses, according to a report from The Information. The AR glasses, codenamed Jayhawk, could reportedly come with a full-color display in one eye, along with built-in microphones, speakers, and a camera.\nThe report comes just before Meta is expected to reveal its “Hypernova” smart glasses at its Connect event. Meta’s glasses are rumored to be a step above its Ray-Ban smart glasses, offering a small display for mini apps and alerts on the right lens, according to Bloomberg. Meta is also working on a pair of AR glasses known as Orion.\nAmazon launched its third-gen Echo Frame smart glasses in 2023, but their features fall flat when compared to Meta’s Ray-Bans. Though Amazon may launch its first AR glasses in late 2026 or early 2027, The Information reports that Amazon could release a pair made for delivery drivers even earlier.\nAmazon initially plans on making 100,000 units of the glasses for delivery drivers, called “Amelia” internally, The Information reports. They will reportedly have a bulkier design when compared to the consumer version, along with a display designed to provide instructions to drivers about where to deliver packages. Reuters reported on the glasses last year, saying they would offer drivers “turn-by-turn navigation on a small embedded screen.”",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "92549df85c8f60d3f350d908ec5e12f9f729667d",
       "title": "Australia news live: Sydney wakes to storm cleanup; MPs condemn Charlie Kirk shooting",
@@ -627,19 +653,6 @@
       ]
     },
     {
-      "id": "8e2434ceef70c779da2a2d27c95e519bf3805576",
-      "title": "Blackmagic’s camera dock works with the new iPhone’s professional filmmaking features",
-      "url": "https://www.theverge.com/news/775855/blackmagic-design-camera-prodock-iphone-17-pro-filmmakers",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-10T17:27:02.000Z",
-      "summary_90w": "",
-      "raw": "The Camera ProDock includes top and bottom mounting points for incorporating it into professional filming rigs. | Image: Blackmagic Design\t\n\nIt was briefly mentioned by Apple’s Greg Joswiak during the company’s “Awe dropping” event yesterday, but today Blackmagic Design officially announced its new Camera ProDock that “adds professional camera connections to iPhone 17 Pro and iPhone 17 Pro Max.” These include additional USB-C ports for connecting accessories like external storage drives and BNC connectors that take advantage of the 17 Pro’s new genlock support for syncing with multiple cameras and other filmmaking gear.\nThe Blackmagic Camera ProDock will be available through the company’s global network of resellers and Apple for $295, although Apple’s online store currently has it listed as “coming soon” for $299.95.\nWhen connected to the iPhone 17 Pro’s USB-C port, the Camera ProDock enables the smartphone to connect to professional video production tools like switchers and timecode generators. Now that Apple’s flagship smartphone supports genlock it can be synchronized to other cameras in a multi-cam environment and be used to film LED walls in a virtual production without flickering by matching its capture rate to the refresh rate of the giant screens.\nThe Camera ProDock adds three additional USC-ports, a locking 12V DC power input, an HDMI port for an external preview display, two BNC connectors to interface with professional genlock and timecode generators, and a pair of 3.5mm stereo audio in and out ports for using external microphones or headphones. On the top and bottom of the dock you’ll also find locking mounting points so it can be securely incorporated into a more elaborate iPhone filming rig. The Camera ProDock is designed to work seamlessly with the free Blackmagic Camera app that features more manual control and tools designed for professional videographers you won’t find in the stock iOS camera app.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "b753a18ef96ba35248cb24f3ad10769eac3fc264",
       "title": "Sony rolls out new ‘PlayStation Family’ parental controls app",
       "url": "https://techcrunch.com/2025/09/10/sony-rolls-out-new-playstation-family-parental-controls-app/",
@@ -1027,19 +1040,6 @@
       "raw": "LeydenJar raised €13 million along with €10 million from a U.S. consumer electronics company to scale production of its silicon anode material.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "80ec7ca163fd750fb3b6affde27625f655fe2a5c",
-      "title": "'Chance to see how far I can take things' - Proud condemned as Olympian joins Enhanced Games",
-      "url": "https://www.bbc.com/sport/swimming/articles/c5yevrrv1kwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-10T14:55:50.000Z",
-      "summary_90w": "",
-      "raw": "Olympic swimmer Ben Proud becomes the first British athlete to join the controversial Enhanced Games, as AquaticsGB says it is \"immensely disappointed\" by his decision.",
-      "topics": [
-        "World"
       ]
     },
     {
