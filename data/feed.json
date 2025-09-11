@@ -1,7 +1,46 @@
 {
-  "version": "1757626658386",
-  "generatedAt": "2025-09-11T21:37:38.386Z",
+  "version": "1757627511709",
+  "generatedAt": "2025-09-11T21:51:51.709Z",
   "items": [
+    {
+      "id": "408c1ccc6f20b16e95654cc3ffbe7c9351ba9105",
+      "title": "Anthropic’s Claude AI can now automatically ‘remember’ past chats",
+      "url": "https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-11T21:43:46.000Z",
+      "summary_90w": "",
+      "raw": "Anthropic will now let its Claude AI chatbot “remember” the details of previous conversations without prompting. The feature is only rolling out for Team and Enterprise users for now, allowing Claude to automatically incorporate someone’s preferences, the context of the project they’re working on, and their main priorities into each of its responses.\nAnthropic rolled out the ability for paid users to prompt Claude to remember past chats last month, but now the chatbot can pull up these details without Team and Enterprise users having to ask. Claude’s memory also carries over to projects, a feature that lets Pro and Teams generate things like diagrams, website designs, graphics, and more, based on files they upload to the chatbot. \nIt seems to be particularly focused on work-related details, like a “team’s processes” and “client needs.” Anthropic notes that memory is “fully optional.”\nAnthropic says users can view and edit the memory Claude has stored from their settings menu. “Based on what you tell Claude to focus on or to ignore, Claude will adjust the memories it references,” Anthropic says. Both OpenAI and Google have already launched cross-chat memories for their chatbots. Last month, a report from The New York Times linked ChatGPT’s rollout of cross-chat memories to an increase in reports of “delusional” AI chats.\nAlong with memories, Anthropic is rolling out incognito chats for all users, which Claude won’t save to its chat history or refer to in future chats. Google similarly rolled out Private Chats for Gemini in August.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "06ab44a741158dfe19ee196c133e20e6f30358d0",
+      "title": "Australia news live: Investigation into handling of unpaid tax debt as ATO urged to take ‘more compassionate’ approach",
+      "url": "https://www.theguardian.com/australia-news/live/2025/sep/12/anthony-albanese-pacific-islands-forum-woodside-north-west-shelf-decision-sussan-ley-labor-coalition-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-11T21:36:48.000Z",
+      "summary_90w": "",
+      "raw": "The watchdog for the Australian Taxation Office will investigate how it charges interest on tax debts. Follow the latest news updates live\n\nGet our breaking news email, free app or daily news podcast\n\nHanson-Young concerned about health impacts of algal bloom\nHanson-Young said she remained concerned about the health impacts on people related to the algal bloom, saying “anecdotally, health concerns and symptoms are mounting every day from people who live, work, and play along our coastline”.\nWe need a much better and robust health advice regime. The anecdotal evidence now that people who are down living by the sea, where the foam and the sea mist, where the bloom has been, are getting sick, that the irritations, the cold-like symptoms, the respiratory systems, the rashes, you know, the government advises that this goes away in a few days.\nWe’re finding that people who live down in these areas are being impacted every day and they feel like the government is just not responding with the full force of resources that’s needed.\nIt’s clear that the scale of the government response just doesn’t match the scale of the disaster that we have here, whether it’s the economic impacts, the loss of fishing, the loss of jobs, the loss of tourism, the health impacts … And then, of course, the huge job that is needed to restore the local environment to make it more resilient to this toxic algae.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "547e784376e4c37216093d308f135ef8d8173c4b",
+      "title": "Trump and other US leaders tighten security as hunt for Charlie Kirk's killer continues",
+      "url": "https://www.bbc.com/news/articles/c36k0g44yd5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-11T21:31:06.000Z",
+      "summary_90w": "",
+      "raw": "Political figures across the US are adding security and canceling events, as universities receive threats.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "bd75f665c2ac14e894e863bc4f77160a90917bb7",
       "title": "Brazil's former President Bolsonaro found guilty of plotting coup",
@@ -26,19 +65,6 @@
       "raw": "Earlier today, the FBI shared two blurry photos on X of a person of interest in the shooting of right-wing activist Charlie Kirk. Numerous users replied with AI-upscaled, “enhanced” versions of the pictures almost immediately, turning the pixelated surveillance shots into sharp, high-resolution images. But AI tools aren’t uncovering secret details in a fuzzy picture, they’re inferring what might be there — and they have a track record of showing things that don’t exist.\nMany AI-generated photo variations were posted under the original images, some apparently created with X’s own Grok bot, others with tools like ChatGPT. They vary in plausibility, though some are obviously off, like an “AI-based textual rendering” showing a clearly different shirt and Gigachad-level chin. The images are ostensibly supposed to help people find the person of interest, although they’re also eye-grabbing ways to get likes and reposts.\nBut it’s unlikely any of them are more helpful than the FBI’s photos. In past incidents, AI upscaling has done things like “depixelating” a low-resolution picture of President Barack Obama into a white man and adding a nonexistent lump to President Donald Trump’s head. It extrapolates from an existing image to fill in gaps, and while that can be useful under certain circumstances, you definitely shouldn’t treat it as hard evidence in a manhunt.\nHere is the original post from the FBI, for reference:\n\n\nWe are asking for the public's help identifying this person of interest in connection with the fatal shooting of Charlie Kirk at Utah Valley University. \n1-800-CALL-FBI\nDigital media tips: https://t.co/K7maX81TjJ pic.twitter.com/ALuVkTXuDc\n— FBI Salt Lake City (@FBISaltLakeCity) September 11, 2025\n\n\nAnd below are some examples of attempted “enhancements.”",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "06ab44a741158dfe19ee196c133e20e6f30358d0",
-      "title": "Australia news live: Investigation into handling of unpaid tax debt as ATO urged to take ‘more compassionate’ approach",
-      "url": "https://www.theguardian.com/australia-news/live/2025/sep/12/anthony-albanese-pacific-islands-forum-woodside-north-west-shelf-decision-sussan-ley-labor-coalition-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-11T21:23:50.000Z",
-      "summary_90w": "",
-      "raw": "The watchdog for the Australian Taxation Office will investigate how it charges interest on tax debts. Follow the latest news updates live\n\nGet our breaking news email, free app or daily news podcast\n\nSarah Hanson-Young says government response to SA’s algal bloom ‘doesn’t touch the side of what’s needed’\nGreens senator Sarah Hanson-Young has been up and down the South Australia coastline this week looking at the ongoing impacts of the state’s devastating algal bloom, saying the government response thus far is a long way from what’s needed to address a major environmental crisis.\nIt’s clear that the scale of the government response just doesn’t match the scale of the disaster that we have here, whether it’s the economic impacts, the loss of fishing, the loss of jobs, the loss of tourism, the health impacts. … And then, of course, the huge job that is needed to restore the local environment to make it more resilient to this toxic algae.\nThe money from the federal government, 14 million bucks, It doesn’t touch the side of what’s needed. …\nThe government, frankly, if I’m really honest, has been floundering in their response to this environmental, social and health disaster.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -257,7 +283,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-11T18:57:57.000Z",
       "summary_90w": "",
-      "raw": "Former president faces decades-long jail sentence for seeking to forcibly cling to power after losing 2022 election\n\nExplainer: what did Bolsonaro’s trial reveal?\n\nA majority of Brazil’s supreme court judges have voted to convict the country’s former president Jair Bolsonaro of plotting a military coup, leaving the far-right populist facing a decades-long sentence for leading the criminal conspiracy.\nJustice Cármen Lúcia Antunes Rocha ruled on ​Thursday that Bolsonaro – a former paratrooper who was elected president in 2018 – was guilty of seeking to forcibly cling to power after losing the 2022 election, meaning three of the five judges involved in the trial had found Brazil’s former leader guilty.\n Continue reading...",
+      "raw": "Former president faces decades-long jail sentence for seeking to forcibly cling to power after losing 2022 election\n\nExplainer: what did Bolsonaro’s trial reveal?\n\nA majority of Brazil’s supreme court judges have voted to convict the country’s former president Jair Bolsonaro of plotting a military coup, leaving the far-right populist facing a decades-long sentence for leading the criminal conspiracy.\nJustices Cármen Lúcia Antunes Rocha and Cristiano Zanin ruled on ​Thursday that Bolsonaro – a former paratrooper who was elected president in 2018 – was guilty of seeking to forcibly cling to power after losing the 2022 election, meaning four of the five judges involved in the trial had found Brazil’s former leader guilty.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -585,19 +611,6 @@
       "raw": "Experts unconvinced by Roberto Gualtieri’s mooted timescale for river to be reopened for public bathing\nRome hopes to welcome swimmers back to the River Tiber within five years, the city’s mayor has announced, drawing inspiration from Paris, where the Seine was reopened for public bathing this summer for the first time in a century.\nDuring a visit on Thursday to the Osaka Expo in Japan, Roberto Gualtieri said a working group had been set up to study the feasibility of the clean-up project.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "15d0ffe943137d0aef72b3c66f5b9476033149a5",
-      "title": "Netflix&#8217;s best movies deserve more time on the big screen",
-      "url": "https://www.theverge.com/netflix/776477/netflix-movie-theaters-frankenstein-knives-out",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-11T17:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A still from Frankenstein.\t\n\nLike the rest of the Knives Out movies, Wake Up Dead Man is full of extremely fun revelations - the kind that can turn the whodunit story on its head and, as was the case for many of those attending the film's premiere in Toronto, Canada, produce audible gasps. Those shared moments of surprise are part of what makes the movie such a great theatrical experience, so it sucks that most people won't get the opportunity to see it in a theater at all.\nWake Up Dead Man isn't alone. Netflix was very present at the Toronto International Film Festival this year, with films like Guillermo del Toro's Frankenstein, Edward Berger's Ballad of a Small Play …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1168,19 +1181,6 @@
       "published": "2025-09-11T10:34:01.000Z",
       "summary_90w": "",
       "raw": "Earlier this month, Chinese nationals working with Nasa suddenly found themselves denied access.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d32b258091a54f2e05acf348fc1d85fb96bfa600",
-      "title": "'Everyone hit the deck and scattered': Witnesses describe moment of Utah shooting",
-      "url": "https://www.bbc.com/news/articles/c8d7900yl3zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-11T10:09:04.000Z",
-      "summary_90w": "",
-      "raw": "Witnesses describe screaming and running to flee the scene after hearing the fatal gunshot that killed Kirk.",
       "topics": [
         "World"
       ]
