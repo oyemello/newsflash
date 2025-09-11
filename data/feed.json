@@ -1,6 +1,6 @@
 {
-  "version": "1757575892090",
-  "generatedAt": "2025-09-11T07:31:32.090Z",
+  "version": "1757576421010",
+  "generatedAt": "2025-09-11T07:40:21.010Z",
   "items": [
     {
       "id": "9aed3faf8c558bfc64a4c4298372b47edc291877",
@@ -8,9 +8,22 @@
       "url": "https://www.bbc.com/news/articles/ckgzyxjr0lzo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-11T07:15:24.000Z",
+      "published": "2025-09-11T07:29:33.000Z",
       "summary_90w": "",
       "raw": "The firm, known as MSD in Europe, said there has been a lack of investment in life sciences.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "80150e34fbd1f8a863f7f5ab2dd51cd671af01db",
+      "title": "Two Victorian police officers charged with negligent manslaughter over man’s fatal 2024 arrest",
+      "url": "https://www.theguardian.com/australia-news/2025/sep/11/two-victoria-police-officers-charged-with-negligent-manslaughter-luke-briggs-arrest-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-11T07:24:26.000Z",
+      "summary_90w": "",
+      "raw": "Family of Luke Briggs, 35, left ‘utterly distraught’ by death in custody following arrest in Hoppers Crossing car park\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nNegligent manslaughter charges have been laid against two Victorian police officers after a man died following his arrest in a car park, with the lawyer for his family saying they had been left distraught by his passing and delays in the case.\nLuke Briggs, 35, was arrested in a convenience store car park at Hoppers Crossing, in Melbourne’s southwest, in July 2024. He became unresponsive at the scene and died eight days later at Royal Melbourne Hospital.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -21,7 +34,7 @@
       "url": "https://www.theguardian.com/australia-news/live/2025/sep/11/australia-news-live-sydney-storm-weather-anthony-albanese-solomon-islands-pacific-sussan-ley-jacinta-nampijinpa-price-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-09-11T07:04:22.000Z",
+      "published": "2025-09-11T07:23:50.000Z",
       "summary_90w": "",
       "raw": "Follow today’s news live\n\nANU vice-chancellor Genevieve Bell resigns amid crisis of confidence in leadership\n\nGet our breaking news email, free app or daily news podcast\n\nSome images from the wild weather across Sydney and NSW\nAustralia raises travel advice level for Nepal as Nepalese Australians express grief over unrest\n Continue reading...",
       "topics": [
@@ -237,19 +250,6 @@
       ]
     },
     {
-      "id": "3505a191a3bdb7e7c3a18175aa7ade81b2e586f9",
-      "title": "Sydney childcare worker charged with abusing children had 500,000 unique images, police allege",
-      "url": "https://www.theguardian.com/australia-news/2025/sep/11/sydney-childcare-worker-charged-with-abusing-children-had-500000-unique-images-police-allege-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-11T04:00:32.000Z",
-      "summary_90w": "",
-      "raw": "Man, who worked in sector for more than a decade, can’t be named for legal reasons. He is due to appear in court on Friday\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA Sydney childcare worker has been charged with seven counts of using a child to make abusive material after federal police allegedly found more than 500,000 unique images on his devices.\nThe man, who can’t be named due to a suppression order, had worked at a number of childcare centres in the city. He’d worked in the sector for over a decade.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f62af97d9abdf6233d42244078b83c0e10cf8777",
       "title": "Perplexity reportedly raised $200M at $20B valuation",
       "url": "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/",
@@ -297,19 +297,6 @@
       "published": "2025-09-11T02:47:44.000Z",
       "summary_90w": "",
       "raw": "In a video statement, Trump said Kirk's death was a direct consequence of people demonizing those they disagree, and then turned his ire to the political left.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1f64b4692175bc7b4530f29b418079856ec76fe4",
-      "title": "Witnesses describe shooting scene",
-      "url": "https://www.bbc.com/news/videos/cn9535z07p0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-11T01:14:01.000Z",
-      "summary_90w": "",
-      "raw": "Witnesses at the Utah campus event describe what it was like in the moments before and after the single shot rang out.",
       "topics": [
         "World"
       ]
@@ -2119,6 +2106,19 @@
       "raw": "The iPhone maker is pushing back against proposed changes required by the UK competition watchdog",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "53515fb374304cbca7057778293272f5385247e1",
+      "title": "BBC News app",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-04-30T14:04:28.000Z",
+      "summary_90w": "",
+      "raw": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "topics": [
+        "World"
       ]
     }
   ]
