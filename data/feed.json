@@ -1,7 +1,20 @@
 {
-  "version": "1757684684018",
-  "generatedAt": "2025-09-12T13:44:44.018Z",
+  "version": "1757685097816",
+  "generatedAt": "2025-09-12T13:51:37.816Z",
   "items": [
+    {
+      "id": "85a6f8438ab09b81580a53d4cabdd26c06f07618",
+      "title": "Ultraloq adds Android tap-to-unlock to its Apple Home Key smart lock",
+      "url": "https://www.theverge.com/news/777055/ultraloq-adds-android-tap-to-unlock-to-its-apple-home-key-smart-lock",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-12T13:43:36.000Z",
+      "summary_90w": "",
+      "raw": "The Bolt NFC, a keypad smart lock that works with Apple Home Key, now supports Android phones for tap-to-unlock.\t\n\nThe Ultraloq Bolt NFC smart lock is receiving a free upgrade that enables near-field communication (NFC) tap-to-unlock with compatible Android phones. The model currently supports Apple’s Home Key, which lets you tap-to-unlock with an iPhone. The update makes it one of the first locks to offer the functionality across both iOS and Android, without requiring the phone to be unlocked or specific apps to be running.\nThe ability comes via a free software upgrade to the U Home app, available now in the Google Play Store. Xthings, Ultraloq’s parent company, says its NFC unlock experience is an app-managed credential system, relying on Android’s NFC default app handling. This allows tap-to-unlock to work with an “out of the pocket” experience; no app needs to be open, no screen activated, no unlocking required, “just a simple tap.” The company states that it will support an estimated 99 percent of NFC-enabled Android smartphones currently on the market.\nAccording to Xthings, NFC unlocking on Android works by setting the U Home app as the phone’s NFC handler, allowing it to “run as a lightweight background service to listen for NFC intents.” When you tap the phone against the lock, it triggers the Android system to wake the correct NFC handler and pass it to U Home for authentication. \nNFC unlocking requires both the phone and lock to support NFC, allowing you to tap to unlock in the same way you tap to pay. It’s a common feature on some smart locks for iPhone users, but Android phones have not had as many options, often requiring the use of a tag or key fob. An upcoming smart lock standard called Aliro aims to make NFC unlocking universal, regardless of phone manufacturer, but it hasn’t launched yet.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "808306bc1ff49fd00aceed916f8281a8c43295a0",
       "title": "Mario’s going to space in The Super Mario Galaxy Movie trailer",
@@ -627,14 +640,14 @@
       ]
     },
     {
-      "id": "5e234a12f7e88a79d04e2de25984f5bec7922070",
-      "title": "Wary of RFK Jr., Colorado started revamping its vaccine policies last spring",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/12/nx-s1-5538401/rfk-jr-colorado-revamps-vaccine-science-policies",
+      "id": "135868aaabf4e2b96809dc61880e55168f5b677f",
+      "title": "This shop fixes student instruments for free. Now, a music legend is chipping in",
+      "url": "https://www.npr.org/2025/09/12/nx-s1-5507241/school-music-la-herb-alpert",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-09-12T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "While Health Secretary Robert F. Kennedy, Jr., dismantles the federal institutions that set vaccine policy, states like Colorado are changing laws and regulations in an effort to preserve access to vaccines.",
+      "raw": "Herb Alpert got his start playing trumpet in L.A.'s public schools. He wants to help make that \"magic\" possible for students.",
       "topics": [
         "World"
       ]
@@ -754,19 +767,6 @@
       "raw": "Aftab Malik cites bomb threats and assaults when releasing report containing 54 recommendations\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nCounter-terrorism laws should be reviewed, and the Racial Discrimination Act should be updated to protect religious groups , according to a long-awaited report from the special envoy to combat Islamophobia.\nThe report makes 54 recommendations to parliament and government departments to tackle Islamophobia, improve data collection on hate crimes, and calls on the government to “confront Islamophobia with equivalent urgency to other discriminatory practices, and provide it with the same rights, protections, and legal recourse”.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "41e3120419d69755ac55778937970f78044fb6fb",
-      "title": "Apple Watch hypertension alerts cleared by FDA for new and old watches",
-      "url": "https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-12T06:10:41.000Z",
-      "summary_90w": "",
-      "raw": "Starting next week, Apple’s new hypertension notification feature will be coming to Watch Series 9 and later and Apple Watch Ultra 2 and later with the launch of watchOS 26. That’s according to an emailed statement from Apple spokesperson Zaina Khachadourian saying the feature that monitors blood pressure has been cleared by the FDA.\nApple’s new hypertension notifications — announced Tuesday alongside the new Apple Watch SE3, Series 11, and Ultra 3 — use data from the watches’ existing optical heart sensor to “analyze how a user’s blood vessels respond to the beats of the heart.” An algorithm will review this data over a 30 day period and notify users if it detects signs of high blood pressure. \nIt will roll out in more than 150 countries and regions with the arrival of watchOS 26 on September 15th.",
-      "topics": [
-        "Technology"
       ]
     },
     {
