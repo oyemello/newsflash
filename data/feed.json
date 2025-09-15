@@ -1,7 +1,98 @@
 {
-  "version": "1757965883428",
-  "generatedAt": "2025-09-15T19:51:23.428Z",
+  "version": "1757967389630",
+  "generatedAt": "2025-09-15T20:16:29.630Z",
   "items": [
+    {
+      "id": "d8e6bd9aea55bd102738758bb098e710e73281f5",
+      "title": "The 9 most sought-after startups from YC Demo Day",
+      "url": "https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-15T20:11:51.000Z",
+      "summary_90w": "",
+      "raw": "We asked YC-focused investors to name the startups from the Summer 2025 batch that generated the most interest.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "eb97c5b2f3738ed9b4cd571c26923f860fa802b4",
+      "title": "Company that owns Gucci, Balenciaga, other brands confirms hack",
+      "url": "https://techcrunch.com/2025/09/15/company-that-owns-gucci-balenciaga-other-brands-confirms-hack/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-15T20:03:09.000Z",
+      "summary_90w": "",
+      "raw": "Kering said the hackers did not steal credit card numbers and that it has contacted the customers whose data is part of the breach, without saying how many were affected.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "178270cec200de03e445b4d1a9eb52ff65ad3afb",
+      "title": "Do startups still need Silicon Valley? Founders and funders debate at TechCrunch Disrupt 2025.",
+      "url": "https://techcrunch.com/2025/09/15/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-15T20:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Does Silicon Valley still give founders an edge? At TechCrunch Disrupt 2025 (Oct 27–29, SF), Anh-Tho Chuong (Lago), David Hall (Revolution), and Tawni Nazario-Cranz (SignalFire) debate whether location still drives startup success.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "48420a56651552b90ef35fd380fe94eb0f64bbac",
+      "title": "The Supreme Court is Google’s last hope to avoid an Epic reckoning in October",
+      "url": "https://www.theverge.com/news/778332/google-epic-play-store-lawsuit-30-days-supreme-court",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-15T19:56:24.000Z",
+      "summary_90w": "",
+      "raw": "The Ninth Circuit Court of Appeals is done with Google, and Google won’t be happy with the result. On Friday, the court completely denied its petition to have its Epic v. Google case re-heard — and pressed play on a permanent injunction that will force Google to begin cracking open its Android app store.\nUnless or until the US Supreme Court decides to hear the case, Google will be forced to let developers bypass its Google Play Billing app store payment system, and let them link to outside app store downloads, within 30 days. And that’s just the start. Google will also be forced to carry rival app stores inside the Google Play Store and share its full catalog of apps with those stores by summer 2026 unless the Supreme Court grants a stay.\nEpic already won its case at the Ninth Circuit on July 31st, when a three-judge panel decided not to overturn the unanimous jury verdict from 2023 that Google’s app store and payment systems had become illegal monopolies. But Google argued that the Supreme Court might see things differently, and asked for what’s called an “en banc” review where the whole Ninth Circuit weighs in. \nBut not a single additional Ninth Circuit judge wanted to re-hear the case, the court wrote on Friday, denying Google’s petition. And with that, the Ninth Circuit also restarted the clock on forcefully cracking open Android, giving the company a new deadline of just 30 days to begin complying, and 10 months until Google must open up its app store to rivals. That’s up from 14 days and 8 months previously.\nSo, what must Google do by October? Here’s the TL;DR:\nStop Google from forcing app developers to use Google Play Billing\nLet Android developers tell users about other ways to pay from within the Play Store\nLet Android developers link to ways to download their apps outside of the Play Store\nLet developers set their own prices\nStop sharing money or perks with phonemakers, carriers, and app developers in exchange for Google Play exclusivity or preinstallation\nWork with Epic to resolve any disputes as Google builds a system to let rival app stores in\nDon’t take my word for it; here’s the full text directly out of Judge Donato’s original permanent injunction for the parts that now have a 30-day deadline:\n4. For a period of three years ending on November 1, 2027, Google may not share revenue generated by the Google Play Store with any person or entity that distributes Android apps, or has stated that it will launch or is considering launching an Android app distribution platform or store.\n5. For a period of three years ending on November 1, 2027, Google may not condition a payment, revenue share, or access to any Google product or service, on an agreement by an app developer to launch an app first or exclusively in the Google Play Store.\n6. For a period of three years ending on November 1, 2027, Google may not condition a payment, revenue share, or access to any Google product or service, on an agreement by an app developer not to launch on a third-party Android app distribution platform or store a version of an app that includes features not available in, or is otherwise different from, the version of the app offered on the Google Play Store.\n7. For a period of three years ending on November 1, 2027, Google may not condition a payment, revenue share, or access to any Google product or service, on an agreement with an original equipment manufacturer (OEM) or carrier to preinstall the Google Play Store on any specific location on an Android device.\n9. For a period of three years ending on November 1, 2027, Google may not require the use of Google Play Billing in apps distributed on the Google Play Store, or prohibit the use of in-app payment methods other than Google Play Billing. Google may not prohibit a developer from communicating with users about the availability of a payment method other than Google Play Billing. Google may not require a developer to set a price based on whether Google Play Billing is used.\n10. For a period of three years ending on November 1, 2027, Google may not prohibit a developer from communicating with users about the availability or pricing of an app outside the Google Play Store, and may not prohibit a developer from providing a link to download the app outside the Google Play Store.\n13. Within thirty days of the date of this order, the parties will recommend to the Court a three-person Technical Committee. Epic and Google will each select one member of the Technical Committee, and those two members will select the third member. After appointment by the Court, the Technical Committee will review disputes or issues relating to the technology and processes required by the preceding provisions. If the Technical Committee cannot resolve a dispute or issue, a party may ask the Court for a resolution. The Technical Committee may not extend any deadline set in this order, but may recommend that the Court accept or deny a request to extend. Each party will bear the cost of compensating their respective party-designated committee member for their work on the committee. The third member’s fees will be paid by the parties in equal share.\nWe have asked Google to confirm or deny whether it will remove the requirement for Google Play Billing, allow other payment methods, and let developers link outside the Play Store by October. I’ve also asked both Epic and Google to confirm whether they’re now working together on that joint Technical Committee. Neither company immediately responded to our requests for comment.\nSo far, Epic CEO Tim Sweeney has tweeted: “Now Google Play has 30 days to free ALL DEVELOPERS to offer competing payments in the USA — as Apple is required to do — free of scare screens, junk fees, and restrictions!” and “With super strong precedent in Epic v Apple, there’s no room for malicious compliance this time.” He also suggested that Epic doesn’t oppose Google’s new Android developer verification requirements in principle, but “we do oppose any use of such verification processes to block, stifle, or tax competing stores.”\nGoogle has not yet said whether it will appeal to the Supreme Court, and we’ve asked about that as well. According to the Ninth Circuit, Google said that if it did appeal, it would do so within 45 days. \nHere’s the Ninth Circuit’s latest decision:",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "aa98abf78dadac074c05faf25aae9673b67b272a",
+      "title": "JD Vance hosts 'The Charlie Kirk Show,' paying tribute with top White House officials",
+      "url": "https://www.npr.org/2025/09/15/nx-s1-5542176/jd-vance-charlie-kirk-show",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-15T19:51:28.000Z",
+      "summary_90w": "",
+      "raw": "The broadcast was a striking reminder of Kirk's influence, both as a leader in the young conservative space and a behind-the-scenes political player who helped shape President Trump's agenda.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "71ccee1da1eeea8fd7637927f8a6734f2fe8960b",
+      "title": "Boy, 15, dies after stabbing in Manchester",
+      "url": "https://www.bbc.com/news/articles/ce3y9v8e7eqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-15T19:50:14.000Z",
+      "summary_90w": "",
+      "raw": "Police got reports of a \"disturbance\" in the area and found the teenager with stab wounds.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "438edb448771077febb034bf71dfb102090e332f",
+      "title": "Duchess of Kent's coffin brought to cathedral ahead of funeral",
+      "url": "https://www.bbc.com/news/articles/c7016kn9rdwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-15T19:47:49.000Z",
+      "summary_90w": "",
+      "raw": "The Requiem Mass will be held on Tuesday and attended by the King, Queen and other senior royals.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "833cf00f0e7e352619c93b7093dc27b29b346815",
       "title": "Charlie Kirk suspect linked to crime scene by DNA, says FBI chief",
@@ -94,19 +185,6 @@
       ]
     },
     {
-      "id": "438edb448771077febb034bf71dfb102090e332f",
-      "title": "Duchess of Kent's coffin brought to cathedral ahead of funeral",
-      "url": "https://www.bbc.com/news/articles/c7016kn9rdwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-15T18:42:28.000Z",
-      "summary_90w": "",
-      "raw": "The Requiem Mass will be held on Tuesday and attended by the King, Queen and other senior royals.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "aa98de14632f17a3f2a84cda9e7ea665d6819509",
       "title": "RAF Typhoon jets ready to shoot down drones over Poland, UK says",
       "url": "https://www.theguardian.com/uk-news/2025/sep/15/raf-typhoon-jets-ready-to-shoot-down-drones-over-poland-uk-says",
@@ -186,7 +264,7 @@
     },
     {
       "id": "e21bc95ccaf942d9107d4e79b6de67ef30ebabaa",
-      "title": "UK fighters to defend Polish skies after Russian drone incursion",
+      "title": "UK jets to defend Polish skies after Russian drone incursion",
       "url": "https://www.bbc.com/news/articles/c80gk57x9rpo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -393,19 +471,6 @@
       ]
     },
     {
-      "id": "932d5b2c98d8fdf3af7595fb4a9fe0dc8ebf3d4d",
-      "title": "iOS 26 with Apple&#8217;s Liquid Glass redesign is out now",
-      "url": "https://www.theverge.com/news/777466/apple-ios-26-launch-iphone-liquid-glass-update",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-15T17:05:30.000Z",
-      "summary_90w": "",
-      "raw": "Apple is rolling out iOS 26 with a bunch of new features for the iPhone. The biggest change you’ll see upon installing the update is Apple’s Liquid Glass redesign, introducing translucent buttons, sliders, tabs, and other navigational elements across the iPhone’s interface.\niOS 26 also includes Live Translation, an AI-powered feature that automatically translates texts in Messages, displays live captions on FaceTime, and provides spoken translations during phone calls or through your AirPods. You’ll also find a handy new feature that automatically answers calls from unknown numbers and allows you to screen text messages from people you might not know.\nSome other small but notable upgrades coming with iOS 26 include typing indicators and polls in group chats, as well as the ability to set a background image for different conversations. Additionally, Apple will officially launch its Games app on the iPhone, serving as a central hub for its games and gaming features.\nApple is bringing its Liquid Glass design language to iPadOS 26, too, which rolls out today with new windowing features that should make the iPad better for multitasking by allowing you to resize and place apps anywhere on your screen. iPadOS 26 adds a Files and Preview app as well.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "36ce4c998cc03a96b350913c6b67551c6ad45549",
       "title": "US’s Rubio says efforts to recognise Palestinian state make it harder to end war – as it happened",
       "url": "https://www.theguardian.com/world/live/2025/sep/15/israel-gaza-hamas-qatar-marco-rubio-netanyahu-middle-east-crisis-live-news-updates",
@@ -531,6 +596,19 @@
       "published": "2025-09-15T16:31:04.000Z",
       "summary_90w": "",
       "raw": "The couple were found guilty in July after a lengthy retrial at the Old Bailey.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "527fdeab0c29454d4bb55b0b837dabd6dac1c324",
+      "title": "Man 'stole Banksy for collection of love hearts'",
+      "url": "https://www.bbc.com/news/articles/cvgn75xjrrgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-15T16:18:44.000Z",
+      "summary_90w": "",
+      "raw": "Girl with Balloon, valued at £270,000, was taken from the Grove Gallery in central London.",
       "topics": [
         "World"
       ]
@@ -666,19 +744,6 @@
       ]
     },
     {
-      "id": "1a5b22d77eca4bf1f1fe27ee110529bdb1a5a532",
-      "title": "Beauty chain Bodycare to shut a further 30 stores",
-      "url": "https://www.bbc.com/news/articles/c62ln4n8kjro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-15T15:43:50.000Z",
-      "summary_90w": "",
-      "raw": "Administrators say they are hopeful the chain's remaining 85 stores can be saved.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ba1a69c28d42c1982858afe85fca23104d56d0f4",
       "title": "Israel demolishes more high-rise towers as Gaza City offensive ramps up",
       "url": "https://www.bbc.com/news/videos/cr5q8mj6nrvo?at_medium=RSS&at_campaign=rss",
@@ -695,7 +760,7 @@
       "id": "eee8d8b260d1c9436cb4fb0ee2c196cca114add9",
       "title": "Netanyahu does not rule out further strikes on Hamas leaders",
       "url": "https://www.bbc.com/news/articles/czxw4xkxg51o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-15T15:26:38.000Z",
       "summary_90w": "",
@@ -1134,19 +1199,6 @@
       ]
     },
     {
-      "id": "18e6666c8d85f6ac89abcc97a5f43729e644b6ff",
-      "title": "Melting glaciers mean an uncertain future for Europe's rivers",
-      "url": "https://www.npr.org/2025/09/15/nx-s1-5535161/europe-melting-glaciers-switzerland-alps",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-15T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Europe is warming faster than any continent. That's speeding up glacial melt, which is already threatening Europe's largest rivers.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ba9c6cffda714aa3cf269b6307e77264b840c9bc",
       "title": "Brazil's Lula hits back at Trump over Bolsonaro trial and tariffs",
       "url": "https://www.bbc.com/news/articles/cj3yxkkdlkvo?at_medium=RSS&at_campaign=rss",
@@ -1389,45 +1441,6 @@
       "published": "2025-09-14T18:45:26.000Z",
       "summary_90w": "",
       "raw": "At least one website claims to allow users to chat with God.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "904251f1ce2565ad2a24283cd3b0e4842bdd9db2",
-      "title": "Karen Hao on the Empire of AI, AGI evangelists, and the cost of belief",
-      "url": "https://techcrunch.com/2025/09/14/karen-hao-on-the-empire-of-ai-agi-evangelists-and-the-cost-of-belief/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-14T17:00:34.000Z",
-      "summary_90w": "",
-      "raw": "OpenAI’s rise isn’t just a business story — it’s an ideological one. On Equity, Karen Hao, author of Empire AI, explores how the cult of AGI has fueled a billion-dollar race, justified massive spending on compute and data, and blurred the line between mission and profit.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "f8cf7a2fc5130b7dbf152e77a41df944d4bff50b",
-      "title": "iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event",
-      "url": "https://techcrunch.com/2025/09/14/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-14T16:32:39.000Z",
-      "summary_90w": "",
-      "raw": "From a new slim iPhone Air model to  redesigned AirPods, here's what was announced at this year's Apple event.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "5d255e0d51c980977f1b46f94ea14e4793540e5a",
-      "title": "Rolling Stone owner Penske Media sues Google over AI summaries",
-      "url": "https://techcrunch.com/2025/09/14/rolling-stone-owner-penske-media-sues-google-over-ai-summaries/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-14T16:20:00.000Z",
-      "summary_90w": "",
-      "raw": "Penske's lawsuit accuses Google of abusing its monopoly power in search to force publishers to support AI summaries.",
       "topics": [
         "Technology"
       ]
