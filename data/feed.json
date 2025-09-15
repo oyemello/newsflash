@@ -1,7 +1,46 @@
 {
-  "version": "1757924369502",
-  "generatedAt": "2025-09-15T08:19:29.502Z",
+  "version": "1757925738732",
+  "generatedAt": "2025-09-15T08:42:18.732Z",
   "items": [
+    {
+      "id": "baa6ed9feabcc4d5e8e3d1ee77681980fb643881",
+      "title": "The SSD version of LaCie’s iconic Rugged drive gets a speed boost",
+      "url": "https://www.theverge.com/news/776676/seagate-lacie-rugged-ssd4-external-drive-apple-prores-4k",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-15T08:30:00.000Z",
+      "summary_90w": "",
+      "raw": "The new LaCie Rugged SSD4 is compatible with computers, tablets, and smartphones. | Image: Seagate\t\n\nNeil Poulton succeeded in elevating the design of external drives two decades ago with the introduction of LaCie’s Rugged line, which features a bright orange bumper to protect data from drops. Today, Seagate announced an updated version of the LaCie Rugged Mini SSD with a few small design tweaks and a big boost to transfer speeds.\nThe drive is now called the LaCie Rugged SSD4 and is available starting today in 1TB, 2TB, and 4TB capacities (Seagate is dropping the 500MB option) for $134.99, $249.99, and $479.99, respectively.\nThe Rugged SSD4 is exactly the same size as its predecessor but now features a brushed aluminum finish and a centered USB-C port. It now supports transfer speeds up to 40Gbps with 4,000MB/s read speeds and 3,000MB/s write speeds. Seagate’s older Rugged Mini SSD had a USB-C port that was slightly off-center, a smoother aluminum finish, and read speeds that maxed out at 2,000MB/s.\nThe new drive isn’t quite as fast as the LaCie Rugged SSD Pro5 that was introduced earlier this year at CES with 6,700MB/s read and 5,300MB/s write speeds, but when it’s connected to a USB-C iPhone, the Rugged SSD4 is fast enough to capture ProRes 4K footage at 120fps.\nAs with the previous version, the new Rugged SSD4 has an IP54 rating against dust and water, but it’s definitely not waterproof so while splashes are okay, a complete dunking would not be. Its orange bumper also protects it from drops as high as nearly 10 feet, but that’s definitely not an invitation to casually toss it around.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7bc0e01716e04fb215d665ae7749db450a67983e",
+      "title": "Starmer facing leadership questions after Mandelson sacking",
+      "url": "https://www.bbc.com/news/articles/ce32qepq12qo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-15T08:25:48.000Z",
+      "summary_90w": "",
+      "raw": "Some Labour MPs have become more vocal in their criticism of the prime minister after the departures of Angela Rayner and Peter Mandelson.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "797925f69b9147b404065744896971bb9cb2fa6f",
+      "title": "Cash for speeches, history-making moments and big wins for The Pitt and The Studio at the Emmys",
+      "url": "https://www.bbc.com/news/articles/cj9zep0y7reo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-15T08:22:42.000Z",
+      "summary_90w": "",
+      "raw": "Host Nate Bargatze's plan to keep speeches snappy backfires and political statements take centre stage at the 77th Primetime Emmy Awards.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "93b867dff742cdf6387083e9cfa832d6a513aee3",
       "title": "Fourteen NHS trusts' maternity care to be investigated over 'failures'",
@@ -23,7 +62,7 @@
       "source_name": "The Verge",
       "published": "2025-09-15T08:14:59.000Z",
       "summary_90w": "",
-      "raw": "Apple’s 40W Dynamic Power Adapter with 60W Max. | Image: Apple\t\n\nAlongside its new iPhone 17 lineup, Apple casually launched a world’s first last week inside the very dull sounding “Apple 40W Dynamic Power Adapter with 60W Max.” It’s the first charger to support the USB PD 3.2 AVS protocol, giving you some of the benefits of a more powerful 60W charger in a compact 40W package.\nAVS — which stands for Adjustable Voltage Supply — provides granular voltage options allowing the power source to offer more precise and efficient charging of devices like smartphones and laptops. You can see it listed on the charger specs from Apple Insider’s hands-on.\nFor reasons of safety, efficiency, and longevity, the batteries in our phones and laptops do not charge at their maximum possible input for the entirety of the charging cycle. Instead it’s regulated at predefined voltages to slow down charging as the battery fills. With AVS, the power source can provide a very specific voltage that is closer to the ideal needed for the device being charged, speeding up charging in the process.\nHowever, unlike a true 60W charger, Apple’s little 40W GaN charger can not maintain that peak 60W rate forever — only 18 minutes as demonstrated by Privaterbok over at the r/UsbCHardware subreddit. That makes it suitable for fast charging a new iPhone 17 but not a MacBook Pro, which is why Apple sells it as a 40W charger “with 60W Max” and not a 60W charger.\nIt also means that you’ll likely need Apple’s $39 Dynamic Power Adapter if you want to match Apple’s fast charging claim for the iPhone 17 models (“up to 50 percent in 20 minutes”) or wait for Anker and others to provide a compatible USB PD 3.2 AVS charger of their own.",
+      "raw": "Apple’s 40W Dynamic Power Adapter with 60W Max. | Image: Apple\t\n\nAlongside its new iPhone 17 lineup, Apple casually launched a world’s first last week inside the very dull sounding “Apple 40W Dynamic Power Adapter with 60W Max.” It’s the first charger to support the USB PD 3.2 AVS protocol, giving you some of the benefits of a more powerful 60W charger in a compact 40W package.\nAVS — which stands for Adjustable Voltage Supply — provides granular voltage options allowing the power source to offer more precise and efficient charging of devices like smartphones and laptops. You can see it listed on the charger specs from Apple Insider’s hands-on.\nFor reasons of safety, efficiency, and longevity, the batteries in our phones and laptops do not charge at their maximum possible input for the entirety of the charging cycle. Instead it’s regulated at predefined voltages to slow down charging as the battery fills. With AVS, the power source can provide a very specific voltage that is closer to the ideal needed for the device being charged, speeding up charging without overheating.\nHowever, unlike a true 60W charger, Apple’s little 40W GaN charger can not maintain that peak 60W rate forever — only 18 minutes as demonstrated by Privaterbok over at the r/UsbCHardware subreddit. That makes it suitable for fast charging a new iPhone 17 but not a MacBook Pro, which is why Apple sells it as a 40W charger “with 60W Max” and not a 60W charger.\nIt also means that you’ll likely need Apple’s $39 Dynamic Power Adapter if you want to match Apple’s fast charging claim for the iPhone 17 models (“up to 50 percent in 20 minutes”) or wait for Anker and others to provide a compatible USB PD 3.2 AVS charger of their own.",
       "topics": [
         "Technology"
       ]
@@ -76,19 +115,6 @@
       "published": "2025-09-15T07:36:59.000Z",
       "summary_90w": "",
       "raw": "West Midlands Police says a man in his 30s was detained on Sunday evening and remained in custody.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7bc0e01716e04fb215d665ae7749db450a67983e",
-      "title": "Starmer facing leadership questions after Mandelson sacking",
-      "url": "https://www.bbc.com/news/articles/ce32qepq12qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-15T07:33:57.000Z",
-      "summary_90w": "",
-      "raw": "Some Labour MPs have become more vocal in their criticism of the prime minister after the departures of Angela Rayner and Peter Mandelson.",
       "topics": [
         "World"
       ]
@@ -250,32 +276,6 @@
       ]
     },
     {
-      "id": "eee0bcfe6a97f95887dfcfa43a0cdfca6cdc7d1c",
-      "title": "Women travelling for hours to get afro hair care due to lack of salons",
-      "url": "https://www.bbc.com/news/articles/c20p1nzr5x2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-15T05:19:56.000Z",
-      "summary_90w": "",
-      "raw": "A BBC investigation finds only a third of hairdressing colleges in England teach it to students.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4b2d928939c048d53c2377276c641cc032e4b34e",
-      "title": "Scott Hastings: 'I go back to the bay where my wife died every week'",
-      "url": "https://www.bbc.com/news/articles/cgknm3n1z5lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-15T05:12:56.000Z",
-      "summary_90w": "",
-      "raw": "Jenny Hastings went missing after arranging to meet her husband, former Scotland rugby international Scott, at Wardie Bay.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "aa9d15bf324a05cc36d9d2de63a6f97a63046f9a",
       "title": "Prime Madeleine McCann suspect refuses Met interview before German prison release",
       "url": "https://www.theguardian.com/uk-news/2025/sep/15/prime-madeleine-mccann-suspect-refuses-met-interview-before-german-prison-release",
@@ -284,19 +284,6 @@
       "published": "2025-09-15T05:00:57.000Z",
       "summary_90w": "",
       "raw": "Scotland Yard made formal request to interview Christian Brueckner, due for release from seven-year rape sentence\nThe prime suspect in the disappearance of Madeleine McCann has refused to be interviewed by the Metropolitan police before his pending release from prison in Germany, the force has said.\nThe Met confirmed it had submitted a formal international request to question Christian Brueckner, the 49-year-old German national who has long been under investigation in connection with Madeleine’s disappearance, but the suspect declined.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "dda56fa31f970d69ff81f2e359c87e7b9940b7a1",
-      "title": "Trade war and faltering economy - five challenges facing Mark Carney",
-      "url": "https://www.bbc.com/news/articles/ckg2700vzrko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-15T04:59:38.000Z",
-      "summary_90w": "",
-      "raw": "From a faltering economy to high expectation from the public, parliament's return could bring challenges for Canada's new PM.",
       "topics": [
         "World"
       ]
@@ -355,13 +342,26 @@
     },
     {
       "id": "90bf2b02a364567b8812f5ce2202fadf23424be5",
-      "title": "How Adolescence pulled off an awards sweep",
+      "title": "How Adolescence pulled off an Emmys sweep",
       "url": "https://www.bbc.com/news/articles/cd72d98gj58o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-09-15T03:40:13.000Z",
       "summary_90w": "",
       "raw": "The Netflix drama, starring Owen Cooper, explored the impact of smartphones on teenagers.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "00a7f4307afa99ddb5d740dbe2c0be9aaed877c1",
+      "title": "Adolescence star Owen Cooper makes Emmys history",
+      "url": "https://www.bbc.com/news/articles/c75qdg41qv2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-15T03:30:53.000Z",
+      "summary_90w": "",
+      "raw": "The 15-year-old has become the youngest male winner in Emmys history for his role in Netflix's drama.",
       "topics": [
         "World"
       ]
@@ -524,7 +524,7 @@
     },
     {
       "id": "bb2488492f59ca5b56e1396f665ff2dab37c7d9c",
-      "title": "'Covid taught me to deal with grief alone': Children share how pandemic affected them",
+      "title": "'Something had been stolen from me': Children share the lows - and highs - of pandemic",
       "url": "https://www.bbc.com/news/articles/cx2jll1wx4ko?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -832,19 +832,6 @@
       "raw": "\"Yesterday was an interesting day for the Helldivers community.\" That's the very obvious understatement that announced the reopening of the Helldivers gaming subreddit in the small hours of Saturday morning. On Friday it was discovered that Tyler Robinson, arrested for the alleged killing of Charlie Kirk, had inscribed messages on the casings of several bullets found at the crime scene. One of those read \"Hey fascist! Catch!\" accompanied by an up arrow symbol, a right arrow, and three down arrows, a reference to the code to call down the 500KG Bomb stratagem in the cooperative shooter Helldivers 2.\nUnsurprisingly, within minutes the officia …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f50f406f54982a5ffac95d49827da3b582fdc4c3",
-      "title": "We will never surrender our flag, Sir Keir Starmer says",
-      "url": "https://www.bbc.com/news/articles/c3vz91x5ynzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-14T14:28:52.000Z",
-      "summary_90w": "",
-      "raw": "The prime minister said the flag represents \"our diverse country\" and he will not allow people to feel intimidated.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1316,16 +1303,16 @@
       ]
     },
     {
-      "id": "c46d868f9ffe8d23fdc9a72f40ef590bcd149b86",
-      "title": "Time is running out to get half off a year of Paramount Plus",
-      "url": "https://www.theverge.com/tech/777057/paramount-plus-baseus-dash-cam-solar-lego-earbuds-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-13T16:00:00.000Z",
+      "id": "3fcf1ee66a27dc0119c314bb3538c275eaaacaef",
+      "title": "The Mandelson-Epstein Emails - Who Knew What, When?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0m2p0x0?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-13T16:27:00.000Z",
       "summary_90w": "",
-      "raw": "It’s September, and many among us are dealing with back to school, and anticipating the colder weather that’s on its way (at least, if you live in the northern climes). This, plus a somewhat fraught political atmosphere, means that you might be looking for reliable, affordable ways to escape the doldrums.\nYou don’t need us to tell you that a way to do that is by watching some movies and TV shows. Through September 18th, Paramount is offering a doozy of a deal on both tiers of its Plus streaming service. You can save 50 percent on an annual subscription to Paramount Plus Essential, or its mostly ad-free Premium plan. The Essential Plan is down to $29.99 (from $59.99) and a Premium plan goes to $59.99 (from $119.99). The neat thing is that you can take advantage of this whether you’re a new or a returning subscriber (but be careful to mark your calendar; it will renew after that year at full price).\nParamount Plus Essential (annual subscription)\nEssential gets you ad-supported access to TV shows and movies. You won’t be able to download content, but you get many of the same benefits as Premium.\nWhere to Buy:\n\n $59.99 $29.99 at Paramount Plus\n\nParamount Plus Premium (annual subscription)\nThe Premium tier allows for downloads, and content can be viewed without ads (except during live TV). You’ll also get access to Showtime series and CBS.\nWhere to Buy:\n\n $119.99 $59.99 at Paramount\n\nIt’s a tempting deal, whether you go for the ad-supported Essential or the skip-the-ads Premium. The latter also lets you download your shows, which could be very handy when you’re traveling with kids, and from its library of Showtime Originals. Either way, you not only get recent shows like Tales of the Teenage Mutant Ninja Turtles, the entire Yellowstone catalog, Top Gun: Maverick, Star Trek: Strange New Worlds, and Bob Marley: One Love, but animation series like South Park and SpongeBob Squarepants, and live NFL games. Also, it hosts every Mission Impossible movie, aside from the latest one, The Final Reckoning.\nOther deals our readers loved this week\nLego kits are really popular, but the more elaborate types can quickly get pricey. If you just want to brighten up your home and do a quick bit of affordable building, you can get a pair of Lego sunflowers for only $7.99 (normally up to $14.99) at Amazon, Target, and Walmart. If you’d rather spend your entire weekend absorbed in Lego building, you can get the house from the Pixar movie Up for $38.49 (normally $59.99, a savings of $21.50) at Walmart.\nSeveral Verge readers have dug this launch deal on the Baseus VD1 Pro dash cam, which is $109.99 at Amazon (instead of $169.99). The system comes with two components: the front camera has a solar panel that powers its rechargeable battery, allowing it to detect motion and impacts for up to 14 days — without sipping on your car’s battery. It also includes a rear camera that can see what’s happening behind your car.\nThe college football season is well underway, and if you can’t get enough of seeing your favorite team hit the field every week, we suggest getting EA Sports College Football 26 for the PS5 or Xbox Series X. The game was $20 off when we first covered the deal earlier this week, but it has since dropped to almost $30 off at Amazon, at least for the PS5 version. It’s $49.99 for the Xbox version, which is still a nice deal. \nIf your chosen way to escape is to take a refreshing run while listening to your favorite tunes, then you may want to check out the Nothing Ear Open, the company’s first pair of open-style earbuds, which are now on sale at Nothing’s online storefront or Amazon for an all-time low $99 ($50 off) with a Prime membership.\nNot every gamer wants a bulky over-ear headset. Sony’s Inzone Buds are a great, significantly more compact alternative, and they’re cheaper than ever this week. GameStop has them for $143.98 ($86 off), and no other retailers are matching the price. These wireless earbuds offer superb sound quality, effective active noise cancellation, and a USB-C transmitter that works in everything from a PS5 and Switch 2 to a PC.\nFinally, if you’re looking for a new phone and are not into the idea of waiting for an iPhone 17 preorder to arrive, you can find a cute and useful budget foldable for a great price. Motorola’s latest Razr is currently matching its all-time low price of $599.99 ($100 off) at Amazon, Best Buy, and Motorola’s online storefront, It’s solid, lightweight, and offer an internal OLED display that stretches to 6.9 inches when the phone is open.",
+      "raw": "We speak about how Starmer knew about Mandelson’s links to Epstein when appointing him.",
       "topics": [
-        "Technology"
+        "World"
       ]
     },
     {
@@ -1420,16 +1407,16 @@
       ]
     },
     {
-      "id": "71ca63bc0c00887e262f4f121ae704b4e9225334",
-      "title": "BBC reports from house linked to Charlie Kirk shooting suspect",
-      "url": "https://www.bbc.com/news/videos/cd635wwgz85o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "id": "1a475abb3dc16ccdb5d98f98a66ee869d359880a",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002jnl0?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
-      "published": "2025-09-13T01:00:27.000Z",
+      "published": "2025-09-13T01:00:00.000Z",
       "summary_90w": "",
-      "raw": "Sitting outside was a grey car, similar to the model detectives said the suspect used to drive to the scene of the attack.",
+      "raw": "Lara Lewington explores the tech being trialled to find 'hidden' pancreatic cancer cases.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -1667,19 +1654,6 @@
       ]
     },
     {
-      "id": "4b3f6ab6d19c4ef6f4f5ff000ce12ee7ad556261",
-      "title": "Watch: Video shows moment Kirk shooting suspect flees the scene",
-      "url": "https://www.bbc.com/news/videos/cly0d2dk2gpo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-12T02:49:25.000Z",
-      "summary_90w": "",
-      "raw": "The video shows a figure dressed in black dropping from a roof at the Utah campus and fleeing towards a wooded area.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "2c09c5f828e2f851fe054dadf85adaee3d665eef",
       "title": "The mystery of Milk.com — and what it might be worth",
       "url": "https://www.npr.org/2025/09/11/nx-s1-5471542/the-mystery-of-milk-com-and-what-it-might-be-worth",
@@ -1716,6 +1690,19 @@
       "raw": "Hotels have accessible rooms for wheelchair users. If you or someone you know has experienced problems with those rooms, we'd like to hear about it.",
       "topics": [
         "Business"
+      ]
+    },
+    {
+      "id": "ee8717dafa0eeeaf6ed08ee7491d7bd2b8892db0",
+      "title": "Charlie Kirk's killing: A dangerous moment for America?",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct7t5x?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-11T15:55:00.000Z",
+      "summary_90w": "",
+      "raw": "Why the right wing influencer was shot and what next for the US?",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1961,19 +1948,6 @@
       "published": "2025-09-06T09:00:00.000Z",
       "summary_90w": "",
       "raw": "In the past, the federal government has taken stakes in American companies during wars or economic crises. But now the government's motivation has more to do with the race for AI chips and technology.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "b01e5f5037c4e13f5add6c3b3cd312f3c5b5bdc6",
-      "title": "Tech Now",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002jb6f?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-09-06T01:00:00.000Z",
-      "summary_90w": "",
-      "raw": "How technology is bringing hope of earlier detection and prevention to wildfires.",
       "topics": [
         "Technology"
       ]
@@ -2249,6 +2223,19 @@
       "raw": "The impending ban is popular with many parents, but experts have raised concerns over privacy and age verification technology.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "53515fb374304cbca7057778293272f5385247e1",
+      "title": "BBC News app",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-04-30T14:04:28.000Z",
+      "summary_90w": "",
+      "raw": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "topics": [
+        "World"
       ]
     }
   ]
