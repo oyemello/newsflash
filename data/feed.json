@@ -1,16 +1,55 @@
 {
-  "version": "1758048980300",
-  "generatedAt": "2025-09-16T18:56:20.300Z",
+  "version": "1758050030910",
+  "generatedAt": "2025-09-16T19:13:50.910Z",
   "items": [
     {
-      "id": "600187cceee2450e313fe3dd0fada30c15388daf",
-      "title": "Trump says he will sue New York Times for $15bn",
-      "url": "https://www.bbc.com/news/articles/cevz419pk8vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "id": "7753852af5dae552f76273db193ec236f4b11581",
+      "title": "Eritrean man wins block on removal to France under 'one in, one out' deal",
+      "url": "https://www.bbc.com/news/articles/c1dqe2443l1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-16T18:31:12.000Z",
+      "published": "2025-09-16T19:03:03.000Z",
       "summary_90w": "",
-      "raw": "He has accused the paper of defamation and libel, saying it served as a \"mouthpiece\" for Democrats.",
+      "raw": "Some migrants who arrived in the UK by small boat had been told they would be put on flights to France as early as Tuesday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8d44a08c7272243f10b421481cf31784e25949f4",
+      "title": "Silicon Valley bets big on ‘environments’ to train AI agents",
+      "url": "https://techcrunch.com/2025/09/16/silicon-valley-bets-big-on-environments-to-train-ai-agents/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-16T19:00:48.000Z",
+      "summary_90w": "",
+      "raw": "A wave of startups are creating RL environments to help AI labs train agents. It might be Silicon Valley’s next craze in the making.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "68288fbcce465f2bc89310152a00293dabcc80c3",
+      "title": "From heart to skin to hair, 'Replaceable You' dives into the science of transplant",
+      "url": "https://www.npr.org/2025/09/16/nx-s1-5530048/mary-roach-replaceable-you-anatomy-transplant",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-16T18:59:37.000Z",
+      "summary_90w": "",
+      "raw": "Science writer Mary Roach chronicles both the history and the latest science of body part replacement in her new book. She also answers the question: Is it kosher to receive an organ donation from a pig?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b53c9563343e440f4b7c3daa251c0122b2742506",
+      "title": "Utah files murder charges against Tyler Robinson",
+      "url": "https://www.npr.org/2025/09/16/nx-s1-5542545/utah-files-murder-charges-against-tyler-robinson",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-16T18:56:59.000Z",
+      "summary_90w": "",
+      "raw": "Utah prosecutors charged Tyler Robinson, 22, with the murder of conservative activist Charlie Kirk. Officials say they are seeking the death penalty.",
       "topics": [
         "World"
       ]
@@ -21,9 +60,35 @@
       "url": "https://www.theguardian.com/world/live/2025/sep/16/israel-gaza-war-israels-defence-minister-says-gaza-is-burning-amid-escalation-in-bombardment-latest-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-09-16T18:29:56.000Z",
+      "published": "2025-09-16T18:49:59.000Z",
       "summary_90w": "",
       "raw": "António Guterres says he wants to meet Benjamin Netanyahu and Donald Trump at UN next week\nWafa, the Palestinian news agency, has been told by medical sources that at least 38 Palestinian people, including women and children, have been killed by Israeli forces since dawn today.\nAs well as facing relentless bombardments, Gaza City, the biggest built-up area of the territory, is being gripped by a famine caused by Israel’s restrictions on aid.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8b8f4f5af137df47d7365c15f630d015d41a06b2",
+      "title": "Netanyahu’s ‘super-Sparta’ vision braces Israel for isolated economic future",
+      "url": "https://www.theguardian.com/world/2025/sep/16/netanyahu-super-sparta-vision-israel-economic-future-isolation",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-16T18:41:58.000Z",
+      "summary_90w": "",
+      "raw": "Israeli PM’s outline of partial autarky and more militarised society stirs up backlash and concern over pariah status\n\nMiddle East crisis – live updates\n\nHours before unleashing a ground offensive against Gaza City on Tuesday, Benjamin Netanyahu braced his country for a future of mounting economic isolation, urging it to become a “super Sparta” of the Middle East.\nThe future the prime minister laid out for Israel, of a more militarised society, a partial autarky – or economically self-sufficient country – with limited trade options and relying increasingly on homemade production, has stirred up a backlash among Israelis who are ever more uneasy at the prospect of following him down the path to a pariah state.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "600187cceee2450e313fe3dd0fada30c15388daf",
+      "title": "Trump says he will sue New York Times for $15bn",
+      "url": "https://www.bbc.com/news/articles/cevz419pk8vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-16T18:31:12.000Z",
+      "summary_90w": "",
+      "raw": "He has accused the paper of defamation and libel, saying it served as a \"mouthpiece\" for Democrats.",
       "topics": [
         "World"
       ]
@@ -115,19 +180,6 @@
       "published": "2025-09-16T18:11:59.000Z",
       "summary_90w": "",
       "raw": "IDF says advance aims to ‘dismantle Hamas’s grip’ as UN report says Israel has committed genocide in territory\n\nMiddle East crisis – live updates\n\nIsrael unleashed its long-threatened ground offensive in Gaza City on Tuesday, sending tanks and remote-controlled armoured cars packed with explosives into its streets, in defiance of international criticism and the findings of a UN commission that it was committing genocide in the Palestinian territory.\n“Gaza is burning. The IDF is striking terror infrastructure with an iron fist,” Israel’s defence minister, Israel Katz, wrote on X as the attack was launched in the early hours of the morning, adding: “We will not relent until the mission is completed.”\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7753852af5dae552f76273db193ec236f4b11581",
-      "title": "Eritrean man wins block on removal to France under 'one in, one out' deal",
-      "url": "https://www.bbc.com/news/articles/c1dqe2443l1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-16T18:09:50.000Z",
-      "summary_90w": "",
-      "raw": "Some migrants who arrived in the UK by small boat had been told they would be put on flights to France as early as Tuesday.",
       "topics": [
         "World"
       ]
@@ -232,6 +284,19 @@
       "published": "2025-09-16T17:21:32.000Z",
       "summary_90w": "",
       "raw": "Head of state broadcaster says it is ‘impossible to look the other way’ over Israel’s actions in Gaza\nSpain has become the latest country to confirm it will not take part in next year’s Eurovision song contest if Israel participates, with the head of its state broadcaster saying “the genocide currently taking place make[s] it impossible for us to look the other way”.\nThe majority decision by RTVE board members makes Spain the first of the “big five” Eurovision countries that contribute the most money to the event to take such action in response to Israel’s offensive in Gaza.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "84dfe4db5ea66bb737f21fc1cb4394eedfc218d6",
+      "title": "Sky to cut 600 jobs in streaming move plans",
+      "url": "https://www.bbc.com/news/articles/cpd945gv7z1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-16T17:20:50.000Z",
+      "summary_90w": "",
+      "raw": "A consultation has been launched on proposed changes, which affect 900 roles.",
       "topics": [
         "World"
       ]
@@ -751,7 +816,7 @@
       "source_name": "TechCrunch",
       "published": "2025-09-16T14:30:00.000Z",
       "summary_90w": "",
-      "raw": "YouTube launches a handful of updates for creators, including lip syncing features for dubbed videos, likeness detection, collabs, an AI chatbot and more.",
+      "raw": "YouTube launches a handful of updates for creators, including lip-syncing features for dubbed videos, likeness detection, collabs, an AI chatbot, and more.",
       "topics": [
         "Technology"
       ]
@@ -881,7 +946,7 @@
       "source_name": "TechCrunch",
       "published": "2025-09-16T14:00:00.000Z",
       "summary_90w": "",
-      "raw": "Salesforce's Missionforce will help modernize national defense workflows across areas including personnel, logistics and decision making.",
+      "raw": "Salesforce's Missionforce will help modernize national defense workflows across such areas as personnel, logistics, and decision-making.",
       "topics": [
         "Technology"
       ]
@@ -965,19 +1030,6 @@
       ]
     },
     {
-      "id": "67dbed48d95b44551b213e271237b46cb14a16b9",
-      "title": "Calm launches standalone iOS app for sleep support",
-      "url": "https://techcrunch.com/2025/09/16/calm-launches-standalone-ios-app-for-sleep-support/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-16T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The new Calm Sleep app is designed to help people wind down, sleep deeply, and wake up refreshed.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "6369414f2bb68a6694af9c9616ef2dca8c8779e3",
       "title": "Coalition to fight Labor’s universal childcare plan as Ley signals ‘unrelenting’ pursuit of efficiency",
       "url": "https://www.theguardian.com/australia-news/2025/sep/16/coalition-to-fight-labor-universal-childcare-plan-as-ley-signals-unrelenting-pursuit-of-efficiency",
@@ -1051,19 +1103,6 @@
       "published": "2025-09-16T11:30:36.000Z",
       "summary_90w": "",
       "raw": "Caulfield lost her seat at last year's general election, after nearly nine years as the MP for Lewes.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c7b70c9f777466deddfb2fcdaf1d9193dbf3b1d6",
-      "title": "Who will win Champions League? BBC Sport experts make predictions",
-      "url": "https://www.bbc.com/sport/football/articles/c1kwmjxwpkxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-16T10:58:45.000Z",
-      "summary_90w": "",
-      "raw": "As the Champions League returns on Tuesday, BBC Sport experts predict their winners, which English team will go furthest, a surprise package and most exciting player to watch.",
       "topics": [
         "World"
       ]
@@ -1160,19 +1199,6 @@
       ]
     },
     {
-      "id": "48fea43efd9bb587e9331c6fed4335f764cd9a40",
-      "title": "On 9/16/25, celebrate a date of mathematical beauty",
-      "url": "https://www.npr.org/2025/09/16/nx-s1-5535545/pythagorean-triple-square-day-9-16-25",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-16T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Pythagorean Triple Square Day, as one man affectionately calls 9/16/25, is a day like no other this century.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8ce5fb89bfc1a54454bb1ea596313e3a27e86fe1",
       "title": "Russia has network of 200 camps for ‘brainwashing’ Ukrainian children – report",
       "url": "https://www.theguardian.com/global-development/2025/sep/16/russia-has-network-of-200-camps-for-brainwashing-ukrainian-children-report",
@@ -1220,19 +1246,6 @@
       "published": "2025-09-16T09:01:00.000Z",
       "summary_90w": "",
       "raw": "Liberal National party expected to legislate ban this week, putting an end to testing of illicit drugs at festivals\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nQueensland’s state government is expected to ban pill testing, including at festivals, by attaching amendments to an unrelated bill in parliament in a move criticised by health advocates.\nUnder the previous Labor government, Queensland was the first state to establish a fixed pill-testing strategy on an ongoing basis, in 2024. Clinics were opened on the Gold Coast and in Brisbane.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4317d487d4cca5872d01d8bf21ffe13cdac68c11",
-      "title": "Kennedy's vaccine panel expected to recommend delaying hepatitis B shot in children",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/16/nx-s1-5542405/rfk-jr-acip-vaccine-advisory-panel-vote-delay-hepatitis-b-shot-in-infants",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-16T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "RFK Jr.'s hand-picked panel of vaccine advisors is expected to vote to delay the hepatitis B shot for newborns. Doctors warn that could fuel a return of a disease virtually eradicated in U.S. kids.",
       "topics": [
         "World"
       ]
@@ -1480,19 +1493,6 @@
       "published": "2025-09-15T21:38:00.000Z",
       "summary_90w": "",
       "raw": "Arab states say US should use its leverage and influence as they promise to ‘activate joint defence mechanisms’ \nGulf leaders meeting at an emergency summit in Qatar have called on the Trump administration to use its leverage to rein in Israel following the unprecedented Israeli attempt last Tuesday to assassinate Hamas negotiators in Doha.\nSpeaking after the meeting of the Gulf Cooperation Council (GCC), the group’s secretary general, Jasem Mohamed al-Budaiwi, said: “We … expect our strategic partners in the United States to use their influence on Israel in order for it to stop this behaviour … they have leverage and influence on Israel, and it’s about time that this leverage and influence be used.”\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4994b4856888b010dbc2d1cc01cffa8b224c62d8",
-      "title": "First group of children from Gaza arrive in UK for life-saving NHS treatment",
-      "url": "https://www.theguardian.com/world/2025/sep/15/first-group-of-children-from-gaza-arrive-in-uk-for-life-saving-nhs-treatment",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-15T20:46:05.000Z",
-      "summary_90w": "",
-      "raw": "Care and support package, including housing, will help 30-50 young Palestinians for an initial two years\nThe first group of children from Gaza have arrived in the UK for specialist life-saving treatment on the NHS, the Guardian understands.\nYvette Cooper, the foreign secretary, informed the parliamentary Labour party on Monday evening about the development. On arrival in the UK, the patients and their families have been granted access to NHS treatment, appropriate housing and comprehensive support services for an initial two-year period.\n Continue reading...",
       "topics": [
         "World"
       ]
