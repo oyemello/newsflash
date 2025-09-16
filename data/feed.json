@@ -1,7 +1,59 @@
 {
-  "version": "1758033484247",
-  "generatedAt": "2025-09-16T14:38:04.247Z",
+  "version": "1758034406878",
+  "generatedAt": "2025-09-16T14:53:26.878Z",
   "items": [
+    {
+      "id": "66fceab5aba1ea448c352d309229ae7865069f60",
+      "title": "Tesla probed for potentially faulty door handles",
+      "url": "https://techcrunch.com/2025/09/16/tesla-probed-for-potentially-faulty-door-handles/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-16T14:48:43.000Z",
+      "summary_90w": "",
+      "raw": "The National Highway Traffic Safety Administration has received nine reports from owners who couldn't access their cars, including from parents whose children were stuck inside.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1f437c4305d1475e2189317bbe83da7439a4239f",
+      "title": "King at Duchess of Kent's funeral but ill Queen not attending",
+      "url": "https://www.bbc.com/news/articles/cpq5eynnn8ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-16T14:42:45.000Z",
+      "summary_90w": "",
+      "raw": "Mourners, including the King and other senior royals, are gathering at Westminster Cathedral.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "dd2fb96531ca26da8be6b83bbc5331e768da894d",
+      "title": "The China-US deal for TikTok could take another month to work out",
+      "url": "https://www.theverge.com/news/778789/tiktok-us-china-deal-investors-oracle",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-16T14:41:57.000Z",
+      "summary_90w": "",
+      "raw": "TikTok might not finalize its deal to sell its US operations for at least another month. Sources tell CNBC’s David Faber that the US and China might close on an agreement within the next 30 to 45 days, while Oracle will remain the app’s cloud partner, allowing it to continue routing US user data on American servers.\nOn Monday, Treasury Secretary Scott Bessent told reporters that the US and China have reached a “framework deal” for TikTok. He added that President Donald Trump would confirm the deal on Friday — two days after TikTok’s latest deadline to divest expires. Trump has already given TikTok three extensions to negotiate a deal, and it’s unclear whether he’ll grant TikTok another while the company finalizes an agreement.\nTikTok’s future in the US became shrouded in uncertainty after the federal government passed the Protecting Americans from Foreign Adversary Controlled Applications Act, which mandates that TikTok must divest from its Chinese parent company, ByteDance, or face a ban in the US due to national security concerns. \nOn Tuesday, The Information reported that the US and China have reached an agreement on the “licensing of TikTok’s algorithms and other intellectual property rights.” Previous reports suggested that TikTok could launch a separate version of its app for US users. As noted by CNBC, a group of investment firms, including some existing ByteDance shareholders, could gain control of TikTok’s US operations.\n“’I’m hearing it’s [the deal] actually going to be relatively small in terms of the actual size of the checks that are written for the entity itself, and it will not be something that is going to go public at some point,” Faber said during CNBC’s Squawk on the Street.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "38eb649c82448e8c9cf056f8f198f0210a99cc24",
+      "title": "Acting legend Robert Redford dies aged 89",
+      "url": "https://www.bbc.com/news/articles/c1dqe9ey0kgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-16T14:40:12.000Z",
+      "summary_90w": "",
+      "raw": "The acting star was famous for roles in The Sting and Butch Cassidy and the Sundance Kid.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "41b00902a1b103f3609806a356683327308455b5",
       "title": "YouTube announces new generative AI tools for Shorts creators",
@@ -23,14 +75,14 @@
       "source_name": "The Verge",
       "published": "2025-09-16T14:30:00.000Z",
       "summary_90w": "",
-      "raw": "Influencers and content creators are many things beyond their public personas. All but the biggest figures likely do some combination of the following jobs themselves: content moderator, video editor, photographer, social media strategist, script writer, idea generator. What if they could outsource much of that work to AI? And what if it were the social media platforms themselves that provided them with the tools to do so? \nAt the Made On YouTube event, held Tuesday in New York, the company unveiled a slew of new AI features aimed at content creators, many of which focus on all the behind-the-scenes work that goes into a video. Unlike previous tools — like an AI background music generator or tools that create AI photos and videos — the new batch are largely content strategy features, marketed as helping creators reach new audiences (and more effectively get in front of their existing base).\nAmong the new tools is Ask Studio, an AI chatbot that creators can use to ask analytics questions about how their content is performing. Amjad Hanif, VP of product management, describes it as a “creative partner”: how is the audience responding to a video? What are the most compelling moments of a video? The tool pulls in data from across a YouTube channel, including longform videos and Shorts — essentially a faster and more direct analytics tool that’s built into the platform. Creators can ask the tool to do things like summarize comments and synthesize viewer sentiment, and ask for suggestions based on data: if YouTube reports a drop off in viewership at a certain part, Ask Studio will spit out advice for next time on optimizing that section of the video. Creators can also ask for things like “video ideas from comments on my latest video,” and then follow up with requests for title suggestions. For now, the tool can’t compare one channel versus another (queries like “What videos from my competitors are performing well?”).\nAlso rolling out is a new thumbnail and title A / B testing feature, building upon a thumbnail testing version that was announced last year. With this update, creators can pair thumbnail images and titles and run tests to see which performs the best; the “winner” is the combination that has the highest watch time.\n“No matter how good the video is, the thumbnail and title is what gets people to even see the video and see if it’s good or not. It might be the most important thing, honestly,” says Ashley Alexander, a lifestyle influencer who was given early access and who has been testing some of the tools. Alexander says she uses the thumbnail-only testing feature for every video and has begun integrating the new thumbnail and title A / B testing tool into her workflow.\nThe influx of tools essentially meant to help creators optimize for the YouTube algorithm are something of a paradigm shift. For years, creators ran their own tests to figure out what worked best for each social media platform: how to write the most enticing title or whether to have a closed or open mouth in a thumbnail. It was trial and error, with creators trying to sort through what kind of content the platforms preferred. Now, some platforms themselves directly tell creators what they should post, and how — TikTok tells creators what topics are trending and even what their followers are searching for in the app, with explicit nudges that creators should make videos that target those searches. The effect is two-fold: it’s a way for YouTube and other platforms to more directly guide what creators make. “Optimizing” content is also potentially beneficial to both creators and YouTube itself — both parties want viewers to be spending more time on the platform, watching their videos. \nYouTube is also expanding some viewer-facing AI tools like dubbing. Previously creators had access to an auto-dubbing feature — now, the feature will also sync the YouTuber’s lips to match the dubbed language. Content that uses YouTube’s AI dubbing feature will have a badge underneath the title and in the video description indicating it was auto-dubbed. Creators won’t be able to go through and correct or tweak mis-translated portions after uploading. \nSeparately, creators will also have the option to add multiple collaborators to a single video — essentially a cross-posting feature. Each collaborator will be able to see performance metrics for the video. \nThe AI creep into influencing and content creation has been happening for a while, and across industries: adult content creators are using chatbots to interact with paying clients and platforms are encouraging advertisers to use AI-generated models to sell products. When YouTube recently updated its monetization rules, many creators understood the “inauthentic content” policy was taking aim at AI-generated mass produced videos. Some creators were concerned about what exactly qualified as “inauthentic,” how YouTube would screen content, and how it would decide what to demonetize.\nThere’s example after example of online and hobby communities reckoning with an influx of AI content — but does it matter if it’s happening behind the scenes? Do viewers care if their favorite YouTuber uses AI to come up with video topic ideas, like the platform encourages them to do? And if everyone is perfectly optimized for YouTube’s algorithm and relying on the same built-in tools, is anyone really optimized? Who wins when everyone’s thumbnail and title are just right, or when everyone is using the same AI tool to generate the perfect video topics and scripts?\nCreators like Alexander say the features are a jumping off point, not a cheat code: the AI-generated ideas are a good place to start, but she thinks ultimately she knows her audience best. For many content creators, their audiences buy into them as people making distinct creative choices, not just churning out whatever a chatbot suggests — that relationship is something AI can’t replicate.",
+      "raw": "Influencers and content creators are many things beyond their public personas. All but the biggest figures likely do some combination of the following jobs themselves: content moderator, video editor, photographer, social media strategist, script writer, idea generator. What if they could outsource much of that work to AI? And what if it were the social media platforms themselves that provided them with the tools to do so?  \nAt the Made On YouTube event, held Tuesday in New York, the company unveiled a slew of new AI features aimed at content creators, many of which focus on all the behind-the-scenes work that goes into a video. Unlike previous tools — like an AI background music generator or tools that create AI photos and videos — the new batch are largely content strategy features, marketed as helping creators reach new audiences (and more effectively get in front of their existing base).\nAmong the new tools is Ask Studio, an AI chatbot that creators can use to ask analytics questions about how their content is performing. Amjad Hanif, VP of product management, describes it as a “creative partner”: how is the audience responding to a video? What are the most compelling moments of a video? The tool pulls in data from across a YouTube channel, including longform videos and Shorts — essentially a faster and more direct analytics tool that’s built into the platform. Creators can ask the tool to do things like summarize comments and synthesize viewer sentiment, and ask for suggestions based on data: if YouTube reports a drop off in viewership at a certain part, Ask Studio will spit out advice for next time on optimizing that section of the video. Creators can also ask for things like “video ideas from comments on my latest video,” and then follow up with requests for title suggestions. For now, the tool can’t compare one channel versus another (queries like “What videos from my competitors are performing well?”).\nAlso rolling out is a new thumbnail and title A / B testing feature, building upon a thumbnail testing version that was announced last year. With this update, creators can pair thumbnail images and titles and run tests to see which performs the best; the “winner” is the combination that has the highest watch time.\n“No matter how good the video is, the thumbnail and title is what gets people to even see the video and see if it’s good or not. It might be the most important thing, honestly,” says Ashley Alexander, a lifestyle influencer who was given early access and who has been testing some of the tools. Alexander says she uses the thumbnail-only testing feature for every video and has begun integrating the new thumbnail and title A / B testing tool into her workflow.\nThe influx of tools essentially meant to help creators optimize for the YouTube algorithm are something of a paradigm shift. For years, creators ran their own tests to figure out what worked best for each social media platform: how to write the most enticing title or whether to have a closed or open mouth in a thumbnail. It was trial and error, with creators trying to sort through what kind of content the platforms preferred. Now, some platforms themselves directly tell creators what they should post, and how — TikTok tells creators what topics are trending and even what their followers are searching for in the app, with explicit nudges that creators should make videos that target those searches. The effect is two-fold: it’s a way for YouTube and other platforms to more directly guide what creators make. “Optimizing” content is also potentially beneficial to both creators and YouTube itself — both parties want viewers to be spending more time on the platform, watching their videos. \nYouTube is also expanding some viewer-facing AI tools like dubbing. Previously creators had access to an auto-dubbing feature — now, the feature will also sync the YouTuber’s lips to match the dubbed language. Content that uses YouTube’s AI dubbing feature will have a badge underneath the title and in the video description indicating it was auto-dubbed. Creators won’t be able to go through and correct or tweak mis-translated portions after uploading. \nSeparately, creators will also have the option to add multiple collaborators to a single video — essentially a cross-posting feature. Each collaborator will be able to see performance metrics for the video. \nThe AI creep into influencing and content creation has been happening for a while, and across industries: adult content creators are using chatbots to interact with paying clients and platforms are encouraging advertisers to use AI-generated models to sell products. When YouTube recently updated its monetization rules, many creators understood the “inauthentic content” policy was taking aim at AI-generated mass produced videos. Some creators were concerned about what exactly qualified as “inauthentic,” how YouTube would screen content, and how it would decide what to demonetize.\nThere’s example after example of online and hobby communities reckoning with an influx of AI content — but does it matter if it’s happening behind the scenes? Do viewers care if their favorite YouTuber uses AI to come up with video topic ideas, like the platform encourages them to do? And if everyone is perfectly optimized for YouTube’s algorithm and relying on the same built-in tools, is anyone really optimized? Who wins when everyone’s thumbnail and title are just right, or when everyone is using the same AI tool to generate the perfect video topics and scripts?\nCreators like Alexander say the features are a jumping off point, not a cheat code: the AI-generated ideas are a good place to start, but she thinks ultimately she knows her audience best. For many content creators, their audiences buy into them as people making distinct creative choices, not just churning out whatever a chatbot suggests — that relationship is something AI can’t replicate.",
       "topics": [
         "Technology"
       ]
     },
     {
       "id": "67410d1d20659e0bfb676e9ed6cd066d48710966",
-      "title": "YouTube is cooking up some new monetization features",
+      "title": "YouTube is inching closer to becoming a shopping channel",
       "url": "https://www.theverge.com/news/778693/youtube-monetization-features-ai-tagging-dynamic-ads",
       "source_id": "verge-tech",
       "source_name": "The Verge",
@@ -120,6 +172,19 @@
       ]
     },
     {
+      "id": "4fda108e96638becd32441a61f74ead623332d49",
+      "title": "Kenya seeks arrest of former British soldier over alleged murder of Agnes Wanjiru",
+      "url": "https://www.theguardian.com/uk-news/2025/sep/16/kenya-seeks-arrest-former-british-soldier-alleged-agnes-wanjiru",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-16T14:28:29.000Z",
+      "summary_90w": "",
+      "raw": "High court judge issues arrest warrant, saying a suspect has been charged in relation to 2012 death of 21-year-old\nA warrant has been issued for the arrest of a British national on suspicion of the murder of the Kenyan woman Agnes Wanjiru, who was found dead in the grounds of a hotel near an army base in 2012.\nThe high court judge Alexander Muteti issued the arrest warrant earlier on Tuesday in Kenya, with the prosecution telling the court a suspect had been charged with murder, is seeking the application for a warrant of arrest to facilitate his extradition to Kenya.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "8cbd0c8f06c43478b2ccccb30c976a1364369884",
       "title": "Judge dismisses terrorism charges against Luigi Mangione",
       "url": "https://www.bbc.com/news/articles/cj4y2p8qq5qo?at_medium=RSS&at_campaign=rss",
@@ -141,6 +206,19 @@
       "published": "2025-09-16T14:26:15.000Z",
       "summary_90w": "",
       "raw": "The report issued Tuesday by experts commissioned by the United Nations' Human Rights Council calls on the international community to end the genocide and take steps to punish those responsible.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7b4a3c8f5e4a0d6ca5a739ee8c0409daf458b4e1",
+      "title": "Israel turning Gaza City into mass graveyard, Palestinian foreign ministry says, as IDF launches ground offensive - latest updates",
+      "url": "https://www.theguardian.com/world/live/2025/sep/16/israel-gaza-war-israels-defence-minister-says-gaza-is-burning-amid-escalation-in-bombardment-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-16T14:24:19.000Z",
+      "summary_90w": "",
+      "raw": "Palestinian foreign ministry accuses IDF of deliberately targeting civilians\nWafa, the Palestinian news agency, has been told by medical sources that at least 38 Palestinian people, including women and children, have been killed by Israeli forces since dawn today.\nAs well as facing relentless bombardments, Gaza City, the biggest built-up area of the territory, is being gripped by a famine caused by Israel’s restrictions on aid.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -198,19 +276,6 @@
       ]
     },
     {
-      "id": "1f437c4305d1475e2189317bbe83da7439a4239f",
-      "title": "King at Duchess of Kent's funeral but ill Queen not attending",
-      "url": "https://www.bbc.com/news/articles/cpq5eynnn8ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-16T14:01:09.000Z",
-      "summary_90w": "",
-      "raw": "Mourners, including the King and other senior royals, are gathering at Westminster Cathedral.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "037e129638554ccbcbdceef1148476ce209011c7",
       "title": "Mandelson red flags were missed or ignored, senior Labour MP says",
       "url": "https://www.bbc.com/news/articles/c147k2zpg68o?at_medium=RSS&at_campaign=rss",
@@ -237,19 +302,6 @@
       ]
     },
     {
-      "id": "38eb649c82448e8c9cf056f8f198f0210a99cc24",
-      "title": "Acting legend Robert Redford dies aged 89",
-      "url": "https://www.bbc.com/news/articles/c1dqe9ey0kgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-16T13:55:50.000Z",
-      "summary_90w": "",
-      "raw": "The acting star was famous for roles in The Sting and Butch Cassidy and the Sundance Kid.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "19b7b49e52ec3f68340159feb8fcff05c56d4e19",
       "title": "Kenya's Kipyegon extends era of dominance with historic fourth world 1500m win",
       "url": "https://www.bbc.com/sport/athletics/articles/c0q7g9v97kpo?at_medium=RSS&at_campaign=rss",
@@ -271,19 +323,6 @@
       "published": "2025-09-16T13:48:47.000Z",
       "summary_90w": "",
       "raw": "Faith Kipyegon storms to a fourth world 1500m title and extends her streak of dominance with a fifth consecutive global gold in the event.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7b4a3c8f5e4a0d6ca5a739ee8c0409daf458b4e1",
-      "title": "Israel turning Gaza City into mass graveyard, Palestinian foreign ministry says, as IDF launches ground offensive - latest updates",
-      "url": "https://www.theguardian.com/world/live/2025/sep/16/israel-gaza-war-israels-defence-minister-says-gaza-is-burning-amid-escalation-in-bombardment-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-16T13:48:30.000Z",
-      "summary_90w": "",
-      "raw": "Palestinian foreign ministry accuses IDF of deliberately targeting civilians\nWafa, the Palestinian news agency, has been told by medical sources that at least 38 Palestinian people, including women and children, have been killed by Israeli forces since dawn today.\nAs well as facing relentless bombardments, Gaza City, the biggest built-up area of the territory, is being gripped by a famine caused by Israel’s restrictions on aid.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -510,19 +549,6 @@
       ]
     },
     {
-      "id": "112af67a558fb54a33387af5ed76c1ca28aa5816",
-      "title": "Apple Watch Series 11 review: stuck in the middle",
-      "url": "https://www.theverge.com/smartwatch-review/778012/apple-watch-series-11-review-hypertension-5g-sleep-score-wearables-smartwatch",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-16T12:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Series 11 is a great smartwatch, but it’s not the most exciting one.\t\n\nNo one is going to wax lyrical about the Apple Watch Series 11. Not because it's a bad smartwatch - it's a great smartwatch, actually. There's just nothing that makes it feel special this year. Alas, the $399 Series 11 is the middle child of Apple Watches.\nIt's not the Series 11's fault that the entry-level Apple Watch SE 3 got a major glow-up. It can't help that the Apple Watch Ultra 3 gets everything the Series 11 has plus satellite connectivity. But there's little to mask the fact that this watch doesn't offer much more than the entry-level SE 3. You're mostly paying extra for a bit of polish.\nHardware-wise, the Series 11 is nearly iden …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "5cb138704bc9f013c7c1387921fa6b9c8979894e",
       "title": "Kayak co-founder takes on Calendly with new Supercal scheduling platform",
       "url": "https://techcrunch.com/2025/09/16/kayak-co-founder-takes-on-calendly-with-new-supercal-scheduling-platform/",
@@ -661,19 +687,6 @@
       "published": "2025-09-16T10:49:14.000Z",
       "summary_90w": "",
       "raw": "He has accused the paper of defamation and libel, saying it served as a \"mouthpiece\" for Democrats.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4fda108e96638becd32441a61f74ead623332d49",
-      "title": "Kenya seeks arrest of former British soldier over alleged murder of Agnes Wanjiru",
-      "url": "https://www.theguardian.com/uk-news/2025/sep/16/kenya-seeks-arrest-former-british-soldier-alleged-agnes-wanjiru",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-16T10:46:54.000Z",
-      "summary_90w": "",
-      "raw": "High court judge issues arrest warrant, saying a suspect has been charged in relation to 2012 death of 21-year-old\nA warrant has been issued for the arrest of a British national on suspicion of the murder of the Kenyan woman Agnes Wanjiru, who was found dead in the grounds of a hotel near an army base in 2012.\nThe high court judge Alexander Muteti issued the arrest warrant earlier on Tuesday in Kenya, with the prosecution telling the court a suspect had been charged with murder, and seeking the application for a warrant of arrest to facilitate his extradition to Kenya.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1337,19 +1350,6 @@
       "published": "2025-09-15T20:11:51.000Z",
       "summary_90w": "",
       "raw": "We asked YC-focused investors to name the startups from the Summer 2025 batch that generated the most interest.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "eb97c5b2f3738ed9b4cd571c26923f860fa802b4",
-      "title": "Company that owns Gucci, Balenciaga, other brands confirms hack",
-      "url": "https://techcrunch.com/2025/09/15/company-that-owns-gucci-balenciaga-other-brands-confirms-hack/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-15T20:03:09.000Z",
-      "summary_90w": "",
-      "raw": "Kering said the hackers did not steal credit card numbers and that it has contacted the customers whose data is part of the breach, without saying how many were affected.",
       "topics": [
         "Technology"
       ]
