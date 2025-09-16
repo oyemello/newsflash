@@ -1,16 +1,185 @@
 {
-  "version": "1758032118772",
-  "generatedAt": "2025-09-16T14:15:18.772Z",
+  "version": "1758033484247",
+  "generatedAt": "2025-09-16T14:38:04.247Z",
   "items": [
+    {
+      "id": "41b00902a1b103f3609806a356683327308455b5",
+      "title": "YouTube announces new generative AI tools for Shorts creators",
+      "url": "https://techcrunch.com/2025/09/16/youtube-announces-new-generative-ai-tools-for-shorts-creators/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-16T14:30:00.000Z",
+      "summary_90w": "",
+      "raw": "YouTube is bringing a custom version of Google's text-to-video generative AI model, Veo 3, to Shorts, along with a new remixing tool, an 'Edit with AI' feature, and more.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c1adbb805beb55d79ad1e5377b10a47978259b77",
+      "title": "YouTube is adding AI into more parts of content creation",
+      "url": "https://www.theverge.com/news/778469/youtube-creators-ai-analytics-ask-studio-dubbing",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-16T14:30:00.000Z",
+      "summary_90w": "",
+      "raw": "Influencers and content creators are many things beyond their public personas. All but the biggest figures likely do some combination of the following jobs themselves: content moderator, video editor, photographer, social media strategist, script writer, idea generator. What if they could outsource much of that work to AI? And what if it were the social media platforms themselves that provided them with the tools to do so? \nAt the Made On YouTube event, held Tuesday in New York, the company unveiled a slew of new AI features aimed at content creators, many of which focus on all the behind-the-scenes work that goes into a video. Unlike previous tools — like an AI background music generator or tools that create AI photos and videos — the new batch are largely content strategy features, marketed as helping creators reach new audiences (and more effectively get in front of their existing base).\nAmong the new tools is Ask Studio, an AI chatbot that creators can use to ask analytics questions about how their content is performing. Amjad Hanif, VP of product management, describes it as a “creative partner”: how is the audience responding to a video? What are the most compelling moments of a video? The tool pulls in data from across a YouTube channel, including longform videos and Shorts — essentially a faster and more direct analytics tool that’s built into the platform. Creators can ask the tool to do things like summarize comments and synthesize viewer sentiment, and ask for suggestions based on data: if YouTube reports a drop off in viewership at a certain part, Ask Studio will spit out advice for next time on optimizing that section of the video. Creators can also ask for things like “video ideas from comments on my latest video,” and then follow up with requests for title suggestions. For now, the tool can’t compare one channel versus another (queries like “What videos from my competitors are performing well?”).\nAlso rolling out is a new thumbnail and title A / B testing feature, building upon a thumbnail testing version that was announced last year. With this update, creators can pair thumbnail images and titles and run tests to see which performs the best; the “winner” is the combination that has the highest watch time.\n“No matter how good the video is, the thumbnail and title is what gets people to even see the video and see if it’s good or not. It might be the most important thing, honestly,” says Ashley Alexander, a lifestyle influencer who was given early access and who has been testing some of the tools. Alexander says she uses the thumbnail-only testing feature for every video and has begun integrating the new thumbnail and title A / B testing tool into her workflow.\nThe influx of tools essentially meant to help creators optimize for the YouTube algorithm are something of a paradigm shift. For years, creators ran their own tests to figure out what worked best for each social media platform: how to write the most enticing title or whether to have a closed or open mouth in a thumbnail. It was trial and error, with creators trying to sort through what kind of content the platforms preferred. Now, some platforms themselves directly tell creators what they should post, and how — TikTok tells creators what topics are trending and even what their followers are searching for in the app, with explicit nudges that creators should make videos that target those searches. The effect is two-fold: it’s a way for YouTube and other platforms to more directly guide what creators make. “Optimizing” content is also potentially beneficial to both creators and YouTube itself — both parties want viewers to be spending more time on the platform, watching their videos. \nYouTube is also expanding some viewer-facing AI tools like dubbing. Previously creators had access to an auto-dubbing feature — now, the feature will also sync the YouTuber’s lips to match the dubbed language. Content that uses YouTube’s AI dubbing feature will have a badge underneath the title and in the video description indicating it was auto-dubbed. Creators won’t be able to go through and correct or tweak mis-translated portions after uploading. \nSeparately, creators will also have the option to add multiple collaborators to a single video — essentially a cross-posting feature. Each collaborator will be able to see performance metrics for the video. \nThe AI creep into influencing and content creation has been happening for a while, and across industries: adult content creators are using chatbots to interact with paying clients and platforms are encouraging advertisers to use AI-generated models to sell products. When YouTube recently updated its monetization rules, many creators understood the “inauthentic content” policy was taking aim at AI-generated mass produced videos. Some creators were concerned about what exactly qualified as “inauthentic,” how YouTube would screen content, and how it would decide what to demonetize.\nThere’s example after example of online and hobby communities reckoning with an influx of AI content — but does it matter if it’s happening behind the scenes? Do viewers care if their favorite YouTuber uses AI to come up with video topic ideas, like the platform encourages them to do? And if everyone is perfectly optimized for YouTube’s algorithm and relying on the same built-in tools, is anyone really optimized? Who wins when everyone’s thumbnail and title are just right, or when everyone is using the same AI tool to generate the perfect video topics and scripts?\nCreators like Alexander say the features are a jumping off point, not a cheat code: the AI-generated ideas are a good place to start, but she thinks ultimately she knows her audience best. For many content creators, their audiences buy into them as people making distinct creative choices, not just churning out whatever a chatbot suggests — that relationship is something AI can’t replicate.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "67410d1d20659e0bfb676e9ed6cd066d48710966",
+      "title": "YouTube is cooking up some new monetization features",
+      "url": "https://www.theverge.com/news/778693/youtube-monetization-features-ai-tagging-dynamic-ads",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-16T14:30:00.000Z",
+      "summary_90w": "",
+      "raw": "YouTube announced a batch of upcoming features during its “Made on” event today, some of which are focused on giving creators new ways to make money on the platform. You can check out more information about upcoming updates for livestreaming and AI features in our other posts, but there are a few other monetization changes coming in the future that could give viewers new ways to find products online and switch up the ads you see linked out by creators.\nAn AI tagging feature that can automatically find and tag eligible products mentioned in videos based on images, voiceover, and information input by the video creator will start rolling out to “eligible US creators over the next year,” according to YouTube.\nThe ability to link out to a brand’s website on YouTube Shorts will “begin testing later this year and launch broadly next year,” allowing creators to direct viewers to recommended products.\nSupport for dynamically inserting brand segments that can be swapped in and out, allowing creators to resell slots to another brand in future instead of having a permanent product ad in long-form videos. YouTube says it will start testing early next year before rolling it out later in 2026.\nAn experimental feature will give “top viewers the opportunity to buy exclusive merch” from their favorite creators. This began testing earlier this year, but YouTube doesn’t have any details available about when it’ll be available.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a2a1b10baf74cba28fa687887085e91c8ffa49d0",
+      "title": "YouTube Live gets a major update, introduces dual-format streaming, minigames, and more",
+      "url": "https://techcrunch.com/2025/09/16/youtube-live-gets-a-major-update-introduces-dual-format-streaming-minigames-and-more/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-16T14:30:00.000Z",
+      "summary_90w": "",
+      "raw": "YouTube announced new features for livestreaming, such as letting creators play mini-games, AI-powered highlights, and more.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1da15f49d535d7dd1bba45a35c50bf54ed9ceb3b",
+      "title": "YouTube makes it easier and more lucrative to go live",
+      "url": "https://www.theverge.com/news/778668/youtube-live-streaming-reactions-multi-format-updates",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-16T14:30:00.000Z",
+      "summary_90w": "",
+      "raw": "Features like AI-powered stream highlights aim to give creators more ways to quickly monetize their content.\t\n\nYouTube is introducing some live streaming features that give content creators new ways to grow their audiences and interact with viewers. The updates were announced at the Made on YouTube event today, and include simultaneous horizontal and vertical streams, AI-powered livestream highlights, and the ability to livestream reactions to other live YouTube content on mobile devices.\nYouTube says that the new features announced today are “part of the largest upgrade to Live we’ve ever made.” The updates aim to attract more users to the platform’s livestreamed content, with the service reporting that more than 30 percent of daily logged-in viewers had watched live content in YouTube’s second quarter this year.\nThe first feature allows creators to stream both horizontally and vertically at the same time, giving viewers across both mobile and desktop formats a more optimized experience. This is combined with a single unified chat room that enables viewers to interact with each other, regardless of the format they’re watching. This is currently in the testing stages, according to YouTube, and is expected to expand to more creators “in the coming months.”\nCreators will also be able to react in real-time to eligible livestreams on YouTube. The feature allows streamers to go live on mobile alongside content like live events and keynote announcements, building on the popularity of reaction streams on YouTube and Twitch, but with fewer concerns around licensing and copyright restrictions. YouTube says it will start testing live content reactions “early next year before we expand further.”\nYouTube is giving creators on mobile devices AI-powered livestream highlights that automatically turn stream clips into Shorts “in the next few weeks,” and the ability to practice streaming on the mobile app until they’re ready to launch a real livestream sometime later this year. The “Playables” games that YouTube launched last year will also soon allow streamers to play while interacting with their viewers in vertical livestreams. This is rolling out to some creators next month, before expanding later this year.\nSome of the updates specifically focus on helping creators to monetize their content. A feature is currently rolling out to creators with channel memberships that allows them to transition between public and members-only livestreams, for example, encouraging viewers to become paying channel members to avoid missing out. Ads displayed to the side of YouTube livestreams that already appear on desktop and TV will also be expanding to mobile devices later this year.\n“Grounded in community feedback, these features are designed to help creators get discovered, grow their channel, and increase their earnings,” Aaron Filner, YouTube’s senior director of product management, said in a blog post. It’s good to see YouTube showing its livestream content creators some love after its persistent fixation on Shorts, but we’ll have to see if these updates could help the platform compete with livestream-focused services like Twitch.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "92ca32d858ac9720f1bdd71a501a9d0ac28bdc82",
+      "title": "YouTube Music launches new tools for artists to reward fans with exclusive merch and videos",
+      "url": "https://techcrunch.com/2025/09/16/youtube-music-launches-new-tools-for-artists-to-reward-fans-with-exclusive-merch-and-videos/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-16T14:30:00.000Z",
+      "summary_90w": "",
+      "raw": "YouTube Music users will soon be able to pre-save songs, see a countdown for album releases, get exclusive merch, and more.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "11674f504f7e94a2f55d2b4c127574572956965b",
+      "title": "YouTube rolls out Studio updates, ‘likeness’ detection, lip synced dubs, creator collabs and more",
+      "url": "https://techcrunch.com/2025/09/16/youtube-rolls-out-studio-updates-likeness-detection-lip-synced-dubs-creator-collabs-and-more/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-16T14:30:00.000Z",
+      "summary_90w": "",
+      "raw": "YouTube launches a handful of updates for creators, including lip syncing features for dubbed videos, likeness detection, collabs, an AI chatbot and more.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e1d339c3f6ed63aabfe5765ffd3655e72e642ddb",
+      "title": "YouTube to use AI to help podcasters promote themselves with clips and Shorts",
+      "url": "https://techcrunch.com/2025/09/16/youtube-to-use-ai-to-help-podcasters-promote-themselves-with-clips-and-shorts/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-16T14:30:00.000Z",
+      "summary_90w": "",
+      "raw": "YouTube teases new AI-powered tools for turning podcasts into video clips, even if they're audio-only.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f2dd9a927ffa2faa85a429f99fdc65fad7413437",
+      "title": "YouTube unveils new ways for creators to earn with brand deals, YouTube Shopping program",
+      "url": "https://techcrunch.com/2025/09/16/youtube-unveils-new-ways-for-creators-to-earn-with-brand-deals-youtube-shopping-program/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-16T14:30:00.000Z",
+      "summary_90w": "",
+      "raw": "YouTube is going to allow creators to swap out brand sponsorships in long-form videos.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8cbd0c8f06c43478b2ccccb30c976a1364369884",
+      "title": "Judge dismisses terrorism charges against Luigi Mangione",
+      "url": "https://www.bbc.com/news/articles/cj4y2p8qq5qo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-16T14:27:27.000Z",
+      "summary_90w": "",
+      "raw": "Judge Gregory Carro also ruled a second-degree murder charge against Mangione could stand during a hearing on Tuesday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1fc817d68088604e18098e039db43d8abee3131f",
+      "title": "A UN inquiry accuses Israel of genocide in Gaza, joining a rising chorus",
+      "url": "https://www.npr.org/2025/09/16/g-s1-89014/israel-gaza-genocide-un-inquiry",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-16T14:26:15.000Z",
+      "summary_90w": "",
+      "raw": "The report issued Tuesday by experts commissioned by the United Nations' Human Rights Council calls on the international community to end the genocide and take steps to punish those responsible.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5b74f3900ce94a0b30b37c6c36ad774dac862cb1",
+      "title": "Trump says Russian oil purchases by EU and Nato countries must ‘stop immediately’ — Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/16/zelenskyy-trump-sanctions-russia-news-updates-europe-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-16T14:13:21.000Z",
+      "summary_90w": "",
+      "raw": "US president adds that ‘Zelenskyy will have to make a deal’ and that Ukraine ‘is in serious trouble’ as he departs for UK state visit\nEU commissioners will on Wednesday agree to impose new sanctions against Israel over its war in Gaza, a spokesperson for the commission said on Tuesday.\n“Tomorrow, commissioners will be adopting a package of measures on Israel,” spokesperson Paula Pinho said, as reported by Reuters.\n“Specifically, a proposal to suspend certain trade provisions in the agreements between the EU and Israel.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a9f92c7011ddc8d533025d3f4c904c9f7e3a22b3",
+      "title": "Deal is done to keep TikTok in the USA says Trump",
+      "url": "https://www.bbc.com/news/articles/c7847q9xvwgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-09-16T14:12:26.000Z",
+      "summary_90w": "",
+      "raw": "The social media platform had faced a ban in the US over national security concerns.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "bc020e784bca26bdc1d2d3aab3e677193c2d7a33",
       "title": "Watch: The Sundance Kid's life in the spotlight",
       "url": "https://www.bbc.com/news/videos/ce9rvmk8xdzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-09-16T14:09:21.000Z",
       "summary_90w": "",
-      "raw": "BBC's David Sillito takes a look at the career of the Hollywood icon who has died aged 89.",
+      "raw": "The BBC's David Sillito takes a look at the career of the Hollywood icon who has died aged 89.",
       "topics": [
         "World"
       ]
@@ -29,19 +198,6 @@
       ]
     },
     {
-      "id": "8cbd0c8f06c43478b2ccccb30c976a1364369884",
-      "title": "Judge dismisses terrorism charges against Luigi Mangione",
-      "url": "https://www.bbc.com/news/articles/cj4y2p8qq5qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-16T14:02:19.000Z",
-      "summary_90w": "",
-      "raw": "Judge Gregory Carro also ruled a second-degree murder charge against Mangione could stand during a hearing on Tuesday.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1f437c4305d1475e2189317bbe83da7439a4239f",
       "title": "King at Duchess of Kent's funeral but ill Queen not attending",
       "url": "https://www.bbc.com/news/articles/cpq5eynnn8ro?at_medium=RSS&at_campaign=rss",
@@ -50,6 +206,19 @@
       "published": "2025-09-16T14:01:09.000Z",
       "summary_90w": "",
       "raw": "Mourners, including the King and other senior royals, are gathering at Westminster Cathedral.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "037e129638554ccbcbdceef1148476ce209011c7",
+      "title": "Mandelson red flags were missed or ignored, senior Labour MP says",
+      "url": "https://www.bbc.com/news/articles/c147k2zpg68o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-16T14:00:23.000Z",
+      "summary_90w": "",
+      "raw": "Emily Thornberry says \"something went very wrong\", in an emergency debate about the peer's appointment.",
       "topics": [
         "World"
       ]
@@ -81,14 +250,14 @@
       ]
     },
     {
-      "id": "5b74f3900ce94a0b30b37c6c36ad774dac862cb1",
-      "title": "Trump says ‘Zelenskyy will have to make a deal’ as he ramps up pressure on European countries to stop buying Russian oil — Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/16/zelenskyy-trump-sanctions-russia-news-updates-europe-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-16T13:54:16.000Z",
+      "id": "19b7b49e52ec3f68340159feb8fcff05c56d4e19",
+      "title": "Kenya's Kipyegon extends era of dominance with historic fourth world 1500m win",
+      "url": "https://www.bbc.com/sport/athletics/articles/c0q7g9v97kpo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-16T13:48:47.000Z",
       "summary_90w": "",
-      "raw": "US president makes comments as he departs for UK state visit, adding that ‘it takes two to tango’ on lack of progress with Putin\nEU commissioners will on Wednesday agree to impose new sanctions against Israel over its war in Gaza, a spokesperson for the commission said on Tuesday.\n“Tomorrow, commissioners will be adopting a package of measures on Israel,” spokesperson Paula Pinho said, as reported by Reuters.\n“Specifically, a proposal to suspend certain trade provisions in the agreements between the EU and Israel.”\n Continue reading...",
+      "raw": "Faith Kipyegon storms to a fourth world 1500m title and extends her streak of dominance with a fifth consecutive global gold in the event.",
       "topics": [
         "World"
       ]
@@ -167,19 +336,6 @@
       "published": "2025-09-16T13:14:36.000Z",
       "summary_90w": "",
       "raw": "A movie star to his core, Robert Redford has died after a visionary career in cinema, including founding the Sundance Institute that transformed the market for independent films.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "99977ebf9deb3056cc00b2f60fa59c679e91cc03",
-      "title": "Lawyers, losses and lie detectors - inside Mudryk doping case",
-      "url": "https://www.bbc.com/sport/football/articles/c5yg8rgyz3no?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-16T13:10:28.000Z",
-      "summary_90w": "",
-      "raw": "BBC Sport explores the whereabouts and doping case circumstances of Chelsea's suspended Ukraine winger Mykhailo Mudryk.",
       "topics": [
         "World"
       ]
@@ -341,19 +497,6 @@
       ]
     },
     {
-      "id": "d75492610f9e1ab79f9bad28b6be26f61f7c2027",
-      "title": "Hillsborough Law will force officials to tell truth in investigations",
-      "url": "https://www.bbc.com/news/articles/czrpvrrrmj2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-16T12:15:29.000Z",
-      "summary_90w": "",
-      "raw": "The proposed law would force public bodies to co-operate with investigations into major disasters.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "15db70eb01303d19b9a5e212536025cf5f530c11",
       "title": "Y Combinator-backed Rulebase wants to be the AI coworker for fintech",
       "url": "https://techcrunch.com/2025/09/16/y-combinator-backed-rulebase-wants-to-be-the-ai-coworker-for-fintech/",
@@ -401,19 +544,6 @@
       "published": "2025-09-16T12:00:00.000Z",
       "summary_90w": "",
       "raw": "Meta’s next big Connect conference is nearly here, and this year, we’re expecting to see a lot of news about glasses. AI-focused hardware is all the rage, and Meta arguably already has the best gadgets around in its Ray-Ban and Oakley glasses. At this year’s show, we’re expecting to see more about glasses, but also some standalone AI updates and even some talk of the metaverse.\nHere’s what we’re expecting from Connect, which will feature a keynote from CEO Mark Zuckerberg that we’ll be covering live on Wednesday at 8PM ET / 5PM PT.\nSmart glasses with a display and a wristband\nMeta plans to announce new smart glasses with a small display in the right lens that can be controlled with hand gestures via a wristband, CNBC reports. The display apparently has a limited field of view and is only intended to show small pieces of information. The Verge reported on the glasses, codenamed Hypernova, in 2022.\nThe wristband will apparently use surface electromyography (sEMG) technology that “reads and interprets the electrical signals from hand movements,” according to CNBC. The tech comes from CTRL-Labs, a startup Meta acquired in 2019, and Meta demoed it last year with its augmented reality Orion glasses. Meta is very optimistic about sEMG technology; in a recent blog post, it said that “sEMG could revolutionize how we interact with our devices” and that sEMG “may just prove to be the perfect input for virtually any device.”\nThe new glasses are expected to cost “about $800,” CNBC says, and could be thicker and heavier than some of Meta’s other smart glasses offerings. And a now-removed video from Meta caught by UploadVR actually showed a pair of new glasses with a display with the branding “Meta | Ray-Ban” and “Display,” so it seems like Meta is on the cusp of actually launching these.\nSmart glasses without a display\nMeta’s smart glasses have been a big success — EssilorLuxottica, which produces the Ray-Ban Metas, said that the company has sold 2 million pairs of the glasses — and rumors indicate that Meta could introduce new models at Connect.\nCNBC reports that Meta plans to announce third-generation Ray-Ban Metas. The timing would make some sense. Meta launched the previous-generation Ray-Bans about two years ago, and this year’s Oakley Meta HSTN Limited Edition glasses have a better 3K video resolution and double the battery life, so perhaps Meta will bring some of those improvements over to the Ray-Ban line.\nThe Meta video spotted by UploadVR also showed off a pair of new wraparound “Sphaera” Oakleys with a camera on the nose bridge, so it seems like those could show up at Connect, too.\nNew Quest VR headsets? We’ll see\nMeta released the Quest 3 in 2023 and the Quest 3S in 2024, but it doesn’t seem like we should expect a new Quest at Connect this year. According to UploadVR, Meta is working on an ultra-light headset that offloads the compute to a puck that runs the company’s Horizon OS, but the headset isn’t scheduled for release until 2026. \nMeta has also started licensing Horizon OS to hardware companies like Lenovo and Asus, and a rumor from earlier this year indicated that Asus is developing a VR headset codenamed Tarius with eye tracking and face tracking. Should that headset be real, it could debut at Connect.\nThe company is promising that Zuckerberg will touch on the metaverse in some way, so we’ll have to wait and see what that actually means.\nMore Meta AI\nMeta, like most tech companies, is obsessed with AI right now, so it seems likely the company will tout AI features coming to its apps and hardware. Meta recently relaunched its companion app for its smart glasses as a standalone Meta AI app that lets you browse AI-generated creations posted by other users, and Meta could further build out its social features. The company has also continued to add AI tools to its smart glasses, so in addition to brand-new hardware, existing hardware could get some AI-focused upgrades.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "9633266cc6557871f71eecbf2efffe6e6f67af89",
-      "title": "The Apple Watch SE 3 is the one to buy",
-      "url": "https://www.theverge.com/smartwatch-review/778037/apple-watch-se-3-review-battery-specs-watchos-26-smartwatch-wearable",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-16T12:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Apple Watch SE 3 is the star of this year’s lineup.\t\n\nWhen I walked into Apple Park last week, there was one thing that I did not have on my bingo card: the $249 Apple Watch SE 3 stealing the show from the Apple Watch Series 11 and the Apple Watch Ultra 3.\nBut here we are. It's 2025, and the entry-level Apple Watch is the one I'm most excited by.\nThat's because compared to the iterative updates of the Series 11 and Ultra 3, the third-gen SE has gotten a massive, wide-ranging glow-up. Unlike the other watches, there also weren't any leaks suggesting this was even in the cards, making this jam-packed release a total surprise. And the cherry on top? In the lead-up to the event, I wrote the easie …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -562,19 +692,6 @@
       ]
     },
     {
-      "id": "fc4c0f4f0ff9b00978383f98545ab1f2b23a1fa5",
-      "title": "Winter fuel payments stopped for 9.3 million people before government U-turn",
-      "url": "https://www.bbc.com/news/articles/cgrq5049j0yo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-16T10:39:00.000Z",
-      "summary_90w": "",
-      "raw": "Official data shows the number of people who received winter fuel payments after now-reversed government cuts.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "d9c43fb441c35770a1cccead69f430428d827274",
       "title": "Justin Bieber and Sabrina Carpenter to headline Coachella 2026 ",
       "url": "https://www.bbc.com/news/articles/cr5q8zg0zy9o?at_medium=RSS&at_campaign=rss",
@@ -640,19 +757,6 @@
       ]
     },
     {
-      "id": "bee2d671e792b9e41d8c8b279f661c456773fba7",
-      "title": "Microsoft favors Anthropic over OpenAI for Visual Studio Code",
-      "url": "https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-16T10:08:19.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft is adding automatic AI model selection to its Visual Studio Code editor that will automatically pick the best model for \"optimal performance.\" This new auto model feature will select between Claude Sonnet 4, GPT-5, GPT-5 mini and other models for GitHub Copilot free users, but paid users will \"primarily rely on Claude Sonnet 4.\"\nIt's a tacit admission from Microsoft that the software maker is favoring Anthropic's AI models over OpenAI's latest GPT-5 models for coding and development. Sources familiar with Microsoft's developer plans tell me that the company has been instructing its own developers to use Claude Sonnet 4 in recent m …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "15bae7e8b385010477e7d6b33550a7c3e4f3e3b1",
       "title": "JD Vance vows to carry on Kirk's legacy. And, the Fed meets to decide interest rates.",
       "url": "https://www.npr.org/2025/09/16/g-s1-88997/up-first-newsletter-jd-vance-charlie-kirk-kash-patel-testimony-federal-reserve-interest-rates",
@@ -663,19 +767,6 @@
       "raw": "Vice President Vance hosted Charlie Kirk's podcast yesterday and vowed to carry on his friend's political legacy. And, the Federal Reserve meets to decide interest rates.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "b85028e4ac0ffa1cf53c882974310a7fc3380067",
-      "title": "Nothing plans to launch &#8216;first AI-native devices next year&#8217;",
-      "url": "https://www.theverge.com/news/778636/nothing-ai-native-devices",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-16T10:02:07.000Z",
-      "summary_90w": "",
-      "raw": "Nothing’s Android-based Phone 3.\t\n\nLondon-based consumer tech startup Nothing has raised $200 million and vowed to usher in a new generation of “AI-native” devices running on operating systems that “are significantly different from the ones today.”\nIn a press release that reads part ode to technology and part manifesto, Nothing founder and CEO Carl Pei said the cash infusion — which values Nothing at $1.3 billion — will help the company ramp up distribution and accelerate innovation. \nAt the heart of Nothing’s plans is AI. Pei said the company is “building the foundations for the future” on a focused “AI OS” to deliver a “hyper-personalized experience.” However, it’s unclear if Nothing’s operating system ambitions are built on top of Android like Nothing OS. We’ve reached out for clarification.\nThis “AI-native platform” will run hardware in widespread use today like smartphones, headphones, and smart watches, Pei said, as well as other devices like smart glasses, electric vehicles, and humanoid robots. He confidently predicts Nothing’s new OS will run “whatever comes next,” too. That said, last October Pei just as confidently proclaimed that “AI is just a tool” and that the company’s OS should not be described as an AI operating system.\nNothing plans to release its first AI-native devices next year. Its chief challenge will be generating demand in a category that has historically failed to engage the mass market and where success has eluded even the industry’s biggest players like Apple. There’s no shortage of competitors either, including the mysterious “screen free” device former Apple designer Jony Ive is creating with OpenAI. \nNothing says it’s uniquely positioned to create these future AI devices. “Owning the last-mile distribution point with all its contextual and user knowledge is essential to developing an OS that will help people in their daily lives,” said Pei. “An AI OS that doesn’t know its user and isn’t ever-present can’t deliver a hyper-personalised experience. This is the next chapter for Nothing, integrating an AI experience into our hardware devices to reinvent how technology amplifies us.”",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -835,19 +926,6 @@
       ]
     },
     {
-      "id": "8695bc9c8460946c40bec409835f6afb1f096f58",
-      "title": "Israel's military says its expanded operation in Gaza City has begun",
-      "url": "https://www.npr.org/2025/09/16/nx-s1-5543007/israel-military-gaza",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-16T08:19:54.000Z",
-      "summary_90w": "",
-      "raw": "The announcement by the Israeli military further escalated the Israel-Hamas war as any potential ceasefire feels even further out of reach despite weeks of diplomacy.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "6029111fbdb7101fa9b6a60090a0869c22dcc24d",
       "title": "Wong says Netanyahu government ‘more isolated than ever’ – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2025/sep/16/australia-news-live-sydney-airport-social-media-ban-anthony-albanese-chris-bowen-climate-crisis-carbon-emissions-png-treaty-ntwnfb",
@@ -953,7 +1031,7 @@
     },
     {
       "id": "c6bc24c33bcc13833f42af82cb06c3d61f2d3682",
-      "title": "Opioid deaths 50% higher than official data, research shows",
+      "title": "Third of all opioid deaths not officially recorded",
       "url": "https://www.bbc.com/news/articles/cg7dzmyjrjzo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -1121,19 +1199,6 @@
       ]
     },
     {
-      "id": "3236a462c061d6a06737bdbfbba33dfb7e44197e",
-      "title": "Mark Ronson on being a night person - and Lady Gaga trashing his car",
-      "url": "https://www.bbc.com/news/articles/c8xrge1prpyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-16T00:44:56.000Z",
-      "summary_90w": "",
-      "raw": "Mark Ronson looks back on a troubled childhood, and how it informed his career as a DJ and producer.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e614b31b59ed465624224bc06d7a93165c00fb37",
       "title": "Why more women get cancer in India - but more men die ",
       "url": "https://www.bbc.com/news/articles/c04q9v49ndgo?at_medium=RSS&at_campaign=rss",
@@ -1290,45 +1355,6 @@
       ]
     },
     {
-      "id": "178270cec200de03e445b4d1a9eb52ff65ad3afb",
-      "title": "Do startups still need Silicon Valley? Founders and funders debate at TechCrunch Disrupt 2025.",
-      "url": "https://techcrunch.com/2025/09/15/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-15T20:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Does Silicon Valley still give founders an edge? At TechCrunch Disrupt 2025 (Oct 27–29, SF), Anh-Tho Chuong (Lago), David Hall (Revolution), and Tawni Nazario-Cranz (SignalFire) debate whether location still drives startup success.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "41d0022ed7b0000dbcaceaf17872198bbb5f7b10",
-      "title": "Awake’s new app requires heavy sleepers to complete tasks in order to turn off the alarm",
-      "url": "https://techcrunch.com/2025/09/15/awakes-new-app-requires-heavy-sleepers-to-complete-tasks-in-order-to-turn-off-the-alarm/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-15T19:00:59.000Z",
-      "summary_90w": "",
-      "raw": "Unlike traditional alarm clocks that can be silenced with a simple tap, Awake is intended to actively engage users' brains to ensure they fully wake up.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "ba9c7f61527ec20745bebc86f34c5d28d403dda3",
-      "title": "Snap unveils Snap OS 2.0 with native browser, WebXR support, and more",
-      "url": "https://techcrunch.com/2025/09/15/snap-unveils-snap-os-2-0-with-native-browser-webxr-support-and-more/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-15T18:46:13.000Z",
-      "summary_90w": "",
-      "raw": "The launch comes as the company rolled out its fifth-generation Snap Spectacles for developers last year and plans to launch a consumer version sometime in 2026.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "11ce3f51984463257897114260a62d1797c8729f",
       "title": "Does Israel face a 'South Africa moment' over Gaza?",
       "url": "https://www.bbc.com/news/articles/cx2xe5v70evo?at_medium=RSS&at_campaign=rss",
@@ -1381,19 +1407,6 @@
       ]
     },
     {
-      "id": "e5615e8c30214ca08fbe7062eb02f463f90e82be",
-      "title": "Apple’s iOS 26 with the new Liquid Glass design is now available to everyone",
-      "url": "https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-15T17:45:19.000Z",
-      "summary_90w": "",
-      "raw": "Other features include a call screening assistant, a new gaming and preview app, in-app translation across the system, and updates to Genmoji and Image Playground apps.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "48341e22cf197b930c55378266f1044034e5ce18",
       "title": "Senate confirms Stephen Miran to Fed Board. Who is he and why's he so controversial?",
       "url": "https://www.npr.org/2025/09/15/nx-s1-5542126/stephen-miran-fed-reserve-board",
@@ -1404,32 +1417,6 @@
       "raw": "The Senate voted Monday to confirm Stephen Miran to the Federal Reserve Board. Miran, who has served in both Trump administrations, has said he will not resign from the White House but take a leave of absence, further stoking concerns about its independence.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "cab26b92019fd670400a1222a05ca0b2c78a4077",
-      "title": "Inside the shift at Disrupt: Building community and scaling in the AI era",
-      "url": "https://techcrunch.com/2025/09/15/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-15T17:15:00.000Z",
-      "summary_90w": "",
-      "raw": "Nirav Tolia (Nextdoor), Jane Alexander (CapitalG), and Vanessa Larco (Premise, NEA) join TechCrunch Disrupt 2025 (October 27–29, SF) to share strategies for building resilient companies and scaling in the AI era.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "fcfdc8182a52a69744a874c481e7899892c841ab",
-      "title": "OpenAI upgrades Codex with a new version of GPT-5",
-      "url": "https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-15T17:03:40.000Z",
-      "summary_90w": "",
-      "raw": "OpenAI's AI coding agent, Codex, can now spend anywhere from a few seconds to several hours on a task, thanks to a new, customized version of GPT-5.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1693,6 +1680,19 @@
       ]
     },
     {
+      "id": "1a475abb3dc16ccdb5d98f98a66ee869d359880a",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002jnl0?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-09-13T01:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Lara Lewington explores the tech being trialled to find 'hidden' pancreatic cancer cases.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
       "id": "a1b5947a5d01004603858eddac2afbceee54a6fa",
       "title": "AI 'friend' chatbots probed over child protection",
       "url": "https://www.bbc.com/news/articles/c74933vzx2yo?at_medium=RSS&at_campaign=rss",
@@ -1836,6 +1836,19 @@
       ]
     },
     {
+      "id": "6b3a878af0d65401d30b2b22e759db794e484cb6",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct6zp7?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-09-09T19:30:00.000Z",
+      "summary_90w": "",
+      "raw": "Robot sailboats are helping forecasters predict where hurricanes will hit land.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
       "id": "eb434b6040dc3a728f1bf892db9aff0fe30d9d63",
       "title": "Trump wants to win AI race, but his immigration policies could get in the way",
       "url": "https://www.npr.org/2025/09/09/nx-s1-5479090/trump-wants-to-win-ai-race-but-his-immigration-policies-could-get-in-the-way",
@@ -1922,6 +1935,19 @@
       "published": "2025-09-06T09:00:00.000Z",
       "summary_90w": "",
       "raw": "In the past, the federal government has taken stakes in American companies during wars or economic crises. But now the government's motivation has more to do with the race for AI chips and technology.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b01e5f5037c4e13f5add6c3b3cd312f3c5b5bdc6",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002jb6f?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-09-06T01:00:00.000Z",
+      "summary_90w": "",
+      "raw": "How technology is bringing hope of earlier detection and prevention to wildfires.",
       "topics": [
         "Technology"
       ]
@@ -2070,92 +2096,40 @@
       ]
     },
     {
-      "id": "a65797a59c3471a345be835206ef23e36a493821",
-      "title": "Family of dead teen say ChatGPT's new parental controls not enough",
-      "url": "https://www.bbc.com/news/articles/cg505mn84ydo?at_medium=RSS&at_campaign=rss",
+      "id": "36ed4652bd38dc645aa6fafa7d3785359c91b702",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct6zp6?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-tech",
       "source_name": "BBC News",
-      "published": "2025-09-03T08:41:18.000Z",
+      "published": "2025-09-02T19:30:00.000Z",
       "summary_90w": "",
-      "raw": "OpenAI has introduced new rules in the wake of the family's allegations that ChatGPT encouraged their child to take his own life.",
+      "raw": "Find out how AI is making phone calls possible between people who don’t share a language.",
       "topics": [
         "Technology"
       ]
     },
     {
-      "id": "d69070c2afed8e2a7753c6ed51fb329cb1b27481",
-      "title": "A let-off or tougher than it looks? What the Google monopoly ruling means",
-      "url": "https://www.bbc.com/news/articles/cx2q2kkdedno?at_medium=RSS&at_campaign=rss",
+      "id": "c417b7df8fed06e73104de8968cefde14612a28c",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct6zp5?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-tech",
       "source_name": "BBC News",
-      "published": "2025-09-03T07:28:22.000Z",
+      "published": "2025-08-26T19:30:00.000Z",
       "summary_90w": "",
-      "raw": "The search giant is not being broken up -so how much will it be affected by the remedies a judge has instead ordered?",
+      "raw": "We hear from people who say they have been unfairly banned from Facebook and Instagram.",
       "topics": [
         "Technology"
       ]
     },
     {
-      "id": "d3a37391c989465991192d98927b19af4c13ee8a",
-      "title": "Google avoids break-up but must share data with rivals",
-      "url": "https://www.bbc.com/news/articles/cp8zdrenm1zo?at_medium=RSS&at_campaign=rss",
+      "id": "05433fca9b2be7afba8ad35a75e2e7d02045f028",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct6zp4?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-tech",
       "source_name": "BBC News",
-      "published": "2025-09-02T23:51:46.000Z",
+      "published": "2025-08-19T19:30:00.000Z",
       "summary_90w": "",
-      "raw": "A case over the US tech giant's dominance in search allows it to hang on to its Chrome web browser.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "5169a1d77584e988dd511fd856cacbabb1fb3bfa",
-      "title": "Jaguar Land Rover production severely hit by cyber-attack",
-      "url": "https://www.bbc.com/news/articles/c9wywvllq7wo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-09-02T18:39:39.000Z",
-      "summary_90w": "",
-      "raw": "Staff were sent home and the company shut down its IT systems in an effort to minimise the damage done.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "9261488da75f12481f1c942d8430e638bf2553e6",
-      "title": "Meta to stop its AI chatbots from talking to teens about suicide",
-      "url": "https://www.bbc.com/news/articles/c2kzl79jv15o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-09-01T12:05:05.000Z",
-      "summary_90w": "",
-      "raw": "The firm says it will add more guardrails \"as an extra precaution\" and temporarily limit chatbots teens can use.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0b653a33890e329596b38b040090e977c5f6d57d",
-      "title": "Children at risk of identity theft and fraud from 'sharenting' ",
-      "url": "https://www.bbc.com/news/articles/c8904njvy03o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-09-01T11:57:07.000Z",
-      "summary_90w": "",
-      "raw": "Researchers at the University of Southampton are warning of the dangers of posting your children's photos online.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "a1adb860fc6d32d550d2d65abe7b023af8f732c4",
-      "title": "Enforcing Australia's social media ban on kids is possible but contains risks, report says",
-      "url": "https://www.bbc.com/news/articles/clyrkj0d44vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-09-01T02:34:13.000Z",
-      "summary_90w": "",
-      "raw": "The impending ban is popular with many parents, but experts have raised concerns over privacy and age verification technology.",
+      "raw": "A special from Edinburgh, where art and performance meet tech with spectacular results.",
       "topics": [
         "Technology"
       ]
