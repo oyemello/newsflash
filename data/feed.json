@@ -1,7 +1,85 @@
 {
-  "version": "1758045135066",
-  "generatedAt": "2025-09-16T17:52:15.066Z",
+  "version": "1758046793396",
+  "generatedAt": "2025-09-16T18:19:53.396Z",
   "items": [
+    {
+      "id": "ea7215c8c7354d1ee2561514e4011f0bd66172ab",
+      "title": "Wyze’s new palm-scanning door lock has a second, backup battery",
+      "url": "https://www.theverge.com/news/779046/wyze-palm-scanning-door-smart-lock",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-16T18:14:49.000Z",
+      "summary_90w": "",
+      "raw": "The Palm Lock’s infrared sensor identifies users through the veins in their hands. | Image: Wyze\t\n\nWyze has announced its first smart door lock that can be opened by simply hovering your open hand over it. The Wyze Palm Lock is launching today for $129.98 making it more affordable than similar palm-scanning smart locks including the $359.99 Philips Smart Deadbolt that launched last year. But your palm isn’t the only way to unlock it. If it’s the dead of winter and you’re wearing gloves the Palm Lock can also be opened using a physical key, by punching in a code, or using Wyze’s mobile app.\nIt’s not as cheap as Wyze’s $80 Wyze Lock Bolt that we called the “Best budget smart(ish) lock” in our buying guide, but the Palm Lock includes more functionality. Battery life is rated at up to six months thanks to the use of low-power millimeter wave radar that only wakes the lock when a person is detected nearby. Its primary battery can be removed so you can recharge it indoors, while a smaller secondary battery will keep the lock powered for up to two weeks. Should both batteries die, an external power source can be temporarily connected to a USB-C port allowing it to be unlocked using an access code.\nPalm vein recognition has been shown to be a more secure and accurate method of biometric security than fingerprint readers, and simply waving your hand over an infrared sensor requires less precision than scanning a fingerprint. The Wyze Palm Lock can store palm vein IDs for up to 50 users, and generate up to 50 unique entry codes giving access to people whose palms haven’t been registered.\nWyze’s Palm Lock is Wi-Fi connected so it can also be locked and unlocked from anywhere your phone has internet access or using voice commands through smart assistants like Amazon’s Alexa or Google Assistant. For added security, the lock incorporates a gyroscope that detects the door’s angle and movements. It can be set to automatically lock the door when it senses it’s been closed all the way, or start audibly chirping after a set period of time if it detects the door has been left open.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7753852af5dae552f76273db193ec236f4b11581",
+      "title": "Eritrean man wins temporary block against removal to France",
+      "url": "https://www.bbc.com/news/articles/c1dqe2443l1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-16T18:09:50.000Z",
+      "summary_90w": "",
+      "raw": "Some migrants who arrived in the UK by small boat had been told they would be put on flights to France as early as Tuesday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a403d01f535391e03cc7568e97dfbbc9a57ffd38",
+      "title": "Gemini overtakes ChatGPT on App Store, as its Nano Banana AI model drives downloads up 45%",
+      "url": "https://techcrunch.com/2025/09/16/gemini-overtakes-chatgpt-on-app-store-as-its-nano-banana-ai-model-drives-downloads-up-45/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-16T18:07:40.000Z",
+      "summary_90w": "",
+      "raw": "Though the month is only half over, Gemini's app has already gained 12.6 million downloads in September, up from 8.7 million in August.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7b4a3c8f5e4a0d6ca5a739ee8c0409daf458b4e1",
+      "title": "Israel’s war in Gaza ‘morally, politically and legally intolerable’ says UN secretary general - Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/16/israel-gaza-war-israels-defence-minister-says-gaza-is-burning-amid-escalation-in-bombardment-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-16T18:03:26.000Z",
+      "summary_90w": "",
+      "raw": "António Guterres says he wants to meet Benjamin Netanyahu and Donald Trump at UN next week\nWafa, the Palestinian news agency, has been told by medical sources that at least 38 Palestinian people, including women and children, have been killed by Israeli forces since dawn today.\nAs well as facing relentless bombardments, Gaza City, the biggest built-up area of the territory, is being gripped by a famine caused by Israel’s restrictions on aid.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d23b2ee1cda0b9c4aecf794d85d73d2917573550",
+      "title": "Rivian breaks ground on $5B Georgia factory ahead of construction in 2026",
+      "url": "https://techcrunch.com/2025/09/16/rivian-breaks-ground-on-5b-georgia-factory-ahead-of-construction-in-2026/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-16T18:03:23.000Z",
+      "summary_90w": "",
+      "raw": "While largely ceremonial, it's an important step for a project that has dealt with a lot of uncertainty the last few years. Rivian R2 SUVs will roll off the line in 2028.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c5d06a08f708ecd7e5aed1089d5a51bd548d1c54",
+      "title": "The right wing is creating a society of snitches",
+      "url": "https://www.theverge.com/policy/778972/right-wing-harassment-firings-charlie-kirk",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-16T18:00:09.000Z",
+      "summary_90w": "",
+      "raw": "The post was up on Natalie's private Facebook page for 20 minutes - a crude joke about Charlie Kirk's death. When her husband suggested the comment was a bit much, she deleted it. The next day, Natalie received the first email telling her to kill herself. It didn't even take 24 hours to go viral.\nIn the 20 minutes the post was live, someone had taken a screenshot of it. She doesn't know how the screenshot got to the right-wing influencer who posted it. Natalie, who owns her own small business, was on a client call as the death threats started to roll in. She told herself to focus on the call, but she was shaking so hard that she was having  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "6bbb17a80947116b66d4cf59940d10e3c272e291",
       "title": "Andrew Yang took inspiration from Mark Cuban for his budget cell carrier Noble Mobile",
@@ -13,6 +91,19 @@
       "raw": "“I’m as guilty of doomscrolling as the next person, but knowing that doomscrolling is actually costing me money makes me feel dumb,” Yang told TechCrunch.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "5c7ce8f3c76fbad24a0981ee76cfdc4d761203e5",
+      "title": "Coup plot charges for former Romanian presidential candidate",
+      "url": "https://www.bbc.com/news/articles/c4g5ky0vex8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-16T17:47:19.000Z",
+      "summary_90w": "",
+      "raw": "Prosecutors say the right-wing former presidential candidate conspired to overthrow constitutional order in the country.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -49,7 +140,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-16T17:21:32.000Z",
       "summary_90w": "",
-      "raw": "State broadcaster says it will withdraw from next year’s contest in Vienna unless Israel is excluded over Gaza war\nSpain has become the latest country to confirm it will not take part in next year’s Eurovision song contest if Israel participates, with the head of its state broadcaster saying “the genocide currently taking place make[s] it impossible for us to look the other way”.\nThe majority decision by RTVE board members makes Spain the first of the “big five” Eurovision countries that contribute the most money to the event to take such action in response to Israel’s offensive in Gaza.\n Continue reading...",
+      "raw": "Head of state broadcaster says it is ‘impossible to look the other way’ over Israel’s actions in Gaza\nSpain has become the latest country to confirm it will not take part in next year’s Eurovision song contest if Israel participates, with the head of its state broadcaster saying “the genocide currently taking place make[s] it impossible for us to look the other way”.\nThe majority decision by RTVE board members makes Spain the first of the “big five” Eurovision countries that contribute the most money to the event to take such action in response to Israel’s offensive in Gaza.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -68,14 +159,14 @@
       ]
     },
     {
-      "id": "7b4a3c8f5e4a0d6ca5a739ee8c0409daf458b4e1",
-      "title": "Israel’s war in Gaza ‘morally, politically and legally intolerable’ says UN secretary general - Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/16/israel-gaza-war-israels-defence-minister-says-gaza-is-burning-amid-escalation-in-bombardment-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-16T17:13:42.000Z",
+      "id": "e2d013b1ced7d0a541f53ae6ae5f78e42f1060a4",
+      "title": "UK hopes for 0% tariff on steel exports to US dashed",
+      "url": "https://www.bbc.com/news/articles/cj4y2gge7p1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-16T17:14:14.000Z",
       "summary_90w": "",
-      "raw": "António Guterres says he wants to meet Benjamin Netanyahu and Donald Trump at UN next week\nWafa, the Palestinian news agency, has been told by medical sources that at least 38 Palestinian people, including women and children, have been killed by Israeli forces since dawn today.\nAs well as facing relentless bombardments, Gaza City, the biggest built-up area of the territory, is being gripped by a famine caused by Israel’s restrictions on aid.\n Continue reading...",
+      "raw": "An agreement to reduce tariffs on UK steel to zero in short order was welcomed with some fanfare in July.",
       "topics": [
         "World"
       ]
@@ -172,19 +263,6 @@
       ]
     },
     {
-      "id": "7753852af5dae552f76273db193ec236f4b11581",
-      "title": "First legal challenge lodged against 'one in, one out' migrant return deal",
-      "url": "https://www.bbc.com/news/articles/c1dqe2443l1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-16T16:31:25.000Z",
-      "summary_90w": "",
-      "raw": "Some people who arrived in the UK by small boat had been told they would be put on flights as early as Tuesday.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "38b62a00f125c70f421ad94020f616702725653b",
       "title": "OpenAI will apply new restrictions to ChatGPT users under 18",
       "url": "https://techcrunch.com/2025/09/16/openai-will-apply-new-restrictions-to-chatgpt-users-under-18/",
@@ -201,7 +279,7 @@
       "id": "d9c43fb441c35770a1cccead69f430428d827274",
       "title": "Sabrina Carpenter and Justin Bieber to headline Coachella 2026 ",
       "url": "https://www.bbc.com/news/articles/cr5q8zg0zy9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-16T16:28:45.000Z",
       "summary_90w": "",
@@ -303,7 +381,7 @@
     },
     {
       "id": "f7966ccc90f3c19b3e7495d05da6b51243ca607b",
-      "title": "Inquiries dropped into ex-MP accused of misusing donors' money",
+      "title": "Inquiries dropped into ex-MP accused of misusing donors' money to pay 'bad people'",
       "url": "https://www.bbc.com/news/articles/c3vz5pgegr2o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -440,19 +518,6 @@
       "published": "2025-09-16T15:16:29.000Z",
       "summary_90w": "",
       "raw": "NPR wants to hear from listeners whose lives have changed due to an increase in ICE operations, throughout the country.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a9e5ab1016b2b4c8ee8fa716477d83ea53fd26d6",
-      "title": "Watch: Bear caught on CCTV searching for food in Indian temple",
-      "url": "https://www.bbc.com/news/videos/c9dxq3n2pdqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-16T15:12:11.000Z",
-      "summary_90w": "",
-      "raw": "The curious creature ransacked an office in its quest to find tasty treats.",
       "topics": [
         "World"
       ]
@@ -731,19 +796,6 @@
       ]
     },
     {
-      "id": "c89a21389fe2b03f0e29dab29620570256a556cd",
-      "title": "Epson partnered with Bose for the speakers on its new projectors",
-      "url": "https://www.theverge.com/news/778725/epson-lifestudio-projectors-4k-grand-flex-plus-pop-google-tv",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-16T14:07:08.000Z",
-      "summary_90w": "",
-      "raw": "The Epson Lifestudio Flex Plus projector includes ambient lighting so it can double as a bedside lamp. | Image: Epson\t\n\nEpson announced five new projectors today as part of a new Lifestudio brand. The lineup includes portable projectors and an ultra-short throw model designed to be part of a permanent home theater setup, with a mix of 4K and 1080P options. All five models feature built-in speakers developed as part of a partnership with Bose, Epson’s new 3LCD projection technology, Google TV, and a new mobile app for iOS and Android that can be used to create movies and photo slideshows that stream to the projectors.\nThe most expensive model in the new lineup is the $2,699.99 Epson Lifestudio Grand: an ultra-short throw projector that can create a 4K, 120-inch image when positioned just 15.2-inches away from a wall or screen. Weighing over 16 pounds it’s not designed with portability in mind, but with 3,600 lumens of output, it’s Epson’s brightest Lifestudio projector — and the loudest, with a pair of 45mm speakers and an 80mm subwoofer.\nMore affordable but still capable are the $999.99 Epson Lifestudio Flex Plus and $849.99 Flex projectors, which both include a short flexible tabletop stand for easier positioning and alignment and dual 40mm speakers that work alongside a passive radiator to boost lower frequencies. \nThe Flex Plus is a 4K model with 1,000 lumens of illumination and ambient lighting so it can double as a (very expensive) lamp. It can be powered through a USB-C port using an adapter or a battery with at least 100W of output. If you go the battery route to improve its portability, Epson says a 24,000mAh power bank will provide up to 70 minutes of movie watching. The more affordable Lifestudio Flex is limited to 1080P and 700 lumens of brightness, but can’t be powered over USB-C.\nThe $679.99 Pop and $799.99 Pop Plus are the most budget-friendly options in Epson’s new Lifestudio lineup, offering 1080P and 4K resolutions respectively; both have the same 700 lumens of brightness. Sound is delivered through a 20mm tweeter and a 40mm full range speaker, while bass frequencies are boosted using a pair of passive radiators.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "a675a06fc04994662eaef54e5505e238c29fc282",
       "title": "TikTokers arrested for insulting Somalia's president in a dance video",
       "url": "https://www.bbc.com/news/articles/crmek8wgjdgo?at_medium=RSS&at_campaign=rss",
@@ -835,6 +887,19 @@
       ]
     },
     {
+      "id": "99977ebf9deb3056cc00b2f60fa59c679e91cc03",
+      "title": "Lawyers, losses and lie detectors - inside Mudryk doping case",
+      "url": "https://www.bbc.com/sport/football/articles/c5yg8rgyz3no?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-16T13:10:28.000Z",
+      "summary_90w": "",
+      "raw": "BBC Sport explores the whereabouts and doping case circumstances of Chelsea's suspended Ukraine winger Mykhailo Mudryk.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "67dbed48d95b44551b213e271237b46cb14a16b9",
       "title": "Calm launches standalone iOS app for sleep support",
       "url": "https://techcrunch.com/2025/09/16/calm-launches-standalone-ios-app-for-sleep-support/",
@@ -856,32 +921,6 @@
       "published": "2025-09-16T13:00:00.000Z",
       "summary_90w": "",
       "raw": "Called the Agent Payments Protocol (AP2), the system is meant to be interoperable between AI platforms, payment systems and vendors.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "8a8ec9bd9054fd8ab73a1f6a9f1220f56daa7cb3",
-      "title": "This $30M startup built a dog crate-sized robot factory that learns by watching humans",
-      "url": "https://techcrunch.com/2025/09/16/this-30m-startup-built-a-dog-crate-sized-robot-factory-that-learns-by-watching-humans/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-16T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "MicroFactory has more than 100 preorders for its general purpose tabletop robotic factory which it hopes to start shipping in two months.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "cf02c0052525814d57971648fb4f81a9a6004a26",
-      "title": "This is the first Roku TV smart projector",
-      "url": "https://www.theverge.com/news/778121/roku-tv-os-aurzen-d1r-cube-smart-projector",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-16T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Aurzen’s D1R Cube projector trades Google TV for Roku TV. | Image: Roku\t\n\nAurzen has announced a new portable projector that will be the first to run the Roku TV OS already found on TVs from brands like TCL and Hisense. The new Aurzen D1R Cube will have access to popular streaming apps like Netflix, Disney Plus, and Amazon Prime, plus Roku Originals and over 500 FAST live channels.\nThe D1R Cube is available starting today for $169.99 through Amazon and Aurzen’s online store in gray, white, and green color options. Alongside the $299 tri-fold Zip, the Cube will be one of Aurzen’s most aggressively priced projectors. But its limited capabilities will potentially make it better suited as a portable solution for bringing movie night along on your next camping trip instead of the centerpiece of your home theater setup.\nAurzen says the Cube is capable of projecting an image up to 150 inches in size. With just 330 ANSI lumens of brightness, though, you’ll want a reflective screen and a completely dark room to avoid an image that’s dim or washed-out. For comparison, the Soundcore Nebula X1 Pro projector that Anker announced at IFA 2025 boasts 3,500 ANSI lumens of brightness. And while the Cube does support 4K content, it only displays it at 1080p.\nDespite its budget-minded pricing, the D1R Cube includes features like automatic focus and keystone adjustments for easier setup, 5W built-in speakers located on either side, Wi-Fi, and Bluetooth for connecting the projector to louder wireless speakers or headphones. It also supports Apple AirPlay so you can stream video and audio directly from your iPhone and iPad. You can use Roku’s mobile app as a remote control with voice commands, and Roku Smart Home lets you get notifications from other smart devices around your home, including access to live feeds from security cameras.\nThe majority of the all-in-one projectors available today, including models from Xgimi and Anker, feature Google TV. Although that OS provides access to a larger variety of apps (including games) when compared to Roku TV, many entry-level projectors running Google TV have not been certified to natively access Netflix, requiring additional hardware like a dongle to use one of the most popular streaming apps. Roku TV provides not only that app but access to a lot of subscription-free content, including FAST channels and the library from the defunct streaming platform Quibi, which Roku acquired in early 2021.",
       "topics": [
         "Technology"
       ]
@@ -949,19 +988,6 @@
       "raw": "From autumn 2026 all schools and after-school clubs must collect and hold students’ phones until the end of the day\n\nEurope live – latest updates\n\nSweden is to implement a nationwide mobile phone ban in all schools in an attempt to improve security and study conditions for students.\nFrom the next school year, starting in autumn 2026, it will be compulsory for all schools and after-school clubs to collect students’ phones and hold them until the end of the day.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "15db70eb01303d19b9a5e212536025cf5f530c11",
-      "title": "Y Combinator-backed Rulebase wants to be the AI coworker for fintech",
-      "url": "https://techcrunch.com/2025/09/16/y-combinator-backed-rulebase-wants-to-be-the-ai-coworker-for-fintech/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-16T12:03:04.000Z",
-      "summary_90w": "",
-      "raw": "Y Combinator-alum Rulebase is betting that the next wave of automation in financial services will be the unglamorous tasks.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1395,9 +1421,22 @@
     },
     {
       "id": "992891a84305925f819c7c7db66dc94be6a4842b",
-      "title": "Trump's state visit is mired with potential pitfalls despite careful planning",
+      "title": "This visit is mired with potential pitfalls despite careful planning",
       "url": "https://www.bbc.com/news/articles/c4gw25w9841o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-15T23:06:35.000Z",
+      "summary_90w": "",
+      "raw": "Months of preparations have gone into this state visit - but the Lord Mandelson question is not the only concern troubling insiders.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "992891a84305925f819c7c7db66dc94be6a4842b",
+      "title": "Trump's state visit is mired with potential pitfalls despite careful planning",
+      "url": "https://www.bbc.com/news/articles/c4gw25w9841o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-15T23:06:35.000Z",
       "summary_90w": "",
