@@ -1,7 +1,59 @@
 {
-  "version": "1758017751016",
-  "generatedAt": "2025-09-16T10:15:51.016Z",
+  "version": "1758019066672",
+  "generatedAt": "2025-09-16T10:37:46.672Z",
   "items": [
+    {
+      "id": "5b9e6b3975ec95d38d6df0851b888e32fdfed389",
+      "title": "Kenya issues arrest warrant for British national over young mother's murder",
+      "url": "https://www.bbc.com/news/articles/cwywng4jp08o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-16T10:32:38.000Z",
+      "summary_90w": "",
+      "raw": "The 21-year-old was killed in 2012 and her body found in a septic tank in the garrison town of Nanyuki.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "759b9a63b3d804b85d6b0f0a8d9f0858781c8238",
+      "title": "State pension likely to rise by 4.7% in April",
+      "url": "https://www.bbc.com/news/articles/c62lnzdndkeo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-16T10:19:29.000Z",
+      "summary_90w": "",
+      "raw": "Earnings figures for the three months to July are used for the yearly increase.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "508523d29fa5a0b054bf832601485b156966430e",
+      "title": "Jaguar Land Rover could face disruption until November after hack",
+      "url": "https://www.bbc.com/news/articles/czewlj57e24o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-16T10:11:30.000Z",
+      "summary_90w": "",
+      "raw": "The firm will restart production on 24 September but industry sources warn the impact could last longer.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5b74f3900ce94a0b30b37c6c36ad774dac862cb1",
+      "title": "3,500 drones launched at Ukraine this month, Zelenskyy says, as he calls for Trump to take ‘clear position’ on Russia — Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/16/zelenskyy-trump-sanctions-russia-news-updates-europe-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-16T10:08:52.000Z",
+      "summary_90w": "",
+      "raw": "Sanctions and security guarantees for Ukraine are among the ‘missing pieces’ Ukrainian president says are necessary for peace ahead of Trump’s state visit to UK\nElsewhere, German and Swedish foreign ministers criticised Israel’s move on Gaza City, with Johann Wadephul calling it “completely wrong” and calling for urgent talks on a ceasefire and hostage release instead.\n“The renewed offensive towards Gaza City is... the completely wrong path,” he said at a press conference with his Swedish counterpart, Maria Malmer Stenergard.\n“We, from the Swedish side, are extremely worried, and we have been very clear from the very beginning when these plans were presented that any change by force of territory would be a breach of international law, and we are extremely worried about the situation in Gaza.”\n“We do have an obligation to stop and prevent genocide from happening, and that is why Sweden is one of the biggest providers of humanitarian aid to Gaza. \nThat is why we want to put more pressure on the Israeli government, for instance by stopping the trade part of the Association Agreement, or also putting sanctions on extremist ministers in the Israeli government. \n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "bee2d671e792b9e41d8c8b279f661c456773fba7",
       "title": "Microsoft favors Anthropic over OpenAI for Visual Studio Code",
@@ -13,6 +65,19 @@
       "raw": "Microsoft is adding automatic AI model selection to its Visual Studio Code editor that will automatically pick the best model for \"optimal performance.\" This new auto model feature will select between Claude Sonnet 4, GPT-5, GPT-5 mini and other models for GitHub Copilot free users, but paid users will \"primarily rely on Claude Sonnet 4.\"\nIt's a tacit admission from Microsoft that the software maker is favoring Anthropic's AI models over OpenAI's latest GPT-5 models for coding and development. Sources familiar with Microsoft's developer plans tell me that the company has been instructing its own developers to use Claude Sonnet 4 in recent m …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "7b4a3c8f5e4a0d6ca5a739ee8c0409daf458b4e1",
+      "title": "Israel launches ground offensive in Gaza City with residents warned to evacuate - latest updates",
+      "url": "https://www.theguardian.com/world/live/2025/sep/16/israel-gaza-war-israels-defence-minister-says-gaza-is-burning-amid-escalation-in-bombardment-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-16T10:05:25.000Z",
+      "summary_90w": "",
+      "raw": "IDF spokesperson says forces have ‘begun dismantling Hamas terrorist infrastructure in Gaza City’ with residents warned ‘remaining endangers you’\n\nSee all our Israel-Gaza war coverage\n\nWafa, the Palestinian news agency, has been told by medical sources that at least 38 Palestinian people, including women and children, have been killed by Israeli forces since dawn today.\nAs well as facing relentless bombardments, Gaza City, the biggest built-up area of the territory, is being gripped by a famine caused by Israel’s restrictions on aid.\n Continue reading...",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -39,19 +104,6 @@
       "raw": "Nothing’s Android-based Phone 3.\t\n\nLondon-based consumer tech startup Nothing has raised $200 million and vowed to usher in a new generation of “AI-native” devices running on operating systems that “are significantly different from the ones today.”\nIn a press release that reads part ode to technology and part manifesto, Nothing founder and CEO Carl Pei said the cash infusion — which values Nothing at $1.3 billion — will help the company ramp up distribution and accelerate innovation. \nAt the heart of Nothing’s plans is AI. Pei said the company is “building the foundations for the future” on a focused “AI OS” to deliver a “hyper-personalized experience.” However, it’s unclear if Nothing’s operating system ambitions are built on top of Android like Nothing OS. We’ve reached out for clarification.\nThis “AI-native platform” will run hardware in widespread use today like smartphones, headphones, and smart watches, Pei said, as well as other devices like smart glasses, electric vehicles, and humanoid robots. He confidently predicts Nothing’s new OS will run “whatever comes next,” too. That said, last October Pei just as confidently proclaimed that “AI is just a tool” and that the company’s OS should not be described as an AI operating system.\nNothing plans to release its first AI-native devices next year. Its chief challenge will be generating demand in a category that has historically failed to engage the mass market and where success has eluded even the industry’s biggest players like Apple. There’s no shortage of competitors either, including the mysterious “screen free” device former Apple designer Jony Ive is creating with OpenAI. \nNothing says it’s uniquely positioned to create these future AI devices. “Owning the last-mile distribution point with all its contextual and user knowledge is essential to developing an OS that will help people in their daily lives,” said Pei. “An AI OS that doesn’t know its user and isn’t ever-present can’t deliver a hyper-personalised experience. This is the next chapter for Nothing, integrating an AI experience into our hardware devices to reinvent how technology amplifies us.”",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "7b4a3c8f5e4a0d6ca5a739ee8c0409daf458b4e1",
-      "title": "Israel launches ground offensive in Gaza City with residents warned to evacuate - latest updates",
-      "url": "https://www.theguardian.com/world/live/2025/sep/16/israel-gaza-war-israels-defence-minister-says-gaza-is-burning-amid-escalation-in-bombardment-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-16T10:01:49.000Z",
-      "summary_90w": "",
-      "raw": "IDF spokesperson says forces have ‘begun dismantling Hamas terrorist infrastructure in Gaza City’ with residents warned ‘remaining endangers you’\n\nSee all our Israel-Gaza war coverage\n\nWafa, the Palestinian news agency, has been told by medical sources that at least 38 Palestinian people, including women and children, have been killed by Israeli forces since dawn today.\nAs well as facing relentless bombardments, Gaza City, the biggest built-up area of the territory, is being gripped by a famine caused by Israel’s restrictions on aid.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -159,19 +211,6 @@
       ]
     },
     {
-      "id": "5b74f3900ce94a0b30b37c6c36ad774dac862cb1",
-      "title": "3,500 drones launched at Ukraine this month, Zelenskyy says, as he calls for Trump to take ‘clear position’ on Russia — Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/16/zelenskyy-trump-sanctions-russia-news-updates-europe-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-16T09:36:00.000Z",
-      "summary_90w": "",
-      "raw": "Sanctions and security guarantees for Ukraine are among the ‘missing pieces’ Ukrainian president says are necessary for peace ahead of Trump’s state visit to UK\nA Ukrainian arrested in Italy last month over the 2022 sabotage of the Nord Stream gas pipelines from Russia to Europe must be extradited to Germany, a court in Bologna ruled.\nThe man, identified as Serhii K, has denied being part of a cell which placed explosives on the pipeline and will appeal against the extradition ruling at Italy’s supreme court, his lawyer Nicola Canestrini told AFP.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8a7a9e2255935613c1c77cb94017f78c46b44da9",
       "title": "Israel has committed genocide in Gaza, UN commission of inquiry says",
       "url": "https://www.bbc.com/news/articles/c8641wv0n4go?at_medium=RSS&at_campaign=rss",
@@ -180,19 +219,6 @@
       "published": "2025-09-16T09:19:39.000Z",
       "summary_90w": "",
       "raw": "The panel finds that four of the five genocidal acts defined under international law have been carried out against Palestinians during the war.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "759b9a63b3d804b85d6b0f0a8d9f0858781c8238",
-      "title": "State pension likely to rise by 4.7% in April",
-      "url": "https://www.bbc.com/news/articles/c62lnzdndkeo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-16T09:09:17.000Z",
-      "summary_90w": "",
-      "raw": "Earnings figures for the three months to July are used for the yearly increase.",
       "topics": [
         "World"
       ]
@@ -459,7 +485,7 @@
     },
     {
       "id": "0f476411f3f071de810342f6f109f566b69a6cd3",
-      "title": "Triathlete ready to face life with no limbs after sepsis ",
+      "title": "'You feel a bit invincible': Triathlete's warning to fellow students over signs of sepsis",
       "url": "https://www.bbc.com/news/articles/cr70zr51rmeo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -471,14 +497,14 @@
       ]
     },
     {
-      "id": "050fd9a791135c4664f76adbd1bb90da66b111bf",
-      "title": "How plan to scrap not proven verdict could shake up Scots law",
-      "url": "https://www.bbc.com/news/articles/c62n6x352dko?at_medium=RSS&at_campaign=rss",
+      "id": "7068f915bd34e8ddd7db78c173dab3abf0597410",
+      "title": "Inside the century-old building standing above 400,000 gold bars",
+      "url": "https://www.bbc.com/news/articles/c15kzd19zz5o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-16T05:10:41.000Z",
+      "published": "2025-09-16T05:12:23.000Z",
       "summary_90w": "",
-      "raw": "Plans to scrap the not proven verdict and raise the bar for a guilty verdict are facing a final vote at Holyrood.",
+      "raw": "As a new exhibition opens about the Bank of England, the BBC takes a rare look inside the building.",
       "topics": [
         "World"
       ]
@@ -719,7 +745,7 @@
     },
     {
       "id": "ec8aa65e0f91b128ee99c65c86ffe079033e27a4",
-      "title": "Why now is time to declutter and four ways to get started",
+      "title": "Ready for an autumn declutter? Four ways to get started",
       "url": "https://www.bbc.com/news/articles/ckgen8pkgjjo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -760,7 +786,7 @@
       "id": "0ad9214823cfd04c43105d40546694c877a121a8",
       "title": "US destroys alleged Venezuelan drug boat, killing three",
       "url": "https://www.bbc.com/news/articles/cx2jel4gyezo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-15T22:21:43.000Z",
       "summary_90w": "",
@@ -830,19 +856,6 @@
       "published": "2025-09-15T21:38:01.000Z",
       "summary_90w": "",
       "raw": "Arab states say US should use its leverage and influence as they promise to ‘activate joint defence mechanisms’ \nGulf leaders meeting at an emergency summit in Qatar have called on the Trump administration to use its leverage to rein in Israel following the unprecedented Israeli attempt last Tuesday to assassinate Hamas negotiators in Doha.\nSpeaking after the meeting of the Gulf Cooperation Council (GCC), the group’s secretary general, Jasem Mohamed al-Budaiwi, said: “We … expect our strategic partners in the United States to use their influence on Israel in order for it to stop this behaviour … they have leverage and influence on Israel, and it’s about time that this leverage and influence be used.”\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b3182fc45ac7521b62cff3ea64e9d1254c629219",
-      "title": "Hillsborough Law - what is it and how did we get here?",
-      "url": "https://www.bbc.com/news/articles/c98d930p50no?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-15T21:30:17.000Z",
-      "summary_90w": "",
-      "raw": "Following the news that an agreement has been reached on the long-awaited Public Authority (Accountability) Bill, the BBC's Judith Moritz looks at its history.",
       "topics": [
         "World"
       ]
