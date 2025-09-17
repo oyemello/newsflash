@@ -1,7 +1,33 @@
 {
-  "version": "1758133166702",
-  "generatedAt": "2025-09-17T18:19:26.702Z",
+  "version": "1758134737549",
+  "generatedAt": "2025-09-17T18:45:37.549Z",
   "items": [
+    {
+      "id": "bd7481db6b8dc2a173e99e49362051f15ab2e6f8",
+      "title": "The iPhone Air’s real breakthrough is its battery",
+      "url": "https://techcrunch.com/2025/09/17/the-iphone-airs-real-breakthrough-is-its-battery/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-17T18:38:13.000Z",
+      "summary_90w": "",
+      "raw": "Apple's slimmest iPhone uses a \"revolutionary\" battery design that allows the cell to fill more space within the device, boosting overall energy storage.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "97a3e4201653248a1b1fab7cac44cda4e6a684fe",
+      "title": "The Justice Department sues Maine and Oregon, ratcheting up demands for voter data",
+      "url": "https://www.npr.org/2025/09/17/nx-s1-5544354/voter-data-lawsuit-oregon-maine",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-17T18:28:05.000Z",
+      "summary_90w": "",
+      "raw": "The Department of Justice is escalating its demands for sensitive data from voting officials, suing two Democratic-controlled states who have thus far rebuffed the department's requests.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "8307b2fecbd079e7cecb005e71c5b4e990b6d9cc",
       "title": "Logitech’s Pro X2 Superstrike offers haptic-based clicks and rapid trigger",
@@ -26,6 +52,19 @@
       "raw": "A new study from Pew suggests that Americans aren’t particularly optimistic about AI. A full 50 percent of respondents said they were more concerned than excited about the use of AI in their daily lives. That’s down ever so slightly from 52 percent in 2023, but it’s up significantly from 37 percent in 2021. \nAmericans expressed a number of concerns about AI, chief among them that it will negatively impact our ability to think creatively and form meaningful relationships with other people. Just 18 percent believed that AI should play any role at all in dating and matchmaking, with just 3 percent being comfortable with it playing a “big role.” The theme in general was that Americans are okay with AI performing analysis on large data to, say, predict the weather, or find cures for disease, but they wanted it to stay out of their personal lives. Two-thirds of people want it to stay out of their love lives entirely, and 73 percent believe it has no place advising people on their religious beliefs.\nAnother concern was the spread of misinformation. 18 percent of respondents rated misinformation as their number one concern, behind only its negative impact on human abilities and connections. Americans felt that it was very important to be able to identify AI-generated work, but 53 percent said they were not confident in their ability to do so.\nInterestingly, in a reversal of what you’d expect with the emergence of new technologies, it’s actually younger Americans who are more concerned. 57 percent of those under 30 said they were extremely concerned that AI would erode people’s abilities, while only 46 percent of those over 65 said the same.\nBroadly, though, it’s clear that Americans are taking a skeptical eye towards AI. 61 percent said they wanted more control over how AI is used in their daily lives. Unfortunately, 57 percent believe they have little or no control over that.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "4f05d30ad947189ca2655e99502de2b693ac1aa5",
+      "title": "Chimps drinking equivalent of a lager a day in fermented fruit, study finds",
+      "url": "https://www.bbc.com/news/articles/cgq4710vendo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-17T18:00:07.000Z",
+      "summary_90w": "",
+      "raw": "Scientists say chimps consume the equivalent of a bottle of lager a day from dining on ripe fruit.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -270,7 +309,7 @@
       "source_name": "The Verge",
       "published": "2025-09-17T16:24:18.000Z",
       "summary_90w": "",
-      "raw": "The makers of the Starling Home Hub say they have discontinued the popular device. | Image: Starling\t\n\nI have bad news for ecosystem straddlers who use Google Nest products in their smart homes but rely on iPhones and Apple Home for control: the much-loved Starling Home Hub has been discontinued. \nIn a message on its website, Starling said it can no longer manufacture the hub due to “rapidly rising costs of doing business for small US-based product companies like us (most significantly, tariffs the US government charges us to obtain the components we need to build our product).”\nThe Starling Home Hub launched in 2019. At $99, it was billed as an independent bridge that let you control and automate Nest devices — including thermostats and cameras — in the Apple Home app and with Siri. It also supported local streaming for cameras, improving latency.\nGoogle’s Nest devices have never had direct integration with Apple’s HomeKit platform. While Matter adoption has helped — newer Nest thermostats now work in Apple Home — older models and all cameras still remain outside Apple’s ecosystem.\nFor many users, the Starling Home Hub filled that gap as a more focused, plug-and-play option than setting up a Homebridge server. It earned a reputation as both reliable and indispensable. Now it’s gone.  \nIf you already own one, you’re safe for the time being. Starling says it will continue to provide tech support and roll out security and bug fix updates, and hopes to have enough stock on hand to honor warranties. It’s unclear what’s next for the company, which to date has only produced this one device. The Verge has reached out for comment.\nIn terms of alternatives, the 2020 Google Nest Thermostat and the fourth-generation Nest Learning Thermostat both support Matter, allowing some control in the Apple Home app. Camera support for Matter is slated to arrive later this year, and with Google rumored to be launching new Nest cams next month, that may provide a path to streaming them in Apple Home. But even if Google adds Matter support to its new cameras and doorbell, we don’t know if it will extend that to existing devices.\nFor now, the hub is gone — and so is a simple way to bring Google Nest products into Apple’s smart home ecosystem.",
+      "raw": "I have bad news for ecosystem straddlers who use Google Nest products in their smart homes but rely on iPhones and Apple Home for control: the much-loved Starling Home Hub has been discontinued. \nIn a message on its website, Starling said it can no longer manufacture the hub due to “rapidly rising costs of doing business for small US-based product companies like us (most significantly, tariffs the US government charges us to obtain the components we need to build our product).”\nThe Starling Home Hub launched in 2019. At $99, it was billed as an independent bridge that let you control and automate Nest devices — including thermostats and cameras — in the Apple Home app and with Siri. It also supported local streaming for cameras, improving latency.\nGoogle’s Nest devices have never had direct integration with Apple’s HomeKit platform. While Matter adoption has helped — newer Nest thermostats now work in Apple Home — older models and all cameras still remain outside Apple’s ecosystem.\nFor many users, the Starling Home Hub filled that gap as a more focused, plug-and-play option than setting up a Homebridge server. It earned a reputation as both reliable and indispensable. Now it’s gone.  \nIf you already own one, you’re safe for the time being. Starling says it will continue to provide tech support and roll out security and bug fix updates, and hopes to have enough stock on hand to honor warranties. It’s unclear what’s next for the company, which to date has only produced this one device. The Verge has reached out for comment.\nIn terms of alternatives, the 2020 Google Nest Thermostat and the fourth-generation Nest Learning Thermostat both support Matter, allowing some control in the Apple Home app. Camera support for Matter is slated to arrive later this year, and with Google rumored to be launching new Nest cams next month, that may provide a path to streaming them in Apple Home. But even if Google adds Matter support to its new cameras and doorbell, we don’t know if it will extend that to existing devices.\nFor now, the hub is gone — and so is a simple way to bring Google Nest products into Apple’s smart home ecosystem.",
       "topics": [
         "Technology"
       ]
@@ -809,19 +848,6 @@
       ]
     },
     {
-      "id": "d81cbf9329b7ddcf3648b55346cf690769accd26",
-      "title": "Ex-Labour councillor charged in Westminster 'honeytrap' case",
-      "url": "https://www.bbc.com/news/articles/cn76dr2jm0ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-17T11:22:21.000Z",
-      "summary_90w": "",
-      "raw": "The charges relate to alleged WhatsApp messages sent to people within Westminster circles.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "4f6d4be3fca12b9893119f2cd2675129112618ed",
       "title": "Kirk's alleged shooter faces death penalty. And, Pritzker concerned for 2026 elections",
       "url": "https://www.npr.org/2025/09/17/g-s1-89178/up-first-newsletter-charlie-kirk-tyler-robinson-trump-uk-visit-kash-patel",
@@ -965,19 +991,6 @@
       ]
     },
     {
-      "id": "4c17f2e4afc72bb016af93366aba49b359e96fad",
-      "title": "Beyond 'draining the swamp': How Trump is knocking down checks on presidential power",
-      "url": "https://www.npr.org/2025/09/17/nx-s1-5475191/trump-executive-power-supreme-court-whistleblower",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-17T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "President Trump wants to be able to fire far more executive branch employees at will — upending checks on presidential power that have existed for more than a century.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "52fc551b8e4847f511dd14b0299cba86c0c646e8",
       "title": "Facing Trump's pressure, the Fed cuts rates for the first time this year",
       "url": "https://www.npr.org/2025/09/17/nx-s1-5539555/federal-reserve-interest-rates-inflation-jobs",
@@ -985,7 +998,7 @@
       "source_name": "NPR Topics: Business",
       "published": "2025-09-17T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "The Federal reserve lowered interest rates by a quarter percentage point Wednesday in an effort to cushion the sagging job market. The move comes as Fed policymakers face growing pressure from President Trump.",
+      "raw": "The Fed lowered interest rates by a quarter percentage point Wednesday in an effort to cushion the sagging job market. The move comes as policymakers face growing pressure from President Trump.",
       "topics": [
         "Business"
       ]
@@ -1298,19 +1311,6 @@
       "published": "2025-09-16T19:56:54.000Z",
       "summary_90w": "",
       "raw": "The social media platform had faced a ban in the US over national security concerns.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "1a84cce41d643e0b0cb9215246e8052f894638a5",
-      "title": "Jack Altman raised a new $275M early-stage fund in a mere week ",
-      "url": "https://techcrunch.com/2025/09/16/jack-altman-raised-a-new-275m-early-stage-fund-in-a-mere-week/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-16T19:52:53.000Z",
-      "summary_90w": "",
-      "raw": "Altman's first fund, raised in early 2024, was $150 million. So this is a big step up, too.",
       "topics": [
         "Technology"
       ]
