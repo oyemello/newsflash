@@ -1,10 +1,36 @@
 {
-  "version": "1758137258076",
-  "generatedAt": "2025-09-17T19:27:38.076Z",
+  "version": "1758137906401",
+  "generatedAt": "2025-09-17T19:38:26.401Z",
   "items": [
     {
+      "id": "1279e01cabe1d32d11f5a67175cf9892e1a7fc50",
+      "title": "&#8216;Ask Gemini&#8217; AI will tell you what you missed during a Google Meet call",
+      "url": "https://www.theverge.com/news/780211/google-ask-gemini-meet-workspace-ai-assistant",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-17T19:29:54.000Z",
+      "summary_90w": "",
+      "raw": "Ask Gemini in Meet can make it seem like you’ve been paying close attention during a call, even if you haven’t. | Image: Google\t\n\nGoogle is starting the rollout of its Ask Gemini AI assistant in Google Meet, but it will initially only be available to “select Google Workspace customers.” The assistant can answer participant’s questions by referring to captions generated during the call, resources like Google Docs, Sheets, and Slides they have permission to view, and public websites. It can also provide summaries of what a specific participant said, identify important decisions and action items, and generate a summary of what you missed when joining a meeting late, but only when Google Meet’s Take Notes for Me feature has been activated by the host.\nAsk Gemini’s responses are kept private to every participant and, alongside other meeting data like captions, they’re not stored after a Google Meet call ends. Every participant will also see when Ask Gemini is enabled during a call and while it’s turned on by default, the hosts can disable it at any time, and admins can switch the default to starting meetings with it off.\nAsk Gemini in Meet is only available on the desktop for now, and it only works during meetings held in English. Google says support for additional languages is coming soon. Over the coming weeks it’s being rolled out to Google Workspace Enterprise Plus, Enterprise (Standard), Business Plus, and Business Standard customers first. In Q1 of 2026, Google plans to also make it available to Workspace Business Starter, Enterprise Standard, and Enterprise Plus customers once the company has “collected and applied critical user feedback to improve the feature.”\nGoogle cautions that “Gemini in Workspace can make mistakes, including about people, so users should review its output.” Using it to catch up on missed parts of a meeting is useful, but it’s potentially worth your time to go back and review those parts yourself after it’s over.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d81ef59a5fed591e0b4a68fc8d33b878d7647839",
+      "title": "Spain arrests 19 on suspicion of torture and murder after 50 disappear from migrant boat",
+      "url": "https://www.bbc.com/news/articles/c8jm11lmx71o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-17T19:27:19.000Z",
+      "summary_90w": "",
+      "raw": "Police suspect some of the victims were accused of witchcraft by others on the boat that had travelled from Senegal.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "103dc233ef6bc61daa4ead3e0dd873b0b5a66608",
-      "title": "What's on the menu and who's on guest list at the state banquet?",
+      "title": "Vintage port, a menu in French and 1,452 pieces of cutlery - a glimpse of the state banquet",
       "url": "https://www.bbc.com/news/articles/cn4l13gxy2lo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -466,19 +492,6 @@
       "published": "2025-09-17T16:00:00.000Z",
       "summary_90w": "",
       "raw": "Ethan Thornton, CEO of Mach Industries, joins the AI Stage at TechCrunch Disrupt 2025 (Oct. 27–29, San Francisco) to discuss how AI is transforming defense — from autonomous weapons to decentralized strategy. Register now and save up to $650 before rates increase.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "a507fd8a82970b7f0406888e5ce140c72ccf337e",
-      "title": "American Sweatshop depicts content moderation as the hell it is",
-      "url": "https://www.theverge.com/entertainment/779050/american-sweatshop-uta-briesewitz-interview",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-17T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "In American Sweatshop, German director Uta Briesewitz's new psychological drama, every character working at a content moderation firm understands that ingesting horrific images is part of the job. They have all seen the disturbing footage uploaded to social media, and they know how important it is that someone is always there to determine whether those things should be taken down. But as important as their work is, the content moderators can also feel how their jobs have the potential to cultivate a dark psychological rot within themselves.\nWhen I spoke with Briesewitz recently ahead of American Sweatshop's digital release, she told me that …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
