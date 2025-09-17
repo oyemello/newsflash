@@ -1,7 +1,20 @@
 {
-  "version": "1758135363122",
-  "generatedAt": "2025-09-17T18:56:03.122Z",
+  "version": "1758136388900",
+  "generatedAt": "2025-09-17T19:13:08.900Z",
   "items": [
+    {
+      "id": "83e4973e9058544954cd5f781c60e18432aa123c",
+      "title": "Israeli tanks push into major Gaza City residential area",
+      "url": "https://www.bbc.com/news/articles/c4gv881exj2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-17T18:52:53.000Z",
+      "summary_90w": "",
+      "raw": "The sight of tanks in Sheikh Radwan has caused widespread alarm among residents, with thousands fleeing south.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "67d7b1777bbe552286ec4c34882da146bec2389b",
       "title": "Russia gives Ukrainian kids military training and reeducation, Yale researchers find",
@@ -11,6 +24,19 @@
       "published": "2025-09-17T18:48:05.000Z",
       "summary_90w": "",
       "raw": "The Yale Humanitarian Research Lab says Russia's network of sites for Ukrainian children is larger than previously thought, and programs includes military training for children as young as 8.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6e8027c2d702aa1a5ae709daacc4861fdad3c6d8",
+      "title": "UK to explore extraditing Madeleine McCann suspect Christian Brückner",
+      "url": "https://www.theguardian.com/uk-news/2025/sep/17/uk-to-explore-extraditing-madeleine-mccann-suspect-christian-bruckner",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-17T18:44:45.000Z",
+      "summary_90w": "",
+      "raw": "Met chief Mark Rowley says many questions remain and detectives are liaising with German and Portuguese police\nMark Rowley has said the British police investigation into Madeleine McCann will explore extraditing the German national Christian Brückner to the UK to stand trial over the three-year-old’s disappearance.\nBrückner was released from a German prison on Wednesday after serving a seven-year jail term for the rape of an elderly woman in Praia da Luz, Portugal, in 2005, two years before Madeleine disappeared while on holiday with her family in the same town.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -322,7 +348,7 @@
       "source_name": "The Verge",
       "published": "2025-09-17T16:24:18.000Z",
       "summary_90w": "",
-      "raw": "I have bad news for ecosystem straddlers who use Google Nest products in their smart homes but rely on iPhones and Apple Home for control: the much-loved Starling Home Hub has been discontinued. \nIn a message on its website, Starling said it can no longer manufacture the hub due to “rapidly rising costs of doing business for small US-based product companies like us (most significantly, tariffs the US government charges us to obtain the components we need to build our product).”\nThe Starling Home Hub launched in 2019. At $99, it was billed as an independent bridge that let you control and automate Nest devices — including thermostats and cameras — in the Apple Home app and with Siri. It also supported local streaming for cameras, improving latency.\nGoogle’s Nest devices have never had direct integration with Apple’s HomeKit platform. While Matter adoption has helped — newer Nest thermostats now work in Apple Home — older models and all cameras still remain outside Apple’s ecosystem.\nFor many users, the Starling Home Hub filled that gap as a more focused, plug-and-play option than setting up a Homebridge server. It earned a reputation as both reliable and indispensable. Now it’s gone.  \nIf you already own one, you’re safe for the time being. Starling says it will continue to provide tech support and roll out security and bug fix updates, and hopes to have enough stock on hand to honor warranties. It’s unclear what’s next for the company, which to date has only produced this one device. The Verge has reached out for comment.\nIn terms of alternatives, the 2020 Google Nest Thermostat and the fourth-generation Nest Learning Thermostat both support Matter, allowing some control in the Apple Home app. Camera support for Matter is slated to arrive later this year, and with Google rumored to be launching new Nest cams next month, that may provide a path to streaming them in Apple Home. But even if Google adds Matter support to its new cameras and doorbell, we don’t know if it will extend that to existing devices.\nFor now, the hub is gone — and so is a simple way to bring Google Nest products into Apple’s smart home ecosystem.",
+      "raw": "The makers of the Starling Home Hub say they have discontinued the popular device. | Image: Starling\t\n\nI have bad news for ecosystem straddlers who use Google Nest products in their smart homes but rely on iPhones and Apple Home for control: the much-loved Starling Home Hub has been discontinued. \nIn a message on its website, Starling said it can no longer manufacture the hub due to “rapidly rising costs of doing business for small US-based product companies like us (most significantly, tariffs the US government charges us to obtain the components we need to build our product).”\nThe Starling Home Hub launched in 2019. At $99, it was billed as an independent bridge that let you control and automate Nest devices — including thermostats and cameras — in the Apple Home app and with Siri. It also supported local streaming for cameras, improving latency.\nGoogle’s Nest devices have never had direct integration with Apple’s HomeKit platform. While Matter adoption has helped — newer Nest thermostats now work in Apple Home — older models and all cameras still remain outside Apple’s ecosystem.\nFor many users, the Starling Home Hub filled that gap as a more focused, plug-and-play option than setting up a Homebridge server. It earned a reputation as both reliable and indispensable. Now it’s gone.  \nIf you already own one, you’re safe for the time being. Starling says it will continue to provide tech support and roll out security and bug fix updates, and hopes to have enough stock on hand to honor warranties. It’s unclear what’s next for the company, which to date has only produced this one device. The Verge has reached out for comment.\nIn terms of alternatives, the 2020 Google Nest Thermostat and the fourth-generation Nest Learning Thermostat both support Matter, allowing some control in the Apple Home app. Camera support for Matter is slated to arrive later this year, and with Google rumored to be launching new Nest cams next month, that may provide a path to streaming them in Apple Home. But even if Google adds Matter support to its new cameras and doorbell, we don’t know if it will extend that to existing devices.\nFor now, the hub is gone — and so is a simple way to bring Google Nest products into Apple’s smart home ecosystem.",
       "topics": [
         "Technology"
       ]
@@ -471,19 +497,6 @@
       ]
     },
     {
-      "id": "c9f50d98bab766be60e79dab5ee449f6922a412b",
-      "title": "Thousands of Palestinians flee as Israeli troops push into Gaza City",
-      "url": "https://www.bbc.com/news/articles/cx270y1rgzeo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-17T15:55:43.000Z",
-      "summary_90w": "",
-      "raw": "Israel says its aim is to defeat up to 3,000 Hamas fighters who remain there, but the offensive has drawn international condemnation.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f852b8c3a402f00897bf546b1a746922456c7d59",
       "title": "Silver feels like gold for Wightman after dramatic 1500m final",
       "url": "https://www.bbc.com/sport/athletics/articles/clylxn88xymo?at_medium=RSS&at_campaign=rss",
@@ -596,19 +609,6 @@
       "published": "2025-09-17T15:00:17.000Z",
       "summary_90w": "",
       "raw": "Australia must lead other nations in committing to 1.5C pathway for safety, security, prosperity and the environment, experts say\nLeading climate advocates have warned the Australian government’s decision on a 2035 emissions reduction will be a historic “sliding doors moment” for the country, with an international goal to keep global heating to 1.5C now hanging by a thread.\nThe prime minister, Anthony Albanese, is expected to announce a target range on Thursday after a scheduled morning cabinet meeting before formally submitting it to the UN later this month.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "dbdcb8bef839a9b4c02b0db73a02b94e974a068f",
-      "title": "New AI tool can predict a person’s risk of more than 1,000 diseases, say experts",
-      "url": "https://www.theguardian.com/science/2025/sep/17/new-ai-tool-can-predict-a-persons-risk-of-more-than-1000-diseases-say-experts",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-17T15:00:16.000Z",
-      "summary_90w": "",
-      "raw": "Delphi-2M uses diagnoses, ‘medical events’ and lifestyle factors to create forecasts for next decade and beyond\nScientists have developed a new artificial intelligence tool that can predict your personal risk of more than 1,000 diseases, and forecast changes in health a decade in advance.\nThe generative AI tool was custom-built by experts from the European Molecular Biology Laboratory (EMBL), the German Cancer Research Centre and the University of Copenhagen, using algorithmic concepts similar to those used in large language models (LLMs).\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -991,19 +991,6 @@
       ]
     },
     {
-      "id": "38625ac1fd4787a2132b66206b9ccf33ecc38640",
-      "title": "After a wave of horrific shootings, gun violence trends put recent attacks in context",
-      "url": "https://www.npr.org/2025/09/17/nx-s1-5542241/political-violence-mass-shootings-charlie-kirk",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-17T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Mass shootings, political violence and school safety are front of mind for many Americans following a recent spate of high-profile attacks. Experts who study gun violence unpack the data and trends.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "52fc551b8e4847f511dd14b0299cba86c0c646e8",
       "title": "Facing Trump's pressure, the Fed cuts rates for the first time this year",
       "url": "https://www.npr.org/2025/09/17/nx-s1-5539555/federal-reserve-interest-rates-inflation-jobs",
@@ -1014,6 +1001,19 @@
       "raw": "The Fed lowered interest rates by a quarter percentage point Wednesday in an effort to cushion the sagging job market. The move comes as policymakers face growing pressure from President Trump.",
       "topics": [
         "Business"
+      ]
+    },
+    {
+      "id": "84d5aec022bf22ff9c5f9e5823701576d9bdbb54",
+      "title": "When her car ran out of gas, help came from a homeless encampment",
+      "url": "https://www.npr.org/2025/09/17/nx-s1-5542002/when-her-car-ran-out-of-gas-help-came-from-a-homeless-encampment",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-17T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "When Juli Cobb's car ran out of gas in the middle of the road, three men from a nearby homeless encampment rushed over to push her car to safety.",
+      "topics": [
+        "World"
       ]
     },
     {
