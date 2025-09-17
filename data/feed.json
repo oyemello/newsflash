@@ -1,16 +1,94 @@
 {
-  "version": "1758125902745",
-  "generatedAt": "2025-09-17T16:18:22.745Z",
+  "version": "1758127282835",
+  "generatedAt": "2025-09-17T16:41:22.835Z",
   "items": [
     {
+      "id": "49e11e4d6ce8a3e20db6d25ae53fe66ae45562f5",
+      "title": "Airbuds is the music social network Apple and Spotify wish they had built",
+      "url": "https://techcrunch.com/2025/09/17/airbuds-is-the-music-social-network-apple-and-spotify-wish-they-had-built/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-17T16:36:38.000Z",
+      "summary_90w": "",
+      "raw": "Airbuds, a music social app aimed at Gen Z, raises $5M as the app reaches 5 million monthly users.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
       "id": "070c40215df92ef38a2e9be5155fdd80c9226670",
-      "title": "Thousands protest against Trump's second UK state visit",
+      "title": "Thousands gather in London to protest against visit",
       "url": "https://www.bbc.com/news/articles/cj9zve281k3o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-17T16:12:18.000Z",
+      "published": "2025-09-17T16:34:36.000Z",
       "summary_90w": "",
       "raw": "A coalition of more than 50 groups have organised a march in central London against the visit.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "81436abb1c6c1c0895e0bc40fab26500ed1be0d0",
+      "title": "Tariffs kill the Starling Home Hub, Google Nest’s best bridge to Apple Home",
+      "url": "https://www.theverge.com/news/780013/starling-home-hub-discontinued-google-nest-apple-home-bridge",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-17T16:24:18.000Z",
+      "summary_90w": "",
+      "raw": "The makers of the Starling Home Hub say they have discontinued the popular device. | Image: Starling\t\n\nI have bad news for ecosystem straddlers who use Google Nest products in their smart homes but rely on iPhones and Apple Home for control: the much-loved Starling Home Hub has been discontinued. \nIn a message on its website, Starling said it can no longer manufacture the hub due to “rapidly rising costs of doing business for small US-based product companies like us (most significantly, tariffs the US government charges us to obtain the components we need to build our product).”\nThe Starling Home Hub launched in 2019. At $99, it was billed as an independent bridge that let you control and automate Nest devices — including thermostats and cameras — in the Apple Home app and with Siri. It also supported local streaming for cameras, improving latency.\nGoogle’s Nest devices have never had direct integration with Apple’s HomeKit platform. While Matter adoption has helped — newer Nest thermostats now work in Apple Home — older models and all cameras still remain outside Apple’s ecosystem.\nFor many users, the Starling Home Hub filled that gap as a more focused, plug-and-play option than setting up a Homebridge server. It earned a reputation as both reliable and indispensable. Now it’s gone.  \nIf you already own one, you’re safe for the time being. Starling says it will continue to provide tech support and roll out security and bug fix updates, and hopes to have enough stock on hand to honor warranties. It’s unclear what’s next for the company, which to date has only produced this one device. The Verge has reached out for comment.\nIn terms of alternatives, the 2020 Google Nest Thermostat and the fourth-generation Nest Learning Thermostat both support Matter, allowing some control in the Apple Home app. Camera support for Matter is slated to arrive later this year, and with Google rumored to be launching new Nest cams next month, that may provide a path to streaming them in Apple Home. But even if Google adds Matter support to its new cameras and doorbell, we don’t know if it will extend that to existing devices.\nFor now, the hub is gone — and so is a simple way to bring Google Nest products into Apple’s smart home ecosystem.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "337740fbbc40f90f1ef677435953162cc83fd0c9",
+      "title": "Israel’s culture minister threatens national film awards after Palestinian story takes top prize",
+      "url": "https://www.theguardian.com/film/2025/sep/17/israels-culture-minister-threatens-national-film-awards-after-palestinian-story-takes-top-prize",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-17T16:20:19.000Z",
+      "summary_90w": "",
+      "raw": "Miki Zohar says he will cancel funding for the Ophir awards after The Sea, about a 12-year-old Palestinian boy who is denied entry to Tel Aviv, wins best picture\nIsrael’s culture minister, Miki Zohar, has announced that funding for the Ophirs, the country’s national film awards, would be cancelled after The Sea, a film about a 12-year-old Palestinian boy, won the best feature film prize.\nIn a statement on X, translated by Israeli news media, Zohar said: “There is no greater slap in the face of Israeli citizens than the embarrassing and detached annual Ophir awards ceremony. Starting with the 2026 budget, this pathetic ceremony will no longer be funded by taxpayers’ money. Under my watch, Israeli citizens will not pay from their pockets for a ceremony that spits in the faces of our heroic soldiers.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "263e597b397a6395b6e68d20fd063e0a1e5e033c",
+      "title": "Scotland's not proven verdict to be scrapped as MSPs back reforms",
+      "url": "https://www.bbc.com/news/articles/cy8rndyyp7vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-17T16:19:49.000Z",
+      "summary_90w": "",
+      "raw": "The verdict has been used in criminal trials for hundreds of years but campaigners had called for it to be abolished.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c20334a4046cd566363ec8bd46520f0bfda45dfa",
+      "title": "Israeli minister attacks EU’s proposed ‘morally, politically distorted’ sanctions – as it happened",
+      "url": "https://www.theguardian.com/world/live/2025/sep/17/germany-friedrich-merz-bundestag-afd-ukraine-russia-finland-latvia-europe-news-live-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-17T16:11:58.000Z",
+      "summary_90w": "",
+      "raw": "Gideon Saar warns any action against his country ‘will receive an appropriate response’. This live blog is closed\nNordic correspondent\nDenmark is for the first time to buy long-range precision weapons such as missiles and drones, Mette Frederiksen has abruptly announced, as she warned “Russia is testing us”.\nThere is no doubt that Russia will be a threat to Denmark and Europe for many years to come.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0a590a97c6e9f5ed679e048b15b33b134c546162",
+      "title": "UN warns of ‘grave’ concerns for fuel and food in famine-hit northern Gaza – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/17/israel-gaza-offensive-middle-east-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-17T16:11:25.000Z",
+      "summary_90w": "",
+      "raw": "Food and supplies running out in northern Gaza after Israel closed only crossing, UN says\nThe Israeli army said it has struck more than 150 targets in Gaza City since launching a major ground offensive on the Gaza Strip’s main urban hub early on Tuesday.\n“Over the past two days, the [Israeli air force] and artillery corps troops struck over 150 terror targets throughout Gaza City in support of the manoeuvring troops in the area,” the military said in a statement issued on Wednesday, reports Agence France-Presse (AFP).\nNo one can fail to be distressed by the devastating impact the war has had on the children of Gaza, and I cannot imagine the fear and anguish their families have endured. It is a soul-destroying situation that compels us to act.\nEvery child deserves the chance to heal, to play, to simply be able to dream again. These young patients have witnessed horrors no child should ever see, but this marks the start of their journey towards recovery.\nIn Gaza, where the healthcare system has been decimated and hospitals are no longer functioning, there are severely ill children unable to get the medical care they need to survive.\nAs we welcome the first group of children to the UK for urgent treatment, their arrival reflects our determined commitment to humanitarian action and the power of international cooperation.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -49,7 +127,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-17T16:06:04.000Z",
       "summary_90w": "",
-      "raw": "Two army divisions work their way towards centre of Gaza City as further Israeli airstrikes destroy buildings \n\nMiddle East crisis – live updates\n\nIsraeli troops pressed ahead with a ground offensive into Gaza City on Wednesday, making further efforts to force more people to flee their homes and travel to overcrowded and unsafe areas in the south of the devastated territory.\nThe Israel Defense Forces (IDF) said on Wednesday they had carried out 150 air and artillery strikes ahead of the ground operation that began early on Tuesday morning.\n Continue reading...",
+      "raw": "Two army divisions work their way towards centre of Gaza City as further Israeli airstrikes destroy buildings\nIsraeli troops pressed ahead with a ground offensive into Gaza City on Wednesday, making further efforts to force more people to flee their homes and travel to overcrowded and unsafe areas in the south of the devastated territory.\nThe Israel Defense Forces (IDF) said on Wednesday they had carried out 150 air and artillery strikes ahead of the ground operation that began early on Tuesday morning.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -133,21 +211,8 @@
       ]
     },
     {
-      "id": "263e597b397a6395b6e68d20fd063e0a1e5e033c",
-      "title": "Scotland's not proven verdict to be scrapped as MSPs back reforms",
-      "url": "https://www.bbc.com/news/articles/cy8rndyyp7vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-17T15:57:33.000Z",
-      "summary_90w": "",
-      "raw": "The verdict has been used in criminal trials for hundreds of years but campaigners had called for it to be abolished.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "cf5ce48046e3ccd0ff423bfc711816bc9a3371a2",
-      "title": "Ousted CDC director testifies on why she was fired",
+      "title": "Ousted CDC director testifies she was fired for resisting pressure from RFK Jr.",
       "url": "https://www.npr.org/sections/shots-health-news/2025/09/17/nx-s1-5544143/cdc-director-susan-monarez-testimony-rfk",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
@@ -167,6 +232,19 @@
       "published": "2025-09-17T15:55:43.000Z",
       "summary_90w": "",
       "raw": "Israel says its aim is to defeat up to 3,000 Hamas fighters who remain there, but the offensive has drawn international condemnation.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "18f8a64f577c0e216a6eeed8f4c6de747fd7ae57",
+      "title": "Met using 'Al Capone approach' to root out misconduct in force",
+      "url": "https://www.bbc.com/news/articles/cg42rv1q624o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-17T15:44:43.000Z",
+      "summary_90w": "",
+      "raw": "The London force says it has removed more than 1,400 officers and staff from its ranks in three years.",
       "topics": [
         "World"
       ]
@@ -193,32 +271,6 @@
       "published": "2025-09-17T15:43:16.000Z",
       "summary_90w": "",
       "raw": "Trump on Monday said he planned to send National Guard troops to Memphis. The news gives fresh relevance to NPR's recent interview with Illinois Gov. JB Pritzker, who declined to ask for the military.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c20334a4046cd566363ec8bd46520f0bfda45dfa",
-      "title": "Israeli minister attacks EU’s proposed ‘morally, politically distorted’ sanctions – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/17/germany-friedrich-merz-bundestag-afd-ukraine-russia-finland-latvia-europe-news-live-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-17T15:41:56.000Z",
-      "summary_90w": "",
-      "raw": "Gideon Saar warns any action against his country ‘will receive an appropriate response’\nNordic correspondent\nDenmark is for the first time to buy long-range precision weapons such as missiles and drones, Mette Frederiksen has abruptly announced, as she warned “Russia is testing us”.\nThere is no doubt that Russia will be a threat to Denmark and Europe for many years to come.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0a590a97c6e9f5ed679e048b15b33b134c546162",
-      "title": "UN warns of ‘grave’ concerns for fuel and food in famine-hit northern Gaza – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/17/israel-gaza-offensive-middle-east-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-17T15:38:10.000Z",
-      "summary_90w": "",
-      "raw": "Food and supplies running out in northern Gaza after Israel closed only crossing, UN says\nThe Israeli army said it has struck more than 150 targets in Gaza City since launching a major ground offensive on the Gaza Strip’s main urban hub early on Tuesday.\n“Over the past two days, the [Israeli air force] and artillery corps troops struck over 150 terror targets throughout Gaza City in support of the manoeuvring troops in the area,” the military said in a statement issued on Wednesday, reports Agence France-Presse (AFP).\nNo one can fail to be distressed by the devastating impact the war has had on the children of Gaza, and I cannot imagine the fear and anguish their families have endured. It is a soul-destroying situation that compels us to act.\nEvery child deserves the chance to heal, to play, to simply be able to dream again. These young patients have witnessed horrors no child should ever see, but this marks the start of their journey towards recovery.\nIn Gaza, where the healthcare system has been decimated and hospitals are no longer functioning, there are severely ill children unable to get the medical care they need to survive.\nAs we welcome the first group of children to the UK for urgent treatment, their arrival reflects our determined commitment to humanitarian action and the power of international cooperation.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -303,7 +355,7 @@
     },
     {
       "id": "9603a052d7785cca0c064f9d877625fe0d0b2f1b",
-      "title": "In pictures: Trump and Melania meet royals at Windsor",
+      "title": "In pictures: All the best images from Windsor Castle",
       "url": "https://www.bbc.com/news/articles/c4gqd70v496o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -458,19 +510,6 @@
       ]
     },
     {
-      "id": "f8123828af0662e7a1876a101ed7301f4a2084e7",
-      "title": "Tesla agrees to settle another wrongful death lawsuit involving Autopilot",
-      "url": "https://www.theverge.com/news/779850/tesla-settle-wrongful-death-autopilot-maldonado",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-17T14:49:25.000Z",
-      "summary_90w": "",
-      "raw": "Tesla has agreed to settle a wrongful death lawsuit stemming from a fatal crash in 2019. It’s the latest case to involve Autopilot, Tesla’s advanced driver assist system that the company claims will serve as the foundation for its future in self-driving cars and robotics. \nThe case centers around the death of 15-year-old Jovani Maldonado, who was riding in a truck with his father in California when they were struck by the driver of a Tesla Model 3 traveling at over 60 mph. The driver was using Autopilot, Tesla’s driver assist system that purports to control braking and steering on highways. According to a recording of the crash reviewed by The New York Times, the driver did not slow down until a fraction of a second before impact. \nIn their lawsuit, the Maldonado family asserted that Autopilot is defective and helped contribute to the crash. Their complaint names both Tesla and the driver of the Model 3, Romeo Yalung, as defendants. Tesla has long argued that sole responsibility lies with the driver, not Autopilot, to slow a vehicle down. \nBut a verdict in Florida last month may have pushed Tesla to settle this lawsuit quicker than usual. In that trial, a jury found the company partly responsible for a crash that killed 22-year-old Naibel Benavides in Florida in 2019. She was also struck by a Tesla driver who was using Autopilot. Tesla was ordered to pay $243 million in punitive and compensatory damages to the Benavides family, a decision that the company has since appealed. \nBrett Schreiber, the lawyer who handled the Benavides trial, is also representing the Maldonado family. In an interview with The Verge last month, he called the Maldonado case “round two,” vowing to use the same argument about Tesla’s defective driver assist system that he used to win the Benavides trial. \nThat case is now likely to be settled for an undisclosed sum. Through a spokesperson, Schreiber declined to comment on the settlement.  The case was set to go to trial in the Alameda State Superior Court by the end of the year. In a new filing, Tesla and the plaintiffs have requested that the court approve a mutually agreed upon settlement.\nSince most wrongful death lawsuits reach a settlement or are dismissed, the Benavides lawsuit was seen as a major public test of Tesla’s safety record. The verdict could open the floodgates to others who have been injured or killed in crashes involving Tesla’s driver assist products. There are several more lawsuits against Tesla still pending. Darel Kyle, 55, who suffered serious spinal injuries when a Tesla driver using Autopilot rear-ended the van he was driving, filed a lawsuit in California in 2021.\nAs of August 4th, nearly 60 people have been killed in crashes involving Tesla Autopilot and Full Self-Driving, according to a website that tracks these fatal crashes, pulling data from a federal repository.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "9560d1aeb7f59c8e8c4297248b64e30d8761e9c5",
       "title": "Irish MP will not be expelled for wearing blackface, say Social Democrats",
       "url": "https://www.theguardian.com/world/2025/sep/17/irish-td-will-not-be-expelled-for-wearing-blackface-say-social-democrats",
@@ -530,7 +569,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-17T14:06:49.000Z",
       "summary_90w": "",
-      "raw": "EU executive also seeks sanctions on two Israeli ministers, but may struggle to secure majority approval required \n\nMiddle East crisis – live updates\n\nEurope live – latest updates\n\nThe EU executive has called for a suspension of free trade with Israel and sanctions on two far-right Israeli ministers in response to the humanitarian crisis in Gaza.\nUrsula von der Leyen had already floated the proposal to suspend the trade parts of the EU-Israel association agreement last week as the European Commission faced intense pressure for greater action amid criticism that it was not using its economic leverage to influence the Israeli government.\n Continue reading...",
+      "raw": "EU executive also seeks sanctions on two Israeli ministers, but may struggle to secure majority approval required\nThe EU executive has called for a suspension of free trade with Israel and sanctions on two far-right Israeli ministers in response to the humanitarian crisis in Gaza.\nUrsula von der Leyen had already floated the proposal to suspend the trade parts of the EU-Israel association agreement last week as the European Commission faced intense pressure for greater action amid criticism that it was not using its economic leverage to influence the Israeli government.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1017,19 +1056,6 @@
       ]
     },
     {
-      "id": "9050846a1413c9abc6c5b47005e80b265f990d21",
-      "title": "'I created a successful business thanks to a disability grant - but cuts will sink it'",
-      "url": "https://www.bbc.com/news/articles/clyl90ry2j7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-17T04:01:19.000Z",
-      "summary_90w": "",
-      "raw": "Many disabled workers face the threat of losing their jobs or businesses because of long waits for government grants.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "beef6fa0eb6ca20ac0734bafeefd2cc117576db0",
       "title": "'The hungry can't stay silent' - behind deadly protests in oil-rich Angola",
       "url": "https://www.bbc.com/news/articles/c8ex6k88yy9o?at_medium=RSS&at_campaign=rss",
@@ -1199,19 +1225,6 @@
       ]
     },
     {
-      "id": "9ae56f27aa39eeff582d611bfee48c70732d288f",
-      "title": "America's unofficial party house where Trump spent the night",
-      "url": "https://www.bbc.com/news/articles/cn0x2vxl7gjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-16T21:06:04.000Z",
-      "summary_90w": "",
-      "raw": "The ambassador's residence in central London has a colourful history and may be on Trump's itinerary.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "4eb6f79e5d26a4e871ae3209f230cb1776100d4a",
       "title": "Trump extends TikTok reprieve as deal nears",
       "url": "https://www.npr.org/2025/09/16/nx-s1-5543413/tiktok-trump-ban-china",
@@ -1329,19 +1342,6 @@
       ]
     },
     {
-      "id": "8d44a08c7272243f10b421481cf31784e25949f4",
-      "title": "Silicon Valley bets big on ‘environments’ to train AI agents",
-      "url": "https://techcrunch.com/2025/09/16/silicon-valley-bets-big-on-environments-to-train-ai-agents/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-16T19:00:48.000Z",
-      "summary_90w": "",
-      "raw": "A wave of startups are creating RL environments to help AI labs train agents. It might be Silicon Valley’s next craze in the making.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "d70f31bf5a09693edebf01b9acafcdcfff7f40ad",
       "title": "Israel Committing Genocide in Gaza Says UN Commission",
       "url": "https://www.bbc.co.uk/sounds/play/p0m36nph?at_medium=RSS&at_campaign=rss",
@@ -1350,19 +1350,6 @@
       "published": "2025-09-16T18:26:00.000Z",
       "summary_90w": "",
       "raw": "Israel rejects UN Commission finding that it is committing genocide in Gaza.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fc7fc0e97e2ed12b20cdd947e7c960badb2b3e9f",
-      "title": "Israel launches ground offensive deep inside Gaza City",
-      "url": "https://www.theguardian.com/world/2025/sep/16/israel-launches-ground-offensive-deep-inside-gaza-city",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-16T18:11:59.000Z",
-      "summary_90w": "",
-      "raw": "IDF says advance aims to ‘dismantle Hamas’s grip’ as UN report says Israel has committed genocide in territory\nIsrael unleashed its long-threatened ground offensive in Gaza City on Tuesday, sending tanks and remote-controlled armoured cars packed with explosives into its streets, in defiance of international criticism and the findings of a UN commission that it was committing genocide in the Palestinian territory.\n“Gaza is burning. The IDF is striking terror infrastructure with an iron fist,” Israel’s defence minister, Israel Katz, wrote on X as the attack was launched in the early hours of the morning, adding: “We will not relent until the mission is completed.”\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1599,6 +1586,19 @@
       "raw": "A federal appeals court blocked President Trump from firing Federal Reserve governor Lisa Cook, just ahead of a key vote on interest rates.",
       "topics": [
         "Business"
+      ]
+    },
+    {
+      "id": "5e91d4786b9cecab05b82f0a0879809377cbcf8b",
+      "title": "Americanswers…on 5 Live! Who is Tyler Robinson, Charlie Kirk’s suspected killer?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0m30j0g?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-15T18:40:00.000Z",
+      "summary_90w": "",
+      "raw": "Plus, behind the scenes of Trump’s last state visit and what might happen this week?",
+      "topics": [
+        "World"
       ]
     },
     {
