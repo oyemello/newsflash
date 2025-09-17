@@ -1,7 +1,33 @@
 {
-  "version": "1758147250224",
-  "generatedAt": "2025-09-17T22:14:10.224Z",
+  "version": "1758148260724",
+  "generatedAt": "2025-09-17T22:31:00.724Z",
   "items": [
+    {
+      "id": "1c87bb8ca709ce8fbe89641a9170183f9da906ed",
+      "title": "Melania’s hat, a yellow dress and Kate’s golden gown - standout state visit looks",
+      "url": "https://www.bbc.com/news/articles/cy857ddpjp4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-17T22:17:34.000Z",
+      "summary_90w": "",
+      "raw": "State visits are often seen as an opportunity to exercise “sartorial diplomacy” on the world stage.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a3e2223a41d8afd889e0d0df732cdffa3f147d92",
+      "title": "Australia news live: Sussan Ley ‘deeply sceptical’ about Labor’s upcoming emissions target but declines to name own figure",
+      "url": "https://www.theguardian.com/australia-news/live/2025/sep/18/australia-news-live-santos-takeover-2035-emissions-target-chris-bowen-anthony-albanese-sussan-ley-environment-climate-crisis-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-17T22:09:43.000Z",
+      "summary_90w": "",
+      "raw": "Opposition leader says she wants to know the ‘cost’ and ‘credibility’ behind emissions reduction targets. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nMichaelia Cash disputes UN body findings and says genocide not ‘simply about loss of life in war’\nMichaelia Cash, the shadow foreign affairs minister, has discounted findings from a UN commission this week that Israel is committing genocide in Gaza, saying genocide was not “simply about loss of life in war”.\nWell, genocide, Sally, as you know, and I’m a lawyer, has a very specific meaning in international law.\nIt’s not simply about loss of life in war, however, tragic. It requires a deliberate intent to destroy a people in whole or in part. Now, Israel has made it very clear that its actions are about defending its citizens from Hamas terrorism, not about destroying the Palestinian people. …\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "68ec46c261eea390ae0457d36bb2d50e4c7fb2f4",
       "title": "Microsoft’s new Xbox mode on Windows has leaked for any handheld",
@@ -10,7 +36,7 @@
       "source_name": "The Verge",
       "published": "2025-09-17T22:06:08.000Z",
       "summary_90w": "",
-      "raw": "Microsoft is getting ready to launch its Xbox full-screen experience on the new Xbox Ally devices next month, but it looks like you won’t need new hardware to get it. Windows enthusiasts have discovered a way to enable this new Xbox mode early in Windows 11, thanks to the latest 25H2 update to the operating system.\nThe method, which involves installing a Release Preview version of Windows 11 and lots of tweaks, works on a variety of handheld gaming PCs — including MSI’s Claw devices and Asus’ ROG Ally range. I’ve been trying it out on the original ROG Ally today, and it allows the device to ignore Asus’ own software in favor of Microsoft’s Xbox app at boot.\nThe new Xbox full-screen experience doesn’t load the full Windows desktop or a bunch of background processes, freeing up more memory for games. It’s essentially not loading the Explorer shell and saving around 2GB of memory by suppressing all the unnecessary parts of a typical Windows 11 installation. \nYou launch straight into the Xbox PC app instead, which includes all of your PC games from the Microsoft Store, Battle.net, Steam, and other storefronts. There’s a Game Bar for navigating around, and a new task view that’s a lot more handheld-friendly.\nYou can also still swap into a Windows desktop mode, or access Windows apps and games directly in this full-screen Xbox mode. Microsoft warns that you’re exiting to the Windows desktop and that you should use touch or a mouse and keyboard “for the best experience,” and it’s the exact same Windows experience that exists on multiple devices right now.\nIf you want to try this out for yourself, it’s a relatively easy process to get going. But be warned, fiddling with registry settings or the Windows Feature Store (known as Velocity) could result in system instability. If you’re willing to risk some issues that might need rolling back or require a reinstall of Windows, there’s a handy guide on Reddit for all the settings required.",
+      "raw": "Microsoft is getting ready to launch its Xbox full-screen experience on the new Xbox Ally devices next month, but it looks like you won’t need new hardware to get it. Windows enthusiasts have discovered a way to enable this new Xbox mode early in Windows 11, thanks to the latest 25H2 update to the operating system.\nThe method, which involves installing a Release Preview version of Windows 11 and lots of tweaks, works on a variety of handheld gaming PCs — including MSI’s Claw devices and Asus’ ROG Ally range. I’ve been trying it out on the original ROG Ally today, and it allows the device to ignore Asus’ own software in favor of Microsoft’s Xbox app at boot.\n\n\nMicrosoft’s new Xbox mode on Windows has leaked for any handheld. Windows enthusiasts have found a way to get the new Xbox full-screen experience running on Windows 11. Guide here: https://t.co/KvXqjQMr6A pic.twitter.com/w7iEbAtLAP\n— Tom Warren (@tomwarren) September 17, 2025\n\n\nThe new Xbox full-screen experience doesn’t load the full Windows desktop or a bunch of background processes, freeing up more memory for games. It’s essentially not loading the Explorer shell and saving around 2GB of memory by suppressing all the unnecessary parts of a typical Windows 11 installation. \nYou launch straight into the Xbox PC app instead, which includes all of your PC games from the Microsoft Store, Battle.net, Steam, and other storefronts. There’s a Game Bar for navigating around, and a new task view that’s a lot more handheld-friendly.\nYou can also still swap into a Windows desktop mode, or access Windows apps and games directly in this full-screen Xbox mode. Microsoft warns that you’re exiting to the Windows desktop and that you should use touch or a mouse and keyboard “for the best experience,” and it’s the exact same Windows experience that exists on multiple devices right now.\nIf you want to try this out for yourself, it’s a relatively easy process to get going. But be warned, fiddling with registry settings or the Windows Feature Store (known as Velocity) could result in system instability. If you’re willing to risk some issues that might need rolling back or require a reinstall of Windows, there’s a handy guide on Reddit for all the settings required.",
       "topics": [
         "Technology"
       ]
@@ -29,19 +55,6 @@
       ]
     },
     {
-      "id": "a3e2223a41d8afd889e0d0df732cdffa3f147d92",
-      "title": "Australia news live: murder charge over 2002 death after bones found in back yard; $30bn Santos takeover collapses",
-      "url": "https://www.theguardian.com/australia-news/live/2025/sep/18/australia-news-live-santos-takeover-2035-emissions-target-chris-bowen-anthony-albanese-sussan-ley-environment-climate-crisis-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-17T21:52:12.000Z",
-      "summary_90w": "",
-      "raw": "Police find suspected human remains in a house in Port Lincoln. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nLey says her economic roadmap is about ‘fairness’\nLey said her economic roadmap announced yesterday, which would rein in some welfare payments and undertake an audit of government spending where “every dollar would be tested”, is based on fairness.\nThis is about fairness. But importantly, it’s about guaranteeing essential services for Australians. Because if we don’t manage the budget properly, then those essential services, including the safety net for Australians, who need help and who should expect help, are at risk. …\nIf universal childcare means that someone with a billion-dollar income receives the same amount of support from the government, as someone who is struggling in the suburbs, and only just holding it together, well that’s not fair.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f5379f129733c7bf4a4c8bf78e845cfcf2932fed",
       "title": "Irregular raises $80 million to secure frontier AI models",
       "url": "https://techcrunch.com/2025/09/17/irregular-raises-80-million-to-secure-frontier-ai-models/",
@@ -52,6 +65,19 @@
       "raw": "Irregular, the AI security startup, now has a valuation of $450 million, a source  close to the deal told TechCrunch.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "0caa04acf690949fe5cfd1f5b89f59816e36dac2",
+      "title": "Five officers shot in Pennsylvania, with three in grave condition",
+      "url": "https://www.bbc.com/news/articles/cvg4n4zx48no?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-17T21:50:21.000Z",
+      "summary_90w": "",
+      "raw": "Officials said the suspect has been \"neutralised\" and there is no further threat to the public.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -141,19 +167,6 @@
       "published": "2025-09-17T21:01:56.000Z",
       "summary_90w": "",
       "raw": "In an exclusive interview, Brazil's president says Trump is \"not emperor of the world\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1c87bb8ca709ce8fbe89641a9170183f9da906ed",
-      "title": "Melania’s hat, a yellow dress and Kate’s golden gown - standout state visit looks",
-      "url": "https://www.bbc.com/news/articles/cy857ddpjp4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-17T20:59:00.000Z",
-      "summary_90w": "",
-      "raw": "State visits are often seen as an opportunity to exercise “sartorial diplomacy” on the world stage.",
       "topics": [
         "World"
       ]
@@ -585,19 +598,6 @@
       "raw": "The company owned by Tata Motors is estimated to be losing millions of pounds a week due to the shutdown.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "263e597b397a6395b6e68d20fd063e0a1e5e033c",
-      "title": "Scotland's not proven verdict to be scrapped as MSPs back reforms",
-      "url": "https://www.bbc.com/news/articles/cy8rndyyp7vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-17T16:41:11.000Z",
-      "summary_90w": "",
-      "raw": "The verdict has been used in criminal trials for hundreds of years but campaigners had called for it to be abolished.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1298,19 +1298,6 @@
       "published": "2025-09-17T00:56:27.000Z",
       "summary_90w": "",
       "raw": "The BBC's Nada Tawfik reports from Utah, where Tyler Robinson appeared in court as prosecutors read the charges against him.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c6de88a268d71f14fa986a6b2fe127e92160da6e",
-      "title": "Rescuing my poisoned cat cost £3,000 - here's how to spot fake medicine",
-      "url": "https://www.bbc.com/news/articles/cy9n0y34z14o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-17T00:34:51.000Z",
-      "summary_90w": "",
-      "raw": "Pet owners are being urged to check all medicines carefully before using them.",
       "topics": [
         "World"
       ]
