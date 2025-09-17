@@ -1,6 +1,6 @@
 {
-  "version": "1758138721960",
-  "generatedAt": "2025-09-17T19:52:01.960Z",
+  "version": "1758140148603",
+  "generatedAt": "2025-09-17T20:15:48.603Z",
   "items": [
     {
       "id": "1c87bb8ca709ce8fbe89641a9170183f9da906ed",
@@ -8,11 +8,63 @@
       "url": "https://www.bbc.com/news/articles/cy857ddpjp4o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-17T19:41:36.000Z",
+      "published": "2025-09-17T20:09:54.000Z",
       "summary_90w": "",
       "raw": "State visits are often seen as an opportunity to exercise “sartorial diplomacy” on the world stage.",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "7dd51c82124e62267cd1f1f4d87e55f14e19f6cb",
+      "title": "Is GB News the Fox News of the U.K.?",
+      "url": "https://www.npr.org/2025/09/17/nx-s1-5542217/is-gb-news-the-fox-news-of-the-u-k",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2025-09-17T20:04:45.000Z",
+      "summary_90w": "",
+      "raw": "Is GB News the Fox News for the U.K.?  NPR's Mary Louise Kelly profiles the Great Britain's upstart news channel.",
+      "topics": [
+        "Business"
+      ]
+    },
+    {
+      "id": "f18e986d01426f67faabbf80e59e658c859bfc95",
+      "title": "Microsoft Paint is getting its own Photoshop-like project files",
+      "url": "https://www.theverge.com/news/780287/microsoft-paint-project-files-feature-photoshop-psd",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-17T20:01:16.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft has been steadily improving its Paint app for Windows 11 in recent years with a dark mode, transparency and layers, and even AI-powered image creation. Now, Microsoft is adding two new Photoshop-like features to Paint.\nYou’ll soon be able to save your Paint creations as a project file, much like a Photoshop Document (.PSD). The Paint project files are currently being tested with Windows Insiders in the Dev and Canary Channels. “You can now save your creation as an editable Paint project file and seamlessly pick up where you left off,” explains Dave Grochocki, principal product manager lead for Microsoft’s Windows inbox apps.\nPaint files will be stored with, you guessed it, a .paint file extension. Paint files will store your layers inside the file, too. “When you’re ready to return, simply open the file to launch it in Paint, right where you left off,” says Grochocki. \nMicrosoft is also adding opacity sliders to adjust the transparency of the pencil and brush tools in Paint. “To get started, select either tool and use the slider on the left side of the canvas to adjust the opacity to your desired level,” says Grochocki. \nIf you’re a fan of the Snipping Tool in Windows 11, Microsoft is also adding a quick markup feature that makes it easier to annotate screenshots. There’s a highlighter, pen, and eraser tool in the markup toolbar, as well as the ability to easily re-crop an image.\nFinally, Microsoft is also adding AI-powered write, summarization, and rewrite as a free feature inside Notepad for Copilot Plus PC users. You won’t need a Microsoft 365 subscription to use this, but Grochocki says you can “seamlessly switch between local and cloud models based on your needs.” Microsoft is using the local models on Copilot Plus PCs to power this Notepad feature.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c4dc00cdf0e79fce90e45b0fbc7e7cc574551595",
+      "title": "Kleiner Perkins-backed voice AI startup Keplar aims to replace traditional market research",
+      "url": "https://techcrunch.com/2025/09/17/kleiner-perkins-backed-voice-ai-startup-keplar-aims-to-replace-traditional-market-research/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-17T19:54:17.000Z",
+      "summary_90w": "",
+      "raw": "The two-year-old startup raised a $3.2 million seed round led by Kleiner Perkins.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "15076a1989cf6746b0a16cde0fb6174d1f02d12e",
+      "title": "Meet Macroscope: an AI tool for understanding your code base, fixing bugs",
+      "url": "https://techcrunch.com/2025/09/17/meet-macroscope-an-ai-tool-for-understanding-your-code-base-fixing-bugs/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-17T19:52:16.000Z",
+      "summary_90w": "",
+      "raw": "On Wednesday, former Twitter head of product Kayvon Beykpour announced the launch of Macroscope, an AI system aimed at developers and product leaders that summarizes updates to a codebase and catches bugs, among other things.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -99,7 +151,7 @@
       "url": "https://www.theguardian.com/uk-news/2025/sep/17/uk-to-explore-extraditing-madeleine-mccann-suspect-christian-bruckner",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-09-17T18:44:45.000Z",
+      "published": "2025-09-17T18:44:44.000Z",
       "summary_90w": "",
       "raw": "Met chief Mark Rowley says many questions remain and detectives are liaising with German and Portuguese police\nMark Rowley has said the British police investigation into Madeleine McCann will explore extraditing the German national Christian Brückner to the UK to stand trial over the three-year-old’s disappearance.\nBrückner was released from a German prison on Wednesday after serving a seven-year jail term for the rape of an elderly woman in Praia da Luz, Portugal, in 2005, two years before Madeleine disappeared while on holiday with her family in the same town.\n Continue reading...",
       "topics": [
@@ -484,19 +536,6 @@
       ]
     },
     {
-      "id": "a3bfe550df75cec093f59d71d9519c0b77688dac",
-      "title": "Former World of Warcraft lead designer finally shows off new multiplayer game",
-      "url": "https://www.theverge.com/news/779968/bonfire-studios-arkheron-trailer-alpha-date",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-17T16:01:50.000Z",
-      "summary_90w": "",
-      "raw": "It’s been almost a decade since former Blizzard chief creative officer Rob Pardo launched a new studio called Bonfire Games — and now it’s finally showing off its very first game.\nIt’s called Arkheron, and looks a bit like a multiplayer take on Diablo. In each match, 15 teams made up of three players compete to ascend a tower, and they can collect and loot items that give them special powers. It seems the idea is to build your load-out and strategy on the fly in each match.\nThere’s no word yet on when the game will launch, but an open alpha playtest is happening this weekend, from September 19th through the 21st. You can sign up to check it out on Steam right now.\nAs for why the game took so long following the formation of the studio, Pardo wrote a lengthy blog post explaining the multiple rounds of iteration and revision the game has gone through. The combat, for instance, was redesigned four different times before they got things right. It sounds a lot like the way Blizzard used to work. As Pardo writes:\n As we playtested Arkheron internally, something rare happened. The team fell in love with the game. That might sound obvious, but for experienced developers it isn’t. Many of us have been through projects where the work is meaningful, but the daily playtests feel like a chore. With Arkheron it was different. People didn’t want to miss a session. They got frustrated if servers went down on a holiday. They grumbled when a playtest was canceled. \nHe notes that the alpha will be a little rough arounds the edges, but that that’s all part of the process. “Playtesting is how we make Arkheron better,” Pardo wrote. “It’s how we’ll continue to play the game to make the game, listen to our community and let the fun guide us toward launch.”\nWhenever it does launch, the game will be coming to PC, Xbox, and PS5.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "49b2f92b31839efc32952481a218b025efa20554",
       "title": "Nvidia boss says UK will be 'AI superpower' as tech firms invest billions",
       "url": "https://www.bbc.com/news/articles/c7016ljre03o?at_medium=RSS&at_campaign=rss",
@@ -590,6 +629,19 @@
     {
       "id": "0c0869d7de46cc81e1332783a02f9f282d98fa96",
       "title": "AI can forecast your future health – just like the weather",
+      "url": "https://www.bbc.com/news/articles/cx2pj502ev6o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-17T15:19:58.000Z",
+      "summary_90w": "",
+      "raw": "An artificial intelligence model can predict the risk of more than 1,000 diseases, a team of scientists say.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0c0869d7de46cc81e1332783a02f9f282d98fa96",
+      "title": "AI can predict people's future health problems, scientists say",
       "url": "https://www.bbc.com/news/articles/cx2pj502ev6o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -836,9 +888,22 @@
     },
     {
       "id": "669ac1cd3d4779e76356f5e7001d277fe3bf6d2e",
-      "title": "Tests show Navalny was poisoned in jail, his widow says",
+      "title": "Navalny's widow says tests show he was poisoned in jail",
       "url": "https://www.bbc.com/news/articles/c5ye0x28vzqo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-17T12:49:38.000Z",
+      "summary_90w": "",
+      "raw": "Yulia Navalnaya is urging the two laboratories she says found her husband was poisoned to release their findings.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "669ac1cd3d4779e76356f5e7001d277fe3bf6d2e",
+      "title": "Tests show Navalny was poisoned in jail, his widow says",
+      "url": "https://www.bbc.com/news/articles/c5ye0x28vzqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-17T12:49:38.000Z",
       "summary_90w": "",
@@ -1251,19 +1316,6 @@
       ]
     },
     {
-      "id": "1a104faece4a8311dbf2cf1e5c3196ab75f0a8e3",
-      "title": "Al Gore on China’s climate rise: ‘I would not have seen this coming’",
-      "url": "https://techcrunch.com/2025/09/16/al-gore-on-chinas-climate-rise-i-would-not-have-seen-this-coming/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-16T23:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Al Gore and Lila Preston of Generation Investment Management talked with TechCrunch about recent headlines, including the tech industry's growing appetite for rare earth minerals, how the AI boom's demand for massive data centers could impact global energy consumption, and whether the space industry's rocket launches are truly a net positive.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "9c2c136f42b129463e77e7df888ee2279b4ab3e4",
       "title": "Politicians get rich while we suffer - so I helped bring down our government in 48 hours",
       "url": "https://www.bbc.com/news/articles/cvg9n760gddo?at_medium=RSS&at_campaign=rss",
@@ -1274,19 +1326,6 @@
       "raw": "Gen Z protesters in Nepal tell the BBC of their pride and heartbreak after last week's momentous protests.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "ba391f16c2d79a765b518a0dbe0ae9b0b2263826",
-      "title": "Meta Connect 2025: What to expect and how to watch",
-      "url": "https://techcrunch.com/2025/09/16/meta-connect-2025-what-to-expect-and-how-to-watch/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-16T21:55:23.000Z",
-      "summary_90w": "",
-      "raw": "Meta is expected to unveil new versions of its AI-powered smart glasses, as well as a gesture-indicating wristband.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1740,19 +1779,6 @@
       "published": "2025-09-15T09:00:00.000Z",
       "summary_90w": "",
       "raw": "Prominent Democratic lawmakers and influencers are encouraging their fellow Democrats to embrace social media and online video to reach voters or risk being left behind.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
-      "id": "bf87dacabbd7c88b7a4526ff5ddb23e836521f3c",
-      "title": "Trump administration launches trial program to fast-track electric air taxis",
-      "url": "https://www.npr.org/2025/09/13/nx-s1-5540722/faa-air-taxi-pilot-program",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-09-13T23:38:26.000Z",
-      "summary_90w": "",
-      "raw": "The FAA is seeking proposals for projects that will include piloted and unmanned operations with a focus on electric air taxis, also called an electric vertical takeoff and landing aircraft.",
       "topics": [
         "Business"
       ]
