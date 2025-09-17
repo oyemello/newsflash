@@ -1,7 +1,72 @@
 {
-  "version": "1758145892494",
-  "generatedAt": "2025-09-17T21:51:32.494Z",
+  "version": "1758147250224",
+  "generatedAt": "2025-09-17T22:14:10.224Z",
   "items": [
+    {
+      "id": "68ec46c261eea390ae0457d36bb2d50e4c7fb2f4",
+      "title": "Microsoft’s new Xbox mode on Windows has leaked for any handheld",
+      "url": "https://www.theverge.com/news/780388/microsoft-xbox-fullscreen-mode-windows-11-handheld-leak",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-17T22:06:08.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is getting ready to launch its Xbox full-screen experience on the new Xbox Ally devices next month, but it looks like you won’t need new hardware to get it. Windows enthusiasts have discovered a way to enable this new Xbox mode early in Windows 11, thanks to the latest 25H2 update to the operating system.\nThe method, which involves installing a Release Preview version of Windows 11 and lots of tweaks, works on a variety of handheld gaming PCs — including MSI’s Claw devices and Asus’ ROG Ally range. I’ve been trying it out on the original ROG Ally today, and it allows the device to ignore Asus’ own software in favor of Microsoft’s Xbox app at boot.\nThe new Xbox full-screen experience doesn’t load the full Windows desktop or a bunch of background processes, freeing up more memory for games. It’s essentially not loading the Explorer shell and saving around 2GB of memory by suppressing all the unnecessary parts of a typical Windows 11 installation. \nYou launch straight into the Xbox PC app instead, which includes all of your PC games from the Microsoft Store, Battle.net, Steam, and other storefronts. There’s a Game Bar for navigating around, and a new task view that’s a lot more handheld-friendly.\nYou can also still swap into a Windows desktop mode, or access Windows apps and games directly in this full-screen Xbox mode. Microsoft warns that you’re exiting to the Windows desktop and that you should use touch or a mouse and keyboard “for the best experience,” and it’s the exact same Windows experience that exists on multiple devices right now.\nIf you want to try this out for yourself, it’s a relatively easy process to get going. But be warned, fiddling with registry settings or the Windows Feature Store (known as Velocity) could result in system instability. If you’re willing to risk some issues that might need rolling back or require a reinstall of Windows, there’s a handy guide on Reddit for all the settings required.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8a37c924234f58658fee5ad5a0b6f7aca2df3994",
+      "title": "Watch: Pomp and protests on day one of Trump state visit",
+      "url": "https://www.bbc.com/news/videos/cd07v4g0yy3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-17T21:53:29.000Z",
+      "summary_90w": "",
+      "raw": "King Charles hosts Donald Trump at Windsor Castle on the first full day of his UK state visit.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a3e2223a41d8afd889e0d0df732cdffa3f147d92",
+      "title": "Australia news live: murder charge over 2002 death after bones found in back yard; $30bn Santos takeover collapses",
+      "url": "https://www.theguardian.com/australia-news/live/2025/sep/18/australia-news-live-santos-takeover-2035-emissions-target-chris-bowen-anthony-albanese-sussan-ley-environment-climate-crisis-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-17T21:52:12.000Z",
+      "summary_90w": "",
+      "raw": "Police find suspected human remains in a house in Port Lincoln. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nLey says her economic roadmap is about ‘fairness’\nLey said her economic roadmap announced yesterday, which would rein in some welfare payments and undertake an audit of government spending where “every dollar would be tested”, is based on fairness.\nThis is about fairness. But importantly, it’s about guaranteeing essential services for Australians. Because if we don’t manage the budget properly, then those essential services, including the safety net for Australians, who need help and who should expect help, are at risk. …\nIf universal childcare means that someone with a billion-dollar income receives the same amount of support from the government, as someone who is struggling in the suburbs, and only just holding it together, well that’s not fair.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f5379f129733c7bf4a4c8bf78e845cfcf2932fed",
+      "title": "Irregular raises $80 million to secure frontier AI models",
+      "url": "https://techcrunch.com/2025/09/17/irregular-raises-80-million-to-secure-frontier-ai-models/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-17T21:52:00.000Z",
+      "summary_90w": "",
+      "raw": "Irregular, the AI security startup, now has a valuation of $450 million, a source  close to the deal told TechCrunch.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ed820f59b8ea7b94e10639fbd36b5f989a064b96",
+      "title": "$30bn Santos takeover collapses after Abu Dhabi consortium reconsiders offer",
+      "url": "https://www.theguardian.com/australia-news/2025/sep/18/30bn-santos-takeover-collapses-after-abu-dhabi-consortium-reconsiders-offer",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-17T21:47:30.000Z",
+      "summary_90w": "",
+      "raw": "Withdrawal spares federal government from making high-stakes decision on whether to back the deal\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAn Abu Dhabi-led consortium has withdrawn its $30bn takeover bid for Australian oil giant Santos, sparing the federal government from making a high-stakes decision on whether to back the deal.\nXRG, the investment arm of the Abu Dhabi National Oil Company, said in a statement late on Wednesday that “a combination of factors” had affected its assessment, without elaborating.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "f6fac2cd5a5b6a37b1c4ba4097f7b0b7c90a4363",
       "title": "The ongoing U.S.-China trade war has complicated things for U.S. chip giant Nvidia",
@@ -24,19 +89,6 @@
       "published": "2025-09-17T21:35:32.000Z",
       "summary_90w": "",
       "raw": "At least two people were seriously injured in a shooting involving police in the southern part of Pennsylvania, not far from the Maryland border, and Gov. Josh Shapiro was rushing to the scene, officials said.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a3e2223a41d8afd889e0d0df732cdffa3f147d92",
-      "title": "Australia news live: murder charge over 2002 death after bones found in back yard; $30bn Santos takeover collapses",
-      "url": "https://www.theguardian.com/australia-news/live/2025/sep/18/australia-news-live-santos-takeover-2035-emissions-target-chris-bowen-anthony-albanese-sussan-ley-environment-climate-crisis-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-17T21:34:04.000Z",
-      "summary_90w": "",
-      "raw": "Police find suspected human remains in a house in Port Lincoln. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nShadow treasurer says Jim Chalmers has ‘no rules’ on government spending\nTed O’Brien, the shadow treasurer, said the Albanese government was spending as if there were no rules guarding the government purse strings, saying Sussan Ley’s economic roadmap she unveiled in a speech yesterday would do things far differently.\nGrowing the economic pie is absolutely critical but the other part is the government has to stop the spending spree. And this is probably the biggest criticism I have of the Albanese government’s economic management. They have increased spending. …\nThis is the problem because ever since the Hawke government, every treasurer has had to abide by rules. This treasurer Jim Chalmers has no rules, which is why spending just keeps on going.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -588,19 +640,6 @@
       ]
     },
     {
-      "id": "81436abb1c6c1c0895e0bc40fab26500ed1be0d0",
-      "title": "Tariffs kill the Starling Home Hub, Google Nest’s best bridge to Apple Home",
-      "url": "https://www.theverge.com/news/780013/starling-home-hub-discontinued-google-nest-apple-home-bridge",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-17T16:24:18.000Z",
-      "summary_90w": "",
-      "raw": "I have bad news for ecosystem straddlers who use Google Nest products in their smart homes but rely on iPhones and Apple Home for control: the much-loved Starling Home Hub has been discontinued. \nIn a message on its website, Starling said it can no longer manufacture the hub due to “rapidly rising costs of doing business for small US-based product companies like us (most significantly, tariffs the US government charges us to obtain the components we need to build our product).”\nThe Starling Home Hub launched in 2019. At $99, it was billed as an independent bridge that let you control and automate Nest devices — including thermostats and cameras — in the Apple Home app and with Siri. It also supported local streaming for cameras, improving latency.\nGoogle’s Nest devices have never had direct integration with Apple’s HomeKit platform. While Matter adoption has helped — newer Nest thermostats now work in Apple Home — older models and all cameras still remain outside Apple’s ecosystem.\nFor many users, the Starling Home Hub filled that gap as a more focused, plug-and-play option than setting up a Homebridge server. It earned a reputation as both reliable and indispensable. Now it’s gone.  \nIf you already own one, you’re safe for the time being. Starling says it will continue to provide tech support and roll out security and bug fix updates, and hopes to have enough stock on hand to honor warranties. It’s unclear what’s next for the company, which to date has only produced this one device. The Verge has reached out for comment.\nIn terms of alternatives, the 2020 Google Nest Thermostat and the fourth-generation Nest Learning Thermostat both support Matter, allowing some control in the Apple Home app. Camera support for Matter is slated to arrive later this year, and with Google rumored to be launching new Nest cams next month, that may provide a path to streaming them in Apple Home. But even if Google adds Matter support to its new cameras and doorbell, we don’t know if it will extend that to existing devices.\nFor now, the hub is gone — and so is a simple way to bring Google Nest products into Apple’s smart home ecosystem.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "337740fbbc40f90f1ef677435953162cc83fd0c9",
       "title": "Israel’s culture minister threatens national film awards after Palestinian story takes top prize",
       "url": "https://www.theguardian.com/film/2025/sep/17/israels-culture-minister-threatens-national-film-awards-after-palestinian-story-takes-top-prize",
@@ -812,7 +851,7 @@
       "id": "b9319e21a375fe1cf7b00b3bd246f21f8303bc37",
       "title": "EU proposes curbs on trade with Israel over Gaza war",
       "url": "https://www.bbc.com/news/articles/cvgr4nj7405o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-17T15:00:04.000Z",
       "summary_90w": "",
@@ -1147,19 +1186,6 @@
       ]
     },
     {
-      "id": "7c6bffa1c236cfb5a5f381f99e54414c134f310e",
-      "title": "Ben Roberts-Smith’s mother emails Coalition MPs saying Andrew Hastie ‘not fit’ to lead Liberals",
-      "url": "https://www.theguardian.com/australia-news/2025/sep/17/ben-roberts-smiths-mother-emailed-coalition-mps-objecting-to-andrew-hastie-ever-becoming-leader-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-17T08:12:55.000Z",
-      "summary_90w": "",
-      "raw": "Exclusive: Sue Roberts-Smith sends 39-page dossier to two dozen Liberal and National MPs after fresh speculation about Hastie’s possible leadership tilt\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe mother of disgraced former soldier Ben Roberts-Smith has launched an extraordinary character attack on Andrew Hastie, emailing Coalition MPs with accusations that the man who testified in her son’s defamation trial was “not fit” to lead the Liberal party.\nAn email was sent from Sue Roberts-Smith’s address to at least two dozen Liberal and National MPs containing a 39-page dossier about Hastie early on Wednesday.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "38056bd4d90f869606c627ea9136c71651370725",
       "title": "US tennis star sorry for 'offensive' comments on Chinese food",
       "url": "https://www.bbc.com/news/articles/cx270m57zm7o?at_medium=RSS&at_campaign=rss",
@@ -1170,19 +1196,6 @@
       "raw": "She described the turtle and frog dishes as \"crazy\" and \"wild\", causing a social media storm.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "fb94ee2d4c3a57e253a86cb042d8ad8d955ce6d7",
-      "title": "India’s Urban Company soars 58% above IPO price in year’s most subscribed offering",
-      "url": "https://techcrunch.com/2025/09/16/indias-urban-company-soars-58-above-ipo-price-in-years-most-subscribed-offering/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-17T06:44:54.000Z",
-      "summary_90w": "",
-      "raw": "Urban Company’s IPO, which opened last week, was oversubscribed more than 100 times, reflecting strong investor demand.",
-      "topics": [
-        "Technology"
       ]
     },
     {
