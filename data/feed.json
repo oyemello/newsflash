@@ -1,7 +1,20 @@
 {
-  "version": "1758136388900",
-  "generatedAt": "2025-09-17T19:13:08.900Z",
+  "version": "1758137258076",
+  "generatedAt": "2025-09-17T19:27:38.076Z",
   "items": [
+    {
+      "id": "103dc233ef6bc61daa4ead3e0dd873b0b5a66608",
+      "title": "What's on the menu and who's on guest list at the state banquet?",
+      "url": "https://www.bbc.com/news/articles/cn4l13gxy2lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-17T19:10:08.000Z",
+      "summary_90w": "",
+      "raw": "Chicken and a special cocktail are being served, while Rupert Murdoch and Tim Cook are among the guests.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "83e4973e9058544954cd5f781c60e18432aa123c",
       "title": "Israeli tanks push into major Gaza City residential area",
@@ -348,7 +361,7 @@
       "source_name": "The Verge",
       "published": "2025-09-17T16:24:18.000Z",
       "summary_90w": "",
-      "raw": "The makers of the Starling Home Hub say they have discontinued the popular device. | Image: Starling\t\n\nI have bad news for ecosystem straddlers who use Google Nest products in their smart homes but rely on iPhones and Apple Home for control: the much-loved Starling Home Hub has been discontinued. \nIn a message on its website, Starling said it can no longer manufacture the hub due to “rapidly rising costs of doing business for small US-based product companies like us (most significantly, tariffs the US government charges us to obtain the components we need to build our product).”\nThe Starling Home Hub launched in 2019. At $99, it was billed as an independent bridge that let you control and automate Nest devices — including thermostats and cameras — in the Apple Home app and with Siri. It also supported local streaming for cameras, improving latency.\nGoogle’s Nest devices have never had direct integration with Apple’s HomeKit platform. While Matter adoption has helped — newer Nest thermostats now work in Apple Home — older models and all cameras still remain outside Apple’s ecosystem.\nFor many users, the Starling Home Hub filled that gap as a more focused, plug-and-play option than setting up a Homebridge server. It earned a reputation as both reliable and indispensable. Now it’s gone.  \nIf you already own one, you’re safe for the time being. Starling says it will continue to provide tech support and roll out security and bug fix updates, and hopes to have enough stock on hand to honor warranties. It’s unclear what’s next for the company, which to date has only produced this one device. The Verge has reached out for comment.\nIn terms of alternatives, the 2020 Google Nest Thermostat and the fourth-generation Nest Learning Thermostat both support Matter, allowing some control in the Apple Home app. Camera support for Matter is slated to arrive later this year, and with Google rumored to be launching new Nest cams next month, that may provide a path to streaming them in Apple Home. But even if Google adds Matter support to its new cameras and doorbell, we don’t know if it will extend that to existing devices.\nFor now, the hub is gone — and so is a simple way to bring Google Nest products into Apple’s smart home ecosystem.",
+      "raw": "I have bad news for ecosystem straddlers who use Google Nest products in their smart homes but rely on iPhones and Apple Home for control: the much-loved Starling Home Hub has been discontinued. \nIn a message on its website, Starling said it can no longer manufacture the hub due to “rapidly rising costs of doing business for small US-based product companies like us (most significantly, tariffs the US government charges us to obtain the components we need to build our product).”\nThe Starling Home Hub launched in 2019. At $99, it was billed as an independent bridge that let you control and automate Nest devices — including thermostats and cameras — in the Apple Home app and with Siri. It also supported local streaming for cameras, improving latency.\nGoogle’s Nest devices have never had direct integration with Apple’s HomeKit platform. While Matter adoption has helped — newer Nest thermostats now work in Apple Home — older models and all cameras still remain outside Apple’s ecosystem.\nFor many users, the Starling Home Hub filled that gap as a more focused, plug-and-play option than setting up a Homebridge server. It earned a reputation as both reliable and indispensable. Now it’s gone.  \nIf you already own one, you’re safe for the time being. Starling says it will continue to provide tech support and roll out security and bug fix updates, and hopes to have enough stock on hand to honor warranties. It’s unclear what’s next for the company, which to date has only produced this one device. The Verge has reached out for comment.\nIn terms of alternatives, the 2020 Google Nest Thermostat and the fourth-generation Nest Learning Thermostat both support Matter, allowing some control in the Apple Home app. Camera support for Matter is slated to arrive later this year, and with Google rumored to be launching new Nest cams next month, that may provide a path to streaming them in Apple Home. But even if Google adds Matter support to its new cameras and doorbell, we don’t know if it will extend that to existing devices.\nFor now, the hub is gone — and so is a simple way to bring Google Nest products into Apple’s smart home ecosystem.",
       "topics": [
         "Technology"
       ]
@@ -492,19 +505,6 @@
       "published": "2025-09-17T15:55:43.000Z",
       "summary_90w": "",
       "raw": "Susan Monarez says RFK Jr. told her to commit to decisions in advance, without reviewing evidence and to dismiss vaccine experts.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f852b8c3a402f00897bf546b1a746922456c7d59",
-      "title": "Silver feels like gold for Wightman after dramatic 1500m final",
-      "url": "https://www.bbc.com/sport/athletics/articles/clylxn88xymo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-17T15:48:56.000Z",
-      "summary_90w": "",
-      "raw": "Jake Wightman makes his return to a global podium with world 1500m silver, ending Great Britain's wait for a medal in Tokyo.",
       "topics": [
         "World"
       ]
@@ -991,6 +991,19 @@
       ]
     },
     {
+      "id": "38625ac1fd4787a2132b66206b9ccf33ecc38640",
+      "title": "After a wave of horrific shootings, gun violence trends put recent attacks in context",
+      "url": "https://www.npr.org/2025/09/17/nx-s1-5542241/political-violence-mass-shootings-charlie-kirk",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-17T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Mass shootings, political violence and school safety are front of mind for many Americans following a recent spate of high-profile attacks. Experts who study gun violence unpack the data and trends.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "52fc551b8e4847f511dd14b0299cba86c0c646e8",
       "title": "Facing Trump's pressure, the Fed cuts rates for the first time this year",
       "url": "https://www.npr.org/2025/09/17/nx-s1-5539555/federal-reserve-interest-rates-inflation-jobs",
@@ -1001,19 +1014,6 @@
       "raw": "The Fed lowered interest rates by a quarter percentage point Wednesday in an effort to cushion the sagging job market. The move comes as policymakers face growing pressure from President Trump.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "84d5aec022bf22ff9c5f9e5823701576d9bdbb54",
-      "title": "When her car ran out of gas, help came from a homeless encampment",
-      "url": "https://www.npr.org/2025/09/17/nx-s1-5542002/when-her-car-ran-out-of-gas-help-came-from-a-homeless-encampment",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-17T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "When Juli Cobb's car ran out of gas in the middle of the road, three men from a nearby homeless encampment rushed over to push her car to safety.",
-      "topics": [
-        "World"
       ]
     },
     {
