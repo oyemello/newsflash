@@ -1,7 +1,72 @@
 {
-  "version": "1758214557333",
-  "generatedAt": "2025-09-18T16:55:57.333Z",
+  "version": "1758215672808",
+  "generatedAt": "2025-09-18T17:14:32.808Z",
   "items": [
+    {
+      "id": "fe92f53f2a8aaa2349c73775eb086279d5e67e6b",
+      "title": "Google brings Gemini in Chrome to US users, unveils agentic browsing capabilities, and more",
+      "url": "https://techcrunch.com/2025/09/18/google-brings-gemini-in-chrome-to-us-users-unveils-agentic-browsing-capabilities-and-more/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-18T17:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Google says the AI assistant will be able to complete tedious tasks for users, like booking a haircut or ordering weekly groceries.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b2877bd619b35c942c6ef5acd7bdd7c49d470d00",
+      "title": "Google is expanding Gemini in Chrome and letting it do stuff for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/781192/chrome-gemini-ai-agentic-update-google-mac-windows",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-18T17:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Gemini in Chrome.\t\n\nGoogle is stepping things up in the AI agent browser wars. \nThe company is launching a suite of new features deeply embedding Gemini into Chrome. That starts with the announcement that Gemini in Chrome will no longer require a membership fee and will begin rolling out to both Mac and Windows users in the US starting today. It’s all part of the battle for consumer use of AI-fueled browsers, which OpenAI, Anthropic, Google, Perplexity, and other companies are all fighting to win. \nLike OpenAI’s ChatGPT Agent, Google is also planning to introduce an ability for Gemini in Chrome to be able to do “tedious tasks” on your behalf in the coming months, Charmaine D’Silva, Chrome’s director of product management, said in a briefing with reporters on Wednesday.  It’s designed to grocery shop for you from a grocery list in your email, reschedule deliveries, set up hair appointments, book restaurant reservations, and more, and it will have checkpoints in place for anything that’s considered “high-risk” or “irreversible,” she said. Google did not provide a specific launch date when asked by The Verge.\nOther Gemini features are shipping sooner. The new features Google announced Thursday also include giving Gemini in Chrome access to Google Workspace for both regular and Enterprise users, with the rollout starting today, as well as enabling integrations with other Google products, like Calendar, YouTube, Maps, and more. The changes allow Gemini in Chrome to “find relevant information on your screen and also take action on your screen” with those tools, D’Silva said. \n“Enterprises are a pretty important focus for Chrome generally,” D’Silva said. \nOn desktop Chrome, users will now be able to use the Gemini AI agent across multiple different tabs to compare products, summarize information from multiple sources, and recall previous pages from a user’s browser history. That means that starting today, users will be able to can close their myriad tabs and then have the AI agent recall them.\n“Say you were looking at team-building activities and it’s the end of your day — if you wanted to pick it back [up] the next day, typically what people would do was leave those tabs open,” D’Silva said. “But now you can close those tabs, and the next morning you can go and say,’ Hey, can you show me those team-building activities that I was looking at yesterday? And we automatically show you.” \nOn mobile, Gemini was already integrated into Android, but users will now be able to share the entire context of a page, not just what’s currently on their screen, so they can ask “deeper questions,” D’Silva said. iPhone users will be able to access Gemini via the Chrome app soon.\nImprovements to how AI agents work in users’ browsers have been coming for a while. Last year, Anthropic introduced Computer Use, allowing Claude as an AI agent to use your browser and complete tasks on your behalf, and months later, OpenAI announced Operator, which was designed to do the same. This past July, OpenAI combined its Deep research and Operator features into one agentic tool, ChatGPT Agent. That same month, Perplexity launched Comet, its own AI-powered web browser. Atlassian just spent $610 million to buy The Browser Company, makers of the AI-infused browser Dia.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "84e13fde4b4a8a2057013b9d3d2c8daa3426124a",
+      "title": "In pictures: Chequers, scout groups and a dolls' house - day two of Trump's state visit",
+      "url": "https://www.bbc.com/news/articles/cn0xq78xdeqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-18T16:56:32.000Z",
+      "summary_90w": "",
+      "raw": "Day two of US President Donald Trump's second state visit",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bdaf51e99b98515c5841eb116d17748ef2c9916e",
+      "title": "Trump suggests Starmer could use military to control UK borders",
+      "url": "https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-18T16:55:36.000Z",
+      "summary_90w": "",
+      "raw": "The US president says illegal migration \"destroys countries from within\", in a news conference with the PM.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "faab424f015c34bc483ff1da1ec70c664764b65a",
+      "title": "Author Sally Rooney says she could not collect prize in UK in case of arrest",
+      "url": "https://www.bbc.com/news/articles/c3w54g14gp9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-18T16:52:59.000Z",
+      "summary_90w": "",
+      "raw": "The author has given her support to Palestine Action, who have been proscribed as a terrorist group.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "0748b4455dac408568fb19aae93a3c6b598a384c",
       "title": "Google partners with UK nonprofit to detect and remove nonconsensual intimate images from Search",
@@ -43,13 +108,13 @@
     },
     {
       "id": "a3f388da2711671805a3cafeb71359b0811550c8",
-      "title": "ICE unit signs new $3 million contract for phone hacking tech",
+      "title": "ICE unit signs new $3M contract for phone-hacking tech",
       "url": "https://techcrunch.com/2025/09/18/ice-unit-signs-new-3-million-contract-for-phone-hacking-tech/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "published": "2025-09-18T16:37:45.000Z",
       "summary_90w": "",
-      "raw": "Homeland Security Investigations, the law enforcement arm of ICE, adds phone unlocking tech made by Magnet Forensics to its arsenal of technology used to power the Trump administration’s deportation crackdown.",
+      "raw": "Homeland Security Investigations, the law enforcement arm of ICE, adds phone-unlocking tech made by Magnet Forensics to its arsenal of technology used to power the Trump administration’s deportation crackdown.",
       "topics": [
         "Technology"
       ]
@@ -89,19 +154,6 @@
       "published": "2025-09-18T16:24:24.000Z",
       "summary_90w": "",
       "raw": "At least 476 separate demonstrations are taking place over public services and wages, a week after the appointment of new PM Sébastien Lecornu\n\nPeople in France: share your views on the strike\n\nFull report: France’s biggest strike in years under way amid political crisis\n\nI am keeping an eye on the EU’s midday briefing just now, but there is no substantial update from the EU on the 19th package of sanctions against Russia.\nThe European Commission’s deputy chief spokesperson, Olof Gill, repeated that “we expect to present … [them] soon”, as he asked journalists to “please bear with us on that”, without offering more detail.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "bdaf51e99b98515c5841eb116d17748ef2c9916e",
-      "title": "Trump suggests Starmer could use military to control UK borders",
-      "url": "https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-18T16:23:49.000Z",
-      "summary_90w": "",
-      "raw": "The US president says illegal migration \"destroys countries from within\", in a news conference with the PM.",
       "topics": [
         "World"
       ]
@@ -289,19 +341,6 @@
       ]
     },
     {
-      "id": "84e13fde4b4a8a2057013b9d3d2c8daa3426124a",
-      "title": "In pictures: Chequers, scout groups and a dolls' house - day two of Trump's state visit",
-      "url": "https://www.bbc.com/news/articles/cn0xq78xdeqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-18T15:19:01.000Z",
-      "summary_90w": "",
-      "raw": "Day two of US President Donald Trump's second state visit",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8903200f2e545ffb997e206dcb0719f3f69216b7",
       "title": "Egypt says 3,000-year-old bracelet was stolen and melted down",
       "url": "https://www.bbc.com/news/articles/c1kw8dwy4dro?at_medium=RSS&at_campaign=rss",
@@ -351,19 +390,6 @@
       "raw": "Tens of thousands more forced to flee makeshift homes and shelters daily in face of new Israeli offensive\nMore than a quarter of a million people have been displaced from Gaza City in the last month, according to figures from the UN, with tens of thousands more forced to flee makeshift homes and shelters daily in the face of a new Israeli offensive.\nMultiple strikes by Israeli artillery, tanks and warplanes hit Gaza City again on Thursday as a UN official said “new waves of mass displacement” were under way, after about 60,000 fled the new assault in 72 hours earlier this week.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "b2ffffef902ae0efdc8af3488e559affaf4dc2fd",
-      "title": "Wildfire smoke is an insidious and growing public health threat ",
-      "url": "https://www.theverge.com/science/780453/fire-smoke-health-premature-deaths-research",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-18T15:00:45.000Z",
-      "summary_90w": "",
-      "raw": "The view of Manhattan from Brooklyn Bridge Parks Pier 6 was obscured as New York City was shrouded in smoke on Wednesday, June 7th, 2023.\t\n\nWildfire smoke is the air quality nightmare of our generation, eating away at previous gains made by cracking down on industrial emissions and tailpipe pollution. Constant exposure to smoke is becoming a chronic threat even in places that historically haven't had many wildfires.\nClimate change is priming forests to burn more intensely, which means more harmful substances in soil, fuels, homes, and whatever else burns going up in smoke - and potentially making their way into our lungs. All that smoke is projected to lead to tens of thousands more premature deaths in the coming years, according to a pair of eye-opening research papers publish …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -575,6 +601,19 @@
       ]
     },
     {
+      "id": "f31b2467d5fe5d4d2483f285e9212dacd549eeca",
+      "title": "'Slot-age time' - breaking down Liverpool's late success",
+      "url": "https://www.bbc.com/sport/football/articles/ce80zmpd2mpo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-18T13:30:49.000Z",
+      "summary_90w": "",
+      "raw": "BBC Sport examines how and why Liverpool's thrilling late winners have come about.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "acf5025868c57f1073a9b67a0ff5899a7b7e8e3f",
       "title": "Atlassian acquires DX, a developer productivity platform, for $1B",
       "url": "https://techcrunch.com/2025/09/18/atlassian-acquires-dx-a-developer-productivity-platform-for-1b/",
@@ -637,19 +676,6 @@
       "raw": "Bumble BFF's revamped app introduces a new groups feature to help users connect with new friends beyond one-on-one matching.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "fc7ada3b14e64503d30f3c58468aa129438ca150",
-      "title": "Met Office rain warnings issued ahead of a wet and windy weekend for the UK",
-      "url": "https://www.bbc.com/weather/articles/ckg6573kyp2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-18T12:12:49.000Z",
-      "summary_90w": "",
-      "raw": "A developing area of low pressure will bring the risk of heavy rain and gales as well as a big drop in the temperature.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -726,19 +752,6 @@
       "published": "2025-09-18T11:17:26.000Z",
       "summary_90w": "",
       "raw": "New Zealand is planning to eradicate millions of invasive animals that prey on the country's rare birds. The goal may not be possible, unless new technology can be developed to do it.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "15aafb9f8d95e39361810480c9f99715bc2f6583",
-      "title": "MP investigated over alleged racial abuse on X",
-      "url": "https://www.bbc.com/news/articles/c79vqy8jyj8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-18T11:07:12.000Z",
-      "summary_90w": "",
-      "raw": "Ex-Reform MP James McMurdock is accused of starting a chain of posts that spelled out a racial slur.",
       "topics": [
         "World"
       ]
@@ -1043,19 +1056,6 @@
       ]
     },
     {
-      "id": "9b1d2191e94f30ba57180852c916c86e9c743b35",
-      "title": "Blue Badge fraud: 'More fakes than ever before'",
-      "url": "https://www.bbc.com/news/articles/c93ll6xlyk2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-18T05:00:53.000Z",
-      "summary_90w": "",
-      "raw": "Fake, stolen and dead people’s badges are being used, investigators warn.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "092fabc4ed41ab3710805720b8e31b01f0d8b1e1",
       "title": "Fashion risks going backwards on diversity, says ex-British Vogue editor",
       "url": "https://www.bbc.com/news/articles/c3e758v449yo?at_medium=RSS&at_campaign=rss",
@@ -1259,19 +1259,6 @@
       "published": "2025-09-17T23:51:42.000Z",
       "summary_90w": "",
       "raw": "The fresh raise comes in above the rumored numbers when word leaked in July that it was raising.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "97fa1f7f0c9652dfe1d106544873651844a90537",
-      "title": "Eric Baker’s long, winding road to taking StubHub public",
-      "url": "https://techcrunch.com/2025/09/17/eric-bakers-long-winding-road-to-taking-stubhub-public/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-17T23:33:46.000Z",
-      "summary_90w": "",
-      "raw": "Although StubHub's shares fell 6% in first day of trading, the IPO is testament to the co-founder's 25-year effort.",
       "topics": [
         "Technology"
       ]
