@@ -1,16 +1,55 @@
 {
-  "version": "1758226617580",
-  "generatedAt": "2025-09-18T20:16:57.580Z",
+  "version": "1758227733661",
+  "generatedAt": "2025-09-18T20:35:33.661Z",
   "items": [
+    {
+      "id": "663b4a4ec0e4a8ba6f8a68dcb7d4619e622bf9fe",
+      "title": "Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch",
+      "url": "https://www.theverge.com/report/781330/nvidia-intel-explain-5-billion-deal-jensen-huang-lip-bu-tan-amd",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-18T20:15:36.000Z",
+      "summary_90w": "",
+      "raw": "Today, Nvidia CEO Jensen Huang and Intel CEO Lip-Bu Tan held a joint webcast to explain just why the world's most valuable company (Nvidia's at $4.28 trillion) is throwing a $5 billion lifeline to a struggling competitor. \nNvidia quickly shut down several possible explanations. Huang claimed it had nothing to do with Trump, who famously shook down Intel CEO Lip-Bu Tan for the United States' own 10 percent stake of Intel, shortly after shaking down Nvidia for 15 percent of its revenue selling chips to China. (China may have just ended that.)\nAnd, Huang insisted, it's not a strategic shift away from the newer Arm architecture towards the ven …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "fe2c8f997cd6d2b091df695967e8945d8eba2cf5",
+      "title": "Trump administration rushes to rent space for immigration officers conducting raids",
+      "url": "https://www.npr.org/2025/09/18/g-s1-89492/ice-immigration-raids-gsa-office-space",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-18T20:14:03.000Z",
+      "summary_90w": "",
+      "raw": "Employees at the General Services Administration are scrambling to lease offices to accommodate a rapid increase of immigration enforcement officers carrying out widespread raids across the country.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "922070fa903302c85d49483e62e3164e84e32908",
+      "title": "Hyundai CEO distances company from ICE raid: ‘not our facility’",
+      "url": "https://www.theverge.com/news/781497/hyundai-ceo-distances-ice-raid-georgia-trump",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-18T20:12:50.000Z",
+      "summary_90w": "",
+      "raw": "José Muñoz, president and CEO of Hyundai Motor Company, delivers remarks at the company’s CEO Investor Day on September 18th in New York City. | Image: Jason DeCrow / AP Content Services for Hyundai Motor Company\n\t\n\nToday, the CEO of Hyundai sought to distance his company from the Immigration and Customs Enforcement raid earlier this month at the company’s battery factory in Georgia, which resulted in the arrest of hundreds of South Korean workers. \nThe factory is operated by LG Energy Solutions, and most of the workers that were detained were employed by suppliers for that company, not Hyundai, José Muñoz said in a briefing with reporters on Thursday after the automaker’s CEO Investor Day event in New York City. \n“I could not believe what I saw because I would have known, probably before the news,” Muñoz said, when asked about his initial reaction to the raid. “So I said, something is weird here. How can something happen [and] nobody told me?  And when I go into the details, then I realize it’s not our facility. It’s LG’s battery plant.”\n\n“So I said, something is weird here.”\n\n\n“It’s like something happened in Fox News,” he continued, in response to a question from a CNN reporter. “And they said, ‘How come you didn’t know?‘ I said, ’Hey, I’m working for CNN,’ right? So same deal.”\nMuñoz griped that all the media’s photos of the raid have shown Hyundai’s Metaplant facility rather than the neighboring LG factory. “All the pictures that were shown everywhere, they are pictures of a facility which is different from where the raid happened,” he said.\nHis remarks come a few days after he confirmed that the plant’s construction would be delayed two to three months due to labor shortages. And they come amid the growing fallout from the September 4th raid, which resulted in the arrest of 475 workers, most of whom were from South Korea, at the battery plant that is jointly operated by Hyundai and LG Energy Solutions.\nPresident Donald Trump has sought to placate South Korea after the raid, announcing that he will allow foreign companies to temporarily bring in “people of expertise” to train American workers. But critics say the damage may already have been done, as foreign companies now realize their own workers could get rounded up in Trump’s immigration crackdown.\nThe Hyundai-LG raid was so unusual because it seemed to target a fairly typical situation. When opening a new facility in the US, foreign automakers typically bring a cadre of their own employees to help with the construction and then, once it’s completed, train American workers to operate it. Labor experts warn that the ICE raid in Georgia could chill foreign investment in the US and target particular industries, especially automakers working on EVs. \nMuñoz defended the foreign workers who were in Georgia to help build the factory, arguing that the expertise to build these specialized factories doesn’t exist in the US. And he called for the creation of a new type of visa for highly skilled workers who help develop these enormous projects, to ensure future raids don’t happen. \n“I think the US government has acknowledged that there needs to be a better solution to address this type of situation,” he said. “I think both governments in South Korea and the US are working actively to try to ensure that situations like this don’t happen again.”",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "b4759f062e8c6ad8f70ea656c23c6c3abae078f0",
       "title": "Sarah Smith: Trump visit showed UK's warm relations - and limited influence",
       "url": "https://www.bbc.com/news/articles/cgkn3key65do?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-09-18T20:06:48.000Z",
       "summary_90w": "",
-      "raw": "The good-natured state visit showed the pair have a warm relationship, even if they disagree on some substantial issues.",
+      "raw": "The good-natured state visit demonstrated strong relations, but no ally is likely to change the US president's mind.",
       "topics": [
         "World"
       ]
@@ -416,32 +455,6 @@
       "raw": "The two leaders skirted around areas of potential conflict but there was still plenty of news and startling information\nGiven an hour to speak freely in front of the world’s media, Donald Trump is always likely to spring a surprise or two.\nHis joint press conference with Keir Starmer at Chequers on Thursday was largely a disciplined performance, skirting around several potential topics of conflict. But it was still full of news, telling details, and startling information and opinions. \n\r\n Here are some of the most important, and some you might have missed.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "48715cf74b7f1dded35c56ada0d291282b8d16d2",
-      "title": "Microsoft is filling Teams with AI agents",
-      "url": "https://www.theverge.com/news/781278/microsoft-teams-copilot-ai-agents",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-18T17:46:54.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft is adding a whole load of AI agents to Teams today, promising Copilot assistants for every channel, meeting, and community. The new agents will also work across SharePoint and Viva Engage, and are rolling out for Microsoft 365 Copilot users.\nFacilitator agents will now sit in on Teams meetings, creating agendas, taking notes, and answering questions. Agents can also suggest time allotments for different meeting topics — letting participants know if they’re running over — and create documents and tasks. A mobile version is designed to be activated “with a single tap” so you can make sure the agent doesn’t miss out on “a quick hallway chat or a spontaneous in-person sync.”\nChannel agents are designed to answer questions based on a channel’s previous conversations and meetings and can also generate status reports for a project the same way. There are also community agents inside Viva Engage, Microsoft’s take on company-wide social networks, which work similarly but mostly serve to support community admins, answering questions from other users. Knowledge agents run in SharePoint behind the scenes, organizing, tagging, and summarizing files.\nFacilitator agents are available now, though their ability to create documents and tasks is in public preview, as are the other newly announced agents. They’re joined in preview by a redesigned Workflows tool to create AI automations of tasks, and a tool to generate audio recaps based on meeting notes.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "1a663dc11eb6cd6947678b6268c0776d0d33b497",
-      "title": "The FTC is suing Ticketmaster for illegally ‘coordinating’ with brokers",
-      "url": "https://www.theverge.com/news/781261/ftc-suing-ticketmaster-antitrust-illegally-coordinating-with-brokers",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-18T17:37:40.000Z",
-      "summary_90w": "",
-      "raw": "The latest targets in the White House’s on-again–off-again antitrust war are Ticketmaster and Live Nation, two villains that everyone appears to agree on. The Federal Trade Commission is accusing Ticketmaster (which owns Live Nation) of allowing ticket brokers to illegally exceed limits on purchases and then profiting off the inflated resale value. Customers often pay significantly more than the face value because resellers have snatched up all the tickets. And when a ticket is resold through Ticketmaster’s site, it takes a cut, essentially profiting off the same ticket twice. The FTC even alleges that company leadership turns “a blind eye as a matter of policy” when dealing with brokers. The agency also says that Ticketmaster routinely uses deceptive practices when advertising prices, which are often much higher at checkout.\nWith Ticketmaster controlling roughly 80-percent of primary ticket sales in the US, fans and artists are often left with little recourse. Ticketmaster often blames the technological hurdles of trying to rein in scalpers, but the FTC doesn’t seem to be buying that excuse one bit. In the complaint it rebukes those claims saying:\nDefendants blame a technological “arms race” and ticket scalping for shutting fans out of artist-priced primary market tickets, but in reality, Defendants’ own conduct gives purchasing consumers no choice but to resort to purchasing tickets at a steep markup in the resale market, where Defendants can collect another round of fees on the same tickets.\nView Link",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -998,7 +1011,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-18T11:49:49.000Z",
       "summary_90w": "",
-      "raw": "Agreement reached with France allows for removal of asylum seekers who arrive on small boats\n\nThe first Channel migrant has been deported to France under the controversial one in, one out deal, the Home Office has confirmed.\nIt follows three days of cancellations of tickets of asylum seekers due to fly and a high court challenge that halted the imminent removal of a 25-year-old Eritrean man to France on Tuesday evening. He was granted more time to gather evidence relating to his claim that he is a victim of trafficking.\n Continue reading...",
+      "raw": "Agreement reached with France allows for removal of asylum seekers who arrive on small boats\n\nThe first Channel migrant has been deported to France under the controversial one in, one out deal, the Home Office has confirmed.\nThe home secretary, Shabana Mahmood, said: “This is an important first step to securing our borders. It sends a message to people crossing in small boats: if you enter the UK illegally, we will seek to remove you.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1163,13 +1176,13 @@
       "id": "c7c13522d4ec05444ed5cabe9e53cfe9eb5269ca",
       "title": "Kirk shooting videos spread online, even to viewers who didn't want to see them",
       "url": "https://www.npr.org/2025/09/18/nx-s1-5542231/kirk-shooting-violence-social-media",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2025-09-18T09:00:00.000Z",
       "summary_90w": "",
       "raw": "Graphic videos of the Charlie Kirk shooting spread widely online, raising concerns over the emotional and political toll of exposure to violent imagery.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -1519,19 +1532,6 @@
       "published": "2025-09-17T18:52:53.000Z",
       "summary_90w": "",
       "raw": "The sight of tanks in Sheikh Radwan has caused widespread alarm among residents, with thousands fleeing south.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4a8635a63f0e3b62ad2eb3f1a13c45a547274914",
-      "title": "What does Donald Trump want from his UK state visit?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0m3dxrk?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-17T17:19:00.000Z",
-      "summary_90w": "",
-      "raw": "And the row over free speech after Charlie Kirk’s assassination",
       "topics": [
         "World"
       ]
