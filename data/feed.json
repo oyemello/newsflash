@@ -1,7 +1,20 @@
 {
-  "version": "1758221224499",
-  "generatedAt": "2025-09-18T18:47:04.499Z",
+  "version": "1758221883772",
+  "generatedAt": "2025-09-18T18:58:03.772Z",
   "items": [
+    {
+      "id": "8b8dc1c7adb2c22d94864fb8c18c2576712ecde9",
+      "title": "Ubiquiti’s new desktop NAS looks more like a wireless router",
+      "url": "https://www.theverge.com/news/781433/ubiquiti-nas-unas-2-4-raid-backup",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-18T18:49:30.000Z",
+      "summary_90w": "",
+      "raw": "The UNAS 2 holds a pair of hard drives in a RAID 1 configuration. | Screenshot: YouTube (Ubiquiti)\t\n\nUbiquiti has announced a collection of new storage solutions compatible with its UniFi lineup of networking devices that already includes routers, switches, and security cameras. Compared to other desktop network attached storage (NAS) solutions from companies like Synology and Ugreen, Ubiquiti’s UNAS 2 and UNAS 4 look more like sleek wireless routers than storage solutions stuffed full of hard drives and SSDs.\nThe entry-level UNAS 2 is now available in a black or white finish for $199 and accommodates a pair of 3.5-inch hard drives in a RAID 1 configuration. To achieve the minimal design, the drives are inserted using an access panel on the underside of the NAS which includes a sliding locking mechanism to ensure they don’t fall out while it’s standing upright. There’s a 5 Gbps USB-C port on the front for attaching additional external storage, but otherwise the UNAS 2 requires just a single ethernet cable connected to a device like a switch that supports power over ethernet (POE) delivery. If your setup is lacking one, the UNAS 2 comes with a 60W POE adapter.\nThe UNAS 2 also includes a 1.45-inch screen on the front showing real-time performance and storage metrics, but if you need even more networked storage sitting on your desk, the UNAS 4 may be a better fit if you don’t mind sacrificing a bit more space. It’s expected to ship later this year for $379 and while it features a similar design and functionality as the UNAS 2, it’s much larger and can accommodate up to four 2.5-inch or 3.5-inch hard drives plus a pair of M.2 NVMe SSD drives. Although Ubiquiti’s rack-mounted NAS solutions offer more capacity and RAID options, the company hasn’t yet shared what RAID configurations the UNAS 4 will support, or if like the UNAS 2 it will be limited to RAID 1.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "71d22573f8bf41f1e25ffdd37f9722a1e99b2551",
       "title": "ABC takes Jimmy Kimmel off air over Charlie Kirk comments",
@@ -17,7 +30,7 @@
     },
     {
       "id": "9a676eb3ad6e8701e5ba38a3912efe3ff6cf0488",
-      "title": "Trump Suggests U.S. Troops Could Return to Afghan Base Over China Concerns",
+      "title": "Trump suggests U.S. troops could return to Afghan base over China concerns",
       "url": "https://www.npr.org/2025/09/18/g-s1-89474/trump-suggests-u-s-troops-could-return-to-afghan-base-over-china-concerns",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
@@ -153,7 +166,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-18T18:10:44.000Z",
       "summary_90w": "",
-      "raw": "Tens of thousands more forced to flee makeshift homes and shelters daily in face of new Israeli offensive\nMore than a quarter of a million people have been displaced from Gaza City in the last month, according to figures from the UN, with tens of thousands more forced to flee makeshift homes and shelters daily in the face of a new Israeli offensive.\nMultiple strikes by Israeli artillery, tanks and warplanes hit Gaza City again on Thursday as a UN official said “new waves of mass displacement” were under way, after about 60,000 fled the new assault in 72 hours earlier this week.\n Continue reading...",
+      "raw": "Tens of thousands more forced to flee makeshift homes and shelters daily in face of new Israeli offensive\nMore than a quarter of a million people have been displaced from Gaza City in the last month, according to figures from the UN, with tens of thousands more forced to flee makeshift homes and shelters daily in the face of a new Israeli offensive.\nStrikes by Israeli artillery, tanks and warplanes hit Gaza City again on Thursday as a UN official said “new waves of mass displacement” were under way, after about 60,000 fled the new assault in 72 hours earlier this week.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -544,19 +557,6 @@
       "published": "2025-09-18T16:00:00.000Z",
       "summary_90w": "",
       "raw": "DACLab repurposed technology originally intended to capture carbon from power plants and other industrial facilities. It says the approach has been key to lowering costs.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "3fa5116f2e89c62aaee826de03fde1e39962c84a",
-      "title": "Microsoft’s Xbox Copilot arrives on Windows 11 PCs worldwide",
-      "url": "https://www.theverge.com/news/780771/microsoft-xbox-copilot-windows-game-bar-available-download",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-18T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft only started testing its new Gaming Copilot in the Windows Game Bar last month, and it’s now starting to roll out to all Windows 11 users today. While the initial preview was limited to certain markets, Microsoft says today’s release has “regional support everywhere except mainland China.” Microsoft is also bringing its Gaming Copilot to the Xbox mobile app next month.\n“Starting today, PC players will begin seeing Gaming Copilot integrated directly into their Game Bar experience as the feature rolls out gradually over the next few weeks,” says Taylor O’Malley, principal program manager at Xbox. “It will then come to the Xbox mobile app on Apple and Android next month, where players will be able to access this personalized companion via a second screen without distracting from their gameplay.”\nThe Gaming Copilot will be available as a widget inside the Game Bar on Windows 11, and it includes a voice mode so you can talk to the AI assistant without having to alt + tab out of a game. It will even use screenshots of a game to help answer questions, so you could ask Copilot about a boss in a game without having to describe it.\nYou’ll also be able to use the Gaming Copilot to get game recommendations, see a list of your recent Xbox achievements, and more. Microsoft is also planning to optimize this Gaming Copilot for its upcoming Xbox Ally handheld devices, with a promise of also bringing this AI-powered experience to Xbox consoles “in the near future.”\nIn the long term, Microsoft wants the Gaming Copilot to turn into an AI gaming coach. The company is positioning this initial effort as a sidekick of sorts, there to accompany you through games and offer up tips. Microsoft has also previously demonstrated using the Gaming Copilot with Overwatch 2, letting it recommend good hero picks to complement the rest of the team.",
       "topics": [
         "Technology"
       ]
@@ -1472,6 +1472,19 @@
       ]
     },
     {
+      "id": "7dd51c82124e62267cd1f1f4d87e55f14e19f6cb",
+      "title": "Is GB News the Fox News of the U.K.?",
+      "url": "https://www.npr.org/2025/09/17/nx-s1-5542217/is-gb-news-the-fox-news-of-the-u-k",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2025-09-17T20:04:45.000Z",
+      "summary_90w": "",
+      "raw": "News outlets in the United Kingdom are hustling to cover President Trump's state visit. That includes the conservative TV channel GB News.",
+      "topics": [
+        "Business"
+      ]
+    },
+    {
       "id": "d81ef59a5fed591e0b4a68fc8d33b878d7647839",
       "title": "Spain arrests 19 on suspicion of torture and murder after 50 disappear from migrant boat",
       "url": "https://www.bbc.com/news/articles/c8jm11lmx71o?at_medium=RSS&at_campaign=rss",
@@ -1599,19 +1612,6 @@
       "raw": "Jensen Huang said the US needs \"to make sure that that people can access this technology from all over the world\".",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "52fc551b8e4847f511dd14b0299cba86c0c646e8",
-      "title": "Facing Trump's pressure, the Fed cuts rates for the first time this year",
-      "url": "https://www.npr.org/2025/09/17/nx-s1-5539555/federal-reserve-interest-rates-inflation-jobs",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-09-17T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Fed lowered interest rates by a quarter percentage point Wednesday in an effort to cushion the sagging job market. The move comes as policymakers face growing pressure from President Trump.",
-      "topics": [
-        "Business"
       ]
     },
     {
