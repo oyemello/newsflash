@@ -1,6 +1,6 @@
 {
-  "version": "1758195447670",
-  "generatedAt": "2025-09-18T11:37:27.670Z",
+  "version": "1758196326339",
+  "generatedAt": "2025-09-18T11:52:06.339Z",
   "items": [
     {
       "id": "9e789af0f24a4edfaa2541e1d1fa66f7379280b3",
@@ -8,9 +8,61 @@
       "url": "https://www.bbc.com/news/articles/ckg653r06jgo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-18T11:32:38.000Z",
+      "published": "2025-09-18T11:46:39.000Z",
       "summary_90w": "",
-      "raw": "The man was removed this morning under the 'one in, one out' agreement and the flight has already landed in Paris, the BBC understands.",
+      "raw": "The man was removed on Thursday under the \"one in, one out\" agreement and has arrived in Paris.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2996a51b6e35eb3ab919e7d2950fe1c3aeb63c60",
+      "title": "Nvidia invests $5 billion into Intel to jointly develop PC and data center chips",
+      "url": "https://www.theverge.com/news/780792/nvidia-intel-investment-pc-chips-data-center",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-18T11:37:15.000Z",
+      "summary_90w": "",
+      "raw": "Nvidia is throwing Intel a $5 billion life raft, just weeks after similar stakes from the US government and SoftBank. Nvidia is investing $5 billion in Intel common stock in a collaboration that will see the pair “jointly develop multiple generations of custom data center and PC products.”\nNvidia says Intel will help build “x86 system-on-chips (SoCs) that integrate Nvidia RTX GPU chiplets.” These chips will power a “wide range” of PCs, by closely integrating Intel’s CPUs with Nvidia’s GPUs. Intel and Nvidia already have a close partnership on many gaming laptops, but combining both on a single SoC is a big step further.\nIt will help Intel and Nvidia better compete with AMD, which has been gaining ground on Intel with its impressive gaming desktop CPUs and a wide variety of AI laptop processors. It also raises further questions about the future of Intel’s Arc graphics card business, especially if the company is now relying on Nvidia’s GPU expertise.\nNvidia and Intel will also work together on connecting both their architectures via Nvidia’s NVLink communications link system that’s used in data centers to link GPUs together. “Intel will build Nvidia-custom x86 CPUs that Nvidia will integrate into its AI infrastructure platforms and offer to the market,” says Nvidia.\n“This collaboration tightly couples Nvidia’s AI and accelerated computing stack with Intel’s CPUs and the vast x86 ecosystem — a fusion of two world-class platforms,” says Nvidia CEO Jensen Huang. “Together, we will expand our ecosystems and lay the foundation for the next era of computing.”\nThe US government agreed to take an around 10 percent stake in Intel last month, valued at $8.9 billion. SoftBank is also investing $2 billion into Intel, as the struggling chipmaker has been pulling back on spending and laying off thousands of workers. \nIntel’s stock price jumped 28 percent in pre-market trading after Nvidia’s announcement.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "94fb38789edb1ccf42cd243b919c00ed4cb4f6c8",
+      "title": "Strikes and marches against budget cuts cause disruption across France, with 94 people arrested – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/18/france-strikes-lecornu-merz-sanchez-von-der-leyen-europe-live-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-18T11:34:50.000Z",
+      "summary_90w": "",
+      "raw": "Up to 800,000 people are expected to protest over public services and wages, a week after the appointment of prime minister Sébastien Lecornu\n\nPeople in France: share your views on the strike\n\nFull report: France’s biggest strike in years under way amid political crisis\n\nI am keeping an eye on the EU’s midday briefing just now, but there is no substantial update from the EU on the 19th package of sanctions against Russia.\nThe European Commission’s deputy chief spokesperson, Olof Gill, repeated that “we expect to present … [them] soon”, as he asked journalists to “please bear with us on that”, without offering more detail.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5fc464341980dde9991d4c2cf7f96b0568e5d4ac",
+      "title": "Italy first in EU to pass comprehensive law regulating AI",
+      "url": "https://www.theguardian.com/world/2025/sep/18/italy-first-in-eu-to-pass-comprehensive-law-regulating-ai",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-18T11:29:59.000Z",
+      "summary_90w": "",
+      "raw": "Legislation limits child access and imposes prison terms for damaging use of artificial intelligence\nItaly has become the first country in the EU to approve a comprehensive law regulating the use of artificial intelligence, including imposing prison terms on those who use the technology to cause harm, such as generating deepfakes, and limiting child access.\nGiorgia Meloni’s rightwing government said the legislation, which aligns with the EU’s landmark AI Act, is a decisive move in influencing how AI is used across Italy.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0189fb47ffa8c35113fb01590a5e0481e88565f7",
+      "title": "Hodgkinson eases to victory in 800m heat",
+      "url": "https://www.bbc.com/sport/athletics/videos/c1jzw1kygldo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-18T11:26:20.000Z",
+      "summary_90w": "",
+      "raw": "Great Britain's Keely Hodgkinson wins her 800m heat to ease into the semi-finals of the women's 800m at the World Athletics Championships in Tokyo.",
       "topics": [
         "World"
       ]
@@ -50,19 +102,6 @@
       "published": "2025-09-18T11:20:15.000Z",
       "summary_90w": "",
       "raw": "Marguerite Gnakadé has become a vocal critic of Togo's long-serving leader Faure Gnassingbé.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "94fb38789edb1ccf42cd243b919c00ed4cb4f6c8",
-      "title": "New French PM under pressure as strikes disrupt schools and transport across country – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/18/france-strikes-lecornu-merz-sanchez-von-der-leyen-europe-live-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-18T11:19:04.000Z",
-      "summary_90w": "",
-      "raw": "Up to 800,000 people are expected to march over budget cuts, public services and wages a week after Sébastien Lecornu’s appointment\n\nPeople in France: share your views on the strike\n\nFull report: France’s biggest strike in years under way amid political crisis\n\nI am keeping an eye on the EU’s midday briefing just now, but there is no substantial update from the EU on the 19th package of sanctions against Russia.\nThe European Commission’s deputy chief spokesperson, Olof Gill, repeated that “we expect to present … [them] soon”, as he asked journalists to “please bear with us on that”, without offering more detail.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -121,9 +160,22 @@
     },
     {
       "id": "a130f3df4d7a6b1b185950c02aa11a81185cbe3c",
-      "title": "Workers across France strike over budget cut plans",
+      "title": "Thousands of workers across France strike over budget cut plans",
       "url": "https://www.bbc.com/news/articles/cj9zvg03elzo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-18T10:54:33.000Z",
+      "summary_90w": "",
+      "raw": "The widespread walkouts come less than a fortnight after the government collapsed over a proposed budget.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a130f3df4d7a6b1b185950c02aa11a81185cbe3c",
+      "title": "Workers across France strike over budget cut plans",
+      "url": "https://www.bbc.com/news/articles/cj9zvg03elzo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-18T10:54:33.000Z",
       "summary_90w": "",
@@ -315,19 +367,6 @@
       ]
     },
     {
-      "id": "045d89611721d1254c8bf9d5cf35f5b940506f6b",
-      "title": "Fit-again England full-back Kildunne starts against France in semi-final",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c740wrgz1nwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-18T09:00:50.000Z",
-      "summary_90w": "",
-      "raw": "Ellie Kildunne returns from a concussion sustained in England's final pool-stage game against Australia a fortnight ago to take her place as starting full-back in their Rugby World Cup semi-final against France on Saturday.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f5829ef627950d0eec9b4b1391a26c537f58c6bf",
       "title": "ABC pulls Jimmy Kimmel off air after comments made about the Charlie Kirk killing",
       "url": "https://www.npr.org/2025/09/18/nx-s1-5544559/abc-jimmy-kimmel-comments-charlie-kirk",
@@ -336,19 +375,6 @@
       "published": "2025-09-18T09:00:00.000Z",
       "summary_90w": "",
       "raw": "ABC announced Wednesday that Jimmy Kimmel Live! would be off the air indefinitely following comments regarding speculation swirling around the suspect in the killing of Charlie Kirk.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "eb007c7d7ebe1fff61dadcd9523f59d399606919",
-      "title": "CDC's vaccine advisers meet this week. Here's how they could affect policy",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/18/nx-s1-5543356/cdc-vaccine-advisers-acip-meeting",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-18T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Health Secretary Robert F. Kennedy, Jr. chose everyone in the group. Their votes could affect vaccine access for certain childhood vaccines and and the COVID shots. Here's what's at stake.",
       "topics": [
         "World"
       ]
@@ -383,13 +409,13 @@
       "id": "3d3a66642c9d7a609783180c1ce86731df377bcb",
       "title": "New policies are making life harder for trans people — and prompting big financial decisions",
       "url": "https://www.npr.org/2025/09/18/nx-s1-5445303/transgender-people-financial-anxiety",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
       "published": "2025-09-18T09:00:00.000Z",
       "summary_90w": "",
       "raw": "White House executive orders and legislation in many states have targeted the rights and protections of trans people. For some, that has meant increased financial worry.",
       "topics": [
-        "Business"
+        "World"
       ]
     },
     {
@@ -887,19 +913,6 @@
       ]
     },
     {
-      "id": "25680f4b4173be586589dd7f94be662a5f65d2cf",
-      "title": "I sat down with Mark Zuckerberg to try Meta’s impressive new Ray-Ban Display glasses",
-      "url": "https://www.theverge.com/tech/780539/meta-ray-ban-display-mark-zuckerberg-interview",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-18T00:21:42.000Z",
-      "summary_90w": "",
-      "raw": "Mark Zuckerberg wearing the new Meta Ray-Ban Display glasses on Access.\t\n\nMark Zuckerberg mostly uses the new Meta Ray-Ban Display glasses to send text messages. Lots of them.\nHe has been wearing the glasses around the office, firing off WhatsApp pings to his execs throughout the day. \"I run the company through text messages,\" he tells me recently.\n\"Mark is our number one heaviest user,\" Alex Himel, the company's head of wearables, confirms. Zuckerberg is known for sending lengthy, multi-paragraph missives via text. But when he's typing on the glasses, Himel can tell because the messages arrive faster and are much shorter.\nZuckerberg claims he's already at about 30 words per minute. That's impressive considerin …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "fbed1bdb056a9c798ed695b0d6f2504244c75446",
       "title": "Meta unveils its new Oakley Meta Vanguard smart glasses for athletes",
       "url": "https://techcrunch.com/2025/09/17/meta-unveils-its-new-oakley-meta-vanguard-smart-glasses-for-athletes/",
@@ -1248,19 +1261,6 @@
       "raw": "Apple's slimmest iPhone uses a \"revolutionary\" battery design that allows the cell to fill more space within the device, boosting overall energy storage.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "ae2127435bef8ebaceda554ef5210cd939791bcb",
-      "title": "Irish police find child remains in hunt for boy not marked as missing for four years",
-      "url": "https://www.theguardian.com/world/2025/sep/17/irish-police-find-child-remains-in-hunt-for-boy-not-marked-as-missing-for-four-years",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-17T17:59:18.000Z",
-      "summary_90w": "",
-      "raw": "Gardaí believe body is that of Daniel Aruebose, whose 2022 disappearance was not noticed by authorities until last month\nIrish police investigating the fate of a boy who disappeared four years ago but was only registered by authorities as missing last month have found the remains of a child on Dublin wasteland.\nGardaí named the missing boy as Daniel Aruebose, who is thought to have vanished in 2022 aged three, after they discovered the remains on Wednesday in the Donabate area of north Dublin.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
