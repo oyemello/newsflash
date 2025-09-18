@@ -1,7 +1,98 @@
 {
-  "version": "1758217946299",
-  "generatedAt": "2025-09-18T17:52:26.299Z",
+  "version": "1758219606189",
+  "generatedAt": "2025-09-18T18:20:06.189Z",
   "items": [
+    {
+      "id": "2eee16e20d2229ee5a3111e7edb8736da6de0e89",
+      "title": "Here’s the tech powering ICE’s deportation crackdown ",
+      "url": "https://techcrunch.com/2025/09/18/heres-the-tech-powering-ices-deportation-crackdown/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-18T18:15:00.000Z",
+      "summary_90w": "",
+      "raw": "From phone spyware and facial recognition to phone unlocking technology and databases and more, this tech powers Trump's deportation machine.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "16d12de02a4b01876bb81645648dda68dd39c934",
+      "title": "Judges rule against Trump administration on deporting Guatemalan children and Venezuelans",
+      "url": "https://www.theguardian.com/us-news/2025/sep/18/ruling-trump-deport-children-guatemalan-venezuelan",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-18T18:10:34.000Z",
+      "summary_90w": "",
+      "raw": "Double defeat protects Venezuelans with temporary protected status and Guatemalan minors\nThe Trump administration has been handed a double defeat by judges in immigration cases, barring the executive branch from deporting a group of Guatemalan children and from slashing protections for many Venezuelans in the US.\nA federal judge on Thursday ordered the administration to refrain from deporting Guatemalan unaccompanied immigrant children with active immigration cases while a legal challenge plays out.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9df6dd5a5d12bfeeb82622d217a405b5b36d25ed",
+      "title": "Meta is opening up its smart glasses to developers",
+      "url": "https://www.theverge.com/news/780943/meta-smart-glasses-developer-toolkit-ray-ban-display",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-18T18:04:27.000Z",
+      "summary_90w": "",
+      "raw": "Meta is going to let apps access the vision and audio capabilities of its smart glasses thanks to a new Wearable Device Access Toolkit for developers.\n“Our first version of the toolkit will open up access to a suite of on-device sensors— empowering you to start building features within your mobile apps that leverage the hands-free benefits of AI glasses,” Meta says. “With our toolkit, you’ll be able to leverage the natural perspective of the wearer and the clarity of open-ear audio and mic access.”\nThe company has highlighted a few examples of how early testers are thinking about the toolkit: Twitch will let creators livestream from their glasses, and Disney’s Imagineering R&D team is working on prototypes to let people visiting Disney parks access tips while they’re wearing Meta’s smart glasses, according to a blog post.\nIt seems like this toolkit is super early, though. Developers can now get on a waitlist to be notified when a preview of the toolkit is available later this year. Actually publishing experiences that use the toolkit will “be available to limited audiences in the preview phase,” Meta says, and the company notes in an FAQ that it expects that general availability of publishing won’t be available until 2026. But given how popular the Ray-Ban Meta glasses have been and how promising Meta’s new smart glasses with a display seem, there could be a lot of appetite from developers to try this toolkit out.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8ff06b40a60c6609d02d84fb4a8bd365c40ce32f",
+      "title": "Notion’s new AI Agents will basically do your job for you",
+      "url": "https://www.theverge.com/news/781293/notion-ai-agent-do-your-job",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-18T18:02:57.000Z",
+      "summary_90w": "",
+      "raw": "Notion has entered the agent era of its AI evolution with the launch of the Notion Agent on Thursday. The announcement forms the bulk of the Notion 3.0 roll out available to all users. The company calls the new product a “teammate and Notion super user” that “can do everything a human can do in Notion.” \nWhile Notion users previously constructed pages and databases manually, now the agent builds both for them. Agents can also search for information beyond the Notion workspace and across connected tools such as Slack and the internet. The agents can form a plan and act on it, doing up to “20 minutes of autonomous work at a time across hundreds of pages at once,” according to the company press release. \nThe agents can also “remember” the user’s preferred way of working, such as which content to reference and where to file it. These “memories” are stored in the user’s profile that can be edited later. Each user’s agent can be personalized under multiple profiles with different behaviors for now, but fully automated and customized agents will be rolled out in the future. \nNotion’s use cases for AI agents include generating and editing email campaigns, collecting and analyzing feedback collected across multiple platforms into a single report, and turning meeting notes into emails and proposals. \nThe company’s cofounder Akshay Kothari teased the launch of agents in August and September with videos of him prompting the agent to create a tracker of the cafes he has visited and a database of movies to watch based on scores from the website Rotten Tomatoes.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ed31467f3f7de99ceefc041efe11b9fa7f153646",
+      "title": "Kirby Air Riders feels more like F-Zero than Mario Kart",
+      "url": "https://www.theverge.com/games/781177/kirby-air-riders-feels-more-like-f-zero-than-mario-kart",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-18T18:00:11.000Z",
+      "summary_90w": "",
+      "raw": "I got to try Kirby Air Riders this morning at a Nintendo holiday showcase, and I wasn't prepared for how difficult it was - and how bad I am at it. The Switch 2-exclusive racer launches November 20th, and it's full of modes, collectibles, and new characters to play as. To be clear, there's absolutely nothing chill about Kirby Air Riders. It's the sequel to Kirby Air Ride, a cult classic GameCube game, and a passion project for Masahiro Sakurai, the game's director who was previously at the helm of the Super Smash Bros. franchise (it's easy to spot the shared DNA).\nThe demo had us play through some tutorials, which were easy to grasp, yet it …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "93d9c84b3833b9a4f306c98f28fe51791cb31be7",
+      "title": "Notion launches agents for data analysis and task automation",
+      "url": "https://techcrunch.com/2025/09/18/notion-launches-agents-for-data-analysis-and-task-automation/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-18T18:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Notion is launching its AI agent to let you automate tasks across hundreds of pages.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d3bd05ac099c5cd9b5e7fe886a75769e8f5b2752",
+      "title": "Uber is trying drone delivery again",
+      "url": "https://techcrunch.com/2025/09/18/uber-is-trying-drone-delivery-again/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-18T17:57:17.000Z",
+      "summary_90w": "",
+      "raw": "The company is partnering with Flytrex to make Uber Eats deliveries later this year. Uber is also making a small investment in Flytrex.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "48715cf74b7f1dded35c56ada0d291282b8d16d2",
       "title": "Microsoft is filling Teams with AI agents",
@@ -50,6 +141,19 @@
       "published": "2025-09-18T17:33:37.000Z",
       "summary_90w": "",
       "raw": "Move comes after Israel fails to meet UK conditions that would have postponed step\nThe UK is preparing to recognise the state of Palestine as early as Friday, after Israel failed to meet conditions that would have postponed the historic step, including a ceasefire in Gaza.\nKeir Starmer insisted the timing of the UK announcement had nothing to do with Donald Trump’s visit, even though the US president said at a press conference that he disagreed with Britain’s decision, without elaborating.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "438dcce7622a47ee39b65e7b5bfcbb5fab1bf8b9",
+      "title": "Musk's fellowship of Royal Society in doubt after Unite the Kingdom rally address",
+      "url": "https://www.bbc.com/news/articles/cly08l9vlpyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-18T17:30:24.000Z",
+      "summary_90w": "",
+      "raw": "The world's most prestigious scientific body raised concerns about the \"language of violence\" at the march.",
       "topics": [
         "World"
       ]
@@ -328,32 +432,6 @@
       ]
     },
     {
-      "id": "e6d672853fdef7968d37ed824bf8e5c7559cef06",
-      "title": "Anker’s recent power bank recall involves over 481,000 units",
-      "url": "https://www.theverge.com/news/781072/anker-power-bank-uscpsc-global-recall-fire-risk-battery-zolo-maggo",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-18T15:45:31.000Z",
-      "summary_90w": "",
-      "raw": "The USCPSC has shared more details about Anker’s voluntary power bank recall earlier this year. | Image: Anker\t\n\nThe US Consumer Product Safety Commission (USCPSC) has issued a formal notice with more details about the five power banks that Anker voluntarily recalled earlier this year. The agency has received 33 reports of incidents involving fires and explosions caused by the power banks, with four of them causing “minor burn injuries” and one resulting in “substantial property damage.” In total about 481,000 Anker power banks are part of the recall.\nThe recalled units are all external batteries that can be used to charge devices like smartphones and tablets when connected with a USB cable, while one also features a wireless charging pad. They include the Anker Power Bank (model A1257 and A1647), Anker MagGo Power Bank (model A1652), and Anker Zolo Power Bank (model A1681 and A1689). The model numbers can be located on the back or side of the recalled power banks which were sold through Best Buy, Target, Amazon, AliExpress, Walmart, eBay, and TikTok between August 2023 and June 2025.\nAnker says the likelihood of one of the power banks malfunctioning is “considered minimal,” but issued the global recall “out of an abundance of caution” after identifying a potential issue with lithium-ion batteries from one of its suppliers.\nConsumers with a recalled unit should immediately stop using it and properly dispose of it through a facility that can safely handle lithium-ion batteries. They should not be placed in the trash, recycling bins, or the used battery boxes found at many retailers. (Please do not put it in the garbage!) Anker is offering a full refund or a gift card that can be used to purchase other Anker products. You’ll need to fill out a refill form and provide the serial number of your power bank as well as a proof of purchase.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "d3ae3e02e21ab06ea832f7a54a15290c90e8ca19",
-      "title": "&#8216;Scattered Spider&#8217; teens charged over London transportation hack",
-      "url": "https://www.theverge.com/news/781039/scattered-spider-teens-charged-tfl-london-hack",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-18T15:44:16.000Z",
-      "summary_90w": "",
-      "raw": "Two teenagers have been charged in connection with a cyberattack against London’s public transportation network in August 2024. UK investigators believe the “network intrusion” that impacted Transport for London (TfL) last year was carried out by members of the Scattered Spider online criminal group and caused “significant disruption and millions in losses,” according to Paul Foster, head of the National Crime Agency’s cyber crime unit.\nThalha Jubair, 19, and Owen Flowers, 18, were arrested at their home addresses on Tuesday. Both teens were charged under the Computer Misuse Act with conspiracy to commit an unauthorized act against TfL. The Scattered Spider group, comprised of US and UK-based hackers, is also connected to attacks against MGM, Caesars Entertainment, and Marks & Spencer.\n“Earlier this year, the NCA warned of an increase in the threat from cyber criminals based in the UK and other English-speaking countries, of which Scattered Spider is a clear example,” Foster said. “Today’s charges are a key step in what has been a lengthy and complex investigation.”",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "a130f3df4d7a6b1b185950c02aa11a81185cbe3c",
       "title": "Workers across France strike over budget cut plans",
       "url": "https://www.bbc.com/news/articles/cj9zvg03elzo?at_medium=RSS&at_campaign=rss",
@@ -377,19 +455,6 @@
       "raw": "The event is as much about diplomacy as it is about fine dining.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "160296c2940ff18277090f931860c12913abff06",
-      "title": "James Cameron on AI: it&#8217;s &#8216;just as creative&#8217; as people, but with no &#8216;unique lived experience&#8217;",
-      "url": "https://www.theverge.com/column/780942/james-cameron-andrew-bosworth-ai-mixed-reality-headsets",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-18T15:30:00.000Z",
-      "summary_90w": "",
-      "raw": "James Cameron and Andrew Bosworth at Meta Connect.\t\n\nIn December, Meta announced a multiyear partnership with James Cameron's Lightstorm Vision to bring 3D entertainment to Meta's Quest headsets. This week, Cameron joined Meta CTO Andrew Bosworth on stage during the company's Meta Connect conference to share a first result of that partnership: Quest owners are able to watch an exclusive preview clip for Cameron's upcoming Avatar 3 movie via the headset's new Horizon TV app.\nI had a chance to sit down with the duo ahead of their keynote appearance to talk about the potential that mixed reality headsets represent for 3D video, the complicated history of 3D TV, and Cameron's attitude toward gene …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -550,7 +615,7 @@
     },
     {
       "id": "23cb730994b0712a22bce7188023d6aa3e48f11f",
-      "title": "Nvidia buys $5 billion stake in Intel, planning AI chip collaboration",
+      "title": "Nvidia buys $5B stake in Intel, planning AI chip collaboration",
       "url": "https://techcrunch.com/2025/09/18/nvidia-buys-5-billion-stake-in-intel-planning-ai-chip-collaboration/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -744,19 +809,6 @@
       ]
     },
     {
-      "id": "040c14a05b86c05612a5782ac6aa0664ccb04831",
-      "title": "Israeli minister touts Gaza 'real estate bonanza', defying international backlash",
-      "url": "https://www.bbc.com/news/articles/c5y59z6rznvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-18T12:08:07.000Z",
-      "summary_90w": "",
-      "raw": "Bezalel Smotrich, an ultranationalist who has been sanctioned by the UK and others, said he was in discussion with the US over the idea.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a3d9292ddc82f4cdffd91883ecce3cc0b4ce150d",
       "title": "Macrons to submit scientific evidence to US court to prove Brigitte was not born a man",
       "url": "https://www.theguardian.com/world/2025/sep/18/macrons-submit-scientific-evidence-us-court-prove-brigitte-not-man",
@@ -777,7 +829,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-18T11:49:49.000Z",
       "summary_90w": "",
-      "raw": "Agreement reached with France allows for removal of asylum seekers who arrive on small boats\n\nUK politics live – latest updates\n\nThe first Channel migrant has been deported to France under the controversial one in, one out deal, the Home Office has confirmed.\nIt follows three days of cancellations of tickets of asylum seekers due to fly and a high court challenge that halted the imminent removal of a 25-year-old Eritrean man to France on Tuesday evening. He was granted more time to gather evidence relating to his claim that he is a victim of trafficking.\n Continue reading...",
+      "raw": "Agreement reached with France allows for removal of asylum seekers who arrive on small boats\n\nThe first Channel migrant has been deported to France under the controversial one in, one out deal, the Home Office has confirmed.\nIt follows three days of cancellations of tickets of asylum seekers due to fly and a high court challenge that halted the imminent removal of a 25-year-old Eritrean man to France on Tuesday evening. He was granted more time to gather evidence relating to his claim that he is a victim of trafficking.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -968,13 +1020,13 @@
       "id": "b3a5c0bb52860491a9b25a1ef6c176c6cd5bd29d",
       "title": "Foreign influencers are doing their best to spin the Charlie Kirk assassination",
       "url": "https://www.npr.org/2025/09/18/nx-s1-5544235/kirk-assassination-foreign-influence-disinformation",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2025-09-18T09:00:00.000Z",
       "summary_90w": "",
       "raw": "Russia, Iran and China have all attempted to shape the narrative, but so far, their influence has been relatively minor, experts say.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -994,13 +1046,13 @@
       "id": "3d3a66642c9d7a609783180c1ce86731df377bcb",
       "title": "New policies are making life harder for trans people — and prompting big financial decisions",
       "url": "https://www.npr.org/2025/09/18/nx-s1-5445303/transgender-people-financial-anxiety",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
       "published": "2025-09-18T09:00:00.000Z",
       "summary_90w": "",
       "raw": "White House executive orders and legislation in many states have targeted the rights and protections of trans people. For some, that has meant increased financial worry.",
       "topics": [
-        "Business"
+        "World"
       ]
     },
     {
@@ -1199,19 +1251,6 @@
       ]
     },
     {
-      "id": "87d35b7828b70a86c7272000d222ab5317b8384e",
-      "title": "India leads the way on Google’s Nano Banana with a local creative twist",
-      "url": "https://techcrunch.com/2025/09/17/india-leads-the-way-on-googles-nano-banana-with-a-local-creative-twist/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-18T04:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Indian users turning Google’s Nano Banana into a viral trend engine, from retro AI portraits to figurine-style selfies.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "c4e695770080a4dc462ad6c55ebb47d001c23bd6",
       "title": "Body found in car registered to D4vd identified as missing teen",
       "url": "https://www.bbc.com/news/articles/ceq27zdzgrqo?at_medium=RSS&at_campaign=rss",
@@ -1264,19 +1303,6 @@
       ]
     },
     {
-      "id": "f998bb5d93a45ccd847e1405e42ff01bc3fb696c",
-      "title": "Meta launches Hyperscape, technology to turn real-world spaces into VR",
-      "url": "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-18T00:43:31.000Z",
-      "summary_90w": "",
-      "raw": "Meta launches Hyperscape into beta, allowing users to turn real world spaces into digital spaces for VR.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "e066b6155405bc0884fa4814bcdafe5ffd6fdb5d",
       "title": "Venezuela starts days of military and ‘electronic warfare’ drills after US strikes on alleged drug boats",
       "url": "https://www.theguardian.com/world/2025/sep/18/venezuela-military-exercises-after-us-boat-attacks-kill-14-people",
@@ -1287,19 +1313,6 @@
       "raw": "Armed forces say ‘special naval militia’ involved in Caribbean deployment as defence minister cites ‘threatening, vulgar voice’ of Washington\nVenezuela says it has begun three days of military exercises on its Caribbean island of La Orchila as tensions soar amid US military activity in the region.\nForces deployed for what Washington called an anti-drug operation have blown up at least two Venezuelan boats and a combined 14 people allegedly transporting drugs across the Caribbean this month – a move slammed by UN experts as “extrajudicial execution”.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "cda2e03329cf61c74696c19836268dd3ac903d17",
-      "title": "Meta unveils new smart glasses with a display and wristband controller",
-      "url": "https://techcrunch.com/2025/09/17/meta-unveils-new-smart-glasses-with-a-display-and-wristband-controller/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-18T00:25:39.000Z",
-      "summary_90w": "",
-      "raw": "Meta showed off its newest AI-powered smart glasses, which have a display and are controlled by a wristband, at Meta Connect 2025.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1688,19 +1701,6 @@
       "published": "2025-09-16T19:23:00.000Z",
       "summary_90w": "",
       "raw": "Court rules former president, sentenced to 27 years for coup attempt, must pay R$1m for ‘cockroaches’ comment in 2021\nJair Bolsonaro has been ordered to pay R$1m (£138,000) in collective moral damages for remarks deemed “racist” while he was in office.\nThe latest ruling, delivered by a state appeals court, came less than a week after Brazil’s former president was sentenced to 27 years and three months in prison for leading an attempted coup to overturn the result of the 2022 election.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "25e03538e3e9d46dd1bb0cc7d474bd6a8ac81b49",
-      "title": "UN tries to limit staff going to Cop30 in Brazil due to high price of hotels",
-      "url": "https://www.theguardian.com/environment/2025/sep/16/un-tries-to-limit-staff-going-to-cop30-in-brazil-due-to-high-price-of-hotels",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-16T16:44:01.000Z",
-      "summary_90w": "",
-      "raw": "Accommodation costs at climate summit in Belem are pricing out some developing countries and media outlets\n\nThe United Nations has urged its staff to limit attendance at the Cop30 climate summit in Brazil in November due to high accommodation prices, while government delegations are still scrambling to find rooms within their budgets.\nThe move comes as delegations grow increasingly concerned about the cost of accommodation in the coastal Amazon city of Belem hosting Cop30. Brazil said it was working to increase the number of available hotel beds, but soaring prices for accommodation have stoked calls from some governments to relocate the conference, which Brazilian officials have rejected.\n Continue reading...",
       "topics": [
         "World"
       ]
