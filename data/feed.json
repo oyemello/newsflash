@@ -1,7 +1,72 @@
 {
-  "version": "1758280412011",
-  "generatedAt": "2025-09-19T11:13:32.011Z",
+  "version": "1758281332341",
+  "generatedAt": "2025-09-19T11:28:52.341Z",
   "items": [
+    {
+      "id": "8da9e997e286853837fb10926ccaa5f91b5b878d",
+      "title": "Minister rejects Trump's call for military to tackle illegal migration",
+      "url": "https://www.bbc.com/news/articles/c04qre9l0v3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-19T11:12:27.000Z",
+      "summary_90w": "",
+      "raw": "US President Donald Trump suggested the military could help tackle illegal migration to the UK.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8da9e997e286853837fb10926ccaa5f91b5b878d",
+      "title": "Minister rejects Trump's call for military to tackle illegal migration in UK",
+      "url": "https://www.bbc.com/news/articles/c04qre9l0v3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-19T11:12:27.000Z",
+      "summary_90w": "",
+      "raw": "Peter Kyle says the military is focused on key issues around the world and the UK Border Force has specific responsibility for policing borders.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3c9b78725e370d060341b8bd68a6232e04239d55",
+      "title": "Murder manhunt after two found shot in car",
+      "url": "https://www.bbc.com/news/articles/cqxzg2qj3v0o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-19T11:12:24.000Z",
+      "summary_90w": "",
+      "raw": "One man died at the scene and the other suffers life-threatening injuries, police say.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "319fa0efb4644cd234bbaf6a94c7532473f37f6a",
+      "title": "British couple freed after months in Taliban prison",
+      "url": "https://www.bbc.com/news/articles/c0q7l8ewj0wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-19T11:12:10.000Z",
+      "summary_90w": "",
+      "raw": "The family of Barbie, 76, and Peter Reynolds, 80, had feared they would die in detention as their health deteriorated.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "272f53b17cdd2694d109086bc4d6ea56d088dcee",
+      "title": "Kirk's death fuels free speech disputes. And, vaccine panel changes MMRV guidance",
+      "url": "https://www.npr.org/2025/09/19/g-s1-89564/up-first-newsletter-free-speech-charlie-kirk-cdc-mmrv-vaccine-antifa-terror-designation",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-19T11:08:07.000Z",
+      "summary_90w": "",
+      "raw": "Free speech has become an increasing focal point after comments about Charlie Kirk's assassination have caused people to lose jobs. And, a CDC vaccine panel rolls back MMRV vaccine guidance.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "479b55df69d1d8ae045aeadd655da5a22f6b34d0",
       "title": "ChatGPT tricked to swipe sensitive data from Gmail",
@@ -13,6 +78,19 @@
       "raw": "Security researchers employed ChatGPT as a co-conspirator to plunder sensitive data from Gmail inboxes without alerting users. The vulnerability exploited has been closed by OpenAI but it’s a good example of the new risks inherent to agentic AI.\nThe heist, called Shadow Leak and published by security firm Radware this week, relied on a quirk in how AI agents work. AI Agents are assistants that can act on your behalf without constant oversight, meaning they can surf the web and click on links. AI companies laud them as a massive timesaver after users authorize their access to personal emails, calendars, work documents, etc.\nRadware researchers exploited this helpfulness with a form of attack called a prompt injection, instructions that effectively get the agent to work for the attacker. The powerful tools are impossible to prevent without prior knowledge of a working exploit and hackers have already deployed them in creative ways including rigging peer review, executing scams, and controlling a smart home. Users are often entirely unaware something has gone wrong as instructions can be hidden in plain sight (to humans), for example as white text on a white background. \nThe double agent in this case was OpenAI’s Deep Research, an AI tool embedded within ChatGPT that launched earlier this year. Radware researchers planted a prompt injection in an email sent to a Gmail inbox the agent had access to. There it waited. \nWhen the user next tries to use Deep Research, they would unwittingly spring the trap. The agent would encounter the hidden instructions, which tasked it with searching for HR emails and personal details and smuggling these out to the hackers. The victim is still none the wiser.\nGetting an agent to go rogue — as well as managing to successfully get data out undetected, which companies can take steps to prevent — is no easy task and there was a lot of trial and error. “This process was a rollercoaster of failed attempts, frustrating roadblocks, and, finally, a breakthrough,” the researchers said. \nUnlike most prompt injections, the researchers said Shadow Leak executed on OpenAI’s cloud infrastructure and leaked data directly from there. This makes it invisible to standard cyber defenses, they wrote. \nRadware said the study was a proof-of-concept and warned that other apps connected to Deep Research — including Outlook, GitHub, Google Drive, and Dropbox — may be vulnerable to similar attacks. “The same technique can be applied to these additional connectors to exfiltrate highly sensitive business data such as contracts, meeting notes or customer records,” they said.\nOpenAI has now plugged the vulnerability flagged by Radware in June, the researchers said.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "b48738ecc336e687bf5d1348d84f08382165c913",
+      "title": "Israel army says it will use ‘unprecedented force’ in Gaza City and urges residents to leave – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/19/palestinian-state-palestine-recognition-gaza-israel-middle-east-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-19T11:00:32.000Z",
+      "summary_90w": "",
+      "raw": "IDF tells residents of Gaza City to flee south but closes Salah al-Din road evacuation route\nGerman chancellor Friedrich Merz and Spanish prime minister Pedro Sánchez on Thursday acknowledged differences over the Gaza conflict after talks in Madrid, reports Agence France-Presse (AFP).\nThe two governments hold “divergent views” on the conflict and draw “different conclusions” regarding the situation, Merz said at a news conference with Sanchez.\n Continue reading...",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -81,32 +159,6 @@
       ]
     },
     {
-      "id": "b48738ecc336e687bf5d1348d84f08382165c913",
-      "title": "Israel army says it will use ‘unprecedented force’ in Gaza City and urges residents to leave – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/19/palestinian-state-palestine-recognition-gaza-israel-middle-east-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-19T10:47:55.000Z",
-      "summary_90w": "",
-      "raw": "IDF tells residents of Gaza City to flee south but closes Salah al-Din road evacuation route\nIn the latest episode of the Guardian’s Today in Focus podcast, diplomatic editor Patrick Wintour and Arab Barghouthi, who advocates on behalf of his father, Marwan, a Palestinian political leader commonly referred to as ‘Palestine’s Mandela’, speak with host Nosheen Iqbal about what is motivating the UK’s imminent recognition of Palestine and why it matters.\nYou can listen to the podcast here:\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "319fa0efb4644cd234bbaf6a94c7532473f37f6a",
-      "title": "British couple freed after months in Taliban prison",
-      "url": "https://www.bbc.com/news/articles/c0q7l8ewj0wo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-19T10:46:54.000Z",
-      "summary_90w": "",
-      "raw": "Barbie and Peter Reynolds, aged 80 and 76, spent eight months in prison with deteriorating health.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "c64cd389d338067229bde642ab32ab66b0f423f6",
       "title": "European Commission puts forward new package of sanctions against Russia – Europe live",
       "url": "https://www.theguardian.com/world/live/2025/sep/19/eu-sanctions-russia-oil-ukraine-vladimir-putin-volodymyr-zelenskyy-donald-trump-france-macron-europe-live-news",
@@ -141,32 +193,6 @@
       "published": "2025-09-19T10:23:42.000Z",
       "summary_90w": "",
       "raw": "Higher than expected borrowing adds to the pressure on the chancellor ahead of the Budget.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8da9e997e286853837fb10926ccaa5f91b5b878d",
-      "title": "Minister rejects Trump's call for military to tackle illegal migration",
-      "url": "https://www.bbc.com/news/articles/c04qre9l0v3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-19T10:07:49.000Z",
-      "summary_90w": "",
-      "raw": "US President Donald Trump suggested the military could help tackle illegal migration to the UK.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8da9e997e286853837fb10926ccaa5f91b5b878d",
-      "title": "Minister rejects Trump's call for military to tackle illegal migration in UK",
-      "url": "https://www.bbc.com/news/articles/c04qre9l0v3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-19T10:07:49.000Z",
-      "summary_90w": "",
-      "raw": "Peter Kyle says the military is focused on key issues around the world and the UK Border Force has specific responsibility for policing borders.",
       "topics": [
         "World"
       ]
@@ -224,6 +250,19 @@
       ]
     },
     {
+      "id": "dfac4fe1094175ee6b348740f0aa884e9a7a033f",
+      "title": "Skeletal remains of missing man found by walker",
+      "url": "https://www.bbc.com/news/articles/c1edj6e7d6zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-19T09:57:17.000Z",
+      "summary_90w": "",
+      "raw": "Mr Moray was reported missing from his flat with his games console still running in July 2019.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "0c60032e464d68b11619995f9fc428ce4b20dc9f",
       "title": "Norris heads Piastri in Azerbaijan practice",
       "url": "https://www.bbc.com/sport/formula1/articles/c9319kqz5e7o?at_medium=RSS&at_campaign=rss",
@@ -258,19 +297,6 @@
       "published": "2025-09-19T09:21:37.000Z",
       "summary_90w": "",
       "raw": "Research which began with conversations round a campfire and went on to examine 7m gene variants shows how people survive with little water and a meat-rich diet\nA collaboration between African and American researchers and a community living in one of the most hostile landscapes of northern Kenya has uncovered key genetic adaptations that explain how pastoralist people have been able to thrive in the region.\nUnderlying the population’s abilities to live in Turkana, a place defined by extreme heat, water scarcity and limited vegetation, has been hundreds of years of natural selection, according to a study published in Science.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "04c4d04eb29ded27fdebb5e72ce45ce86bbd731f",
-      "title": "Unwatchable or irresistible? The manager purists love to hate",
-      "url": "https://www.bbc.com/sport/football/articles/cvgqvlpwezgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-19T09:20:01.000Z",
-      "summary_90w": "",
-      "raw": "As Getafe prepare to visit Barcelona on Sunday in La Liga, European football expert Guillem Balague profiles their controversial manager Jose Bordalas.",
       "topics": [
         "World"
       ]
@@ -341,19 +367,6 @@
       ]
     },
     {
-      "id": "dbd98e68ea3d046ffdbf48199721876e74278d1a",
-      "title": "A deadly assault in Charlotte underscores a shift in crime on public transit",
-      "url": "https://www.npr.org/2025/09/19/nx-s1-5537120/deadly-assault-charlotte-public-transit",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-19T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A violent killing in Charlotte's transit system has gotten a lot of attention. The numbers say trains and buses remain safe overall, but assault has eclipsed robbery and theft as the biggest concern.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "800eb6de6e10e0ad44c339c04c5738a7d13c39c5",
       "title": "A judge ordered Google to share its search data. What does that mean for user privacy?",
       "url": "https://www.npr.org/2025/09/19/nx-s1-5538073/google-search-antitrust-data-privacy",
@@ -367,14 +380,14 @@
       ]
     },
     {
-      "id": "7599744072f93031cca7a9e757bbca6e2ca277d0",
-      "title": "Lawsuit aims to force Trump administration to stop delaying student loan forgiveness",
-      "url": "https://www.npr.org/2025/09/19/nx-s1-5545727/student-loan-forgiveness-education-department",
+      "id": "6ebcb990fc24ca21a06d4fb33fe2f2f7148f8016",
+      "title": "Longtime University of Alabama football referee still helping the Tide roll at age 97",
+      "url": "https://www.npr.org/2025/09/19/nx-s1-5527850/university-of-alabama-football-referee-eddie-conyers",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-09-19T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "The American Federation of Teachers is seeking a preliminary injunction that would force the department to resume student loan forgiveness.",
+      "raw": "Eddie Conyers has been a referee during University of Alabama football practices since the 1960s. Recruited by famed coach Paul \"Bear\" Bryant, Conyers, now 97, is mentoring and training officials.",
       "topics": [
         "World"
       ]
@@ -739,19 +752,6 @@
       "published": "2025-09-18T23:34:01.000Z",
       "summary_90w": "",
       "raw": "The country is at the conjuncture of several crises at once - but is it fair to blame Macron for 'this shipwreck'?",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "bc8eee13327d8efe6d3ee49ae1c56791ea9fb1fa",
-      "title": "Sutton's predictions v The Coral, Starsailor, Picture Parlour & AI",
-      "url": "https://www.bbc.com/sport/football/articles/cvg98pv6vnvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-18T23:25:48.000Z",
-      "summary_90w": "",
-      "raw": "BBC Sport football expert Chris Sutton takes on celebrity fans of Liverpool and Everton with his predictions for this weekend's Premier League fixtures.",
       "topics": [
         "World"
       ]
