@@ -1,7 +1,72 @@
 {
-  "version": "1758279121159",
-  "generatedAt": "2025-09-19T10:52:01.159Z",
+  "version": "1758280412011",
+  "generatedAt": "2025-09-19T11:13:32.011Z",
   "items": [
+    {
+      "id": "479b55df69d1d8ae045aeadd655da5a22f6b34d0",
+      "title": "ChatGPT tricked to swipe sensitive data from Gmail",
+      "url": "https://www.theverge.com/news/781746/chatgpt-gmail-shadow-leak",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-19T11:06:46.000Z",
+      "summary_90w": "",
+      "raw": "Security researchers employed ChatGPT as a co-conspirator to plunder sensitive data from Gmail inboxes without alerting users. The vulnerability exploited has been closed by OpenAI but it’s a good example of the new risks inherent to agentic AI.\nThe heist, called Shadow Leak and published by security firm Radware this week, relied on a quirk in how AI agents work. AI Agents are assistants that can act on your behalf without constant oversight, meaning they can surf the web and click on links. AI companies laud them as a massive timesaver after users authorize their access to personal emails, calendars, work documents, etc.\nRadware researchers exploited this helpfulness with a form of attack called a prompt injection, instructions that effectively get the agent to work for the attacker. The powerful tools are impossible to prevent without prior knowledge of a working exploit and hackers have already deployed them in creative ways including rigging peer review, executing scams, and controlling a smart home. Users are often entirely unaware something has gone wrong as instructions can be hidden in plain sight (to humans), for example as white text on a white background. \nThe double agent in this case was OpenAI’s Deep Research, an AI tool embedded within ChatGPT that launched earlier this year. Radware researchers planted a prompt injection in an email sent to a Gmail inbox the agent had access to. There it waited. \nWhen the user next tries to use Deep Research, they would unwittingly spring the trap. The agent would encounter the hidden instructions, which tasked it with searching for HR emails and personal details and smuggling these out to the hackers. The victim is still none the wiser.\nGetting an agent to go rogue — as well as managing to successfully get data out undetected, which companies can take steps to prevent — is no easy task and there was a lot of trial and error. “This process was a rollercoaster of failed attempts, frustrating roadblocks, and, finally, a breakthrough,” the researchers said. \nUnlike most prompt injections, the researchers said Shadow Leak executed on OpenAI’s cloud infrastructure and leaked data directly from there. This makes it invisible to standard cyber defenses, they wrote. \nRadware said the study was a proof-of-concept and warned that other apps connected to Deep Research — including Outlook, GitHub, Google Drive, and Dropbox — may be vulnerable to similar attacks. “The same technique can be applied to these additional connectors to exfiltrate highly sensitive business data such as contracts, meeting notes or customer records,” they said.\nOpenAI has now plugged the vulnerability flagged by Radware in June, the researchers said.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7a99d214df16ea45e9d072fb5979869cec209885",
+      "title": "Their teenage sons died by suicide. Now, they are sounding an alarm about AI chatbots",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545749/ai-chatbots-safety-openai-meta-characterai-teens-suicide",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-19T11:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Grieving parents and online safety advocates at a congressional hearing called for new laws to regulate AI companion apps to protect the mental health of minors.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4326fa9b47371316da42834b46089547d6e8c98c",
+      "title": "Migrant returned to France after government wins court challenge",
+      "url": "https://www.bbc.com/news/articles/cx273vnkjpmo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-19T10:55:03.000Z",
+      "summary_90w": "",
+      "raw": "Eritrean man arrives in Paris under the \"one in, one out\" deal as at least three boats carrying migrants leave beaches in France.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b63003d2c3ff47c25fee1ee52bd3927b65aeaa86",
+      "title": "Meta&#8217;s failed smart glasses demos had nothing to do with the Wi-Fi",
+      "url": "https://www.theverge.com/news/781730/meta-explains-live-ai-smart-glasses-demo-failures",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-19T10:53:36.000Z",
+      "summary_90w": "",
+      "raw": "Well that was awkward.\t\n\nMeta ran into some spectacularly embarrassing technical issues during the live demos of its new smart glasses this week, and now we know why. Andrew Bosworth, Meta’s chief technology officer, explained in an Instagram AMA why two notable demos — an influencer asking the AI assistant for cooking instructions, and Mark Zuckerberg attempting to pick up a WhatsApp call — failed. \n“When the chef said ‘hey Meta, start Live AI,’ it started every single Meta Ray-Ban’s Live AI in the building,” said Bosworth. “We had routed Live AI traffic to our dev server, in theory, to isolate it, but we had done it for everyone in that building on those access points. We DDoS’d ourselves, basically.” So yeah, it wasn’t the Wi-Fi, as Zuck claimed on stage.\n\n \n @verge \nSome of the most impressive smart glasses in the industry were presented at Meta Connect 2025, but presenters had some of the biggest demo failures we’ve seen live in a while. In addition, part of the keynote included a sit down discussion with James Cameron and ended with a run into the horizon with Diplo. It was a weird evening. #metaconnect #meta #markzuckerberg #tech #techtok \n ♬ original sound – The Verge \n  \n\n\nThe video call issue was “more obscure,” according to Bosworth, and involved a “never-before-seen bug” that occurred because the Display glasses had gone to sleep at the same moment that the device received the call notification. Bosworth says that the bug has now been fixed, but acknowledged the onstage demo was a “terrible place for that bug to show up.”\n\n\n\n\n\n\nEven with the technical blunders, Meta providing an honest live product demonstration is a nice break from the usual fare of pre-recorded videos and generative AI errors that companies like Apple and Google showcase these days.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "26a6050ee8d8c75986ba07cb4087129a05d01cca",
+      "title": "What FCC chair's threats against ABC could mean for other media companies",
+      "url": "https://www.npr.org/2025/09/19/nx-s1-5545681/what-fcc-chairs-threats-against-abc-could-mean-for-other-media-companies",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-19T10:53:35.000Z",
+      "summary_90w": "",
+      "raw": "Robert Corn-Revere with the Foundation for Individual Rights and Expression talks about the effect the FCC chair's threats against ABC could have for other media companies.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "a6d7ccc2cf22cd027d97b9e9b941f3441f0938f0",
       "title": "Aid cuts hit Uganda hard. With worry and grit, it's finding new ways to save lives",
@@ -11,6 +76,19 @@
       "published": "2025-09-19T10:48:47.000Z",
       "summary_90w": "",
       "raw": "Uganda is one of the countries that's greatly affected by the reduction of U.S. foreign aid. Here's how the health care system is responding — with trepidation, innovation and resilience.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b48738ecc336e687bf5d1348d84f08382165c913",
+      "title": "Israel army says it will use ‘unprecedented force’ in Gaza City and urges residents to leave – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/19/palestinian-state-palestine-recognition-gaza-israel-middle-east-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-19T10:47:55.000Z",
+      "summary_90w": "",
+      "raw": "IDF tells residents of Gaza City to flee south but closes Salah al-Din road evacuation route\nIn the latest episode of the Guardian’s Today in Focus podcast, diplomatic editor Patrick Wintour and Arab Barghouthi, who advocates on behalf of his father, Marwan, a Palestinian political leader commonly referred to as ‘Palestine’s Mandela’, speak with host Nosheen Iqbal about what is motivating the UK’s imminent recognition of Palestine and why it matters.\nYou can listen to the podcast here:\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -50,19 +128,6 @@
       "published": "2025-09-19T10:35:18.000Z",
       "summary_90w": "",
       "raw": "Outgoing MI6 chief Sir Richard Moore said potential agents in Russia and around the world will be targeted by the UK spy agency.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b48738ecc336e687bf5d1348d84f08382165c913",
-      "title": "Israel army says it will use ‘unprecedented force’ in Gaza City and urges residents to leave – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/19/palestinian-state-palestine-recognition-gaza-israel-middle-east-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-19T10:35:08.000Z",
-      "summary_90w": "",
-      "raw": "IDF tells residents of Gaza City to flee south but closes Salah al-Din road evacuation route\nThe UK is preparing to recognise the state of Palestine as early as Friday, after Israel failed to meet conditions that would have postponed the historic step, including a ceasefire in Gaza.\nKeir Starmer insisted the timing of the UK announcement had nothing to do with Donald Trump’s visit, even though the US president said at a press conference that he disagreed with Britain’s decision, without elaborating.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -154,19 +219,6 @@
       "published": "2025-09-19T09:58:37.000Z",
       "summary_90w": "",
       "raw": "Telco head says two people in South Australia and one in Western Australia died, offering his ‘sincere apologies’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThree people died after an Optus network upgrade prevented triple zero calls in three states and territories on Thursday, the telco’s chief executive officer has confirmed.\nTwo of the deceased were in South Australia and one was in Western Australia, Stephen Rue said, but added that welfare checks after the upgrade were “ongoing”.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4326fa9b47371316da42834b46089547d6e8c98c",
-      "title": "Migrant returned to France after government wins court challenge",
-      "url": "https://www.bbc.com/news/articles/cx273vnkjpmo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-19T09:49:35.000Z",
-      "summary_90w": "",
-      "raw": "Eritrean man arrives in Paris under the \"one in, one out\" deal as at least three boats carrying migrants leave beaches in France.",
       "topics": [
         "World"
       ]
@@ -315,19 +367,6 @@
       ]
     },
     {
-      "id": "42ff618ed9b134fb38c82b086740324f1d7ff773",
-      "title": "House to vote on stopgap funding bill, but health care fight threatens a shutdown",
-      "url": "https://www.npr.org/2025/09/19/nx-s1-5545929/house-stopgap-funding-bill-government-shutdown",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-19T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "House Republicans are pushing a bill funding government agencies through November 21, but Democrats say without a plan to renew expiring health care subsidies they will oppose it.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7599744072f93031cca7a9e757bbca6e2ca277d0",
       "title": "Lawsuit aims to force Trump administration to stop delaying student loan forgiveness",
       "url": "https://www.npr.org/2025/09/19/nx-s1-5545727/student-loan-forgiveness-education-department",
@@ -336,19 +375,6 @@
       "published": "2025-09-19T09:00:00.000Z",
       "summary_90w": "",
       "raw": "The American Federation of Teachers is seeking a preliminary injunction that would force the department to resume student loan forgiveness.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6ebcb990fc24ca21a06d4fb33fe2f2f7148f8016",
-      "title": "Longtime University of Alabama football referee still helping the Tide roll at age 97",
-      "url": "https://www.npr.org/2025/09/19/nx-s1-5527850/university-of-alabama-football-referee-eddie-conyers",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-19T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Eddie Conyers has been a referee during University of Alabama football practices since the 1960s. Recruited by famed coach Paul \"Bear\" Bryant, Conyers, now 97, is mentoring and training officials.",
       "topics": [
         "World"
       ]
@@ -1030,19 +1056,6 @@
       ]
     },
     {
-      "id": "8b8dc1c7adb2c22d94864fb8c18c2576712ecde9",
-      "title": "Ubiquiti’s new desktop NAS looks more like a wireless router",
-      "url": "https://www.theverge.com/news/781433/ubiquiti-nas-unas-2-4-raid-backup",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-18T18:49:30.000Z",
-      "summary_90w": "",
-      "raw": "The UNAS 2 holds a pair of hard drives in a RAID 1 configuration. | Screenshot: YouTube (Ubiquiti)\t\n\nUbiquiti has announced a collection of new storage solutions compatible with its UniFi lineup of networking devices that already includes routers, switches, and security cameras. Compared to other desktop network attached storage (NAS) solutions from companies like Synology and Ugreen, Ubiquiti’s UNAS 2 and UNAS 4 look more like sleek wireless routers than storage solutions stuffed full of hard drives and SSDs.\nThe entry-level UNAS 2 is now available in a black or white finish for $199 and accommodates a pair of 3.5-inch hard drives in a RAID 1 configuration. To achieve the minimal design, the drives are inserted using an access panel on the underside of the NAS which includes a sliding locking mechanism to ensure they don’t fall out while it’s standing upright. There’s a 5 Gbps USB-C port on the front for attaching additional external storage, but otherwise the UNAS 2 requires just a single ethernet cable connected to a device like a switch that supports power over ethernet (POE) delivery. If your setup is lacking one, the UNAS 2 comes with a 60W POE adapter.\nThe UNAS 2 also includes a 1.45-inch screen on the front showing real-time performance and storage metrics, but if you need even more networked storage sitting on your desk, the UNAS 4 may be a better fit if you don’t mind sacrificing a bit more space. It’s expected to ship later this year for $379 and while it features a similar design and functionality as the UNAS 2, it’s much larger and can accommodate up to four 2.5-inch or 3.5-inch hard drives plus a pair of M.2 NVMe SSD drives. Although Ubiquiti’s rack-mounted NAS solutions offer more capacity and RAID options, the company hasn’t yet shared what RAID configurations the UNAS 4 will support, or if like the UNAS 2 it will be limited to RAID 1.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "c62aefc1f684b91cb15ed05c54f05fe9c3b229cb",
       "title": "US government charges British teenager accused of at least 120 ‘Scattered Spider’ hacks",
       "url": "https://techcrunch.com/2025/09/18/us-government-charges-british-teenager-accused-of-at-least-120-scattered-spider-hacks/",
@@ -1079,19 +1092,6 @@
       "raw": "Despite opposition to the deal, Ghana's president says 40 more deportees will arrive from the US.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "98aa188e6b3294fa3bd4ddacde09e148967ee600",
-      "title": "Meta&#8217;s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder",
-      "url": "https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-18T18:17:08.000Z",
-      "summary_90w": "",
-      "raw": "At its Connect keynote on Wednesday, Meta officially introduced the $799.99 Meta Ray-Ban Display, also known as Hypernova. The brand's new, high-end smart glasses feature an in-lens display you can control with wrist-based gestures via the new Meta Neural Band that's included. The display pairs with your phone and allows you to see everything from text messages and Instagram Reels to maps and more - all without having to pull out your device. They seem like a more fully-realized version of Google Glass, and they'll be released on September 30th. That's also when in-store demos will be available at Best Buy, LensCrafters, Sunglass Hut, Ray-Ba …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1940,6 +1940,19 @@
       ]
     },
     {
+      "id": "b091cca68567bfa47ecacac0773cd3113129a276",
+      "title": "Fast-paced zombie horror starring Brad Pitt",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002jkgd/world-war-z?at_mid=yMffwrv6JX&at_campaign=World_War_Z&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002jkgd&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=World_War_Z&at_bbc_team=BBC&at_creation=film",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-15T05:00:00.000Z",
+      "summary_90w": "",
+      "raw": "A former UN employee is called in to help stop a pandemic that has spread around the world",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "c631afb463e1d01c63cd77855018ce6ea36883d0",
       "title": "Why parents need to talk to their teens about AI — and how to start the conversation",
       "url": "https://www.npr.org/2025/09/13/nx-s1-5506114/why-parents-need-talk-teens-ai-how-to-start-conversation",
@@ -2065,19 +2078,6 @@
       "published": "2025-09-10T02:05:05.000Z",
       "summary_90w": "",
       "raw": "Meta denies the allegations and described the \"claims at the heart\" of the Senate hearing as \"nonsense\".",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "eb434b6040dc3a728f1bf892db9aff0fe30d9d63",
-      "title": "Trump wants to win AI race, but his immigration policies could get in the way",
-      "url": "https://www.npr.org/2025/09/09/nx-s1-5479090/trump-wants-to-win-ai-race-but-his-immigration-policies-could-get-in-the-way",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2025-09-09T09:03:36.000Z",
-      "summary_90w": "",
-      "raw": "President Trump says he wants the U.S. to be a world leader on AI development, but his administration's immigration policies could interfere with that goal.",
       "topics": [
         "Technology"
       ]
