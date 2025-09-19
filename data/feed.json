@@ -1,7 +1,20 @@
 {
-  "version": "1758314075941",
-  "generatedAt": "2025-09-19T20:34:35.941Z",
+  "version": "1758314596148",
+  "generatedAt": "2025-09-19T20:43:16.148Z",
   "items": [
+    {
+      "id": "9efc7df3835fc70fef1339c6c1bc9a7574233e2a",
+      "title": "Corporate America's week of political retreats",
+      "url": "https://www.npr.org/2025/09/19/nx-s1-5545820/corporate-americas-week-of-political-retreats",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2025-09-19T20:33:16.000Z",
+      "summary_90w": "",
+      "raw": "Companies have been firing employees and cracking down on reactions to Charlie Kirk's assassination, in what business and legal experts call a \"pretty bad\" time for free speech.",
+      "topics": [
+        "Business"
+      ]
+    },
     {
       "id": "c74aa2cf8ecab81169f9a6bbaee14ffbdb955584",
       "title": "Cracking Product-Market Fit: Lessons from Founders and Investors at TechCrunch Disrupt 2025",
@@ -43,13 +56,13 @@
     },
     {
       "id": "55569f243100e661a92ffab8190324ef6c0c3521",
-      "title": "CDC advisers vote to add new COVID vaccines rules that could discourage uptake",
+      "title": "RFK Jr.'s vaccine panel backs away from asking states to require an Rx for a COVID shot",
       "url": "https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545946/cdc-covid-vaccine-acip-recommendations",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-09-19T20:05:47.000Z",
       "summary_90w": "",
-      "raw": "The group voted to require people who want a shot to be briefed on harms and benefits and tried but failed to pass a requirement for a prescription.",
+      "raw": "The group voted to require people who want a COVID shot to be briefed on harms and benefits, but in a close vote, the panel failed to pass a change that would have asked states to require people to get a prescription.",
       "topics": [
         "World"
       ]
@@ -335,7 +348,7 @@
       "source_name": "TechCrunch",
       "published": "2025-09-19T17:20:53.000Z",
       "summary_90w": "",
-      "raw": "The two countries have been working on a way to save TikTok's U.S. business, after the TikTok ban in January over national security concerns.",
+      "raw": "The two countries have been working on a way to save TikTok's U.S. business, after TikTok was banned in January over national security concerns.",
       "topics": [
         "Technology"
       ]
@@ -421,19 +434,6 @@
     {
       "id": "91fa0bd765b95876dfce11dee3c67098d3669aa6",
       "title": "Amy Hunt claims GB's second medal at World Athletics with brilliant 200m silver",
-      "url": "https://www.bbc.com/sport/athletics/articles/c701x1wn5rno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-19T16:58:19.000Z",
-      "summary_90w": "",
-      "raw": "Great Britain's Amy Hunt announces herself on the global stage by claiming a stunning 200m silver in her first major final at the World Championships in Tokyo.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "91fa0bd765b95876dfce11dee3c67098d3669aa6",
-      "title": "How 'choosing the hard path' helped Hunt win superb 200m silver",
       "url": "https://www.bbc.com/sport/athletics/articles/c701x1wn5rno?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -1540,24 +1540,37 @@
       "id": "c7c13522d4ec05444ed5cabe9e53cfe9eb5269ca",
       "title": "Kirk shooting videos spread online, even to viewers who didn't want to see them",
       "url": "https://www.npr.org/2025/09/18/nx-s1-5542231/kirk-shooting-violence-social-media",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2025-09-18T09:00:00.000Z",
       "summary_90w": "",
       "raw": "Graphic videos of the Charlie Kirk shooting spread widely online, raising concerns over the emotional and political toll of exposure to violent imagery.",
       "topics": [
-        "Business"
+        "Technology"
       ]
     },
     {
       "id": "64c1d9e35c9be0be17fd9a7bd88fd07c0babdba0",
       "title": "What does the Google antitrust ruling mean for the future of AI?",
       "url": "https://www.npr.org/2025/09/18/nx-s1-5539869/google-antitrust-ruling-future-of-ai",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2025-09-18T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "A federal judge's mild ruling in the Justice Department's suit over Google's search engine monopoly has critics worried that the tech giant can now monopolize artificial intelligence.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "020b0eef260034b44728db9d7eba3113af018511",
+      "title": "Why beef prices are higher than ever (and shoppers are finally resisting)",
+      "url": "https://www.npr.org/2025/09/18/nx-s1-5534424/beef-prices-record-high-cost",
       "source_id": "npr-business",
       "source_name": "NPR Topics: Business",
       "published": "2025-09-18T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "A federal judge's mild ruling in the Justice Department's suit over Google's search engine monopoly has critics worried that the tech giant can now monopolize artificial intelligence.",
+      "raw": "American ranchers are raising the fewest cows in decades. Through the price increases, American shoppers have stayed loyal to their love of burgers and steaks — until now.",
       "topics": [
         "Business"
       ]
