@@ -1,7 +1,46 @@
 {
-  "version": "1758405084846",
-  "generatedAt": "2025-09-20T21:51:24.846Z",
+  "version": "1758406391069",
+  "generatedAt": "2025-09-20T22:13:11.069Z",
   "items": [
+    {
+      "id": "202e4a223cdbdacd9c8b62ac29e54ac09cde742b",
+      "title": "California bans masks meant to hide law enforcement officers' identities",
+      "url": "https://www.npr.org/2025/09/20/nx-s1-5548532/newsom-trump-masked-ice-agents",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-20T22:02:48.000Z",
+      "summary_90w": "",
+      "raw": "The law, opposed by police organizations, was aimed by lawmakers at immigration agents and will test state powers over the conduct of federal officials.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b017383cca1d9395a4160b2eaeea3052542d8252",
+      "title": "Trump's new $100K fee on H-1B visas will hurt the tech companies trying to woo him",
+      "url": "https://www.npr.org/2025/09/20/nx-s1-5548568/h1b-visa-fee-trump-tech",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-20T21:56:33.000Z",
+      "summary_90w": "",
+      "raw": "More than half a million high-skilled U.S. workers are in the country through the H-1B program, which is heavily used by the big tech companies trying to curry favor with the president.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8e3976325c4545943911a4ea20dc7e94d6645dbe",
+      "title": "Former Liverpool manager Beard dies aged 47",
+      "url": "https://www.bbc.com/sport/football/articles/c0r00qx5llko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-20T21:51:59.000Z",
+      "summary_90w": "",
+      "raw": "Former Liverpool manager Matt Beard has died at the age of 47, the Women's Super League club announces.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "70b5fdd081293078ce956d9090387f68a5f4da63",
       "title": "Curtain rises on Strictly 2025 as new couples revealed ",
@@ -17,7 +56,7 @@
     },
     {
       "id": "ffdd499a3739d010ec8ea8fec82a139f2afb33d0",
-      "title": "Starmer set to announce UK recognition of Palestinian state",
+      "title": "Starmer set to announce UK recognition of Palestinian state on Sunday",
       "url": "https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -63,19 +102,6 @@
       "published": "2025-09-20T21:00:49.000Z",
       "summary_90w": "",
       "raw": "Tensions have risen across Europe after 19 drones entered Polish territory earlier this month.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8e3976325c4545943911a4ea20dc7e94d6645dbe",
-      "title": "Former Liverpool manager Beard dies aged 47",
-      "url": "https://www.bbc.com/sport/football/articles/c0r00qx5llko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-20T20:56:08.000Z",
-      "summary_90w": "",
-      "raw": "Former Liverpool manager Matt Beard has died at the age of 47, the Women's Super League club announces.",
       "topics": [
         "World"
       ]
@@ -380,19 +406,6 @@
       ]
     },
     {
-      "id": "9818fd18711686691ccb1a965968b782487c8070",
-      "title": "Russian Warplanes Breach Nato Airspace",
-      "url": "https://www.bbc.co.uk/sounds/play/p0m41z9w?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-20T15:54:00.000Z",
-      "summary_90w": "",
-      "raw": "Estonia has asked to consult other Nato members after warplanes violated its airspace.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a9c828f802d404a88acde7f775ad0a4cbe28451e",
       "title": "Malawi police arrest eight for alleged election fraud",
       "url": "https://www.bbc.com/news/articles/cx239dj0yx7o?at_medium=RSS&at_campaign=rss",
@@ -414,6 +427,19 @@
       "published": "2025-09-20T15:30:15.000Z",
       "summary_90w": "",
       "raw": "President Zelensky says Moscow seeks to \"intimidate civilians\", while Russia reports four deaths in a Ukrainian strike.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "93aa3f238c6aad3fd788782a37acb18367235d8d",
+      "title": "Derby hero Ekitike gives Slot dream Liverpool conundrum",
+      "url": "https://www.bbc.com/sport/football/articles/cly116zqx4no?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-20T15:08:30.000Z",
+      "summary_90w": "",
+      "raw": "Hugo Ekitike's star turn in the Merseyside derby win against Everton shows Liverpool's head coach Arne Slot has the striker dilemma of dreams, says chief football writer Phil McNulty.",
       "topics": [
         "World"
       ]
@@ -734,26 +760,13 @@
       "id": "2177964dc718a24937116ec938eea5ec849e901f",
       "title": "Cyberattack disrupts check-in systems at major European airports",
       "url": "https://www.npr.org/2025/09/20/g-s1-89727/cyberattack-european-airports",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2025-09-20T10:00:16.000Z",
       "summary_90w": "",
       "raw": "A cyberattack targeting check-in and boarding systems has disrupted air traffic and caused delays at several of Europe's major airports, officials said Saturday.",
       "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9ef4ae428e78089a7f43301156a8021dec6edb7a",
-      "title": "Suited to Lead: New exhibit highlights historical fashion choices of presidents",
-      "url": "https://www.npr.org/2025/09/20/nx-s1-5543195/presidents-fashion-white-house-exhibit",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-20T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A virtual exhibit from the White House Historical Association showcases presidential fashions — and how presidents have used clothes to make a statement.",
-      "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -1612,19 +1625,6 @@
       "raw": "Experts tell the BBC what a final deal might look like, and what Beijing might get in return.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "9d9dd2b099af522a87373aa42387738292612559",
-      "title": "Kimmel's suspension for Kirk comments sparks furor over free speech and censorship",
-      "url": "https://www.npr.org/2025/09/18/nx-s1-5545671/kimmel-suspension-charlie-kirk-death-free-speech-censorship",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-09-18T21:42:26.000Z",
-      "summary_90w": "",
-      "raw": "After Jimmy Kimmel's show was suspended \"indefinitely\" for comments he made following Charlie Kirk's death, questions about free speech and just what is government censorship reach heightened levels.",
-      "topics": [
-        "Business"
       ]
     },
     {
