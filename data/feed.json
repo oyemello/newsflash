@@ -1,7 +1,20 @@
 {
-  "version": "1758361287959",
-  "generatedAt": "2025-09-20T09:41:27.959Z",
+  "version": "1758361894825",
+  "generatedAt": "2025-09-20T09:51:34.825Z",
   "items": [
+    {
+      "id": "9ab18008177bf7fe7a4ea7efba1df847533234a0",
+      "title": "Heathrow among airports hit by cyber-attack on check-in system",
+      "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-20T09:45:31.000Z",
+      "summary_90w": "",
+      "raw": "The airport warned delays were possible due to \"technical issues\" also affecting Brussels and Berlin.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "2a32bf80c6e394b18e4bd67f27e6f63f2c176d13",
       "title": "Defense Secretary Hegseth requires new 'pledge' for reporters at the Pentagon",
@@ -34,9 +47,9 @@
       "url": "https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-09-20T09:21:05.000Z",
+      "published": "2025-09-20T09:31:44.000Z",
       "summary_90w": "",
-      "raw": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles\nBelow are some of the latest pictures of Ukraine coming through from the wires.\nCollins Aerospace owner RTX said on Saturday that it had become aware of a cyber- related disruption to its MUSE software in selected airports, after major European flight hubs flagged delays due to a cyber-attack, Reuters reports.\nWe are actively working to resolve the issue and restore full functionality to our customers as quickly as possible.\nThe impact is limited to electronic customer check-in and baggage drop and can be mitigated with manual check-in operations.\n Continue reading...",
+      "raw": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles\nUkrainian president Volodymyr Zelenskyy said he would meet his US counterpart Donald Trump on the sidelines of the UN general assembly next week in comments released on Saturday, Agence France-Presse (AFP) reports.\nZelensky said he would hold “a meeting with the president of the United States”, adding he would discuss security guarantees for Ukraine and sanctions on Russia during the talks with Trump.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -50,19 +63,6 @@
       "published": "2025-09-20T09:19:26.000Z",
       "summary_90w": "",
       "raw": "\"Train Americans,\" the US commerce secretary told big companies, some of which have relied on foreign high-skilled workers for years.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9ab18008177bf7fe7a4ea7efba1df847533234a0",
-      "title": "Heathrow among airports hit by cyber-attack on check-in system",
-      "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-20T09:04:36.000Z",
-      "summary_90w": "",
-      "raw": "The airport warned delays were possible due to \"technical issues\" also affecting Brussels and Berlin.",
       "topics": [
         "World"
       ]
@@ -409,7 +409,7 @@
       "id": "c764064b4b445f7a52f14d744a03a7e18e39fc9a",
       "title": "US forces strike third alleged drug vessel killing three, Trump says",
       "url": "https://www.bbc.com/news/articles/crme4pv224wo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-20T01:30:13.000Z",
       "summary_90w": "",
@@ -1511,6 +1511,19 @@
       ]
     },
     {
+      "id": "a84fee23caf3c35ce8ecb25ba820dd4e10769e07",
+      "title": "Has Trump cancelled Jimmy Kimmel over Charlie Kirk?",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct7t5y?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-18T21:48:00.000Z",
+      "summary_90w": "",
+      "raw": "And we get an inside view of Trump's UK state visit with the president's chief of staff",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "9d9dd2b099af522a87373aa42387738292612559",
       "title": "Kimmel's suspension for Kirk comments sparks furor over free speech and censorship",
       "url": "https://www.npr.org/2025/09/18/nx-s1-5545671/kimmel-suspension-charlie-kirk-death-free-speech-censorship",
@@ -1677,19 +1690,6 @@
       "raw": "A federal judge's mild ruling in the Justice Department's suit over Google's search engine monopoly has critics worried that the tech giant can now monopolize artificial intelligence.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "020b0eef260034b44728db9d7eba3113af018511",
-      "title": "Why beef prices are higher than ever (and shoppers are finally resisting)",
-      "url": "https://www.npr.org/2025/09/18/nx-s1-5534424/beef-prices-record-high-cost",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-09-18T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "American ranchers are raising the fewest cows in decades. Through the price increases, American shoppers have stayed loyal to their love of burgers and steaks — until now.",
-      "topics": [
-        "Business"
       ]
     },
     {
