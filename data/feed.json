@@ -1,16 +1,16 @@
 {
-  "version": "1758448259341",
-  "generatedAt": "2025-09-21T09:50:59.341Z",
+  "version": "1758449643504",
+  "generatedAt": "2025-09-21T10:14:03.504Z",
   "items": [
     {
-      "id": "b9e8ca48184812cf8e987c70f1b6f4d7b83b5073",
-      "title": "Keir Starmer set to announce UK recognition of Palestine later today - UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2025/sep/21/keir-starmer-palestine-recognition-announcement-gaza-uk-politics-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-21T09:42:26.000Z",
+      "id": "4103d79c1db50fc0adefc78c766458fe0724b26e",
+      "title": "Trump nominates White House aide to be top US prosecutor for office probing Letitia James",
+      "url": "https://www.npr.org/2025/09/21/nx-s1-5549086/trump-nominates-white-house-aide-top-us-prosecutor-probing-letitia-james",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-21T10:06:39.000Z",
       "summary_90w": "",
-      "raw": "Announcement from prime minister expected this afternoon despite Israeli opposition\nWe are expecting an announcement from Keir Starmer on recognising Palestinian statehood early this afternoon.\nAs we have mentioned in the blog already, Israel has condemned the move, which has also caused some tension between London and Washington. The US is fuelling Israel’s war by supplying it with vast amounts of weapons and giving it diplomatic cover.\n Continue reading...",
+      "raw": "President Donald Trump said Saturday that he would be nominating senior White House aide Lindsey Halligan to serve as the top federal prosecutor for the Virginia office that was thrown into turmoil when its U.S. attorney was pushed out Friday.",
       "topics": [
         "World"
       ]
@@ -21,9 +21,22 @@
       "url": "https://www.bbc.com/news/articles/c9300xw27vgo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-21T09:41:09.000Z",
+      "published": "2025-09-21T09:58:33.000Z",
       "summary_90w": "",
       "raw": "The presenter, who featured on the BBC's Watchdog, had been diagnosed with Parkinson's disease.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b9e8ca48184812cf8e987c70f1b6f4d7b83b5073",
+      "title": "Keir Starmer set to announce UK recognition of Palestine later today - UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2025/sep/21/keir-starmer-palestine-recognition-announcement-gaza-uk-politics-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-21T09:42:26.000Z",
+      "summary_90w": "",
+      "raw": "Announcement from prime minister expected this afternoon despite Israeli opposition\nWe are expecting an announcement from Keir Starmer on recognising Palestinian statehood early this afternoon.\nAs we have mentioned in the blog already, Israel has condemned the move, which has also caused some tension between London and Washington. The US is fuelling Israel’s war by supplying it with vast amounts of weapons and giving it diplomatic cover.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -45,7 +58,7 @@
       "id": "ffdd499a3739d010ec8ea8fec82a139f2afb33d0",
       "title": "Starmer set to announce UK recognition of Palestinian state",
       "url": "https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-09-21T09:30:04.000Z",
       "summary_90w": "",
@@ -186,19 +199,6 @@
     },
     {
       "id": "bf67630c2171100fd32765c263f5945df3100348",
-      "title": "GB one-two in Tokyo 800m 'would be coolest thing'",
-      "url": "https://www.bbc.com/sport/athletics/articles/c2061rzx7k1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-21T08:11:27.000Z",
-      "summary_90w": "",
-      "raw": "Olympic 1500m medallist Georgia Hunter Bell says sharing the world 800m podium with team-mate Keely Hodgkinson would \"be the coolest thing ever\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "bf67630c2171100fd32765c263f5945df3100348",
       "title": "The close friends going head-to-head as a British gold-medal showdown awaits",
       "url": "https://www.bbc.com/sport/athletics/articles/c2061rzx7k1o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
@@ -227,7 +227,7 @@
       "id": "a1144a1c5bc8391e60539614a50b019f94df246a",
       "title": "British couple held by Taliban arrive in UK after release",
       "url": "https://www.bbc.com/news/articles/cly6ve2dg66o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-21T07:13:14.000Z",
       "summary_90w": "",
@@ -318,7 +318,7 @@
       "id": "d74a33b11c4936e04889bf820bc90c5b0f96c949",
       "title": "Vietnamese singer Duc Phuc wins Russia's Intervision song contest",
       "url": "https://www.bbc.com/news/videos/cvg998q0557o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-21T04:17:42.000Z",
       "summary_90w": "",
@@ -401,32 +401,6 @@
       "published": "2025-09-20T23:50:53.000Z",
       "summary_90w": "",
       "raw": "Songs of Forgotten Trees, which won the Orizzonti Award at Venice, marks the first such win by an Indian director.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0a5b8818629e369d78d7f4f997ded6c64b821528",
-      "title": "The Papers: 'The actual state of Palestine' and 'Fergie's apology'",
-      "url": "https://www.bbc.com/news/articles/cn4llyxdl3yo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-20T23:38:45.000Z",
-      "summary_90w": "",
-      "raw": "Sir Keir Starmer's plan to announce the recognition of a Palestinian state features prominently on Sunday's papers.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3d88f503704b38df98b3d37f5de735e77d2fb502",
-      "title": "Charlie Kirk, the conservative influencer who became the voice of Maga youth",
-      "url": "https://www.bbc.com/news/articles/cdxqnkwerj7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-20T23:28:44.000Z",
-      "summary_90w": "",
-      "raw": "The influential Trump ally who at age 18 set up Turning Point USA died in a shooting while speaking at a Utah campus event.",
       "topics": [
         "World"
       ]
@@ -835,6 +809,19 @@
       ]
     },
     {
+      "id": "9818fd18711686691ccb1a965968b782487c8070",
+      "title": "Russian Warplanes Breach Nato Airspace",
+      "url": "https://www.bbc.co.uk/sounds/play/p0m41z9w?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-20T15:54:00.000Z",
+      "summary_90w": "",
+      "raw": "Estonia has asked to consult other Nato members after warplanes violated its airspace.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "a9c828f802d404a88acde7f775ad0a4cbe28451e",
       "title": "Malawi police arrest eight for alleged election fraud",
       "url": "https://www.bbc.com/news/articles/cx239dj0yx7o?at_medium=RSS&at_campaign=rss",
@@ -975,19 +962,6 @@
       "raw": "Starting Monday, the US government will get another crack at convincing a federal judge to break up Google, after a different judge decided to keep it intact despite finding it to be a monopolist.\nLawyers for Google and the Justice Department will return to a federal courthouse in Alexandria, VA for a roughly two-week trial about how to restore competition to the advertising technology markets that Google illegally monopolized. It comes just weeks after DC District Court Judge Amit Mehta - who issued a historic ruling deeming Google a monopoly in online search - delivered his prescription for restoring competition to the online search marke …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f831bf09248e3779186cf39cf7c3877c8238a885",
-      "title": "Trump says U.S. military fatally struck another alleged drug-smuggling boat",
-      "url": "https://www.npr.org/2025/09/20/nx-s1-5547852/trump-military-strike-drug-smuggling-boat",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-20T13:11:57.000Z",
-      "summary_90w": "",
-      "raw": "President Trump posted a video that shows a vessel speeding through waters before it appears to be struck by a pair of missiles from overhead and sink in a fiery explosion.",
-      "topics": [
-        "World"
       ]
     },
     {
