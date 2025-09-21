@@ -1,29 +1,29 @@
 {
-  "version": "1758453993701",
-  "generatedAt": "2025-09-21T11:26:33.701Z",
+  "version": "1758454636232",
+  "generatedAt": "2025-09-21T11:37:16.232Z",
   "items": [
-    {
-      "id": "44a6f05f7ffc54581a55fc3da5b42ce7094f2085",
-      "title": "Heathrow warns of second day of disruption after cyber-attack",
-      "url": "https://www.bbc.com/news/articles/cwy88857llno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-21T11:12:13.000Z",
-      "summary_90w": "",
-      "raw": "The issue affecting check-in and baggage systems caused hundreds of delays and cancellations on Saturday.",
-      "topics": [
-        "World"
-      ]
-    },
     {
       "id": "b9e8ca48184812cf8e987c70f1b6f4d7b83b5073",
       "title": "Keir Starmer set to announce UK recognition of Palestine later today - UK politics live",
       "url": "https://www.theguardian.com/politics/live/2025/sep/21/keir-starmer-palestine-recognition-announcement-gaza-uk-politics-live",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-09-21T11:09:28.000Z",
+      "published": "2025-09-21T11:29:16.000Z",
       "summary_90w": "",
       "raw": "Announcement from prime minister expected this afternoon despite Israeli opposition\nKeir Starmer has arrived at Westminster Abbey for the Battle of Britain service.\nThe ceremony, held between 11am and 12pm, marks the 85th anniversary of the victory by Royal Air Force pilots and aircrew during the Battle of Britain in 1940.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "44a6f05f7ffc54581a55fc3da5b42ce7094f2085",
+      "title": "Heathrow warns of second day of disruption after cyber-attack",
+      "url": "https://www.bbc.com/news/articles/cwy88857llno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-21T11:25:01.000Z",
+      "summary_90w": "",
+      "raw": "The issue affecting check-in and baggage systems caused hundreds of delays and cancellations on Saturday.",
       "topics": [
         "World"
       ]
@@ -49,7 +49,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-21T11:04:00.000Z",
       "summary_90w": "",
-      "raw": "Airlines reverted to manual check-in since Friday after service provider hit by ‘cyber-related incident’\nPassengers at London Heathrow airport and those in Brussels and Berlin faced another day of delays on Sunday after an alleged cyber-attack hit check-in desk software.\nAirlines were forced to revert to manual check-in from Friday night after the alleged attack hit Collins Aerospace, which provides check-in desk technology to various airlines.\n Continue reading...",
+      "raw": "Airlines reverted to manual check-in from Friday after service provider hit by ‘cyber-related incident’\nPassengers at London Heathrow airport and those in Brussels and Berlin faced another day of delays on Sunday after an alleged cyber-attack hit check-in desk software.\nAirlines were forced to revert to manual check-in from Friday night after the alleged attack hit Collins Aerospace, which provides check-in desk technology to various airlines.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -848,19 +848,6 @@
       ]
     },
     {
-      "id": "a9c828f802d404a88acde7f775ad0a4cbe28451e",
-      "title": "Malawi police arrest eight for alleged election fraud",
-      "url": "https://www.bbc.com/news/articles/cx239dj0yx7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-20T15:53:06.000Z",
-      "summary_90w": "",
-      "raw": "Officials are on high alert after the 2019 presidential election result was annulled due to vote tampering.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "263e132d5946d957d1cadb9deb733e01e40f1647",
       "title": "Ukraine says three killed in 'massive' Russian aerial attack",
       "url": "https://www.bbc.com/news/articles/ce3253gxqvwo?at_medium=RSS&at_campaign=rss",
@@ -1095,19 +1082,6 @@
       ]
     },
     {
-      "id": "f43ed913c6ff7f5cc687ba90dbf2a19c3fb62a6b",
-      "title": "Portugal confirms it will recognise Palestinian state",
-      "url": "https://www.bbc.com/news/articles/c5yek72jqk4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-20T07:46:16.000Z",
-      "summary_90w": "",
-      "raw": "A host of countries, including France and the UK, are expected to do the same when world leaders gather at the UN General Assembly next week.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ff8096a29d62899d280f91def937a8ce0e6fc895",
       "title": "Anker’s latest sleep buds can silence snoring",
       "url": "https://www.theverge.com/reviews/781970/earbuds-that-block-snoring-soundcore-a30",
@@ -1144,19 +1118,6 @@
       "raw": "These cuts may save Google mere thousands; they also come as Google faces increasingly strained relationships with news publishers.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "04001ffb2285e49313710e027cf952021751b422",
-      "title": "Republican senator says US TV regulator acted like 'mafioso' on Jimmy Kimmel",
-      "url": "https://www.bbc.com/news/articles/c1kwzgrwdd0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-20T02:01:01.000Z",
-      "summary_90w": "",
-      "raw": "The Texas senator affected a mobster accent to criticise how ABC was pressed to take action on the late-night host.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1511,6 +1472,19 @@
       ]
     },
     {
+      "id": "1412f300783ae952c62e65aae9d34c4c7beb58ee",
+      "title": "Watch: Hugs on tarmac as family reunite after Afghan ordeal",
+      "url": "https://www.bbc.com/news/videos/cly6v6r531jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-19T14:11:39.000Z",
+      "summary_90w": "",
+      "raw": "The couple's family say they are \"overwhelmed with gratitude and relief\" at their release.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "7a99d214df16ea45e9d072fb5979869cec209885",
       "title": "Their teenage sons died by suicide. Now, they are sounding an alarm about AI chatbots",
       "url": "https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545749/ai-chatbots-safety-openai-meta-characterai-teens-suicide",
@@ -1651,6 +1625,19 @@
       "raw": "Experts tell the BBC what a final deal might look like, and what Beijing might get in return.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "d42844adeff70338bbfe349aac1c3acf8391dbd9",
+      "title": "Ros Atkins on… What Kimmel's suspension means for free speech in the US",
+      "url": "https://www.bbc.com/news/videos/crme42nr8exo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-18T21:38:29.000Z",
+      "summary_90w": "",
+      "raw": "The BBC's analysis editor looks at a decision that leading Democrats have called \"an abuse of power\".",
+      "topics": [
+        "World"
       ]
     },
     {
