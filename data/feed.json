@@ -1,7 +1,72 @@
 {
-  "version": "1758647583374",
-  "generatedAt": "2025-09-23T17:13:03.374Z",
+  "version": "1758648676149",
+  "generatedAt": "2025-09-23T17:31:16.149Z",
   "items": [
+    {
+      "id": "b5be9d07a6517336962d0445786a38df9f4ce04f",
+      "title": "Disney Plus is getting another price hike",
+      "url": "https://www.theverge.com/news/783489/disney-plus-streaming-subscription-price-increase",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-23T17:19:27.000Z",
+      "summary_90w": "",
+      "raw": "Disney is raising the price of Disney Plus subscriptions again as part of its mission to squeeze profits from its streaming service.\nThe new prices will go into effect on October 21st. The standalone plan with ads will increase by $2 to $11.99 per month, while the no-ads Disney Plus Premium plan will increase by $3 to $18.99 per month (with the annual subscription going up by $30 to $189.99 per year). Various bundles are getting price increases, too, and you can see all of the price hikes in a Disney Plus support page.\nAfter launching Disney Plus in 2019 for $6.99 per month, these price hikes are now becoming a seasonal trend for Disney. The company raised the price of its streaming services in December 2022, October 2023, and October 2024, with its streaming business finally becoming profitable for the first time last year. \nWhile the latest increases are in line with Disney’s past behavior, the timing isn’t ideal given the PR crisis that followed Disney temporarily pulling Jimmy Kimmel Live! off ABC. Disney announced that the late-night talk show was being restored after having “thoughtful conversations” with Kimmel, just six days after indefinitely suspending production over the hosts comments about the assassination of Charlie Kirk. The decision to pull the show sparked public outrage and calls to boycott subscriptions for Disney’s streaming services.\nJournalist Marisa Kabas reported on Monday that Disney’s rush to restore Kimmel’s show may have been motivated by the planned Disney Plus price increases. Citing an unnamed Disney source, Kabas said that “with subscriptions hemorrhaging since last week, they couldn’t risk losing more users with this announcement.”",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "30d56489c065d8caa47a6d206fb6922ea70fa6c8",
+      "title": "Typhoon bursts Taiwan lake as  strongest storm barrels towards China",
+      "url": "https://www.bbc.com/news/articles/c3rvjj7dp7ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-23T17:16:34.000Z",
+      "summary_90w": "",
+      "raw": "Ragasa is the strongest storm anywhere on Earth so far this year.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e67b10d660d1f30814e2a8ab93e52664398b7529",
+      "title": "Do startups still need Silicon Valley? Leaders at Signalfire, Lago, and Revolution debate at TechCrunch Disrupt 2025.",
+      "url": "https://techcrunch.com/2025/09/23/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-23T17:15:00.000Z",
+      "summary_90w": "",
+      "raw": "Does Silicon Valley still give founders an edge? At TechCrunch Disrupt 2025 (Oct 27–29, SF), Anh-Tho Chuong (Lago), David Hall (Revolution), and Tawni Nazario-Cranz (SignalFire) debate whether location still drives startup success.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c9dc2489c61313924c7e4258fae816d3a132501d",
+      "title": "Tesla’s robotaxi push is confusing the hell out of regulators",
+      "url": "https://www.theverge.com/news/783804/tesla-robotaxi-california-dmv-confusion",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-23T17:12:44.000Z",
+      "summary_90w": "",
+      "raw": "For a company that’s staking its future on AI and robotics, Tesla sure is having a tough time explaining its technology to government regulators. The company’s efforts to launch a robotaxi service in San Francisco, which isn’t actually a robotaxi since it features safety drivers in the front seat, is alarming state officials in charge of overseeing autonomous vehicle testing, according to a new report from Reuters. \nEmails between Tesla and state officials illustrate the growing sense that the company is trying to have its cake and eat it too. Despite Elon Musk’s public statements that Tesla was getting “regulatory permission” to launch a robotaxi service in the Bay Area, the company had yet to apply for any of the needed permits to do so. Instead, the service that Tesla eventually did launch was in vehicles with safety drivers behind the wheel to invite-only customers. \nPerplexed state transportation officials asked Tesla’s policy representatives whether they could help clear up “public confusion” about the launch, according to the emails obtained by Reuters. Tesla’s reply was to avoid the question entirely, saying only that the company’s policy was not to respond to questions from the press. Which makes a ton of sense when responding to a question from a government official in charge of overseeing the safe rollout of autonomous vehicles. \nSubsequent emails between California’s Department of Motor Vehicles and the National Highway Traffic and Safety Administration touch on the fact that Tesla hadn’t applied for any of the permits needed to test fully driverless vehicles in the state, let alone operate them commercially. Officials also pressed Tesla’s policy representatives about “misconceptions” about whether Tesla was operating an actual robotaxi service. Tesla’s reply apparently didn’t clear things up. \nIt’s becoming increasingly clear that Tesla wants the public perception of operating a robotaxi service without actually taking on any of the legal or regulatory burdens of doing that.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b5985a820dc3dfb5a0b80fa3879dbc5b8d4aaa01",
+      "title": "Figma made its design tools more accessible to AI agents",
+      "url": "https://www.theverge.com/news/783828/figma-make-ai-app-coding-mcp-server-update",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-23T17:12:27.000Z",
+      "summary_90w": "",
+      "raw": "Figma is launching some new updates that allow AI models to directly communicate with its app-building tool and access designs remotely. Figma’s Model Context Protocol (MCP) server — a bridge that enables AI models to tap directly into the code behind prototypes and designs created using Figma’s tools — has now been expanded to support the design platform’s AI prompt-to-app coding tool, Figma Make.\n“By using a Figma Make file via an MCP client, AI models can see the underlying code instead of a rendered prototype or image,” Figma’s technology chief, Kris Rasmussen, said in the announcement blog. “The Figma MCP server indexes the code in your Make file so you and your favorite platforms can request exactly what’s needed.”\nIn simple terms, this means the MCP server can show AI models and agents exactly how an app was built in Figma Make, so it can be accurately recreated instead of guessing based on the visual design. Figma says the Make MCP server experience supports products from Anthropic, Cursor, Windsurf, and VS Code starting today, and that future updates will allow third-party MCP servers to connect with Figma Make.\n\nThe MCP server can now be accessed remotely from AI coding agents, browser-based models, and integrated development environments, making the tool more accessible for developers who were previously tied to needing local access to Figma’s desktop app. \nSome upcoming Figma features include a Design Snapshot feature that converts Make snapshots into editable layers in Figma Design, which is expected to launch this week, and an editing feature that allows users to manipulate designs with AI prompts without leaving the Design tool canvas, which is currently in testing.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "abb366d79a67414cb05daecb084935806d7a6103",
       "title": "Google Photos users on Android can now edit their photos by talking to or texting the AI",
@@ -11,6 +76,32 @@
       "published": "2025-09-23T17:12:05.000Z",
       "summary_90w": "",
       "raw": "The feature is designed to make it easier to edit photos without having to understand which editing tools to use or where they can be found in the app.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f7aebc621e45faaea22d87f2e3b20870df8be0a7",
+      "title": "Amazon to close its UK grocery stores",
+      "url": "https://www.bbc.com/news/articles/cx2xnkkn9ywo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-23T17:11:29.000Z",
+      "summary_90w": "",
+      "raw": "The online retail giant says it would convert five of the 19 shops into Whole Foods stores.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2d8b8aacd66db391a4c647356c08fce18639ee62",
+      "title": "Jimmy Kimmel still isn’t coming back to many ABC stations in the US",
+      "url": "https://www.theverge.com/news/783902/jimmy-kimmel-abc-nexstar-sinclair-broadcasting",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-23T17:10:15.000Z",
+      "summary_90w": "",
+      "raw": "Disney is bringing back Jimmy Kimmel’s late-night talk show, but a notable chunk of ABC affiliates won’t air the new episodes. Nexstar and Sinclair Broadcasting — which control about one quarter of local ABC stations, according to Deadline — announced that they will continue to preempt Jimmy Kimmel Live! and air different programming in that timeslot instead.\nLast week, FCC Chair Brendan Carr said broadcasters will need to “find ways to change conduct to take action on Kimmel” or else face FCC involvement following Kimmel’s comments about politicians’ reactions to the shooting of Charlie Kirk, before Disney temporarily suspended the show.\nThe Hollywood Reporter notes that Sinclair owns or controls 38 ABC affiliates, while Nexstar operates 28 stations. The blackout means the show won’t air in several major markets across the US, including Portland, Oregon; New Orleans, Louisiana; Nashville, Tennessee; Salt Lake City, Utah; Richmond, Virginia; Seattle, Washington, and others, accounting for around 25 percent of the US TV audience. Nexstar says Jimmy Kimmel Live! will still be available “nationwide on multiple Disney-owned streaming products.” \nDuring the Concordia Annual Summit on Monday, Carr denied that the FCC influenced decisions around the show, claiming, “Jimmy Kimmel is in the situation that he’s in because of his ratings, not because of anything that’s happened at the federal government level,” as reported by Variety.\nNexstar issued a statement on Tuesday saying the broadcaster stands by Disney’s original decision to suspend the show “pending assurance that all parties are committed to fostering an environment of respectful, constructive dialogue.” Sinclair similarly said that its affiliates will replace Jimmy Kimmel Live! with news programming while it evaluates the “potential return” of the show.",
       "topics": [
         "Technology"
       ]
@@ -42,6 +133,19 @@
       ]
     },
     {
+      "id": "25e545cc563872df028d666feba5e7992a2e8b70",
+      "title": "Trump criticises countries' migration and climate policies in scathing UN speech",
+      "url": "https://www.bbc.com/news/articles/cg423plexy1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-23T17:03:31.000Z",
+      "summary_90w": "",
+      "raw": "The US president also takes aim at the UN itself in an address lasting almost an hour.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "a865236678606e6f5beeb001ba0fa5ebbd4c34b0",
       "title": "Google Photos expands conversational editing to more Android phones",
       "url": "https://www.theverge.com/news/783562/google-photos-conversational-voice-edits-android",
@@ -68,19 +172,6 @@
       ]
     },
     {
-      "id": "f7aebc621e45faaea22d87f2e3b20870df8be0a7",
-      "title": "Amazon to close its UK grocery stores",
-      "url": "https://www.bbc.com/news/articles/cx2xnkkn9ywo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-23T16:55:19.000Z",
-      "summary_90w": "",
-      "raw": "The online retail giant says it would convert five of the 19 shops into Whole Foods stores.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f6da982f2ba615d0018a2c2544d5ef82d68a3445",
       "title": "Trump calls for nations to close borders and expel foreigners in UN speech: ‘Your countries are being ruined’",
       "url": "https://www.theguardian.com/us-news/2025/sep/23/trump-un-general-assembly-speech",
@@ -88,7 +179,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-23T16:50:56.000Z",
       "summary_90w": "",
-      "raw": "US president accuses European countries specifically of ‘destroying your heritage’ by allowing migration\n\nUS politics live – latest updates\n\nDonald Trump took the stage at the United Nations general assembly hall for the first time in six years to launch a full-on assault on the experiment in world government, which he described as a feckless, corrupt and pernicious global force that should follow the example of his own leadership.\nSpeaking on the 80th anniversary of the founding of the United Nations, Trump called for countries to close their borders and expel foreigners, accused the UN of leading a “globalist migration agenda”, and told national leaders that the world body was “funding an assault on your countries.”\n Continue reading...",
+      "raw": "US president accuses European countries specifically of ‘destroying your heritage’ by allowing migration\n\nUS politics live – latest updates\n\nDonald Trump took the stage at the United Nations general assembly hall for the first time in six years to launch a full-on assault on the world body, which he described as a feckless, corrupt and pernicious global force that should follow the example of his own leadership.\nSpeaking on the 80th anniversary of the founding of the United Nations, Trump called for countries to close their borders and expel foreigners, accused the UN of leading a “globalist migration agenda”, and told national leaders that the world body was “funding an assault on your countries.”\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -403,19 +494,6 @@
       "raw": "Bemused French president forced to take unscheduled 30-minute trek through the streets of New York\nEmmanuel Macron had to walk half an hour by foot through New York after his speech to the United Nations on recognising Palestine as a state.\nVideo footage shows him getting out of his car to talk to police officers after they stop his vehicle to make way for the expected arrival of the motorcade of Donald Trump, the US president.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "070b143d48e12ccadeba2fa9fcf06025ca15ffdc",
-      "title": "WhatsApp adds built-in text translations on iPhone and Android",
-      "url": "https://www.theverge.com/news/783653/whatsapp-message-translation-feature-iphone-android",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-23T15:13:41.000Z",
-      "summary_90w": "",
-      "raw": "Android users can set entire chat threads to automatically translate incoming messages.\t\n\nA new translation feature for WhatsApp on iPhone and Android that translates messages into your preferred language is rolling out “gradually,” starting today in 1:1 chats, groups, and Channel update messages. It can be activated by long-pressing down on messages and tapping the “Translate” option to choose the language you want the message to be translated from or to.\nSupport for English, Spanish, Hindi, Portuguese, Russian, and Arabic will initially be available for Android users, while iPhone users can translate messages into more than 19 languages at launch.  Android users can also enable automatic translation for entire chat threads to apply the feature to all incoming messages.\nIt’s no real-time translation in your ears, in front of your eyes, or on your screen, and other messaging apps have also offered similar features (Google used WhatsApp to demonstrate “Tap to translate” on Android nearly a decade ago). But for WhatsApp’s billions of users, it could make conversations easier as they move throughout the world. WhatsApp says it plans to expand translation support for additional languages in the future.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -757,32 +835,6 @@
       ]
     },
     {
-      "id": "000a8790f24a7cef87d3bb397e258888f8703815",
-      "title": "Bang &#038; Olufsen&#8217;s new earbuds will cost you more than the latest iPhone",
-      "url": "https://www.theverge.com/news/783590/bang-olufsen-beo-grace-earbuds-pricing-availability",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-23T13:40:17.000Z",
-      "summary_90w": "",
-      "raw": "Bang & Olufsen’s latest Beo Grace earbuds offer a flashy aluminum design and the brand’s “most advanced” active noise cancellation for a staggering $1,500. These pricey new buds pump sound through 12mm titanium drivers, featuring ANC powered by six microphones that adjust audio based on ambient noise and the shape of your ear.\nThe Beo Grace earbuds support Dolby Atmos spatial audio and the transparency mode inside the equally expensive Beoplay H100 headphones, which aim to recreate the sound of your environment “free from hiss or distortion.” Other features include tactile controls and “NearTap” technology that allows you to control volume by tapping in front of your ear.\nThe new buds offer 4.5 hours of battery life with ANC turned on — that’s less than the six hours promised by the $499 Beoplay Eleven earbuds Bang & Olufsen released last year. But Bang & Olufsen says it partnered with the battery intelligence company Breathe to improve the longevity of the Beo Grace’s battery, and says the buds surpassed 2,000 charge cycles in internal testing.\nThe Beo Grace earbuds come with a matching aluminum charging case that you can turn into an audio transmitter by plugging it into a device with USB-C or line-in, allowing it to stream audio from your laptop, an airplane TV, or another device that might not support Bluetooth to your earbuds. There’s a leather pouch you can store the case in, too, but that will cost you an extra $400.\nThe Beo Grace earbuds are available for preorder now, and will start shipping on November 17th.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "90e86159247ef16f77e54d66efca1ad508ad61b3",
-      "title": "YouTube wants you to go live",
-      "url": "https://www.theverge.com/podcast/783282/youtube-livestream-ai-ads-vergecast",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-23T13:39:47.000Z",
-      "summary_90w": "",
-      "raw": "YouTube is the most powerful platform in entertainment, and as such it has outsize influence on what kind of entertainment people make and watch. When YouTube adds a mid-video ad break, videos get longer to accommodate it. When YouTube tells podcasters to make video, podcasters make video. And for its next act, it appears the company is prepared to turn all its creators into livestreamers. \nOn this episode of The Vergecast, The Verge's Mia Sato takes us through all the news from last week's Made On YouTube event, and explains why live content is so important - and so hard to cultivate. YouTube's other big focus this year appears to be AI,  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "0a38bca09d2e3d4de538838cce367990b535607c",
       "title": "Illegal working and streams of taxis - BBC gains rare access inside asylum hotels",
       "url": "https://www.bbc.com/news/articles/cwy8ee2w73jo?at_medium=RSS&at_campaign=rss",
@@ -830,19 +882,6 @@
       "published": "2025-09-23T13:00:00.000Z",
       "summary_90w": "",
       "raw": "Users can expect more personalization, a redesigned Apps tab, new Play Games experience, and other features that leverage Gemini AI.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "311e479c15e9b595db5a2466647a3b83cf7edc14",
-      "title": "GoPro’s new AI gimbal works with action cameras, point-and-shoots, and phones",
-      "url": "https://www.theverge.com/news/782619/gopro-fluid-pro-ai-tracking-stabilized-gimbal-action-camera-hero-smartphone",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-23T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Unlike the Karma Grip stabilizer that GoPro debuted nearly a decade ago, the new Fluid Pro AI works with more than just action cameras. | Image: GoPro\t\n\nGoPro has announced a new handheld camera stabilizer that, unlike the Karma Grip stabilizer it debuted in 2016, can be used with more than just its action cameras. The new Fluid Pro AI is compatible with the company’s devices, like the Hero13 Black, but with a 400-gram payload capacity, it can also be used with smartphones and some compact point-and-shoot cameras. It’s more expensive than competitors’ products like the $159.99 Insta360 Flow 2 Pro and the $149 DJI Osmo Mobile 7 Pro, but its versatility and better battery life could justify its higher $229.99 price tag for some when it’s available on October 21st.\nAs with Insta360 and DJI’s most recent gimbals, GoPro’s Fluid Pro AI has an integrated AI-powered tracking module that it uses to recognize hand gestures that can control it from afar and to keep subjects automatically in frame by locking on to their face or body. To manually select who you want to track, the gimbal can be connected to a mobile app, which provides additional tools for capturing panoramic images or time-lapses.\nThe Fluid Pro AI is capable of panning a camera a full 360 degrees and tilting it up to 320 degrees. It also features a built-in LED fill light and uses swappable mounting brackets that include a clamping mechanism to accommodate smartphones of various sizes. In lieu of features like a telescoping arm or tripod legs that pop out of its handle, the Fluid Pro AI has a sizable battery that GoPro says is good for up to 18 hours of use, or up to six hours when the AI tracker is active and the LED light is on. Insta360’s and DJI’s only muster up to 10 hours with tracking disabled.",
       "topics": [
         "Technology"
       ]
@@ -973,19 +1012,6 @@
       "published": "2025-09-23T11:11:25.000Z",
       "summary_90w": "",
       "raw": "On Monday night Kastrup airport in Copenhagen was forced to shut down for several hours following several drone sightings.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "30d56489c065d8caa47a6d206fb6922ea70fa6c8",
-      "title": "Mass evacuations as southern China braces for strongest storm of the year",
-      "url": "https://www.bbc.com/news/articles/c3rvjj7dp7ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-23T11:06:26.000Z",
-      "summary_90w": "",
-      "raw": "Ragasa is the strongest storm anywhere on Earth so far this year.",
       "topics": [
         "World"
       ]
@@ -1173,19 +1199,6 @@
       ]
     },
     {
-      "id": "c9f8cf1979ed30aa48af391ae278d676a3379e03",
-      "title": "Rocket.new, one of India’s first vibe-coding startups, snags $15M from Accel, Salesforce Ventures",
-      "url": "https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-23T05:30:00.000Z",
-      "summary_90w": "",
-      "raw": "Rocket.new has surged to 400,000 users and $4.5M ARR in three months.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "5e355ae5f9ba9ee5b6628348efe52e2d9f5377ef",
       "title": "I flew 5,500 miles and paid £900 for a Premier League ticket but was turned away",
       "url": "https://www.bbc.com/sport/football/articles/c98en3pzrw5o?at_medium=RSS&at_campaign=rss",
@@ -1311,19 +1324,6 @@
       "published": "2025-09-23T01:33:49.000Z",
       "summary_90w": "",
       "raw": "Minister for economic growth says visas for skilled and experienced migrants could help plug gaps in the workforce\nNew Zealand is making it easier for migrant workers to come and live in the country, in its latest attempt to bolster the workforce and economy.\nAnnouncing two new residency pathways, the minister for economic growth, Nicola Willis, on Tuesday said skilled and experienced migrants could help plug gaps in the workforce.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b369a1256c463e45c6bca4062a23c49cca929885",
-      "title": "Trump to address UN General Assembly after France recognises Palestinian state",
-      "url": "https://www.bbc.com/news/articles/cd9ykqw22zlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-23T01:26:27.000Z",
-      "summary_90w": "",
-      "raw": "Donald Trump will address UN leaders on Tuesday, as more European countries look set to join the French policy change.",
       "topics": [
         "World"
       ]
