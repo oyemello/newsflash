@@ -1,7 +1,72 @@
 {
-  "version": "1758713859489",
-  "generatedAt": "2025-09-24T11:37:39.489Z",
+  "version": "1758714682439",
+  "generatedAt": "2025-09-24T11:51:22.439Z",
   "items": [
+    {
+      "id": "bce4bb4abc5406b525a88cd55bd2e680fbce293f",
+      "title": "Police used journalists' phone data to detect leaks by staff, report says",
+      "url": "https://www.bbc.com/news/articles/c62z5k9kw30o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-24T11:44:10.000Z",
+      "summary_90w": "",
+      "raw": "There were 21 unlawful uses of covert powers to try to uncover reporters' sources between 2011 and 2024.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c1cbe2aa01e0d4247a511d6742508b64c119b598",
+      "title": "Bluesky seems to be having trouble",
+      "url": "https://www.theverge.com/news/784442/bluesky-seems-to-be-having-trouble",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-24T11:42:56.000Z",
+      "summary_90w": "",
+      "raw": "X alternative Bluesky seems to be having one of those days. I first noticed that my “Following” feed — which is supposed to load posts chronologically — wasn’t showing any posts more recent than two hours ago. I follow 728 accounts right now, some of which are extremely online, so I knew something must be up.\nWhen I tried to share one of my own articles from this morning, it appeared to post successfully — I can even still see it on my Bluesky profile page — but when I try to click through to the post itself, it says it can’t be found.\nWhile Bluesky’s own service page doesn’t currently report any outage, Down Detector shows a spike in reports from the last two hours, so it’s not just me. One of my colleagues is seeing the same problem as me, with only older posts appearing, while another is actually seeing an error message warning that “some kind of issue occurred when contacting the feed server.”",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "304c31249be82410c01b0d2d3b40a7d766753499",
+      "title": "Pocket Casts is showing ads to people who paid for an ad-free app",
+      "url": "https://www.theverge.com/news/784429/pocket-casts-ads-lifetime-memberships-complaints",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-24T11:38:49.000Z",
+      "summary_90w": "",
+      "raw": "Users who dismiss the ads are taken to Pocket Casts’ subscription page.\t\n\nPocket Casts is being flogged for showing advertisements to legacy users who were promised an ad-free experience. The first reports started to appear in early September in the Pocket Casts support forum and subreddit. The issue is a bug, according to Matt Mullenweg, the CEO of Pocket Casts’ parent company Automattic, and will be corrected. \nPocket Casts launched as a purchase-only app in 2010, charging users a one-time download fee of up to $10, depending on the OS and platform. The service later switched to a subscription-based model and made the app available for free in 2019. After backlash from users, the company gave anyone who paid for the web or desktop apps before the pricing changes free lifetime access to Pocket Casts Plus, its ad-free premium subscription service. \nThe app was acquired by Automattic in 2021, and the Pocket Casts Lifetime memberships were rebranded to “Pocket Casts Champion” in August 2024. A support page says the rebrand would “not change anything about your membership” and makes no mention of introducing ads. Some users on these free lifetime subscriptions are now seeing ads, however, and are being directed to pay the $40 yearly fee for Plus to remove them.\n“I just want the adverts gone – I still don’t need the other Plus features,” said one user on the Pocket Casts forum. “This change makes me feel that you’re trying to increase your conversion rate by making the base product worse.”\nIn the same forum post, a Pocket Casts employee said that the only way to remove the banner ads is to pay for a Plus subscription, and that they were introduced to “sustain the continued work and maintenance of the app.” This conflicts with a statement from Mullenweg, however, who says the ads appearing on lifetime member accounts are a bug, and that the company is working to fix it.\n“Anyone who has ever paid for Pocket Casts, even before Automattic acquired it, should not see ads,” Mullenweg said in a Hacker News thread. “I don’t believe in ‘lifetime’ purchases, and we don’t create new ones at Automattic, but we have honored the legacy people who paid a one-time fee to Pocket Casts when they were a startup with basically what we call a “Champions” account, which is a lifetime you-get-the-best-of-whatever-we-sell deal.” \nThere are only a few thousand lifetime Pocket Casts members, according to Mullenweg, adding that it “seemed better to try and make it more of a gift than attempt to migrate people to what is actually a sustainable business model.” We have reached out to Pocket Casts for comment.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3d27765167e36064fa2158e0cb2f90191bbbff2c",
+      "title": "Landmark deal paves way for cheaper HIV protection jab",
+      "url": "https://www.bbc.com/news/articles/cgmzn8802d7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-24T11:34:25.000Z",
+      "summary_90w": "",
+      "raw": "The drug - a twice-yearly injection – reduces the current HIV treatment cost in developing countries.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "59d7e69cda36290e24feccf92b14933f22b1af66",
+      "title": "Kremlin dismisses Trump claim Ukraine can regain all land lost in invasion – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/24/russia-ukraine-trump-zelenskyy-unga-drones-europe-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-24T11:34:10.000Z",
+      "summary_90w": "",
+      "raw": "Kremlin responds after US president’s show of support for Ukraine at the United Nations general assembly\nA Spanish defence ministry spokesperson said in a statement shared with Reuters that “there has been an attempt to disrupt the GPS signal,” but the plane was not affected as it had its own encrypted system.\nThey also noted that it’s a common occurence on this route with commercial flights.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "8e435d8a2aab67afed03d7403ae87040bcfddcc7",
       "title": "Bloody Sunday trial to include soldiers' statements, judge rules",
@@ -55,19 +120,6 @@
       ]
     },
     {
-      "id": "bce4bb4abc5406b525a88cd55bd2e680fbce293f",
-      "title": "Police used journalists' phone data to detect leaks by staff, report says",
-      "url": "https://www.bbc.com/news/articles/c62z5k9kw30o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-24T11:13:16.000Z",
-      "summary_90w": "",
-      "raw": "There were 21 unlawful uses of covert powers to try to uncover reporters' sources between 2011 and 2024.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "2a5afbe05260dbe97941f761e61bdae10b7fe168",
       "title": "Government shutdown odds increase. And, Trump shifts stance on Russia-Ukraine war",
       "url": "https://www.npr.org/2025/09/24/g-s1-90292/up-first-newsletter-government-shutdown-unga-russia-ukraine-jimmy-kimmel-returns",
@@ -115,19 +167,6 @@
       "published": "2025-09-24T11:02:57.000Z",
       "summary_90w": "",
       "raw": "Asylum seekers are travelling long distances for appointments, with one telling the BBC his journey to visit a GP cost the Home Office £600.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "59d7e69cda36290e24feccf92b14933f22b1af66",
-      "title": "‘No alternative’ to continuing invasion, claims Russia, as Trump says Ukraine could regain all land lost – latest updates",
-      "url": "https://www.theguardian.com/world/live/2025/sep/24/russia-ukraine-trump-zelenskyy-unga-drones-europe-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-24T11:02:21.000Z",
-      "summary_90w": "",
-      "raw": "Kremlin responds after US president’s show of support for Ukraine at the United Nations general assembly\nA Spanish defence ministry spokesperson said in a statement shared with Reuters that “there has been an attempt to disrupt the GPS signal,” but the plane was not affected as it had its own encrypted system.\nThey also noted that it’s a common occurence on this route with commercial flights.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -186,6 +225,19 @@
     },
     {
       "id": "68770c3c7be61e8f7819cea6c218be5ee9942e65",
+      "title": "Italian actress and star of The Leopard Claudia Cardinale dies aged 87",
+      "url": "https://www.bbc.com/news/articles/c237elg3rr3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-24T10:25:04.000Z",
+      "summary_90w": "",
+      "raw": "The actress, who starred in Fellini's 8 1/2, is synonymous with the golden age of Italian cinema.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "68770c3c7be61e8f7819cea6c218be5ee9942e65",
       "title": "Italian actress and star of The Pink Panther Claudia Cardinale dies aged 87",
       "url": "https://www.bbc.com/news/articles/c237elg3rr3o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
@@ -205,7 +257,7 @@
       "source_name": "BBC News",
       "published": "2025-09-24T10:22:53.000Z",
       "summary_90w": "",
-      "raw": "The US talk show host isn't backing down after being suspended, it seems to have hardened his resolve.",
+      "raw": "The US talk show host isn't backing down after being suspended; it seems to have hardened his resolve.",
       "topics": [
         "World"
       ]
@@ -218,7 +270,7 @@
       "source_name": "BBC News",
       "published": "2025-09-24T10:22:53.000Z",
       "summary_90w": "",
-      "raw": "The US talk show host isn't backing down after being suspended, it seems to have hardened his resolve.",
+      "raw": "The US talk show host isn't backing down after being suspended; it seems to have hardened his resolve.",
       "topics": [
         "World"
       ]
@@ -810,7 +862,7 @@
     },
     {
       "id": "9174bf48f5b7ac44a411a51ed4cb3a117cf95ebd",
-      "title": "Avoiding period leaks - are cups, pants or tampons best for me?",
+      "title": "How to avoid period leaks - the pros and cons of cups, pants and tampons",
       "url": "https://www.bbc.com/news/articles/cgl1z3jxy56o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -835,19 +887,6 @@
       ]
     },
     {
-      "id": "313e36f1a49a806002c0376c96782c57b5cd9557",
-      "title": "The Switch 2 version of Borderlands 4 has been delayed",
-      "url": "https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-23T22:46:52.000Z",
-      "summary_90w": "",
-      "raw": "Gearbox Software is delaying the Nintendo Switch 2 version of Borderlands 4, which had been set to release on October 3rd, to give the game “additional development and polish time.” The studio will provide new release timing “once we’ve fully adjusted our plans” and all digital preorders will be canceled.\n“We do not take this decision lightly, but are committed to ensuring we deliver the best possible experience to our fans,” Gearbox says. Gearbox’s “hope” is to align the release of the Nintendo Switch 2 version “with the addition of cross saves,” though it’s unclear when that feature might be added.\n\n\nGreetings, Vault Hunters – We need to share that the release of Borderlands 4 on Nintendo Switch 2 is being delayed. We do not take this decision lightly, but are committed to ensuring we deliver the best possible experience to our fans, and the game needs additional development…\n— Borderlands (@Borderlands) September 23, 2025\n\n\nBorderlands 4 launched on September 12th for PC, PS5, and Xbox Series X / S. The game has come under scrutiny for performance issues, and Gearbox released a patch last week that “improves stability” on PC. The game also reportedly demoed poorly on Nintendo Switch 2 at Gamescom and PAX West.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "8801ffb3b257f5d099ee902ccbe959c0711c8c22",
       "title": "OpenAI is building five new Stargate data centers with Oracle and SoftBank",
       "url": "https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/",
@@ -869,19 +908,6 @@
       "published": "2025-09-23T22:00:00.000Z",
       "summary_90w": "",
       "raw": "At TechCrunch Disrupt 2025, True Anomaly’s Even Rogers and Vast’s Max Haot will join the Space Stage to explore what’s needed to unlock a sustainable and scalable space economy.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "03105194666ca13ccf837bb72943f26fbb710d07",
-      "title": "Inside Charlie Kirk’s megachurch memorial service",
-      "url": "https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-23T21:58:43.000Z",
-      "summary_90w": "",
-      "raw": "An image of right-wing activist Charlie Kirk is projected on a screen ahead of his public memorial service at State Farm Stadium in Glendale, Arizona, on September 21st, 2025. | Photo: AFP via Getty Images\t\n\nHello and welcome to Regulator.\nAccording to a rough transcript of Charlie Kirk's memorial service, the word \"martyr\" was uttered less than 10 times. But to the 90,000-plus people watching live in Glendale, Arizona, and the 100 million who reportedly watched the livestream, it didn't have to be stated so explicitly. As every speaker at the four-hourlong service repeatedly exhorted, the 31-year-old Turning Point USA co-founder had died as a faithful servant of Christ, bringing the gospel to college students to save them from the spiritual darkness of the left. \nBut to the emissaries from Trumpworld, Kirk was also a political ally in charge  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -1329,19 +1355,6 @@
       ]
     },
     {
-      "id": "b202bc05c7f49aeb5892363f4909233d2efbfc06",
-      "title": "'We need solutions': Palestinians in West Bank fear recognition is not enough",
-      "url": "https://www.bbc.com/news/articles/cre5x8qxrqno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-23T13:53:14.000Z",
-      "summary_90w": "",
-      "raw": "Many are concerned Israel may attempt to annex the occupied territory in response to several countries recognising Palestinian statehood.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e351fef1625806fcd037b4079a76765f51b89b44",
       "title": "British-Egyptian activist reunited with family after release from prison",
       "url": "https://www.bbc.com/news/articles/cvg9772q3e1o?at_medium=RSS&at_campaign=rss",
@@ -1571,19 +1584,6 @@
       "published": "2025-09-22T22:40:48.000Z",
       "summary_90w": "",
       "raw": "Seven charities, including the Teenage Cancer Trust, remove the former wife of Prince Andrew as a patron or ambassador.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4ca74dd4d979783290fe91c0b3632be7d3df3cd2",
-      "title": "Why the Pakistan-Saudi Arabia defence pact is unsettling India",
-      "url": "https://www.bbc.com/news/articles/c147gkxyyrmo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-22T22:29:35.000Z",
-      "summary_90w": "",
-      "raw": "A Pakistan-Saudi defence agreement pledging a mutual response to any aggression raises concerns in India.",
       "topics": [
         "World"
       ]
