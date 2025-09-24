@@ -1,16 +1,16 @@
 {
-  "version": "1758732154871",
-  "generatedAt": "2025-09-24T16:42:34.871Z",
+  "version": "1758733061689",
+  "generatedAt": "2025-09-24T16:57:41.690Z",
   "items": [
     {
-      "id": "1bd1a9dc83dc094e4775efbef2807763e7b76a16",
-      "title": "Twenty injured in Yemen drone attack on Israel, rescuers and military say",
-      "url": "https://www.bbc.com/news/articles/c0m4plxy30wo?at_medium=RSS&at_campaign=rss",
+      "id": "bce4bb4abc5406b525a88cd55bd2e680fbce293f",
+      "title": "Police used journalists' phone data to detect leaks by staff, report says",
+      "url": "https://www.bbc.com/news/articles/c62z5k9kw30o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-24T16:36:48.000Z",
+      "published": "2025-09-24T16:53:12.000Z",
       "summary_90w": "",
-      "raw": "Two have been taken to hospital with serious shrapnel injuries, the Magen David Adom ambulance service says.",
+      "raw": "There were 21 unlawful uses of covert powers to try to uncover reporters' sources between 2011 and 2024.",
       "topics": [
         "World"
       ]
@@ -21,9 +21,35 @@
       "url": "https://www.bbc.com/news/articles/cwywv34w00ro?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-24T16:35:57.000Z",
+      "published": "2025-09-24T16:52:14.000Z",
       "summary_90w": "",
       "raw": "A family of three are the first people to be allowed into the country from France, the Home Office says.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a19c03bd98780dbd3a1e30328125eeb72098e8ae",
+      "title": "UK arrests man in airport ransomware attack that caused delays across Europe",
+      "url": "https://www.theverge.com/news/784786/uk-nca-europe-airport-cyberattack-ransomware-arrest",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-24T16:41:48.000Z",
+      "summary_90w": "",
+      "raw": "Travellers wait in terminal 4 at Heathrow Airport.\t\n\nThe UK’s National Crime Agency arrested a man in West Sussex in connection with a ransomware attack that caused significant flight delays last week and forced many airlines to check passengers and luggage manually. The cyberattack impacted several airports across Europe, including London’s Heathrow and Berlin’s Brandenburg. The agency shared little about the arrest in its announcement today other than that the target was “a man in his forties” and that he was released on conditional bail as the investigation progresses. \nThe attack targeted the Multi-User System Environment (MUSE) used by airports, a piece of software developed by Collins Aerospace which allows multiple airlines to share a single check-in desk. While some larger airlines like British Airways were able to switch to a backup system and minimize the impact, many smaller providers resorted to manually checking-in passengers, something that has largely fallen out of favor in the era of smartphones and self-serve kiosks.\nInformation is very limited, though it does not appear that this was a particularly sophisticated attack carried out by some powerful cabal. Cyber security expert Kevin Beaumont claimed on Mastodon that a very simple ransomware tool called Hardbit was the weapon of choice. Though, BleepingComputer says its sources are suggesting a different variant called Loki was used. But, as BleepingComputer points out, both of these are Ransomware-as-a-Service tools, and generally used in smaller scale attacks, not the sort of thing that brings air traffic to a crawl across an entire continent.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1bd1a9dc83dc094e4775efbef2807763e7b76a16",
+      "title": "Twenty injured in Yemen drone attack on Israel, rescuers and military say",
+      "url": "https://www.bbc.com/news/articles/c0m4plxy30wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-24T16:36:48.000Z",
+      "summary_90w": "",
+      "raw": "Two have been taken to hospital with serious shrapnel injuries, the Magen David Adom ambulance service says.",
       "topics": [
         "World"
       ]
@@ -114,7 +140,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-24T16:16:29.000Z",
       "summary_90w": "",
-      "raw": "Ukrainian president told world leaders that combination of drone technology and AI would end in catastrophe\n\nEurope live – latest updates\n\nVolodymyr Zelenskyy has appealed to global leaders to intervene to prevent Russia from leading the world through “the most destructive arms race in human history”, warning that the combination of drone technology and artificial intelligence would end in catastrophe.\nSpeaking to the UN general assembly, the Ukrainian president tried to galvanise not just the west but also China. His chilling account of how Russia is using technology to change the face of war was the opposite of Donald Trump’s claim that Russia’s military may only be a paper tiger.\n Continue reading...",
+      "raw": "Ukrainian president tells world leaders that combination of drone technology and AI would end in catastrophe\n\nEurope live – latest updates\n\nVolodymyr Zelenskyy has appealed to global leaders to intervene to prevent Russia from leading the world through “the most destructive arms race in human history”, warning that the combination of drone technology and artificial intelligence would end in catastrophe.\nSpeaking to the UN general assembly, the Ukrainian president tried to galvanise not just the west but also China. His chilling account of how Russia is using technology to change the face of war was the opposite of Donald Trump’s claim that Russia’s military may only be a paper tiger.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -206,19 +232,6 @@
       "published": "2025-09-24T15:46:02.000Z",
       "summary_90w": "",
       "raw": "The comedian returned from a brief suspension after comments he made about the killing of conservative activist Charlie Kirk.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "bce4bb4abc5406b525a88cd55bd2e680fbce293f",
-      "title": "Police used journalists' phone data to detect leaks by staff, report says",
-      "url": "https://www.bbc.com/news/articles/c62z5k9kw30o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-24T15:44:25.000Z",
-      "summary_90w": "",
-      "raw": "There were 21 unlawful uses of covert powers to try to uncover reporters' sources between 2011 and 2024.",
       "topics": [
         "World"
       ]
@@ -491,7 +504,7 @@
       "source_name": "TechCrunch",
       "published": "2025-09-24T14:30:00.000Z",
       "summary_90w": "",
-      "raw": "The AI Stage at TechCrunch Disrupt 2025, happening October 27–29 in San Francisco, is officially locked and loaded, featuring the powerhouses shaping the future of artificial intelligence. Explore the full agenda and grab your pass with savings of up to $668.",
+      "raw": "The AI Stage at TechCrunch Disrupt 2025 is officially locked and loaded, featuring the powerhouses shaping the future of artificial intelligence.",
       "topics": [
         "Technology"
       ]
@@ -570,19 +583,6 @@
       "published": "2025-09-24T14:14:51.000Z",
       "summary_90w": "",
       "raw": "Disney is in a tangled web of its own making. In just one week, the entertainment giant managed to anger both sides of the political spectrum, and then topped it all off with a Disney Plus price hike that made just about everyone mad. Now, Disney's facing criticism from all sides, and it may struggle to patch its relationship with many of its viewers.\nDisney's recent troubles started when it suspended Jimmy Kimmel's late-night talk show after the host commented on the response to Charlie Kirk's death in one of his monologues. Kimmel said MAGA supporters tried to \"score political points\" by characterizing the suspect \"as anything other than  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "7cd4bc8e39d35173c3c942d915a06b415163c476",
-      "title": "Latest iOS beta hints at notifications on non-Apple watches",
-      "url": "https://www.theverge.com/news/784477/apple-ios-26-beta-third-party-smartwatch-notifications",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-24T14:09:19.000Z",
-      "summary_90w": "",
-      "raw": "Apple could soon improve the interoperability between iPhones and third-party smartwatches. The latest iOS 26.1 beta hints at a new “notification forwarding” feature that could surface iPhone notifications on a non-Apple device or accessory, as spotted by Macworld.\nCode seen by Macworld suggests that users would only be able to forward notifications to one device at a time, while a new “AccessoryExtension” framework could improve the pairing process with third-party accessories as well. It’s still too early to tell how these features will work, but they seem related to an order from the European Commission that will force Apple to make iPhones work better with non-Apple accessories.\nTo comply with the European Union’s Digital Markets Act (DMA), Apple is required to give developers and device manufacturers access to certain features that will make it easier to pair, transfer data, and display notifications between the iPhone and third-party devices, such as smartwatches, headphones, and speakers. Apple has until the end of this year to open up most of these features, but it’s not clear if they’ll be available with the expected launch of iOS 26.1 next month, or if they’ll come to users outside the EU.",
       "topics": [
         "Technology"
       ]
@@ -926,6 +926,19 @@
       ]
     },
     {
+      "id": "b21d1746e0345420eb9a21c7296e35c86c058bf2",
+      "title": "Trump cancels meeting with top Democrats as threat of government shutdown looms",
+      "url": "https://www.npr.org/2025/09/24/nx-s1-5551193/trump-cancels-meeting-with-top-democrats-as-threat-of-government-shutdown-looms",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-24T10:21:56.000Z",
+      "summary_90w": "",
+      "raw": "President Trump canceled a meeting to discuss government funding with top Democrats in Congress, leaving no clear path to avoiding a government shutdown next week.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "4c48795c7c275d4ffe55e54f9eec8f192735d6aa",
       "title": "Six West Africans deported from US sent to Togo despite legal fight",
       "url": "https://www.bbc.com/news/articles/c4g790k7d8go?at_medium=RSS&at_campaign=rss",
@@ -1038,19 +1051,6 @@
       "published": "2025-09-24T09:00:00.000Z",
       "summary_90w": "",
       "raw": "For the first time, NPR's Student Podcast Challenge has a returning champion: a California fifth grader who explored a dark chapter in U.S. history during World War II.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d2709cdd7f3ae470bf25afb26927f97dd0dab736",
-      "title": "Typhoon Ragasa batters Hong Kong and southern China",
-      "url": "https://www.npr.org/2025/09/24/g-s1-90281/typhoon-ragasa-batters-hong-kong-and-southern-china",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-24T08:57:28.000Z",
-      "summary_90w": "",
-      "raw": "Typhoon Ragasa whipped waves taller than lampposts onto Hong Kong promenades and turned seas rough on the southern Chinese coast after leaving deadly destruction in Taiwan and the Philippines.",
       "topics": [
         "World"
       ]
