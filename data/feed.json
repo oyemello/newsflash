@@ -1,7 +1,20 @@
 {
-  "version": "1758749432351",
-  "generatedAt": "2025-09-24T21:30:32.351Z",
+  "version": "1758749867524",
+  "generatedAt": "2025-09-24T21:37:47.524Z",
   "items": [
+    {
+      "id": "ce36af6859efbf3dc1da42fe2bd7dfdcc834cf10",
+      "title": "Government considers financial support for JLR suppliers",
+      "url": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-24T21:33:03.000Z",
+      "summary_90w": "",
+      "raw": "Fears are growing that some of the car maker's suppliers could go bust without support.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "890d82988f48b48a8f5b8af299c39940017f2067",
       "title": "Haunting PS5 shooter Saros launches in March",
@@ -36,7 +49,7 @@
       "source_name": "The Verge",
       "published": "2025-09-24T21:16:04.000Z",
       "summary_90w": "",
-      "raw": "Microsoft is bringing another big Xbox game to PS5 later this year. Microsoft Flight Simulator 2024, the latest instalment in the franchise, is arriving on PS5 on December 8th. Sony revealed the release date for Microsoft Flight Simulator 2024 during its State of Play today, and also teased that Asobo Studio is working on PS VR2 support for Flight Simulator.\nMicrosoft Flight Simulator 2024 originally launched on Xbox and PC in November 2024, complete with hot air balloon trips, aerial firefighting, and more. Asobo Studio has also added commercial flight, air ambulances, and aerial advertising.\nMicrosoft Flight Simulator 2024 is the latest  …\nRead the full story at The Verge.",
+      "raw": "Microsoft is bringing another big Xbox game to PS5 later this year. Microsoft Flight Simulator 2024, the latest instalment in the franchise, is arriving on PS5 on December 8th. Sony revealed the release date for Microsoft Flight Simulator 2024 during its State of Play today, and also teased that Asobo Studio is working on PS VR2 support for Flight Simulator.\nMicrosoft Flight Simulator 2024 on PS5 will support the adaptive triggers found on Sony's DualSense controller, and communications from air traffic control towers can even play through the controller speaker. \"Gyro controls, lightbar support, and a customizable touchpad further enhance  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -62,7 +75,7 @@
       "source_name": "The Verge",
       "published": "2025-09-24T21:03:25.000Z",
       "summary_90w": "",
-      "raw": "Last year, after well over a decade of trying, Qualcomm finally made Windows on Arm laptops a thing, putting both Intel and AMD on notice and shoving Intel out of consumer-grade Microsoft Surface machines. Today, we’re learning about the second generation of the chip that made it happen, one which’ll now come in two distinct flavors: the Snapdragon X2 Elite and Snapdragon X2 Elite Extreme. \nQualcomm is making a gigantic claim right in the headline of its press release: it says these are “the fastest and most efficient processors for Windows PCs.” I’m sure Intel and AMD will have something to say about that! \nBut for now, the company claims its 3nm chips offer up to 31 percent faster CPU performance than the previous-gen Snapdragon X Elite at the same power, or can require 43 percent less power, and with up to 2.3x the GPU performance from a new 1.85GHz GPU. On the CPU side, it’s using a 3rd-gen Oryon CPU that’ll also feature in Qualcomm’s new mobile flagship Snapdragon 8 Elite 5 chip, but here with up to 18 cores, 12 of which can run up to 4.4GHz, or up to two of them at 5GHz — a clockspeed which Qualcomm says is a first for Arm CPUs.\nYou can see more specs below, and at Qualcomm’s website and overview PDF.\nThere’s also a new 80 TOPS Hexagon NPU, for AI tasks, that offers 37 percent more performance with a 16 percent power consumption improvement, and the company claims it’s the fastest laptop NPU by far:\nQualcomm’s characterizing all of this as a “legendary leap in performance,” claiming the Elite Extreme in particular offers “up to 75 percent faster CPU performance” than competitors at the same power. \nWhile it doesn’t say which competitors it’s talking about in the press release, it appears that Qualcomm is comparing against some of the most powerful (and power-hungry) laptop chips in the market, including the Intel Core Ultra 9 285H and AMD Ryzen AI 9 HX 370, and you can see Qualcomm isn’t labeling both axes of its graphs: \n\n\n\n\nQualcomm also claims these power savings will lead to “multi-day battery life,” but that’s what the company already said about last year’s Snapdragon X Elite. (We saw 14 to 18 hours from last year’s laptops, so perhaps that’s multi-day defined as “two eight-hour workdays.”)\nStill, these sound like very solid improvements, and some of them come from distinct new portions of the silicon. Gaming on Arm, which still needed work last year, will get a boost from a dedicated new 18MB of high speed cache that Qualcomm’s calling “Adreno High Performance Memory.” \nAnd Qualcomm says Adobe creators will see big improvements over last year’s laptops: 28 percent faster photo editing in Photoshop, 43 percent faster exports from Lightroom, and a similar boosts to Premiere video analysis. Razer’s Min-Liang Tan also announced today that Razer will bring its Synapse software to Windows on Snapdragon, which is likely to be a polarizing announcement. He notably did not promise that Razer will make a Snapdragon-based gaming laptop.\nNote that when Qualcomm had its coming out party with Microsoft last year, the laptops arrived later that year. That’s not happening this time around: they’re “expected to be available 1H26,” the company writes.  \nQualcomm’s announcement also doesn’t mention whether these chips will feature in its hinted-at collaboration with Google on Android for PC, but it’s possible the company will mention that at its Snapdragon Summit, which is streaming as I write this. We may add a few more details to this story from the Summit soon.\nDeveloping… we’re adding more to this story as Snapdragon Summit continues.",
+      "raw": "Last year, after well over a decade of trying, Qualcomm finally made Windows on Arm laptops a thing, putting both Intel and AMD on notice and shoving Intel out of consumer-grade Microsoft Surface machines. Today, we’re learning about the second generation of the chip that made it happen, one which’ll now come in two distinct flavors: the Snapdragon X2 Elite and Snapdragon X2 Elite Extreme. \nQualcomm is making a gigantic claim right in the headline of its press release: it says these are “the fastest and most efficient processors for Windows PCs.” I’m sure Intel and AMD will have something to say about that! \nBut for now, the company claims its 3nm chips offer up to 31 percent faster CPU performance than the previous-gen Snapdragon X Elite at the same power, or can require 43 percent less power, and with up to 2.3x the GPU performance from a new 1.85GHz GPU. On the CPU side, it’s using a 3rd-gen Oryon CPU that’ll also feature in Qualcomm’s new mobile flagship Snapdragon 8 Elite 5 chip, but here with up to 18 cores, 12 of which can run up to 4.4GHz, or up to two of them at 5GHz — a clockspeed which Qualcomm says is a first for Arm CPUs.\nYou can see more specs below, and at Qualcomm’s website and overview PDF.\nThere’s also a new 80 TOPS Hexagon NPU, for AI tasks, that offers 37 percent more performance with a 16 percent power consumption improvement, and the company claims it’s the fastest laptop NPU by far:\nQualcomm’s characterizing all of this as a “legendary leap in performance,” claiming the Elite Extreme in particular offers “up to 75 percent faster CPU performance” than competitors at the same power. \nWhile it doesn’t say which competitors it’s talking about in the press release, it appears that Qualcomm is comparing against some of the most powerful (and power-hungry) laptop chips in the market, including the Intel Core Ultra 9 285H and AMD Ryzen AI 9 HX 370, and you can see Qualcomm isn’t labeling both axes of its graphs: \n\n\n\n\nQualcomm also claims these power savings will lead to “multi-day battery life,” but that’s what the company already said about last year’s Snapdragon X Elite. (We saw 14 to 18 hours from last year’s laptops, so perhaps that’s multi-day defined as “two eight-hour workdays.”)\nStill, these sound like very solid improvements, and some of them come from distinct new portions of the silicon. Gaming on Arm, which still needed work last year, will get a boost from a dedicated new 18MB of high speed cache that Qualcomm’s calling “Adreno High Performance Memory.” \nAnd Qualcomm says Adobe creators will see big improvements over last year’s laptops: 28 percent faster photo editing in Photoshop, 43 percent faster exports from Lightroom, and a similar boosts to Premiere video analysis. Razer’s Min-Liang Tan also announced today that Razer will bring its Synapse software to Windows on Snapdragon, which is likely to be a polarizing announcement. He notably did not promise that Razer will make a Snapdragon-based gaming laptop.\nIt’s intriguing to see that the company’s testing its X2 Elite Extreme at over 50W of power; last year, Snapdragon chips were just for thin and light laptops, but 50W lets them scale into bigger PCs.\nNote that when Qualcomm had its coming out party with Microsoft last year, the laptops arrived later that year. That’s not happening this time around: they’re “expected to be available 1H26,” the company writes.  \nQualcomm’s announcement also doesn’t mention whether these chips will feature in its hinted-at collaboration with Google on Android for PC, but it’s possible the company will mention that at its Snapdragon Summit, which is streaming as I write this. We may add a few more details to this story as the Summit continues.",
       "topics": [
         "Technology"
       ]
@@ -117,19 +130,6 @@
       "raw": "Just ahead of the launch of Ghost of Yōtei on the PS5 next week, Sony is holding its latest State of Play showcase to detail what’s coming next for the platform.\nOne thing that we know will make an appearance for sure is Saros, the latest dark sci-fi game from Returnal studio Housemarque. Aside from that, though, it’s not really clear what to expect from the event. Sony says it will span around 35 minutes and include “new looks at anticipated third-party and indie titles, plus updates from some of our teams at PlayStation Studios.”\nThe most recent State of Play in June featured a number of welcome surprises — including 007 First Light and the Final Fantasy Tactics remaster — so something similar could happen here. Maybe we’ll finally see some of Insomniac’s Wolverine?\nWhatever Sony does show when the stream kicks off on September 24th at 2PM PT / 5PM ET, you can keep up with all the most important developments right here.\n\n\n\t\t\t\t\t\nNioh 3 is near.\n\t\t\t\nHaunting PS5 shooter Saros launches in March\n\t\t\t\nAnd now for something old.\n\t\t\t\nMicrosoft Flight Simulator 2024 is coming to PS5 in December\n\t\t\t\nAnother look at Battlefield 6.\n\t\t\t\nNo country for dead spies.\n\t\t\t\nThe next PlayStation show starts soon.\n\t\t\t\nPlayStation’s State of Play returns tomorrow.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "ce36af6859efbf3dc1da42fe2bd7dfdcc834cf10",
-      "title": "Government considers financial support for JLR suppliers",
-      "url": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-24T20:44:22.000Z",
-      "summary_90w": "",
-      "raw": "Fears are growing that some of the car maker's suppliers could go bust without support.",
-      "topics": [
-        "World"
       ]
     },
     {
