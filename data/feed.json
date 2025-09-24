@@ -1,7 +1,33 @@
 {
-  "version": "1758735887738",
-  "generatedAt": "2025-09-24T17:44:47.738Z",
+  "version": "1758736340268",
+  "generatedAt": "2025-09-24T17:52:20.268Z",
   "items": [
+    {
+      "id": "764ca25cf8a559c618c17adde358732ae9d46098",
+      "title": "You can now upgrade a retro Casio watch with Bluetooth, step tracking, and games",
+      "url": "https://www.theverge.com/news/784895/ollee-casio-f-91w-a158w-watch-one-kit-bluetooth-smartwatch",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-24T17:47:28.000Z",
+      "summary_90w": "",
+      "raw": "The Ollee Watch One makes several Casio digital watches smarter. | Image: Ollee Watch\t\n\nFor the first time since it launched 36 years ago, the iconic Casio F-91W digital watch is getting some smart upgrades — but not from Casio. The Ollee Watch One is a replacement mainboard for the Casio F-91W, A158W, and several other watch models that can be installed without the need for a soldering iron or any electronics know-how aside from being able to remove a few screws and clips. It doesn’t upgrade Casio’s timepieces to the point where they’re on-par with the Apple Watch, but it does add Bluetooth and app connectivity so the watch can set the time automatically, track step counts, play games, and be more personalized using an improved color-changing backlight.\nThe DIY version of the Ollee Watch one, which requires you to already have one of six different supported Casio watch models (including the F-84W, A159W, A171W, and W-59) is available now for $54.99. If you’re not confident in tackling the upgrade yourself, which appears to take around six minutes, the company also sells the Casio F-91W-1 and A158W-1 preinstalled with the upgrade for $99.99, but it’s currently sold out.\nThe upgraded mainboard includes an accelerometer for step counting and  an upgraded audio buzzer that will alert you when you’ve reached a goal you set using an accompanying iOS and Android mobile app. The upgrade also adds a temperature sensor, an improved LED backlight that lets you adjust the color or use your watch as a flashlight, world time functionality, and the option to create five timer presets.\nThere’s no notifications, and while the Ollie Watch One does include alternate watch faces, it doesn’t upgrade the basic segmented screen that Casio includes. That being said, even with those screen limitations you can play a simplified version of Blackjack or a game called Ping that has you controlling a paddle to keep a bouncing ball up in the air. Battery life isn’t quite as impressive as the seven years Casio claims for an unmodified F91W-1, but thanks to its use of Bluetooth low energy the upgrade kit only reduces battery life to about 10 months on a CR2016 battery.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "680462d6e66fad5d70bf5d138fcf91ca839b5753",
+      "title": "Microsoft adds Anthropic’s AI to Copilot",
+      "url": "https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-24T17:46:29.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is integrating OpenAI rival Anthropic's AI into Copilot, marking another step towards the disentangling of Microsoft and OpenAI.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "2a7c3605a5ce3d2dac733b05fb3f21cad6557881",
       "title": "Urgent review ordered into asylum seeker taxi costs after BBC investigation",
@@ -575,19 +601,6 @@
       ]
     },
     {
-      "id": "97a02b3b4efb6b47c278166464f6e251f3bc7671",
-      "title": "Microsoft embraces OpenAI rival Anthropic to improve Microsoft 365 apps",
-      "url": "https://www.theverge.com/news/784392/microsoft-365-copilot-anthropic-ai-models-feature",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-24T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft is bringing Anthropic’s Claude Sonnet 4 and Claude Opus 4.1 AI models to its Microsoft 365 Copilot today. It’s a big move that expands model choice beyond just OpenAI’s range of models in Microsoft 365 Copilot, and it will allow Microsoft’s customers to access Anthropic models in Researcher and Microsoft Copilot Studio.\n“Copilot will continue to be powered by OpenAI’s latest models, and now our customers will have the flexibility to use Anthropic models too — starting in Researcher or when building agents in Microsoft Copilot Studio,” explains Charles Lamanna, president of Microsoft’s business and industry Copilot team. “The addition of Claude Sonnet 4 and Claude Opus 4.1 advances our commitment to bring the best AI innovation from across the industry to Microsoft 365 Copilot, tuned for work and tailored to your business needs.”\nMicrosoft’s Researcher agent can now use OpenAI’s deep reasoning models or Anthropic’s Claude Opus 4.1. Researcher users will see a “Try Claude” button at the top of the Microsoft 365 Copilot app that provides access to Opus 4.1 instead of OpenAI’s models. “Once you opt-in, you’ll be able to switch between OpenAI and Anthropic models in Researcher with ease,” Lamanna says.\nClaude Sonnet 4 and Claude Opus 4.1 will also be available as model options in Copilot Studio, Microsoft’s platform for building AI agents. “With this launch, you can build, orchestrate, and manage agents powered by Anthropic models for deep reasoning, workflow automation, and flexible agentic tasks,“ Lamanna explains. You’ll also be able to mix which models are used for specific tasks, with options from Anthropic, OpenAI, and other models in Azure’s model catalog.\nClaude in Researcher is rolling out today via the Frontier program to Microsoft 365 Copilot licensed customers who decide to opt in. Copilot Studio users can also opt in to get access to Claude.\nInterestingly, Anthropic’s AI models will still be hosted on Amazon Web Services, Microsoft’s main cloud rival. Microsoft accesses Claude via the Anthropic API, just like any other developer. Microsoft previously struck a deal with xAI to host Grok 3 models on Azure, so I wouldn’t be surprised to see a similar arrangement with Anthropic’s models on Azure soon.\nMicrosoft’s announcement of Anthropic models in Microsoft 365 Copilot arrives just a week after the company started favoring Anthropic over OpenAI for Visual Studio Code. GitHub Copilot paid users now “primarily rely on Claude Sonnet 4” when using the Visual Studio Code editor’s new automatic AI model selection.\nReports have also suggested that Microsoft will use Anthropic’s AI models in Excel and PowerPoint soon, after finding they outperformed OpenAI’s own models. “This is just the beginning — we’re committed to delivering model innovation at speed,” Lamanna teases. “Stay tuned: Anthropic models will bring even more powerful experiences to Microsoft 365 Copilot.”",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "6a026c29f3c00ae8331f5323c27ff348cd0e40a0",
       "title": "YouTube will reinstate accounts banned for spreading misinformation",
       "url": "https://techcrunch.com/2025/09/24/youtube-will-reinstate-accounts-banned-for-spreading-misinformation/",
@@ -1053,19 +1066,6 @@
       "raw": "The strong winds hit in waves - and standing upright is almost impossible, our correspondent writes.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "14dad1038e9408fa4ba518503f9a38bbeb06fdd4",
-      "title": "How Al Gore used AI to track 660M polluters",
-      "url": "https://techcrunch.com/2025/09/24/how-al-gore-used-ai-to-track-660m-polluters/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-24T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A new tool from Climate Trace allows people to track the path of fine particulate matter, or PM2.5, which causes as many as 10 million deaths annually.",
-      "topics": [
-        "Technology"
       ]
     },
     {
