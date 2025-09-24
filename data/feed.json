@@ -1,7 +1,124 @@
 {
-  "version": "1758750714744",
-  "generatedAt": "2025-09-24T21:51:54.744Z",
+  "version": "1758752055959",
+  "generatedAt": "2025-09-24T22:14:15.959Z",
   "items": [
+    {
+      "id": "d8e09770eb09f5483ef98a97079b7770768c4d6f",
+      "title": "Billionaire VC Mike Moritz slams new H-1B visa fee as ‘brutish extortion scheme’",
+      "url": "https://techcrunch.com/2025/09/24/billionaire-vc-mike-moritz-slams-new-h-1b-visa-fee-as-brutish-extortion-scheme/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-24T22:12:36.000Z",
+      "summary_90w": "",
+      "raw": "In a new, scathing Financial Times op-ed, the former Sequoia Capital honcho compares the White House to Tony Soprano's pork store, calling its new H-1B visa plan another \"brutish extortion scheme.\"",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "911a42aa02c2124523068b2b59900660cd0de4bf",
+      "title": "X-ray scans reveal the hidden risks of cheap batteries",
+      "url": "https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-24T22:10:13.000Z",
+      "summary_90w": "",
+      "raw": "An e-bike battery featuring several smaller 18650 lithium-ion battery cells packed inside. | Image: Lumafield\t\n\nLumafield has released the results of a new study of lithium-ion batteries that “reveals an enormous gap in quality between brand-name batteries and low-cost cells” that are readily available through online stores including Amazon and Temu. The company used its computed tomography (CT) scanners, capable of peering inside objects in 3D using X-rays, to analyze over 1,000 lithium-ion batteries. It found dangerous manufacturing defects in low-cost and counterfeit batteries that could potentially lead to fires and explosions.\nThe study tested 18650 lithium-ion battery cells, which are used in various products including electric toothbrushes, power tools, e-bikes, power banks, and even electric cars. The batteries were purchased from ten different brands: three OEMs, including Samsung and Panasonic, sourced from “highly reviewed, specialized suppliers,” three vendors selling rewraps (typically OEM batteries with their plastic outer wrapping replaced) sourced from “specialized battery sites” or the brand’s own web stores, and four companies selling low-cost or counterfeit batteries sourced from “large, general online retailers such as Temu.”\nLumafield scanned 1,054 batteries – around 100 from each brand – and found 33 of them had a serious manufacturing defect known as negative anode overhang. The defect “significantly increases the risk of internal short-circuiting and battery fires” and can reduce the overall life of the battery,” according to Lumafield. All 33 of the batteries with the defects came from the 424 sold by low-cost brands or brands selling counterfeits. One of the counterfeits was identified by its pink wrapper designed to match the one Samsung uses on its 30Q cells. Other low-cost brands claimed capacities of 9,900 mAh while brand-name 18650 batteries have capacities in the range of 3,000-3,450 mAh. Not only were the counterfeits’ specs overinflated, but in real-world testing Lumafield found their capacities were less than 1,300 mAh.\nWhen taking only low-cost/counterfeit batteries into consideration, there’s nearly an 8 percent chance they could have the dangerous negative anode overhang defect, based on Lumafield’s findings. For two of the counterfeit brands that were reporting impossible specs, the percentage of tested batteries from those brands that were found to have the defect were even higher – upwards of 12 and 15 percent. None of the name brand OEM batteries were found to have any problems, and while there was some deviation in anode overhang for rewrap batteries, the deviations were seven times worse for the low-end cells.\nWhen looking at other indicators of build quality, all of the batteries from the low-cost brands also had much worse edge alignment of their internal wound layers than those made by reputable OEMs, increasing the risk of short circuits and performance loss.\nDefects like negative anode overhang and bad edge alignment don’t mean an affected battery is guaranteed to explode or catch fire, but they can increase the risk of those incidents occurring, particularly when combined with other factors such as being left in a hot car or an accidental drop causing additional damage.\nThe results of Lumafield’s study suggest that batteries from reputable OEMs like Samsung, Panasonic, and Murata are safer and more reliable. And while rewrap batteries fared well in Lumafield’s test, their replaced wrapping makes it difficult to know exactly where they’ve been sourced which increases risks due to a potential lack of quality control in supply chain management. \nNot everyone has access to an X-ray CT machine to test the quality of the cells in every battery-powered device they purchase, but the study is a reminder that purchasing devices from reputable brands can increase the chances that their batteries are free of dangerous manufacturing defects. Trying to save money with less-known brands could end up costing you a lot more in the long run.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ce36af6859efbf3dc1da42fe2bd7dfdcc834cf10",
+      "title": "Government considers financial support for JLR suppliers",
+      "url": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-24T22:08:31.000Z",
+      "summary_90w": "",
+      "raw": "Fears are growing that some of the car maker's suppliers could go bust without support.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5957dc7213e1004ca1eed8406d3b450b6a167a8b",
+      "title": "'Anti-ICE' message on ammunition at Dallas shooting that killed immigration detainee",
+      "url": "https://www.bbc.com/news/articles/ckge9d26z1ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-24T22:07:14.000Z",
+      "summary_90w": "",
+      "raw": "The gunman fired at an unmarked van near the detention facility, before taking his own life, officials say.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5008b4eafb2873ad81057402df1bff29d5b683bf",
+      "title": "Pokémon and Theo Von agree on one thing: they shouldn&#8217;t be in DHS videos",
+      "url": "https://www.theverge.com/news/785288/pokemon-theo-von-dhs-ice",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-24T22:03:43.000Z",
+      "summary_90w": "",
+      "raw": "Podcaster Theo Von and the Pokémon Company probably don’t have a lot in common. But one thing they can apparently agree on, is that the Department of Homeland Security (DHS) should probably stop using them to promote deportation campaigns. \nThe DHS posted a montage of ICE raids to X on Monday accompanied by the Pokémon theme song and the caption “Gotta Catch ‘Em All.” The clip also features images from the cartoon and text overlays using a sort of Temu version of the Pokémon font. A day later, the agency posted a video featuring a viral clip of Theo Von where he stares into the camera and says “heard you got deported, dude… bye,” then tacked on stats about how many people had been deported so far under President Trump.\nBoth The Pokémon Company and Theo Von objected to DHS using them to promote ICE raids. Von quickly took to X saying, “Yooo DHS i didnt approve to be used in this. I know you know my address so send a check. And please take this down and please keep me out of your ‘banger’ deportation videos.” \nThe statement from The Pokémon Company was, unsurprisingly, a little more diplomatic, “Our company was not involved in the creation or distribution of this content, and permission was not granted for the use of our intellectual property,” the company told the Daily Beast. Fans have taken to social media to urge The Pokémon Company and Nintendo to sue, but at least one legal expert sees that as unlikely — despite the companies’ notoriously litigious nature. The Pokémon Company’s ex-legal chief, Don McGowan, told IGN that, “This will blow over in a couple of days and they’ll be happy to let it.”\nThe post featuring Theo Von has since been removed, suggesting that DHS is perhaps a little wary of angering the podcaster’s fanbase. The Pokémon clip remains however, and the Customs and Border Patrol X account even replied with a GIF of Pikachu under the caption “Border Patrol’s newest recruit.” Neither The Pokémon Company nor the Department of Homeland Security had responded to a request for comment at the time of publication.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "379adc2701334e2cda02f2e94b97412f5c8061a1",
+      "title": "Chipiron’s big idea: rethinking MRI access, not replacing old machines ",
+      "url": "https://techcrunch.com/video/chipirons-big-idea-rethinking-mri-access-not-replacing-old-machines/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-24T22:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Medical device funding is hitting levels we haven’t seen since 2021, with investors pouring billions into diagnostics and imaging companies. While innovation has raced ahead, a fundamental problem still hasn’t changed: Critical medical hardware like MRI machines cost millions of dollars and is limited to large hospitals. So how do you take one of the […]",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "fc0bfd92a9773d0b5afe1abe1cb781b05b95c3d4",
+      "title": "Australia news live: Albanese welcomes China’s first carbon emissions target but says it should not open new coal power plants",
+      "url": "https://www.theguardian.com/australia-news/live/2025/sep/25/australia-news-live-penny-wong-anthony-albanese-climate-crisis-united-nations-donald-trump-turkey-cop-politics-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-24T21:59:46.000Z",
+      "summary_90w": "",
+      "raw": "President Xi Jinping told the UN China would reduce its greenhouse gas emissions across the economy by 7-10% by 2035. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nChina should do more on carbon emissions, Albanese says\nAnthony Albanese says China should do more on cutting carbon emissions, including closing more coal fired power stations.\nIt is good that there is progress being made. We, of course would like there to be more, but it is a step forward, and indeed, China has exceeded its previous targets.\nWe’d like to see new coal fired power plants not open. But it is a step forward. If you look at the transition that’s occurring as part of what President Xi announced, as well of electric vehicles, that’s been a revolution, frankly, in a relatively short period of time.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6dfd4f6e0103f88d8c6ca5c45100bb185a07695d",
+      "title": "Qualcomm announces the Snapdragon 8 Elite Gen 5",
+      "url": "https://www.theverge.com/tech/784997/qualcomm-snapdragon-8-elite-gen-5",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-24T21:56:31.000Z",
+      "summary_90w": "",
+      "raw": "Better performance, bigger battery savings.\t\n\nQualcomm has formally unveiled its latest flagship SoC, destined for Android flagships in the very near future: the Snapdragon 8 Elite Gen 5. The name was revealed by way of a blog post last week, and if it seems like the company skipped forward a generation or two, that’s kind of the point. It features a third-generation Oryon CPU with boosted single- and multi-core performance, as well as a faster Hexagon NPU, with an emphasis on personalized, on-device AI experiences.\n The updated CPU comprises two prime cores of up to 4.6GHz and six performance cores up to 3.62GHz. Qualcomm claims up to 35 percent better power efficiency from the CPU, contributing to a 16 percent improvement in overall SoC efficiency. The updated Adreno GPU claims an increase of up to 23 percent in overall gaming performance, along with a 20 percent drop in power consumption.\nThe updated Hexagon NPU likewise claims 37 percent faster performance as well as power savings over the previous version. Qualcomm suggests these improvements — along with use of its Snapdragon Sensing Hub — could enable more personalized AI that continues to learn about the user over time. \nOn the camera side of things, the updated ISP supports the APV (Advanced Professional Video) codec. Qualcomm also claims to enable a “computational video pipeline.” Qualcomm’s Alex Katouzian explained at the company’s announcement keynote that this allows for AI enhancements to video on a frame-by-frame level. The ISP also enables context-aware autofocus, auto exposure, and auto white balance.\nThe 8 Elite Gen 5 uses an X85 modem, announced earlier this year, which boasts 50 percent lower gaming latency thanks to “AI-enhanced Wi-Fi.” We’ll start seeing devices with the 8 Elite Gen 5 from all the usual Android suspects soon enough.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b803814bc879ea0d5550d106f50645d3cb05d55d",
+      "title": "PlayStation&#8217;s new wireless speakers are for your desktop",
+      "url": "https://www.theverge.com/news/785282/sony-playstation-pulse-elevate-wireless-speakers",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-24T21:46:14.000Z",
+      "summary_90w": "",
+      "raw": "Sony has announced new Pulse Elevate wireless speakers that you can use with your PS5, PC, Mac, and even a PlayStation Portal or smartphone. The company promises that they offer “lifelike desktop audio,” a built-in mic for voice chat, and support Sony’s PlayStation Link ultra-low latency technology.\nThe speakers have a built-in rechargeable battery, so if you want to use them in places that aren’t your computer desk, you can pick them up bring them somewhere else. When you want to charge them back up, you can use the included charging docks.\nThe speakers are set to launch sometime in 2026, and you’ll be able to buy them in black or in white, though the white version will be available “while supplies last.” Sony is promising more details on a specific launch date in “the coming months.”\nThe Pulse Elevate speakers join Sony’s growing lineup of Pulse-branded audio accessories for gaming, which already includes things like the Pulse Explore wireless earbuds and the Pulse Elite headset.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "ac3c98c28961c532f5588c4bd14d22b373364091",
       "title": "Wolverine looks bloody good in first gameplay trailer",
@@ -24,32 +141,6 @@
       "published": "2025-09-24T21:38:55.000Z",
       "summary_90w": "",
       "raw": "Women and children were among 20 people who died when a strike hit a building sheltering displaced families, first responders say.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fc0bfd92a9773d0b5afe1abe1cb781b05b95c3d4",
-      "title": "Australia news live: Penny Wong tackles Trump climate claims; EU leader ‘inspired’ by Australian social media ban for kids",
-      "url": "https://www.theguardian.com/australia-news/live/2025/sep/25/australia-news-live-penny-wong-anthony-albanese-climate-crisis-united-nations-donald-trump-turkey-cop-politics-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-24T21:35:06.000Z",
-      "summary_90w": "",
-      "raw": "Foreign minister tells 7.30 that government has ‘different view’ on climate to US president. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nCreative sector made up 2.5% of Australia’s GDP during the 2023/24 financial year\nAustralia’s cultural and creative industries delivered $67.4bn to the national economy in the 2023/2024 financial year, according to newly released government data.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ce36af6859efbf3dc1da42fe2bd7dfdcc834cf10",
-      "title": "Government considers financial support for JLR suppliers",
-      "url": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-24T21:33:03.000Z",
-      "summary_90w": "",
-      "raw": "Fears are growing that some of the car maker's suppliers could go bust without support.",
       "topics": [
         "World"
       ]
@@ -88,7 +179,7 @@
       "source_name": "The Verge",
       "published": "2025-09-24T21:16:04.000Z",
       "summary_90w": "",
-      "raw": "Microsoft is bringing another big Xbox game to PS5 later this year. Microsoft Flight Simulator 2024, the latest instalment in the franchise, is arriving on PS5 on December 8th. Sony revealed the release date for Microsoft Flight Simulator 2024 during its State of Play today, and also teased that Asobo Studio is working on PS VR2 support for Flight Simulator 2024.\nMicrosoft Flight Simulator 2024 on PS5 will support the adaptive triggers found on Sony's DualSense controller, and communications from air traffic control towers can even play through the controller speaker. \"Gyro controls, lightbar support, and a customizable touchpad further enh …\nRead the full story at The Verge.",
+      "raw": "Microsoft is bringing another big Xbox game to PlayStation 5 later this year. Microsoft Flight Simulator 2024, the latest installment in the franchise, is arriving on PS5 on December 8th. Sony revealed the release date for Microsoft Flight Simulator 2024 during its State of Play today, and also teased that Asobo Studio is working on PSVR 2 support for Flight Simulator 2024.\nMicrosoft Flight Simulator 2024 on PS5 will support the adaptive triggers found on Sony's DualSense controller, and communications from air traffic control towers can even play through the controller speaker. \"Gyro controls, lightbar support, and a customizable touchpad  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -101,22 +192,9 @@
       "source_name": "The Verge",
       "published": "2025-09-24T21:03:25.000Z",
       "summary_90w": "",
-      "raw": "Last year, after well over a decade of trying, Qualcomm finally made Windows on Arm laptops a thing, putting both Intel and AMD on notice and shoving Intel out of consumer-grade Microsoft Surface machines. Today, we’re learning about the second generation of the chip that made it happen, one which’ll now come in two distinct flavors: the Snapdragon X2 Elite and Snapdragon X2 Elite Extreme. \nQualcomm is making a gigantic claim right in the headline of its press release: it says these are “the fastest and most efficient processors for Windows PCs.” I’m sure Intel and AMD will have something to say about that! \nBut for now, the company claims its 3nm chips offer up to 31 percent faster CPU performance than the previous-gen Snapdragon X Elite at the same power, or can require 43 percent less power, and with up to 2.3x the GPU performance from a new 1.85GHz GPU. On the CPU side, it’s using a 3rd-gen Oryon CPU that’ll also feature in Qualcomm’s new mobile flagship Snapdragon 8 Elite 5 chip, but here with up to 18 cores, 12 of which can run up to 4.4GHz, or up to two of them at 5GHz — a clockspeed which Qualcomm says is a first for Arm CPUs.\nYou can see more specs below, and at Qualcomm’s website and overview PDF.\nThere’s also a new 80 TOPS Hexagon NPU, for AI tasks, that offers 37 percent more performance with a 16 percent power consumption improvement, and the company claims it’s the fastest laptop NPU by far:\nQualcomm’s characterizing all of this as a “legendary leap in performance,” claiming the Elite Extreme in particular offers “up to 75 percent faster CPU performance” than competitors at the same power. \nWhile it doesn’t say which competitors it’s talking about in the press release, it appears that Qualcomm is comparing against some of the most powerful (and power-hungry) laptop chips in the market, including the Intel Core Ultra 9 285H and AMD Ryzen AI 9 HX 370, and you can see Qualcomm isn’t labeling both axes of its graphs: \n\n\n\n\nQualcomm also claims these power savings will lead to “multi-day battery life,” but that’s what the company already said about last year’s Snapdragon X Elite. (We saw 14 to 18 hours from last year’s laptops, so perhaps that’s multi-day defined as “two eight-hour workdays.”)\nStill, these sound like very solid improvements, and some of them come from distinct new portions of the silicon. Gaming on Arm, which still needed work last year, will get a boost from a dedicated new 18MB of high speed cache that Qualcomm’s calling “Adreno High Performance Memory.” \nAnd Qualcomm says Adobe creators will see big improvements over last year’s laptops: 28 percent faster photo editing in Photoshop, 43 percent faster exports from Lightroom, and a similar boosts to Premiere video analysis. Razer’s Min-Liang Tan also announced today that Razer will bring its Synapse software to Windows on Snapdragon, which is likely to be a polarizing announcement. He notably did not promise that Razer will make a Snapdragon-based gaming laptop.\nIt’s intriguing to see that the company’s testing its X2 Elite Extreme at over 50W of power; last year, Snapdragon chips were just for thin and light laptops, but 50W lets them scale into bigger PCs.\nNote that when Qualcomm had its coming out party with Microsoft last year, the laptops arrived later that year. That’s not happening this time around: they’re “expected to be available 1H26,” the company writes.  \nQualcomm’s announcement also doesn’t mention whether these chips will feature in its hinted-at collaboration with Google on Android for PC, but it’s possible the company will mention that at its Snapdragon Summit, which is streaming as I write this. We may add a few more details to this story as the Summit continues.",
+      "raw": "Last year, after well over a decade of trying, Qualcomm finally made Windows on Arm laptops a thing, putting both Intel and AMD on notice and shoving Intel out of consumer-grade Microsoft Surface machines. Today, we’re learning about the second generation of the chip that made it happen, one which’ll now come in two distinct flavors: the Snapdragon X2 Elite and Snapdragon X2 Elite Extreme. \nQualcomm is making a gigantic claim right in the headline of its press release: it says these are “the fastest and most efficient processors for Windows PCs.” I’m sure Intel and AMD will have something to say about that! \nBut for now, the company claims its 3nm chips offer up to 31 percent faster CPU performance than the previous-gen Snapdragon X Elite at the same power, or can require 43 percent less power, and with up to 2.3x the GPU performance from a new 1.85GHz GPU. On the CPU side, it’s using a 3rd-gen Oryon CPU that’ll also feature in Qualcomm’s new mobile flagship Snapdragon 8 Elite 5 chip, but here with up to 18 cores, 12 of which can run up to 4.4GHz, or up to two of them at 5GHz — a clockspeed which Qualcomm says is a first for Arm CPUs.\nYou can see more specs below, and at Qualcomm’s website and overview PDF.\nThere’s also a new 80 TOPS Hexagon NPU, for AI tasks, that offers 37 percent more performance with a 16 percent power consumption improvement, and the company claims it’s the fastest laptop NPU by far:\nQualcomm’s characterizing all of this as a “legendary leap in performance,” claiming the Elite Extreme in particular offers “up to 75 percent faster CPU performance” than competitors at the same power. \nWhile it doesn’t say which competitors it’s talking about in the press release, it appears that Qualcomm is comparing against some of the most powerful (and power-hungry) laptop chips in the market, including the Intel Core Ultra 9 285H and AMD Ryzen AI 9 HX 370, and you can see Qualcomm isn’t labeling both axes of its graphs: \n\n\n\n\nQualcomm also claims these power savings will lead to “multi-day battery life,” but that’s what the company already said about last year’s Snapdragon X Elite. (We saw 14 to 18 hours from last year’s laptops, so perhaps that’s multi-day defined as “two eight-hour workdays.”)\nStill, these sound like very solid improvements, and some of them come from distinct new portions of the silicon. Gaming on Arm, which still needed work last year, will get a boost from a dedicated new 18MB of high speed cache that Qualcomm’s calling “Adreno High Performance Memory.” \nAnd Qualcomm says Adobe creators will see big improvements over last year’s laptops: 28 percent faster photo editing in Photoshop, 43 percent faster exports from Lightroom, and a similar boosts to Premiere video analysis. Razer’s Min-Liang Tan also announced today that Razer will bring its Synapse software to Windows on Snapdragon, which is likely to be a polarizing announcement. He notably did not promise that Razer will make a Snapdragon-based gaming laptop.\nIt’s intriguing to see that the company’s testing its X2 Elite Extreme at over 50W of power; last year, Snapdragon chips were just for thin and light laptops, but 50W lets them scale into bigger PCs.\nNote that when Qualcomm had its coming out party with Microsoft last year, the laptops arrived later that year. That’s not happening this time around: they’re “expected to be available 1H26,” the company writes.  \nQualcomm’s announcement also doesn’t mention whether these chips will feature in its hinted-at collaboration with Google on Android for PC, but Sameer Samat, Google’s president of Android Ecosystem, suggested that the merger ChromeOS and Android might be on a similar schedule. “That combination is something we’re super excited about for next year,” he says.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "5957dc7213e1004ca1eed8406d3b450b6a167a8b",
-      "title": "'Anti-ICE' message on ammunition at Dallas shooting that killed immigration detainee",
-      "url": "https://www.bbc.com/news/articles/ckge9d26z1ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-24T21:02:43.000Z",
-      "summary_90w": "",
-      "raw": "The gunman fired at an unmarked van near the detention facility, before taking his own life, officials say.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -153,7 +231,7 @@
       "source_name": "The Verge",
       "published": "2025-09-24T20:45:00.000Z",
       "summary_90w": "",
-      "raw": "Just ahead of the launch of Ghost of Yōtei on the PS5 next week, Sony is holding its latest State of Play showcase to detail what’s coming next for the platform.\nOne thing that we know will make an appearance for sure is Saros, the latest dark sci-fi game from Returnal studio Housemarque. Aside from that, though, it’s not really clear what to expect from the event. Sony says it will span around 35 minutes and include “new looks at anticipated third-party and indie titles, plus updates from some of our teams at PlayStation Studios.”\nThe most recent State of Play in June featured a number of welcome surprises — including 007 First Light and the Final Fantasy Tactics remaster — so something similar could happen here. Maybe we’ll finally see some of Insomniac’s Wolverine?\nWhatever Sony does show when the stream kicks off on September 24th at 2PM PT / 5PM ET, you can keep up with all the most important developments right here.\n\n\n\t\t\t\t\t\nController of war.\n\t\t\t\nWolverine looks bloody good in first gameplay trailer\n\t\t\t\nNioh 3 is near.\n\t\t\t\nHaunting PS5 shooter Saros launches in March\n\t\t\t\nAnd now for something old.\n\t\t\t\nMicrosoft Flight Simulator 2024 is coming to PS5 in December\n\t\t\t\nAnother look at Battlefield 6.\n\t\t\t\nNo country for dead spies.\n\t\t\t\nThe next PlayStation show starts soon.\n\t\t\t\nPlayStation’s State of Play returns tomorrow.",
+      "raw": "Just ahead of the launch of Ghost of Yōtei on the PS5 next week, Sony is holding its latest State of Play showcase to detail what’s coming next for the platform.\nAnd there seems to be a lot to be excited about in the near future. That includes Housemarque’s sci-fi shooter Saros, Microsoft Flight Simulator making its way to the PlayStation for the first time, and — in the biggest surprise of the night — the first gameplay trailer for Wolverine, which is due out next year. Sony even showed off some new gaming speakers.\nIf you weren’t able to catch the steam live, here are all the biggest announcements and trailers.\n\n\n\t\t\t\t\t\nA cool-looking game with a very weird name.\n\t\t\t\nPlayStation’s new wireless speakers are for your desktop\n\t\t\t\nController of war.\n\t\t\t\nWolverine looks bloody good in first gameplay trailer\n\t\t\t\nNioh 3 is near.\n\t\t\t\nHaunting PS5 shooter Saros launches in March\n\t\t\t\nAnd now for something old.\n\t\t\t\nMicrosoft Flight Simulator 2024 is coming to PS5 in December\n\t\t\t\nAnother look at Battlefield 6.\n\t\t\t\nNo country for dead spies.\n\t\t\t\nThe next PlayStation show starts soon.\n\t\t\t\nPlayStation’s State of Play returns tomorrow.",
       "topics": [
         "Technology"
       ]
@@ -237,19 +315,6 @@
       ]
     },
     {
-      "id": "a98708c0eb5ca3eaf01d4d7690567fe460ffe565",
-      "title": "The best foldable phone you can buy",
-      "url": "https://www.theverge.com/tech/635839/best-foldable-phone",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-24T19:12:14.000Z",
-      "summary_90w": "",
-      "raw": "A foldable phone isn’t for the faint of heart. They’re generally heavier, pricier, and have less capable cameras than a standard slab-style phone. And while they’re far less fragile than when they first debuted, foldables are still susceptible to the kind of damage a regular smartphone can shrug off. You really don’t want any dust getting in that hinge. But if you’re an adventurous sort of gadget lover, then a folding phone is a rewarding investment. \nThere are basically two kinds of foldables at the moment — the kind that fold like books and the ones that fold clamshell style, like your old flip phone. Here’s how I think of it: a book-style foldable is like a phone plus a tablet, and a flip-style foldable is a phone plus a smartwatch. The book foldables provide an outer screen for all your regular phone needs, and then a tablet-like inner screen when you want, well, more screen. Flip phones come with a smaller secondary display on the outer panel that’s useful for checking information quickly. When you need to do regular phone stuff, you unfold it.\nSo while they all fit in one category of folding tech, they’re suited to two very different kinds of people — someone who wants even more phone with their phone and someone who wants to be fully immersed a little less. Whichever category you fit into, you’d be wise to get the manufacturer’s extended warranty with your purchase; fixes can be expensive, and you won’t be able to walk into just any phone repair shop to get them. If you don’t opt for the warranty, you’ll want to be sure you can comfortably afford to replace your phone in the event of a sudden sand-related catastrophe. Death can come swiftly to a folding screen.\nIf I haven’t scared you off by this point, then you’re probably the kind of person who will have a heck of a good time with a foldable. I’ve used every phone under the sun, and folding phones are some of my favorite gadgets. Run four apps at once! Prop it up like a tiny laptop! Hold it like a camcorder when you shoot video! There are tons of possibilities, and the thrill you get when you fold your phone shut never fully wears off.\n\n\n\n\n\nBest book-style foldable\nBest flip-style foldable\nThe most fun foldable\nThe best battery life in a foldable\nOther foldables to consider\nWhat’s coming next\n\nBest book-style foldable\nSamsung Galaxy Z Fold 7\n\n\nScore: 8\n\nProsCons\n\n\nRidiculously slim and light for a foldable\nAll-day battery with moderate use\nOuter screen finally feels normal\n\nIt’s $2,000\nDurability still a concern\nCamera bump makes it wobble on a table\n\n\n\nWhere to Buy:\n\n $1999.99 $1699.99 at Amazon (256GB)\n $1999.99 $1699.99 at Best Buy (256GB)\n $2119.99 $1699.99 at Samsung (512GB)\n\nScreen: 8-inch, 1968p, 120Hz OLED inner screen; 6.5-inch, 1080p, 120Hz OLED cover screen / Processor: Qualcomm Snapdragon 8 Elite / Cameras: 200-megapixel f/1.7 main with OIS; 10-megapixel 3x telephoto with OIS; 12-megapixel ultrawide; 10-megapixel selfie (cover screen); 10-megapixel inner selfie camera / Battery: 4,400mAh / Charging: 25W wired, 15W wireless, 4.5W reverse wireless / Weather-resistance rating: IP48\nThe Galaxy Z Fold 7 is the foldable we’ve been waiting for Samsung to create. Unlike the long and narrow form factor of previous Z Fold devices, the Z Fold 7 boasts a more familiar 21:9 aspect ratio, making it feel much less unwieldy to use. At just 8.9mm thick, it’s nearly as slim as standard slab-style devices and doesn’t feel bulky in your pocket. Open it up, and you get a spacious inner display that’s perfect for multitasking, gaming, or simply enjoying more screen real estate. It will even last a day with moderate use, which is relatively good for a folding phone.\nThe Z Fold 7, however, isn’t without its shortcomings. Notably, its starting price of $1,999 is a huge reminder that this is a luxury device, not a practical choice for everyone. The outer display also has a lower resolution than the screen found in the more affordable Galaxy S25 Ultra, and the camera bump is quite large, resulting in a slight wobble when the phone is placed on flat surfaces. That said, the camera system is top-notch, highlighted by a 200-megapixel lens that performs well in low-light scenarios.\nIt was going to take a lot to unseat the Pixel 9 Pro Fold as our favorite book-style foldable, but the Z Fold 7 has done just that. The hardware is stunning, and the reworked proportions make it feel much nicer to use. Still, issues like long-term durability remain a concern, while the $1,999 price tag places it out of reach for most.\nRead our full Galaxy Z Fold 7 review.\nBest flip-style foldable\nSamsung Galaxy Z Flip 7\n\n\nScore: 8\n\nProsCons\n\n\nSamsung finally adopted the big cover screen\nAll-day battery\nReliable camera\n\nMore susceptible to dust than your average phone\nStill too hard to run full apps on the cover screen\n\n\n\nWhere to Buy:\n\n $1099.99 at Amazon (256GB)\n $1099.99 at Best Buy (256GB)\n $1099.99 at Samsung (256GB)\n\nScreen: 6.9-inch, 1080p, 120Hz OLED inner screen; 4.1-inch, 948p, OLED cover screen / Processor: Samsung Exynos 2500 / Cameras: 50-megapixel f/1.8 main with OIS; 12-megapixel ultrawide; 10-megapixel selfie (inner screen) / Battery: 4,300mAh / Charging: 25W wired, 15W wireless, 4.5W reverse wireless / Weather-resistance rating: IP48\nThe latest Galaxy Z Flip may not be as fun as the newest Razr Ultra, but it does offer a few new tricks. Samsung ditched the old file-folder cover screen in favor of a glorious, 4.1-inch edge-to-edge panel that wraps around the cameras. The extra real estate means you have more room to quickly respond to messages or perform any task that doesn’t require you to open your phone (and risk getting lost in a digital rabbit hole).\nIn addition to the larger cover screen, the Flip 7 offers a couple of other thoughtful updates. It’s thinner than its predecessor and features a bigger 4,300mAh battery, which is a step up from the 4,000mAh battery found in the last-gen Flip 6. The camera system remains unchanged from last year’s model, too, though that’s not necessarily a bad thing. The 50-megapixel main shooter still produces great images, and you get all the versatility the flip form factor has to offer, including the ability to easily take selfies using the rear camera.\nDespite some welcome changes, the Flip 7 carries the same IP48 rating as last year’s model, which means long-term durability against fine dust particles remains a concern. However, Samsung offers a great warranty and repair program, along with seven years of OS and security updates. The Flip 7 isn’t perfect, but it’s the most powerful and polished version yet — just don’t drop it while lounging on the beach.\nRead our full Galaxy Z Flip 7 review.\nThe most fun foldable\nMotorola Razr Ultra (2025)\n\n\nScore: 7\n\nProsCons\n\n\nOne of the best-looking phones you can buy\nGreat battery life\nOuter screen is useful in unexpected ways\n\nAI button is wasted real estate \nLong-term durability is still a question mark\nCamera processing is occasionally weird\n\n\n\nWhere to Buy:\n\n $1299.99 $1099.99 at Amazon (512GB)\n $1299.99 $1099.99 at Best Buy (512GB)\n $1299.99 at Motorola (512GB)\n\nScreen: 7-inch 1224p OLED 165Hz inner screen; 4-inch 1080p OLED 165Hz outer screen / Processor: Qualcomm Snapdragon 8 Elite / Cameras: 50-megapixel f/1.8 main with OIS; 50-megapixel f/2.0 ultrawide; 50-megapixel f/2.0 selfie / Battery: 4,700mAh / Charging: 68W wired, 30W wireless / Weather-resistance rating: IP48\nThe Razr Ultra is the newest and most advanced member of Motorola’s foldable lineup. Compared to the Razr Plus, it boasts a higher-resolution inner screen, Qualcomm’s most powerful mobile processor, double the storage space, and an upgraded selfie camera. The device is also one of the best-looking phones you can buy — the gold-bronze chassis and wooden back panel lend the Ultra a real elegance. When every phone tends to look the same — even in the foldable market — the Razr Ultra stands out in a crowd, which only adds to its charm.\nBeyond its appearance, the Ultra is just plain fun to use. The 4-inch outer screen covers almost the entire front of the phone, making it perfect for checking notifications, responding to messages, and taking quick actions such as hailing an Uber. The titanium hinge is also an upgrade over the stainless steel found in the Razr Plus. While the Ultra is enjoyable, it can’t overcome the gripes we’ve had with previous Motorola foldables, like inconsistent camera processing. Meanwhile, Motorola is only promising three OS upgrades and four years of security updates, which is on the shorter side considering the $1,300 retail price.\nRead our full Razr Ultra (2025) review.\nThe best battery life in a foldable\nOppo Find N5\n\n\nScore: 8\n\nProsCons\n\n\nIt’s really, really thin\nExcellent battery life\nThe crease is almost invisible\n\nFoldables are still fragile\nIt’s not launching in the US or Europe\n\n\n\nWhere to Buy:\n\n $2499 $2099 at Oppo (512GB)\n\nScreen: 8.12-inch, 2248p, 120Hz OLED inner screen; 6.62-inch, 1140p, 120Hz OLED outer screen size/ Processor: Qualcomm Snapdragon 8 Elite Cameras: 50-megapixel f/1.9 main with OIS, 50-megapixel 3x telephoto with OIS, 8-megapixel ultrawide, 8-megapixel selfie cameras (inner and outer) / Battery: 5,600mAh / Charging: 80W wired, 50W wireless / Weather-resistance rating: IPX8/IPX9\nLet’s get the bad news out of the way first: if you live in the US or Europe, you can’t buy the Oppo Find N5. That rules out, well, a lot of us. But if you live in China, Singapore, or any of the other Asian countries Oppo included in its so-called “global” release, then you’re in luck: you can pick up one of the world’s thinnest book-style folding phones, and the rest of us are all very jealous of you.\nThe Find N5 isn’t all about thinness, either. Its Qualcomm Snapdragon 8 Elite chipset is highly capable, the phone is fully water-resistant, and battery life is excellent. It utilizes silicon-carbon battery technology to accommodate a large (by foldable standards) 5,600mAh battery, which easily holds up after a long day of heavy use. What’s even more impressive is that, like the aforementioned Z Fold 7, the Find N5 is still barely thicker than a standard slab-style phone and only slightly heavier. That matters when you’re using the phone via the cover screen for long periods of time or stashing it in the side pocket of your yoga pants. When a foldable is only about as heavy and bulky as a regular phone, using the inner screen feels like getting away with something fantastic — not a benefit you have to make many other sacrifices for. Oppo delivers this in spades, and I just wish more of us could… find it.\nRead our full Oppo Find N5 review.\nOther foldables to consider\nThe latest Huawei Mate XTs gets an honorable mention for its sheer wow factor alone. It’s Huawei’s second trifold phone and features some minor upgrades over the original, which we found to be a great foldable that’s far too expensive. The second-gen Mate XTs is cheaper than the original at 17,999 yuan (about $2,520) and adds several new features, including stylus support, an upgraded Kirin 9020 chipset, and an improved 40-megapixel ultrawide.\nThe Motorola Razr Plus 2025 is new to the scene, replacing last year’s model. Although the two devices look identical, there are a few notable changes. The biggest difference is that the Razr Plus 2025 now features a titanium hinge, rather than stainless steel, promising better durability and a less noticeable crease when the device is open. Additionally, the Razr Plus 2025 offers IP48 dust and water resistance, whereas last year’s model featured an IPX8 rating. While we haven’t tested the newest model, it appears to be a solid alternative to the Ultra.\nThe standard Motorola Razr 2025 is a more affordable entry point into the world of foldables, starting at $699. The Razr 2025 offers improved performance, battery life, and durability — the kind of bumps we expect year after year. It boasts a smaller cover screen compared to the Razr Plus and Ultra, but still offers a spacious 6.9-inch internal display. We haven’t tested the Razr 2025 yet, but its relatively budget-friendly price is a good option for jumping into the foldable market.\nThe Pixel 9 Pro Fold is an impressive sophomore effort from Google, offering an ideal form factor that’s a joy to use. When folded, the outer screen matches the dimensions of a regular phone, and the inner screen can get nice and bright outdoors. The whole package is also light enough that it sometimes doesn’t feel like you’re holding a foldable, though it does suffer from a slightly downgraded camera system compared to its slab-style siblings. There’s also no formal dust resistance, so long-term durability remains a concern. Read our review.\nWhat’s coming next\nGoogle recently announced the Pixel 10 Pro Fold, which is currently available for preorder from Amazon, Best Buy, and Google starting at $1,799, with a launch set for October 9th. It’s the first foldable to earn an IP68 rating, meaning it offers full water and dust resistance. It also features Google’s new Tensor G5 chip, improved inner and outer displays, and support for Google’s magnet-based Pixelsnap system. We got a brief hands-on with the foldable following its announcement; however, we’re not ready to share a final verdict until we’ve performed more extensive real-world testing.\nUpdate, September 24th: Adjusted pricing / availability and added info about the upcoming Pixel 10 Pro Fold. Brandon Russell also contributed to this post.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "242fbe8049b4d6a5b2cf4af19a13a62a225f8b0f",
       "title": "YouTube now lets you hide recommendation pop-ups at the end of videos",
       "url": "https://techcrunch.com/2025/09/24/youtube-now-lets-you-hide-recommendation-pop-ups-at-the-end-of-videos/",
@@ -258,19 +323,6 @@
       "published": "2025-09-24T19:09:49.000Z",
       "summary_90w": "",
       "raw": "The decision to let users hide end screens is a welcome addition to the platform, especially since they can end up covering the last bit of a video and make it hard to see what's happening in some cases.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "737720a1bddfc330b53c76227e2d0612c5dbd399",
-      "title": "Meta is opening pop-up shops to show off its smart glasses with a display",
-      "url": "https://www.theverge.com/news/784872/meta-lab-pop-up-shops-smart-glasses-ai-ray-ban-display",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-24T19:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Meta Lab LA store.\t\n\nMeta is just about to launch its impressive smart glasses with a display, and to give more people a chance to try them out and see its other smart glasses and VR hardware, the company is going to open new shops starting in October. New Meta Lab pop-up shops will be located in Las Vegas and New York, and and its Los Angeles Meta Lab location, which opened as a pop-up last year, will return as Meta’s flagship store. Meta’s Bay Area shop in Burlingame, California, remains open, too.\nHere’s when you’ll be able to visit each of the new stores, according to Meta:\nThe Las Vegas shop at the Wynn Las Vegas will open on October 16th\nThe Los Angeles shop on Melrose Avenue will open on October 24th, and it will be expanded to more than 20,000 square feet\nThe New York shop on Fifth Avenue is “currently scheduled” to open on November 13th\nAnd if you want to try out the Meta Ray-Ban Display glasses, you can book a demo on Meta’s website. For the Meta Labs stores, Meta will initially open up booking for demos at the Burlingame and Los Angeles locations. The website also has booking options for non-Meta Lab stores, but Meta says that appointments in “many major cities” are already booked through mid-October.\nThe $799 Meta Ray-Ban Display glasses are set to launch on September 30th. Meta also recently released a second-generation version of the Ray-Ban Meta glasses and is scheduled to launch the $499 Oakley Meta Vanguard glasses on October 21st.\nCorrection, September 24th: The Los Angeles store is being brought back as a permanent location, not a pop-up shop.",
       "topics": [
         "Technology"
       ]
@@ -380,19 +432,6 @@
       ]
     },
     {
-      "id": "bb8f2eb7a8b86bfa86e0962118f6210c8c7df2d1",
-      "title": "Waymo is launching a new service for business travelers",
-      "url": "https://www.theverge.com/news/784929/waymo-for-business-corporate-travel-employer",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-24T18:15:07.000Z",
-      "summary_90w": "",
-      "raw": "Waymo is standing on business. \nThe robotaxi operator is launching a new service called Waymo for Business, aimed at companies that may want to set up Waymo accounts for their employees en masse. This new service allows employers to manage corporate accounts, customize promo codes for big events, track their transportation budget, and monitor ride activity. \nUltimately, its another instance of Waymo taking its cues from the traditional ridehailing industry, which for years has offered tools to employers for managing and covering the costs of employee and customer travel. Uber and Lyft launched their own business travel programs when they were the upstarts. Now Waymo is doing the same — but for robotaxis. \nWaymo says it has been testing out its new service with a variety of “employers, universities, and event organizers” that are based in the cities in which the company operates. And so far, the feedback has been great. A representative from Carvana, for example, called Waymo “a natural fit for business travel.” \nWaymo is touting its use of electric vehicles, as well as as its commitment to safety, as among the things businesses tend to prioritize when making travel decisions. The company doesn’t plan on offering any discounts to its enrollees, so Waymo for Business rides will cost the same as normal Waymo trips, but companies are free to subsidize their employees’ rides if they so choose.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "87603f87a43bbec598268d8cda56b43a56029852",
       "title": "A statue of Trump and Epstein holding hands in D.C. is removed as fast as it appeared",
       "url": "https://www.npr.org/2025/09/24/nx-s1-5552505/trump-epstein-statue-removed-national-mall",
@@ -442,19 +481,6 @@
       "raw": "Joshua Meadows also admits to possessing cannabis at a protest about asylum seekers at The Bell Hotel.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "52617251bbd1394ce0fc04fcab374463074bf66a",
-      "title": "Volvo’s next-gen hybrids will be American-made EREVs",
-      "url": "https://www.theverge.com/news/784652/volvo-erev-hybrid-factory-range-us",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-24T17:52:46.000Z",
-      "summary_90w": "",
-      "raw": "Volvo plans to build a new extended-range EV at its factory in South Carolina. | Image: Getty Images\t\n\nAs it struggles with declining sales and an uncertain regulatory environment, Volvo is hoping to realign its fortunes by overhauling its electric vehicle plans. And a big part of that is a bet on hybrid technology — or more specifically, extended-range electric vehicles (EREV).\nAt a factory tour in Ridgeville, South Carolina, Volvo made a series of announcements, including an updated EX90 SUV with an Nvidia-supplied computer and the start of production on the gas-powered XC60. But chief among them was the news that the automaker would begin production of an unnamed EREV, developed specifically for the US market.\nIn a roundtable with reporters, Volvo CEO Håkan Samuelsson described it as the automaker’s “second-generation hybrid,” with all the acceleration and driving agility of a regular battery-electric vehicle, but with improved range thanks to a small gas engine.\n\n“The technology needs to be decided,” Samuelsson said.\n\n\n“The technology needs to be decided,” Samuelsson said, “but it’s more an electric car with a backup engine than the first-generation [hybrid], which is a combustion car with some batteries.”\nEREVs are basically plug-in hybrids with a small internal combustion engine to recharge the EV battery for more range. They function as EVs, with the electric motors driving the wheels, and batteries that can be plugged into EV chargers. The gas generator is intended to relieve any range anxiety that some customers may have about buying a full EV. \nMany automakers are turning to EREVs, as the imminent expiration of the federal EV tax credit is expected to result in a drop in EV sales. Ford, Ram, Hyundai, Nissan, and Scout Motors are just some of the companies that have said they intend to release EREVs in the near future. \nVolvo is owned by Geely, a massive Chinese automaker that also produces a lot of hybrids, so the company hopes to utilize some of that internal knowledge in developing this new vehicle program. \n“We’re fairly global,” Samuelsson said. “I have engineers in pretty much all continents … the majority of which are in Sweden. So that’s always going to be the center of gravity.”\nBut the vehicle will be built in the US, as Volvo — as with many automakers right now — looks for ways to minimize the impact that President Donald Trump’s tariffs are having on its bottom line. The company has had a rough summer, with sales dropping each month thanks to rising prices and declining EV demand. It even had to stop selling some of its models in the US, as tariffs were making it too expensive.\nAs such, Volvo is tailoring its new hybrid for the American market, focusing on a “bigger car” specifically for families, Samuelsson said. That would seem to point to an SUV with three rows, much like the XC90 or EX90. That said, Volvo’s design team still hasn’t decided what kind of car it will be. \nBut once that decision is made and the EREV goes into production, then Volvo’s South Carolina factor will be at capacity. Volvo is staking its future on a 50 percent volume increase over the next five years, anchored by a $1.3 billion investment in its factory in Charleston, South Carolina. The automaker had planned to become an EV-only company by 2030, but had to push that back a decade to 2040 as a result of weaker demand and slower sales. \n“It will take longer time than we thought five years ago,” Samuelsson said, “and that’s why we need to be pragmatic and have this type of plug-in or bridge solutions.”\nWith additional reporting by Jennifer Pattison Tuohy.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -784,13 +810,13 @@
     },
     {
       "id": "3506e7a602c36b764590e9025be0269891117bd4",
-      "title": "Callan park master plan hopes to turn former mental hospital site into ‘iconic’ urban parkland",
+      "title": "Callan park master plan hopes to turn former psychiatric hospital site into ‘iconic’ urban parkland",
       "url": "https://www.theguardian.com/australia-news/2025/sep/25/callan-park-master-plan-hopes-to-turn-former-mental-hospital-site-into-iconic-urban-parkland",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-09-24T15:00:13.000Z",
       "summary_90w": "",
-      "raw": "Exclusive: NSW government plan proposes restoring native bushland and upgrading heritage buildings for cafes and possible film studio by 2035, but leaves unanswered questions over how project would be paid for\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA new master plan for Callan park, the site of a former mental hospital in Sydney’s inner west, proposes restoring the heritage buildings for health and cultural uses and possibly for a film facility while rejuvenating its extensive parklands to create a second Centennial park-style green space for the city.\nBut it has left unanswered questions over how the project would be paid for, raising questions about whether the vision can be achieved by 2035, especially as many of the heritage buildings that were once part of the hospital require extensive renovation.\n Continue reading...",
+      "raw": "Exclusive: NSW government plan proposes restoring native bushland and upgrading heritage buildings for cafes and possible film studio by 2035, but leaves unanswered questions over how project would be paid for\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA new master plan for Callan park, the site of a former psychiatric hospital in Sydney’s inner west, proposes restoring the heritage buildings for health and cultural uses and possibly for a film facility while rejuvenating its extensive parklands to create a second Centennial park-style green space for the city.\nBut it has left unanswered questions over how the project would be paid for, raising questions about whether the vision can be achieved by 2035, especially as many of the heritage buildings that were once part of the hospital require extensive renovation.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -803,7 +829,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-24T15:00:11.000Z",
       "summary_90w": "",
-      "raw": "State treasurer expects bipartisan support in Canberra for existing deal will prevent changes, as NSW backs review of ‘busted’ system\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA deal that will hand an estimated extra $60bn in tax revenue to Western Australia over a decade will come under scrutiny after Jim Chalmers tasked the Productivity Commission with reviewing the GST distribution.\nThe treasurer on Wednesday released the terms of reference for the scheduled Productivity Commission review in 2026, acknowledging that the GST carve-up between the states and territories “will always be a contentious issue”.\n Continue reading...",
+      "raw": "State treasurer expects bipartisan support in Canberra for existing deal will prevent changes, as NSW backs review of ‘busted’ system\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA deal that will hand an estimated extra $60bn in tax revenue to Western Australia over a decade will come under scrutiny after Jim Chalmers tasked the Productivity Commission with reviewing the GST distribution.\nThe treasurer on Wednesday released the terms of reference for the scheduled Productivity Commission review in 2026, acknowledging the GST carve-up between the states and territories “will always be a contentious issue”.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -934,32 +960,6 @@
       "published": "2025-09-24T14:05:19.000Z",
       "summary_90w": "",
       "raw": "Google's Nano Banana AI model can now be used to help you brainstorm ideas and make collages with Mixboard.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "5eed646c0cfcae5b4d308367c93f469b37ad12d7",
-      "title": "3 days left: Don’t miss your last chance to lock $668 of savings for TechCrunch Disrupt 2025",
-      "url": "https://techcrunch.com/2025/09/24/3-days-left-dont-miss-your-last-chance-to-lock-in-regular-bird-pricing-for-techcrunch-disrupt-2025/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-24T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "There’s no event quite like TechCrunch Disrupt, and if you’ve never been, this is the year to change that. You have just 3 days left to save up to $668 on your pass.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "73882f7557adfb1796a98fecf28486b91192bf97",
-      "title": "Emergent raises $23M from Lightspeed to let consumers build apps",
-      "url": "https://techcrunch.com/2025/09/24/emergent-raises-23m-from-lightspeed-to-let-consumers-build-apps/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-24T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Emergent raises $23M for its vibe-coding software platform.",
       "topics": [
         "Technology"
       ]
@@ -1272,6 +1272,19 @@
       "published": "2025-09-24T04:00:14.000Z",
       "summary_90w": "",
       "raw": "‘Not enough of anything’, says surgeon, as Israel’s assault forces injured, sick and hungry people to leave Gaza City\nThe few remaining hospitals and clinics in central and southern Gaza are being overwhelmed by a “tsunami” of injured and sick patients fleeing a new Israeli offensive in the north of the devastated territory, medics say.\nAt both Nasser medical complex, in the southern city of Khan Younis, and field hospitals in al-Muwasi, the coastal “humanitarian zone” designated by Israel, staff are struggling to cope with large numbers of new arrivals forced out of Gaza City in the north of the devastated Palestinian territory.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f5058e448b8db3235b0050e7bb53f36a75984b2d",
+      "title": "Trump’s UN speech makes it clear: the world can no longer look to the US for strong leadership",
+      "url": "https://www.theguardian.com/world/2025/sep/24/trump-un-general-assembly-speech-analysis",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-24T02:30:12.000Z",
+      "summary_90w": "",
+      "raw": "US president’s speech made a mockery of UN values and highlights the need for strong anti-Trumpian alliances\nSuch is the gravitational pull cast by Donald Trump and the US economy that the politics of the other 192 countries that make up the United Nations are rapidly being reduced to one long discussion about how to relate to and challenge this ever darker and weirder presidency.\nBefore Trump’s extraordinary 58-minute speech on the supposed threats posed by open borders, sharia law, the UN’s failings and the “climate hoax”, the supporters of the UN’s values already knew they faced a challenge. Now they realise the degree to which the world’s superpower seems bent on the destruction of everything they believe.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1610,19 +1623,6 @@
       "published": "2025-09-23T11:11:25.000Z",
       "summary_90w": "",
       "raw": "On Monday night Kastrup airport in Copenhagen was forced to shut down for several hours following several drone sightings.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "01026a76846b8196d51921522930fd33ce55afa5",
-      "title": "Ice targeted me for organizing, says farm worker who left US for Mexico",
-      "url": "https://www.theguardian.com/us-news/2025/sep/23/ice-deportation-us-mexico-farm-worker",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-23T10:00:54.000Z",
-      "summary_90w": "",
-      "raw": "Alfredo Juarez Zeferino spent a harrowing few months in Ice jail – and, under threat of deportation, chose to leave\nAlfredo “Lelo” Juarez Zeferino spends much of his days outdoors, harvesting bananas and hiking vast, bramble-laden trails. But for more than a quarter of 2025, he barely saw the sun. After being arrested by Immigration and Customs Enforcement (Ice) in March, the farm-worker activist was placed in a detention center in Washington state, where he remained until he agreed to voluntarily leave the US.\n“I probably would say five times, in the three months and a half I was in there, they offered me to go outside,” he explained on a Zoom call from his family farm in Guerrero, Mexico, where he has been for more than a month.\n Continue reading...",
       "topics": [
         "World"
       ]
