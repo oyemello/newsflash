@@ -1,16 +1,159 @@
 {
-  "version": "1758815583880",
-  "generatedAt": "2025-09-25T15:53:03.880Z",
+  "version": "1758817054024",
+  "generatedAt": "2025-09-25T16:17:34.024Z",
   "items": [
     {
+      "id": "f8e13241e8413ba1bd7a3ff7f85517ce6d386cc6",
+      "title": "OpenAI says GPT-5 stacks up to humans in a wide range of jobs",
+      "url": "https://techcrunch.com/2025/09/25/openai-says-gpt-5-stacks-up-to-humans-in-a-wide-range-of-jobs/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-25T16:11:34.000Z",
+      "summary_90w": "",
+      "raw": "A new test from OpenAI aims to understand how close AI is to outperforming humans at economically valuable work.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9f2ed6ce1cde36d5f730f4d82ba28a559bd10656",
+      "title": "Elon Musk’s xAI offers Grok to federal government for 42 cents ",
+      "url": "https://techcrunch.com/2025/09/25/elon-musks-xai-offers-grok-to-federal-government-for-42-cents/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-25T16:06:15.000Z",
+      "summary_90w": "",
+      "raw": "xAI has reached a deal with the U.S. GSA to sell Grok to federal agencies for 42 cents over 18 months, undercutting OpenAI and Anthropic.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e126cea169abb50a8d0d20a2a07d5a1926f57606",
+      "title": "Amazon is bringing back Rick Moranis for the Spaceballs sequel",
+      "url": "https://www.theverge.com/news/785797/amazon-spaceballs-2-rick-moranis-dark-helmet-sequel-cast-photo",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-25T16:05:25.000Z",
+      "summary_90w": "",
+      "raw": "Amazon MGM Studios is working on a Spaceballs sequel, and a new cast photo confirms that Rick Moranis will be back after a decades-long break from live-action films to reprise his role as Dark Helmet. Moranis’ last live-action movie was Honey, We Shrunk Ourselves, released in 1997, and while Deadline reported earlier this year that Moranis would be returning for Spaceballs 2, now it’s official.\nMel Brooks, Daphne Zuniga, Bill Pullman, and George Wyner are also coming back for Spaceballs 2, and they’ll be joined by new cast members Josh Gad, Keke Palmer, Lewis Pullman, and Anthony Carrigan. Details about the plot are under wraps, but “in typical Mel Brooks fashion, the film has been described as ‘A Non-Prequel Non-Reboot Sequel Part Two but with Reboot Elements Franchise Expansion Film,’” Amazon says.\nSpaceballs 2 is scheduled to hit theaters in 2027, 40 years after the original’s debut. The film was announced earlier this year in a video with a Star Wars-like title crawl parodying the massive number of sequels and spinoffs across Star Wars and other big entertainment franchises. (The black-and-white cast photo released today seems to be a nod to Star Wars, too.)",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "41f126492481ff232bf0cdf5bc23a6920e876e84",
+      "title": "Activists outraged after Rio lawmakers approve ‘wild west bonus’ for police who kill criminals",
+      "url": "https://www.theguardian.com/world/2025/sep/25/rio-de-janeiro-brazil-police-bonus",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-25T16:03:19.000Z",
+      "summary_90w": "",
+      "raw": "Similar legislation introduced in Rio in mid-1990s caused an explosion of extrajudicial killings in the city’s favelas\nHuman rights activists have voiced outrage after Rio de Janeiro’s parliament approved plans to pay police officers a “wild west bonus” for “neutralizing criminals” during operations.\nThe move is a throwback to the mid-1990s when Rio’s then governor, Marcello Alencar, introduced similar legislation that caused an explosion of extrajudicial killings in the city’s favelas.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f7816fbb84854435a742aeae4f33ff9ead5d1777",
+      "title": "Israel carrying out crime against humanity in Gaza, Palestinian president Mahmoud Abbas tells UN – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/25/palestinian-authority-mahmoud-abbas-unga-israel-gaza-us-yemen-middle-east-crisis-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-25T16:02:13.000Z",
+      "summary_90w": "",
+      "raw": "Speech by Palestinian Authority president also says Hamas should have no role in governing Palestine and must disarm\nAlimi says the policy of containment has given the Houthis time to expand its arsenal.\n“It has become clear the peace we seek cannot be asked for but must be imposed by force,” he says.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9444a031ab4d192950b4c1222282683217a37226",
+      "title": "Google DeepMind’s new AI models can search the web to help robots complete tasks",
+      "url": "https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-25T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Robots like Apptronik’s Apollo can use Google DeepMind’s updated AI models to search the web. | Image: Google\t\n\nGoogle DeepMind says its upgraded AI models enable robots to complete more complex tasks — and even tap into the web for help. During a press briefing, Google DeepMind’s head of robotics, Carolina Parada, told reporters that the company’s new AI models work in tandem to allow robots to “think multiple steps ahead” before taking action in the physical world.\nThe system is powered by the newly launched Gemini Robotics 1.5 alongside the embodied reasoning model, Gemini Robotics-ER 1.5, which are updates to AI models that Google DeepMind introduced in March. Now robots can perform more than just singular tasks, such as folding a piece of paper or unzipping a bag. They can now do things like separate laundry by dark and light colors, pack a suitcase based on the current weather in London, as well as help someone sort trash, compost, and recyclables based on a web search tailored to a location’s specific requirements.\n\n“The models up to now were able to do really well at doing one instruction at a time in a way that is very general,” Parada said. “With this update, we’re now moving from one instruction to actually genuine understanding and problem-solving for physical tasks.”\nTo do this, robots can use the upgraded Gemini Robotics-ER 1.5 model to form an understanding of their surroundings, and use digital tools like Google Search to find more information. Gemini Robotics-ER 1.5 then translates those findings into natural language instructions for Gemini Robotics 1.5, allowing the robot to use the model’s vision and language understanding to carry out each step.\nAdditionally, Google DeepMind announced that Gemini Robotics 1.5 can help robots “learn” from each other, even if they have different configurations. Google DeepMind found that tasks presented to the ALOHA2 robot, which consists of two mechanical arms, “just work” on the bi-arm Franka robot, as well as Apptronik’s humanoid robot Apollo. “This enables two things for us: one is to control very different robots — including a humanoid — with a single model,” Google DeepMind software engineer Kanishka Rao said during the briefing. “And secondly, skills that are learned on one robot can now be transferred to another robot.”\nAs part of the update, Google DeepMind is rolling out Gemini Robotics-ER 1.5 to developers through the Gemini API in Google AI Studio, while only select partners can access Gemini Robotics 1.5.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
       "id": "25154dc238afa55d53127364df5370798d074101",
-      "title": "Starmer to announce plans for digital ID scheme",
+      "title": "Digital ID cards to be compulsory for all UK adults under government plans",
       "url": "https://www.bbc.com/news/articles/c4g54g6vgpdo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-25T15:48:41.000Z",
+      "published": "2025-09-25T15:58:51.000Z",
       "summary_90w": "",
       "raw": "The prime minister believes a new scheme would help crack down on illegal working in the UK.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "188ee12685416954390118777aa88af92859a761",
+      "title": "Sarkozy says he will ‘sleep in prison, but with head held high’ following guilty verdict in Libya trial – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/25/aalborg-airport-denmark-drones-oslo-sarkozy-meloni-news-updates-europe-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-25T15:57:48.000Z",
+      "summary_90w": "",
+      "raw": "Sarkozy found guilty of criminal conspiracy for receiving millions of euros from late Libyan dictator Muammar Gaddafi and will spend time in custody even if he appeals\nHere is a bit more on that from Reuters:\nSarkozy, who has always denied the charges, was accused of making a deal with Gaddafi in 2005, when he was France’s interior minister, to obtain campaign financing in exchange for supporting the then-isolated Libyan government on the international stage.\n…\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f3f368495627bdbcb2c1be240ca7d1b345408748",
+      "title": "Starbucks to close some US and UK stores",
+      "url": "https://www.bbc.com/news/articles/cr4qdg2x4r4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-25T15:57:34.000Z",
+      "summary_90w": "",
+      "raw": "The coffee chain is restructuring to save money by closing its worst performing stores.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0877bde55ed171caa14c2c6b763f7d0236593603",
+      "title": "Private schools could face higher Ofsted fees",
+      "url": "https://www.bbc.com/news/articles/cwy8xyrwkgwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-25T15:52:27.000Z",
+      "summary_90w": "",
+      "raw": "Education Secretary Bridget Phillipson says \"the taxpayer shouldn't be subsidising\" inspection fees.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3eb98e1efdcb1b3bdecab44678c64d2e1478cd96",
+      "title": "Starbucks is closing more stores and laying off 900 workers",
+      "url": "https://www.npr.org/2025/09/25/nx-s1-5553386/starbucks-closes-stores-cuts-900-jobs",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-25T15:51:03.000Z",
+      "summary_90w": "",
+      "raw": "The coffee giant plans to cut 900 corporate jobs and shut down about 1% of its stores as the chain's turnaround plan approaches a one-year mark.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "349a64b307aabc0f5194d3817976fab819359d91",
+      "title": "Why are Moldova’s parliamentary elections on Sunday so important?",
+      "url": "https://www.theguardian.com/world/2025/sep/25/why-are-moldovas-parliamentary-elections-on-sunday-so-important",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-25T15:46:35.000Z",
+      "summary_90w": "",
+      "raw": "The background, key players and likely outcome of a contest of crucial interest to both Europe and Russia\nMoldova will vote this Sunday in parliamentary elections that its president has described as “the most important” in the history of the small country. The results will confirm if Moldova, a former Soviet Republic that gained independence in 1991, continues on its path of western integration, or moves back into Russia’s orbit.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -23,7 +166,7 @@
       "source_name": "The Verge",
       "published": "2025-09-25T15:45:45.000Z",
       "summary_90w": "",
-      "raw": "Microsoft is blocking the Israeli military’s access to cloud and AI services that have been used in the mass surveillance of Palestinian civilians. Microsoft vice chair and president Brad Smith announced the decision in an internal memo to employees on Thursday, after The Guardian and others reported last month that the Israeli government stored recordings and data on Azure of up to “a million calls an hour” made by Palestinians. \n“While our review is ongoing, we have found evidence that supports elements of The Guardian’s reporting,“ says Smith. ”We therefore have informed Israel Ministry of Defense (IMOD) of Microsoft’s decision to cease and disable specified IMOD subscriptions and their services, including their use of specific cloud storage and AI services and technologies. We have reviewed this decision with IMOD and the steps we are taking to ensure compliance with our terms of service, focused on ensuring our services are not used for mass surveillance of civilians.“\nThe block applies to “a set of services” used by a unit within the Israel Ministry of Defense (IMOD), and Smith says this move “does not impact the important work that Microsoft continues to do to protect the cybersecurity of Israel and other countries in the Middle East, including under the Abraham Accords.”\nMicrosoft’s review of the use of its Azure cloud and AI technologies by the Israeli military follows reporting by The Guardian and pressure from current and former Microsoft employees. Microsoft has fired five employees in connection with protests over its Israeli government contracts at its headquarters recently. Protests last month included encampments and a group that managed to gain access to a company building and live stream themselves inside the office of Microsoft president Brad Smith.\nThe No Azure for Apartheid group has been taking public actions against Microsoft for more than a year. The group also interrupted Microsoft executives during its 50th anniversary celebration and multiple times during its Build developer conference.",
+      "raw": "Microsoft is blocking the Israeli military’s access to cloud and AI services that have been used in the mass surveillance of Palestinian civilians. Microsoft vice chair and president Brad Smith announced the decision in an internal memo to employees on Thursday, after The Guardian and others reported last month that the Israeli government stored recordings and data on Azure of up to “a million calls an hour” made by Palestinians. \n“While our review is ongoing, we have found evidence that supports elements of The Guardian’s reporting,” says Smith. “We therefore have informed Israel Ministry of Defense (IMOD) of Microsoft’s decision to cease and disable specified IMOD subscriptions and their services, including their use of specific cloud storage and AI services and technologies. We have reviewed this decision with IMOD and the steps we are taking to ensure compliance with our terms of service, focused on ensuring our services are not used for mass surveillance of civilians.” \nThe block applies to “a set of services” used by a unit within the IMOD, and Smith makes it clear that Microsoft “do not provide technology to facilitate mass surveillance of civilians.” This move doesn’t affect other contracts that Microsoft holds with the Israeli government, and Smith notes it “does not impact the important work that Microsoft continues to do to protect the cybersecurity of Israel and other countries in the Middle East, including under the Abraham Accords.”\nThe Guardian reports that the Israeli military has already moved as much as 8TB data off of Azure, just days after the original reports surfaced last month. The Israeli military is reportedly planning to transfer the data to Amazon Web Services. We’ve reached out to Amazon to comment on this report.\nMicrosoft’s review of the use of its Azure cloud and AI technologies by the Israeli military follows reporting by The Guardian and pressure from current and former Microsoft employees. Microsoft has fired five employees in connection with protests over its Israeli government contracts at its headquarters recently. Protests last month included encampments and a group that managed to gain access to a company building and live stream themselves inside the office of Microsoft president Brad Smith.\nThe No Azure for Apartheid group has been taking public actions against Microsoft for more than a year. The group also interrupted Microsoft executives during its 50th anniversary celebration and multiple times during its Build developer conference.\n“Today’s news is a significant and unprecedented win for the campaign and our organizing,” says Hossam Nasr, an organizer with the No Azure for Apartheid group, in a statement to The Verge. “Within less than a month of our sit-in in Brad Smith’s office, Microsoft has taken the significant decision to become the first US tech company to stop the sale of some technologies to the Israeli military since the start of the genocide in Gaza.”\nDespite the win for protesters, the group says it’s not enough because Microsoft has only disabled a small subset of services to a single unit in the Israeli military. “The vast majority of Microsoft’s contract with the Israeli military remains intact,” says Nasr. “The decision today only motivates us more to continue our organizing until all of our demands are met, and until Palestine is free.”\nUpdate, September 25th: Article updated with a statement from the No Azure for Apartheid group.",
       "topics": [
         "Technology"
       ]
@@ -36,7 +179,7 @@
       "source_name": "The Verge",
       "published": "2025-09-25T15:45:17.000Z",
       "summary_90w": "",
-      "raw": "Amazon has agreed to pay $2.5 billion to settle a lawsuit from the Federal Trade Commission, which claimed it tricked millions of customers into subscribing to Prime and made it hard to cancel.\nUnder the agreement, Amazon will pay a $1 billion civil penalty, along with $1.5 billion that it will pay back to an estimated 35 million customers impacted by the company’s “deceptive” sign-up process. Amazon must also stop its “unlawful enrollment and cancellation practices” for Prime.\nA jury was originally set to decide the outcome of a lawsuit during a trial in Seattle, but now that’s been cut short by the settlement. The FTC originally filed its lawsuit against Amazon in 2023, accusing it of using “dark patterns” to deceive people into signing up for Prime. The agency also alleged that Amazon made it “exceedingly difficult” for customers to cancel their Prime memberships by having them go through unnecessary steps.\nNow, the FTC will require Amazon to change its Prime signup process by having a “clear and conspicuous button” for customers to decline a Prime subscription. That means Amazon can no longer show customers a button that says, “No, I don’t want Free Shipping” to decline a Prime subscription.\n“The evidence showed that Amazon used sophisticated subscription traps designed to manipulate consumers into enrolling in Prime, and then made it exceedingly hard for consumers to end their subscription,” FTC Chairman Andrew Ferguson said in a statement.\n Developing…",
+      "raw": "Amazon has agreed to pay $2.5 billion to settle a lawsuit from the Federal Trade Commission, which claimed it tricked millions of customers into subscribing to Prime and made it hard to cancel.\nUnder the agreement, Amazon will pay a $1 billion civil penalty, along with $1.5 billion that it will pay back to an estimated 35 million customers impacted by the company’s “deceptive” sign-up process. Amazon must also stop its “unlawful enrollment and cancellation practices” for Prime.\nA jury was originally set to decide the outcome of a lawsuit during a trial in Seattle, but now that’s been cut short by the settlement. The FTC filed its lawsuit against Amazon in 2023, accusing it of using “dark patterns” to deceive people into signing up for Prime. It also alleged Amazon executives were aware of these practices, and also made it “exceedingly difficult” for customers to cancel their Prime memberships by having them go through unnecessary steps.\nNow, the FTC will require Amazon to change its Prime signup process by having a “clear and conspicuous button” for customers to decline a Prime subscription. That means Amazon can no longer show customers a button that says, “No, I don’t want Free Shipping” to decline a Prime subscription. \nAdditionally, Amazon must make it easier for Prime members to cancel their subscription, using the same steps they took to sign up. “The process cannot be difficult, costly, or time-consuming,” The FTC says. The ecommerce giant is also required to clearly describe Prime’s terms and conditions during the enrollment process, including its cost, auto-renewal policies, and cancellation procedures.\nThe settlement resolves one of the FTC’s legal cases against Amazon, as the agency has also filed an antitrust lawsuit against the company for allegedly punishing sellers who sell products for a lower price outside of its online marketplace. Amazon is expected to go to trial over this lawsuit in 2027.\n“The evidence showed that Amazon used sophisticated subscription traps designed to manipulate consumers into enrolling in Prime, and then made it exceedingly hard for consumers to end their subscription,” FTC Chairman Andrew Ferguson said in a statement.\n Developing…",
       "topics": [
         "Technology"
       ]
@@ -81,32 +224,6 @@
       ]
     },
     {
-      "id": "188ee12685416954390118777aa88af92859a761",
-      "title": "Sarkozy says he will ‘sleep in prison, but with head held high’ following guilty verdict in Libya trial – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/25/aalborg-airport-denmark-drones-oslo-sarkozy-meloni-news-updates-europe-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-25T15:29:49.000Z",
-      "summary_90w": "",
-      "raw": "Sarkozy found guilty of criminal conspiracy for receiving millions of euros from late Libyan dictator Muammar Gaddafi and will spend time in custody even if he appeals\nHere is a bit more on that from Reuters:\nSarkozy, who has always denied the charges, was accused of making a deal with Gaddafi in 2005, when he was France’s interior minister, to obtain campaign financing in exchange for supporting the then-isolated Libyan government on the international stage.\n…\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f7816fbb84854435a742aeae4f33ff9ead5d1777",
-      "title": "Israel carrying out crime against humanity in Gaza, Palestinian president Mahmoud Abbas tells UN – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/25/palestinian-authority-mahmoud-abbas-unga-israel-gaza-us-yemen-middle-east-crisis-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-25T15:26:24.000Z",
-      "summary_90w": "",
-      "raw": "Speech by Palestinian Authority president also says Hamas should have no role in governing Palestine and must disarm\nAlimi says the policy of containment has given the Houthis time to expand its arsenal.\n“It has become clear the peace we seek cannot be asked for but must be imposed by force,” he says.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5a5e3069c8e9d195f8e54e0fabfe1279aed48ded",
       "title": "Xiaomi’s retro handheld phone case is the best, and worst, way to game",
       "url": "https://www.theverge.com/news/785720/xiaomi-retro-handheld-phone-case-17-pro-gaming",
@@ -121,13 +238,13 @@
     },
     {
       "id": "c64502599158972d58ebb8f26ae3d53290f3c015",
-      "title": "Amazon agrees to settle U.S. lawsuit that it 'tricked' people into Prime",
+      "title": "Amazon to pay $2.5 billion to settle U.S. lawsuit that it 'tricked' people into Prime",
       "url": "https://www.npr.org/2025/09/25/nx-s1-5551026/amazon-prime-lawsuit-ftc-settlement",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-09-25T15:23:41.000Z",
       "summary_90w": "",
-      "raw": "Federal regulators say Amazon has settled their lawsuit over whether its web designs have manipulated millions of people into paying for Prime subscriptions that were purposefully hard to cancel.",
+      "raw": "Federal regulators say Amazon has agreed to pay a historic sum to resolve their allegations that its web designs manipulated millions of people into paying for Prime subscriptions, which were also purposefully hard to cancel. Affected shoppers are slated to receive payouts.",
       "topics": [
         "World"
       ]
@@ -419,19 +536,6 @@
       ]
     },
     {
-      "id": "f3f368495627bdbcb2c1be240ca7d1b345408748",
-      "title": "Starbucks to close some US and UK stores",
-      "url": "https://www.bbc.com/news/articles/cr4qdg2x4r4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-25T14:01:06.000Z",
-      "summary_90w": "",
-      "raw": "The coffee chain is restructuring to save money by closing its worst performing stores.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b84fed109bc307bdf0a1a748544d78bc944e3345",
       "title": "VIDEO: Trump and scientists disagree on Tylenol and autism. Who do Americans believe?",
       "url": "https://www.npr.org/2025/09/25/g-s1-90435/tylenol-autism-health",
@@ -471,19 +575,6 @@
       ]
     },
     {
-      "id": "6e510b5cc12116122cf0e48e861fa532677e9116",
-      "title": "E-bike maker Cowboy in talks to be acquired",
-      "url": "https://www.theverge.com/news/785644/e-bike-maker-cowboy-in-talks-to-be-acquired",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-25T13:56:27.000Z",
-      "summary_90w": "",
-      "raw": "Cowboy is in talks to be acquired by ReBirth Group Holding, weeks after the struggling e-bike manufacturer was bailed out by the Paris-based investor. The news was first reported by French newspaper Le Figaro, and subsquently confirmed by one of Cowboy’s co-founders.\n“We can confirm that discussions with ReBirth are progressing very positively, and we expect to close the deal mid-October,” Cowboy co-founder Tanguy Goretti said in an email. “At that point, we will communicate all details formally. Until then, some figures or numbers are subject to change.”\n\n“We can confirm that discussions with ReBirth are progressing very positively.”\n\n\nCowboy burst onto the scene in 2017 with a lineup of smart, high-tech e-bikes, with features like app-based lock and location tracking. The Verge has been tracking the company’s progress for a number of years. We called the Cowboy 2 “the best looking pedal-assisted electric bike with a removable battery” and the Cowboy 3 a more “mature” e-bike that was focused on “on safety rather than fun.” Cowboy raised over €100 million based on a strategy to conquer the US market. \nBut like many venture-backed e-bike companies in the years after the pandemic, Cowboy fell on hard times. Reports of delayed deliveries and repairs, missed payments, and rising debt began to mount. Over the past two years, it reportedly has lost €40 million.\nLast month, ReBirth, which owns the bicycle brands Peugeot Cycles, Gitane, and Solex, swooped in with some short-term financing to help prevent Cowboy going the way of VanMoof and other bankrupt e-bike brands. And now it seems like the company is angling for a controlling stake. We’ll see what shakes out next month. \n“What matters today is that Cowboy is on a stronger footing and moving towards long-term stability with the support of our partners,” Goretti said.\nWith additional reporting by Thomas Ricker",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "b6c0a3675564a568c1765a9f7f360acf7158ebbd",
       "title": "US will fight any attempt to ban Israel from World Cup",
       "url": "https://www.bbc.com/sport/football/articles/cx2xpwedy5no?at_medium=RSS&at_campaign=rss",
@@ -500,7 +591,7 @@
       "id": "b2500ee811e58de3e48c14b19c083c40de4fe7b7",
       "title": "Australian film altered in China to make gay couple straight",
       "url": "https://www.bbc.com/news/articles/cp8w9492lg6o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-25T13:47:51.000Z",
       "summary_90w": "",
@@ -523,19 +614,6 @@
       ]
     },
     {
-      "id": "28cbb2cfc0acb9e2920ecef171a4c9c0c2255b10",
-      "title": "It costs $895 per year to get American Express&#8217; premium app theme",
-      "url": "https://www.theverge.com/news/785639/american-express-platinum-credit-card-perks-ios-app-theme",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-25T13:34:45.000Z",
-      "summary_90w": "",
-      "raw": "Alongside an annual fee increase, American Express also recently announced an update to its mobile app. | Image: American Express\t\n\nFollowing a significant price bump in 2021 from $550 to $695, American Express once again increased the annual fee for its Platinum card to $895 last week, making it one of the most expensive credit cards you can sign up for. To soften the blow when the price increase goes into effect for existing cardholders on January 2nd, 2026 (new cardmembers will be paying $895 immediately) the Platinum card comes with plenty of benefits, additional shopping credits, and a “newly enhanced” American Express mobile app that will make Platinum cardholders feel extra special with an exclusive premium theme that… turns the app black.\n\n\n\n\n\n\nYep, as a thank you for dropping $895 on the ability to buy things and pay for them later with interest, Platinum cardholders won’t have to endure the same navy blue app theme as the proletariat. They can join the elite by switching the app to a darker black theme, although, according to users on Reddit, the change is subtle and can be hard to discern when using iOS’ Light mode.\nOther new perks for Platinum cardholders include a $300 credit for Lululemon, a $400 Resy restaurant credit, a $120 Uber One credit, a $200 Oura Ring credit, and the hotel credit was bumped from $200 to $400/year. If you regularly use those perks, or hate that the mobile app’s standard navy blue theming makes you feel like a commoner, the card could still be worth it, even with the hefty price bump.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "435c3f38c54a627d7ebf14f6fad61ad797433492",
       "title": "‘Professional actor’ behind attacks that closed Danish airports, defence minister says",
       "url": "https://www.theguardian.com/world/2025/sep/25/drones-aalborg-airport-denmark-closed-days-after-copenhagen-oslo",
@@ -544,6 +622,19 @@
       "published": "2025-09-25T13:25:19.000Z",
       "summary_90w": "",
       "raw": "Drones overfly four more airports forcing Aalborg to halt traffic two nights after shutdown at Copenhagen terminals\n\nEurope – live updates\n\nDenmark’s defence minister says the country has been the victim of a professional hybrid attack after drones flew over four airports overnight in the second such incursion in a matter of days.\nThe drone sightings began shortly before 10pm on Wednesday and ended just before 1am on Thursday. Flights were halted for several hours at Aalborg airport, which also serves as a military base, Airports in Esbjerg, Sønderborg and Skrydstrup were also affected. Skrydstrup is home to some of the Danish military’s fighter jets.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e16d76f989c63e89546a0c1573d861da132dad0b",
+      "title": "'Every idea is a good idea' - how would 64-team World Cup look?",
+      "url": "https://www.bbc.com/sport/football/articles/c1wg9x2erw4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-25T13:21:41.000Z",
+      "summary_90w": "",
+      "raw": "As Fifa discusses the proposed increase to the number of teams at the 2030 World Cup, BBC Sport looks at whether a 64-team tournament could really happen and what it might look like.",
       "topics": [
         "World"
       ]
@@ -900,19 +991,6 @@
       ]
     },
     {
-      "id": "efaad0baffa1ca7f3bf202ca35181405001c4d9d",
-      "title": "8 walking and biking safety tips that just might save your life",
-      "url": "https://www.npr.org/2025/09/25/nx-s1-5547076/safety-tips-bikers-cyclists-pedestrians",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-25T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "In 2024, 7,100 pedestrians were killed on the road, and in recent years, more than 1,000 cyclists have been hit and killed annually. Safety experts explain how bikers and walkers can stay safe.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a8ac0aacbf8c576c3f7d0ddb2f78d7adf6d5d32a",
       "title": "Housing prices are causing some people to have smaller families than planned",
       "url": "https://www.npr.org/2025/09/25/nx-s1-5540077/housing-prices-fewer-children",
@@ -999,19 +1077,6 @@
       "published": "2025-09-25T07:01:42.000Z",
       "summary_90w": "",
       "raw": "Russian citizen Liudmila Zavada, 31, was found dead in July 2005 by a road in the northeastern Spain.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "5026c692791276c19d6f24e0e5a794abbd1cd20b",
-      "title": "Biometric checks to visit EU could take nine months to fully enforce",
-      "url": "https://www.theguardian.com/travel/2025/sep/25/biometric-checks-to-visit-eu-to-get-phased-rollout-from-october",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-25T06:26:15.000Z",
-      "summary_90w": "",
-      "raw": "Though registration kiosks are due to open in UK in two weeks, system may not be fully enforced for nine months\nBiometric registration to visit the EU may not be fully enforced for another nine months, with border officials allowed to relax the rules to alleviate queues or chaos at ports after the system finally goes live.\nIn just over two weeks, Eurotunnel, Eurostar and the Port of Dover will all open new biometric registration kiosks in the UK, installed at a cost of tens of millions of pounds.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1168,19 +1233,6 @@
       "published": "2025-09-25T01:31:09.000Z",
       "summary_90w": "",
       "raw": "The celebrity pair announced the birth of Rocki Irish Mayers on Instagram in a post that included a miniature pair of boxing gloves.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fad4709541167d414483449d5250e277b9ca920e",
-      "title": "Matthew McConaughey on starring with his family in film about California's deadliest wildfire",
-      "url": "https://www.bbc.com/news/articles/c147e23l3rro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-25T01:12:18.000Z",
-      "summary_90w": "",
-      "raw": "The actor plays a school bus driver trapped in US wildfires, appearing with his real mother and son.",
       "topics": [
         "World"
       ]
@@ -1363,32 +1415,6 @@
       "published": "2025-09-24T19:50:58.000Z",
       "summary_90w": "",
       "raw": "A new call recording app is gaining traction for offering to pay users for voice data from calls, which is sold to AI companies.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0a773fa0e55ebc8d2d3604e6bd50b0f9d0fb7ea4",
-      "title": "Zoox asks federal regulators for exemption to launch a commercial robotaxi service",
-      "url": "https://techcrunch.com/2025/09/24/zoox-asks-federal-regulators-for-exemption-to-launch-a-commercial-robotaxi-service/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-24T19:44:31.000Z",
-      "summary_90w": "",
-      "raw": "The exemption would allow the Amazon-owned autonomous vehicle company to commercially deploy its custom-built robotaxis, which lack traditional controls like pedals and a steering wheel.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "3c9b4d3ad335036f021226e95106c0370a596934",
-      "title": "Trump administration wants 10% stake in Canadian lithium miner that sells to GM",
-      "url": "https://techcrunch.com/2025/09/24/trump-administration-wants-10-stake-in-canadian-lithium-miner-that-sells-to-gm/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-24T19:22:27.000Z",
-      "summary_90w": "",
-      "raw": "Lithium Americas asked for a small change to the loan repayment period, which spurred the latest Trump administration request for equity.",
       "topics": [
         "Technology"
       ]
@@ -1615,19 +1641,6 @@
       ]
     },
     {
-      "id": "24f3acfdbf134761e33abfd7425e6a6ae31b1793",
-      "title": "Quebec’s police watchdog to investigate killing of 15-year-old boy by officers",
-      "url": "https://www.theguardian.com/world/2025/sep/23/quebec-police-shooting-teen-investigation",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-23T16:27:31.000Z",
-      "summary_90w": "",
-      "raw": "Police opened fire within seconds after responding to a report of masked teens, according to a resident\nThe head of Quebec’s police watchdog said it will investigate the death of a 15-year-old boy who was shot dead by officers, revealing that the only weapon recovered from the scene of the fatal shooting belonged to the police.\nAt a rare news conference on Tuesday, Brigitte Bishop, director of the province’s office of independent investigations, said her unit would conduct an “impartial” investigation into the death of Nooran Rezayi.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7ae94a524ff86c3b3b0a0159d09ef21589f0c4a4",
       "title": "The surprisingly lucrative business of making a list of 500 stocks",
       "url": "https://www.npr.org/sections/planet-money/2025/09/23/g-s1-90054/how-does-the-s-p-500-work",
@@ -1709,13 +1722,13 @@
       "id": "a04a249ac8208cb811031f1c40a2143d74d922e3",
       "title": "Deal for TikTok creates U.S. joint venture, and government won't have a stake",
       "url": "https://www.npr.org/2025/09/22/nx-s1-5550152/tiktok-deal-joint-venture",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2025-09-22T16:44:55.000Z",
       "summary_90w": "",
       "raw": "The U.S. will get a copy of TikTok's prized content recommendation algorithm, and that the tech company Oracle will provide security.",
       "topics": [
-        "Business"
+        "Technology"
       ]
     },
     {
