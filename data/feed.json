@@ -1,7 +1,33 @@
 {
-  "version": "1758831396313",
-  "generatedAt": "2025-09-25T20:16:36.313Z",
+  "version": "1758832559814",
+  "generatedAt": "2025-09-25T20:35:59.814Z",
   "items": [
+    {
+      "id": "71318d5b56f74402189ab105f851ef1316aa0751",
+      "title": "Microsoft says this new cooling method could enable more powerful chips and efficient data centers",
+      "url": "https://www.theverge.com/report/785992/ai-chip-cooling-microsoft-microfluidic-energy-efficiency",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-25T20:23:20.000Z",
+      "summary_90w": "",
+      "raw": "Grooves etched onto the back of a microchip allow coolant to flow through them.\t\n\nMicrosoft is making advances with a new way to cool microchips that it says could lead to more energy-efficient data centers in the future. It's a method called microfluidics that involves liquid coolant flowing directly into the silicon. \nAfter lab tests, Microsoft found that this strategy can remove heat up to three times better than cold plates currently used in data centers today. The company announced this week that it was able to develop a microfluidic cooling system for a server running core services for a simulated Microsoft Teams meeting. \nIf they can find the same success outside of a lab, microfluidics could cut down the amount  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b74829a4f1e94dc0b0ede28dd2c66b05a6b1ecaf",
+      "title": "McIlroy & Fleetwood reunite in Ryder Cup foursomes",
+      "url": "https://www.bbc.com/sport/golf/articles/cqlz4ry27ywo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-25T20:11:06.000Z",
+      "summary_90w": "",
+      "raw": "European captain Luke Donald picks a series of heavyweight pairings as he looks for the visitors to make a fast start at Bethpage.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "e902294a9f86d450da724b6def31fab9e23dd025",
       "title": "Washington backing plan for Tony Blair to head transitional Gaza authority",
@@ -355,13 +381,13 @@
     },
     {
       "id": "52173e4bfc5b98b2a98b21f0357ab2eb405d7cc7",
-      "title": "What we know about the Dallas ICE facility shooting",
+      "title": "Dallas shooter sought to 'terrorize' ICE workers, official says",
       "url": "https://www.npr.org/2025/09/25/nx-s1-5553470/latest-updates-dallas-ice-shooting",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-09-25T17:17:32.000Z",
       "summary_90w": "",
-      "raw": "A gunman fired at an Immigration and Customs Enforcement facility in Dallas, killing one person and injuring two others. Investigators provide updates on the shooting and the gunman.",
+      "raw": "\"I want to cause terror,\" the gunman behind Wednesday's deadly attack on a Dallas ICE immigration facility allegedly wrote in a note, according to authorities.",
       "topics": [
         "World"
       ]
@@ -575,19 +601,6 @@
       ]
     },
     {
-      "id": "6d2e49b5a50c266e3a39ab16d959f021493c0b43",
-      "title": "'They will never ask that question to a man' - Bompastor",
-      "url": "https://www.bbc.com/sport/football/articles/cx2rlg9j7kwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-25T16:44:38.000Z",
-      "summary_90w": "",
-      "raw": "Chelsea boss Sonia Bompastor says she is \"not surprised\" a recent survey has found 78% of women had faced discrimination while working in football.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b487425cc662bc553463b77b159339282a7af511",
       "title": "Threads is developing a tool that lets you ‘tag’ its algorithm to configure your feed",
       "url": "https://techcrunch.com/2025/09/25/threads-is-developing-a-tool-that-lets-you-tag-its-algorithm-to-configure-your-feed/",
@@ -767,19 +780,6 @@
       "raw": "Vladimir Plahotniuc, an oligarch and former senior Moldovan politician, denies any wrongdoing.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "9444a031ab4d192950b4c1222282683217a37226",
-      "title": "Google DeepMind’s new AI models can search the web to help robots complete tasks",
-      "url": "https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-25T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Robots like Apptronik’s Apollo can use Google DeepMind’s updated AI models to search the web. | Image: Google\t\n\nGoogle DeepMind says its upgraded AI models enable robots to complete more complex tasks — and even tap into the web for help. During a press briefing, Google DeepMind’s head of robotics, Carolina Parada, told reporters that the company’s new AI models work in tandem to allow robots to “think multiple steps ahead” before taking action in the physical world.\nThe system is powered by the newly launched Gemini Robotics 1.5 alongside the embodied reasoning model, Gemini Robotics-ER 1.5, which are updates to AI models that Google DeepMind introduced in March. Now robots can perform more than just singular tasks, such as folding a piece of paper or unzipping a bag. They can now do things like separate laundry by dark and light colors, pack a suitcase based on the current weather in London, as well as help someone sort trash, compost, and recyclables based on a web search tailored to a location’s specific requirements.\n\n“The models up to now were able to do really well at doing one instruction at a time in a way that is very general,” Parada said. “With this update, we’re now moving from one instruction to actually genuine understanding and problem-solving for physical tasks.”\nTo do this, robots can use the upgraded Gemini Robotics-ER 1.5 model to form an understanding of their surroundings, and use digital tools like Google Search to find more information. Gemini Robotics-ER 1.5 then translates those findings into natural language instructions for Gemini Robotics 1.5, allowing the robot to use the model’s vision and language understanding to carry out each step.\nAdditionally, Google DeepMind announced that Gemini Robotics 1.5 can help robots “learn” from each other, even if they have different configurations. Google DeepMind found that tasks presented to the ALOHA2 robot, which consists of two mechanical arms, “just work” on the bi-arm Franka robot, as well as Apptronik’s humanoid robot Apollo. “This enables two things for us: one is to control very different robots — including a humanoid — with a single model,” Google DeepMind software engineer Kanishka Rao said during the briefing. “And secondly, skills that are learned on one robot can now be transferred to another robot.”\nAs part of the update, Google DeepMind is rolling out Gemini Robotics-ER 1.5 to developers through the Gemini API in Google AI Studio, while only select partners can access Gemini Robotics 1.5.",
-      "topics": [
-        "Technology"
       ]
     },
     {
