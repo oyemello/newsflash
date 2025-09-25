@@ -1,6 +1,6 @@
 {
-  "version": "1758799822100",
-  "generatedAt": "2025-09-25T11:30:22.100Z",
+  "version": "1758800224816",
+  "generatedAt": "2025-09-25T11:37:04.816Z",
   "items": [
     {
       "id": "095df20f0a08b1ed210a070538105b139c9d6abd",
@@ -8,9 +8,22 @@
       "url": "https://www.bbc.com/news/articles/cp98kepmj9lo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-25T11:21:15.000Z",
+      "published": "2025-09-25T11:32:59.000Z",
       "summary_90w": "",
       "raw": "The former French president was found guilty of criminal conspiracy but cleared of other charges.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a6c830605464713910fc11f64d1d0500be57f36e",
+      "title": "Denmark says 'professional actor' behind drone incursions over its airports",
+      "url": "https://www.bbc.com/news/articles/c7401vk4lgzo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-25T11:30:17.000Z",
+      "summary_90w": "",
+      "raw": "But the defence minister says there is no evidence of Russian involvement after the latest incident.",
       "topics": [
         "World"
       ]
@@ -58,13 +71,13 @@
       "id": "65a1208241216b74c68a058de33d0d2a2e3c28bb",
       "title": "Sonic the Hedgehog series boss tells us how the series keeps up to speed",
       "url": "https://www.bbc.com/news/articles/cy8ry1vn097o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-25T11:07:07.000Z",
       "summary_90w": "",
       "raw": "The video game icon has been taking shots at an old rival, but the real competition comes from newer games.",
       "topics": [
-        "Technology"
+        "World"
       ]
     },
     {
@@ -121,26 +134,13 @@
     },
     {
       "id": "0e8e4a7fb4312dfa64e824fddc8b17e350f415a5",
-      "title": "Labour leadership up to the party, says Burnham",
+      "title": "It's up to Labour MPs, says Burnham on leadership bid speculation",
       "url": "https://www.bbc.com/news/articles/c7v1m873mjyo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-09-25T10:29:28.000Z",
       "summary_90w": "",
       "raw": "Andy Burnham tells the BBC Labour MPs have privately urged him to challenge Sir Keir Starmer to be PM.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a6c830605464713910fc11f64d1d0500be57f36e",
-      "title": "Denmark says 'professional actor' behind drone incursions over its airports",
-      "url": "https://www.bbc.com/news/articles/c7401vk4lgzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-25T10:23:08.000Z",
-      "summary_90w": "",
-      "raw": "But the defence minister says there is no evidence of Russian involvement after the latest incident.",
       "topics": [
         "World"
       ]
@@ -169,6 +169,19 @@
       "raw": "Apple says it’s having to delay bringing some product features to Europe because it’s struggling to make them compliant with the EU’s Digital Markets Act (DMA). In a statement published on Wednesday, Apple said that DMA rules have created “more complexity and more risks for our EU users,” blaming the obligation to open Apple features to third-party devices for the delays.\nFeatures impacted include AI-powered Live Translation for AirPods, iPhone Mirroring, and  Visited Places and Preferred Routes on Apple Maps. While interoperability requirements under the DMA specify that companies make proprietary apps and device features available on third-party hardware, Apple says it hasn’t found a way to make these features available on non-Apple devices without compromising users’ data security and privacy.\nDMA requirements to make it easier to pair, transfer data, and display notifications between iPhones and third-party devices are bearing some fruit, however. The latest iOS 26.1 beta suggests that a “notification forwarding” feature will allow iPhone notifications to surface on non-Apple devices, such as smartwatch competitors to the Apple Watch. The beta also includes references to a feature that will make it easier to pair iPhones with third-party accessories.\nDespite its ongoing opposition to the DMA, Apple insists that it’s “spending thousands of hours” to be compliant with the law’s requirements, and that the “list of delayed features in the EU will probably get longer” due to these impediments. The EU has given Apple until the end of this year to open up most of these features if it makes them available to European users, or risk facing additional fines under the DMA. The company was hit with a $580 million penalty in April after the App Store violated anti-steering requirements under the rulebook. \nThe iPhone maker has called for the DMA regulation to be repealed “while a more appropriate fit for purpose legislative instrument is put in place,” according to a feedback submission seen by the Financial Times. \nWhile Apple’s concerns around user security may hold merit, the company is also motivated to see the DMA scrapped to prevent the legislation from tearing down the walled garden that incentivizes consumers to stay in its product ecosystem. Denying Europeans access to features over DMA compliance concerns may help Apple keep its user base on-side in its argument with the EU.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "3b809deb35c60786e42f5a16a67edccbf4bb54a2",
+      "title": "Heskey brothers - sons of ex-England striker Emile - make Man City debuts",
+      "url": "https://www.bbc.com/sport/football/articles/cd07kkkx92vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-25T10:09:27.000Z",
+      "summary_90w": "",
+      "raw": "Brothers Reigan and Jaden Heskey make their debuts in Manchester City's Carabao Cup third-round victory at Huddersfield.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -830,19 +843,6 @@
       "published": "2025-09-25T01:31:09.000Z",
       "summary_90w": "",
       "raw": "The celebrity pair announced the birth of Rocki Irish Mayers on Instagram in a post that included a miniature pair of boxing gloves.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "de419deba23f667a45c3852c7e1a1383125ffdd3",
-      "title": "America's blame game over Canada's wildfire smoke misses the point, experts say",
-      "url": "https://www.bbc.com/news/articles/cn4l3j93481o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-25T01:17:33.000Z",
-      "summary_90w": "",
-      "raw": "US officials have blamed Canada for not doing enough to stop its wildfire smoke from wafting south. Climate experts say it’s not so simple.",
       "topics": [
         "World"
       ]
@@ -1781,19 +1781,6 @@
       "raw": "‘Unfair’ EU rules are delaying features for European users, the tech giant says.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "173f932b72bd79353fb7c60dc9fa365707feb8d1",
-      "title": "A global hunt to uncover a virus deadlier than Covid-19",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002jy6q/disease-x-hunting-the-next-pandemic?at_mid=GetYH9s3iQ&at_campaign=Disease_X_Hunting_the_Next_Pandemic&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002jy6q&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Disease_X_Hunting_the_Next_Pandemic&at_bbc_team=BBC",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-22T05:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Dr Chris van Tulleken is on a global hunt to uncover a virus deadlier than Covid-19.",
-      "topics": [
-        "World"
       ]
     },
     {
