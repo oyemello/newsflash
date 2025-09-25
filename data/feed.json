@@ -1,7 +1,163 @@
 {
-  "version": "1758812089830",
-  "generatedAt": "2025-09-25T14:54:49.830Z",
+  "version": "1758813345172",
+  "generatedAt": "2025-09-25T15:15:45.172Z",
   "items": [
+    {
+      "id": "7aa68c32cc68f35b4c11808793e2734b9f7f8562",
+      "title": "DOGE might be storing every American&#8217;s SSN on an insecure cloud server",
+      "url": "https://www.theverge.com/news/785706/doge-insecure-cloud-server-social-security-numbers",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-25T15:04:18.000Z",
+      "summary_90w": "",
+      "raw": "A new report from Senate Democrats claims members of Elon Musk’s DOGE team have access to the Social Security Numbers of all Americans in a cloud server lacking verified security measures, despite an internal assessment of potential “catastrophic” risk. The report, released by Sen. Gary Peters (D-MI), cites numerous disclosures from whistleblowers, including one who said a worst-case scenario could involve having to re-issue SSNs to everyone in the country.\nAs outlined in the report, DOGE staffers moved a live copy of Americans’ personal information to a cloud server despite an internal risk assessment done by the Social Security Administration (SSA) that determined the impact could be “catastrophic” without the proper safeguards. The report notes that this information is considered “production data,” potentially allowing DOGE to “directly manipulate” it.\nIn addition to SSNs, the database reportedly includes Americans’ place and date of birth, work permit status, and parents’ names. The potential security threats range from data breaches by foreign adversaries, like Russia, China, and Iran, to DOGE staffers themselves, including Edward “Big Balls” Coristine, who had unfettered access to the information and had reportedly been fired from a previous internship for leaking sensitive data. \nThe Senate Committee on Homeland Security and Government Affairs released the report, which also raises concerns over DOGE’s activity at the General Services Administration and the Office of Personnel Management.\nLast month, a federal appeals court ruled that DOGE can continue accessing sensitive information across government agencies. Democrats accused DOGE of creating a “cross-agency master database” in April, which Wired said the government would use to track immigrants.\nMeanwhile, SSA officials, who typically ensure the security of the agency’s cloud infrastructure, haven’t been able to monitor DOGE’s work. Staff members conducting the oversight of DOGE found that it operated with a high level of secrecy, with armed guards controlling “access to work and living spaces,” while rooms remained locked and office windows “appeared to have been hastily covered with black trash bags and tape,” according to the report. Whistleblower interviews paint a picture of workspaces bearing “stacks” of laptops and offices being converted into private bedrooms, including one containing a queen bed, a wardrobe, and a big screen TV.\nSenate Democrats are calling on the Trump administration to shut down DOGE’s cloud environment, as well as to revoke DOGE’s access to personal information until agencies can certify that they’re following privacy laws. They also recommend releasing all information about the data DOGE staffers had access to.\n“DOGE is jeopardizing Americans’ most sensitive data, while its employees operate under a layer of secrecy that shields them from meaningful oversight and accountability,” the report states. “This environment results in serious cybersecurity vulnerabilities, privacy violations, and risk of corruption that could open Americans’ most sensitive information to targeting by malicious actors… or serve to benefit DOGE employees and the private companies with which many maintain strong ties.”",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "420b71acfa16ff2c60a1ca2fab984d8ed22124c5",
+      "title": "Microsoft blocks Israel’s use of its technology in mass surveillance of Palestinians",
+      "url": "https://www.theguardian.com/world/2025/sep/25/microsoft-blocks-israels-use-of-its-technology-in-mass-surveillance-of-palestinians",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-25T15:03:35.000Z",
+      "summary_90w": "",
+      "raw": "Exclusive: Tech firm ends military unit’s access to AI and data services after Guardian reveals secret spy project\n\nMiddle East crisis – live updates\n\nMicrosoft has terminated the Israeli military’s access to technology it used to operate a powerful surveillance system that collected millions of Palestinian civilian phone calls made each day in Gaza and the West Bank, the Guardian can reveal.\nMicrosoft told Israeli officials late last week that Unit 8200, the military’s elite spy agency, had violated the company’s terms of service by storing the vast trove of surveillance data in its Azure cloud platform, sources familiar with the situation said.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1287e55356f7da243853107856eb2564a17a37b2",
+      "title": "Honda cancels Acura ZDX in latest casualty of EV pullback",
+      "url": "https://www.theverge.com/transportation/785691/honda-acura-zdx-cancel-ev-slowdown",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-25T15:01:13.000Z",
+      "summary_90w": "",
+      "raw": "Have you heard? EV sales are expected to dip significantly in the coming weeks as the federal tax credit expires, and automakers are responding by canceling models, delaying factory plans, and boosting hybrids as a short-term solution. The latest model to get the axe is the Acura ZDX, an electric crossover that had both Honda and GM DNA. \nThe ZDX had only just made its debut as a 2024 model with 325 miles of EPA rated range and a starting price of $60,000. Like the Honda Prologue, the ZDX was built by General Motors at the automaker's Spring Hill Assembly plant in Tennessee thanks to a partnership between the two companies. It was supposed  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b9a9c5a667101804c6d5e43fb117d5bc45d8b869",
+      "title": "Nobody wanted to say ‘mission accomplished’ on inflation – certainly not Jim Chalmers. But he was surely thinking it",
+      "url": "https://www.theguardian.com/australia-news/2025/sep/26/inflation-jim-chalmers-nobody-wanted-to-say-mission-accomplished",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-25T15:00:45.000Z",
+      "summary_90w": "",
+      "raw": "Economists are revising their rate cut predictions after the latest ABS figures revealed inflation is trending back up. But there are reasons to relax\n\nGet our breaking news email, free app or daily news podcast\n\n“Real wages are growing at their strongest rate in five years, inflation has a two in front of it and interest rates have been cut three times in the last six months.”\nIt was just last month that Jim Chalmers kicked off his economic reform round table with that familiar spiel, ticking off the economy’s happy progress over recent years.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "515d9bbd98004103f423c4b090c5eafda5071f84",
+      "title": "More than 300,000 Australians had Centrelink payments cancelled illegally, new analysis shows",
+      "url": "https://www.theguardian.com/australia-news/2025/sep/26/more-than-300000-australians-had-centrelink-payments-cancelled-illegally-new-analysis-shows",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-25T15:00:43.000Z",
+      "summary_90w": "",
+      "raw": "Peak body for community legal centres finds number of payments suspended due to IT glitch higher than department initially identified\n\nGet our breaking news email, free app or daily news podcast\n\nHundreds of thousands of Centrelink payments were illegally cancelled because of a glitch in the automated system that runs the government’s controversial mutual obligations scheme, the peak body for community legal centres has said.\nThe analysis from Economic Justice Australia shows about 310,000 people had their Centrelink payments unlawfully cancelled between 2020 and 2024 because they were not given enough time to reconnect to a job provider after missing a compulsory activity as part of their mutual obligations.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2466c9a047d1f128023286423432f6b0311b8f3f",
+      "title": "Future Liberal leader or party disruptor? Andrew Hastie and the rise of the ‘MAGA right’",
+      "url": "https://www.theguardian.com/australia-news/2025/sep/25/future-liberal-leader-or-party-disruptor-andrew-hastie-and-the-rise-of-the-maga-right",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-25T15:00:41.000Z",
+      "summary_90w": "",
+      "raw": "WA MP offers a divisive brand of politics that shuns net zero and migration and is anchored in flag-waving patriotism, faith and family\n\nGet our breaking news email, free app or daily news podcast\n\nOn the Sunday before he was overthrown as prime minister in September 2015, Tony Abbott sweated through a gym workout with his candidate in the upcoming Canning byelection, Andrew Hastie.\nHastie, who went on to win the seat on the southern outskirts of Perth despite the political chaos of the days preceding it, took the opportunity to ask for Abbott’s advice on leadership.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5de7d9aec4c71121614b8863996c8cfc6efc7067",
+      "title": "China has announced its first target to cut emissions in real terms. What does it mean for Australia?",
+      "url": "https://www.theguardian.com/australia-news/2025/sep/26/china-first-emissions-reduction-target-announced-global-impact",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-25T15:00:40.000Z",
+      "summary_90w": "",
+      "raw": "With China accounting for nearly a third of the world’s total emissions, any cuts it achieves will make a substantial difference for the world – and for fossil fuel exports\n\nSign up for climate and environment editor Adam Morton’s free Clear Air newsletter here\n\nAnything China does on energy and climate change is very big news. Its plans ripple around the world, whether that’s in changing the demand for fossil fuels or affecting the impacts on the planet from global heating.\nOn Thursday, Australia woke to the news that China’s president, Xi Jinping, had told the United Nations that for the first time his country was setting a target to cut – in absolute terms – its greenhouse gas emissions.\nSign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8615cdeb80be2857e92288f069db40e8590b5100",
+      "title": "Doorstep raises $8M seed to help find missing food deliveries",
+      "url": "https://techcrunch.com/2025/09/25/doorstep-raises-8m-seed-to-help-find-missing-food-deliveries/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-25T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Doorstep integrates into existing delivery apps and then, using phone sensors, tracks when a driver has entered a building, gone up an elevator, and made it to the desired doorstep.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "554f3f70c2676f64a3cd9196aad704ba0ea11638",
+      "title": "What top VCs want from AI founders: Inside the investor lens with Jon McNeill, Aileen Lee, and Steve Jang at TechCrunch Disrupt 2025",
+      "url": "https://techcrunch.com/2025/09/25/what-top-vcs-want-from-ai-founders-inside-the-investor-lens-with-jon-mcneill-aileen-lee-and-steve-jang-at-techcrunch-disrupt-2025/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-25T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Jon McNeill (DVx Ventures), Aileen Lee (Cowboy Ventures), and Steve Jang (Kindred Ventures) share what AI founders need to know now: from defensibility to term sheets. TechCrunch Disrupt 2025 takes place October 27–29 in San Francisco. Register before tomorrow ends to save up to $668.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "188ee12685416954390118777aa88af92859a761",
+      "title": "Sarkozy says he will ‘sleep in prison, but with head held high’ following guilty verdict in Libya trial – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/25/aalborg-airport-denmark-drones-oslo-sarkozy-meloni-news-updates-europe-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-25T14:59:39.000Z",
+      "summary_90w": "",
+      "raw": "Sarkozy found guilty of criminal conspiracy for receiving millions of euros from late Libyan dictator Muammar Gaddafi and will spend time in custody even if he appeals\nHere is a bit more on that from Reuters:\nSarkozy, who has always denied the charges, was accused of making a deal with Gaddafi in 2005, when he was France’s interior minister, to obtain campaign financing in exchange for supporting the then-isolated Libyan government on the international stage.\n…\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f7816fbb84854435a742aeae4f33ff9ead5d1777",
+      "title": "Israel carrying out crime against humanity in Gaza, Palestinian president Mahmoud Abbas tells UN – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/25/palestinian-authority-mahmoud-abbas-unga-israel-gaza-us-yemen-middle-east-crisis-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-25T14:55:32.000Z",
+      "summary_90w": "",
+      "raw": "Speech by Palestinian Authority president also says Hamas should have no role in governing Palestine and must disarm\nAlimi says the policy of containment has given the Houthis time to expand its arsenal.\n“It has become clear the peace we seek cannot be asked for but must be imposed by force,” he says.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8cb98d854fabd07d3d62e39fc1f6dafd776b7245",
+      "title": "Xiaomi 17 series arrives with secondary screens and enormous batteries",
+      "url": "https://www.theverge.com/news/785693/xiaomi-17-pro-max-china-launch-specs-price-second-screen",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-25T14:51:38.000Z",
+      "summary_90w": "",
+      "raw": "The 17 Pro and 17 Pro Max both feature second screens on the rear.\t\n\nA critic might accuse Xiaomi of copying Apple a little too closely in its launch event for the Xiaomi 17 phones, while a fan might say the company is trying to beat Apple at its own game. Either way, it’s pretty clear that the Chinese giant had Cupertino in mind when announcing its new flagship line, even if the phones themselves are more unique, helped by a second screen found on the back of its two new Pro models.\nLet’s start with the names. Xiaomi’s last flagships were the 15 series, completed by yesterday’s 15T phones, these are the 17. We’re used to Chinese companies skipping generations with the unlucky number four in the name (OnePlus is jumping from 13 to 15 in its flagships this year, for example), but this is a little different: Xiaomi has been open that it’s going straight to 17 solely in the name of keeping up with Apple’s numbering. \nFactor in the introduction of a second size of Pro phone, and you have a suspiciously familiar sounding lineup: the Xiaomi 17, 17 Pro, and 17 Pro Max. Just in case you missed the point, Xiaomi CEO Lei Jun repeatedly brought Apple’s new iPhones up as direct points of comparison as he personally ran through the phones’ specs at the Beijing launch event, highlighting again and again how its 17 series supposedly wins on battery, performance, photography, and more.\nIn Xiaomi’s defense, its actual hardware doesn’t take too many pointers from Apple, and the phones have the specs to justify those confident comparisons. The Pro and Pro Max stand out most obviously for the additional display on the back, filling the space where you find the camera “plateau” on the equivalent Pro iPhones. This looks to be used a lot like the cover display on recent flip phones, wrapping around the camera lenses in a similar fashion, with the ability to deliver a viewfinder for selfies, controls for music playback, interactive widgets, and more. \nXiaomi is far from the first company to slap an extra screen on the back of an Android phone, and we’ve seen this form factor attempted numerous times over the past five years or so. Still, those interface improvements delivered by the flip phones may help make this more practical than most. And if all else fails, there’s always the official Game Boy-inspired case that includes functional buttons, turning the back of the phone into a portable console in its own right.\n\n\n\n\n\n\nOtherwise, the two Pro phones are mostly similar apart from their sizes. The regular Pro has a 6.3-inch display, and weighs just 192g. The Pro Max has a larger 6.9-inch display, and is heavier at 231g — though Xiaomi was at pains to point out that it’s both thinner and lighter than Apple’s 17 Pro Max. Its display is supposedly tougher too, which the company demonstrated in a promo video showing a figure skater glide right across the phone’s face — probably one to file under “don’t try this at home.”\nBoth phones are powered by the Snapdragon 8 Elite Gen 5 chipset, announced yesterday by Qualcomm. They feature enormous batteries too — 6,300mAh in the Pro and 7,500mAh in the Pro Max — with support for 100W wired charging over the universal PPS standard, and 50W wireless.\nCameras are obviously a priority, with three 50-megapixel shooters on the back of each phone. They share their f/1.67 main camera and f/2.4 ultrawide, but differ a little in the telephotos. Both have the same 5x zoom distance, but the Pro Max uses a larger sensor and a faster aperture (f/2.6 compared to f/3.0), which should mean significantly better performance in low light.\nThe regular Xiaomi 17 may be a little less eye-catching, since it lacks the secondary screen on the back, but that might make it a more appealing phone to most. It’s the same 6.3-inch size as the Pro model, has a similar 50-megapixel triple rear camera, and shares the Snapdragon 8 Elite Gen 5 chipset too.\nThe biggest surprise to the 17 is that it features a bigger battery than the Pro, at 7,000mAh. Xiaomi broke out yet another iPhone comparison to drill this home, stacking it up against an iPhone 17 in a continuous video playback test — then, in a moment of triumph, slapping a 5,000mAh MagSafe battery on the back of the iPhone just to show the Xiaomi phone still outlasting it. Will that really reflect real world battery performance? Who knows, but it was certainly fun to watch.\nAll three Xiaomi 17 phones are available for Chinese customers to preorder now, with a full release on September 27th. The 17 starts from ¥4,499 (around $630), the Pro for ¥4,999 (around $700), and the Pro Max for ¥5,999 (around $840). Xiaomi hasn’t yet announced global release plans, but a European launch for at least some of the models is likely in the spring, potentially around the MWC trade show in late February, when it may also reveal an even more powerful Xiaomi 17 Ultra.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "473c6616db76d5fa4548e899b21185429c7e1424",
       "title": "Trump claims a TikTok deal is done. Who would own it, and how would it work?",
@@ -16,6 +172,19 @@
       ]
     },
     {
+      "id": "c8cd854ed88fcd2606897d1d2a2e29662dcbcc60",
+      "title": "Emma Watson says she still loves JK Rowling despite rift over trans views",
+      "url": "https://www.bbc.com/news/articles/c4gvp18xe17o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-25T14:36:00.000Z",
+      "summary_90w": "",
+      "raw": "However, the Harry Potter author appears to rebuff the actress's conciliatory comments.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "fb85726aa2742bb95c25a332e16d9269f24149bf",
       "title": "Meta rolls out Teen Accounts on Facebook and Messenger globally",
       "url": "https://techcrunch.com/2025/09/25/meta-rolls-out-teen-accounts-on-facebook-and-messenger-globally/",
@@ -26,19 +195,6 @@
       "raw": "Teen Accounts first rolled out to Instagram a year ago after Meta and other popular social networks were grilled by U.S. lawmakers for not doing enough to protect teens on their services.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f7816fbb84854435a742aeae4f33ff9ead5d1777",
-      "title": "Israel carrying out crime against humanity in Gaza, Palestinian president Mahmoud Abbas tells UN – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/25/palestinian-authority-mahmoud-abbas-unga-israel-gaza-us-yemen-middle-east-crisis-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-25T14:32:50.000Z",
-      "summary_90w": "",
-      "raw": "Speech by Palestinian Authority president also says Hamas should have no role in governing Palestine and must disarm\nAlimi says the policy of containment has given the Houthis time to expand its arsenal.\n“It has become clear the peace we seek cannot be asked for but must be imposed by force,” he says.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -63,19 +219,6 @@
       "published": "2025-09-25T14:24:28.000Z",
       "summary_90w": "",
       "raw": "Experts have condemned the hack as an \"absolute new low\" for cyber-crime.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "188ee12685416954390118777aa88af92859a761",
-      "title": "Sarkozy says he will ‘sleep in prison, but with head held high’ following guilty verdict in Libya trial – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/25/aalborg-airport-denmark-drones-oslo-sarkozy-meloni-news-updates-europe-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-25T14:13:51.000Z",
-      "summary_90w": "",
-      "raw": "Sarkozy found guilty of criminal conspiracy for receiving millions of euros from late Libyan dictator Muammar Gaddafi and will spend time in custody even if he appeals\nHere is a bit more on that from Reuters:\nSarkozy, who has always denied the charges, was accused of making a deal with Gaddafi in 2005, when he was France’s interior minister, to obtain campaign financing in exchange for supporting the then-isolated Libyan government on the international stage.\n…\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -121,7 +264,7 @@
     },
     {
       "id": "b84fed109bc307bdf0a1a748544d78bc944e3345",
-      "title": "VIDEO: Top health officials are at odds with scientists. Who should Americans believe?",
+      "title": "VIDEO: Trump and scientists disagree on Tylenol and autism. Who do Americans believe?",
       "url": "https://www.npr.org/2025/09/25/g-s1-90435/tylenol-autism-health",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
@@ -419,19 +562,6 @@
       ]
     },
     {
-      "id": "4f3fff23e96a91ef5ac35af73023db95e378da93",
-      "title": "Spotify is finally taking steps to address its AI slop and clone problem",
-      "url": "https://www.theverge.com/news/785136/spotify-ai-slop-impersonation-disclosure",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-25T12:00:00.000Z",
-      "summary_90w": "",
-      "raw": "As AI music generators like Suno and Udio make it easy to churn out passable music, streamers like Spotify are getting flooded with AI-generated content, leaving audiences and artists alike to wonder what is “real” music anymore. On Thursday, Spotify announced new policies that attempt to tamp down on three problems the platform has with AI: slop, impersonation, and disclosing whether AI was used to create the music. \nThe goal of the company’s efforts is to “protect authentic artists from spam and impersonation and deception” and make sure listeners don’t feel “duped,” Spotify’s global head of music product, Charlie Hellman, told reporters at a press briefing about the announcement. At the same time, he said that Spotify wants to let artists use AI if they want. \nSpotify is working with the music standards-setting organization DDEX to develop a new metadata standard for disclosing the use of AI in any part of song creation. This includes using AI to create the sounds that end up in the track, like vocals and instruments, as well using AI as an assistant during mixing and mastering the track itself, among other steps, Sam Duboff, head of marketing and policy, said to reporters.  \nFifteen record labels and music distributors have committed to adopting the AI disclosures, Duboff said. There is no specific timeline for when the standard will be released, Duboff said, adding that labels and distributors will need to update their process of delivering the credit information to Spotify. \nThe platform also upped its response to impersonation, which it defines as including another artist’s voice — real or faked — without their permission, and which covers “unauthorized AI voice clones, deepfakes, and any other form of vocal replicas or impersonation,” Duboff said.  \nDuboff also said that Spotify is also rolling out over the next few “weeks or a few months” a music spam filter that identifies uploaders who try to game the system. He mentioned several tactics commonly used by spammers, like uploading tracks just over 30 seconds long in order to “try to rack up royalty-bearing streams,” or uploading the same tracks many times with slightly different metadata. In the last 12 months, Spotify says that it removed 75 million spam tracks. \nThe company also addressed rumors of AI-generated songs getting added to its playlists in order to avoid paying artists. Duboff called the rumors “categorically and absolutely false,” adding that Spotify does not create any music “with AI or without it,” adding that “100% of it is created, owned, uploaded by licensed third parties.” \nHe did not address whether AI music is being added to Spotify’s editorially curated playlists during the briefing. \nLater, Duboff provided the following comment to The Verge on the matter: \n“Our editors are focused on playlisting music that they think will resonate with audiences. And on tracks that appear to be primarily prompt generated, we’re seeing a very low level of engagement. But there is no truth to the conspiracy theories that we’re adding AI music to playlists or promoting AI music in any way for any financial benefit – all of the music on Spotify is licensed by third parties, we don’t create or own any of it, and we pay out royalties to third parties on all of it.”",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "239fe5faad99241414fb0c91522268540d2bfccc",
       "title": "Spotify to label AI music, filter spam and more in AI policy change",
       "url": "https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/",
@@ -471,19 +601,6 @@
       ]
     },
     {
-      "id": "a21c748f06667bd5a32259b850288f3e9e73fe72",
-      "title": "Jimmy Kimmel returns bigger than ever",
-      "url": "https://www.theverge.com/news/785552/jimmy-kimmel-returns-record-viewership-figures",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-25T11:45:09.000Z",
-      "summary_90w": "",
-      "raw": "Jimmy Kimmel’s return on Tuesday was met with a standing ovation from the live audience. | Image: Jimmy Kimmel Live!\t\n\nIn spite of Brendan Carr’s efforts, the return of Jimmy Kimmel’s talk show is breaking viewership records on YouTube, and ratings of the first return broadcast were the show’s highest in a decade. Tuesday’s episode of Jimmy Kimmel Live! contained Kimmel’s most-watched monologue ever on the video platform, a 28-minute segment addressing the censorship, which has reached more than 19 million views at the time of writing.\nThe increased online viewership could include people who are unable to watch the show on network television and are flocking to YouTube instead, as Nexstar and Sinclair continue to block it from being broadcast on roughly one-quarter of ABC stations. Preliminary Nielsen figures cited by ABC and reported by The New York Times, which don’t include streaming viewership, show that Tuesday’s episode averaged 6.2 million viewers — nearly four times higher than Kimmel’s usual audience. These figures are preliminary and expected to grow in the coming days.\nABC:\nAmong Adults 18-49, “Jimmy Kimmel Live” earned a 0.87 rating, representing the show’s highest regularly scheduled episode in over 10 years — since 3/12/15.\n\nPoetically, the party that made such a public push to get Kimmel kicked off the airwaves has unintentionally amplified his platform, even while 20 percent of ABC affiliates have bent the knee and boycotted the show.\nUpdate, September 25th: Updated with additional ratings details.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "7f5f21faed8312ae272bf999b16f16a60d86e3de",
       "title": "Is Trump right that Russia’s economy is on the brink of collapse?",
       "url": "https://www.theguardian.com/world/2025/sep/25/is-trump-right-that-russian-economy-is-on-brink-of-collapse",
@@ -494,19 +611,6 @@
       "raw": "While VAT is going up to finance the war and fuel is in short supply, few expect Putin to adjust his war plans \nRussia’s economy is in deep peril, Donald Trump assured the world this week, in a dramatic change of tune on the war in Ukraine in which the US president claimed Kyiv now had a chance to win back all its territory.\nThe reality, economists say, is more complicated. While Moscow is enduring its toughest period since the chaotic first days of the invasion, few analysts believe its economy is on the brink of a total collapse, and fewer still expect Vladimir Putin to adjust his war plans in the short term.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "8b486bde20abe5fbff73f8d9cf2dbf81ceff71fb",
-      "title": "Microsoft forced to make Windows 10 extended security updates truly free in Europe",
-      "url": "https://www.theverge.com/news/785544/microsoft-windows-10-extended-security-updates-free-europe-changes",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-25T11:36:14.000Z",
-      "summary_90w": "",
-      "raw": "Windows 10 end of support is approaching in less than three weeks, and Microsoft has now been forced to make its extended security updates truly free, without a catch, in certain markets in Europe. When Windows 10 goes end of support on October 14th, some European customers will no longer be required to turn on Windows Backup to enroll into its Extended Security Updates (ESU).\nMicrosoft had wanted everyone to turn on Windows Backup to get the extra year of security updates, but thanks to pressure from the Euroconsumers group this is now changing in the European Economic Area. The consumer advocacy group has been asking Microsoft to do more for those still running Windows 10 across Europe, and it has successfully convinced the software giant to offer the extended security updates free without the requirement of enabling Windows Backup.\nWindows Backup requires a Microsoft Account and uses OneDrive, which could lead consumers to go above the 5GB of free storage by having to back up documents and settings. It’s a catch that benefits Microsoft, as it can then sell Windows 10 users additional OneDrive storage space.\n“We are pleased to learn that Microsoft will provide a no-cost Extended Security Updates (ESU) option for Windows 10 consumer users in the European Economic Area (EEA),” says the Euroconsumers group in a letter this week. “We are also glad this option will not require users to back up settings, apps, or credentials, or use Microsoft Rewards.”\nAn unnamed Microsoft spokesperson confirmed the changes to Windows Central, noting that it’s “making updates to the enrollment process to ensure it meets local expectations and delivers a secure, streamlined experience.” These changes are only being made in the European Economic Area though, so everywhere else will still need to either enable Windows Backup or pay $30 for the year or redeem 1,000 Microsoft Reward points.\nConsumers will still only get extended security updates for Windows 10 until October 13th, 2026, but businesses have the option to purchase up to three years of important security updates. Euroconsumers is also trying to convince Microsoft to extend its security updates beyond a year for consumers, to avoid leaving devices “exposed to risk” next year.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -718,6 +822,19 @@
       ]
     },
     {
+      "id": "aef0f9510d3ea38316704a4a065d3ea4e6dd0d31",
+      "title": "A question of intent: Is what's happening in Gaza genocide?",
+      "url": "https://www.npr.org/2025/09/25/g-s1-89678/israel-gaza-genocide-debates-united-nations",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-25T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "As accusations of genocide in Gaza mount against Israel, NPR looks at how the term is defined legally and why previously reticent scholars have changed their minds.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "a8ac0aacbf8c576c3f7d0ddb2f78d7adf6d5d32a",
       "title": "Housing prices are causing some people to have smaller families than planned",
       "url": "https://www.npr.org/2025/09/25/nx-s1-5540077/housing-prices-fewer-children",
@@ -728,19 +845,6 @@
       "raw": "Home prices skyrocketed during the pandemic — and have stayed high. For some Americans, making their budget work means having fewer children than they'd envisioned.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "9e2ae089b847204aad42afbc2a57799edadc2dce",
-      "title": "Strict rules can foster calm classrooms. But some students pay the price",
-      "url": "https://www.npr.org/2025/09/25/nx-s1-5459934/school-students-disabilities-discipline",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-25T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "An Indiana charter school network has won praise for its strong academics. But some students with disabilities struggle to follow the school system's discipline policies.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -809,45 +913,6 @@
       ]
     },
     {
-      "id": "167e88ba4afe61e922e093fd119931810c04778c",
-      "title": "DNA tests to determine if heart belongs to Australian man who died in Bali",
-      "url": "https://www.theguardian.com/world/2025/sep/25/byron-haddow-australian-man-bali-hospital-denies-organ-theft-allegations",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-25T08:23:49.000Z",
-      "summary_90w": "",
-      "raw": "Australian officials demanded answers after the body of Byron Haddow was returned without his heart\nDNA testing is being carried out on a heart that is claimed to be that of Queensland man Byron Haddow, who died in Bali in May.\nHaddow, 23, was found dead in the plunge pool of his villa while on holiday. His body was returned to Australia four weeks later and a second autopsy found his heart was missing.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fc0bfd92a9773d0b5afe1abe1cb781b05b95c3d4",
-      "title": "DNA tests to determine if heart belongs to man who died in Bali – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2025/sep/25/australia-news-live-penny-wong-anthony-albanese-climate-crisis-united-nations-donald-trump-turkey-cop-politics-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-25T08:16:41.000Z",
-      "summary_90w": "",
-      "raw": "This blog is now closed\n\nDNA tests to determine if heart belongs to Australian man who died in Bali\n\nGet our breaking news email, free app or daily news podcast\n\nAnthony Albanese says China should do more on cutting carbon emissions, including closing more coal fired power stations.\nIn a video statement to the UN in New York, president Xi Jinping said China would reduce its greenhouse gas emissions across the economy by 7-10% by 2035, while “striving to do better”.\nIt is good that there is progress being made. We, of course would like there to be more, but it is a step forward, and indeed, China has exceeded its previous targets.\nWe’d like to see new coal fired power plants not open. But it is a step forward. If you look at the transition that’s occurring as part of what President Xi announced, as well of electric vehicles, that’s been a revolution, frankly, in a relatively short period of time.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6c0edbf452263bdcd4c26ac119db41cc0e62cbb4",
-      "title": "Brisbane kindergarten forced to back down after proposing to charge parents $2,200 for their own children’s art",
-      "url": "https://www.theguardian.com/australia-news/2025/sep/25/brisbane-kindergarten-craigslea-proposed-charging-parents-2200-for-their-own-childrens-art-forced-to-back-down",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-25T08:04:01.000Z",
-      "summary_90w": "",
-      "raw": "Craigslea kindergarten’s management committee told parents the centre owed over $40,000 and the fee could help pay off the debt\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA Brisbane kindergarten has been forced to back down after asking parents to pay $2,200 for their own children’s artwork amid a dispute over the management of the childcare centre.\nCraigslea community kindergarten, a local childcare centre in Chermside West in Brisbane’s north, made national headlines this week after a series of emails to parents. The centre has been in turmoil for weeks and was closed after a mass exodus of staff before the school holidays.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7b8af209b57e20187740ffa788bf9e41feb2a13f",
       "title": "The professor who beat fraud allegations to become Malawi's president…again",
       "url": "https://www.bbc.com/news/articles/c2ejmrd3m0lo?at_medium=RSS&at_campaign=rss",
@@ -890,7 +955,7 @@
       "id": "19c990518cbc001ff647e214d21ca43c7e35d45b",
       "title": "BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza",
       "url": "https://www.bbc.com/news/articles/c8d7yrp80m8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-25T05:43:55.000Z",
       "summary_90w": "",
@@ -1303,45 +1368,6 @@
       ]
     },
     {
-      "id": "5b7f49fec80758fec98c35d1b18ca9c5ad5df6e1",
-      "title": "Cohere hits $7B valuation a month after its last raise, partners with AMD",
-      "url": "https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-24T18:06:22.000Z",
-      "summary_90w": "",
-      "raw": "A fresh $100 million and an interesting partnership with AMD has slightly bumped Cohere's valuation up.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "680462d6e66fad5d70bf5d138fcf91ca839b5753",
-      "title": "Microsoft adds Anthropic’s AI to Copilot",
-      "url": "https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-24T17:46:29.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft is integrating OpenAI rival Anthropic's AI into Copilot, marking another step toward the disentangling of Microsoft and OpenAI.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "1d7f0875217b94d9b7443128df80a13c40acdd81",
-      "title": "At least 20 people reported injured after drone strike on Israeli city of Eilat",
-      "url": "https://www.theguardian.com/world/2025/sep/24/people-injured-drone-strike-israel-eilat",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-24T17:01:14.000Z",
-      "summary_90w": "",
-      "raw": "Two people seriously injured, says national ambulance service as military says drone was launched from Yemen\nAt least 20 people have been injured, two seriously, after a drone launched from Yemen hit Israel’s Red Sea resort city of Eilat on the border with Jordan and Egypt.\nPolice said the drone fell in Eilat’s city centre, causing damage in the area frequented by tourists.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "06ae165b9470a42953ff3612bf5b5814cd617bd9",
       "title": "Examining Kimmel's brief suspension and Trump's threats to free speech",
       "url": "https://www.npr.org/2025/09/24/nx-s1-5552132/examining-kimmels-brief-suspension-and-trumps-threats-to-free-speech",
@@ -1363,19 +1389,6 @@
       "published": "2025-09-24T16:20:53.000Z",
       "summary_90w": "",
       "raw": "Astronauts of Nasa's first crewed mission to the Moon for more than 50 years hope their journey inspires a new generation.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "47a267e7b16a3585c59c279b783c5ac6496f8d1c",
-      "title": "As it happened – deadly cyclone makes landfall in China after devastating Hong Kong, Taiwan and Philippines",
-      "url": "https://www.theguardian.com/world/live/2025/sep/24/typhoon-ragasa-live-china-hong-kong-taiwan-philippines-latest-storm-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-24T14:29:57.000Z",
-      "summary_90w": "",
-      "raw": "This blog is now closed, you can read more on this story here:\n\nRagasa: 17 killed in Taiwan as storm batters Hong Kong\n\nIn pictures: Ragasa’s path of destruction\n\nSuper Typhoon Ragasa is the strongest storm of 2025 and is now bearing down on China’s southern coast.\nThe Guardian’s picture desk have put together this gallery showing some of the damage and scenes being witnessed in Hong Kong, Taiwan, the Philippines and China.\n Continue reading...",
       "topics": [
         "World"
       ]
