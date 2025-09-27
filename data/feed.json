@@ -1,7 +1,33 @@
 {
-  "version": "1758977997656",
-  "generatedAt": "2025-09-27T12:59:57.656Z",
+  "version": "1758979154403",
+  "generatedAt": "2025-09-27T13:19:14.403Z",
   "items": [
+    {
+      "id": "5c75ff4a780f8dcfea6cc5a2ca411d79b5cb0d82",
+      "title": "Can Google be trusted without a break up?",
+      "url": "https://www.theverge.com/policy/786930/google-doj-ad-tech-remedies-break-up-trust",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-27T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "On day three of the two-week remedies trial in the Justice Department's ad tech case against Google, Judge Leonie Brinkema boiled down the argument to one key issue: trust. Brinkema interrupted testimony from a DOJ expert with a hypothetical: should she issue a strict order modifying Google's behavior, could it resolve the issues at hand if \"you had confidence that Google would actually act in complete good faith?\"\nThe question felt particularly pointed, given how the Google trial Brinkema presided over last year unfolded. Over three weeks, the DOJ repeatedly presented examples of Google employees allegedly using chat messages to avoid leav …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "aebbef67a9bce32c6483140941273259ea2c3232",
+      "title": "The strangest game of the year is a channel-surfing simulator",
+      "url": "https://www.theverge.com/games/785848/blippo-plus-review-switch-steam",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-27T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "It's not quite October yet, and there are still plenty of video games set to be released before the end of the year. Even still, I'm pretty convinced that Blippo Plus will go down as the strangest release of 2025.\nCalling it a game might be a bit of a misnomer; it's more of an alien television simulator. The idea is that, for reasons that aren't immediately clear, you're able to tune into a TV network from another world, the titular Blippo Plus. You don't really \"play\" the game, but rather flip around the channels - there are FMV shows with human actors, covering everything from dramas to cooking - to better understand the alien culture. (I …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "4178b03d12512c50a93807b1316f8644f171f173",
       "title": "Nuno set for West Ham job after Potter sacked",
@@ -130,19 +156,6 @@
       "raw": "The U.S. government will collect a multibillion-dollar payment from the American investors who will take over TikTok. Some experts call it a fee and other deals like it \"extortion.\"",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "747b93959b6b139e582e12e8712e1b9f960a6800",
-      "title": "West Ham 'pressed the emergency button' on Potter ",
-      "url": "https://www.bbc.com/sport/football/videos/c2dn1p7jnx5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-27T11:37:18.000Z",
-      "summary_90w": "",
-      "raw": "BBC Sport pundits Martin Keown and Ashley Williams discuss West Ham sacking Graham Potter as Nuno Espirito Santo is set to replace him.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -536,19 +549,6 @@
       ]
     },
     {
-      "id": "94be3996f6a4461be52cef170e237f860fef2a1a",
-      "title": "NPR and the Corporation for Public Broadcasting clash as federal funding declines",
-      "url": "https://www.npr.org/2025/09/27/nx-s1-5554882/as-federal-funds-wane-npr-ruefully-clashes-with-cpb",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-09-27T04:32:05.000Z",
-      "summary_90w": "",
-      "raw": "NPR asked a federal judge to block CPB from awarding a $57.9 million grant to a new consortium of public media institutions to operate the satellite that connects the public radio system.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
       "id": "168fd6e7eb6dc3b2f40e56e38c546a0b1d875935",
       "title": "Play now",
       "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
@@ -796,6 +796,19 @@
       ]
     },
     {
+      "id": "4fce19ab939e64a9e519d46482abec388fc3124c",
+      "title": "UK urged to act on colonial-era war crimes case after recognising Palestinian state",
+      "url": "https://www.bbc.com/news/articles/ce3yepedj57o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-26T22:17:00.000Z",
+      "summary_90w": "",
+      "raw": "A legal petition alleges colonial-era war crimes by the UK in historical Palestine in 1917-48.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "c290c5be83a4db2f7d8df9adb07ba41489cd23ae",
       "title": "Microsoft Photos will soon auto-categorize your pictures",
       "url": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
@@ -806,19 +819,6 @@
       "raw": "Microsoft is testing a way that will make it easier to sift through all the clutter in your photo library. An update coming to all Windows 11 Insiders on Copilot Plus PCs introduces a new AI-powered feature on the Photos app that will place images of receipts, screenshots, identity documents, and handwritten notes in their own folders.\nMicrosoft says the Photos app will automatically categorize these images based on their visual contents, even if the text in the image is in a language other than English. That means a photo of a Hungarian passport, for example, will still be sorted into the folder with your other identity documents.\nOnce Photos sorts your images, you’ll find the folders it creates beneath the Categories section on the left navigation bar. For now, Photos can only identify and categorize screenshots, receipts, identity documents, and notes, but it would likely be even more helpful if you could specify the categories you’d like it to create, like photos of your dog or of the beach.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "91657b17a0a346778f3771afed9387f1b10809f5",
-      "title": "Watch: How Trump and Comey's relationship soured",
-      "url": "https://www.bbc.com/news/videos/cz69y2n6xexo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-26T21:25:40.000Z",
-      "summary_90w": "",
-      "raw": "The indictment of the ex-FBI boss comes days after Trump called for his adversaries to be more aggressively investigated.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -908,32 +908,6 @@
       "published": "2025-09-26T20:00:00.000Z",
       "summary_90w": "",
       "raw": "Lauri Moore (Bessemer), David Cramer (Sentry), and Zach Lloyd (Warp) join the Builders Stage at TechCrunch Disrupt 2025 to debate what founders really need from their first engineering hires — and how AI tooling fits into the equation.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "44f98d399d039d025a857d6d65f3cbd2f1adcf86",
-      "title": "Humanoid robots are Meta&#8217;s next &#8216;AR-size bet&#8217;",
-      "url": "https://www.theverge.com/column/786759/humanoid-robots-meta",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-26T19:45:00.000Z",
-      "summary_90w": "",
-      "raw": "This is Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week.\nBuilding humanoid robots is Meta's next \"AR size bet,\" a top executive told me recently. That suggests the company plans to spend billions of dollars on the effort.\nDuring a recent conversation at Meta's headquarters, CTO Andrew Bosworth said he stood up a robotics \"research effort\" earlier this year at the direction of CEO Mark Zuckerberg. The team's existence has been reported on before, but Bosworth hadn't discussed its strategy in-depth until our interview.\n\"I don't think the hardware is the hard part,\" he …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "87fd3a20435abc7c9b0f110e5e07b52b3c643c99",
-      "title": "The TikTok deal raises more questions than answers",
-      "url": "https://www.theverge.com/report/786748/tiktok-deal-trump-administration-legal-uncertainty",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-26T19:45:00.000Z",
-      "summary_90w": "",
-      "raw": "Following months of delays, President Donald Trump has signed an executive order that's supposed to \"save\" TikTok. Trump claims the deal will make the app \"American-operated,\" fulfilling the divest-or-ban law that threatened the China-owned app's presence in the US. But the Trump administration didn't reveal any information about who will own TikTok's US operations, or how much they'll own. And questions remain about whether the new agreement - and the steps taken to get there - is even legal.\n\"The TikTok saga has been the single clearest articulation, the single most vivid example of the lawlessness of this administration, of its imperial  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
