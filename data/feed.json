@@ -1,7 +1,85 @@
 {
-  "version": "1759182717636",
-  "generatedAt": "2025-09-29T21:51:57.636Z",
+  "version": "1759184056405",
+  "generatedAt": "2025-09-29T22:14:16.405Z",
   "items": [
+    {
+      "id": "756a408adce75d5625bf4e561a00f2813a6d10e0",
+      "title": "Microsoft is bringing its Windows engineering teams back together again",
+      "url": "https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-29T22:07:32.000Z",
+      "summary_90w": "",
+      "raw": "Windows is coming back together. Microsoft is bringing its key Windows engineering teams under a single organization again, as part of a reorg being announced today. Windows chief Pavan Davuluri, who was just promoted to president of Windows and devices earlier this month, shared the changes to Microsoft's Windows teams in an internal memo.\n\"This change unifies Windows engineering work under a single organization,\" Davuluri wrote in the memo, which was seen by The Verge. \"Moving the teams working on Windows client and server together into one organization brings focus to delivering against our priorities.\"\nThis the first major Windows reor …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8e0da62877de8813ef283206dac7806a58fe6775",
+      "title": "Tile&#8217;s lack of encryption could make tracker owners vulnerable to stalking",
+      "url": "https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-29T22:03:30.000Z",
+      "summary_90w": "",
+      "raw": "Security researchers are shining the spotlight on a serious security vulnerability that could enable stalkers to track victims using their own Tile tags, as well as other unwanted violations of security and privacy. Research outlined by Wired shows that Tile’s anti-theft mode, which makes its trackers “invisible” on the Tile network, counteracts measures to prevent stalking. Bad actors could also potentially intercept unencrypted information sent from the tags, like their unique IDs and MAC addresses, and track their movements using other Bluetooth devices or an antenna. \nThis isn’t news to Eva Galperin, the director of cybersecurity at the Electronic Frontier Foundation, who has raised concerns about the risks associated with Bluetooth-enabled trackers for years. “Tile has, historically, been a bad actor in this space in the sense that they have known about all of these problems with their design choices,” Galperin says. A statement from Tile noted “improvements” made since the problems were reported, but didn’t go into detail or address questions about encryption.\nItem tracking tags attached to a keyring, wallet, or purse will transmit their information to a network of nearby phones, which send a tracker’s location, MAC address, and unique ID to Tile’s database and make it easy to find lost items. Apple’s AirTags and Samsung’s SmartTags operate using a similar system that pings off other devices to narrow down a tag’s location, while Google’s Find My Device network powers third-party trackers made by brands like Chipolo, Pebblebee, and Motorola.\nResearchers Akshaya Kumar, Anna Raymaker, and Michael Specter of the Georgia Institute of Technology reverse-engineered the Tile app and say that while other companies rotate their tags’ unique IDs and MAC addresses in an attempt to make them harder for bad actors to track, Tile only switches up a device’s unique ID, allowing someone to link a MAC address to a specific tag. “An attacker only needs to record one message from the device … to fingerprint it for the rest of its lifetime,” Kumar tells Wired.\nGalperin says that this is the kind of vulnerability that the EFF aims to prevent with its work on the Detection of Unwanted Location Trackers standard adopted by Google and Apple. “We have been trying to put together a set of standards that every maker of Bluetooth-enabled trackers should implement, which includes a bunch of best practices,” Galperin says. “One of them is frequently rotating your goddamn MAC address and sending information encrypted, instead of in the clear.”\nAdditionally, Wired reports that stalkers can easily thwart Tile’s “Scan and Secure” feature, which people can use to detect unwanted Tile trackers in their vicinity by turning on an “anti-theft” mode. The anti-theft setting hides a tracker from the Tile network to prevent someone from tracking and stealing the item it’s attached to. Tile only lets people use the feature if they provide a photo ID and agree to pay a $1 million fine if they’re convicted of misusing the feature. But, as pointed out by Galperin, “the stalker has to be caught, and they [Tile] have just provided the technology to make sure that wouldn’t happen.”\nIn a statement to The Verge, Kristi Collura, a spokesperson for Tile’s parent company Life360, says it has “made a number of improvements” since the researchers alerted the company to the issue in November. “Using a Tile to track someone’s location without their knowledge is never okay and is against our terms of service,” Collura says.  Here’s Life360’s full statement:\nLife360 takes the privacy and safety of our members and products very seriously. It’s why we participate in the HackerOne program (alongside thousands of tech companies), which allows ethical hackers and security researchers to responsibly disclose potential issues so we can review, address, and, where appropriate, implement changes. Since receiving the submission, we have made a number of improvements and are continually prioritizing work that helps families feel safe and connected, focusing on the areas that make the most impact for our members as we transition Tile to Life360’s broader platform. Using a Tile to track someone’s location without their knowledge is never okay and is against our terms of service. In the rare cases of alleged misuse, we prioritize collaboration with law enforcement and abide by Life360’s Law Enforcement Guidelines.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "310f144ebc744eb657c21ef319edc9dd7dd95794",
+      "title": "California Governor Newsom signs landmark AI safety bill SB 53",
+      "url": "https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-29T21:57:03.000Z",
+      "summary_90w": "",
+      "raw": "SB 53 requires large AI labs – including OpenAI, Anthropic, Meta, and Google DeepMind – to be transparent about safety protocols. It also ensures whistleblower protections for employees at those companies.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6647a12aa2b9ada1d0b2493d31213eb1f6d97ed3",
+      "title": "Jim Chalmers’ budget victory lap outpaces reality as Australia’s debt continues to climb",
+      "url": "https://www.theguardian.com/business/2025/sep/30/australia-treasurer-chalmers-budget-deficit-smaller-than-expected-structural-challenges-loom",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-29T21:52:20.000Z",
+      "summary_90w": "",
+      "raw": "The treasurer celebrated an outcome that could have been worse, but a structural challenge remains as workers are left with the burden of repair\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nIt’s official, Jim Chalmers has not managed the budgetary equivalent of a “three-peat”.\nAfter delivering two straight surpluses, Monday’s final budget outcome confirmed the country’s finances slumped to a deficit of $10bn in 2024-25.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "382984daa99cfce9057ef5af0f6f72efc3144c33",
+      "title": "News live: Albanese urges UAE supermarket chain to challenge Australia’s duopoly",
+      "url": "https://www.theguardian.com/australia-news/live/2025/sep/30/australia-news-live-albanese-supermarket-united-arab-emirates-uae-coalition-sussan-ley-andrew-hastie-reserve-bank-rba-chalmers-interest-rates-decision-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-29T21:49:47.000Z",
+      "summary_90w": "",
+      "raw": "Prime minister wraps up overseas visit with meetings in United Arab Emirates. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nMary Fowler walks in Paris fashion week\nMatildas superstar Mary Fowler walked the runway during Paris fashion week for L’Oréal Paris overnight. The international cosmetics company said she is the first professional footballer to appear in its Le Défilé L’Oréal Paris runway show.\nThis will be my first time walking a runway, and while it’s a little outside of my comfort zone, the opportunity to walk alongside extraordinary women in a celebration of women’s empowerment, inclusion, and sisterhood is truly inspiring.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "cccaaca00399556d73f28441323475a31968fa11",
+      "title": "‘I think we’re headed to a shutdown,’ says JD Vance as Mike Johnson calls for more time for negotiations – live",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-29T21:49:37.000Z",
+      "summary_90w": "",
+      "raw": "Congressional leaders meet with Trump over government shutdown as vice-president reportedly says Democrats ‘won’t do’ the right thing\nTrump officials to announce plan to boost coal output\nThe US is set to announce on Monday policies to try to boost the output of coal, the interior department said, as the Trump administration seeks to reverse the decline of the fossil fuel’s use.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "4b4d7737f116cdc46dcbb9adbbcfaf763c79739c",
       "title": "Video game company Electronic Arts confirmed plans for a historic deal",
@@ -13,19 +91,6 @@
       "raw": "NPR's Scott Detrow talks with Jennifer Maas, a senior business writer at Variety, about video game company Electronic Arts' agreement to be acquired and taken private in a deal valued at $55 billion.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "382984daa99cfce9057ef5af0f6f72efc3144c33",
-      "title": "News live: Albanese urges UAE supermarket chain to challenge Australia’s duopoly",
-      "url": "https://www.theguardian.com/australia-news/live/2025/sep/30/australia-news-live-albanese-supermarket-united-arab-emirates-uae-coalition-sussan-ley-andrew-hastie-reserve-bank-rba-chalmers-interest-rates-decision-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T21:39:24.000Z",
-      "summary_90w": "",
-      "raw": "Prime minister wraps up overseas visit with meetings in United Arab Emirates. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nCommunications minister will ‘lay down the law’ with Optus’ parent company after triple-zero outages\nThe federal government will “lay down the law” with Optus after two triple-zero outages on its network when the minister responsible sits down with its majority shareholder, AAP reports.\nI’m very confident that Anika will really lay down the law to the parent company CEO. She’s obviously already had discussions with Optus themselves, but escalating that now to the parent company demonstrates how seriously we are taking this.\nWe want to make sure that if people want to ring (triple zero) through the Optus system, that it’s going to work and Optus has got to deliver to Australians.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -56,26 +121,13 @@
     },
     {
       "id": "ce5782e0d080e2f74071ade48d497891dc0e482c",
-      "title": "Trump’s Gaza peace plan is a back of an envelope sketch – but could work",
+      "title": "Trump’s plan for Gaza is ambitious but peace is far from guaranteed",
       "url": "https://www.theguardian.com/world/2025/sep/29/trumps-gaza-peace-plan-is-a-back-of-an-envelope-sketch-but-could-work",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-09-29T21:27:50.000Z",
       "summary_90w": "",
-      "raw": "The proposed deal, backed by Netanyahu, is a step forward but much depends on Hamas’s response and how its many gaps will be filled in\nAt first glance, the 20-point plan outlined by President Trump and agreed by Benjamin Netanyahu appears more likely to end the two-year conflict in Gaza than anything we have seen so far. Trump has sunk a lot of political capital in bringing peace to the Middle East after thousands of years, as he put it. There is apparent deep and wide regional support and, seemingly, that of the Israeli prime minister.\nBut this is less a detailed roadmap than a rough back of an envelope sketch that allows an equal chance of getting badly lost as reaching the desired destination.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cccaaca00399556d73f28441323475a31968fa11",
-      "title": "‘I think we’re headed to a shutdown,’ says JD Vance as Mike Johnson calls for more time for negotiations – live",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T21:25:36.000Z",
-      "summary_90w": "",
-      "raw": "Congressional leaders meet with Trump over government shutdown as vice-president reportedly says Democrats ‘won’t do’ the right thing\nTrump officials to announce plan to boost coal output\nThe US is set to announce on Monday policies to try to boost the output of coal, the interior department said, as the Trump administration seeks to reverse the decline of the fossil fuel’s use.\n Continue reading...",
+      "raw": "The US president has won regional backing, but Hamas’s response and Israel’s intentions leave the outcome in doubt\nAt first glance, the 20-point plan outlined by President Trump and agreed by Benjamin Netanyahu appears more likely to end the two-year conflict in Gaza than anything we have seen so far. Trump has sunk a lot of political capital in bringing peace to the Middle East after “thousands of years”, as he put it. There is apparent deep and wide regional support and, seemingly, that of the Israeli prime minister.\nBut this is less a detailed roadmap than a rough back of an envelope sketch that allows an equal chance of getting badly lost as reaching the desired destination.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -188,7 +240,7 @@
       "id": "36f5439945fd7061f1b0c07b5382ef09c5f59286",
       "title": "What we know about Michigan church shooting and arson attack",
       "url": "https://www.bbc.com/news/articles/c62n45v0rz2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-09-29T20:43:37.000Z",
       "summary_90w": "",
@@ -809,19 +861,6 @@
       ]
     },
     {
-      "id": "a57da64712be2176a7f05e62f1aca9d4a9009971",
-      "title": "Alexa Plus is smarter — but it’s not yet smart enough",
-      "url": "https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-29T15:45:00.000Z",
-      "summary_90w": "",
-      "raw": "The new UI on the Echo Show 21 is a big improvement, but Alexa Plus needs a deeper integration with its screen-based hardware.\t\n\nThis week, Amazon will launch new Echo hardware designed to supercharge Alexa Plus, the AI-powered upgrade to its voice assistant. I've been using Alexa Plus for the last few months as part of its Early Access program, and while the new assistant is off to a promising start, it's still clearly a work in progress. \nTo fix Alexa, Amazon had to break it apart and rebuild it. The result is a hybrid smart home assistant, personal assistant, and Amazon's answer to ChatGPT. Right now, in its Beta phase, this new Alexa isn't doing any of those things as well as I'd hoped. \nThis is most obvious in the smart home. Controlling my lights, locks, and r …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "c3072b1ce3de2f2f929995d9e214e803f90a3fa0",
       "title": "Mother to be charged with murdering three children",
       "url": "https://www.bbc.com/news/articles/c1mxkr37r8do?at_medium=RSS&at_campaign=rss",
@@ -832,19 +871,6 @@
       "raw": "The children were found with fatal knife wounds to their necks and chests at their home in Bristol.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "eb30a8d7d90915793b1499a402e0ad88b02df97b",
-      "title": "Amazon’s kid-friendly Kindles are cheaper than ever ahead of October Prime Day",
-      "url": "https://www.theverge.com/tech/787249/amazon-kindle-kids-october-prime-day-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-29T15:30:00.000Z",
-      "summary_90w": "",
-      "raw": "Amazon’s Kindle Kids is currently on sale for $94.99 ($35 off).\t\n\nAmazon’s October Prime Day (officially called Prime Big Deal Days) starts on October 7th, but waiting a week won’t be necessary to score a great deal. Amazon has already discounted the Kindle Kids, Kindle Paperwhite Kids, and Kindle Colorsoft Kids e-readers to their lowest prices ever. All of the kid-friendly Kindles have 16GB of storage and are ad-free. They also come with a cover, expanded parental controls panel, six or twelve month subscription to Amazon Kids Plus, and two year “worry-free guarantee” that covers hardware replacements if they break. Both Best Buy and Target are price matching Amazon’s discounts in case you’d prefer to shop there. \nKindle Kids (2024)\nAmazon’s Kindle Kids is identical to the standard Kindle — meaning it packs a 300ppi display and support for USB-C charging — but comes with a case, an extended two-year warranty, and six months of Amazon Kids Plus.\n\nWhere to Buy:\n\n $129.99 $94.99 at Amazon\n $129.99 $94.99 at Best Buy\n $129.99 $94.99 at Target\n\nKicking things off, the latest Kindle Kids is marked down to $94.99 ($35 off) at Amazon, Best Buy, and Target. The e-reader has a six-inch e-ink display, with four built-in lights so kids can read in the dark. Its battery lasts up to six weeks per charge, but will drain more quickly when its screen brightness is turned up. The Amazon Parent Dashboard allows you to see which books your kid has read and how long they were reading for. You can also set daily screen time limits, share purchased content, and manage which books they can download from the Amazon Kids Plus library. \nThe Amazon Kids Plus service includes unlimited access to a library of age-appropriate books, audiobooks, and graphic novels, including titles from The Chronicles of Narnia and Diary of a Wimpy Kid series. If you want to continue a Kindle Kids subscription once the included membership expires, it’ll cost $5.99 per month ($48 per year) for Amazon Prime members, or $7.99 per month ($79 per year) for non-Prime Members.\nKindle Paperwhite Kids (2024)\nAmazon’s kid-friendly Paperwhite is the same as the standard Paperwhite, but it’s ad-free and comes with the added benefits of a two-year hardware protection plan, six months of Amazon Kids Plus, and a choice of three kid-friendly covers. \n\nWhere to Buy:\n\n $179.99 $134.99 at Amazon\n $179.99 $134.99 at Best Buy\n $179.99 $134.99 at Target\n\nThe newest Kindle Paperwhite Kids is the child-friendly version of our favorite e-reader, and it’s on sale for $134.99 ($45 off) at Amazon, Best Buy, and Target. It runs the same software as Amazon’s entry-level Kindle, but has many meaningful hardware improvements. The two most significant changes are its larger, seven-inch display, and a battery that lasts up to 12 weeks per charge.\nThe Kindle Paperwhite Kids has an IPX8 waterproof design, which means the e-reader can be submerged completely underwater without getting damaged. It’s the better choice for reading during bath time or at the beach. It also has an adjustable warm light, which can tint the screen amber to make it more comfortable to read at night. These hardware tweaks make the Kindle Paperwhite Kids a better choice for more voracious readers whose hands are big enough to handle the larger device comfortably. \nKindle Colorsoft Kids\nLike the standard model, Amazon’s kid-friendly Colorsoft comes with a seven-inch color display and waterproofing. The 16GB e-reader also offers parental controls, a two-year warranty, a protective cover, and a year of Amazon Kids Plus.\n\nWhere to Buy:\n\n $269.99 $209.99 at Amazon\n $269.99 $209.99 at Best Buy\n $269.99 $209.99 at Target\n\nThe newest Kindle Colorsoft Kids is Amazon’s latest kid-friendly e-reader, and the first one with a color display. Right now you can pick one up on sale for $209.99 ($60 off) at Amazon, Best Buy, and Target. The Kindle Colorsoft Kids hardware has a lot in common with Kindle Paperwhite Kids. It has a seven-inch screen, IPX8 waterproof design, and adjustable warm light. Its battery lasts eight weeks, which is a fair trade for its color screen. \nThe display makes illustrations in picture books and graphic novels look closer to their physical book counterparts than the grayscale versions on other Kindle models. The screen drops from 300ppi (pixels per inch) to 150ppi when reading in color, but a kid may not be as sensitive to that shift as an adult. Amazon also includes a twelve-month Amazon Kids Plus subscription with the Kindle Colorsoft Kids, which improves its value.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -908,19 +934,6 @@
       "published": "2025-09-29T15:00:32.000Z",
       "summary_90w": "",
       "raw": "In the worst case, entanglements could cause drowning, one expert says, but whales can also suffer long-term effects from the nets\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nScientists say a flourishing whale population that is swimming closer to shore and into the path of shark nets is contributing to the 50% increase in entanglements off Queensland’s coast this year.\nNine entanglements involving 12 whales have already occurred this year, compared with six on average, many off the Sunshine Coast. Eight whales were tangled in shark nets in 2024.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6915ffb89ccc52df719defbd156275ed236f00bf",
-      "title": "Australia’s Future Fund discloses huge profits from weapons manufacturers despite fierce criticisms of support for industry",
-      "url": "https://www.theguardian.com/australia-news/2025/sep/30/australias-future-fund-discloses-huge-profits-from-weapons-manufacturers-despite-fierce-criticisms-of-support-for-industry",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T15:00:31.000Z",
-      "summary_90w": "",
-      "raw": "Exclusive: Value of shares in eight companies rockets amid sharpest increase in military spend since cold war\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAustralia’s $250bn sovereign wealth fund has secured huge returns on investment in weapons and defence companies in less than two years, despite long-running criticism of its support for the industry.\nThe value of shares held in eight companies increased by $76m between October 2023 and June 2025 amid wars in the Middle East and Ukraine and the sharpest increase in military spending since the cold war.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1105,19 +1118,6 @@
       "raw": "Draft plan’s critics say it hands power to international figures and splits Gaza from Palestinian Authority in West Bank\nA plan for a postwar Gaza governing authority potentially headed by the former UK prime minister Tony Blair would sideline key Palestinian political figures, while giving significant authority to its chair on most key issues, according to a leaked confidential proposal.\nThe 21-page draft document, seen by the Guardian and Haaretz in Israel, envisions the governance and reconstruction of postwar Gaza being led by international officials, with Palestinians relegated to subsidiary roles. It also proposes a Gaza investment promotion and economic development authority involving “public-private partnerships and blended finance instruments” aimed at delivering “commercially viable returns” for investors.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "f0ecdec24cc68a898d3f1b8c521aa9478d9d2de7",
-      "title": "UK government bails out Jaguar Land Rover with £1.5B loan after hack disrupts vehicle production for weeks",
-      "url": "https://techcrunch.com/2025/09/29/uk-government-bails-out-jaguar-land-rover-with-1-5b-loan-after-hack-disrupts-vehicle-production-for-weeks/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-29T14:00:02.000Z",
-      "summary_90w": "",
-      "raw": "The Indian-owned carmaking giant will be bailed out after a cyberattack stalled car production and its downstream supply chain. Critics argue that the bailout sends the wrong message to hackers and crime groups.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1428,19 +1428,6 @@
       "published": "2025-09-28T23:57:57.000Z",
       "summary_90w": "",
       "raw": "With over a million cases pending, the Allahabad High court is one of India’s most overburdened courts.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ee10ff09657eb177744599df505f9e4379e2155e",
-      "title": "'I cried and cried': Post Office scandal victim left disabled by stress offered 15% of claim",
-      "url": "https://www.bbc.com/news/articles/cq5jqxjqj0eo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-28T23:48:03.000Z",
-      "summary_90w": "",
-      "raw": "Janet Skinner had a neurological collapse and was temporarily paralysed after her final court hearing.",
       "topics": [
         "World"
       ]
