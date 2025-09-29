@@ -1,7 +1,137 @@
 {
-  "version": "1759151295712",
-  "generatedAt": "2025-09-29T13:08:15.712Z",
+  "version": "1759153399990",
+  "generatedAt": "2025-09-29T13:43:19.990Z",
   "items": [
+    {
+      "id": "a8f0b6dac7a20b6c4d942c123ba289e344e091f0",
+      "title": "Marissa Mayer will close her old AI startup, sell assets to her new AI startup",
+      "url": "https://techcrunch.com/2025/09/29/marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-29T13:40:21.000Z",
+      "summary_90w": "",
+      "raw": "Former Yahoo CEO Marissa Meyer is closing the doors on her consumer software startup Sunshine, and is selling the company's assets to her new AI startup, Dazzle, Wired reported, citing an email sent to Sunshine's shareholders.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b7ebc9bba8f0e7cbc46fd8ca149c8d151942cd6e",
+      "title": "Microsoft launches ‘vibe working’ in Excel and Word",
+      "url": "https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-29T13:30:00.000Z",
+      "summary_90w": "",
+      "raw": "You’ve probably heard of vibe coding — novices writing apps by creating a simple AI prompt — but now Microsoft wants to introduce a similar thing for its Office apps. The software maker is launching a new Agent Mode in Excel and Word that can generate complex spreadsheets and documents with just a prompt. A new Office Agent in Copilot chat, powered by Anthropic models, is also launching today that can create PowerPoint presentations and Word documents from a “vibe working” chatbot.\n “Today we’re bringing vibe working to Microsoft 365 Copilot with Agent Mode in Office apps and Office Agent in Copilot chat,” says Sumit Chauhan, corporate vice president of Microsoft’s Office Product Group. “In the same way vibe coding has transformed software development, the latest reasoning models in Copilot unlock agentic productivity for Office artifacts.”\nAgent Model in Excel and Word is a more powerful version of the Copilot experience that Microsoft has added to its Office apps. It’s designed to make the complex parts of Excel more accessible to users that aren’t experts. “It’s not just simple assistive short answers, but board-ready presentations or documents,” Chauhan says. “It’s work, quite frankly, that a first-year consultant would do, delivered in minutes.”\nAgent Mode essentially takes a complex task and breaks it down with planning and reasoning that you can follow. It then uses OpenAI’s GPT-5 model to break down each step of document creation into an agentic task and execute it. It’s like watching an automated macro in real time, showing everything it’s doing in the sidebar.\nMicrosoft has taken a gradual approach to adding AI elements to Excel, particularly because the data it handles powers some of the most important parts of businesses worldwide. “[Agent Mode] lets you build sheets that are auditable, refreshable, and verifiable,” Chauhan says. “We have spent a ton of time making sure that the validation loop on all of these sub-agents is pretty tight.”\nMicrosoft says its Agent Mode in Excel has an accuracy rate of 57.2 percent in SpreadsheetBench, a benchmark for evaluating an AI model’s ability to edit real world spreadsheets. This result places Agent Mode above Shortcut.ai, ChatGPT agent with .xlsx support, and Claude Files Opus 4.1. It’s still behind the human accuracy of 71.3 percent, though.\nAgent Mode in Word goes beyond the existing writing, rewrite, and summarization AI features in Word. “Agent Mode in Word turns document creation into vibe writing, an interactive, conversational experience,” Chauhan says. It lets Copilot draft content, suggest refinements, and clarify what elements are needed during the process of document creation.\nYou can do things like create a monthly report with data from previous months and have Copilot summarize the highlights for the month and the differences from a previous report. “Copilot makes suggestions to keep the process flowing, so writing feels more like a dialogue than a task,” Chauhan says.\nMicrosoft’s new Office Agent will also be available outside of its Office apps via Copilot chat. Powered by Anthropic models, it can create full PowerPoint presentations or Word documents from a chat prompt. “PowerPoint is one of the most used tools for creating presentations, but over the last two years AI has often fallen short when creating slides,” Chauhan says. “Office Agent changes that.”\nOffice Agent can create fully structured PowerPoint decks, all while doing web-based research and providing a live preview of slides. Microsoft is hoping that it will help Office continue to differentiate itself from the magnitude of AI tools that are also trying to create documents, spreadsheets, and slide decks.\n“Productivity is our DNA, we’re Office,” Chauhan says. “While others will try to replicate us, there is no substitute for the real thing.”\nOffice Agent also marks another entry point for Anthropic AI models in Microsoft 365 apps and services. Microsoft already embraced the OpenAI rival to improve researcher, GitHub Copilot, and Copilot Studio recently, and now Anthropic’s AI models are able to produce Word and PowerPoint documents from Microsoft’s own Copilot chat interface.\n“We are committed to OpenAI, but we are starting to explore with the model family to understand the strength that different models bring and understand how we build the best composition for our products,” Chauhan says. “We are looking at the entire family of models, wherever cutting edge work happens.”\nWhile OpenAI models continue to power Microsoft’s AI work inside Office apps, it certainly feels like Anthropic’s models are inching closer to being a key part of Office apps like Word, PowerPoint, and Excel. Microsoft is using Anthropic’s API to bring these features to Copilot chat, which runs on cloud rival Amazon Web Services. That could be why we haven’t seen Anthropic’s AI models deeply woven into desktop Office apps yet.\nAgent Mode in Copilot for Excel and Word will both be available today in the Frontier program for Microsoft 365 Copilot customers or Microsoft 365 Personal / Family subscribers. Agent Model in Excel and Word is only available in the web versions at launch, with desktop support coming soon. Office Agent is also available today in the Frontier program for Microsoft 365 Copilot customers or Microsoft 365 Personal / Family subscribers in the US.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "18b71b34928650f7a2215a89aa81e33809fd3551",
+      "title": "Gaming giant Electronic Arts bought in unprecedented $55bn deal ",
+      "url": "https://www.bbc.com/news/articles/cn4w3jzx807o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-09-29T13:29:15.000Z",
+      "summary_90w": "",
+      "raw": "EA is known for making best-selling games such as EA FC, The Sims and Mass Effect.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "cccaaca00399556d73f28441323475a31968fa11",
+      "title": "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-29T13:20:49.000Z",
+      "summary_90w": "",
+      "raw": "US president to push Israeli prime minister to agree to new framework to end war in Gaza and free remaining hostages held by Hamas\nTrump officials to announce plan to boost coal output\nThe US is set to announce on Monday policies to try to boost the output of coal, the interior department said, as the Trump administration seeks to reverse the decline of the fossil fuel’s use.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a34d2b91f54f04c9784e9fa197d02ffffadaecde",
+      "title": "Inquest opened into death of former Liverpool boss Beard",
+      "url": "https://www.bbc.com/sport/football/articles/cwyrvndg9eyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-29T13:19:06.000Z",
+      "summary_90w": "",
+      "raw": "Former Liverpool women manager Matt Beard was found hanged at his home, a coroner's court hearing is told.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "cbd2ea9311438656b27b8d03afeb2b533922056b",
+      "title": "England's Woakes retires from international cricket",
+      "url": "https://www.bbc.com/sport/cricket/articles/cly1xz5zq7ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-29T13:17:40.000Z",
+      "summary_90w": "",
+      "raw": "England all-rounder Chris Woakes says \"the moment has come\" for him to retire from international cricket.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bf3b31db9033144ccf6d94031be16e2607f9b39f",
+      "title": "South Sudan court rejects ex-VP's bid to halt murder and treason trial",
+      "url": "https://www.bbc.com/news/articles/ckg3088dqw5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-29T13:15:36.000Z",
+      "summary_90w": "",
+      "raw": "The special court rules that Riek Machar is not immune from prosecution and it can put him on trial.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ba2a2a01496ce4d76a05674ec2906cee21f0a8c9",
+      "title": "Army sent to battle fire in Namibia tourist hotspot",
+      "url": "https://www.bbc.com/news/articles/c9wdne7kdw8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-29T13:10:33.000Z",
+      "summary_90w": "",
+      "raw": "Etosha National Park is home to endangered black rhinos and more than 100 diverse mammal species.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d5f9aefb174ec8d2d0fc61d1bafff0ec4afe75c9",
+      "title": "The pro-European party won Moldova’s election but obstacles to join the EU remain",
+      "url": "https://www.theguardian.com/world/2025/sep/29/pro-european-party-won-moldovas-election-but-obstacles-to-join-the-eu-remain",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-29T13:06:53.000Z",
+      "summary_90w": "",
+      "raw": "Russia’s campaign to amplify societal distrust continues as membership talks have stalled\nIn the end, the results were better than Moldova’s western allies had dared hope. In Sunday’s parliamentary elections, the pro-EU party of president Maia Sandu won a convincing victory, confirming the westward path of this former Soviet republic of 2.4 million people.\nWith nearly all votes counted, Sandu’s ruling Action and Solidarity party had secured 50.03% of the vote, compared with 24.26% for the pro-Russian Patriotic bloc. The solid win came despite widespread reports of Russian meddling and a series of shocks that could have toppled any incumbent government.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ee50e3859a42219a7f8b6d91ccbc3cdc9eae7ff8",
+      "title": "Hybrid attacks such as drones ‘part of our new reality’, Danish justice minister warns – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/29/moldova-voters-pro-eu-government-russia-drones-europe-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-29T13:05:43.000Z",
+      "summary_90w": "",
+      "raw": "Peter Hummelgaard compared recent spate of hybrid attacks on Europe to 9/11 terrorism\nBut Zelenskyy also warns about the worsening situation in Georgia and Belarus.\n“That is why we cannot afford to lose a single day or a single country. After Moldova’s election, we must keep supporting Moldova. The hardest task is to meet voters’ expectations,” he says.\nRussia failed to destabilise Moldova, even after spending huge, huge resources to undermine it and to corrupt whoever they could.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "b7e8cc3d24543c2f85810464f6eaa38ff3b6d8cc",
       "title": "The startup behind open source tool Polars raises $21M from Accel",
@@ -29,14 +159,14 @@
       ]
     },
     {
-      "id": "cccaaca00399556d73f28441323475a31968fa11",
-      "title": "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T12:54:26.000Z",
+      "id": "91cdd4ee5f5d85bfa4df944b52b522263d9e693d",
+      "title": "JK Rowling dismisses Emma Watson as 'ignorant' over trans rights row",
+      "url": "https://www.bbc.com/news/articles/cr7012ryvyyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-29T12:59:16.000Z",
       "summary_90w": "",
-      "raw": "US president to push Israeli prime minister to agree to new framework to end war in Gaza and free remaining hostages held by Hamas\nTrump officials to announce plan to boost coal output\nThe US is set to announce on Monday policies to try to boost the output of coal, the interior department said, as the Trump administration seeks to reverse the decline of the fossil fuel’s use.\n Continue reading...",
+      "raw": "\"Emma has so little experience of real life she's ignorant of how ignorant she is,\" Rowling writes.",
       "topics": [
         "World"
       ]
@@ -49,48 +179,9 @@
       "source_name": "The Verge",
       "published": "2025-09-29T12:51:27.000Z",
       "summary_90w": "",
-      "raw": "Electronic Arts has announced it is being acquired and taken private in a $55 billion deal involving Silver Lake, Saudi Arabia’s Public Investment Fund, and Affinity Partners, which is founded and led by Donald Trump’s son-in-law, Jared Kushner. \nThe deal is expected to close in the first quarter of 2027 and is still subject to approval by regulators and EA stockholders.\nThe transaction was approved by EA’s Board of Directors, is expected to close in Q1 FY27 and is subject to customary closing conditions, including receipt of required regulatory approvals and approval by EA stockholders. Following the close of the transaction, EA’s common stock will no longer be listed on any public market.\nThe transaction will be funded by a combination of cash from each of PIF, Silver Lake, and Affinity Partners as well as roll-over of PIF’s existing stake in EA, constituting an equity investment of approximately $36 billion, and $20 billion of debt financing fully and solely committed by JPMorgan Chase Bank, N.A., $18 billion of which is expected to be funded at close. Each of PIF, Silver Lake, and Affinity Partners plan to fund the equity component of the financing entirely from capital under their respective control.\nUpon completion of the transaction, EA will remain headquartered in Redwood City, California and continue to be led by Andrew Wilson as CEO.\nPIF, which already holds a nearly 10 percent stake in EA and has also poured money into Affinity Partners, also invests in other gaming giants like Nintendo, Take-Two Interactive, and Capcom. \n“Our creative and passionate teams at EA have delivered extraordinary experiences for hundreds of millions of fans, built some of the world’s most iconic IP, and created significant value for our business. This moment is a powerful recognition of their remarkable work,” said EA CEO Andrew Wilson. \nDeveloping…",
+      "raw": "Electronic Arts has announced it is being acquired and taken private in a $55 billion deal involving Silver Lake, Saudi Arabia’s Public Investment Fund, and Affinity Partners, which is founded and led by Donald Trump’s son-in-law, Jared Kushner. \nThe deal is expected to close in the first quarter of 2027 and is still subject to approval by regulators and EA stockholders. If approved, it will mark one of the biggest buyouts of a publicly traded company.\nThe transaction was approved by EA’s Board of Directors, is expected to close in Q1 FY27 and is subject to customary closing conditions, including receipt of required regulatory approvals and approval by EA stockholders. Following the close of the transaction, EA’s common stock will no longer be listed on any public market.\nThe transaction will be funded by a combination of cash from each of PIF, Silver Lake, and Affinity Partners as well as roll-over of PIF’s existing stake in EA, constituting an equity investment of approximately $36 billion, and $20 billion of debt financing fully and solely committed by JPMorgan Chase Bank, N.A., $18 billion of which is expected to be funded at close. Each of PIF, Silver Lake, and Affinity Partners plan to fund the equity component of the financing entirely from capital under their respective control.\nUpon completion of the transaction, EA will remain headquartered in Redwood City, California and continue to be led by Andrew Wilson as CEO.\nPIF, which already holds a nearly 10 percent stake in EA and has also poured money into Affinity Partners, also invests in other gaming giants like Nintendo, Take-Two Interactive, and Capcom. The companies announced the agreement just days before EA plans to launch Battlefield 6 on October 10th.\nLike other game publishers, EA’s business has experienced some turbulence in recent months, with the company laying off staff and canceling upcoming Titanfall and Black Panther titles. EA also said in January that Dragon Age: The Veilguard “underperformed” expectations.\n“Our creative and passionate teams at EA have delivered extraordinary experiences for hundreds of millions of fans, built some of the world’s most iconic IP, and created significant value for our business. This moment is a powerful recognition of their remarkable work,” said EA CEO Andrew Wilson.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "ee50e3859a42219a7f8b6d91ccbc3cdc9eae7ff8",
-      "title": "Putin ‘does not want a ceasefire and does not want peace for Ukraine’, says German defence minister – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/29/moldova-voters-pro-eu-government-russia-drones-europe-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T12:36:56.000Z",
-      "summary_90w": "",
-      "raw": "Boris Pistorius says Europe ‘will not be lured into Putin’s trap of continuous escalation’\nBut Zelenskyy also warns about the worsening situation in Georgia and Belarus.\n“That is why we cannot afford to lose a single day or a single country. After Moldova’s election, we must keep supporting Moldova. The hardest task is to meet voters’ expectations,” he says.\nRussia failed to destabilise Moldova, even after spending huge, huge resources to undermine it and to corrupt whoever they could.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "bf3b31db9033144ccf6d94031be16e2607f9b39f",
-      "title": "South Sudan court rejects ex-VP's bid to halt murder and treason trial",
-      "url": "https://www.bbc.com/news/articles/ckg3088dqw5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-29T12:34:34.000Z",
-      "summary_90w": "",
-      "raw": "The special court rules that Riek Machar is not immune from prosecution and it can put him on trial.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cbd2ea9311438656b27b8d03afeb2b533922056b",
-      "title": "England's Woakes retires from international cricket",
-      "url": "https://www.bbc.com/sport/cricket/articles/cly1xz5zq7ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-29T12:30:31.000Z",
-      "summary_90w": "",
-      "raw": "England all-rounder Chris Woakes says \"the moment has come\" for him to retire from international cricket.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -120,6 +211,19 @@
       ]
     },
     {
+      "id": "1d181cd65a7776cee757a6cca8efd6e8f86a0a15",
+      "title": "Demon Slayer star says anime film's success is mind-blowing",
+      "url": "https://www.bbc.com/news/articles/cqje8v2dp7do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-09-29T12:28:59.000Z",
+      "summary_90w": "",
+      "raw": "Zach Aguilar, who voices main character Tanjiro, says Infinity Castle is a \"cultural phenomenon\".",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
       "id": "87398c01fc9c929672bb6129c591ac9a95a8f24c",
       "title": "Met officers could have to reveal Freemason ties",
       "url": "https://www.bbc.com/news/articles/cqxzdppdd48o?at_medium=RSS&at_campaign=rss",
@@ -140,7 +244,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-29T12:19:09.000Z",
       "summary_90w": "",
-      "raw": "Motion backed by unions calls for tougher action, including trade suspension, to end risk of UK complicity\n\nUK politics live – latest updates\n\nThe Labour conference will vote on whether it believes Israel is committing a genocide in Gaza and whether the the UK-Israel trade agreement should be suspended in what could become a significant conference showdown.\nLabour members are preparing to use the vote on Monday to highlight their unease with the government’s refusal to conclude that Israel is committing a genocide in Gaza.\n Continue reading...",
+      "raw": "Motion backed by unions calls for tougher action, including trade suspension, to end risk of UK complicity\n\nUK politics live – latest updates\n\nThe Labour conference will vote on whether it believes Israel is committing a genocide in Gaza and whether the UK-Israel trade agreement should be suspended in what could become a significant conference showdown.\nLabour members are preparing to use the vote on Monday to highlight their unease with the government’s refusal to conclude that Israel is committing a genocide in Gaza.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -212,7 +316,7 @@
     },
     {
       "id": "dfeb8bc0be24d2efbd79ee4f95ad3be7d8296e3c",
-      "title": "Doctors' union warning over online booking safety risk",
+      "title": "Delay online GP booking system or risk patient safety, doctors' union warns",
       "url": "https://www.bbc.com/news/articles/cqje8dljz7eo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -297,19 +401,6 @@
       "published": "2025-09-29T11:18:52.000Z",
       "summary_90w": "",
       "raw": "They were one of four families who turned a Myanmar town into a hub for gambling, drugs and scam centres.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ba2a2a01496ce4d76a05674ec2906cee21f0a8c9",
-      "title": "Army sent to battle fire in Namibia tourist hotspot",
-      "url": "https://www.bbc.com/news/articles/c9wdne7kdw8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-29T11:17:09.000Z",
-      "summary_90w": "",
-      "raw": "Etosha National Park is home to endangered black rhinos and more than 100 diverse mammal species.",
       "topics": [
         "World"
       ]
@@ -653,19 +744,6 @@
       ]
     },
     {
-      "id": "f1f9e80e45eae6a758fadccd74997e495ae82fbf",
-      "title": "Dolly Parton postpones shows over 'health challenges'",
-      "url": "https://www.bbc.com/news/articles/cq5j9leynwlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-29T07:43:19.000Z",
-      "summary_90w": "",
-      "raw": "The star delays her Las Vegas residency by almost a year, saying she needs \"multiple procedures\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1878af84076171eb4bc6b96123e4a2174d4a5537",
       "title": "Four teens arrested after car chase ends at Bourke Street mall in Melbourne CBD",
       "url": "https://www.theguardian.com/australia-news/2025/sep/29/four-teens-arrested-after-car-chase-ends-at-bourke-street-mall-in-melbourne-cbd-ntwnfb",
@@ -757,19 +835,6 @@
       ]
     },
     {
-      "id": "dcd666d5311e5f14144be6a8e787fe6ba4014e81",
-      "title": "Ryder Cup fan behaviour unacceptable - McIlroy",
-      "url": "https://www.bbc.com/sport/golf/articles/c1jzkjkd283o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-29T05:40:34.000Z",
-      "summary_90w": "",
-      "raw": "Rory McIlroy hits out at the \"unacceptable and abusive behaviour\" at the Ryder Cup after his wife Erica is hit by a drink thrown by an American fan.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "431d4614678e7ff0638406697486f0914a19de8a",
       "title": "'Soul gone' from Man Utd - Rooney has 'no faith' in Amorim",
       "url": "https://www.bbc.com/sport/football/articles/c147m6jlz50o?at_medium=RSS&at_campaign=rss",
@@ -843,19 +908,6 @@
       "published": "2025-09-29T04:30:31.000Z",
       "summary_90w": "",
       "raw": "Eliza Manningham-Buller points to extent of cyber-attacks and other hostile activity orchestrated by Moscow\nBritain may already be at war with Russia because of the depth and intensity of cyber-attacks, sabotage and other hostile activity orchestrated by Moscow against the UK, according to a former head of MI5.\nEliza Manningham-Buller, who led the domestic spy agency two decades ago, said she agreed with comments made by the Russia expert Fiona Hill, who argued in a Guardian interview earlier this year that Moscow was at war with the west.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8c35353bf649dbbd869f707b18f4675d4fe1212a",
-      "title": "Environmental damage is putting European way of life at risk, says report",
-      "url": "https://www.theguardian.com/environment/2025/sep/29/environmental-damage-is-putting-european-way-of-life-at-risk-says-report",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T04:00:30.000Z",
-      "summary_90w": "",
-      "raw": "EU officials warn climate breakdown and wildlife loss ‘are ruining ecosystems that underpin the economy’\nThe European way of life is being jeopardised by environmental degradation, a report has found, with EU officials warning against weakening green rules.\nThe continent has made “important progress” in cutting planet-heating pollution, according to the European Environment Agency, but the death of wildlife and breakdown of the climate are ruining ecosystems that underpin the economy.\nMore than 80% of protected habitats are in a poor or bad state, with “unsustainable” consumption and production patterns driving loss of wildlife.\nThe EU’s “carbon sink” has declined by about 30% in a decade as logging, wildfires and pests damage forests.\nEmissions from transport and food have barely budged since 2005, despite progress in other sectors.\nMember states have failed to adapt to extreme weather as fast as risk levels have risen.\nWater stress already affects one in three Europeans and will worsen as the climate changes.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1303,19 +1355,6 @@
       ]
     },
     {
-      "id": "ad645a06ecdf7c9e6b59255676c0e557b973d88f",
-      "title": "How generative AI boosters are trying to break into Hollywood",
-      "url": "https://www.theverge.com/column/785975/hollywood-ai-stepback",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-28T12:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A still from the Critterz short film.\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the intersection of entertainment and technology, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nIn just a few short years, text-to-image models went from only being able to churn out smudgy, \"dreamlike\" approximations of their input to producing detailed visualizations of whatever you describe. As the AI image generators got better, text-to-video models like Runway's Gen series, Meta's Make-A-Video, and Google's Veo also came into their own. Now …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "1e5d483c93cd3266b62cf6fb5c89712a0569b39f",
       "title": "​​Labour Conference: Starmer Calls Reform Plans Racist",
       "url": "https://www.bbc.co.uk/sounds/play/p0m5hgn7?at_medium=RSS&at_campaign=rss",
@@ -1571,19 +1610,6 @@
       "published": "2025-09-26T20:27:32.000Z",
       "summary_90w": "",
       "raw": "The criminals say they will share 30 more profiles along with 100 employees' data if a ransom is not paid.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "05baeabf703d7275e7a811afa8e71faa180b0597",
-      "title": "Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025",
-      "url": "https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-26T20:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Lauri Moore (Bessemer), David Cramer (Sentry), and Zach Lloyd (Warp) join the Builders Stage at TechCrunch Disrupt 2025 to debate what founders really need from their first engineering hires — and how AI tooling fits into the equation.",
       "topics": [
         "Technology"
       ]
@@ -2182,32 +2208,6 @@
       "published": "2025-09-16T09:44:20.000Z",
       "summary_90w": "",
       "raw": "Google's president and chief investment officer Ruth Porat tells the BBC there are \"profound opportunities in the UK\".",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "b6b662516d0d0971669ae05d80a09575d7d5b78d",
-      "title": "Musk buys $1bn worth of Tesla shares ",
-      "url": "https://www.bbc.com/news/articles/cp982z3xrz7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-09-15T14:53:37.000Z",
-      "summary_90w": "",
-      "raw": "The purchases, the billionaire's first since 2020, boost his investment in the firm.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "c24c7a78c8475e4474ac8efb6a0e77ac76537605",
-      "title": "Gucci, Balenciaga and Alexander McQueen private data ransomed by hackers",
-      "url": "https://www.bbc.com/news/articles/crl5j8ld615o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-09-15T14:07:37.000Z",
-      "summary_90w": "",
-      "raw": "Kering, the luxury French fashion house which owns the brands, confirmed the attack to BBC News.",
       "topics": [
         "Technology"
       ]
