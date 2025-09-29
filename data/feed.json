@@ -1,7 +1,85 @@
 {
-  "version": "1759168310642",
-  "generatedAt": "2025-09-29T17:51:50.642Z",
+  "version": "1759170069587",
+  "generatedAt": "2025-09-29T18:21:09.587Z",
   "items": [
+    {
+      "id": "f9514087e7388d83a8a0b576801ef29f0ab3af3b",
+      "title": "RidePods is the first iPhone game you control with AirPods",
+      "url": "https://www.theverge.com/news/787396/ride-pods-race-with-head-apple-airpods-spatial-audio-motion-controls",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-29T18:16:22.000Z",
+      "summary_90w": "",
+      "raw": "Weave through traffic by just moving your head from side to side. | Image: Apple\t\n\nDeveloper Ali Tanis has released the first game for iPhones and iPads that’s played using Apple’s AirPods as a wearable motion controller. The RidePods – Race with Head gameplay is relatively basic – you’re just steering a motorcycle through oncoming traffic at high speeds – but instead of swiping the screen or tiling your phone, you control the bike’s movements by tilting your head from side-to-side while wearing AirPods.\nThe game only works with Apple’s wireless headphones that support Spatial Audio including the AirPods Pro, the AirPods Max, and the third and fourth generation AirPods. Spatial Audio relies on the accelerometer and gyroscope included in those AirPods models to track the movements of your head and adjust the position of the audio accordingly. Tanis announced the game’s release on Y Combinator and while they said they had to reverse engineer the Spatial Audio feature to make their game work, Apple does provide developers with access to headphone motion data so they can incorporate features like fitness tracking into their apps.\nRidePods isn’t the most polished iOS or iPadOS game I’ve ever played. There are random graphical glitches such as the road occasionally disappearing, and from the limited amount of time I’ve spent dodging traffic it appears that you’re racing on a perfect straightaway that never curves. It feels more like a tech demo than a fully realized game, but the controls are surprisingly nuanced. I tested it with the second generation AirPods Pro and the AirPods Max and using my head to steer felt both more natural and responsive than I thought it would be. \nThe bike responds well to subtle movements, even when using just a single AirPod earbud. If you turn off Automatic Head or Ear Detection in your AirPods’ settings, you can even use your headphones or a single AirPods earbud as a handheld controller, but it requires a lot more finesse with your movements and definitely ups the challenge.\nThe app includes a setting for controlling the motorcycle’s braking and acceleration by tilting your head forwards and back, but I couldn’t detect that having any discernible effect on the bike’s speed. You can also toggle between a first-person and third-person view of the riderless motorcycle, and for those wanting to share their high scores with the world, the app includes a record function that captures both the gameplay and a selfie video of you playing in a single clip.\nRidePods – Race with Head isn’t a game I’m going to return to frequently, but I can see the potential of using headphone motion controls for mobile gaming. It’s completely free, but I would definitely pay a tidy sum for a hands-free version of Solitaire that lets me move around stacks of cards using nothing but subtle head gestures and motions.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "cccaaca00399556d73f28441323475a31968fa11",
+      "title": "White House says Netanyahu ‘expressed deep regret’ that Israeli strike on Doha killed Qatari serviceman – live",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-29T18:06:01.000Z",
+      "summary_90w": "",
+      "raw": "Trump hosted phone call between US, Israel and Qatar before holding press conference alongside Benjamin Netanyahu at the White House\nTrump officials to announce plan to boost coal output\nThe US is set to announce on Monday policies to try to boost the output of coal, the interior department said, as the Trump administration seeks to reverse the decline of the fossil fuel’s use.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d870ec8e1fbaeb689ffe007bdff574dcb02023d8",
+      "title": "Vibe coding Anything nabs a $100M valuation, after hitting $2M ARR in its first two weeks",
+      "url": "https://techcrunch.com/2025/09/29/vibe-coding-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-29T17:55:29.000Z",
+      "summary_90w": "",
+      "raw": "Anything raised an $11 million funding round led by Footwork.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f8defdefd3dbcab0f89a89a4c4c9fc4e67ac6e9d",
+      "title": "Two more years? Europe captain Donald not ruling out third term",
+      "url": "https://www.bbc.com/sport/golf/articles/cx2x4v79yv1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-29T17:55:05.000Z",
+      "summary_90w": "",
+      "raw": "Luke Donald will \"think about\" being European Ryder Cup captain again, but says he will not \"rush into a decision\" after Sunday's victory in New York.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e1fdf91918ecf1916a836c381eb4cd8a80bf9b8c",
+      "title": "Investigators search for motive in deadly Michigan church attack",
+      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-29T17:50:31.000Z",
+      "summary_90w": "",
+      "raw": "Officials have interviewed more than 100 people as they work to establish why a gunman attacked a church and set it on fire.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9ee560a19323e1a6fe227bbcbbd8e77d64527edb",
+      "title": "Eleven arrested for placing pigs’ heads near French mosques and other hate crimes",
+      "url": "https://www.theguardian.com/world/2025/sep/29/eleven-arrested-for-placing-pigs-heads-near-french-mosques-and-other-hate-crimes",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-29T17:49:06.000Z",
+      "summary_90w": "",
+      "raw": "Serbian nationals also accused by Serbian police of defacing Jewish sites, as French officials investigate foreign interference\nSerbian police have arrested 11 people, accusing them of “inciting hatred” in France and Germany, and linking them to acts that include placing pigs’ heads near mosques and defacing Jewish sites.\nThe arrests came days after French prosecutors said foreign interference was probably to blame for a spate of provocative acts that had targeted Jewish and Muslim sites in France in recent years, as tensions run high over the war in Gaza. French officials have previously said they were investigating Russia’s role in destabilising operations that have stoked social tensions and sown division in France.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "c28cd6d08bcb21255f35bc488bd0a7e6dfe0c57e",
       "title": "Comic Cristela Alonzo grew up in fear of border patrol. ICE has 'brought it all back'",
@@ -11,19 +89,6 @@
       "published": "2025-09-29T17:42:08.000Z",
       "summary_90w": "",
       "raw": "For the first seven years of her life, Alonzo lived in an abandoned diner in a south Texas border town. Her new Netflix stand-up special is called Upper Classy.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cccaaca00399556d73f28441323475a31968fa11",
-      "title": "Donald Trump ‘very confident’ ceasefire deal can be reached as he meets Benjamin Netanyahu – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T17:38:41.000Z",
-      "summary_90w": "",
-      "raw": "US president to push Israeli prime minister to agree to new framework to end war in Gaza and free remaining hostages held by Hamas\nTrump officials to announce plan to boost coal output\nThe US is set to announce on Monday policies to try to boost the output of coal, the interior department said, as the Trump administration seeks to reverse the decline of the fossil fuel’s use.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -186,13 +251,13 @@
     },
     {
       "id": "26e8145227a325e1e003c0079067e76a1fbd5389",
-      "title": "Michigan church attacker was a Marine Corps veteran, military officials say",
+      "title": "Police say 'everyone has been accounted for' in Michigan church attack that killed 4",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5556928/thomas-jacob-sanford-michigan-church-shooting",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-09-29T16:36:09.000Z",
       "summary_90w": "",
-      "raw": "Thomas Jacob Sanford served in the Marines from 2004 to 2008, military officials confirmed to NPR. He was killed in a shootout with police.",
+      "raw": "The suspect, Thomas Jacob Sanford, served in the Marines from 2004 to 2008, military officials confirmed to NPR. He was killed in a shootout with police.",
       "topics": [
         "World"
       ]
@@ -258,6 +323,19 @@
       "published": "2025-09-29T16:15:29.000Z",
       "summary_90w": "",
       "raw": "President Trump is expected to press Israeli Prime Minister Benjamin Netanyahu to accept a new plan to end the war in Gaza during a meeting at the White House on Monday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6c58c3ad2eb43b6c206c3432980db07e3a292c9a",
+      "title": "UN experts condemn 'staggering scale' of executions in Iran",
+      "url": "https://www.bbc.com/news/articles/cvgn078zlgro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-29T16:02:08.000Z",
+      "summary_90w": "",
+      "raw": "More than 1,000 executions were recorded during the first nine months of 2025 - already surpassing last year's total.",
       "topics": [
         "World"
       ]
@@ -673,7 +751,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-29T14:02:50.000Z",
       "summary_90w": "",
-      "raw": "Motion backed by unions calls for tougher action, including trade suspension, to end risk of UK complicity\n\nUK politics live – latest updates\n\nThe Labour conference will vote on whether it believes Israel is committing a genocide in Gaza and whether the UK-Israel trade agreement should be suspended in what could become a significant conference showdown.\nLabour members are preparing to use the vote on Monday to highlight their unease with the government’s refusal to conclude that Israel is committing a genocide in Gaza.\n Continue reading...",
+      "raw": "Motion backed by unions calls for tougher action, including trade suspension, to end risk of UK complicity\nThe Labour conference will vote on whether it believes Israel is committing a genocide in Gaza and whether the UK-Israel trade agreement should be suspended in what could become a significant conference showdown.\nLabour members are preparing to use the vote on Monday to highlight their unease with the government’s refusal to conclude that Israel is committing a genocide in Gaza.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -744,32 +822,6 @@
       ]
     },
     {
-      "id": "e1fdf91918ecf1916a836c381eb4cd8a80bf9b8c",
-      "title": "Death toll rises to four after Michigan church shooting and arson attack",
-      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-29T13:58:52.000Z",
-      "summary_90w": "",
-      "raw": "The attacker drove a vehicle into the church during a service and opened fire, before being killed himself.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "92941f724836c95f9c4883d16dd03c341eaf66c6",
-      "title": "Google&#8217;s gradient &#8216;G&#8217; logo is rolling out everywhere",
-      "url": "https://www.theverge.com/news/787176/google-new-logo-gradient-launch",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-29T13:53:46.000Z",
-      "summary_90w": "",
-      "raw": "Google’s old logo (left) vs. its new one (right)﻿ | Image: Google\t\n\nGoogle is making the gradient “G” its new company-wide logo, according to an announcement on Monday. The new logo first began to surface across the Google app on Android and iOS in May, but soon, the design will begin to appear across all of the company’s platforms, marking Google’s first big logo change in 10 years.\nGoogle separated the red, yellow, green, and blue in the colorful “G” logo it introduced in 2015. The new logo blends everything together and makes the four colors brighter, bringing the design in line with its gradient Gemini logo. Google says the change reflects its “evolution in the AI era.”\nAlong with a new “G,” Google also quietly updated its Google Home logo to match its new look. Google says the design will start rolling out more widely in the “coming months,” which means you may soon start seeing the gradient look make its way across its other apps, too, like Gmail, Drive, Meet, and Calendar.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "a8f0b6dac7a20b6c4d942c123ba289e344e091f0",
       "title": "Marissa Mayer will close her old AI startup, sell assets to her new AI startup",
       "url": "https://techcrunch.com/2025/09/29/marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup/",
@@ -791,19 +843,6 @@
       "published": "2025-09-29T13:19:06.000Z",
       "summary_90w": "",
       "raw": "The inquest into the death of former Liverpool boss Matt Beard has opened in Ruthin, North Wales.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cbd2ea9311438656b27b8d03afeb2b533922056b",
-      "title": "England's Woakes retires from international cricket",
-      "url": "https://www.bbc.com/sport/cricket/articles/cly1xz5zq7ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-29T13:17:40.000Z",
-      "summary_90w": "",
-      "raw": "England all-rounder Chris Woakes says \"the moment has come\" for him to retire from international cricket.",
       "topics": [
         "World"
       ]
@@ -960,19 +999,6 @@
       "published": "2025-09-29T11:26:12.000Z",
       "summary_90w": "",
       "raw": "The Spanish area where 230 people were killed in 2024 has been struck again by bad weather.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0cb990c5fe1f189c9bf827a0485df95e51ed73d3",
-      "title": "Trump to push new peace plan in talks with Netanyahu",
-      "url": "https://www.bbc.com/news/articles/cvgr092lnyyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-29T11:20:37.000Z",
-      "summary_90w": "",
-      "raw": "The US president has talked up prospects of an agreement, but Netanyahu said it was not finalised - and Hamas say they haven't been sent the proposal.",
       "topics": [
         "World"
       ]
@@ -1187,19 +1213,6 @@
     },
     {
       "id": "3e61909ee63d6ed8c2419bb255153f5ea898596d",
-      "title": "'In Donald we trust' - how Europe's 'best-ever captain' masterminded win",
-      "url": "https://www.bbc.com/sport/golf/articles/cdjzm0p3gjdo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-29T07:26:31.000Z",
-      "summary_90w": "",
-      "raw": "Victorious European captain Luke Donald has led the team to a rare Ryder Cup win on American soil - this is how he did it.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3e61909ee63d6ed8c2419bb255153f5ea898596d",
       "title": "How Europe's 'best-ever captain' masterminded Ryder Cup win",
       "url": "https://www.bbc.com/sport/golf/articles/cdjzm0p3gjdo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
@@ -1220,19 +1233,6 @@
       "published": "2025-09-29T07:02:26.000Z",
       "summary_90w": "",
       "raw": "With claims of a 'two-tier system', could it be that these drugs are exacerbating health inequalities?",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b6ea1da264fbe48c5e93b6c31d8f07ca8367eeaa",
-      "title": "Moldova’s pro-European party retains majority in key election",
-      "url": "https://www.theguardian.com/world/2025/sep/28/moldova-heads-to-the-polls-in-tense-vote-that-could-steer-country-closer-to-eu-or-russia",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T05:48:17.000Z",
-      "summary_90w": "",
-      "raw": "PAS garners 50.03% of vote after more than 99.5% of ballots counted in poll deciding whether country steers closer to EU or Russia\nMoldova’s ruling pro-European party has retained its parliamentary majority after Sunday’s pivotal election, seen as a test of the president’s push to keep the country of 2.4 million on track for EU membership rather than drifting back towards Moscow.\nWith more than 99.5% of the ballots counted, Maia Sandu’s pro-western Action and Solidarity party (PAS) garnered 50.03% of the vote to elect members of the 101-seat parliament.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1300,19 +1300,6 @@
       "raw": "PM Christopher Luxon had suggested recognition was only a matter of time, prompting disappointment from opposition parties and activists\nOpposition parties, Palestinian groups and a former prime minister have expressed dismay over New Zealand’s decision not to recognise Palestinian statehood, saying it places the country on the wrong side of history and puts it at odds with its traditional allies.\nLast week, the UK, Canada, Australia and others formally declared their recognition of statehood ahead of a special UN conference in New York. As of this month, 157 of the 193 UN member countries have recognised a Palestinian state.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "75515aa759f92643b7767b8ea68657a27691428c",
-      "title": "The AI services transformation may be harder than VCs think",
-      "url": "https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-29T01:20:12.000Z",
-      "summary_90w": "",
-      "raw": "Early warning signs suggest this whole services-industry metamorphosis may be more complicated than VCs anticipate.",
-      "topics": [
-        "Technology"
       ]
     },
     {
