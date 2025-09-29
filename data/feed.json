@@ -1,14 +1,53 @@
 {
-  "version": "1759186320469",
-  "generatedAt": "2025-09-29T22:52:00.469Z",
+  "version": "1759187664871",
+  "generatedAt": "2025-09-29T23:14:24.871Z",
   "items": [
+    {
+      "id": "361ae07f503f14e4971c4e82547e587a055fa997",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "url": "https://www.bbc.com/sport/football/articles/cp3qlq3x24wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-29T23:03:30.000Z",
+      "summary_90w": "",
+      "raw": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bcb81c1b9a7636ea3eff788e792c54cd22960665",
+      "title": "SB 53, the landmark AI transparency bill, is now law in California",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-29T23:01:43.000Z",
+      "summary_90w": "",
+      "raw": "Senate Bill 53, the landmark AI transparency bill that has divided AI companies and made headlines for months, is now officially law in California. \nOn Monday, California governor Gavin Newsom signed the “Transparency in Frontier Artificial Intelligence Act,” which was authored by Senator Scott Wiener (D-San Francisco). It’s the second draft of such a bill, as Newsom vetoed the first version — SB 1047 — last year due to concerns it was too strict and could stifle AI innovation in the state. It would have required all AI developers, especially makers of models with training costs of $100 million or more, to test for specific risks. After the veto, Newsom tasked AI researchers with coming up with an alternative, which was published in the form of a 52-page report — and formed the basis of SB 53. \nSome of the researchers’ recommendations made it into SB 53, like requiring large AI companies to reveal their safety and security processes, allowing for whistleblower protections for employees at AI companies, and sharing information directly with the public for transparency purposes. But some aspects didn’t make it into the report — like third-party evaluations. \nAs part of the bill, large AI developers will need to “publicly publish a framework on [their] website describing how the company has incorporated national standards, international standards, and industry-consensus best practices into its frontier AI framework,” per a release. Any large AI developer that makes an update to its safety and security protocol will also need to publish the update, and its reasoning for it, within 30 days. But it’s worth noting this part isn’t necessarily a win for AI whistleblowers and proponents of regulation. Many AI companies that lobby against regulation propose voluntary frameworks and best practices — which can be seen guidelines rather than rules, with few, if any, penalties attached. \nThe bill does create a new way for both AI companies and members of the public to “report potential critical safety incidents to California’s Office of Emergency Services,” per the release, and “protects whistleblowers who disclose significant health and safety risks posed by frontier models, and creates a civil penalty for noncompliance, enforceable by the Attorney General’s office.” The release also said that the California Department of Technology would recommend updates to the law every year “based on multistakeholder input, technological developments, and international standards.”\nAI companies were divided on SB 53, though most were initially either publicly or privately against the bill, saying it would drive companies out of California. They knew the stakes: With nearly 40 million residents of California and a handful of AI hubs, the state has outsized influence on the AI industry and how it will be regulated. \nSB 53 had been publicly endorsed by Anthropic after weeks of negotiations on the bill’s wording, but Meta in August launched a state-level super PAC to help shape AI legislation in California. And OpenAI had lobbied against such legislation in August, with its chief global affairs officer Chris Lehane writing to Newsom that “California’s leadership in technology regulation is most effective when it complements effective global and federal safety ecosystems.” \nLehane suggested that AI companies should be able to get around California state requirements by signing onto federal or global agreements instead, writing, “In order to make California a leader in global, national and state-level AI policy, we encourage the state to consider frontier model developers compliant with its state requirements when they sign onto a parallel regulatory framework like the [EU Code of Practice] or enter into a safety-oriented agreement with a relevant US federal government agency.”",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b7a9a472fa448692ae71c103c027815bc969ac8e",
+      "title": "Getting West Ham fans back onside is 'main priority' - Nuno",
+      "url": "https://www.bbc.com/sport/football/articles/czjvwpmrgj7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-29T22:54:34.000Z",
+      "summary_90w": "",
+      "raw": "New West Ham boss Nuno Espirito Santo said becoming closer to the supporters is the \"main priority\" for his side.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "cccaaca00399556d73f28441323475a31968fa11",
       "title": "‘I think we’re headed to a shutdown,’ says JD Vance as Mike Johnson calls for more time for negotiations – live",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-09-29T22:34:28.000Z",
+      "published": "2025-09-29T22:52:24.000Z",
       "summary_90w": "",
       "raw": "Congressional leaders meet with Trump over government shutdown as vice-president reportedly says Democrats ‘won’t do’ the right thing\nTrump officials to announce plan to boost coal output\nThe US is set to announce on Monday policies to try to boost the output of coal, the interior department said, as the Trump administration seeks to reverse the decline of the fossil fuel’s use.\n Continue reading...",
       "topics": [
@@ -17,13 +56,26 @@
     },
     {
       "id": "382984daa99cfce9057ef5af0f6f72efc3144c33",
-      "title": "News live: Albanese urges UAE supermarket chain to challenge Australia’s duopoly",
+      "title": "News live: Albanese urges UAE supermarket chain to challenge Australia’s duopoly; teens charged after Melbourne CBD police pursuit",
       "url": "https://www.theguardian.com/australia-news/live/2025/sep/30/australia-news-live-albanese-supermarket-united-arab-emirates-uae-coalition-sussan-ley-andrew-hastie-reserve-bank-rba-chalmers-interest-rates-decision-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-09-29T22:18:07.000Z",
+      "published": "2025-09-29T22:47:19.000Z",
       "summary_90w": "",
       "raw": "Prime minister wraps up overseas visit with meetings in United Arab Emirates. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nMcIntosh says ‘something needs to happen’ with Optus CEO\nMcIntosh said Australians hadn’t heard enough from Optus, saying the CEO of the telco needed to take responsibility for the outrages.\nAustralians have lost confidence in Optus and they’ve lost confidence in the CEO doing his job. So it would be logical that the person at the top needs to take responsibility for this.\nThat is going to be up to the Optus board, but something needs to happen.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f5f883c26e9c9ef37e25fe132a30f38018f6c947",
+      "title": "Blair could help oversee Gaza transition under Trump plan",
+      "url": "https://www.bbc.com/news/articles/cq5j989107lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-29T22:21:22.000Z",
+      "summary_90w": "",
+      "raw": "The former UK prime minister became the first named member of a new \"Board of Peace\" chaired by Donald Trump.",
       "topics": [
         "World"
       ]
@@ -354,19 +406,6 @@
       ]
     },
     {
-      "id": "4242d6c144ab87e1d3741eb0d311830beee99651",
-      "title": "Nepal skittle Windies for 83 in historic series win",
-      "url": "https://www.bbc.com/sport/cricket/articles/c2dn8j29eljo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-29T19:38:18.000Z",
-      "summary_90w": "",
-      "raw": "West Indies suffer a new low as they are bowled out for just 83 to lose their T20 series with minnows Nepal in the United Arab Emirates.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "68e1fa62b82bd8884f7ad9fad6c210c191b7c67f",
       "title": "OpenAI takes on Google, Amazon with new agentic shopping system",
       "url": "https://techcrunch.com/2025/09/29/openai-takes-on-google-amazon-with-new-agentic-shopping-system/",
@@ -627,19 +666,6 @@
       ]
     },
     {
-      "id": "a3985d615b6535f0d3b15fc3c55d0aa27d0cd3d0",
-      "title": "Mahmood demands migrants earn right to settlement in UK",
-      "url": "https://www.bbc.com/news/articles/c0m4g3zvy02o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-29T16:50:23.000Z",
-      "summary_90w": "",
-      "raw": "New tests will include learning English to a high standard, paying National Insurance and not claiming benefits.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f8ade957854b15a054890ce1abbc33c845f702d0",
       "title": "Compass-Anywhere real estate merger could squeeze small brokerages",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5554360/real-estate-compass-anywhere-brokerages",
@@ -770,19 +796,6 @@
       ]
     },
     {
-      "id": "e8d5db5b53ec2ff48e80a5736cc1cb406f5dff19",
-      "title": "'Into the pressure cooker again' - assessing England's World Cup chances",
-      "url": "https://www.bbc.com/sport/cricket/articles/ced521wxn9lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-29T16:14:51.000Z",
-      "summary_90w": "",
-      "raw": "England women have experienced a turbulent year, so what are the expectations in Nat Sciver-Brunt and Charlotte Edwards' first significant assignment?",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "6c58c3ad2eb43b6c206c3432980db07e3a292c9a",
       "title": "UN experts condemn 'staggering scale' of executions in Iran",
       "url": "https://www.bbc.com/news/articles/cvgn078zlgro?at_medium=RSS&at_campaign=rss",
@@ -832,19 +845,6 @@
       "raw": "The support will be available to those on \"priority courses\", with more detail to come in the autumn Budget.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "6bf8f79c6f14ad6e408f4a083fab82bfdf7ecfae",
-      "title": "Anker’s fastest airline-friendly power bank is now available",
-      "url": "https://www.theverge.com/news/787213/anker-prime-power-bank-300w-battery-portable-charger-airline-friendly",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-29T15:51:00.000Z",
-      "summary_90w": "",
-      "raw": "Anker’s new power bank features two USB-C ports and a USB-A port. | Image: Anker\t\n\nAnker announced its new capacious Prime Power Bank (26k, 300W) at IFA 2025 as part of a larger collection of updated Prime series charging devices. At the time, pricing wasn’t known, but the power bank is now available through Anker’s online store and Amazon for $229.99 with a temporary discount to $184 for the next six days.\nThe Prime Power Bank’s 26,250mAh capacity (99.75Wh at 3.8V) keeps it airline-friendly and below the TSA’s 100 watt-hours limit for devices in carry-on luggage. It features a pair of USB-C ports that can each output up to 140W of power simultaneously so you can charge two laptops, even if they happen to be a pair of power-hungry 16-inch MacBook Pros. And with a total power output of 300W you can also add a smartphone to the mix and charge it at 20W using an additional USB-A port while your laptops are powering up.\nThose USB-C ports are bi-directional, and when both are connected to a pair of 140W USB-C PD 3.1 chargers, the Prime Power Bank itself can charge at up to 250W, taking it from dead to 80 percent in about 35 minutes, Anker claims. You can monitor power input and output using the battery’s built-in screen, or through Anker’s mobile app while it’s connected to your smartphone over Bluetooth.\nAt $179.99 you can actually get more capacity from EcoFlow’s Rapid Pro Power Bank 27k for less money. At 27,650mAh it slightly edges out Anker’s and will charge slightly faster when connected to a pair of 140W USB-C PD 3.1 chargers. EcoFlow also includes a built-in retractable USB-C cable, but at 699 grams the Rapid Pro Power Bank 27k is slightly heavier and bulkier than Anker’s Prime Power Bank (26k, 300W) which weighs in at 600 grams. If you’re trying to pack light…ish while traveling, Anker’s could be worth the splurge.\nAlso now available through the company’s online store and Amazon is the Anker Prime Charger that debuted alongside the new power bank at IFA 2025. It’s $149.99, temporarily discounted to $120, and features a trio of USB-C ports that can each output up to 140W – although the charger’s total output is limited to up to 210W. Power use can be monitored through a tiny built-in display or wirelessly using Anker’s mobile app.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -901,7 +901,7 @@
     },
     {
       "id": "3e1ed39be7301830dc1c4fc24bb58365b40915b0",
-      "title": "Senior Liberal women warn party will alienate voters if it abandons net zero as Andrew Hastie urges",
+      "title": "Senior Liberal women warn party will alienate female and younger voters if it abandons net zero as Andrew Hastie urges",
       "url": "https://www.theguardian.com/australia-news/2025/sep/30/senior-liberal-party-women-maria-kovacic-warn-will-alienate-more-voters-abandons-net-zero",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
