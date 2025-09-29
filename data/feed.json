@@ -1,7 +1,72 @@
 {
-  "version": "1759156664806",
-  "generatedAt": "2025-09-29T14:37:44.806Z",
+  "version": "1759157554148",
+  "generatedAt": "2025-09-29T14:52:34.148Z",
   "items": [
+    {
+      "id": "11c550039d37eec5608f10c9df44dcfd1044db39",
+      "title": "OpenAI rolls out safety routing system, parental controls on ChatGPT ",
+      "url": "https://techcrunch.com/2025/09/29/openai-rolls-out-safety-routing-system-parental-controls-on-chatgpt/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-29T14:50:42.000Z",
+      "summary_90w": "",
+      "raw": "The new safety features come after numerous incidents of ChatGPT validating users' delusional thinking instead of redirecting harmful conversations -- including the death of a teenage boy by suicide.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f3ac6a06d4a089bb6881a59e290805e3c681ac15",
+      "title": "Snapchat caps free Memory storage, launches paid storage plans",
+      "url": "https://techcrunch.com/2025/09/29/snapchat-caps-free-memory-storage-launches-paid-storage-plans/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-29T14:47:02.000Z",
+      "summary_90w": "",
+      "raw": "The social media giant announced that free access to the feature will be limited to 5GB.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ee50e3859a42219a7f8b6d91ccbc3cdc9eae7ff8",
+      "title": "Hybrid attacks such as drones ‘part of new reality’, Danish minister warns, as Russia embarks on huge army call-up – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/29/moldova-voters-pro-eu-government-russia-drones-europe-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-29T14:40:03.000Z",
+      "summary_90w": "",
+      "raw": "Peter Hummelgaard compared recent spate of hybrid attacks on Europe to 9/11 terrorism; 135,000 called up in Russia\nBut Zelenskyy also warns about the worsening situation in Georgia and Belarus.\n“That is why we cannot afford to lose a single day or a single country. After Moldova’s election, we must keep supporting Moldova. The hardest task is to meet voters’ expectations,” he says.\nRussia failed to destabilise Moldova, even after spending huge, huge resources to undermine it and to corrupt whoever they could.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e1e59e0179e7cddcee3bcae63173421a6aebbec1",
+      "title": "Moldova’s president Maia Sandu hails voters’ refusal to be ‘bought’ by Moscow",
+      "url": "https://www.theguardian.com/world/2025/sep/29/moldova-election-result-boosts-move-towards-eu-away-from-moscow",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-29T14:38:19.000Z",
+      "summary_90w": "",
+      "raw": "Ruling party holds on to its majority in Sunday’s poll, which it says is ‘strong mandate for EU accession’\n\nEurope live – latest updates\n\nMoldova’s pro-western president, Maia Sandu, hailed voters’ refusal to be “bought” by Moscow after her ruling party held on to its parliamentary majority in Sunday’s pivotal election, bolstering the tiny country’s aspiration of joining the EU and distancing itself from Russia’s influence.\n“We did not allow ourselves to be bought, intimidated or frightened,” she said on Monday. “We mobilised and defended our country through honest, democratic choice.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "cccaaca00399556d73f28441323475a31968fa11",
+      "title": "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-29T14:37:45.000Z",
+      "summary_90w": "",
+      "raw": "US president to push Israeli prime minister to agree to new framework to end war in Gaza and free remaining hostages held by Hamas\nTrump officials to announce plan to boost coal output\nThe US is set to announce on Monday policies to try to boost the output of coal, the interior department said, as the Trump administration seeks to reverse the decline of the fossil fuel’s use.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "53559ff50283f523aee623bf1fc4ae0b64d6fdc8",
       "title": "Bluesky rolls out age verification for users in Ohio",
@@ -39,19 +104,6 @@
       "raw": "OpenAI has rolled out some long-awaited parental controls for ChatGPT to all web users, with mobile coming “soon,” according to the company. \nThe controls, announced last month, allow for reducing or removing certain content — like sexual roleplay and the ability to generate images — and reducing the level of personalization on ChatGPT conversations by turning off its memory of past transcripts.\nParents must have their own accounts to access the controls, and teens must opt in, either by inviting a parent to link their account or by accepting a parent’s invitation. Teens can disconnect their accounts at any time, though parents will be notified if that happens. Parents don’t have access to their teen’s conversations, even with a linked account. The only potential exception: “in rare cases where our system and trained reviewers detect possible signs of serious safety risk, parents may be notified — but only with the information needed to support their teen’s safety,” per OpenAI. \nOnce the controls are set up, here are the new adjustments parents will be able to make for teen accounts, according to the company’s blog post and announcement thread. There’s also a parent resource page available.\nReduce sensitive content: Parents can add additional protections like reducing “graphic content, viral challenges, sexual, romantic or violent roleplay and extreme beauty ideals,” per OpenAI, and the setting is on by default for teen accounts once they’re linked to a parent’s account.\nTurn off ChatGPT’s memory of past chats: Turning this off allows for less personalization and potentially better-working guardrails. In a blog post last month, for instance, OpenAI noted ChatGPT may correctly point to a suicide hotline the first time someone makes a concerning comment — but “after many messages over a long period of time, it might eventually offer an answer that goes against our safeguards.”\nTurn off OpenAI’s own models training on a teen’s chats: Parents can control whether their teen’s past transcripts and files “can be used to improve our models,” per OpenAI.\nTurn on “quiet hours”: Parents will be able to set times when their teen won’t have access to ChatGPT.\nTurn off voice mode: Teens will only be able to converse with ChatGPT in text form.\nTurn off image generation: If this is turned off, the teen won’t be able to create or edit images using ChatGPT.\nChoose a notification method: Parents can get alerts if something concerning happens via email, SMS, push notification, or all three — or they can opt out of such notifications.\nOpenAI laid out most of these features back in August when it said parental controls were coming. Notably, one feature that it was “exploring” seems to have not materialized: the ability to set an emergency contact who is reachable with “one-click messages or calls” within the chatbot. It’s possible OpenAI hopes to cover some of the same ground with the automatic feature for notifying parents. “We know some teens turn to ChatGPT during hard moments, so we’ve built a new notification system to help parents know if something may be seriously wrong,” OpenAI wrote.\nOpenAI’s original announcement came after the death of Adam Raine, the 16-year-old who died by suicide after months of confiding in ChatGPT. OpenAI was hit with a lawsuit, and within weeks, ChatGPT was being discussed during a Senate panel about various chatbots’ potential harm to minors, where parents of teens who died by suicide spoke. \nHours before the Senate panel, OpenAI CEO Sam Altman posted a blog in which he said the company was attempting to balance teen safety with both privacy and freedom, and that the company is working on an “age-prediction system to estimate age based on how people use ChatGPT.”\nMatthew Raine, the father of the late Adam, said during the Senate panel hearing earlier this month, “As parents, you cannot imagine what it’s like to read a conversation with a chatbot that groomed your child to take his own life. What began as a homework helper gradually turned itself into a confidant and then a suicide coach.”\nDuring the hearing, Raine also criticized OpenAI’s past approach to safety. “On the very day that Adam died, Sam Altman … made their philosophy crystal-clear in a public talk,” Raine said, going on to add that Altman said OpenAI should “‘deploy AI systems to the world and get feedback while the stakes are relatively low.’”\nIf you or someone you know is considering suicide or is anxious, depressed, upset, or needs to talk, there are people who want to help.\nIn the US:\nCrisis Text Line: Text HOME to 741-741 from anywhere in the US, at any time, about any type of crisis.\n988 Suicide & Crisis Lifeline: Call or text 988 (formerly known as the National Suicide Prevention Lifeline). The original phone number, 1-800-273-TALK (8255), is available as well.\nThe Trevor Project: Text START to 678-678 or call 1-866-488-7386 at any time to speak to a trained counselor.\nOutside the US:\nThe International Association for Suicide Prevention lists a number of suicide hotlines by country. Click here to find them.\nBefrienders Worldwide has a network of crisis helplines active in 48 countries. Click here to find them.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "ee50e3859a42219a7f8b6d91ccbc3cdc9eae7ff8",
-      "title": "Hybrid attacks such as drones ‘part of new reality’, Danish minister warns, as Russia embarks on huge army call-up – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/29/moldova-voters-pro-eu-government-russia-drones-europe-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T14:18:47.000Z",
-      "summary_90w": "",
-      "raw": "Peter Hummelgaard compared recent spate of hybrid attacks on Europe to 9/11 terrorism; 135,000 called up in Russia\nBut Zelenskyy also warns about the worsening situation in Georgia and Belarus.\n“That is why we cannot afford to lose a single day or a single country. After Moldova’s election, we must keep supporting Moldova. The hardest task is to meet voters’ expectations,” he says.\nRussia failed to destabilise Moldova, even after spending huge, huge resources to undermine it and to corrupt whoever they could.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -234,19 +286,6 @@
       "raw": "Google’s old logo (left) vs. its new one (right)﻿ | Image: Google\t\n\nGoogle is making the gradient “G” its new company-wide logo, according to an announcement on Monday. The new logo first began to surface across the Google app on Android and iOS in May, but soon, the design will begin to appear across all of the company’s platforms, marking Google’s first big logo change in 10 years.\nGoogle separated the red, yellow, green, and blue in the colorful “G” logo it introduced in 2015. The new logo blends everything together and makes the four colors brighter, bringing the design in line with its gradient Gemini logo. Google says the change reflects its “evolution in the AI era.”\nAlong with a new “G,” Google also quietly updated its Google Home logo to match its new look. Google says the design will start rolling out more widely in the “coming months,” which means you may soon start seeing the gradient look make its way across its other apps, too, like Gmail, Drive, Meet, and Calendar.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "cccaaca00399556d73f28441323475a31968fa11",
-      "title": "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T13:50:29.000Z",
-      "summary_90w": "",
-      "raw": "US president to push Israeli prime minister to agree to new framework to end war in Gaza and free remaining hostages held by Hamas\nTrump officials to announce plan to boost coal output\nThe US is set to announce on Monday policies to try to boost the output of coal, the interior department said, as the Trump administration seeks to reverse the decline of the fossil fuel’s use.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -465,7 +504,7 @@
       "source_name": "NPR Topics: News",
       "published": "2025-09-29T11:43:30.000Z",
       "summary_90w": "",
-      "raw": "President Trump ordered the deployment of troops to Portland and said he's authorized them to use \"full force\" to curb protests outside of ICE facilities.",
+      "raw": "President Trump ordered the deployment of troops to Portland and said he's authorized them to use \"full force\" to curb protests outside ICE facilities.",
       "topics": [
         "World"
       ]
@@ -700,19 +739,6 @@
       "published": "2025-09-29T10:56:02.000Z",
       "summary_90w": "",
       "raw": "The activist wanted by the Hong Kong government said he was denied entry to Singapore over the weekend for what he presumes were political reasons.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e1e59e0179e7cddcee3bcae63173421a6aebbec1",
-      "title": "Moldova’s president hails voters’ refusal refusal to be ‘bought’ by Moscow",
-      "url": "https://www.theguardian.com/world/2025/sep/29/moldova-election-result-boosts-move-towards-eu-away-from-moscow",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T10:46:49.000Z",
-      "summary_90w": "",
-      "raw": "Ruling party holds on to its majority in Sunday’s poll which it says is ‘strong mandate for EU accession’\n\nEurope live – latest updates\n\nMoldova’s pro-European ruling party held on to its parliamentary majority after Sunday’s pivotal election, strengthening the country of 2.4 million’s attempt to move towards the EU and away from Moscow.\nWith more than 99.9% of ballots counted, president Maia Sandu’s pro-western Action and Solidarity party (PAS) had 50.03% of the vote, putting it on track to win 55 of the 101 seats in parliament. That compared with 24.26% for a Moscow-leaning alliance of Soviet-nostalgic parties led by the former president Igor Dodon, according to results published on the election commission’s website.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1161,7 +1187,7 @@
     },
     {
       "id": "ee10ff09657eb177744599df505f9e4379e2155e",
-      "title": "Disabled Post Office Horizon victim offered 15% of claim",
+      "title": "'I cried and cried': Post Office scandal victim left disabled by stress offered 15% of claim",
       "url": "https://www.bbc.com/news/articles/cq5jqxjqj0eo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -1352,32 +1378,6 @@
       "raw": "The Huajiang Grand Canyon Bridge towers 625m (2,083ft) above a gorge in the country's Guizhou province.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "67ff08fb184508864642184c29279ad677d972df",
-      "title": "Do EA buyout talks hint at bigger industry troubles?",
-      "url": "https://techcrunch.com/2025/09/28/do-ea-buyout-talks-hint-at-bigger-industry-troubles/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-28T15:15:00.000Z",
-      "summary_90w": "",
-      "raw": "Why is Electronic Arts, one of the biggest names in the video game business, reportedly in talks to go private?",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "c3dd93368ff2d18df6d9236b70d2c0f88c05d49b",
-      "title": "Lootlock protects kids from overspending on gaming and will be presenting at TechCrunch Disrupt 2025",
-      "url": "https://techcrunch.com/2025/09/28/lootlock-protects-kids-from-overspending-on-gaming-and-will-be-presenting-at-techcrunch-disrupt-2025/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-28T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The gaming industry notoriously targets kids for in-app purchases. Lootlock gives parents granular control over kids game spending.",
-      "topics": [
-        "Technology"
       ]
     },
     {
