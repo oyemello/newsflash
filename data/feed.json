@@ -1,7 +1,111 @@
 {
-  "version": "1759237711392",
-  "generatedAt": "2025-09-30T13:08:31.392Z",
+  "version": "1759239783820",
+  "generatedAt": "2025-09-30T13:43:03.820Z",
   "items": [
+    {
+      "id": "08cf5f281204d7d23599ee172f2c3ab102c62881",
+      "title": "Amazon event live blog: we’re here for new Echos, Kindles and more",
+      "url": "https://www.theverge.com/tech/786685/amazon-event-live-blog-were-here-for-new-echos-kindles-and-more",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-30T13:30:00.000Z",
+      "summary_90w": "",
+      "raw": "We’re at Amazon’s fall 2025 hardware event in New York City, where the company is set to announce a bunch of new gadgets ahead of the holidays. Amazon’s teaser image for today suggested new Kindles, Echos, and maybe a TV. Whatever it is, it’s been a long time coming: Amazon CEO Andy Jassy promised “beautiful” new hardware back in February, which is when the key software they’ll be running — Alexa Plus — made its debut.\nWhether Amazon can make Alexa Plus useful is the real question beneath all of today’s announcements. The AI-powered assistant is off to a promising start, but on current devices, it can be sluggish when responding and still misunderstand your intent. New hardware can help with some of that, but it can only go so far when it comes to LLMs.\nThings kick off at 10AM ET / 7AM PT. There’s no video feed for this one — we’re just going to go hard in the paint right here from the audience for you.\n(function(n){function c(t,i){n[e](h,function(n){var r,u;if(n&&(r=n[n.message?\"message\":\"data\"]+\"\",r&&r.substr&&r.substr(0,3)===\"nc:\")&&(u=r.split(\":\"),u[1]===i))switch(u[2]){case\"h\":t.style.height=u[3]+\"px\";return;case\"scrolltotop\":t.scrollIntoView();return}},!1)}for(var t,u,f,i,s,e=n.addEventListener?\"addEventListener\":\"attachEvent\",h=e===\"attachEvent\"?\"onmessage\":\"message\",o=n.document.querySelectorAll(\".live-center-embed\"),r=0;r<o.length;r++)(t=o[r],t.getAttribute(\"data-rendered\"))||(u=t.getAttribute(\"data-src\"),u&&(t.setAttribute(\"data-rendered\",\"true\"),f=n.ncVizCounter||1e3,n.ncVizCounter=f+1,i=f+\"\",s=\"nc-frame-c-\"+i,t.innerHTML='\n\n',c(t.firstChild,i)))})(window);",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7656ed62df81f68511416272070c23a23a048c8f",
+      "title": "Amazon’s September 2025 hardware event: all the news and announcements",
+      "url": "https://www.theverge.com/news/786216/amazon-september-2025-hardware-event-news-announcements",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-30T13:30:00.000Z",
+      "summary_90w": "",
+      "raw": "Amazon will kick off its 2025 fall hardware event today, September 30th, at 10AM ET / 7AM PT, and the company has already teased a few new products we should expect.\nBased on the company’s own event invite, it seems like we can look forward to at least two new Echos, a new color Kindle, and some kind of TV hardware. Amazon might also share new information about Alexa Plus, its AI-powered revamp of Alexa that launched earlier this year. And the company used to announce all kinds of Alexa-enabled products at its fall events, so perhaps Amazon will bring some of that chaotic energy to this show as well.\nThis will be the third major product event for Panos Panay after he joined Amazon from Microsoft in 2023. The Verge will be covering the show live from New York City, and you can follow along with all of our coverage of the event right here.\nWe’re on the ground at Amazon’s fall hardware.\n\t\t\t\nAmazon event live blog: we’re here for new Echos, Kindles and more\n\t\t\t\nAlexa Plus is smarter — but it’s not yet smart enough\n\t\t\t\nWhat to expect from Amazon’s big fall hardware event on Tuesday\n\t\t\t\nAmazon announces its fall hardware event",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8d2027173c367c0d36e28c39e113222850d73d11",
+      "title": "Hegseth reiterates 'warrior ethos' in remarks to top US generals",
+      "url": "https://www.bbc.com/news/articles/cvgq044n72po?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-09-30T13:24:16.000Z",
+      "summary_90w": "",
+      "raw": "The defence secretary outlined his vision for the Pentagon, which includes implementing “high and gender-neutral” physical fitness standards.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "561d04e3da468752bdb72305bdb6760cf6d62c9f",
+      "title": "US deporting 120 Iranians after deal struck with Tehran, Iran says",
+      "url": "https://www.bbc.com/news/articles/cgrql7gd10do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-30T13:21:54.000Z",
+      "summary_90w": "",
+      "raw": "The deal is part of US President Donald Trump's crackdown on immigration in the US.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c77244b27676bbc22472b834e2d5be0e4d51cb6b",
+      "title": "Trump gives Hamas ‘three or four days’ to respond to Gaza peace plan or face ‘a very sad end’ – live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/30/netanyahu-israel-gaza-hamas-trump-peace-plan-latest-news-middle-east-crisis-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-30T13:21:03.000Z",
+      "summary_90w": "",
+      "raw": "Ultimatum comes as Netanyahu says he did not agree to Palestinian state as part of Trump Gaza plan, and IDF will remain ‘in most of territory’\n\nWhat’s in Trump’s 20-point peace plan for Gaza?\n\nThe Gaza health ministry has announced on Telegram that 453 people, including 150 children, have died of famine and malnutrition in Gaza.\nSince the Integrated Food Security Phase Classification (IPC) declared famine in Gaza in August, a further 175 deaths have been recorded, among them 35 children.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c7bf145761c03b8cba29535b686b9b628689c2c7",
+      "title": "Imgur blocks access to UK users after regulator warned of fine",
+      "url": "https://www.bbc.com/news/articles/c4gzxv5gy3qo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-09-30T13:19:57.000Z",
+      "summary_90w": "",
+      "raw": "The image-hosting platform - which is widely used to make memes - was facing a fine over its use of children's data.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8f825205a85c364c07aeaf5135970a3af239fdb0",
+      "title": "Putin ‘in his heart of hearts’ knows he cannot win in Ukraine, US special envoy says – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/30/europe-russia-drones-ukraine-rutte-von-der-leyen-poland-kellogg-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-30T13:17:31.000Z",
+      "summary_90w": "",
+      "raw": "Keith Kellogg tells Warsaw Security Forum that war in Ukraine is ‘unwinnable’ for Putin\nIf you are keen to understand the dynamics between the US and Belarus a bit better (10:08), here’s a brilliant story from our own Pjotr Sauer, who recently visited Minsk.\nSince Trump took office, Lukashenko, an authoritarian strongman who has ruled Belarus since 1994, has been edging out of the diplomatic freeze, cautiously probing for space beyond Moscow, which sees Belarus as both its closest ally and a vital buffer.\nSensing a political opening with the new Trump administration, Lukashenko has regularly met US officials and even held a call with the US president, who has floated the idea of a direct meeting. \n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0fb47008964e254236f062dfd93084bed601cfcf",
+      "title": "AfD politician’s former aide convicted of spying for China",
+      "url": "https://www.theguardian.com/world/2025/sep/30/afd-politician-former-aide-spying-china-maximilian-krah",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-30T13:08:33.000Z",
+      "summary_90w": "",
+      "raw": "Jian Guo jailed for five years after acting as agent for Chinese intelligence while working for Maximilian Krah\nA former aide to a member of parliament for the far-right Alternative für Deutschland party has been sentenced to almost five years in prison for spying on behalf of China.\nJian Guo was convicted on Tuesday of acting as an agent for the Chinese intelligence service while working for Maximilian Krah, a former member of the European parliament who now sits for the AfD in Germany’s Bundestag.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "483c37fef5271010d1a8fff06e697788df07d86a",
       "title": "A year after filing to IPO, still-private Cerebras Systems raises $1.1B",
@@ -114,7 +218,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-30T12:51:39.000Z",
       "summary_90w": "",
-      "raw": "Israeli media and politicians broadly supportive while far right and Islamic Jihad remain sceptical\n\nMiddle East crisis – live updates\n\nHamas has said it will review the outline of the Gaza peace plan presented by Donald Trump in Washington yesterday, as leaders across the Middle East and elsewhere voiced support for the proposal, which comes after almost two years of relentless violence.\nIn Israel, media and politicians broadly welcomed Benjamin Netanyahu’s announcement, made at a joint press conference with Trump, that he supported the 20-point plan, which meets many of Israel’s principal demands.\n Continue reading...",
+      "raw": "Israeli media and politicians broadly supportive while far right and Islamic Jihad voice scepticism\n\nMiddle East crisis – live updates\n\nHamas has said it will review the outline of the Gaza peace plan presented by Donald Trump in Washington on Monday, as leaders across the Middle East and elsewhere voiced support for the proposal, which comes after almost two years of relentless violence.\nIn Israel, media and politicians broadly welcomed Benjamin Netanyahu’s announcement, made at a joint press conference with Trump, that he supported the 20-point plan, which meets many of Israel’s principal demands.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -146,19 +250,6 @@
       ]
     },
     {
-      "id": "c77244b27676bbc22472b834e2d5be0e4d51cb6b",
-      "title": "Netanyahu says he did not agree to Palestinian state as part of Trump Gaza plan, and IDF will remain ‘in most of territory’ – live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/30/netanyahu-israel-gaza-hamas-trump-peace-plan-latest-news-middle-east-crisis-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-30T12:49:25.000Z",
-      "summary_90w": "",
-      "raw": "Israeli PM says ‘we turned the tables and isolated Hamas’, while Qatar says it will hold talks on the proposals with Hamas and Turkey later on Tuesday\n\nWhat’s in Trump’s 20-point peace plan for Gaza?\n\nThe Gaza health ministry has announced on Telegram that 453 people, including 150 children, have died of famine and malnutrition in Gaza.\nSince the Integrated Food Security Phase Classification (IPC) declared famine in Gaza in August, a further 175 deaths have been recorded, among them 35 children.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f51cfd10b12a3ab43f112e312459be64fade928f",
       "title": "Mother, father and autistic son suffered violent deaths, police in Ireland say",
       "url": "https://www.bbc.com/news/articles/cy0411zdyk1o?at_medium=RSS&at_campaign=rss",
@@ -167,19 +258,6 @@
       "published": "2025-09-30T12:35:39.000Z",
       "summary_90w": "",
       "raw": "Irish police describe the deaths of three members of the same family - Louise, 56, Mark, 54, and Evan O'Connor, 27 - as a homicide incident.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8f825205a85c364c07aeaf5135970a3af239fdb0",
-      "title": "Putin ‘in his heart of hearts’ knows he cannot win in Ukraine, US special envoy says – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/30/europe-russia-drones-ukraine-rutte-von-der-leyen-poland-kellogg-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-30T12:33:57.000Z",
-      "summary_90w": "",
-      "raw": "Keith Kellogg tells Warsaw Security Forum that war in Ukraine is ‘unwinnable’ for Putin\nIf you are keen to understand the dynamics between the US and Belarus a bit better (10:08), here’s a brilliant story from our own Pjotr Sauer, who recently visited Minsk.\nSince Trump took office, Lukashenko, an authoritarian strongman who has ruled Belarus since 1994, has been edging out of the diplomatic freeze, cautiously probing for space beyond Moscow, which sees Belarus as both its closest ally and a vital buffer.\nSensing a political opening with the new Trump administration, Lukashenko has regularly met US officials and even held a call with the US president, who has floated the idea of a direct meeting. \n Continue reading...",
       "topics": [
         "World"
       ]
@@ -221,19 +299,6 @@
       "raw": "The company is replacing Daniel Ek with two co-CEOs: Gustav Söderström, currently co-president, and chief product and technology officer; and Alex Norström, co-president and chief business officer.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "561d04e3da468752bdb72305bdb6760cf6d62c9f",
-      "title": "US deporting 120 Iranians after deal struck with Tehran, Iran says",
-      "url": "https://www.bbc.com/news/articles/cgrql7gd10do?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-30T12:04:41.000Z",
-      "summary_90w": "",
-      "raw": "The deal is part of US President Donald Trump's crackdown on immigration in the US.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -388,19 +453,6 @@
       "published": "2025-09-30T11:09:27.000Z",
       "summary_90w": "",
       "raw": "Federal agencies are at risk of running out of funding tonight if Congress does not reach an agreement. And, hundreds of U.S. generals and admirals are gathering for a rare meeting with Trump today.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8d2027173c367c0d36e28c39e113222850d73d11",
-      "title": "Trump and Hegseth to address top US generals in unusual military gathering",
-      "url": "https://www.bbc.com/news/articles/cvgq044n72po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-30T11:01:48.000Z",
-      "summary_90w": "",
-      "raw": "The short-notice meeting has prompted speculation - which the Trump administration has tried to dampen.",
       "topics": [
         "World"
       ]
@@ -744,19 +796,6 @@
       ]
     },
     {
-      "id": "0dd228d82370946708121343d7918f680cae6e44",
-      "title": "Opera launches its AI browser, but you&#8217;ll have to pay to try it",
-      "url": "https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-30T08:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A limited number of people will get to try out Opera’s AI browser, Neon, starting today for $19.90 per month. \nThe Norwegian software company first announced the “agentic browser” in May, but details were sparse. Now, we know that Opera Neon includes different AI agents that are tailored to specific tasks. One simply called Tasks acts as a workspace dedicated to a specific activity. Another called Do does the actual web browsing within a Task. Users can save prompt instructions for the AI agents into something called Cards. \nThe rollout is limited to an unspecified number of users for now; the rest will need to join the waitlist. \nWhile the company calls Neon the “next generation AI browser,” other AI browsers have come online in the past few months. In July, Perplexity launched its Comet browser, quickly followed by OpenAI’s ChatGPT Agent. This month, Atlassian bought The Browser Company, which makes the Dia browser, and Google released new Gemini-enabled features for Chrome.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "080fb87ee12126b495995d123fa4d9a3de0e211e",
       "title": "Opera launches its AI-centric Neon browser",
       "url": "https://techcrunch.com/2025/09/30/opera-launches-its-ai-centric-neon-browser/",
@@ -793,19 +832,6 @@
       "raw": "The BBC visits a Kenyan garment factory facing job losses if the deal known as Agoa is not renewed.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "c1e037e4b425d828b74f80bdec5fa4e21b5883df",
-      "title": "Logitech’s MX Master 4 adds haptic feedback, mostly just for fun",
-      "url": "https://www.theverge.com/news/787339/logitech-mx-master-4-mouse-haptics-specs-features-price",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-30T07:01:00.000Z",
-      "summary_90w": "",
-      "raw": "If you saw the leaks, you probably already know that haptics are the big, new thing in Logitech’s $119.99 MX Master 4 wireless mouse, coming in October. No, it’s not adding rumble effects to YouTube videos or to your favorite websites (on second thought, I’d like to try that). And, it’s different from Logitech’s haptics-based click system in its Pro X2 Superstrike gaming mouse coming in 2026.\nThe Haptic Sense Panel embedded in its grippy thumb rest vibrates when pressed, opening Logitech’s Action Ring overlay. That overlay can be filled with whatever app- and system-level shortcuts you want. You can even nest multiple Action Rings within one, if you want, letting you drill down to extremely specific commands. The haptics is a hardware feature that, unsurprisingly, requires you to engage pretty heavily with the company’s software, Logi Options Plus.\nThe haptics punctuate every engagement you make with Logitech’s features, from gestures and Action Rings to its Smart Actions (pre-made or custom macros to automate certain tasks). My favorite use case for the haptics was one that’s switched off by default; you can enable a setting that provides a small jolt of haptic feedback when you move between screens, reducing the amount of “where on earth is my cursor?” moments each day.\nBefore digging into the app integration, it’s worth sharing what’s new about the MX Master 4 itself. It has frosted, semi-transparent main buttons that add in a dash of elegance. Some people might be happy to hear that this model includes a USB-C Bolt transmitter, which the other compatible Logitech products (including the new Signature Slim Solar Plus keyboard) can connect to as well. \nIn terms of battery life, Logitech claims it can last up to 70 days on a full charge (although, setting haptics to “high” intensity in the app will yield a shorter lifespan per charge).\nLastly, its gesture button has moved from the thumb grip, where it was in the MX Master 3S from 2022, to a dedicated button next to the other two thumb buttons, just below the horizontal scroll wheel. When held, you then move the mouse in a cardinal direction to execute a desired action.\nBack to the app, Logitech bills the Action Ring as a time-saving feature, an alternative to keyboard shortcuts and moving your cursor across the screen to click something. You don’t have to be a power user to get a lot out of this functionality. For instance, I programmed an Action Ring with a button that auto-launches The Verge, and one that opens WordPress, where we produce articles. There are plugins within Logitech’s app for many third-party apps. Affinity Photo has a version of the Action Ring that appears when I press the Haptic Sense Panel while using the app. It shows some commands that I’m likely to take advantage of, like showing line guides to properly align objects, or simpler stuff like copying and pasting assets. \nTo be clear, Action Rings aren’t new. The haptic sensations derived from navigating them, on the other hand, are. Clicking the haptics button makes it jolt, as does moving the cursor between the Action Ring’s bubbles. It’s a small, but delightful touch that I appreciate — that is, when I use Action Rings, which I still haven’t trained my brain to rely on when I’m in a flow state at work. I’m sorry to my employer, Vox Media, for all of the time I wasted at work when I could have used Action Rings to enhance my productivity!\nWith haptics being the main new hardware feature in the MX Master 4, I don’t necessarily think it’s worth upgrading to if you have the MX Master 3S, as it’s similar in many ways. But it’s certainly worth getting instead of the 3S if you’re shopping for a mouse, since the 4 is launching at the same $119.99 price that its predecessor sells for. And, as for those who haven’t used an MX Master-series mouse before, it’s hard to overstate the value of an ergonomically-friendly mouse with a stellar scroll wheel, quiet clicks, and solid battery life. Haptics are just a nice add-on.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1122,7 +1148,7 @@
     },
     {
       "id": "bc4a2262ec6ce19bddec92761002840375950867",
-      "title": "Scams & Scandals",
+      "title": "The Botox Black Market",
       "url": "https://www.bbc.co.uk/iplayer/episode/m002k7bt?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -1329,6 +1355,19 @@
       ]
     },
     {
+      "id": "26c6caae910344bf880e4b003555b0a5912dfa73",
+      "title": "Labour Conference: Migration Cuts and Tax Rises?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0m5qb7h?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-29T18:09:00.000Z",
+      "summary_90w": "",
+      "raw": "Migrants must earn right to live in UK, home secretary tells Labour conference.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "12e57700e2f5167c60d350921bfb9d78373fe7a4",
       "title": "Vibe-coding startup Anything nabs a $100M valuation after hitting $2M ARR in its first two weeks",
       "url": "https://techcrunch.com/2025/09/29/vibe-coding-startup-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/",
@@ -1524,19 +1563,6 @@
       ]
     },
     {
-      "id": "a51f9a53175c9cfbdbc602964daf1da454cd4bc8",
-      "title": "Threatened kārearea falcon wins New Zealand’s 2025 bird of the year",
-      "url": "https://www.theguardian.com/world/2025/sep/29/new-zealand-bird-of-the-year-2025-karearea-falcon-nz-winner",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T00:47:46.000Z",
-      "summary_90w": "",
-      "raw": "The country’s fastest bird has taken out the top prize in a scandal-free year for the annual poll\nNew Zealand’s fastest bird, capable of flying 200km/h in its pursuit of prey, has been crowned bird of the year – a long-running annual competition that has previously been a lightning rod for scandal and hijinks.\nThe threatened kārearea is New Zealand’s only falcon. It is small and tawny, with impressive talons and large dark eyes. Kārearea are powerful aerial hunters and watch other birds, lizards or small mammals – sometimes larger than themselves – from a high vantage point before diving at high speed to snatch their prey.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "fc2eefa117e34a20e0f9bc3c2e25c9b6c1070900",
       "title": "Tropical Storm Imelda forming and expected to become hurricane",
       "url": "https://www.theguardian.com/us-news/2025/sep/28/tropical-storm-imelda-hurricane-humberto",
@@ -1610,19 +1636,6 @@
       "published": "2025-09-28T12:00:11.000Z",
       "summary_90w": "",
       "raw": "The family behind La Luz del Mundo Church allegedly facilitated sexual abuse of children and women for decades\nSince its inception nearly 100 years ago, La Luz del Mundo Church has been a family affair even as it spread from Mexico to the US and around the world.\nEusebio “Aaron” Joaquín Gonzalez, who founded the Guadalajara-based Christian church, was succeeded by his son, Samuel Joaquín Flores, upon his death in 1964.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1e5d483c93cd3266b62cf6fb5c89712a0569b39f",
-      "title": "​​Labour Conference: Starmer Calls Reform Plans Racist",
-      "url": "https://www.bbc.co.uk/sounds/play/p0m5hgn7?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-28T11:52:00.000Z",
-      "summary_90w": "",
-      "raw": "​​Keir Starmer calls Reform migrant policy 'racist' and 'immoral'.",
       "topics": [
         "World"
       ]
@@ -2091,19 +2104,6 @@
       "published": "2025-09-18T12:25:49.000Z",
       "summary_90w": "",
       "raw": "The event comes as Meta faces ongoing scrutiny over the impact of its products, particularly on children.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "3881366c4be9bd96924917f8cb4cf9b2503fd146",
-      "title": "Flying cars crash into each other at Chinese air show",
-      "url": "https://www.bbc.com/news/articles/cn5qk4de997o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-09-17T12:34:08.000Z",
-      "summary_90w": "",
-      "raw": "Footage shared on social media shows burning wreckage on the ground after the mid-air collision.",
       "topics": [
         "Technology"
       ]
