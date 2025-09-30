@@ -1,7 +1,215 @@
 {
-  "version": "1759235132803",
-  "generatedAt": "2025-09-30T12:25:32.803Z",
+  "version": "1759237711392",
+  "generatedAt": "2025-09-30T13:08:31.392Z",
   "items": [
+    {
+      "id": "483c37fef5271010d1a8fff06e697788df07d86a",
+      "title": "A year after filing to IPO, still-private Cerebras Systems raises $1.1B",
+      "url": "https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-30T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Cerebras initially filed to go public in September 2024 but ran into several regulatory delays due to foreign investments.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "0908f14fbd55a6a50963643f16220d414b23c98b",
+      "title": "DoorDash rolls out creator program for short-form videos, adds AI features and dine-in rewards",
+      "url": "https://techcrunch.com/2025/09/30/doordash-rolls-out-creator-program-for-short-form-videos-adds-new-app-features-and-dine-in-rewards/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-30T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "People in 20 U.S. cities — including Atlanta, Austin, Miami, and San Francisco — can now apply to become a DoorDash Creator.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "49fdc7553975481770680989f580b139740101d1",
+      "title": "DoorDash unveils Dot, its autonomous robot built to deliver your food",
+      "url": "https://techcrunch.com/2025/09/30/doordash-unveils-dot-its-autonomous-robot-built-to-deliver-your-food/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-30T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "DoorDash's 350-pound autonomous vehicle will hold your food in its robot mouth as it drives 20 miles per hour to deliver it to you.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4a5bce4094df0367128ab62684725e1e4ef79fdc",
+      "title": "Google Drive adds AI to detect ransomware before it spreads",
+      "url": "https://www.theverge.com/news/787815/google-ai-ransomware-drive-detect",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-30T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Google Drive for desktop is adding ransomware detection using an AI model trained on “millions of real-world ransomware samples” that will “look for signals that a file has been maliciously modified.” When Google’s AI believes it has detected ransomware activity on a Windows or macOS system, like trying to encrypt or corrupt files en masse, it will automatically stop syncing Drive files, alert users on their desktop and over email, and allow users to restore their files to an older version. \nThe feature is rolling out in open beta starting today, and in a briefing with reporters, Google’s Luke Camery said the company aims to make it generally available by the end of the year.\n“We’ve built a specialized AI model, trained on millions of real-world ransomware samples, to look for signals that a file has been maliciously modified,” Google says in a blog post. “The detection engine adapts to novel ransomware by continuously analyzing file changes and incorporating new threat intelligence from VirusTotal. When Drive detects unusual activity that suggests a ransomware attack, it automatically pauses syncing of affected files, helping to prevent widespread data corruption across an organization’s Drive and the disruption of work.”\nRansomware attacks are still on the rise, with the Office of the Director of National Intelligence reporting that there were 5,289 ransomware attacks worldwide in 2024, a 15 percent increase from 2023.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "49aacf983fa139db26cc7364be19c6f70643cb20",
+      "title": "Google&#8217;s AI Mode image search is getting more conversational",
+      "url": "https://www.theverge.com/news/788180/google-ai-mode-visual-search-shopping-update",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-30T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "AI Mode now supports searching by vibe.\t\n\nGoogle’s latest AI Mode update makes it easier for users to search through images using vague descriptions and references. The update provides a more conversational way to shop for products online, according to Google’s announcement, allowing AI Mode users to “describe what you’re looking for — like the way you’d talk to a friend,” instead of using filters to refine Search results by color, size, or brand.\n“Starting today, you can ask a question conversationally and get a range of visual results in AI Mode, with the ability to continuously refine your search in the way that’s most natural for you,” Google said in its announcement blog. “You’ll see rich visuals that match the vibe you’re looking for, and can follow up in whatever way is most natural for you, like asking for more options with dark tones and bold prints.”\nFor example, AI Mode users can look for “barrel jeans that aren’t too baggy” and then refine the results with additional requests like “I want more ankle length,” or “show me acid-washed denim.” AI Mode will “intelligently provide a relevant set of shoppable options,” according to Google, allowing users to easily visit retailers’ sites to purchase items in Search results.\nUsers can also start their search by uploading a reference image or snapping a photograph to fetch visually similar results, or use a mix of images and descriptions to refine their search. The conversational search update works for general visual exploration too, such as finding images for interior design inspiration.\nThe AI Mode visual search upgrade is rolling out in English to US users this week, so it might take a few days for the new capabilities to appear. Google says the update builds on Google Search with Lens and Image search and Gemini 2.5’s advanced multimodal and language capabilities, allowing AI Mode to recognize subtle details and secondary objects in images to better understand visual context and deliver more nuanced image search results.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3286e5eb541859ec513a4cea6a75efaa349f159a",
+      "title": "Microsoft’s new Security Store is like an app store for cybersecurity",
+      "url": "https://www.theverge.com/news/788195/microsoft-security-store-launch-copilot-ai-agents",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-30T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is launching a Security Store that will be full of security software-as-a-service (SaaS) solutions and AI agents. It’s part of a broader effort to sell Microsoft’s Sentinel security platform to businesses, complete with Microsoft Security Copilot AI agents that can be built by security teams to help tackle the latest threats.\nThe Microsoft Security Store is a storefront designed for security professionals to buy and deploy SaaS solutions and AI agents from Microsoft’s ecosystem partners. Darktrace, Illumio, Netskope, Perfomanta, and Tanium are all part of the new store, with solutions covering threat protection, identity and device management, and more.\nA lot of the solutions will integrate with Microsoft Defender, Sentinel, Entra, Purview, or Security Copilot, making them quick to onboard for businesses that are fully reliant on Microsoft for their security needs. This should cut down on procurement and onboarding times, too.\nAlongside the Security Store, Microsoft is also allowing Security Copilot users to build their own AI agents. Microsoft launched some of its own security AI agents earlier this year, and now security teams can use a tool that’s similar to Copilot Studio to build their own. You simply create an AI agent through a set of prompts and then publish them all with no code required. These Security Copilot agents will also be available in the Security Store today.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e2ccf6834fc22b5e5e3b7b0ff664f5d095bce2ec",
+      "title": "Zoox chooses Washington DC as its next autonomous vehicle testbed",
+      "url": "https://techcrunch.com/2025/09/30/zooxs-next-autonomous-vehicle-testbed-is-washington-dc/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-30T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The Amazon-owned company will start by mapping public streets of the nation's capital before testing begins later this year.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4d8ad43beed3d14b1b8605eb246094cceab59159",
+      "title": "My other car is a cargo bike",
+      "url": "https://www.theverge.com/podcast/788307/electric-cargo-bikes-google-antitrust-vergecast",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-30T12:58:21.000Z",
+      "summary_90w": "",
+      "raw": "The vehicle of the future is electric. It's good for the environment. It has enough room for your stuff, as long as you're coming from the grocery and not the furniture store. It's fast, it has super-responsive steering, and you can park it basically anywhere - including your living room. That's because the vehicle of the future isn't a car; it's a bike.\nOn this episode of The Vergecast, The Verge's Andy Hawkins takes us on a journey through the bike-filled world he's creating for himself. He describes his experiences with electric cargo bikes, talks about how bikes and cars and people can all coexist, and helps us figure out what really ma …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f8441999b741d9f47e3089909a410ae1e61e6409",
+      "title": "Hamas mulls options as countries rush to welcome Trump’s Gaza peace plan",
+      "url": "https://www.theguardian.com/world/2025/sep/30/hamas-mulls-options-as-countries-rush-to-welcome-trump-gaza-peace-plan",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-30T12:51:39.000Z",
+      "summary_90w": "",
+      "raw": "Israeli media and politicians broadly supportive while far right and Islamic Jihad remain sceptical\n\nMiddle East crisis – live updates\n\nHamas has said it will review the outline of the Gaza peace plan presented by Donald Trump in Washington yesterday, as leaders across the Middle East and elsewhere voiced support for the proposal, which comes after almost two years of relentless violence.\nIn Israel, media and politicians broadly welcomed Benjamin Netanyahu’s announcement, made at a joint press conference with Trump, that he supported the 20-point plan, which meets many of Israel’s principal demands.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e9bffca2034cbca73c9c5e05abdf407465d6e1f5",
+      "title": "The UN mission appeals to the Taliban to restore internet access in Afghanistan",
+      "url": "https://www.npr.org/2025/09/30/g-s1-91258/the-un-mission-appeals-to-the-taliban-to-restore-internet-access-in-afghanistan",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-30T12:51:25.000Z",
+      "summary_90w": "",
+      "raw": "The outage was the first nationwide shutdown since the Taliban returned to power in August 2021 and was part of their professed crackdown on immorality.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b5418feeb3ce3c3b333902e483c0f5f27191e168",
+      "title": "Ukrainian detained in Poland over 2022 Nord Stream gas pipeline explosions",
+      "url": "https://www.theguardian.com/world/2025/sep/30/ukrainian-detained-in-poland-over-2022-nord-stream-gas-pipeline-explosions",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-30T12:50:21.000Z",
+      "summary_90w": "",
+      "raw": "Man suspected of causing explosions that damaged undersea pipelines between Russia and Germany\nA Ukrainian man suspected of being involved in causing undersea explosions that damaged the Nord Stream gas pipelines between Russia and Germany in 2022 has been arrested in Poland, a spokesperson for the district prosecutor’s office in Warsaw has said.\nThe man, named as Volodymyr Z, was detained in Pruszków, central Poland, according to Polish radio station RMF FM, which first reported his arrest. He has been transferred to the district prosecutor’s office in Warsaw.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c77244b27676bbc22472b834e2d5be0e4d51cb6b",
+      "title": "Netanyahu says he did not agree to Palestinian state as part of Trump Gaza plan, and IDF will remain ‘in most of territory’ – live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/30/netanyahu-israel-gaza-hamas-trump-peace-plan-latest-news-middle-east-crisis-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-30T12:49:25.000Z",
+      "summary_90w": "",
+      "raw": "Israeli PM says ‘we turned the tables and isolated Hamas’, while Qatar says it will hold talks on the proposals with Hamas and Turkey later on Tuesday\n\nWhat’s in Trump’s 20-point peace plan for Gaza?\n\nThe Gaza health ministry has announced on Telegram that 453 people, including 150 children, have died of famine and malnutrition in Gaza.\nSince the Integrated Food Security Phase Classification (IPC) declared famine in Gaza in August, a further 175 deaths have been recorded, among them 35 children.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f51cfd10b12a3ab43f112e312459be64fade928f",
+      "title": "Mother, father and autistic son suffered violent deaths, police in Ireland say",
+      "url": "https://www.bbc.com/news/articles/cy0411zdyk1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-30T12:35:39.000Z",
+      "summary_90w": "",
+      "raw": "Irish police describe the deaths of three members of the same family - Louise, 56, Mark, 54, and Evan O'Connor, 27 - as a homicide incident.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8f825205a85c364c07aeaf5135970a3af239fdb0",
+      "title": "Putin ‘in his heart of hearts’ knows he cannot win in Ukraine, US special envoy says – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/30/europe-russia-drones-ukraine-rutte-von-der-leyen-poland-kellogg-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-30T12:33:57.000Z",
+      "summary_90w": "",
+      "raw": "Keith Kellogg tells Warsaw Security Forum that war in Ukraine is ‘unwinnable’ for Putin\nIf you are keen to understand the dynamics between the US and Belarus a bit better (10:08), here’s a brilliant story from our own Pjotr Sauer, who recently visited Minsk.\nSince Trump took office, Lukashenko, an authoritarian strongman who has ruled Belarus since 1994, has been edging out of the diplomatic freeze, cautiously probing for space beyond Moscow, which sees Belarus as both its closest ally and a vital buffer.\nSensing a political opening with the new Trump administration, Lukashenko has regularly met US officials and even held a call with the US president, who has floated the idea of a direct meeting. \n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8c773d244cff6d3dc4c42010e8a54fc5b047166f",
+      "title": "Nothing launches AI tool for building mini apps using prompts",
+      "url": "https://techcrunch.com/2025/09/30/nothing-launches-ai-tool-for-building-mini-apps-using-prompts/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-30T12:31:49.000Z",
+      "summary_90w": "",
+      "raw": "Nothing on Monday revealed  Playground, an AI tool that lets users create apps with simple text prompts and deploy them to a platform of sorts known as Essential Apps.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "97eac2e9dec17b070bff94210caf4e034ace4414",
+      "title": "Men in wet clothes claiming to be Camino pilgrims arrested over alleged ‘narco-sub’ plot",
+      "url": "https://www.theguardian.com/world/2025/sep/30/men-in-wet-clothes-claiming-to-be-camino-pilgrims-arrested-over-alleged-narco-sub-plot",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-30T12:31:39.000Z",
+      "summary_90w": "",
+      "raw": "Three men had fled in taxi after allegedly piloting vessel carrying 3.65 tonnes of cocaine to Galicia, Spanish police say\nPolice in Spain have arrested three men thought to have piloted a “narco-submarine” carrying more than 3.6 tonnes of cocaine from South America to the north-western region of Galicia, after the trio’s wet clothes and claims to be pilgrims walking the Camino de Santiago raised suspicions.\nThe investigation, which has led to a total of 14 arrests, began in August after Policía Nacional officers, working with the US Drug Enforcement Agency, detected an alleged drug-smuggling gang based in the Galician town of Outes that was said to be concealing its activities by posing as a company selling and repairing nautical equipment.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "76d64a9b02cef10277c9302936465b03116e19c9",
       "title": "Spotify’s founder and CEO Daniel Ek is stepping down",
@@ -16,27 +224,14 @@
       ]
     },
     {
-      "id": "c77244b27676bbc22472b834e2d5be0e4d51cb6b",
-      "title": "Netanyahu says he did not agree to Palestinian state as part of Trump Gaza plan, and IDF will remain ‘in most of territory’ – live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/30/netanyahu-israel-gaza-hamas-trump-peace-plan-latest-news-middle-east-crisis-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-30T12:03:02.000Z",
+      "id": "561d04e3da468752bdb72305bdb6760cf6d62c9f",
+      "title": "US deporting 120 Iranians after deal struck with Tehran, Iran says",
+      "url": "https://www.bbc.com/news/articles/cgrql7gd10do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-30T12:04:41.000Z",
       "summary_90w": "",
-      "raw": "Israeli PM says ‘we turned the tables and isolated Hamas’, while Qatar says it will hold talks on the proposals with Hamas and Turkey later on Tuesday\n\nWhat’s in Trump’s 20-point peace plan for Gaza?\n\nThe Gaza health ministry has announced on Telegram that 453 people, including 150 children, have died of famine and malnutrition in Gaza.\nSince the Integrated Food Security Phase Classification (IPC) declared famine in Gaza in August, a further 175 deaths have been recorded, among them 35 children.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8f825205a85c364c07aeaf5135970a3af239fdb0",
-      "title": "Europe must give strong and united response to Russian drone incursions, says von der Leyen – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/30/europe-russia-drones-ukraine-rutte-von-der-leyen-poland-kellogg-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-30T12:01:57.000Z",
-      "summary_90w": "",
-      "raw": "European Commission president met Nato secretary general while UK, France, Germany and Sweden have said they will help Denmark increase security ahead of Copenhagen summits\nIf you are keen to understand the dynamics between the US and Belarus a bit better (10:08), here’s a brilliant story from our own Pjotr Sauer, who recently visited Minsk.\nSince Trump took office, Lukashenko, an authoritarian strongman who has ruled Belarus since 1994, has been edging out of the diplomatic freeze, cautiously probing for space beyond Moscow, which sees Belarus as both its closest ally and a vital buffer.\nSensing a political opening with the new Trump administration, Lukashenko has regularly met US officials and even held a call with the US president, who has floated the idea of a direct meeting. \n Continue reading...",
+      "raw": "The deal is part of US President Donald Trump's crackdown on immigration in the US.",
       "topics": [
         "World"
       ]
@@ -127,20 +322,20 @@
       "source_name": "The Verge",
       "published": "2025-09-30T11:56:41.000Z",
       "summary_90w": "",
-      "raw": "Spotify CEO Daniel Ek has announced that he’s stepping down as CEO, two decades after founding the music streaming service. Ek will transition to an executive chairman role at the company on January 1st, 2026, with Spotify co-presidents Alex Norström and Gustav Söderström set to step in as co-CEOs.\n“As Executive Chairman, I will spend more of my time on the long arc: strategy, capital allocation, regulatory efforts, and the calls that will shape the next decade for Spotify,” Ek said in a statement. “Gustav and Alex will continue to report to me, and we will work closely together with our Board of Directors.”\nAs co-presidents, Norström currently serves as Spotify’s chief business officer, while Söderström leads the company’s product and technology unit. Ek says his new executive chairman role reflects a European setup, and that he will retain a hands-on approach to shaping the future of the company.\nThis story is developing…",
+      "raw": "Spotify CEO Daniel Ek has announced that he’s stepping down as CEO, two decades after founding the music streaming service. Ek will transition to an executive chairman role at the company on January 1st, 2026, with Spotify co-presidents Alex Norström and Gustav Söderström set to step in as co-CEOs.\n“As Executive Chairman, I will spend more of my time on the long arc: strategy, capital allocation, regulatory efforts, and the calls that will shape the next decade for Spotify,” Ek said in a statement. “Gustav and Alex will continue to report to me, and we will work closely together with our Board of Directors.”\nAlongside steering Spotify, Ek is now shifting focus towards his other business interests. “A personal note on what’s next for me. I am often asked, ‘How do we build more Spotifys out of Europe?’ That’s why several years ago, I announced my intention to help create more of these supercompanies — companies that are developing new technologies to tackle some of the biggest challenges of our time,” Ek said.\nIn June, Ek’s investment company Prima Materia led a €600 million (about $700 million) investment round into German drone maker Helsing, with Ek serving as Helsing chairman. Pointing to the conflict between Ukraine and Russia, Ek said at the time that “there’s an enormous realization that it’s really now AI, mass and autonomy that is driving the new battlefield.”\nSeveral artists, including Deerhoof, Massive Attack, Xiu Xiu, Godspeed You! Black Emperor, and King Gizzard and the Lizard Wizard pulled their music catalog from Spotify’s streaming service following the Helsing investment. In an interview with The Verge, Deerhoof drummer Greg Saunier said the band “did not want our music, and particularly our music success, to be funding AI battle tech.”\nAs co-presidents, Norström currently serves as Spotify’s chief business officer, while Söderström leads the company’s product and technology unit. Ek says his new executive chairman role reflects a European setup, and that he will retain a hands-on approach to shaping the future of the company.\nSpotify has been internally working towards these leadership changes for years, according to Spotify board director Woody Marshall. “We have tremendous confidence in Alex and Gustav as they step into these roles,” Marshall said. “They each have more than fifteen years with the company and have been instrumental in driving our success and enabling Spotify to lead our industry.”",
       "topics": [
         "Technology"
       ]
     },
     {
-      "id": "f51cfd10b12a3ab43f112e312459be64fade928f",
-      "title": "Mother, father and autistic son suffered violent deaths, police in Ireland say",
-      "url": "https://www.bbc.com/news/articles/cy0411zdyk1o?at_medium=RSS&at_campaign=rss",
+      "id": "156f7db52aaa9fe03c10ce36c49f706fab9e38cc",
+      "title": "The Simpsons Movie returns for sequel after two decades",
+      "url": "https://www.bbc.com/news/articles/cx2x4dp5xxvo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-09-30T11:52:47.000Z",
+      "published": "2025-09-30T11:54:20.000Z",
       "summary_90w": "",
-      "raw": "Irish police describe the deaths of three members of the same family - Louise, 56, Mark, 54, and Evan O'Connor, 27 - as a homicide incident.",
+      "raw": "\"Homer's coming back for seconds\", 20th Century Studios announced on Monday.",
       "topics": [
         "World"
       ]
@@ -250,19 +445,6 @@
       ]
     },
     {
-      "id": "aec10292437eb685f59ab269077103fa655b10e1",
-      "title": "Gordon, 42, returns for Scotland World Cup qualifiers",
-      "url": "https://www.bbc.com/sport/football/articles/c04qxerky7qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-30T10:24:09.000Z",
-      "summary_90w": "",
-      "raw": "Craig Gordon returns to the Scotland squad for the home World Cup qualifiers against Greece and Belarus, despite the veteran goalkeeper not playing this season.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1b50f67df2d0208db98fd7b07fa8b8dba150c86c",
       "title": "Memphis and Portland, Ore. brace for troops. Why Chicago might be next",
       "url": "https://www.npr.org/2025/09/30/nx-s1-5557337/chicago-portland-memphis-national-guard",
@@ -357,7 +539,7 @@
       "id": "4ff52d11cf28e601ce63c171f463116757b5b9ff",
       "title": "Entire Ukrainian family killed in Russian drone strike, officials say",
       "url": "https://www.bbc.com/news/articles/cdxqdpgznzeo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-09-30T09:20:57.000Z",
       "summary_90w": "",
@@ -458,27 +640,14 @@
       ]
     },
     {
-      "id": "af79d09b634e2570f2c91d610767c09e58caf901",
-      "title": "Government to shut down after midnight barring last minute breakthrough in Congress",
-      "url": "https://www.npr.org/2025/09/30/g-s1-91217/government-shutdown-midnight",
+      "id": "a26805c4ad2428316e2b1be9f4740df49b96a3c5",
+      "title": "With no guarantee of U.S. weapons, Ukraine races to make its own",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5513949/ukraine-russia-war-weapons",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-09-30T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "Democrats and Republicans have been unable to resolve an impasse over federal healthcare spending. The government will shutdown at the end of the day on Tuesday barring a last-minute breakthrough.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "dc63e30c785aa44a2c64b8b7e13e56dbb5250aef",
-      "title": "The MLB postseason begins Tuesday. Who should you root for to win a World Series?",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5557394/mlb-2025-playoffs-yankees-red-sox-brewers-padres-mariners",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-09-30T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Twelve teams will enter October, but only one team will leave (with a ring). You can root for the three franchises that have never won a title before … or you can pull for the Yankees or Dodgers.",
+      "raw": "President Trump is sounding more supportive of Ukraine. But he still isn't pledging military aid for the country. As a result, Ukraine is producing as many of its own weapons as it can.",
       "topics": [
         "World"
       ]
@@ -797,7 +966,7 @@
     },
     {
       "id": "f13447a1b4e6ca77563395f38f4f102740802b63",
-      "title": "Trump's Gaza plan is a significant step - but faces fundamental obstacles",
+      "title": "Trump's plan is a significant step - but faces fundamental obstacles",
       "url": "https://www.bbc.com/news/articles/cy4r1xjy90ko?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -887,19 +1056,6 @@
       ]
     },
     {
-      "id": "7369b2c96b73624248a1557495af40d6f3da1726",
-      "title": "Here are 55 great deals you can snag ahead of Amazon&#8217;s fall Prime Day event",
-      "url": "https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-29T23:46:50.000Z",
-      "summary_90w": "",
-      "raw": "Amazon’s Echo Spot is an excellent smart alarm clock that’s currently $30 off.\t\n\nAmazon recently announced that its fall Prime Day sale — once again dubbed Prime Big Deal Days — will kick off on Tuesday, October 7th, and run through October 8th. While you have a few weeks to get your wishlist in order, the retailer isn’t waiting for the main event to roll out the savings. Amazon has already started dropping early deals and discounts on a range of gadgets, from wireless earbuds to charging stations. You can even get three months of Kindle Unlimited for free.\nWe saw some great deals during Amazon’s four-day Prime Day event in July — hell, Apple’s latest iPad Mini dropped to a cool $379 — so we’re hoping to see similar worthwhile discounts this time around. Below, we’ve rounded up the best sales currently available ahead of Prime Big Deal Days. We’ll be updating this guide as more deals drop, so be sure to bookmark this page to stay on top of the latest discounts.\n\n\n\n\n\nThe best wireless earbud deals\nThe best smart speaker deals\nThe best Apple deals\nThe best e-reader and tablet deals\nThe best smart home deals\nThe best streaming device deals\nThe best charging deals\nOther miscellaneous deals\n\nThe best wireless earbud deals\nBeats Studio Buds\nThe Studio Buds feature support for iOS and Android as well as noise cancellation, a cozy fit, and good sound quality for the price. They don’t offer the same features as Apple’s iconic AirPods, but their broader compatibility may make them a fine choice on a budget. Read our review.\n\nWhere to Buy:\n\n $149.99 $79.95 at Amazon\n $149.99 $93.72 at Best Buy\n $149.99 $99.95 at Walmart\n\n\nGoogle Pixel Buds Pro 2\nSignificantly smaller and lighter than their predecessors, the Pixel Buds Pro 2 also offer stronger noise cancellation, a crystal clear transparency mode, and lengthy battery life. Read our review.\n\nWhere to Buy:\n\n $229 $179 at Amazon\n $229 $179 at B&H Photo\n $229 at Google Store\n\nAmazon’s second-gen Echo Buds are more than 70 percent off at Amazon, dropping them to their all-time low of $34.99 ($85 off). The wireless earbuds offer active noise cancellation, hands-free Alexa voice commands, and about five hours of battery life with ANC enabled. A vented design helps reduce ear pressure, too, while a handy passthrough mode allows ambient noise to get in. They also feature a plethora of ear and wing tips to help you find a comfortable fit. Read our review.\nNothing Ear (a)\nNothing’s Ear (a) earbuds have the same general design as the company’s previous earbuds — but you can get these in a snazzy yellow. They include ANC, more than decent sound quality, and other features like multipoint for just under $100. Read our impressions.\n\nWhere to Buy:\n\n $99 $89 at Amazon\n $99 $89 at Nothing\n\nThe best smart speaker deals\nThe UE Wonderboom Play is on sale for around $57 (about $33 off) at Amazon, Walmart, and Target, which is $9 more than its all-time low. The portable Bluetooth speaker delivers big bass in a form factor that’s about the size of a softball; however, despite its compact design, it offers up to 10 hours of continuous playback and an IP67 rating for dust and water resistance, making it well-suited for lazy days outside now that it’s finally cooling down (the low this week in my area of Arizona will be only 82 degrees!).\nXiaomi’s Sound Pocket is a durable, compact Bluetooth speaker that you can currently pick up for an all-time low of $26.99 (about $13 off) at Amazon. Xiaomi says the 5W mono speaker lasts up to 10 hours per charge, and two can be paired together for true stereo sound. The speaker’s built-in strap lets you attach it to the loop of a backpack using a carabiner, and it carries an IP67 rating, which means it’s dustproof and can be fully submerged under three feet of water for about half an hour.\nAmazon Echo Spot\nThe newer Echo Spot is an excellent smart alarm clock with decent sound for its size and no camera. It features Amazon’s smart voice assistant for voice control and is worthy of a spot on your nightstand. Read our review.\n\nWhere to Buy:\n\n $79.99 $49.99 at Amazon\n $79.99 $49.99 at Best Buy\n $79.99 $49.99 at Target\n\nAmazon’s latest Echo Dot is an affordable way to add a smart speaker to your space, and you can get it for $34.99 ($15 off) at Amazon, Best Buy, and Target right now. The small, powerful orb is great for playing music through services like Amazon Music and Spotify, and it offers integration with tons of smart home devices, allowing you to control lights, fans, locks, and thermostats. The fifth-gen Dot offers better sound and faster response times than its predecessor, too, and can even act as an extender for your Eero Wi-Fi system. Read our review.\nThe JBL Live Beam 3 are down to $139.95 ($90 off) right now at Amazon, Walmart, and Best Buy, which is the lowest price we’ve seen on the noise-canceling earbuds in weeks. They feature multipoint connectivity, along with a 1.45-inch LED touchscreen on the charging case that lets you manage your music and see notifications for calls and texts. They also feature a handy transparency mode that lets ambient noise in, keeping you aware of your surroundings, and come with an IP55 rating for water and dust resistance.\nAmazon’s Echo Pop functions as a pared-down version of the latest Dot, but still offers support for various smart home devices and Alexa skills, along with the ability to play music, set timers, and pull the weather forecast. Right now, it’s discounted to $24.99 at Amazon, Best Buy, and Target, which is its best price in weeks. Like the Dot, the Pop provides an easy, affordable way to add a smart speaker to your space. For example, you can add one to your nightstand and control your bedroom’s lights, so you don’t have to manually turn them on / off using your phone. Read our review.\nThe best Apple deals\nApple Watch Series 11 (42mm, GPS)\nApple’s latest Apple Watch mostly offers iterative hardware and software tweaks, including slightly better battery life and support for FDA-cleared hypertension notifications. It also features a more scratch-resistant display and a power-efficient 5G modem. Read our review.\n\nWhere to Buy:\n\n $399 $389 at Amazon\n $399 $389 at Walmart\n $399 at Best Buy\n\nThe new Apple Watch SE 3 is the model we recommend this year, and it’s getting a launch discount for $239.99 ($10 off) at Amazon. The deal isn’t tied to Prime Day, per se, so non-members can take advantage of the ongoing launch promo. The SE3 introduces a myriad of upgrades, including an always-on display, on-device Siri, and sleep apnea notifications. It’s worth noting that many of these “new” features were previously introduced on the Series 8, 9, and 10, but they greatly improve Apple’s entry-level model, making it our favorite Apple Watch for most people right now. Read our review.\nThe Apple Watch Ultra 3 is another new release that’s getting an early-bird discount for anyone, including non-Prime members, who can grab it starting at $779.99 ($20 off) at Amazon. The updated wearable offers up to 42 hours of battery life (or 72 hours in Low Power mode), a slightly larger display, and satellite connectivity, allowing you to send messages when you’re off the grid and away from 5G connectivity (which the watch now supports). The Ultra 3 also supports hypertension notifications, which can alert you if signs of chronic high blood pressure are detected. Read our impressions.\nApple EarPods (USB-C)\nApple’s wired earbuds are comfortable, offer great microphone quality for the price, and feature a built-in remote for controlling audio playback.\n\nWhere to Buy:\n\n $19 $16.99 at Amazon\n $19 $16.99 at Walmart\n $19.99 at Best Buy\n\nIf you have holiday travel plans, now’s a great time to prepare with a four-pack of AirTag, which is down to $74.99 ($25 off) at Amazon, Walmart, and Best Buy — about $10 shy of its all-time low. The Bluetooth trackers offer a simple one-tap setup and allow you to keep track of your luggage via Apple’s Find My app. They also feature an IP67 rating for dust and water resistance, and leverage ultra-wideband technology for precise tracking with iPhone 11 models and later. Read our original review.\nIf you recently picked up a new iPhone 17 Pro or 17 Pro Max, you can grab Apple’s TechWoven Case with MagSafe in multiple colors for $52.99 (about $6 off) at Amazon. The new cases replace Apple’s now-discontinued FineWoven accessories, which our editors dubbed “categorically terrible.” Apple says its TechWoven cases are made from 100 percent recycled polyester and feature a tactile texture with anodized aluminum buttons. If TechWoven isn’t for you, you can also grab a Silicone Case with MagSafe for the 17 Pro or 17 Pro Max for $43.99 (about $6 off) at Amazon.\nApple MagSafe Charger (2m)\nApple’s latest MagSafe charger now fully supports the Qi2.2 standard, allowing it to charge compatible devices (including the iPhone 17 series and Google’s Pixel 10 lineup) at 25W rates.\n\nWhere to Buy:\n\n $49 $34.9 at Amazon\n $49.99 $34.9 at Best Buy\n $49 at Apple\n\nThe best e-reader and tablet deals\nBoox Palma 2\nThe Boox Palma 2 is a 6.3-inch smartphone-sized e-reader that’s highly portable. It also runs on Android and comes with the Google Play Store built-in, allowing you to download apps for other digital bookstores, newspapers, note-taking apps, and more. Read our review.\n\nWhere to Buy:\n\n $299.99 $269.99 at Amazon (black)\n $299.99 $269.99 at Amazon (white)\n $299.99 $269.99 at Boox\n\nAmazon is currently offering a three-month subscription to Kindle Unlimited for free — something I immediately took advantage of when it went live. The service typically costs $11.99 per month, so the deal saves you $35.97 over the course of the trial. Keep in mind that your subscription will automatically renew once the trial period is over. If you sign up, you’ll get access to a library of more than four million books, thousands of audiobooks, and an assortment of magazines. Some must-read titles include classics like The Canterbury Tales and the entire series of The Expanse.\nAmazon Fire 10 HD Kids (2023)\nThe kid-friendly version of the Fire 10 HD — which is geared toward children ages 3 to 7 — comes with a wide, 10.1-inch 1080p Full HD display, comprehensive parental controls, and a year of Amazon Kids Plus, among other perks.\n\nWhere to Buy:\n\n $189.99 $104.99 at Amazon\n $189.99 $104.99 at Best Buy\n $189.99 $104.99 at Target\n\n\nKindle Kids (2024)\nAmazon’s Kindle Kids is identical to the standard Kindle — meaning it packs a 300ppi display and support for USB-C charging — but comes with a case, an extended two-year warranty, and six months of Amazon Kids Plus.\n\nWhere to Buy:\n\n $129.99 $94.99 at Amazon\n $129.99 $94.99 at Best Buy\n $129.99 $94.99 at Target\n\n\nKindle Paperwhite Kids (2024)\nAmazon’s kid-friendly Paperwhite is the same as the standard Paperwhite, but it’s ad-free and comes with the added benefits of a two-year hardware protection plan, six months of Amazon Kids Plus, and a choice of three kid-friendly covers. \n\nWhere to Buy:\n\n $179.99 $134.99 at Amazon\n $179.99 $134.99 at Best Buy\n $179.99 $134.99 at Target\n\nThe Kindle Paperwhite Signature Edition Essentials Bundle is down to an all-time low of $195.97 ($87 off) at Amazon. The kit comes with a Kindle Paperwhite Signature Edition, a plant-based leather cover, and a wireless charging dock. Amazon’s step-up e-reader isn’t vastly different from the standard Paperwhite, though it offers an expanded 32GB of storage, an ambient light sensor for automatic brightness adjustments, a metallic finish on the back, and — best of all — zero ads. Read our review.\nIf you want a larger display, the latest Kindle Scribe is currently on sale at Amazon and Best Buy starting at $299.99 ($100 off), matching its all-time low. The e-reader features a 10.2-inch display, providing more space for reading. Its larger canvas also provides space to jot down notes and annotate books, allowing for a writing experience that feels more akin to putting pen to paper. One of our biggest complaints about the Scribe remains its price, so taking $100 off the MSRP makes it a better buy. Read our review.\nKindle Colorsoft Kids\nLike the standard model, Amazon’s kid-friendly Colorsoft comes with a seven-inch color display and waterproofing. The 16GB e-reader also offers parental controls, a two-year warranty, a protective cover, and a year of Amazon Kids Plus.\n\nWhere to Buy:\n\n $269.99 $209.99 at Amazon\n $269.99 $209.99 at Best Buy\n $269.99 $209.99 at Target\n\nThe best smart home deals\nAmazon Echo Show 8 (third-gen)\nAmazon’s Echo Show 8 is the company’s best smart display for using Alexa in your home. Spatial audio and room-adaptation software mean improved audio quality, and it can show different info on its eight-inch display based on whether you’re standing near or farther away. Read our review.\n\nWhere to Buy:\n\n $149.99 $99.99 at Amazon\n $149.99 $99 at Best Buy\n $149.99 $99.99 at Target\n\n\nBlink Outdoor 4\nThe 1080p Blink Outdoor 4 security camera offers support for motion detection, night vision, and two-way audio. There’s the option of local recording with the bundled Sync Module 2 (the newer Sync Module XR is out, but we haven’t tested it yet), and unlike the third-gen model, it supports person detection and has a wider field of view.\n\nWhere to Buy:\n\n $99.99 $34.99 at Amazon \n $179.99 $69.99 at Amazon (two-pack)\n $259.99 at Amazon (three-pack)\n\nArlo’s Essential Outdoor Cameras are available in a three-pack for an all-time low price of $109.99 ($160 off) at Amazon. The battery-powered security cameras can record 2K video and feature a 130-degree field of view, ensuring they capture a large area. They also include an integrated spotlight for recording video at night and two-way audio, allowing you to talk to friendly visitors. Meanwhile, Arlo estimates the battery can last for up to four months, though your mileage will vary depending on the settings.\nLevoit’s Core 300-P air purifier is currently down to $84.99 ($15 off) at Amazon, matching the low we last saw during July Prime Day. The air purifier promises to filter out 99.97 percent of ultra-fine particles, including pollen, dust, and animal dander, resulting in cleaner indoor air. It weighs just under eight pounds and measures approximately 14 inches tall, making it a good option for small bedrooms.\nCoway’s Airmega AP1512HH(W), another air purifier we recommend, is on sale for $151.99 ($70 off) at Amazon, lower than the Prime Day price drop over the summer. It features a four-stage filtration system, including a HEPA filter, promising to reduce up to 99.97 percent of particles, including pollen. I’ve been using this air purifier for the last few years, and it helps keep my toddler’s playroom fresh. It’s easy to clean, and replacing the HEPA filter only takes a few minutes. I just wish it offered app support, like the more expensive AP-1512HHS.\nRing Battery Doorbell Plus\nThis wireless Ring doorbell has great video quality, head-to-toe view, and speedy response times for a battery doorbell. It works with Amazon Alexa and can send alerts for people and packages with a Ring Home subscription.\n\nWhere to Buy:\n\n $149.99 $79.99 at Amazon\n $149.99 $79.99 at Best Buy\n $149.99 $79.99 at The Home Depot\n\n\nRing Pan-Tilt Indoor Cam\nThe Ring Pan-Tilt Indoor Cam is the company’s first indoor camera that can rotate 360 degrees to give you a full view of your home. While it’s a big upgrade to the company’s smallest camera, it lacks automatic motion tracking.\n\nWhere to Buy:\n\n $59.99 $39.99 at Amazon\n $59.99 $39.99 at Best Buy\n $59.99 $39.99 at Ring\n\nThe already affordable Blink Mini is down to just $17.99 ($12 off) at Amazon and Best Buy, which is a mere $3 shy of its best price to date. The compact indoor camera can record 1080p video and supports features like motion detection (with alerts on your phone), night vision, and two-way audio, so you can tell your pooch to get off the couch while you’re away. Like the Blink Outdoor 4, the Mini supports local recording with the Sync Module 2, which you can view via the Blink app. Read our review.\nShark Matrix Plus 2-in-1 Robot Vacuum and Mop\nThe Shark Matrix Plus 2-in-1 Robot Vacuum and Mop mops very well — doing a swinging, scrubbing movement with its rear end when in “Matrix mode.” However, you have to manually fill and attach the mop reservoir and empty the bin when it mops, as it only self-empties in vacuum mode and can only avoid larger objects.\n\nWhere to Buy:\n\n $699.99 $349.99 at Amazon\n $699.99 $349.99 at Best Buy\n $699.99 $399.99 at Shark\n\n\nEcho Show 5 (third-gen)\nThe latest Echo Show 5 is just as small as its predecessor, but it features updated microphones and a speaker system that delivers double the bass and clearer sound quality.\n\nWhere to Buy:\n\n $89.99 $54.99 at Amazon\n $89.99 $54 at Best Buy\n $89.99 $54.99 at Target\n\nThe best streaming device deals\nAmazon Fire TV Stick 4K Max (2023)\nAmazon’s latest streaming stick is faster than its predecessor with Wi-Fi 6E and double the storage.  It also now displays widgets and artwork when idle while continuing to offer Alexa integration. \n\nWhere to Buy:\n\n $59.99 $39.99 at Amazon\n $59.99 $39.99 at Best Buy\n $59.99 $39.99 at Target\n\n\nAmazon Fire TV Stick 4K (2023)\nThe latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus.\n\nWhere to Buy:\n\n $49.99 $24.99 at Amazon\n $49.99 $24.99 at Best Buy\n $49.99 $24.99 at Target\n\nThe latest Amazon Fire TV Cube is currently down to $99.99 ($40 off) at Amazon, Best Buy, and B&H Photo, just $10 shy of its all-time low. The streaming box provides access to Prime Video and your favorite streaming apps, and offers features such as hands-free Alexa and Dolby Vision support. I’ve been using the third-gen Fire TV Cube for a few years now, and its octa-core processor delivers blazing fast performance when browsing movie and TV libraries. Read our review.\nRoku’s latest Streaming Stick Plus is currently down to around $29 (about $10 off) at Amazon, Walmart, and Best Buy, just a few bucks shy of its all-time low. The affordable streaming stick supports 4K video and features Roku’s excellent UI, which many people love for its easy navigation and lack of ads, along with access to your favorite streaming apps. The Streaming Stick Plus also comes with a powerful voice remote, making it easy to search for your favorite movies, shows, and launch your favorite apps.\nThe best charging deals\nAnker MagGo Magnetic Charging Station 8-in-1\nA Qi2 pad on the front and a party in the back, with three AC outlets and four USB ports. It can deliver up to 67W through a single USB-C port or divided between its two USB-C and two USB-A ports.\n\nWhere to Buy:\n\n $69.99 $59.99 at Amazon\n $69.99 $59.99 at Walmart\n $69.99 at Anker\n\n\nJackery Explorer 1000 V2\nThe Jackery Explorer 1000 V2 offers a higher 1,500W output than its predecessor, along with two USB-C ports, one USB-A port, a DC car port, three AC outlets, and a built-in LED light.\n\nWhere to Buy:\n\n $799 $429 at Amazon\n $799 $449 at Jackery\n\nIf you’re looking for something smaller, the Jackery Explorer 500 is down to $298.97 (about $201 off) at Amazon, Walmart, and Jackery. The portable power station offers a 518Wh battery and supports 500W of output power, with an AC outlet, three USB-A ports, two DC ports, and a car port. However, there are no USB-C ports, so you may need to pick up a USB-A to USB-C cable if you own a modern iPhone or Android device. The power station weighs 13.3 pounds and is about the size of a basketball, with a sturdy handle that makes it easy to transport during camping trips.\nAnker’s 313 Wireless Charger can only supply up to 10W of power, but if you need a basic charging stand for juicing your phone overnight, it’s currently down to just $13.58 (about $6 off) at Amazon, nearly matching its all-time low. The Qi-certified charger can prop up your phone in either portrait or landscape — it can even activate Apple’s handy StandBy mode — so you can easily see notifications as they come in. The 313’s charging speeds are significantly slower than those offered by more modern options equipped with Qi2, but it’s still a solid choice if you own a smartphone that’s a few years old.\nJackery Explorer 240D\nThe Explorer 240D is a 256Wh DC-only portable power station that features four USB ports and a 2-in-1 handle that doubles as a USB-C cable.\n\nWhere to Buy:\n\n $209 $139 at Amazon\n\nOther miscellaneous deals\nBirdfy Feeder 1\nBirdfy’s entry-level smart feeder features a 1080p camera and an app that lets you view birds up close as they munch on seeds. If you fork out $4 per month for the premium subscription, you also get access to Birdfy’s AI, which identifies bird species and lets you set custom alerts for your favorites.\n\nWhere to Buy:\n\n $149.99 $124.99 at Amazon\n $149.99 $139.99 at Birdfy\n\nThe iOttie Easy One Touch Car Mount is a great road trip companion, and it’s down to $17.99 (about $7 off) at Amazon. Thanks to its clever “one touch” mechanism, you can easily mount your device with one hand. The car mount has a strong suction that can stick to your dashboard or windshield, freeing up your AC vents, and it offers wide compatibility with smartphones and cases of different sizes. It also features a magnetic tab near the bottom, which helps keep the charging cable organized.\nThe Tile Slim is a thin Bluetooth tracker for wallets, passports, and luggage, one you can currently pick up for just $19.99 ($10 off) at Amazon, Best Buy, and Target. It’s compatible with both iOS and Android devices, with a range of up to 350 feet and the ability to track its location via the Tile app. You can also double-press the Tile to make your phone ring, even if it’s on silent. The non-replaceable battery lasts up to three years, too, and it carries an IP68 rating for dust and water resistance.\nGoogle Pixel 9 (128GB)\nGoogle’s Pixel 9 has a slightly larger 6.3-inch OLED display than its predecessor, along with a Tensor G4 processor, a bigger battery, 12GB of RAM, and a dual rear camera setup with a new 48-megapixel sensor for its ultrawide. Read our review.\n\nWhere to Buy:\n\n $799 $599 at Best Buy\n $799 $699 at Amazon\n $799 at Google\n\n\nSamsung Galaxy S25 Edge\nThe Galaxy S25 Edge is just 5.8mm thick and weighs 163 grams, making it one of the thinnest and lightest big phones available. It also boasts a 200-megapixel main camera, plus an IP68 rating for water and dust resistance. Read our review.\n\nWhere to Buy:\n\n $1099.99 $799.99 at Amazon (256GB)\n $1099.99 $799.99 at Best Buy (256GB)\n $1099.99 at Samsung (256GB)\n\nMotorola’s latest Moto G Power has returned to an all-time low of around $249 ($50 off) at Amazon, Best Buy, and Motorola’s online storefront. The budget-friendly smartphone boasts a 6.8-inch 120Hz LCD display, a 5,000mAh battery, and wireless charging support, not to mention a 3.5mm audio jack. The device also uses a combination IP68 and IP69, which offers full protection from dust, submersion under water, and exposure to high pressure water jets and steam.\nBreville’s Infuser BES840XL is on sale for $399.95 ($200 off) at Amazon, matching the low we saw during Amazon’s last Prime Day event. The excellent espresso machine features programmable shot control, a pressure gauge, PID temperature adjustment, and a high pressure steam wand, creating the microfoam needed to make latte art. It also uses a four-key formula — precise dosing, optimal water pressure, temperature control, and microfoam milk — promising cafe-quality espresso at home.\nHoto Electric Precision Screwdriver ADV\nHoto’s 25-in-1 electric screwdriver kit is a rechargeable, USB-C tool that’s ideal for repairing small electronics, such as phones, laptops, and gaming consoles. The compact gadget features 25 magnetic bits, a durable aluminum build, and a 350mAh battery that provides up to two hours of use.\n\nWhere to Buy:\n\n $49.99 $29.99 at Amazon\n $49.99 at Hoto\n\n\nKeychron V1\nThe Keychron V1 is as much a comfortable keyboard as it is a productivity tool, one with remappable keys and hot swappable switches to better suit your workflow. It’s also a lot more stylish than your average keyboard, with slick RGB backlighting and double-shot PBT keycaps.\n\nWhere to Buy:\n\n $74.99 $59.49 at Amazon\n\nAmazon’s Luna Controller is on sale for $39.99 ($30 off) at Amazon, which matches its best price to date. Although it was built primarily for Amazon’s cloud gaming service, the gamepad offers support for both Bluetooth and USB-C connectivity, rendering it compatible with Android phones, Apple products, Fire TV devices, and PCs. It also integrates with Amazon Alexa, allowing you to issue voice commands directly through the controller when paired with a Fire TV device.\nYou can protect your Nintendo Switch 2 with Tomtoc’s slim FancyCase-G05, which is on sale at Amazon in select colors for Prime members for $30.99 ($6 off). The sleek carrying case features a minimalist design that perfectly fits the new handheld console. It boasts a protective hard shell, an adjustable carrying handle, and 12 game card slots, allowing you to take your console and library of games wherever you go.\nUpdate, September 29th: Adjusted to reflect current pricing / availability and several new deals, including the Amazon Echo Pop, the latest Kindle Scribe, and the Echo Show 8.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "ef53e57a175fd1b46abe50c44921d2bf0af540bc",
       "title": "Family anger after police reviewing 1970 beach abduction didn't contact witnesses",
       "url": "https://www.bbc.com/news/articles/c1ed4g1q52no?at_medium=RSS&at_campaign=rss",
@@ -921,19 +1077,6 @@
       "published": "2025-09-29T23:16:56.000Z",
       "summary_90w": "",
       "raw": "YouTube is the latest social media company to pay Trump tens of millions of dollars to resolve lawsuits brought before he returned to power. The money will fund a new ballroom at the White House.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "cbd2f7ad3e658f2c310226191a1e343582e13bde",
-      "title": "YouTube caves to Trump with $24.5 million settlement",
-      "url": "https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-29T23:16:33.000Z",
-      "summary_90w": "",
-      "raw": "YouTube has settled a lawsuit President Donald Trump filed against the company in 2021, according to The Wall Street Journal. Trump filed sweeping lawsuits against Google-owned YouTube, Meta (then Facebook), and X (then Twitter) after he was suspended from the platforms, and now all three companies have settled with the president.\nYouTube will pay $24.5 million, with $22 million going toward the Trust for the National Mall nonprofit to help “support the construction of the White House State Ballroom,” the settlement document says, and $2.5 million will go to other plaintiffs. The full settlement is slightly less than the $25 million Meta agreed to pay in January, and the WSJ says that Google executives were “eager to keep their settlement smaller than the one paid by rival Meta.” X settled for about $10 million in February. \nTrump was suspended from uploading new videos in January 2021 after the attack on the Capitol on January 6th, with YouTube citing “concerns about the ongoing potential for violence.” YouTube lifted the restrictions in March 2023, saying that it “carefully evaluated the continued risk of real-world violence, while balancing the chance for voters to hear equally from major national candidates in the run up to an election.”",
       "topics": [
         "Technology"
       ]
@@ -978,29 +1121,16 @@
       ]
     },
     {
-      "id": "bcb81c1b9a7636ea3eff788e792c54cd22960665",
-      "title": "SB 53, the landmark AI transparency bill, is now law in California",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-29T23:01:43.000Z",
+      "id": "bc4a2262ec6ce19bddec92761002840375950867",
+      "title": "Scams & Scandals",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002k7bt?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-29T23:01:00.000Z",
       "summary_90w": "",
-      "raw": "Senate Bill 53, the landmark AI transparency bill that has divided AI companies and made headlines for months, is now officially law in California. \nOn Monday, California Gov. Gavin Newsom signed the “Transparency in Frontier Artificial Intelligence Act,” which was authored by Sen. Scott Wiener (D-CA). It’s the second draft of such a bill, as Newsom vetoed the first version — SB 1047 — last year due to concerns it was too strict and could stifle AI innovation in the state. It would have required all AI developers, especially makers of models with training costs of $100 million or more, to test for specific risks. After the veto, Newsom tasked AI researchers with coming up with an alternative, which was published in the form of a 52-page report — and formed the basis of SB 53. \nSome of the researchers’ recommendations made it into SB 53, like requiring large AI companies to reveal their safety and security processes, allowing for whistleblower protections for employees at AI companies, and sharing information directly with the public for transparency purposes. But some aspects didn’t make it into the report — like third-party evaluations. \nAs part of the bill, large AI developers will need to “publicly publish a framework on [their] website describing how the company has incorporated national standards, international standards, and industry-consensus best practices into its frontier AI framework,” per a release. Any large AI developer that makes an update to its safety and security protocol will also need to publish the update, and its reasoning for it, within 30 days. But it’s worth noting this part isn’t necessarily a win for AI whistleblowers and proponents of regulation. Many AI companies that lobby against regulation propose voluntary frameworks and best practices — which can be seen as guidelines rather than rules, with few, if any, penalties attached. \nThe bill does create a new way for both AI companies and members of the public to “report potential critical safety incidents to California’s Office of Emergency Services,” per the release, and “protects whistleblowers who disclose significant health and safety risks posed by frontier models, and creates a civil penalty for noncompliance, enforceable by the Attorney General’s office.” The release also said that the California Department of Technology would recommend updates to the law every year “based on multistakeholder input, technological developments, and international standards.”\nAI companies were divided on SB 53, though most were initially either publicly or privately against the bill, saying it would drive companies out of California. They knew the stakes: With nearly 40 million residents of California and a handful of AI hubs, the state has outsized influence on the AI industry and how it will be regulated. \nSB 53 had been publicly endorsed by Anthropic after weeks of negotiations on the bill’s wording, but Meta in August launched a state-level super PAC to help shape AI legislation in California. And OpenAI had lobbied against such legislation in August, with its chief global affairs officer, Chris Lehane, writing to Newsom that “California’s leadership in technology regulation is most effective when it complements effective global and federal safety ecosystems.” \nLehane suggested that AI companies should be able to get around California state requirements by signing onto federal or global agreements instead, writing, “In order to make California a leader in global, national and state-level AI policy, we encourage the state to consider frontier model developers compliant with its state requirements when they sign onto a parallel regulatory framework like the [EU Code of Practice] or enter into a safety-oriented agreement with a relevant US federal government agency.”",
+      "raw": "Exposing dangerous medical professionals breaking rules in Britain's \"Botox Wild West\".",
       "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "756a408adce75d5625bf4e561a00f2813a6d10e0",
-      "title": "Microsoft is bringing its Windows engineering teams back together again",
-      "url": "https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-29T22:07:32.000Z",
-      "summary_90w": "",
-      "raw": "Windows is coming back together. Microsoft is bringing its key Windows engineering teams under a single organization again, as part of a reorg being announced today. Windows chief Pavan Davuluri, who was just promoted to president of Windows and devices earlier this month, shared the changes to Microsoft's Windows teams in an internal memo.\n\"This change unifies Windows engineering work under a single organization,\" Davuluri wrote in the memo, which was seen by The Verge. \"Moving the teams working on Windows client and server together into one organization brings focus to delivering against our priorities.\"\nThis the first major Windows reor …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
+        "World"
       ]
     },
     {
@@ -1038,19 +1168,6 @@
       "published": "2025-09-29T21:35:16.000Z",
       "summary_90w": "",
       "raw": "Plan calls for immediate end to war between Israel and Hamas but lacks detail on how key points will be executed\nThe White House peace plan for Gaza proposes an immediate end to the devastating war between Israel and Hamas that has raged in the coastal territory for nearly two years, while pointedly excluding the Palestinian militant group from any future governing role.\nAssuming both sides agree to a detailed list of conditions, the end of fighting will be accompanied by the release of all Israeli hostages, both dead and alive, “within 72 hours” of Israel publicly accepting the deal.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ce5782e0d080e2f74071ade48d497891dc0e482c",
-      "title": "Trump’s plan for Gaza is ambitious but peace is far from guaranteed",
-      "url": "https://www.theguardian.com/world/2025/sep/29/trumps-gaza-peace-plan-is-a-back-of-an-envelope-sketch-but-could-work",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T21:27:50.000Z",
-      "summary_90w": "",
-      "raw": "The US president has won regional backing, but Hamas’s response and Israel’s intentions leave the outcome in doubt\nAt first glance, the 20-point plan outlined by President Trump and agreed by Benjamin Netanyahu appears more likely to end the two-year conflict in Gaza than anything we have seen so far. Trump has sunk a lot of political capital in bringing peace to the Middle East after “thousands of years”, as he put it. There is apparent deep and wide regional support and, seemingly, that of the Israeli prime minister.\nBut this is less a detailed roadmap than a rough back of an envelope sketch that allows an equal chance of getting badly lost as reaching the desired destination.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1112,19 +1229,6 @@
       "title": "Watch: Trump and Netanyahu outline peace plan to end war in Gaza",
       "url": "https://www.bbc.com/news/videos/c24r8zj1mnro?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-29T20:46:24.000Z",
-      "summary_90w": "",
-      "raw": "The deal proposes an end to military operations, a release of Israeli hostages by Hamas and the immediate delivery of aid to Gaza.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8abe4b5694f7330a021429ecc654e65da41fc938",
-      "title": "Watch: Trump and Netanyahu outline plan to end war in Gaza",
-      "url": "https://www.bbc.com/news/videos/c24r8zj1mnro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-09-29T20:46:24.000Z",
       "summary_90w": "",
@@ -1264,19 +1368,6 @@
       ]
     },
     {
-      "id": "d7f588850eb983270fcd26ec722e84e0ab05b6c5",
-      "title": "Anthropic launches Claude Sonnet 4.5, its best AI model for coding",
-      "url": "https://techcrunch.com/2025/09/29/anthropic-launches-claude-sonnet-4-5-its-best-ai-model-for-coding/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-29T17:02:14.000Z",
-      "summary_90w": "",
-      "raw": "Anthropic says its new AI model is robust enough to build production-ready applications, rather than just prototypes.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "f8ade957854b15a054890ce1abbc33c845f702d0",
       "title": "Compass-Anywhere real estate merger could squeeze small brokerages",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5554360/real-estate-compass-anywhere-brokerages",
@@ -1316,45 +1407,6 @@
       ]
     },
     {
-      "id": "6c58c3ad2eb43b6c206c3432980db07e3a292c9a",
-      "title": "UN experts condemn 'staggering scale' of executions in Iran",
-      "url": "https://www.bbc.com/news/articles/cvgn078zlgro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-09-29T16:02:08.000Z",
-      "summary_90w": "",
-      "raw": "More than 1,000 executions were recorded during the first nine months of 2025 - already surpassing last year's total.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f261c6f23d90c36cb61a35b2340a1dbcb65e70fd",
-      "title": "Brave updates its AI-powered search with a detailed answers feature",
-      "url": "https://techcrunch.com/2025/09/29/brave-updates-its-ai-powered-search-with-a-detailed-answers-feature/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-29T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The search company said that this new feature will co-exist next to its AI Answers feature, which was introduced last year to give summarized responses to search queries.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "db58b5366db09c5ec288e9b6cf576438cdb1974b",
-      "title": "Trump’s Energy Department forbids staff from saying ‘climate change’ or ‘green’",
-      "url": "https://techcrunch.com/2025/09/29/trumps-energy-department-forbids-staff-from-saying-climate-change-or-green/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-29T15:00:28.000Z",
-      "summary_90w": "",
-      "raw": "A Trump appointee emailed Office of Energy Efficiency and Renewable Energy employees last week with a long list of banned words.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "ee50e3859a42219a7f8b6d91ccbc3cdc9eae7ff8",
       "title": "Hybrid attacks such as drones ‘part of new reality’, Danish minister warns, as Russia embarks on huge army call-up – as it happened",
       "url": "https://www.theguardian.com/world/live/2025/sep/29/moldova-voters-pro-eu-government-russia-drones-europe-live",
@@ -1368,19 +1420,6 @@
       ]
     },
     {
-      "id": "5fd25d325d75dfcd00f64c78a52066d22c7a3c7e",
-      "title": "Final day to apply: Volunteer at TechCrunch Disrupt 2025",
-      "url": "https://techcrunch.com/2025/09/29/final-day-to-apply-volunteer-at-techcrunch-disrupt-2025/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-29T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "If you’ve been thinking about applying to volunteer at TechCrunch Disrupt 2025, this is it — applications close tonight at 11:59 p.m. PT. Only accepting local Bay Area applicants.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "ac7ae45c70f2848b8267a008cf7f435ffd7b9ace",
       "title": "It’s goodnight Vienna as Paris sleeper train to Austria and Berlin hit by cuts",
       "url": "https://www.theguardian.com/travel/2025/sep/29/night-trains-paris-berlin-vienna-suspended-obb-france-funding",
@@ -1389,32 +1428,6 @@
       "published": "2025-09-29T14:57:10.000Z",
       "summary_90w": "",
       "raw": "Some Nightjet services suspended from mid-December after French withdrawal amid public budget crisis\nNight train services linking Paris, Berlin and Vienna are to end from mid-December because of the French government’s withdrawal of funding, the Austrian national rail operator has said, in a blow to sleeper travel on important European routes.\nÖBB, the largest provider of such trains in Europe, has led a drive to revive a once popular form of low-emission transport as an alternative to flying.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "11c550039d37eec5608f10c9df44dcfd1044db39",
-      "title": "OpenAI rolls out safety routing system, parental controls on ChatGPT ",
-      "url": "https://techcrunch.com/2025/09/29/openai-rolls-out-safety-routing-system-parental-controls-on-chatgpt/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-29T14:50:42.000Z",
-      "summary_90w": "",
-      "raw": "The new safety features come after numerous incidents of ChatGPT validating users' delusional thinking instead of redirecting harmful conversations -- including the death of a teenage boy by suicide.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "e1e59e0179e7cddcee3bcae63173421a6aebbec1",
-      "title": "Moldova’s president Maia Sandu hails voters’ refusal to be ‘bought’ by Moscow",
-      "url": "https://www.theguardian.com/world/2025/sep/29/moldova-election-result-boosts-move-towards-eu-away-from-moscow",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-29T14:38:19.000Z",
-      "summary_90w": "",
-      "raw": "Ruling party holds on to its majority in Sunday’s poll, which it says is ‘strong mandate for EU accession’\n\nEurope live – latest updates\n\nMoldova’s pro-western president, Maia Sandu, has hailed voters’ refusal to be “bought” by Moscow after her ruling party held on to its parliamentary majority in Sunday’s pivotal election, bolstering the tiny country’s aspiration of joining the EU and distancing itself from Russia’s influence.\n“We did not allow ourselves to be bought, intimidated or frightened,” she said on Monday. “We mobilised and defended our country through honest, democratic choice.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1610,19 +1623,6 @@
       "published": "2025-09-28T11:52:00.000Z",
       "summary_90w": "",
       "raw": "​​Keir Starmer calls Reform migrant policy 'racist' and 'immoral'.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "516453b27f97014b7b307e4de350f7daa09584ed",
-      "title": "‘It’s incredibly exciting’: ancient canoe unearthed after Hurricane Ian stormed through Florida",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/florida-ancient-canoes",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-28T11:00:11.000Z",
-      "summary_90w": "",
-      "raw": "The latest find is likely from the 16th century and could have originated as far away as the Caribbean\nFlorida already claims to be the world capital of golf, shark bites and lightning strikes. Now a remarkable discovery following a devastating hurricane has enhanced its position as a global leader in another distinctive field: ancient canoes – some even prehistoric.\nState archeologists have just completed a painstaking preservation of an ancient wooden canoe discovered by a resident of Fort Myers during the cleanup from Hurricane Ian in 2022.\n Continue reading...",
       "topics": [
         "World"
       ]
