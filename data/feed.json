@@ -1,7 +1,46 @@
 {
-  "version": "1759252464282",
-  "generatedAt": "2025-09-30T17:14:24.282Z",
+  "version": "1759253604664",
+  "generatedAt": "2025-09-30T17:33:24.664Z",
   "items": [
+    {
+      "id": "bb0155742f4dcb634615114a0ef3945d6202fb0e",
+      "title": "Fubo shareholders approve Hulu Live TV deal",
+      "url": "https://techcrunch.com/2025/09/30/fubo-shareholders-approve-hulu-live-tv-deal/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-30T17:16:12.000Z",
+      "summary_90w": "",
+      "raw": "Fubo announced that its shareholders have approved the deal  that will combine the streaming service with Hulu Live TV.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8b32bd39d364b0decb935b184d2f304131ed769b",
+      "title": "Microsoft is giving Copilot AI faces you can chat with",
+      "url": "https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-30T17:12:48.000Z",
+      "summary_90w": "",
+      "raw": "Here are some examples of the “Portraits” avatars available to select Copilot users.\t\n\nMicrosoft is trying to make Copilot more approachable by giving the AI assistant an animated face to talk with. The experimental “Portraits” feature in Copilot Labs is currently available in the US, UK, and Canada, and provides 40 stylized human avatars that respond with natural expressions during real-time voice conversations.\nAnnouncing the new feature on X, Microsoft AI CEO Mustafa Suleyman says Portraits was developed in response to some Copilot users saying “they’d feel more comfortable talking to a face when using voice.” The feature allows users to select a portrait and pair it with a voice, aiming to make verbal conversations with the chatbot feel more natural compared to text-based interactions.\nThis is Microsoft’s latest attempt to develop Copilot into a character that’s more appealing to communicate with, having previously announced a similar feature called “Copilot Appearances” in July. The notable difference between the two is that Portraits is based on human appearances instead of an animated cartoon blob.\n“This experiment leverages VASA-1, an advanced AI technology developed by Microsoft Research to create real-time, visual AI conversations,” Microsoft announced on the Copilot Discord server. “The innovation allows us to generate natural facial expressions, head movements, and lip-sync from just a single image — no complex 3D modeling required.”\nThe Portraits experiment follows rival AI provider X introducing 3D avatars for its Grok chatbot, including an anime-inspired AI girlfriend companion with an NSFW mode. Microsoft is taking things slow with the rollout of Portraits, likely due to safety concerns around harmful interactions between users and rival chatbots, like those under investigation from Character.AI.\n“Each portrait is intentionally stylized and not photorealistic, offering you visual variety while offering the same trusted Copilot intelligence and safety features you rely on,” Microsoft said on the Copilot blog. Availability is restricted to a “limited set of users” aged 18 or older, according to Microsoft, with daily and session-based time limits in place alongside “clear indicators that you are interacting with AI technology.”",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d63c4727018354dd7e25544332aa87e7538a8f4e",
+      "title": "Beats redesigned its new Powerbeats Fit’s wing tip to be more comfortable and secure",
+      "url": "https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-earbuds-wing-tip-redesign-comfort",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-30T17:10:38.000Z",
+      "summary_90w": "",
+      "raw": "Like the iPhone 17 Pro, the new BEats Powerbeats Fit earbuds come in orange. | Image: Beats\t\n\nBeats has announced a new version of the Fit Pro wireless earbuds that launched in late 2021, which are now called the Powerbeats Fit. The most notable upgrade is a redesigned wing tip that Beats says is 20 percent more flexible, improving comfort while also keeping the earbuds more securely anchored in your ear. The company says that the new wingtip provides as much stability as the over-ear hook used on the Powerbeats Pro 2, while keeping the price point under $200.\nThe Powerbeats Fit are available for purchase starting today through Apple’s online store for $199.99 in jet black, gravel gray, power pink, and spark orange color options. If you’re a Beats-over-AirPods user who recently switched to the cosmic orange iPhone 17 Pro, the spark orange Powerbeats Fit almost feels like a mandatory upgrade.\nUnlike the pricier Powerbeats Pro 2 and the new AirPods Pro 3 that use Apple’s newer H2 wireless chip, the Powerbeats Fit still rely on the H1 chip. You’ll still get features like one-touch pairing, hands-free Siri access, Find My tracking, and syncing across Apple devices through iCloud. Android users will get one-touch pairing through the Beats mobile app, customizable controls, a Fit Test making it easier to select the ideal ear tip size, and location tracking through the app.\nThe earbuds aren’t a major redesign of the Beats Fit Pro by any stretch of the imagination, but reducing the size of their charging case by 17 percent made it easier to slip into a pocket without reducing battery life. Like the Beats Fit Pro, the new Powerbeats Fit offers up to seven hours of playback on the buds alone, or up to 30 hours when topped off with the charging case. With ANC turned on, that drops to six hours for the buds, and up to 24 hours with the case.\nSweat and water resistance remains at the same IPX4 rating, so you won’t want to dunk the buds or the charging case. And the ANC on the new Powerbeats Fit won’t be as good as it is on the AirPods Pro 3, but the earbuds include a transparency mode, personalized Spatial Audio with head tracking, and adaptive EQ to adjust and optimize the sound profile of what you’re listening to based on ambient noise and the fit and seal.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "7d1805686bb603052a6f39aa8470e40159bbd5f8",
       "title": "OpenAI’s new social video app will let you deepfake your friends",
@@ -10,7 +49,7 @@
       "source_name": "The Verge",
       "published": "2025-09-30T17:06:39.000Z",
       "summary_90w": "",
-      "raw": "OpenAI has a new version of its Sora AI video generator, and it’s being launched alongside a new social video app, also called Sora, on iOS. The app, currently invite-only, resembles TikTok. But instead of encouraging people to stitch together duets, it asks you to record short videos that anyone can spin into new AI-generated deepfakes — with your consent.\n\nIn a briefing with reporters on Monday, employees called it the potential “ChatGPT moment for video generation.” The Sora app is currently only available to US and Canada users, with other countries set to follow, and when someone receives access, they also get four additional invites to share with friends.  There’s no word on when an Android version might be released.\n\nSora users can give their friends — or, if they’re feeling bold, everyone — permission to create “cameos” with their own likeness using the new video model, which is dubbed Sora 2. The person whose likeness is being generated is a “co-owner” of that end result, OpenAI employees said in a briefing with reporters on Monday, and they can delete it, or revoke access to others, at any time. Like TikTok, OpenAI’s Sora app allows you to interact with other videos and trends using a “Remix” feature, but it only allows for the generation of 10-second videos for now. \n\nOpenAI currently has a lot of restrictions on generating videos of public figures, but that may not be the case forever, according to the briefing with reporters. Currently, “public figures can’t be generated in Sora unless they’ve uploaded a cameo themselves and given consent for it to be used,” OpenAI wrote in a release. “The same applies to everyone: if you haven’t uploaded a cameo, your likeness can’t be used.” During the briefing, OpenAI employees also said that it’s currently “impossible to generate” X-rated or “extreme” content via the platform.",
+      "raw": "OpenAI has a new version of the Sora AI video generator that it launched at the end of last year, and it’s arriving today alongside a new social video app, also called Sora, on iOS. The currently invite-only app resembles TikTok with a feed of videos you can shuffle through. But instead of encouraging people to stitch together duets, it asks you to record short videos that anyone can spin into new AI-generated deepfakes — with your consent.\n\nIn a briefing with reporters on Monday, employees called it the potential “ChatGPT moment for video generation.” The Sora app is currently only available to US and Canada users, with other countries set to follow, and when someone receives access, they also get four additional invites to share with friends.  There’s no word on when an Android version might be released.\n\n\nSora users can give their friends — or, if they’re feeling bold, everyone — permission to create “cameos” with their own likeness using the new video model, which is dubbed Sora 2. The person whose likeness is being generated is a “co-owner” of that end result, OpenAI employees said, and they can delete it or revoke access to others at any time. Like TikTok, OpenAI’s Sora app allows you to interact with other videos and trends using a “Remix” feature, but it only allows for the generation of 10-second videos for now. \nOpenAI currently has a lot of restrictions on generating videos of public figures, but that may not be the case forever, according to the briefing with reporters. Currently, “public figures can’t be generated in Sora unless they’ve uploaded a cameo themselves and given consent for it to be used,” OpenAI wrote in a release accompanying the announcement. “The same applies to everyone: if you haven’t uploaded a cameo, your likeness can’t be used.” OpenAI employees also said it’s currently “impossible to generate” X-rated or “extreme” content via the platform.",
       "topics": [
         "Technology"
       ]
@@ -56,13 +95,13 @@
     },
     {
       "id": "c77244b27676bbc22472b834e2d5be0e4d51cb6b",
-      "title": "Trump gives Hamas ‘three or four days’ to respond to Gaza peace plan or face ‘a very sad end’ – live",
+      "title": "Trump gives Hamas ‘three or four days’ to respond to Gaza peace plan or face ‘a very sad end’ – as it happened",
       "url": "https://www.theguardian.com/world/live/2025/sep/30/netanyahu-israel-gaza-hamas-trump-peace-plan-latest-news-middle-east-crisis-live",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-09-30T16:55:05.000Z",
       "summary_90w": "",
-      "raw": "Ultimatum comes as Netanyahu says he did not agree to Palestinian state as part of Trump Gaza plan, and IDF will remain ‘in most of territory’\n\nWhat’s in Trump’s 20-point peace plan for Gaza?\n\nThe Gaza health ministry has announced on Telegram that 453 people, including 150 children, have died of famine and malnutrition in Gaza.\nSince the Integrated Food Security Phase Classification (IPC) declared famine in Gaza in August, a further 175 deaths have been recorded, among them 35 children.\n Continue reading...",
+      "raw": "Ultimatum comes as Netanyahu says he did not agree to Palestinian state as part of Trump Gaza plan, and IDF will remain ‘in most of territory’. This live blog is closed\n\nWhat’s in Trump’s 20-point peace plan for Gaza?\n\nThe Gaza health ministry has announced on Telegram that 453 people, including 150 children, have died of famine and malnutrition in Gaza.\nSince the Integrated Food Security Phase Classification (IPC) declared famine in Gaza in August, a further 175 deaths have been recorded, among them 35 children.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -88,7 +127,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-30T16:47:37.000Z",
       "summary_90w": "",
-      "raw": "US president warns militant group will ‘pay in hell’ if it rejects the deal, which seeks to end two-year-long war\nDonald Trump has given Hamas an ultimatum of “three or four days” to respond to his proposed peace and reconstruction plan in Gaza, warning the militant group would “pay in hell” if it rejects the deal, as the Israeli offensive continued, inflicting further civilian casualties.\nTrump’s proposal was announced in a joint press conference in Washington with Israel’s prime minister Benjamin Netanyahu and seeks a definitive end to the relentless two-year-long war. At least 31 Palestinians were killed across Gaza on Tuesday, local hospitals said.\n Continue reading...",
+      "raw": "US president warns militant group will ‘pay in hell’ if it rejects the deal, which seeks to end two-year-long war\nDonald Trump has given Hamas an ultimatum of “three or four days” to respond to his proposed peace and reconstruction plan in Gaza, warning the militant group would “pay in hell” if it rejects the deal, as the Israeli offensive continued, inflicting further civilian casualties.\nTrump’s proposal was announced in a joint press conference in Washington with Israel’s prime minister, Benjamin Netanyahu, and seeks a definitive end to the relentless two-year-long war. At least 31 Palestinians were killed across Gaza on Tuesday, local hospitals said.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -432,19 +471,6 @@
       ]
     },
     {
-      "id": "4b00decb9d691ac1f90c5cce1ed3a5f65ae90b34",
-      "title": "Amazon&#8217;s 2025 hardware event: the 8 biggest announcements",
-      "url": "https://www.theverge.com/news/788297/amazon-fall-2025-hardware-announcements-echo-alexa-kindle-ring",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-30T15:36:24.000Z",
-      "summary_90w": "",
-      "raw": "Amazon just finished up its fall event, where it shared big updates across its entire hardware lineup. In addition to revealing new Echo hardware and Kindle Scribe upgrades, Amazon also took the wraps off refreshed Fire TV devices and a whole bunch more.\nHere are all the announcements Amazon made during the event.\nAmazon revamps the Echo Show 8 and 11\nAmazon debuted its latest Echo Show smart displays, with both the 8-inch and 11-inch models featuring a new design that places a slimmer screen atop an oblong speaker wrapped in knit fabric. Both displays have 13-megapixel cameras with a wide-angle view to better detect people in the room, and some upgrades to the Show UI make it easier to control multiple devices at the same time, too. They also come with Amazon’s AI-powered Alexa Plus assistant.\nThe Echo Show 11 costs $219.99 and has a 1080p display, while the Echo Show 8 is priced at $179.99 and has a 720p display.\nAmazon’s redesigned Echo Dot Max has a higher price tag\nAmazon is giving its budget-friendly smart speaker an upgrade with the Echo Dot Max. The new device supports Alexa Plus but is available for $99.99, making it more expensive than the $49.99 Echo Dot. This upgraded device offers a more powerful speaker with three times the bass when compared to the base Echo Dot, and it also has higher-quality fabric, a better microphone array, and an updated design that places speaker controls and an LED light ring on the front.\nA smaller — but more powerful — Echo Studio\nLike the Echo Dot Max, the $219.99 Echo Studio also puts touch controls and an LED ring light on the front of the device. Aside from this change, the Echo Studio is smaller than its predecessor and also offers support for spatial audio and Dolby Atmos.\nYou can also use the new Alexa Home Theater feature to link up to five Echo Studio or Echo Dot Max devices to create surround sound with Fire TV sticks.\nA Kindle Scribe with color\nAmazon is launching three new Kindle Scribes, including one with a color display. The Kindle Scribe Colorsoft starts at $629.99, offering up to two weeks of battery life and the ability to highlight, draw, and write in an array of colors when it launches later this year.\nAside from the Kindle Scribe Colorsoft, Amazon is also launching an entry-level Scribe starting at $429.99, along with a mid-tier model with a frontlit display starting at $499.99. All of Amazon’s new ereaders feature an 11-inch screen with thinner bezels, a light design, and new AI features for summarizing your notes.\nAmazon’s new Fire TVs have Alexa Plus built in\nAmazon’s new Fire TV Omni QLED lineup features a revamped design with brighter displays and an upgraded processor that allows for faster performance. They also have support for Dolby Vision and HDR10 Plus, and can automatically adjust the display’s color based on the lighting in your room. The new Fire TV Omni QLED models come in sizes ranging from 50 to 75 inches and start at $479.99.\nAdditionally, Amazon revealed new 2- and 4-Series Fire TVs, which have thinner metal bezels and a more powerful quad-core processor. They’re available from 32 inches to 55 inches and start at $159.99. All of Amazon’s new TVs have Alexa Plus on board, allowing you to ask the upgraded voice assistant for movie recommendations and sports scores, as well as to search for specific scenes across Prime Video.\nThe Fire TV Stick 4K Select runs on Vega OS\nAmazon’s new Fire TV Stick 4K Select runs on the company’s long-rumored Vega operating system, which enables better performance in addition to 4K video quality and support for HDR10 Plus. Along with the many streaming apps you can use with the device, Amazon says it will soon support Xbox Gaming, Luna, and Alexa Plus. The Fire TV Stick 4K Select costs $39.99 and is available for preorder today.\nRing’s “Retinal Vision” doorbells add 4K video recording\nThere are quite a few updates coming to Amazon’s Ring devices, which now includes an entire lineup with 4K video paired with the company’s new “Retinal Vision” technology. That includes a new $249.99 Ring Wired Doorbell Pro 4K, $199.99 Outdoor Cam Pro 4K, $249.99 Spotlight Cam Pro 4K, and the $279.99 Floodlight Cam Pro 4K. It also announced a $179.99 Ring Wired Doorbell and $59.99 Indoor Cam Plus with 2K video.\nRing highlighted some new features coming to its cameras and doorbells, too, including an AI facial recognition capability that recognizes people at your door, Alexa Plus-powered doorbell greetings, as well as a Search Party feature that helps locate lost dogs in your neighborhood.\nBlink’s Arc camera offers a panoramic view of your yard\nBlink has announced a new device called Arc that comes equipped with two cameras that combine for a 180-degree view. Blink stitches together the footage from the two cameras, eliminating the need to switch between multiple feeds.\nIn addition to the $99.99 Arc camera, Blink also revealed new Blink Outdoor 2K Plus and Blink Mini 2K Plus cameras, both of which offer 2K video resolution, upgraded audio, color night vision, and a two-way talking system with noise cancellation.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "01627fc1a5f7b95d8b8e53605edd1d278c77b850",
       "title": "AI that talks back: Character AI in the spotlight with Karandeep Anand at TechCrunch Disrupt 2025",
       "url": "https://techcrunch.com/2025/09/30/ai-that-talks-back-character-ai-in-the-spotlight-with-karandeep-anand-at-techcrunch-disrupt-2025/",
@@ -481,19 +507,6 @@
       "raw": "Former PM seems a perfect fit for Trump’s new era but his track record in the Middle East is not reassuring\nThe emergence of Tony Blair as a potential Gaza interim consul and member of Donald Trump’s “board of peace” marks his latest reinvention as a would-be power broker in the Middle East.\nAs a key architect of the disastrous invasion of Iraq, a promoter of a simplistic interpretation of Islamist extremism as the world’s main security challenge and a figure who has been accused of intertwining his own business interests with his political advocacy, he is in some ways a perfect fit for the new Trump era.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "c5d693fb75532bddb728eea391e7392b0becfa70",
-      "title": "Alexa Plus on the TV is made to save you from your phone",
-      "url": "https://www.theverge.com/news/788594/amazon-alexa-plus-fire-tv-select-4k",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-30T15:21:10.000Z",
-      "summary_90w": "",
-      "raw": "Alexa Plus is coming to a bunch of Amazon’s new and current Fire TV hardware. Just like before, you can summon the new, improved version of Alexa with your voice, but it’s designed to be much more helpful and better at fetching context-sensitive information about things happening onscreen that you might normally reach for your phone to find.\nThe company shared some ways in which Alexa Plus supercharges its X-Ray feature that tells you more about the content you’re watching on Prime Video. It can tell you about an actor’s background, tell you where a TV series was filmed, or school you on related trivia, all while you’re watching along. One of its coolest features is its ability to search for specific scenes in movies or TV shows within Prime Video, jumping right into the action.\nThe smart assistant also supports Netflix, HBO Max, and other services, although Amazon hasn’t shared how deep Alexa Plus’ integration is in those apps. Alexa Plus can also help you jump into live sporting events on Prime Video, Sling TV, DirecTV, and Fubo, and it can share scores and player stats based on the event that you’re watching.\nAlexa Plus is supported on the company’s new Fire TV 2- and 4-series, as well as its new QLED model. It’s also coming to the new Fire TV Stick 4K Select. It shared that it’ll also be supported by “additional select Fire TV devices, including Panasonic and Hisense models.” Alexa Plus will be coming to the Fire TV Stick 4K, the 4K Max, and the Fire TV Cube.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -936,19 +949,6 @@
       "raw": "Jian Guo jailed for five years after acting as agent for Chinese intelligence while working for Maximilian Krah\nA former aide to a member of parliament for the far-right Alternative für Deutschland party has been sentenced to almost five years in prison for spying on behalf of China.\nJian Guo was convicted on Tuesday of acting as an agent for the Chinese intelligence service while working for Maximilian Krah, a former member of the European parliament who now sits for the AfD in Germany’s Bundestag.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "0908f14fbd55a6a50963643f16220d414b23c98b",
-      "title": "DoorDash rolls out creator program for short-form videos, adds AI features and dine-in rewards",
-      "url": "https://techcrunch.com/2025/09/30/doordash-rolls-out-creator-program-for-short-form-videos-adds-new-app-features-and-dine-in-rewards/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-30T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "People in 20 U.S. cities — including Atlanta, Austin, Miami, and San Francisco — can now apply to become a DoorDash Creator.",
-      "topics": [
-        "Technology"
       ]
     },
     {
