@@ -1,7 +1,72 @@
 {
-  "version": "1759251396382",
-  "generatedAt": "2025-09-30T16:56:36.382Z",
+  "version": "1759252464282",
+  "generatedAt": "2025-09-30T17:14:24.282Z",
   "items": [
+    {
+      "id": "7d1805686bb603052a6f39aa8470e40159bbd5f8",
+      "title": "OpenAI’s new social video app will let you deepfake your friends",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-30T17:06:39.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI has a new version of its Sora AI video generator, and it’s being launched alongside a new social video app, also called Sora, on iOS. The app, currently invite-only, resembles TikTok. But instead of encouraging people to stitch together duets, it asks you to record short videos that anyone can spin into new AI-generated deepfakes — with your consent.\n\nIn a briefing with reporters on Monday, employees called it the potential “ChatGPT moment for video generation.” The Sora app is currently only available to US and Canada users, with other countries set to follow, and when someone receives access, they also get four additional invites to share with friends.  There’s no word on when an Android version might be released.\n\nSora users can give their friends — or, if they’re feeling bold, everyone — permission to create “cameos” with their own likeness using the new video model, which is dubbed Sora 2. The person whose likeness is being generated is a “co-owner” of that end result, OpenAI employees said in a briefing with reporters on Monday, and they can delete it, or revoke access to others, at any time. Like TikTok, OpenAI’s Sora app allows you to interact with other videos and trends using a “Remix” feature, but it only allows for the generation of 10-second videos for now. \n\nOpenAI currently has a lot of restrictions on generating videos of public figures, but that may not be the case forever, according to the briefing with reporters. Currently, “public figures can’t be generated in Sora unless they’ve uploaded a cameo themselves and given consent for it to be used,” OpenAI wrote in a release. “The same applies to everyone: if you haven’t uploaded a cameo, your likeness can’t be used.” During the briefing, OpenAI employees also said that it’s currently “impossible to generate” X-rated or “extreme” content via the platform.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "26dae4d8065df8f1e2e1ea50f049024552a5e211",
+      "title": "Microsoft’s Windows 11 2025 update is available now",
+      "url": "https://www.theverge.com/news/788167/microsoft-windows-11-version-25h2-download-insta",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-09-30T17:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is rolling out its annual Windows 11 update (known as version 25H2) today. After testing the update in the Windows Insider Release Preview ring last month, version 25H2 is now starting to roll out to all Windows 11 users through Windows Update. The 25H2 update isn’t a huge one, so it won’t take long to install — Microsoft is delivering it as a small “enablement package.”\n“This means that it contains all the recently announced features in Windows 11, version 24H2,” explains John Cable, vice president of program management for Windows servicing and delivery. “Both versions use a shared code base and servicing branch, streamlining the update.”\nThis shared code base also means Microsoft will continue to release new Windows features monthly to both 24H2 and 25H2 versions of Windows 11. Version 25H2 does have some improvements behind the scenes, though. “Version 25H2 includes significant advancements in build and runtime vulnerability detection, coupled with AI assisted secure coding,” Cable says. “We’ve designed version 25H2 to address and mitigate security threats in adherence to a robust security development lifecycle (SDL) policy and requirements.”\nThe update is also a little leaner thanks to the removal of PowerShell 2.0 and the Windows Management Instrumentation command-line (WMIC).\nIf you want to get 25H2 today, then all you need to do is ensure the “get the latest updates as soon as they’re available” option is toggled on in Windows Update. “If we detect that your device may have an issue, such as an application or driver incompatibility, we may put a safeguard hold in place and not offer the update until that issue is resolved,” Cable says. Microsoft will expand the rollout over the next few months and share known issues and device incompatibilities on its Windows release health hub.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ab4e674fb825852836af68de7a3d1e7c71c48de6",
+      "title": "Pasta meals from Trader Joe's and Walmart may be linked to a deadly listeria outbreak",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5557934/pasta-listeria-outbreak-walmart-trader-joes",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-09-30T16:57:37.000Z",
+      "summary_90w": "",
+      "raw": "The USDA says the precooked pasta products, sold at Trader Joe's and Walmart, could be connected to a nationwide listeria outbreak that has killed four people and sickened at least 20 others.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6d06ded7323543dbacef5362c0d199cf724808a2",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "url": "https://techcrunch.com/2025/09/30/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-09-30T16:56:24.000Z",
+      "summary_90w": "",
+      "raw": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c77244b27676bbc22472b834e2d5be0e4d51cb6b",
+      "title": "Trump gives Hamas ‘three or four days’ to respond to Gaza peace plan or face ‘a very sad end’ – live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/30/netanyahu-israel-gaza-hamas-trump-peace-plan-latest-news-middle-east-crisis-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-30T16:55:05.000Z",
+      "summary_90w": "",
+      "raw": "Ultimatum comes as Netanyahu says he did not agree to Palestinian state as part of Trump Gaza plan, and IDF will remain ‘in most of territory’\n\nWhat’s in Trump’s 20-point peace plan for Gaza?\n\nThe Gaza health ministry has announced on Telegram that 453 people, including 150 children, have died of famine and malnutrition in Gaza.\nSince the Integrated Food Security Phase Classification (IPC) declared famine in Gaza in August, a further 175 deaths have been recorded, among them 35 children.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "c3c616c5052b3c1dc2a575f9d49051ce94c278a9",
       "title": "A comprehensive list of 2025 tech layoffs",
@@ -13,6 +78,19 @@
       "raw": "A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "f8441999b741d9f47e3089909a410ae1e61e6409",
+      "title": "Trump gives Hamas ‘three or four days’ to respond to his peace plan for Gaza",
+      "url": "https://www.theguardian.com/world/2025/sep/30/hamas-mulls-options-as-countries-rush-to-welcome-trump-gaza-peace-plan",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-09-30T16:47:37.000Z",
+      "summary_90w": "",
+      "raw": "US president warns militant group will ‘pay in hell’ if it rejects the deal, which seeks to end two-year-long war\nDonald Trump has given Hamas an ultimatum of “three or four days” to respond to his proposed peace and reconstruction plan in Gaza, warning the militant group would “pay in hell” if it rejects the deal, as the Israeli offensive continued, inflicting further civilian casualties.\nTrump’s proposal was announced in a joint press conference in Washington with Israel’s prime minister Benjamin Netanyahu and seeks a definitive end to the relentless two-year-long war. At least 31 Palestinians were killed across Gaza on Tuesday, local hospitals said.\n Continue reading...",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -146,19 +224,6 @@
       ]
     },
     {
-      "id": "c77244b27676bbc22472b834e2d5be0e4d51cb6b",
-      "title": "Trump gives Hamas ‘three or four days’ to respond to Gaza peace plan or face ‘a very sad end’ – live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/30/netanyahu-israel-gaza-hamas-trump-peace-plan-latest-news-middle-east-crisis-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-30T16:22:59.000Z",
-      "summary_90w": "",
-      "raw": "Ultimatum comes as Netanyahu says he did not agree to Palestinian state as part of Trump Gaza plan, and IDF will remain ‘in most of territory’\n\nWhat’s in Trump’s 20-point peace plan for Gaza?\n\nThe Gaza health ministry has announced on Telegram that 453 people, including 150 children, have died of famine and malnutrition in Gaza.\nSince the Integrated Food Security Phase Classification (IPC) declared famine in Gaza in August, a further 175 deaths have been recorded, among them 35 children.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "3d6baef56d29486149c6633de5bc07c659bbe405",
       "title": "Hance will demo its kilobyte-size AI audio processing software at TechCrunch Disrupt 2025",
       "url": "https://techcrunch.com/2025/09/30/hance-will-demo-its-kilobyte-size-ai-audio-processing-software-at-techcrunch-disrupt-2025/",
@@ -180,6 +245,19 @@
       "published": "2025-09-30T16:16:27.000Z",
       "summary_90w": "",
       "raw": "The PM vows to fight Reform UK's \"politics of grievance\" in a speech to Labour's annual conference.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e0ca3e54bb39b57054dc4541c85de8c9ca09694d",
+      "title": "Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness",
+      "url": "https://www.bbc.com/news/articles/cn829deeje3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-30T16:15:13.000Z",
+      "summary_90w": "",
+      "raw": "The plan is a significant moment - but it lacks the nuts and bolts that determine whether diplomatic agreements hold together, or don't.",
       "topics": [
         "World"
       ]
@@ -361,7 +439,7 @@
       "source_name": "The Verge",
       "published": "2025-09-30T15:36:24.000Z",
       "summary_90w": "",
-      "raw": "Amazon just finished up its fall event, where it shared big updates across its entire hardware lineup. In addition to revealing new Echo hardware and Kindle Scribe upgrades, Amazon also took the wraps off refreshed Fire TV devices and a whole bunch more.\nHere are all the announcements Amazon made during the event.\nAmazon revamps the Echo Show 8 and 11\nAmazon debuted its latest Echo Show smart displays, with both the 8-inch and 11-inch models featuring a new design that places a slimmer screen atop an oblong speaker wrapped in knit fabric. Both displays have 13-megapixel cameras with a wide-angle view to better detect people in the room, and some upgrades to the Show UI make it easier to control multiple devices at the same time, too. They also come with Amazon’s AI-powered Alexa Plus assistant.\nThe Echo Show 11 costs $219.99 and has a 1080p display, while the Echo Show 8 is priced at $179.99 and has a 720p display.\nAmazon’s redesigned Echo Dot Max has a higher price tag\nAmazon is giving its budget-friendly smart speaker an upgrade with the Echo Dot Max. The new device supports Alexa Plus but is available for $99.99, making it more expensive than the $49.99 Echo Dot. This upgraded device offers a more powerful speaker with three times the bass when compared to the base Echo Dot, and it also has higher-quality fabric, a better microphone array, and an updated design that places speaker controls and an LED light ring on the front.\nA smaller — but more powerful — Echo Studio\nLike the Echo Dot Max, the Echo Studio also puts touch controls and an LED ring light on the front of the device. Aside from this change, the Echo Studio is smaller than its predecessor and also offers support for spatial audio and Dolby Atmos.\nYou can also use the new Alexa Home Theater feature to link up to five Echo Studio or Echo Dot Max devices to create surround sound with Fire TV sticks.\nA Kindle Scribe with color\nAmazon is launching three new Kindle Scribes, including one with a color display. The Kindle Scribe Colorsoft starts at $629.99, offering up to two weeks of battery life and the ability to highlight, draw, and write in an array of colors when it launches later this year.\nAside from the Kindle Scribe Colorsoft, Amazon is also launching an entry-level Scribe starting at $429.99, along with a mid-tier model with a frontlit display starting at $499.99. All of Amazon’s new ereaders feature an 11-inch screen with thinner bezels, a light design, and new AI features for summarizing your notes.\nAmazon’s new Fire TVs have Alexa Plus built in\nAmazon’s new Fire TV Omni QLED lineup features a revamped design with brighter displays and an upgraded processor that allows for faster performance. They also have support for Dolby Vision and HDR10 Plus, and can automatically adjust the display’s color based on the lighting in your room. The new Fire TV Omni QLED models come in sizes ranging from 50 to 75 inches and start at $479.99.\nAdditionally, Amazon revealed new 2- and 4-Series Fire TVs, which have thinner metal bezels and a more powerful quad-core processor. They’re available from 32 inches to 55 inches and start at $159.99. All of Amazon’s new TVs have Alexa Plus on board, allowing you to ask the upgraded voice assistant for movie recommendations and sports scores, as well as to search for specific scenes across Prime Video.\nThe Fire TV Stick 4K Select runs on Vega OS\nAmazon’s new Fire TV Stick 4K Select runs on the company’s long-rumored Vega operating system, which enables better performance in addition to 4K video quality and support for HDR10 Plus. Along with the many streaming apps you can use with the device, Amazon says it will soon support Xbox Gaming, Luna, and Alexa Plus. The Fire TV Stick 4K Select costs $39.99 and is available for preorder today.\nRing’s “Retinal Vision” doorbells add 4K video recording\nThere are quite a few updates coming to Amazon’s Ring devices, which now includes an entire lineup with 4K video paired with the company’s new “Retinal Vision” technology. That includes a new $249.99 Ring Wired Doorbell Pro 4K, $199.99 Outdoor Cam Pro 4K, $249.99 Spotlight Cam Pro 4K, and the $279.99 Floodlight Cam Pro 4K. It also announced a $179.99 Ring Wired Doorbell and $59.99 Indoor Cam Plus with 2K video.\nRing highlighted some new features coming to its cameras and doorbells, too, including an AI facial recognition capability that recognizes people at your door, Alexa Plus-powered doorbell greetings, as well as a Search Party feature that helps locate lost dogs in your neighborhood.\nBlink’s Arc camera offers a panoramic view of your yard\nBlink has announced a new device called Arc that comes equipped with two cameras that combine for a 180-degree view. Blink stitches together the footage from the two cameras, eliminating the need to switch between multiple feeds.\nIn addition to the $99.99 Arc camera, Blink also revealed new Blink Outdoor 2K Plus and Blink Mini 2K Plus cameras, both of which offer 2K video resolution, upgraded audio, color night vision, and a two-way talking system with noise-cancellation.",
+      "raw": "Amazon just finished up its fall event, where it shared big updates across its entire hardware lineup. In addition to revealing new Echo hardware and Kindle Scribe upgrades, Amazon also took the wraps off refreshed Fire TV devices and a whole bunch more.\nHere are all the announcements Amazon made during the event.\nAmazon revamps the Echo Show 8 and 11\nAmazon debuted its latest Echo Show smart displays, with both the 8-inch and 11-inch models featuring a new design that places a slimmer screen atop an oblong speaker wrapped in knit fabric. Both displays have 13-megapixel cameras with a wide-angle view to better detect people in the room, and some upgrades to the Show UI make it easier to control multiple devices at the same time, too. They also come with Amazon’s AI-powered Alexa Plus assistant.\nThe Echo Show 11 costs $219.99 and has a 1080p display, while the Echo Show 8 is priced at $179.99 and has a 720p display.\nAmazon’s redesigned Echo Dot Max has a higher price tag\nAmazon is giving its budget-friendly smart speaker an upgrade with the Echo Dot Max. The new device supports Alexa Plus but is available for $99.99, making it more expensive than the $49.99 Echo Dot. This upgraded device offers a more powerful speaker with three times the bass when compared to the base Echo Dot, and it also has higher-quality fabric, a better microphone array, and an updated design that places speaker controls and an LED light ring on the front.\nA smaller — but more powerful — Echo Studio\nLike the Echo Dot Max, the $219.99 Echo Studio also puts touch controls and an LED ring light on the front of the device. Aside from this change, the Echo Studio is smaller than its predecessor and also offers support for spatial audio and Dolby Atmos.\nYou can also use the new Alexa Home Theater feature to link up to five Echo Studio or Echo Dot Max devices to create surround sound with Fire TV sticks.\nA Kindle Scribe with color\nAmazon is launching three new Kindle Scribes, including one with a color display. The Kindle Scribe Colorsoft starts at $629.99, offering up to two weeks of battery life and the ability to highlight, draw, and write in an array of colors when it launches later this year.\nAside from the Kindle Scribe Colorsoft, Amazon is also launching an entry-level Scribe starting at $429.99, along with a mid-tier model with a frontlit display starting at $499.99. All of Amazon’s new ereaders feature an 11-inch screen with thinner bezels, a light design, and new AI features for summarizing your notes.\nAmazon’s new Fire TVs have Alexa Plus built in\nAmazon’s new Fire TV Omni QLED lineup features a revamped design with brighter displays and an upgraded processor that allows for faster performance. They also have support for Dolby Vision and HDR10 Plus, and can automatically adjust the display’s color based on the lighting in your room. The new Fire TV Omni QLED models come in sizes ranging from 50 to 75 inches and start at $479.99.\nAdditionally, Amazon revealed new 2- and 4-Series Fire TVs, which have thinner metal bezels and a more powerful quad-core processor. They’re available from 32 inches to 55 inches and start at $159.99. All of Amazon’s new TVs have Alexa Plus on board, allowing you to ask the upgraded voice assistant for movie recommendations and sports scores, as well as to search for specific scenes across Prime Video.\nThe Fire TV Stick 4K Select runs on Vega OS\nAmazon’s new Fire TV Stick 4K Select runs on the company’s long-rumored Vega operating system, which enables better performance in addition to 4K video quality and support for HDR10 Plus. Along with the many streaming apps you can use with the device, Amazon says it will soon support Xbox Gaming, Luna, and Alexa Plus. The Fire TV Stick 4K Select costs $39.99 and is available for preorder today.\nRing’s “Retinal Vision” doorbells add 4K video recording\nThere are quite a few updates coming to Amazon’s Ring devices, which now includes an entire lineup with 4K video paired with the company’s new “Retinal Vision” technology. That includes a new $249.99 Ring Wired Doorbell Pro 4K, $199.99 Outdoor Cam Pro 4K, $249.99 Spotlight Cam Pro 4K, and the $279.99 Floodlight Cam Pro 4K. It also announced a $179.99 Ring Wired Doorbell and $59.99 Indoor Cam Plus with 2K video.\nRing highlighted some new features coming to its cameras and doorbells, too, including an AI facial recognition capability that recognizes people at your door, Alexa Plus-powered doorbell greetings, as well as a Search Party feature that helps locate lost dogs in your neighborhood.\nBlink’s Arc camera offers a panoramic view of your yard\nBlink has announced a new device called Arc that comes equipped with two cameras that combine for a 180-degree view. Blink stitches together the footage from the two cameras, eliminating the need to switch between multiple feeds.\nIn addition to the $99.99 Arc camera, Blink also revealed new Blink Outdoor 2K Plus and Blink Mini 2K Plus cameras, both of which offer 2K video resolution, upgraded audio, color night vision, and a two-way talking system with noise cancellation.",
       "topics": [
         "Technology"
       ]
@@ -455,32 +533,6 @@
       "raw": "The UN says 22 people have been killed and more than 100 others injured since protests broke out on Thursday.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "6bca20cc05acb12222d0690346d4d73ad7e9236b",
-      "title": "Hands-on with Amazon’s new Kindle Scribes, including one with a color screen",
-      "url": "https://www.theverge.com/tech/787984/kindle-scribe-colorsoft-hands-on-amazon",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-30T15:12:33.000Z",
-      "summary_90w": "",
-      "raw": "Color comes to the big Kindles.\t\n\nAmazon announced three new Kindle Scribes this morning with a much nicer design. There's even one with a color screen. I had a chance to check them out ahead of Amazon's press event, and I have some thoughts.\nThis marks the third generation of the company's larger 11-inch eReaders aimed at professionals, students, and people who just want… a big screen for magazines, books, or to jot notes on. The addition of a color display is one highlight, but these Scribes are also super light (14.1 oz) and thin. At 5.4mm, they're thinner than the iPhone Air and come with new AI features that will help users quickly summarize notes. I dig the new look w …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "f0955c331a1dfccb635646632dabad767b6a923e",
-      "title": "Amazon finally did the damn hardware right",
-      "url": "https://www.theverge.com/tech/788051/hands-on-amazon-alexa-echo-show-11-echo-dot-max-echo-studio",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-30T15:12:02.000Z",
-      "summary_90w": "",
-      "raw": "The new Echo Show 11 smart display in white. This is one of the first devices to ship with Alexa Plus, Amazon’s new generative AI assistant, ready to go out of the box.\t\n\nAmazon's newest Echo speakers look gorgeous. Thin bezels, bright, responsive touchscreens, 3D knit fabric-wrapped speakers with controls front and center, and most importantly, powerful hardware to help make the smart home sing. It's almost everything I've ever asked for from my smart speakers and displays.\nA lack of premium hardware - or any clear strategy around smart home devices - has long been an issue for Amazon. While practically giving Echo devices away has resulted in an impressive penetration for its Alexa voice assistant, they're not devices people treasure. They don't get much respect. These new Echo speakers look set to flip th …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -777,7 +829,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-09-30T13:54:48.000Z",
       "summary_90w": "",
-      "raw": "Israeli military has been arming alternatives to Hamas, with up to a dozen new groups emerging\n\nMiddle East crisis – live updates\n\nArmed militia and gangs supported by Israel are seizing control of parts of Gaza, exacerbating its humanitarian crisis and potentially threatening any efforts to bring order if Donald Trump’s plan for Gaza takes hold.\nThe Israeli military and security services have for several months been arming and training groups in Gaza as local auxiliary forces and as an alternative to Hamas, but the strategy appears to have gathered momentum in recent weeks.\n Continue reading...",
+      "raw": "Israeli military has been arming alternatives to Hamas, with up to a dozen new groups emerging\nArmed militia and gangs supported by Israel are seizing control of parts of Gaza, exacerbating its humanitarian crisis and potentially threatening any efforts to bring order if Donald Trump’s plan for Gaza takes hold.\nThe Israeli military and security services have for several months been arming and training groups in Gaza as local auxiliary forces and as an alternative to Hamas, but the strategy appears to have gathered momentum in recent weeks.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -887,19 +939,6 @@
       ]
     },
     {
-      "id": "483c37fef5271010d1a8fff06e697788df07d86a",
-      "title": "A year after filing to IPO, still-private Cerebras Systems raises $1.1B",
-      "url": "https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-30T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Cerebras initially filed to go public in September 2024 but ran into several regulatory delays due to foreign investments.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "0908f14fbd55a6a50963643f16220d414b23c98b",
       "title": "DoorDash rolls out creator program for short-form videos, adds AI features and dine-in rewards",
       "url": "https://techcrunch.com/2025/09/30/doordash-rolls-out-creator-program-for-short-form-videos-adds-new-app-features-and-dine-in-rewards/",
@@ -910,19 +949,6 @@
       "raw": "People in 20 U.S. cities — including Atlanta, Austin, Miami, and San Francisco — can now apply to become a DoorDash Creator.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f8441999b741d9f47e3089909a410ae1e61e6409",
-      "title": "Hamas mulls options as countries rush to welcome Trump’s Gaza peace plan",
-      "url": "https://www.theguardian.com/world/2025/sep/30/hamas-mulls-options-as-countries-rush-to-welcome-trump-gaza-peace-plan",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-09-30T12:51:39.000Z",
-      "summary_90w": "",
-      "raw": "Israeli media and politicians broadly supportive while far right and Islamic Jihad voice scepticism\n\nMiddle East crisis – live updates\n\nHamas has said it will review the outline of the Gaza peace plan presented by Donald Trump in Washington on Monday, as leaders across the Middle East and elsewhere voiced support for the proposal, which comes after almost two years of relentless violence.\nIn Israel, media and politicians broadly welcomed Benjamin Netanyahu’s announcement, made at a joint press conference with Trump, that he supported the 20-point plan, which meets many of Israel’s principal demands.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1033,13 +1059,13 @@
       "id": "a5dfafcbe440d24dd690b25f8eb9d22c4ef02099",
       "title": "Germany thrived in the first China Shock. But the next one could prove catastrophic.",
       "url": "https://www.npr.org/sections/planet-money/2025/09/30/g-s1-90937/germany-thrived-in-the-first-china-shock-but-the-next-one-could-prove-catastrophic",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2025-09-30T10:30:00.000Z",
       "summary_90w": "",
       "raw": "The export-led industrial model that Germany has pursued for decades is now at a crossroads.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -1378,19 +1404,6 @@
       "raw": "Facing increasing stress, cybersecurity professionals are dropping out of the workforce.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "bc4a2262ec6ce19bddec92761002840375950867",
-      "title": "The Botox Black Market",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002k7bt?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-29T23:01:00.000Z",
-      "summary_90w": "",
-      "raw": "Exposing dangerous medical professionals breaking rules in Britain's \"Botox Wild West\".",
-      "topics": [
-        "World"
       ]
     },
     {
