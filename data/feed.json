@@ -1,7 +1,33 @@
 {
-  "version": "1759345988275",
-  "generatedAt": "2025-10-01T19:13:08.275Z",
+  "version": "1759346869519",
+  "generatedAt": "2025-10-01T19:27:49.519Z",
   "items": [
+    {
+      "id": "bd60b74cd8b0489d8e4bdb98d09e0064c72f25a7",
+      "title": "Character.AI removes Disney characters after receiving cease-and-desist letter",
+      "url": "https://techcrunch.com/2025/10/01/character-ai-removes-disney-characters-after-receiving-cease-and-desist-letter/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-01T19:15:01.000Z",
+      "summary_90w": "",
+      "raw": "\"Character.ai is freeriding off the goodwill of Disney’s famous marks and brands, and blatantly infringing Disney’s copyrights,\" a Disney lawyer wrote.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2d86b2a95e7e58a6ce2939628d5cf152a9ff86fd",
+      "title": "Students, listen up! NPR's College Podcast Challenge is back for 2025",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5559784/nprs-college-podcast-challenge-returns-for-2025",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-01T19:07:53.000Z",
+      "summary_90w": "",
+      "raw": "Our national podcasting contest for college students is now open for entries. Submit your story for a chance to win our $5,000 grand prize, and hear your podcast on NPR.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "a483387389166a107b6327b753be228e042b383f",
       "title": "Whizz co-founder says Trump’s Chicago crackdown is scaring delivery workers off the streets",
@@ -10,7 +36,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-01T18:53:48.000Z",
       "summary_90w": "",
-      "raw": "Whizz has seen e-bike rentals drop by about 8%  since National Guard troops arrived in the city.",
+      "raw": "Whizz has seen e-bike rentals drop by about 8%  since Trump threatened to send National guards troops to the city.",
       "topics": [
         "Technology"
       ]
@@ -965,32 +991,6 @@
       ]
     },
     {
-      "id": "325828233f439b189afb638177b794374dc8099c",
-      "title": "Google updates its Home app with Gemini smarts",
-      "url": "https://techcrunch.com/2025/10/01/google-updates-its-home-app-with-gemini-smarts/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-01T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "248423ef78a796ec7c0016ed4a27c07f94659ad7",
-      "title": "PEN America warns of rise in books 'systematically removed from school libraries'",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5559158/book-bans-challenges-pen-america",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-10-01T12:56:20.000Z",
-      "summary_90w": "",
-      "raw": "A new report says that the number of books being challenged or removed from public schools across the country has risen exponentially in the past two years. A Clockwork Orange tops their list.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "d62e2185e01c41634c293cc792cd348b3e397dba",
       "title": "Rochdale grooming gang ringleader jailed for 35 years",
       "url": "https://www.bbc.com/news/articles/c36k2595k69o?at_medium=RSS&at_campaign=rss",
@@ -1199,19 +1199,6 @@
       ]
     },
     {
-      "id": "759de0e910e1789959ec90731b74263b39aef3a8",
-      "title": "China's ride-hailing companies try to quell the smell in cars where some drivers sleep",
-      "url": "https://www.npr.org/2025/10/01/g-s1-90295/china-ride-hailing-car-odor",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-10-01T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "China's ride-hailing car drivers work long hours to get enough fares, and often live in their cars. Companies and passengers are penalizing drivers for smelly vehicles.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
       "id": "b130e56fd0c34b68b45bdd0f941e58a3ba86e1db",
       "title": "Devotees of the mysterious Mothman descend on its West Virginia hometown",
       "url": "https://www.npr.org/2025/10/01/g-s1-90648/mothman-festival-point-pleasant-west-virginia",
@@ -1220,6 +1207,19 @@
       "published": "2025-10-01T09:00:00.000Z",
       "summary_90w": "",
       "raw": "It started in the 1960s, when two couples told a harrowing story about being chased by a large flying creature on a rural road. It grew from there — and now 20,000 people come to celebrate Mothman.",
+      "topics": [
+        "Business"
+      ]
+    },
+    {
+      "id": "759de0e910e1789959ec90731b74263b39aef3a8",
+      "title": "Why China's ride apps are asking for odor ratings",
+      "url": "https://www.npr.org/2025/10/01/g-s1-90295/china-ride-hailing-car-odor",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2025-10-01T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "China's ride-hailing car drivers work long hours to get enough fares, and often live in their cars. Companies and passengers are penalizing drivers for smelly vehicles.",
       "topics": [
         "Business"
       ]
