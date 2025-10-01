@@ -1,7 +1,33 @@
 {
-  "version": "1759317277254",
-  "generatedAt": "2025-10-01T11:14:37.254Z",
+  "version": "1759318182854",
+  "generatedAt": "2025-10-01T11:29:42.854Z",
   "items": [
+    {
+      "id": "c208a3bfb2f6ebef9f1aa4402969181f1884e633",
+      "title": "Storm Amy named with 80mph winds and severe weather warnings for the UK",
+      "url": "https://www.bbc.com/weather/articles/cy042drenj8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-01T11:18:46.000Z",
+      "summary_90w": "",
+      "raw": "Simon King looks at what impacts Storm Amy, the first named storm of the season, will bring at the end of the week.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "19720c39fffb03e082067e608088347df198ae39",
+      "title": "What happens now that the government has shut down. And, a pricing deal with Pfizer",
+      "url": "https://www.npr.org/2025/10/01/g-s1-91399/up-first-newsletter-government-shutdown-pete-hegseth-trump-military-pfizer-pricing-deal",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-01T11:14:41.000Z",
+      "summary_90w": "",
+      "raw": "The federal government has shut down for the first time since 2019. Mass layoffs have been threatened. And, President Trump announced a pricing deal with Pfizer.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "26cd7f3ab2b94f8e2a8268342daa4fcf1b9b8376",
       "title": "Government shutdown could delay key economic reports at an especially sensitive time",
@@ -26,6 +52,19 @@
       "raw": "The new Bike Plus will cost $2,695.\t\n\nPeloton has been angling for a redemption arc ever since its status as a pandemic darling started faltering when the world reopened for business. It tried to steady the ship with a series of layoffs, a pivot to subscriptions, and a leadership shuffle. Now, Peloton's hoping to kick off a new era with the Cross Training Series, a total refresh of its product lineup consisting of a new Bike, Bike Plus, Tread, Tread Plus, and Row Plus.\n\"The impetus behind the Cross Training series is, 'Let's just give people one place to do all the strength and cardio workouts in one spot,\" says Nick Caldwell, Peloton's chief product officer.  \"We now make that …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "9afde2cc0d88d9e7406e4144871b0b1f78ebfd91",
+      "title": "Europe ‘in most difficult and dangerous situation since second world war,’ Danish PM warns – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/oct/01/mette-frederiksen-denmark-europe-russia-vladimir-putin-volodymyr-zelenskyy-ukraine-hybrid-war-security-europe-live-news",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-01T10:59:50.000Z",
+      "summary_90w": "",
+      "raw": "Mette Frederiksen says she backs the European Commission’s proposal for a reparation loan for Ukraine, secured on frozen Russian assets\nSiliņa says the EU should move on drones very quickly, as she rejects some criticism that fully developing the bloc’s “drone wall” could take up to three-four years.\n“We don’t need three years, and I believe we can do it in a much shorter time.\nIt just depends on the leaders [if] we can agree on a much shorter time, because with drones, how they’re developing so fast, three years is too long.”\n Continue reading...",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -68,32 +107,6 @@
       ]
     },
     {
-      "id": "995a6fb4c1a678367b1df734fdf50aec96e8de5b",
-      "title": "Greggs set to raise prices again in response to cost pressures",
-      "url": "https://www.bbc.com/news/articles/c2lx2k2y70qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-01T10:49:22.000Z",
-      "summary_90w": "",
-      "raw": "It will be increasing the price of its breakfast meal deals, with a smaller increase in the cost of its biscuits.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9afde2cc0d88d9e7406e4144871b0b1f78ebfd91",
-      "title": "Europe ‘in most difficult and dangerous situation since second world war,’ Danish PM warns – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/01/mette-frederiksen-denmark-europe-russia-vladimir-putin-volodymyr-zelenskyy-ukraine-hybrid-war-security-europe-live-news",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-01T10:45:51.000Z",
-      "summary_90w": "",
-      "raw": "Mette Frederiksen says she backs the European Commission’s proposal for a reparation loan for Ukraine, secured on frozen Russian assets\nSiliņa says the EU should move on drones very quickly, as she rejects some criticism that fully developing the bloc’s “drone wall” could take up to three-four years.\n“We don’t need three years, and I believe we can do it in a much shorter time.\nIt just depends on the leaders [if] we can agree on a much shorter time, because with drones, how they’re developing so fast, three years is too long.”\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "59010208fbcf724e41896b0c86d836f26de98bb7",
       "title": "Man suspected of ordering murder of three Argentine women arrested",
       "url": "https://www.bbc.com/news/articles/cx2x1vyqd4po?at_medium=RSS&at_campaign=rss",
@@ -110,7 +123,7 @@
       "id": "65003141622803b778745c1372cc26e91b513f38",
       "title": "Activists say Gaza flotilla circled by Israeli warship",
       "url": "https://www.bbc.com/news/articles/cwyr2lwg1rjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-10-01T10:32:19.000Z",
       "summary_90w": "",
@@ -128,19 +141,6 @@
       "published": "2025-10-01T10:13:56.000Z",
       "summary_90w": "",
       "raw": "It has not said how much the storage plans will cost UK users, only that they were part of a \"gradual global rollout\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c208a3bfb2f6ebef9f1aa4402969181f1884e633",
-      "title": "Storm Amy named with 80mph winds and severe weather warnings for the UK",
-      "url": "https://www.bbc.com/weather/articles/cy042drenj8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-01T10:11:46.000Z",
-      "summary_90w": "",
-      "raw": "Simon King looks at what impacts Storm Amy, the first named storm of the season, will bring at the end of the week.",
       "topics": [
         "World"
       ]
@@ -169,6 +169,19 @@
       "raw": "The Brompton Electric G when I reviewed it last year. | Photo by Thomas Ricker / The Verge\t\n\nThe Brompton Electric G folding e-bike I reviewed last year is now available to buy in the US starting at $4,950. While it looks like a regular Brompton, it’s been scaled up with 20-inch wheels and an extended wheelbase that improves the ride dramatically on all types of terrain, leaving behind the twitchiness of its 16-inch brethren. Despite this embiggening, it still folds down small enough to be taken onto a train or hoisted into the back of a car, making it ideal for multimodal commuters or as a companion vehicle for vanlifers.\nThe US bike has been tweaked a bit from the European model, now with a top speed of 20mph from the 250W rear-hub motor, and a module on the handlebar that lets you control the power-assist level and lights. Before the controls were awkwardly positioned on top of the battery.\nIn my experience, the Electric G lived up to Brompton’s claim that it’s “the most versatile e-bike in the world.” And now it’s even better for anyone that can afford a $5,000 e-bike.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "5e722990ba62604420300b0f35916a5f8f938a22",
+      "title": "Leigh 'do not intend to fulfil' Wigan semi-final ",
+      "url": "https://www.bbc.com/sport/rugby-league/articles/c0jq241lx92o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-01T09:54:39.000Z",
+      "summary_90w": "",
+      "raw": "Wigan say that Leigh Leopards have informed them they \"do not intend to fulfil\" Friday's Super League play-off semi-final.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -383,13 +396,13 @@
       "id": "f2dbe3cc7a983beb89893b4ac72aae524187dea4",
       "title": "Half of UK adults now regularly use mobile payments",
       "url": "https://www.bbc.com/news/articles/c2ejvld0ypyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-10-01T08:49:07.000Z",
       "summary_90w": "",
       "raw": "Regular mobile payments surged across different age groups last year, new banking data suggests.",
       "topics": [
-        "Technology"
+        "World"
       ]
     },
     {
@@ -513,7 +526,7 @@
       "id": "e0ca3e54bb39b57054dc4541c85de8c9ca09694d",
       "title": "Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness",
       "url": "https://www.bbc.com/news/articles/cn829deeje3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-10-01T07:05:33.000Z",
       "summary_90w": "",
@@ -687,19 +700,6 @@
       "published": "2025-10-01T05:00:51.000Z",
       "summary_90w": "",
       "raw": "Dr Mohammed Abu Mughaisib, who worked in hospitals in Gaza for two years, says Israeli strikes have made conditions \"indescribable\" for colleagues still there.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "27ee2e69eda250d3f42f1c20d3fffde04dd6a60b",
-      "title": "Government shuts down after Congress fails to reach a funding agreement",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5558456/government-shutdown-trump-house",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-10-01T04:01:00.000Z",
-      "summary_90w": "",
-      "raw": "Much of the federal government is now shut down after Republicans and Democrats in the Senate failed to agree on a funding plan to keep the government open.",
       "topics": [
         "World"
       ]
@@ -913,6 +913,19 @@
       ]
     },
     {
+      "id": "6834af0417a037851e6db541af20a4f9f50cf951",
+      "title": "No panic - but is this Liverpool's transitional season coming a year late?",
+      "url": "https://www.bbc.com/sport/football/articles/cjr5p4dery5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-30T23:28:50.000Z",
+      "summary_90w": "",
+      "raw": "After hitting the ground running 12 months ago, Arne Slot's experiencing his first bumps in the road as Liverpool boss, writes Phil McNulty.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "ca601599f1d8551d0f04c6e8a0c82f10d939c539",
       "title": "AO boss tells BBC: We're a British success story – the UK should be turbocharging us",
       "url": "https://www.bbc.com/news/articles/c8exj892085o?at_medium=RSS&at_campaign=rss",
@@ -934,19 +947,6 @@
       "published": "2025-09-30T23:01:26.000Z",
       "summary_90w": "",
       "raw": "Companies call for an \"enduring\" support scheme as energy prices rise by 2% for millions of households.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ed09054f09ae5411d3147e79af06a42c4e06bb4c",
-      "title": "What could happen during the US government shutdown?",
-      "url": "https://www.bbc.com/news/videos/ce32pz0gw34o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-30T22:57:08.000Z",
-      "summary_90w": "",
-      "raw": "Government funding has been cut off after Republicans and Democrats failed to agree on a spending bill.",
       "topics": [
         "World"
       ]
@@ -1277,6 +1277,19 @@
       ]
     },
     {
+      "id": "b0ac965ccad8887589cdc3fae57907b6a39d4d1c",
+      "title": "The surgeons treating frontline soldiers: “Every day is a mass casualty incident”",
+      "url": "https://www.bbc.co.uk/sounds/play/p0m5wrlg?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-30T16:30:00.000Z",
+      "summary_90w": "",
+      "raw": "And Moldova votes to move towards Europe.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "3d6baef56d29486149c6633de5bc07c659bbe405",
       "title": "Hance will demo its kilobyte-size AI audio-processing software at TechCrunch Disrupt 2025",
       "url": "https://techcrunch.com/2025/09/30/hance-will-demo-its-kilobyte-size-ai-audio-processing-software-at-techcrunch-disrupt-2025/",
@@ -1326,6 +1339,19 @@
       "raw": "A day after one of Japan's biggest brewers, Asahi Group, announced it suspended production due to a cyberattack, the company said it has no timeline for its recovery.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "823f09f48e096c9af8976e1ea85622acd952ab8f",
+      "title": "Watch on iPlayer: Who Was Charlie Kirk?",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002hpmg?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-30T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "How did Charlie Kirk become one of the most important conservative activists in the US?",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1602,19 +1628,6 @@
       ]
     },
     {
-      "id": "33d0cda7685ce2ddfbcacc8d15ccfe94f52c3d2c",
-      "title": "Trump's 20-point Gaza peace plan in full",
-      "url": "https://www.bbc.com/news/articles/c70155nked7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-30T06:12:28.000Z",
-      "summary_90w": "",
-      "raw": "European and Middle Eastern leaders have welcomed a new US peace plan for Gaza, as President Donald Trump warned Hamas to accept it.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "6cbb0a1491d841a434b27492383cf88f627bd5e0",
       "title": "Russian mum and children found living in Indian cave return home",
       "url": "https://www.bbc.com/news/articles/cjed4np5q38o?at_medium=RSS&at_campaign=rss",
@@ -1677,19 +1690,6 @@
       "raw": "Facing increasing stress, cybersecurity professionals are dropping out of the workforce.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "bc4a2262ec6ce19bddec92761002840375950867",
-      "title": "Watch on iPlayer: The Botox Black Market",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002k7bt?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-29T23:01:00.000Z",
-      "summary_90w": "",
-      "raw": "Exposing dangerous medical professionals breaking rules in Britain's \"Botox Wild West\".",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -2119,6 +2119,19 @@
       "raw": "Tyler Blevins says trolls attack him every day for being less popular than he was at the height of his fame.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "ecb2ad9344e58f1d448da94859383e809b7fec9a",
+      "title": "Coppola's epic gothic horror with a star-studded cast",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0024h49?at_mid=Bs7ufN67FH&at_campaign=Bram_Stokers_Dracula&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=iplayer&at_brand=m0024h49&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Bram_Stokers_Dracula&at_bbc_team=BBC",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-16T00:32:25.000Z",
+      "summary_90w": "",
+      "raw": "Centuries-old vampire Count Dracula comes to England.",
+      "topics": [
+        "World"
       ]
     },
     {
