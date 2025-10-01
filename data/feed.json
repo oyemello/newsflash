@@ -1,18 +1,70 @@
 {
-  "version": "1759356852070",
-  "generatedAt": "2025-10-01T22:14:12.070Z",
+  "version": "1759358056311",
+  "generatedAt": "2025-10-01T22:34:16.311Z",
   "items": [
     {
-      "id": "e62cb877de0a49e822780333300925804e8f6edd",
-      "title": "Pope Leo XIV says 'inhuman treatment of immigrants' in the U.S. isn't 'pro-life'",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5560169/pope-leo-xiv-says-inhuman-treatment-of-immigrants-in-the-u-s-isnt-pro-life",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-10-01T21:53:21.000Z",
+      "id": "53d95bec99c0dcba5cf56e0469750e7605cc3edb",
+      "title": "Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites",
+      "url": "https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-01T22:23:19.000Z",
       "summary_90w": "",
-      "raw": "Pope Leo XIV weighed in on U.S. politics, saying that Catholic politicians must be judged on the full range of their policy positions and suggesting that the country's immigration policy is \"inhuman.\"",
+      "raw": "The Trump administration has put up banners across federal websites blaming Democrats for the government shutdown, and in some cases, blatantly campaigning for President Donald Trump. One banner on the US Department of Agriculture’s site says, “The Radical Left Democrats shut down the government,” adding that “President Trump has made it clear he wants to keep the government open and support those who feed, fuel, and clothe the American people.”\nOther websites display similar messages, with a banner on the Department of the Treasury stating that Democrats have shut down the government “in the name of reckless spending and obstructionism.” The White House website similarly blames Democrats and includes a timer showing how long the shutdown has lasted so far.\nOn Wednesday morning, the federal government shut down after Congress couldn’t reach an agreement on a funding bill, as Democrats continue facing Republican pushback on their fight to extend subsidies for the Affordable Care Act. Republicans have largely blamed the freeze on Democrats, with House Speaker Mike Johnson (R-LA) writing on X that the Democrats “voted” to close the government.\nNot all federal agencies display these kinds of messages, as websites for the Department of State, the Department of Education, and the Federal Communications Commission have a banner that simply states that the sites will not be updated due to the government shutdown.",
       "topics": [
-        "World"
+        "Technology"
+      ]
+    },
+    {
+      "id": "153e9c0b06d3729c7cc20545753cc6a1860b1da4",
+      "title": "Apple sidelines lighter Vision Pro to prioritize smart glasses",
+      "url": "https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-01T22:22:51.000Z",
+      "summary_90w": "",
+      "raw": "Apple is speeding up work on smart glasses that would compete with similar offerings from Meta and halting plans for a lighter Vision Pro headset, Bloomberg reports. The company is apparently working on at least two different versions: a pair without a display that it could reveal next year and launch in 2027, and a pair with a display originally planned for 2028 that the company wants to “accelerate development” on.\nLike Meta’s smart glasses made in partnership with Ray-Ban and Oakley, Apple’s glasses will have speakers, cameras, come in multiple styles, and “will rely heavily on voice interaction and artificial intelligence,” according to Bloomberg. The version of the glasses with a display “could challenge” the Meta Ray-Ban Display glasses, which have a display in the right lens. Apple is also working on a chip specifically designed for its smart glasses, Bloomberg has previously reported.\nWith its glasses, Apple will be late to the game. Meta just announced a bunch of new glasses of its own, including a second-generation version of the Ray-Ban Meta glasses with much better battery life that are available now, a new pair of Oakley-branded glasses designed for athletes launching this month, and the Meta Ray-Ban Display glasses, which my colleague Victoria Song called the best smart glasses she’s ever tried. \nAs for the lighter Vision Pro headset, Apple had been rumored to launch the product in 2027, but the company told staff that it was pulling people from that headset to help with the glasses. Apple has reportedly scaled back production of the original Vision Pro, but regulatory filings spotted this week revealed that a new version is in the works, which Bloomberg called a “modest refresh” that could launch “as early as the end of this year.”",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "0a33e9220caa64ba5e081dadffbb6568cb503f73",
+      "title": "Amazon says its AI will let NBA fans track brand-new stats",
+      "url": "https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-01T22:21:37.000Z",
+      "summary_90w": "",
+      "raw": "New analysis of basketball players and games is coming to NBA fans live and online this 2025–2026 season thanks to Amazon Web Services’ AI and some seriously detailed movement tracking. The new stats come as part of the rollout of a new basketball intelligence platform called “NBA Inside the Game.” Fans will get more granular player metrics, like tracking individual defenders during an offensive play or quantifying how hard each shot was for a player to take. \nThe new tech will track 29 body parts of each player as they move across the court — although which specific body parts and exactly how they will be tracked, AWS did not say. The movements will feed into the AI system to deliver stats that “capture previously unmeasured aspects of basketball,” the company says. \nBallers can now be analyzed not just by whether or not they made the shot but by the difficulty of their attempted shots. Another stat, called the Expected Field Goal Percentage, can predict the odds of their making that shot by factoring in metrics like the orientation and pose of the shooter and the positions of the defenders, among other details.  \nAnother new stat called Gravity is meant to quantify the “advantage” individual players bring on the court. In practice, this means tracking the movement of players and their defenders with and without the ball to analyze how closely they are being guarded and how their movements make advantageous space on the court for teammates. Another new insight promised by AWS is a set of stats focused entirely on the defenders, called the Defensive Score Box, which will break down typical stats such as rebounds or blocks by the defensive players for that play.\nAnd if detailed game statistics aren’t enough, diehard fans can search NBA footage at the level of individual plays with a new tool called Play Finder housed alongside the new statistics on NBA Inside the Game.\nFans will see the new stats on live NBA game broadcasts as well as the NBA app and website. Live analytics are not new to the NBA or other major leagues in sports. The NFL and MLB both use Sony’s Hawk-Eye cameras to track plays, pucks, and baseballs during games. Wimbledon’s decision to use the Hawk-Eye line-calling system to make calls on tennis balls shocked staid tennis fans. \nIt’s not the first NBA and Amazon partnership. In 2024, the two struck an 11-year media rights deal to stream 66 regular-season NBA games per year on Prime Video. The first game comes to Prime on October 24th. The new deal also made AWS the official cloud and cloud AI partner for the NBA and its affiliate leagues, including the WNBA.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a860b7e4515dfff07f794777e1c050055b776bcf",
+      "title": "Instagram head says company is not using your microphone to listen to you. (With AI data, it won’t need to.)",
+      "url": "https://techcrunch.com/2025/10/01/instagram-head-says-company-is-not-using-your-microphone-to-listen-to-you-with-ai-data-it-wont-need-to/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-01T22:19:51.000Z",
+      "summary_90w": "",
+      "raw": "Instagram leader Adam Mosseri says the company is not secretly listening to your conversations. At least, not through the microphone.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "42b130754db80b92f236f5f46b8cec53db2ec697",
+      "title": "Self-driving trucks startup Einride raises $100M",
+      "url": "https://techcrunch.com/2025/10/01/self-driving-trucks-startup-einride-raises-100m/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-01T22:13:55.000Z",
+      "summary_90w": "",
+      "raw": "Einride raised the funds five months after founder Robert Falck left the CEO role and took over as executive chairman of the board.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -21,9 +73,9 @@
       "url": "https://www.theguardian.com/australia-news/live/2025/oct/02/australia-news-live-dan-tehan-liberals-nuclear-sussan-ley-coalition-anthony-albanese-labor-flotilla-bhp-china-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-10-01T21:53:13.000Z",
+      "published": "2025-10-01T22:09:43.000Z",
       "summary_90w": "",
-      "raw": "The shadow energy minister claims international ‘renaissance’ in power source. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nShadow energy minister didn’t tour any renewables facilities during US fact-finding trip\nDan Tehan, the shadow minister for energy and emissions reduction, said he did not tour any renewable energy facilities during his fact-finding trip to the US.\nNuclear makes up a bit less than 20% of the US is power generation there. Renewables, slightly more. Did you tour any renewables facilities?\nIt just makes absolute sense for us to enable nuclear to be part of our energy equation going forward, especially given the fact that it is emissions neutral.\n Continue reading...",
+      "raw": "The shadow energy minister claims international ‘renaissance’ in power source. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nMore details from ATO’s corporate tax transparency report\nBig companies paid more than $100bn in tax for the second year in a row, although that was slightly down from the previous year as lower commodity prices dragged on mining and energy sector profits.\nNuclear makes up a bit less than 20% of the US is power generation there. Renewables, slightly more. Did you tour any renewables facilities?\nIt just makes absolute sense for us to enable nuclear to be part of our energy equation going forward, especially given the fact that it is emissions neutral.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -34,9 +86,22 @@
       "url": "https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-aid-global-sumud-flotilla-middle-east-crisis-latest-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-10-01T21:52:22.000Z",
+      "published": "2025-10-01T22:02:53.000Z",
       "summary_90w": "",
       "raw": "Israeli foreign ministry posts video of Thunberg’s arrest; vessels carrying about 500 activists intercepted about 75 miles off coast of war-torn territory\n\nIsraeli naval forces board pro-Palestinian flotilla 75 miles from Gaza\n\nAmnesty International UK called on UK Prime Minister Keir Starmer to denounce Israel’s interception of the Global Sumud Flotilla.\n“Reports that Israeli forces have intercepted the Gaza flotilla marks yet another shameful chapter in the brutal and merciless enforcement of Israel’s illegal and immoral 18-year blockade of Gaza and is an attack on international law and basic humanity,” said Kerry Moscogiuri, Amnesty International UK’s director of communications. “Keir Starmer has a serious role to play. With British citizens and British-flagged ships involved, he must not revert to silence as usual.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e62cb877de0a49e822780333300925804e8f6edd",
+      "title": "Pope Leo XIV says 'inhuman treatment of immigrants' in the U.S. isn't 'pro-life'",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5560169/pope-leo-xiv-says-inhuman-treatment-of-immigrants-in-the-u-s-isnt-pro-life",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-01T21:53:21.000Z",
+      "summary_90w": "",
+      "raw": "Pope Leo XIV weighed in on U.S. politics, saying that Catholic politicians must be judged on the full range of their policy positions and suggesting that the country's immigration policy is \"inhuman.\"",
       "topics": [
         "World"
       ]
@@ -679,19 +744,6 @@
       ]
     },
     {
-      "id": "012993a9dcfe665f8a2a47e06f54967f18d9a807",
-      "title": "Microsoft’s Windows XP Crocs are here",
-      "url": "https://www.theverge.com/news/789982/microsoft-windows-xp-crocs-launch",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-01T17:03:50.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft has officially debuted its Windows XP-themed Crocs, which feature a design inspired by the classic operating system’s “Bliss” wallpaper, alongside Clippy and Internet Explorer shoe charms. In a post on Wednesday, Microsoft said it’s launching the limited-edition Crocs with a blue sky and clouds drawstring backpack as part of its 50th anniversary.\nIt doesn’t look like Microsoft will sell the Windows XP Crocs online. Microsoft is holding a sweepstakes on its Instagram account through Tuesday, October 7th at 11:59PM PT, and it’s asking users to like and comment “#MicrosoftCrocSweepstakes” on its post for a chance to win a pair. The Verge reached out to Microsoft to see if it would make them widely available for purchase, but a spokesperson didn’t immediately respond.\n\n\n  \n \n  \n \n\n\n \n\n View this post on Instagram\n\n \n \n \n \n\n \n \n\n \n \n \n\n \n \n \n\nA post shared by Microsoft (@microsoft)\n\n\n\nWe first got a glimpse at the Windows XP Crocs in August, when Microsoft started offering the nostalgic shoes to its employees. They also come with Jibbitz of a pixelated Windows XP pointer, a recycling bin, the My Documents icon, and the old MSN butterfly logo.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "441df14b5aa28b274e8b0ade8f0a57bf11f48e7e",
       "title": "Unmasked: Secret BBC filming exposes hidden culture of misogyny and racism inside Met Police",
       "url": "https://www.bbc.com/news/articles/cvgq06d44jyo?at_medium=RSS&at_campaign=rss",
@@ -791,32 +843,6 @@
       "published": "2025-10-01T16:00:15.000Z",
       "summary_90w": "",
       "raw": "Eazewell helps families navigate end-of-life planning, from coordinating a funeral to canceling someone's mail, with the help of AI.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "dc28ef56af99aba42fd0e4a453bf79575da0d776",
-      "title": "Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus",
-      "url": "https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-01T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "When Microsoft first launched its Copilot Pro plan last year and wanted an extra $20 a month on top of a Microsoft 365 Family or Personal subscription to get AI-powered Office features, it seemed like a tall ask. After bundling Office AI features into Microsoft 365 subscriptions earlier this year, Microsoft is now taking the next step of merging Copilot Pro and Microsoft 365 into a new Microsoft 365 Premium subscription.\n“It’s really going to be our most powerful AI and productivity subscription for any individual,” says Gareth Oystryk, senior director of marketing for Copilot Pro and Microsoft 365, in an interview with The Verge. “It brings together our trusted collection of productivity apps with Copilot built-in, along with our highest Copilot usage limits and exclusive features.”\nMicrosoft 365 Premium will be priced at $19.99 per month, the same price as OpenAI’s ChatGPT Plus subscription, and will include Microsoft’s highest usage limits in features like GPT-4o image generation and voice, as well as Copilot Podcasts, Deep Research, Vision, and Actions. It will also include all of the Microsoft 365 Family benefits, with access to Office desktop apps for six people, 1TB of storage per person, and more.\n“We created this subscription really for any solopreneur, professional, or high achiever looking to tackle the most demanding productivity tasks with AI at their side,” Oystryk says. “When you look at the value you get with this plan at this price point, and you stack that against the competition, you’re going to find that the value is pretty undeniable.”\nThat competition is clearly ChatGPT Plus. OpenAI markets ChatGPT Plus as a productivity subscription, with extended access to GPT-5 and higher limits on messaging, file uploads, data analysis, and image generation. Microsoft 365 Premium has the added benefit of access to Office desktop apps with Copilot features built straight into them, as well as 1TB of cloud storage per person.\nAs Sumit Chauhan, corporate vice president of Microsoft’s Office Product Group, told me earlier this week: “Productivity is our DNA, we’re Office. While others will try to replicate us, there is no substitute for the real thing.”\nMicrosoft is also opening up access to its Researcher and Analyst reasoning agents to Microsoft 365 Premium, and they’ll both be available in Word, PowerPoint, and Excel apps soon. \nPerhaps the most intriguing part of Microsoft’s 365 Premium launch is how it and Microsoft’s existing Family and Personal subscriptions will now allow consumers to enable Microsoft’s AI features in their Office apps at work. “We have seen a lot of employees, all over the place, bringing their own AI to work,” Oystryk says. “With Microsoft 365 Premium, along with Personal and Family, you can actually bring Copilot to work with you.”\nMicrosoft will now light up the Microsoft 365 Copilot features your workplace would normally have to pay a subscription for if you have your own Microsoft 365 Premium, Family, or Personal account. All you have to do is sign into your work version of Office with your personal Microsoft account, and it will enable the AI features inside your work Office apps.\nIt essentially enables the Microsoft 365 Copilot license, while maintaining all the usual security, compliance, and enterprise data protection features to ensure corporate data isn’t shared with your personal Microsoft account. “This capability works with Word, Excel, PowerPoint, OneNote, and Outlook on Windows PCs, Mac, iPad, and more,” Oystryk says. “It doesn’t work on the web… but in the apps that most people use you can sign in and apply that capability.” IT admins will be able to enable or disable the sign-in functionality, too.\nUnfortunately, Microsoft is still limiting the ability to unlock AI features in Office at work or at home to the main account holder for Microsoft 365 Family or Premium subscriptions. “We definitely have feedback from our customers to offer some kind of sharing, so we are evaluating some options there,” Oystryk says.\nExisting Personal and Family subscribers will also get GPT-4o image generation and voice access, with higher usage limits than the free Copilot tier. Copilot Chat, which was previously only available for Microsoft 365 commercial customers, is also coming to all consumer subscriptions.\nAll of these changes effectively mean the end of Copilot Pro, which remained in place for power users to get priority access to the latest AI models and higher usage limits after Microsoft bundled Office AI features with Microsoft 365 Personal and Family subscriptions earlier this year. \n“Copilot Pro is not entirely going away, but we will stop selling it,” Oystryk admits. “We’re not automatically opting-in Copilot Pro subscribers to Microsoft 365 Premium. We have no timing yet of if and when we’ll discontinue it.”",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "1e26b1fc840ddfa75bb642028c94ed32fab23ff1",
-      "title": "Microsoft’s new Office icons are more curvy and colorful",
-      "url": "https://www.theverge.com/news/789533/microsoft-office-new-icons-design",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-01T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft is officially unveiling its new Office icons today, after they leaked earlier this year. The icons have a modern design that’s more colorful and playful, with subtle changes that match Microsoft’s recent work with its Fluent illustrations.\nAll of Microsoft’s 10 core Office icons are being refreshed, with a design that was inspired by Microsoft’s work on the Copilot icon. This is the first major change to the Office icons since their overhaul in 2018, and it’s meant to represent a more connected design system and Copilot’s influence on Microsoft 365.\n“The core 10 Office apps were last updated in 2018 and the way we described what the designs represented is almost identical to language used today: connection, coherence, seamless collaboration, fluid transitions,” explains Jon Friedman, corporate vice president of design and research for Microsoft 365. “The new icons emanate a sense of fluidity and play, while also being simpler, more intuitive, and highly accessible.”\nMuch like Google’s new logo, Microsoft has picked gradients of color for its Office icons. “Where gradients were once subtle, they’re now richer and more vibrant, featuring exaggerated analogous transitions that improve contrast and accessibility,” Friedman says.\nThe new icons are also a little more simplified, with the Word icon previously using four horizontal bars and now using three, to improve legibility at smaller sizes. “We’ve moved away from bold, static solidity to embrace softer, more fluid forms,” Friedman explains. “Sharp edges and crisp lines are replaced by smooth folds and curves, giving the icons a sense of playful motion and approachability.”\nThe new icons will start rolling out in the coming weeks across web, desktop, and mobile for both consumers and commercial users of Microsoft 365.",
       "topics": [
         "Technology"
       ]
@@ -1027,32 +1053,6 @@
       "raw": "It is the latest development in a privacy row which has pitted the UK against the tech giant and the Trump administration.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "8a676585d2a89df995604ab53c50fc2cf8a421f6",
-      "title": "Amazon launches a grocery brand with most products under $5",
-      "url": "https://techcrunch.com/2025/10/01/amazon-launches-a-grocery-brand-with-most-products-under-5/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-01T14:22:16.000Z",
-      "summary_90w": "",
-      "raw": "The Amazon Fresh grocery items will be available online and at Amazon Fresh stores.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "c650133266bc2b50cc841b976831177d3b995721",
-      "title": "UK government tries again to access encrypted Apple customer data: Report",
-      "url": "https://techcrunch.com/2025/10/01/uk-government-tries-again-to-access-encrypted-apple-customer-data-report/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-01T14:18:53.000Z",
-      "summary_90w": "",
-      "raw": "The U.K. Home Office is seeking access to Apple users’ encrypted iCloud backups for a second time, after an earlier attempt failed earlier this year.",
-      "topics": [
-        "Technology"
       ]
     },
     {
