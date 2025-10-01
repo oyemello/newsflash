@@ -1,16 +1,81 @@
 {
-  "version": "1759306752054",
-  "generatedAt": "2025-10-01T08:19:12.054Z",
+  "version": "1759308199595",
+  "generatedAt": "2025-10-01T08:43:19.595Z",
   "items": [
+    {
+      "id": "3ffa329c1bc0c4d6eb40139131a6c87dec33cea1",
+      "title": "New project makes Wikipedia data more accessible to AI",
+      "url": "https://techcrunch.com/2025/10/01/new-project-makes-wikipedia-data-more-accessible-to-ai/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-01T08:30:00.000Z",
+      "summary_90w": "",
+      "raw": "A new database will make Wikipedia's wealth of knowledge more accessible to AI models.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "615ea0679ad6db0b8f36c4e361d8c44e8afb2c8d",
+      "title": "Wikimedia wants to make it easier for you and AI developers to search through its data",
+      "url": "https://www.theverge.com/news/789288/wikidata-ai-friendly-database",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-01T08:30:00.000Z",
+      "summary_90w": "",
+      "raw": "The late English writer Douglas Adams is best known as the author of the 1979 book The Hitchhiker’s Guide to the Galaxy. But there is much more to Adams than what is written in his Wikipedia entry. Whether or not you need to know that his birth sign is Pisces or that libraries worldwide store his books under the same string of numbers — 13230702 — you can if you head to an overlooked corner of the Wikimedia Foundation called Wikidata. \nThere, images, text, keywords, and other information related to Adams are stored both in a webpage and, for the robots among us, in formats designed for machines like JSON. \nNow, Wikidata is getting a new AI-friendly database that makes it easier for large language models to ingest the information. The database comes from the Wikipedia Embedding Project out of the German chapter of the Wikimedia Foundation, Wikimedia Deutschland, which oversees Wikidata. The Berlin-based team spent the past year using a large language model to turn the 19 million entries within Wikidata from clunkily structured data into vectors that capture the context and meaning around the Wikidata entry. \nIn this vectorized format, information is best imagined like a graph with dots and interconnected lines — Adams would be connected to “human” as well as the titles of his books, Lydia Pintscher, Wikidata portfolio lead, told The Verge.\nWhile the front-end user experience will remain the same — no, Wikipedia is not becoming a chatbot, the project leaders say — the back end will become easier for AI developers to access when building, for example, their own chatbots using the data. \nThe goal of the project is to level the playing field for AI developers outside the monied core of Big Tech, Pintscher said. Companies like OpenAI and Anthropic have the resources to vectorize Wikidata, just like Pintscher and her team did. It’s the smaller outfits that most benefit from the new access to curated data stored in the vaults of Wikidata. “Really, for me, it’s about giving them that edge up and to at least give them a chance, right?” Pintscher said. \nShe points to Govdirectory as an example project that harnessed Wikidata’s vast data curated by volunteers for good. The platform allows users to find the social media handles and emails for public officials across the world. \nMost AI chatbots prioritize popular words and topics across the internet. In addition to giving Little Tech a leg up, the team hopes that easier access to Wikidata will result in AI systems that better reflect niche topics not widely represented across the internet, Pintscher said. This could be a better way to get information into ChatGPT, for instance, than “generating a ton of content and then waiting for the next time for ChatGPT to retrain, and maybe, or maybe not, taking into account what you contributed,” Pintscher said. \nIn practice, the vectors will allow AI systems to better access the context around information in addition to the information itself, Philippe Saadé, Wikidata AI project manager, told The Verge. \nThe team used a model from AI company Jina AI to turn Wikidata’s structured data, captured through September 18th, 2024, into vectors. IBM company DataStax currently provides the infrastructure to store the vector database to the project for free. \nThe team is waiting for feedback from developers who use the database before updating it with information added over the last year. While the current database does not include entirely new information added in the last year, Saadé says small edits or tweaks to existing Wikidata will not diminish the database’s usefulness. “At the end of the day, the vector that we’re computing is like a general idea of an item, so if some small edit has been made on Wikidata, it’s not going to be super relevant,” he said.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "11b19c2c7804f6fce0c87a64d353957a8966a9a2",
+      "title": "Deported from the US to Ghana then 'dumped' at the border: Nigerian man speaks out",
+      "url": "https://www.bbc.com/news/articles/c33rllxnm35o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-01T08:20:40.000Z",
+      "summary_90w": "",
+      "raw": "US deportee says Ghanaian officers secretly moved him and others to Togo and left them there without documents.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1e8c8fa0d4f50b74abcc47f8722236028469d720",
+      "title": "Israel to close last remaining route from southern Gaza to the north as it continues offensive on Gaza City – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-offensive-benjamin-netanyahu-hamas-donald-trump-middle-east-crisis-live-news",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-01T08:19:47.000Z",
+      "summary_90w": "",
+      "raw": "Hamas has said it will review the outline of Trump’s Gaza plan, as leaders across the Middle East voiced support for the proposal\nThe Australian government has said it is “deeply concerned” about the safety of its citizens on board a flotilla to Gaza, with expectations the boats could be intercepted by Israeli forces as early as Wednesday afternoon Australian time.\nThe Department of Foreign Affairs and Trade has said they have been in contact with six Australians confirmed to be on flotilla consisting of more than 40 ships.\nI’m deeply concerned by the alleged drone attacks on the Global Sumud Flotilla and the risks to the safety of Australians and other passengers onboard.\nAustralia calls on all parties to respect international law and international humanitarian law, and to refrain from any unlawful or violent act against the flotilla.\nI think people feel pretty calm. And because everybody is really, really concerned about what’s happening in Palestine every single day, it really kind of pales in significance.\nI’m a film-maker, there’s teachers here, there’s a bus driver, like we’re just ordinary people that have been forced by our governments in action to do this. We’re not radicals … we’ve got baby food and medicine. So it’s just a real blight on our world leaders that we’ve been forced to do this.\nWe’re trying to be as calm and as organised and as careful as we possibly can to make it the least dangerous scenario as it could possibly be.\nWe’re very experienced in de-escalation and communicating in ways that are non-threatening… but we’re resolved to keep going to Gaza, if there’s any way to do so without being attacked.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "9afde2cc0d88d9e7406e4144871b0b1f78ebfd91",
       "title": "Danish PM warns security situation in Europe will get worse and more serious – Europe live",
       "url": "https://www.theguardian.com/world/live/2025/oct/01/mette-frederiksen-denmark-europe-russia-vladimir-putin-volodymyr-zelenskyy-ukraine-hybrid-war-security-europe-live-news",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-10-01T08:09:26.000Z",
+      "published": "2025-10-01T08:15:42.000Z",
       "summary_90w": "",
-      "raw": "Mette Frederiksen says Europe faces threats arising from the ‘real war’ in Ukraine and a new, broader hybrid war\nThe Danish prime minister Mette Frederiksen warned that the recent drone sightings in Danish airspace warning are “only the beginning; it will get worse and it will get more serious.”\nIn two major interviews, with the Danish newspaper Berlingske (£) and with the Financial Times (£), Frederiksen urged Europe to discuss “more deeply” what the new security situation means for the continent and how it should respond to counter the threat.\n Continue reading...",
+      "raw": "Mette Frederiksen says Europe faces threats arising from the ‘real war’ in Ukraine and a new, broader hybrid war\nin Palermo\nA flotilla seeking to break Israel’s aid blockade of Gaza said on Wednesday that several of its boats had been approached by patrol vessels and a submarine, as crews braced for an Israeli raid.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "13c7ea933e95ef79d4927e8886eed8e84a3ca9d9",
+      "title": "Australia news live: police conduct ‘planned operation’ in Victorian town as hunt for fugitive Dezi Freeman continues",
+      "url": "https://www.theguardian.com/australia-news/live/2025/oct/01/australia-news-live-nicole-kidman-divorce-keith-urban-sussan-ley-coalition-andrew-hastie-anthony-albanese-housing-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-01T08:14:45.000Z",
+      "summary_90w": "",
+      "raw": "Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nClare O’Neil notes Treasury has advised the government scheme will push up home prices by 0.5% over six years.\nGuardian Australia’s Luca Ittimani wrote an explainer on the new plan, and experts’ concerns with that estimate, below:\nThey’ve spent the last three years trying to slow our government down and stop us from providing supports to Australians who are struggling. Now, I say out of touch because if you think, firstly, that billionaires’ children are going to be using this scheme, then you haven’t looked very hard at it.\nWe’ve got probably people listening right now who are on reasonable incomes but are paying high rents and are not in a position to save for a home deposit. This is for them. This is for every single young person around the country who’s struggling to get those savings together.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -24,32 +89,6 @@
       "published": "2025-10-01T08:06:20.000Z",
       "summary_90w": "",
       "raw": "The UK needs to \"look again\" at how to tackle mass migration, but those genuinely fleeing persecution should still be given asylum, the PM says.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1e8c8fa0d4f50b74abcc47f8722236028469d720",
-      "title": "Israel to close last remaining route from southern Gaza to the north as it continues offensive on Gaza City – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-offensive-benjamin-netanyahu-hamas-donald-trump-middle-east-crisis-live-news",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-01T08:06:11.000Z",
-      "summary_90w": "",
-      "raw": "Hamas has said it will review the outline of the Gaza peace plan, as leaders across the Middle East voiced support for the proposal\nThe Australian government has said it is “deeply concerned” about the safety of its citizens on board a flotilla to Gaza, with expectations the boats could be intercepted by Israeli forces as early as Wednesday afternoon Australian time.\nThe Department of Foreign Affairs and Trade has said they have been in contact with six Australians confirmed to be on flotilla consisting of more than 40 ships.\nI’m deeply concerned by the alleged drone attacks on the Global Sumud Flotilla and the risks to the safety of Australians and other passengers onboard.\nAustralia calls on all parties to respect international law and international humanitarian law, and to refrain from any unlawful or violent act against the flotilla.\nI think people feel pretty calm. And because everybody is really, really concerned about what’s happening in Palestine every single day, it really kind of pales in significance.\nI’m a film-maker, there’s teachers here, there’s a bus driver, like we’re just ordinary people that have been forced by our governments in action to do this. We’re not radicals … we’ve got baby food and medicine. So it’s just a real blight on our world leaders that we’ve been forced to do this.\nWe’re trying to be as calm and as organised and as careful as we possibly can to make it the least dangerous scenario as it could possibly be.\nWe’re very experienced in de-escalation and communicating in ways that are non-threatening… but we’re resolved to keep going to Gaza, if there’s any way to do so without being attacked.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "13c7ea933e95ef79d4927e8886eed8e84a3ca9d9",
-      "title": "Australia news live: police conduct ‘planned operation’ in Victorian town as hunt for fugitive Dezi Freeman continues",
-      "url": "https://www.theguardian.com/australia-news/live/2025/oct/01/australia-news-live-nicole-kidman-divorce-keith-urban-sussan-ley-coalition-andrew-hastie-anthony-albanese-housing-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-01T08:03:24.000Z",
-      "summary_90w": "",
-      "raw": "Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nClare O’Neil notes Treasury has advised the government scheme will push up home prices by 0.5% over six years.\nGuardian Australia’s Luca Ittimani wrote an explainer on the new plan, and experts’ concerns with that estimate, below:\nThey’ve spent the last three years trying to slow our government down and stop us from providing supports to Australians who are struggling. Now, I say out of touch because if you think, firstly, that billionaires’ children are going to be using this scheme, then you haven’t looked very hard at it.\nWe’ve got probably people listening right now who are on reasonable incomes but are paying high rents and are not in a position to save for a home deposit. This is for them. This is for every single young person around the country who’s struggling to get those savings together.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -95,9 +134,22 @@
     },
     {
       "id": "0345b2c194fdb7b5d531b7af16e6888aa7946f0b",
-      "title": "Watch: One street away from collapsed school as relatives wait for news",
+      "title": "Watch: Families in anxious wait for students trapped under collapsed school in Indonesia",
       "url": "https://www.bbc.com/news/videos/cx2718plv27o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-01T07:00:05.000Z",
+      "summary_90w": "",
+      "raw": "The BBC reports from a nearby centre as rescuers race to find 38 people believed to still be trapped.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0345b2c194fdb7b5d531b7af16e6888aa7946f0b",
+      "title": "Watch: One street away from collapsed school as relatives wait for news",
+      "url": "https://www.bbc.com/news/videos/cx2718plv27o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-10-01T07:00:05.000Z",
       "summary_90w": "",
@@ -965,19 +1017,6 @@
       ]
     },
     {
-      "id": "d63c4727018354dd7e25544332aa87e7538a8f4e",
-      "title": "Beats redesigned its new Powerbeats Fit’s wing tip to be more comfortable and secure",
-      "url": "https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-earbuds-wing-tip-redesign-comfort",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-09-30T17:10:38.000Z",
-      "summary_90w": "",
-      "raw": "Like the iPhone 17 Pro, the new BEats Powerbeats Fit earbuds come in orange. | Image: Beats\t\n\nBeats has announced a new version of the Fit Pro wireless earbuds that launched in late 2021, which are now called the Powerbeats Fit. The most notable upgrade is a redesigned wing tip that Beats says is 20 percent more flexible, improving comfort while also keeping the earbuds more securely anchored in your ear. The company says that the new wingtip provides as much stability as the over-ear hook used on the Powerbeats Pro 2, while keeping the price point under $200.\nThe Powerbeats Fit are available for purchase starting today through Apple’s online store, Amazon, and Best Buy for $199.99 in jet black, gravel gray, power pink, and spark orange color options. If you’re a Beats-over-AirPods user who recently switched to the cosmic orange iPhone 17 Pro, the spark orange Powerbeats Fit almost feels like a mandatory upgrade.\nUnlike the pricier Powerbeats Pro 2 and the new AirPods Pro 3 that use Apple’s newer H2 wireless chip, the Powerbeats Fit still rely on the H1 chip. You’ll still get features like one-touch pairing, hands-free Siri access, Find My tracking, and syncing across Apple devices through iCloud. Android users will get one-touch pairing through the Beats mobile app, customizable controls, a Fit Test making it easier to select the ideal ear tip size, and location tracking through the app.\nThe earbuds aren’t a major redesign of the Beats Fit Pro by any stretch of the imagination, but reducing the size of their charging case by 17 percent made it easier to slip into a pocket without reducing battery life. Like the Beats Fit Pro, the new Powerbeats Fit offers up to seven hours of playback on the buds alone, or up to 30 hours when topped off with the charging case. With ANC turned on, that drops to six hours for the buds, and up to 24 hours with the case.\nSweat and water resistance remains at the same IPX4 rating, so you won’t want to dunk the buds or the charging case. And the ANC on the new Powerbeats Fit won’t be as good as it is on the AirPods Pro 3, but the earbuds include a transparency mode, personalized Spatial Audio with head tracking, and adaptive EQ to adjust and optimize the sound profile of what you’re listening to based on ambient noise and the fit and seal.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "ab4e674fb825852836af68de7a3d1e7c71c48de6",
       "title": "Pasta meals from Trader Joe's and Walmart may be linked to a deadly listeria outbreak",
       "url": "https://www.npr.org/2025/09/30/nx-s1-5557934/pasta-listeria-outbreak-walmart-trader-joes",
@@ -1233,19 +1272,6 @@
       "published": "2025-09-30T15:39:44.000Z",
       "summary_90w": "",
       "raw": "For years, customers have been using convoluted workarounds to transfer money between the two services.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "92c3bb8cd81c2c9ff49b386eb6425a1a583501d5",
-      "title": "Ring cameras can now recognize faces and help to find lost pets",
-      "url": "https://techcrunch.com/2025/09/30/ring-cameras-can-now-recognize-faces-and-help-to-find-lost-pets/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-09-30T15:39:07.000Z",
-      "summary_90w": "",
-      "raw": "Amazon unveiled new AI features for its Ring devices, such as the ability to identify familiar faces and help locate a lost dog.",
       "topics": [
         "Technology"
       ]
