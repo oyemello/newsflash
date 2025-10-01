@@ -1,7 +1,46 @@
 {
-  "version": "1759338888907",
-  "generatedAt": "2025-10-01T17:14:48.908Z",
+  "version": "1759340023103",
+  "generatedAt": "2025-10-01T17:33:43.103Z",
   "items": [
+    {
+      "id": "f3aec73b401f44c4a58db0b5851bd5b60b18f7a4",
+      "title": "What founders need to know before choosing their exit — straight from Roseanne Wincek, Jai Das, and Dan Springer — at TechCrunch Disrupt 2025",
+      "url": "https://techcrunch.com/2025/10/01/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-01T17:30:00.000Z",
+      "summary_90w": "",
+      "raw": "Hear from Jai Das, Sapphire Ventures, and Roseanne Wincek, Renegade Partners, on how founders can prep for an exit at TechCrunch Disrupt 2025. Register here.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "bc2c783f3554be31715117cfa032e8d354872392",
+      "title": "Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions",
+      "url": "https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-01T17:13:30.000Z",
+      "summary_90w": "",
+      "raw": "Today, the same day that Meta announced that it will soon use your AI chats to personalize the ads it shows you, Instagram head Adam Mosseri made a “myth busting” video attempting to set the record straight on a persistent rumor about Meta: “I swear, we do not listen to your microphone,” he says.\nMeta’s ad targeting systems can be eerily precise, sometimes showing you things that you feel like you’ve only discussed in a verbal conversation and would only be possible for Meta to know about if it was listening through a device’s microphone. It’s a perception that Meta has been trying to push back on for years:\nIn 2016, the company, then known as Facebook, said that it “does not use your phone’s microphone to inform ads or to change what you see in News Feed.”\nIn a 2018 Senate hearing, CEO Mark Zuckerberg responded to the question on the topic with a direct “no.”\nIn a support document titled “are Facebook and Instagram listening to your conversations without your knowledge?”, Meta says “No. We do not use your microphone unless you’ve given us permission, and even then, we only use it when you’re actively using a feature that requires the microphone.”\nIn Wednesday’s video, Mosseri says he’s had “a lot” of passionate conversations about the topic, including “at least a few” with his wife.\n\n\n  \n \n  \n \n\n\n \n\n View this post on Instagram\n\n \n \n \n \n\n \n \n\n \n \n \n\n \n \n \n\nA post shared by Adam Mosseri (@mosseri)\n\n\n\n“We do not listen to you,” according to Mosseri. “We do not use the phone’s microphone to eavesdrop on you.” Listening to you through your phone’s microphone “would be a gross violation of privacy” and would drain your phone’s battery, he says.\nMosseri also offers a few possible explanations of why you “might see an ad for something that you recently talked to somebody about,” which I’ve block-quoted below:\nOne, maybe you actually tapped on something that was related or even searched for that product online on a website, maybe before you had that conversation. We actually do work with advertisers who share information with us about who is on their website to try to target those people with ads. So if you were looking at a product on a website, then that advertiser might have paid us to reach you with an ad.\nTwo, we show people ads that we think that they’re interested in, or products we think they’re interested in, in part based on what their friends are interested in and what similar people with similar interests are interested in. So it could be that you were talking to someone about a product, and they, before, had to actually looked for or searched for that product, or that, in general, people with similar interests were doing the exact same thing.\nThree, you might have actually seen that ad before you had a conversation and not realized it. We scroll quickly, we scroll by ads quickly, and sometimes you internalize some of that, and that actually affects what you talk about later.\nFour, random chance, coincidence, it happens.\nStill, despite his video, Mosseri seemingly expects this rumor to persist. “I know some of you are just not going to believe me, no matter how much I try to explain it,” he says. And many comments on the video are skeptical of the explanation: “That is exactly what I would say if I was listening to people’s conversations,” according to one of the most-liked comments.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9f00a92860bbd7378f82d5d5b55b287bea47f7f4",
+      "title": "The UK&#8217;s war on Apple encryption is back",
+      "url": "https://www.theverge.com/news/789985/apple-uk-revived-secret-order-encryption-backdoor",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-01T17:13:18.000Z",
+      "summary_90w": "",
+      "raw": "The UK government is reportedly once again demanding that Apple provide it with backdoor access to encrypted iCloud user data, following claims that the effort had been abandoned in August. The Financial Times reports that a new technical capability notice (TCN) was issued by the UK Home Office in early September, this time specifically targeting access to British citizens’ iCloud backups.\nThis follows the UK issuing a broader secret order in January, demanding that Apple create a backdoor for security officials to access global encrypted user files. While it’s a criminal offense to reveal the existence of these secret TCN orders, Apple responded by filing an appeal and removing a feature, Advanced Data Protection, its end-to-end encrypted iCloud storage, from the UK. After facing pressure from the US regarding potential violations of the Cloud Act, it was announced by US Director of National Intelligence Tulsi Gabbard that Britain had rescinded the order.\n“The UK has agreed to drop its mandate for Apple to provide a ‘back door’ that would have enabled access to the protected encrypted data of American citizens and encroached on our civil liberties,” Gabbard posted to X on August 19th. While US officials raised concerns about the order during President Trump’s state visit to the UK last month, according to The Financial Times, the publication reports that two senior British government figures said the UK was no longer facing US pressure to drop its demands.\nWe have reached out to Apple for comment. The UK Home Office declined to comment on the situation.\nThe UK’s revived attempt to bypass Apple’s data encryption has sparked concerns that security and privacy may still be impacted for users worldwide. “If Apple breaks end-to-end encryption for the UK, it breaks it for everyone,” said Privacy International, a non-profit privacy watchdog. “The resulting vulnerability can be exploited by hostile states, criminals and other bad actors the world over.”",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "685c8f2f303fad72b92ed8a46b89f3f035b0b9ba",
       "title": "Why BBC sent undercover reporter into a busy London police station",
@@ -82,13 +121,13 @@
     },
     {
       "id": "9afde2cc0d88d9e7406e4144871b0b1f78ebfd91",
-      "title": "Europe ‘in most difficult and dangerous situation since second world war,’ Danish PM warns – Europe live",
+      "title": "French forces board Russian tanker suspected of drone launches – Europe live",
       "url": "https://www.theguardian.com/world/live/2025/oct/01/mette-frederiksen-denmark-europe-russia-vladimir-putin-volodymyr-zelenskyy-ukraine-hybrid-war-security-europe-live-news",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-10-01T16:54:47.000Z",
+      "published": "2025-10-01T17:01:25.000Z",
       "summary_90w": "",
-      "raw": "Mette Frederiksen says she backs the European Commission’s proposal for a reparation loan for Ukraine, secured on frozen Russian assets\nSiliņa says the EU should move on drones very quickly, as she rejects some criticism that fully developing the bloc’s “drone wall” could take up to three-four years.\n“We don’t need three years, and I believe we can do it in a much shorter time.\nIt just depends on the leaders [if] we can agree on a much shorter time, because with drones, how they’re developing so fast, three years is too long.”\n Continue reading...",
+      "raw": "French navy reportedly on the Boracay, thought to be part of the ‘shadow fleet’\nSiliņa says the EU should move on drones very quickly, as she rejects some criticism that fully developing the bloc’s “drone wall” could take up to three-four years.\n“We don’t need three years, and I believe we can do it in a much shorter time.\nIt just depends on the leaders [if] we can agree on a much shorter time, because with drones, how they’re developing so fast, three years is too long.”\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -154,6 +193,19 @@
       "published": "2025-10-01T16:15:36.000Z",
       "summary_90w": "",
       "raw": "Defence minister issues warning, while Hamas reportedly considers seeking amendments to Trump plan \nThe Israeli military has issued what it said was its final warning for Gaza City residents to flee as it intensified its bombardment and offensive on Wednesday, while Hamas was reportedly considering requesting amendments to Donald Trump’s ceasefire ultimatum.\nIsrael’s defence minister, Israel Katz, said the warning was the last opportunity for people to move to southern Gaza as the military encircled the city. Gaza’s civil defence agency said on Wednesday that Israeli forces had killed at least 46 people, including 36 in Gaza City.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "aa9ae3d6c87a31cd79d9cfe1c4abc1c45d566c90",
+      "title": "Donors covering Farage security after cuts, Reform claims",
+      "url": "https://www.bbc.com/news/articles/cj4ypey88kdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-01T16:14:50.000Z",
+      "summary_90w": "",
+      "raw": "Reform's policy chief says parliamentary authorities downgraded Farage's security two weeks ago.",
       "topics": [
         "World"
       ]
@@ -231,7 +283,7 @@
       "source_name": "The Verge",
       "published": "2025-10-01T15:55:12.000Z",
       "summary_90w": "",
-      "raw": "Ford and GM have apparently worked up an interesting scheme to keep the expiring $7,500 federal EV tax credit from driving down sales. According to Reuters, the automakers are working with dealers on short-term programs that would allow customers to continue to receive the tax credit on leased EVs through the rest of the year. \nThe programs will operate under each automaker’s financing arm, according to documents viewed by Reuters and interviews with dealers briefed on the plan. It basically works like this: Ford and GM will buy EVs from its own dealers by having their finance divisions put down payments on all the electric models in their inventory before the tax credit expires. The dealers will then lease the vehicles to customers with a $7,500 discount baked into the price. \n“The old adage, of ‘if you’re not cheating you’re not trying’ comes to mind,” said Ivan Drury, director of insights for Edmunds.com, “but, gotta give GM and Ford credit for taking advantage of the tax loophole and pushing it to the next level with a bit of creativity more so than actual cheating.”\nThe automakers are hoping to soften the blow on car shoppers and keep up the momentum that many dealers have been seeing in recent weeks. EV sales spiked in July and August as shoppers rushed to claim the credit before it expired on September 30th. Experts predict that once the credit vanishes, EV sales will plummet.\n“Ford is working to provide Ford electric vehicle shoppers with competitive lease payments on retail leases through Ford Credit until December 31st,” Dan Barbossa, a spokesperson for the company, said in an email. (A spokesperson for GM did not immediately respond to a request for comment.)\nFord and GM reviewed the new programs with officials from the Internal Revenue Service before putting it into action, Reuters says citing three sources. In August, the IRS said vehicles must be purchased by September 30th to qualify for the $7,500 tax credit.\nOf course there are some risks involved. Ford and GM will take a financial hit on any unsold EVs. And it’s unclear whether either automaker plans on extending the discount program on leased EVs through the end of the year. Ford’s F-150 Lightning was the only EV in its lineup eligible for the tax credit (the Mustang Mach-E did not meet the battery requirements). GM had several eligible EVs, including the Chevy Equinox, Blazer, and Silverado, as well as the Cadillac Lyriq, Optiq, and Vistiq, and the GMC Sierra EV. \nBut as Drury notes, throughout this entire year EV leasing at dealerships is hovering around two third of all sales or above as virtually every automaker leans into leasing to take advantage of the tax credit for their slower selling EVs. \n“It clearly has resonated with consumers as leasing is the preferred method of purchase if you’re trying out a new technology for the first time, want the lowest monthly payment or are trying to dodge the resale value issue,” he added. “GM and Ford’s workaround will certainly lessen the gut punch that some other automakers will suffer once the credit is no longer available, but they’re also kicking the can down the road till 2026.”",
+      "raw": "Ford and GM have apparently worked up an interesting scheme to keep the expiring $7,500 federal EV tax credit from driving down sales. According to Reuters, the automakers are working with dealers on short-term programs that would allow customers to continue to receive the tax credit on leased EVs through the rest of the year. \nThe programs will operate under each automaker’s financing arm, according to documents viewed by Reuters and interviews with dealers briefed on the plan. It basically works like this: Ford and GM will buy EVs from its own dealers by having their finance divisions put down payments on all the electric models in their inventory before the tax credit expires. The dealers will then lease the vehicles to customers with a $7,500 discount baked into the price. \n“The old adage, of ‘if you’re not cheating you’re not trying’ comes to mind,” said Ivan Drury, director of insights for Edmunds.com, “but, gotta give GM and Ford credit for taking advantage of the tax loophole and pushing it to the next level with a bit of creativity more so than actual cheating.”\nThe automakers are hoping to soften the blow on car shoppers and keep up the momentum that many dealers have been seeing in recent weeks. EV sales spiked in July and August as shoppers rushed to claim the credit before it expired on September 30th. Experts predict that once the credit vanishes, EV sales will plummet.\n“Ford is working to provide Ford electric vehicle shoppers with competitive lease payments on retail leases through Ford Credit until December 31st,” Dan Barbossa, a spokesperson for the company, said in an email. (A spokesperson for GM did not immediately respond to a request for comment.)\nFord and GM reviewed the new programs with officials from the Internal Revenue Service before putting it into action, Reuters says citing three sources. In August, the IRS said vehicles must be purchased by September 30th to qualify for the $7,500 tax credit.\nThis check-in with the IRS “lowers the risk of it being shut down,” said Paul Waati, director of industry analysis at AutoPacific. “Still, nothing is ever fully settled until formal guidance is issued, and regulators could ultimately decide this stretches beyond the intent of the law.”\nIneed, there are some risks involved. Ford and GM will take a financial hit on any unsold EVs. And it’s unclear whether either automaker plans on extending the discount program on leased EVs through the end of the year. Ford’s F-150 Lightning was the only EV in its lineup eligible for the tax credit (the Mustang Mach-E did not meet the battery requirements). GM had several eligible EVs, including the Chevy Equinox, Blazer, and Silverado, as well as the Cadillac Lyriq, Optiq, and Vistiq, and the GMC Sierra EV.\nBut as Drury notes, throughout this entire year EV leasing at dealerships has hovered around two third of all sales or above, as virtually every automaker leans into leasing to take advantage of the tax credit for their slower selling EVs.\n“It clearly has resonated with consumers as leasing is the preferred method of purchase if you’re trying out a new technology for the first time, want the lowest monthly payment or are trying to dodge the resale value issue,” he added. “GM and Ford’s workaround will certainly lessen the gut punch that some other automakers will suffer once the credit is no longer available, but they’re also kicking the can down the road till 2026.”",
       "topics": [
         "Technology"
       ]
@@ -432,19 +484,6 @@
       ]
     },
     {
-      "id": "684e472d4cca84566d2ef921288fce96706a96bb",
-      "title": "Satya Nadella appoints a new CEO to run Microsoft&#8217;s biggest businesses",
-      "url": "https://www.theverge.com/news/789558/microsoft-ceo-commercial-judson-althoff-internal-memo",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-01T15:06:59.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft commercial CEO Judson Althoff. | Image: Microsoft\t\n\nMicrosoft is promoting Judson Althoff, currently executive vice president and chief commercial officer at Microsoft, to a new role as CEO of its commercial business. It’s the latest shakeup inside the company, as Microsoft navigates what CEO Satya Nadella calls a “tectonic AI platform shift.” It’s also a move that will allow Nadella to focus on more technical work at Microsoft, while still remaining overall CEO.\nIn an internal memo to employees today, Nadella announced Althoff’s promotion and said it’s linked with the need for Microsoft to reinvent itself in the AI era and “bring together sales, marketing, operations, and engineering to drive growth and strengthen our position as the partner of choice for AI transformation.”\nAlthoff has led Microsoft’s global sales organization for the past nine years, helping the company build out its Microsoft Customer and Partner Solutions (MCAPS) division. He will now also be responsible for the operations and marketing teams that help sell Microsoft’s software and services to businesses, but not the engineering teams that help build them.\n\nMicrosoft’s biggest businesses have increasingly had CEOs on top\n\n\n“By bringing operations into the commercial business, we can tighten the feedback loop between what customers need and how we deliver and support them,” Nadella wrote in his memo. “Additionally, Judson will lead a new commercial leadership team that brings together leaders from engineering, sales, marketing, operations, and finance.”\nMicrosoft has increasingly given CEO titles to the leaders of some of its biggest businesses, such as Microsoft Gaming CEO Phil Spencer and Microsoft AI CEO Mustafa Suleyman. Microsoft also used CEO positions with its GitHub and LinkedIn acquisitions, although the GitHub CEO position disappeared after Thomas Dohmke resigned over the summer.\nThis latest organization shakeup might look like it places Althoff as almost like a deputy to Nadella, particularly because he’s now in charge of the main way that Microsoft makes money from its all-important enterprise customers. But given there are a variety of CEOs of big businesses at Microsoft, this looks like more of a move to allow Nadella to focus on Microsoft’s technical work rather than a sign he plans to step down anytime soon.\n“This will also allow our engineering leaders and me to be laser focused on our highest ambition technical work—across our datacenter buildout, systems architecture, AI science, and product innovation—to lead with intensity and pace in this generational platform shift,” Nadella write. “This isn’t just evolution, it’s reinvention — for each of us professionally and for Microsoft.”\nHere’s Nadella’s memo in full:\nWe are in the midst of a tectonic AI platform shift, one that requires us to both manage and grow our at-scale commercial business today, while building the new frontier and executing flawlessly across both.\nHistory shows that general purpose technologies like AI drive step changes in productivity and GDP growth, and we have a unique opportunity to help our customers and the world realize this promise.\nOur success depends on enabling commercial and public sector customers and partners to combine their human capital with new AI capabilities to change the frontier of how they operate. To accelerate this, we will increasingly need to bring together sales, marketing, operations, and engineering to drive growth and strengthen our position as the partner of choice for AI transformation.\nWith this context, I have asked Judson Althoff to take on an expanded role as CEO of our commercial business. Over the past nine years, Judson has led our global sales organization and was the architect behind designing and building Microsoft Customer and Partner Solutions (MCAPS) into what it is today: the “number one seed” in the industry and our company’s most important growth engine.\nTakeshi Numoto and his marketing team will join this new organization, with Takeshi reporting directly to Judson as CMO, while also continuing to report directly to me on all-up business models, planning, consumer marketing, and corporate brand and communications.\nOur operations organization will also move to report to Judson. By bringing operations into the commercial business, we can tighten the feedback loop between what customers need and how we deliver and support them. Carolina Dybeck Happe will continue to report to me, as she works on our overall company transformation and continues to closely partner with Judson.\nAdditionally, Judson will lead a new commercial leadership team that brings together leaders from engineering, sales, marketing, operations, and finance to drive our product strategy and governance, GTM readiness, and sales motions with shared accountability for the rigor and executional excellence our customers expect.\nThis will also allow our engineering leaders and me to be laser focused on our highest ambition technical work—across our datacenter buildout, systems architecture, AI science, and product innovation—to lead with intensity and pace in this generational platform shift. Each one of us needs to be at our very best in terms of rapidly learning new skills, adopting new ways to work, and staying close to the metal to drive innovation across the entire stack!!\nThis isn’t just evolution, it’s reinvention, for each of us professionally and for Microsoft.\nSatya",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "b0ba927347b802891898d806aa9ec30509f6b72a",
       "title": "NSW urged to stop strip-searches of young people after court ruling spotlights police conduct",
       "url": "https://www.theguardian.com/australia-news/2025/oct/02/nsw-police-urged-stop-strip-searching-people-court-finds-conduct-issues",
@@ -492,19 +531,6 @@
       "published": "2025-10-01T15:00:00.000Z",
       "summary_90w": "",
       "raw": "A startup called Deta is releasing a new app called Surf, which is a remix of an AI browser and NotebookLM.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "3e92b1b11ae55104f764b003f974c77431899210",
-      "title": "Everything about buying video games is getting more confusing and expensive",
-      "url": "https://www.theverge.com/games/789734/game-consoles-too-expensive",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-01T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Recently, I dug out my old Nintendo 3DS because I was craving simpler times. Really, I just wanted to play some games; to chip away at the mystery of Majora's Mask, or solve a few puzzles in BoxBoy, without the headaches of system updates or subscriptions or any of that stuff. It's been refreshing. And my choice has felt especially prescient of late, given just how much more complicated and expensive modern game consoles have become. It's not a new problem, but it keeps getting worse.\nThe most recent example comes from Microsoft. Today, the company announced changes to its Game Pass subscription service, which, yes, also include a price hik …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -718,19 +744,6 @@
       ]
     },
     {
-      "id": "33f5a1d7a7f2ebbcfa42552ba8a4092960a64522",
-      "title": "From real sport to esports - why Saudi Arabia spent $55bn on EA",
-      "url": "https://www.bbc.com/sport/football/articles/c0jq24yy4z9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-01T13:10:32.000Z",
-      "summary_90w": "",
-      "raw": "An analysis of why a consortium led by Saudi Arabia has spent $55bn on gaming company Electronic Arts.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "76acb5133892db10b01d1e78d3247ab3eabdc682",
       "title": "China replaces high-level diplomat after reported detention",
       "url": "https://www.theguardian.com/world/2025/oct/01/china-replaces-liu-jianchao-high-level-diplomat-after-reported-detention",
@@ -936,19 +949,6 @@
       "raw": "The plan is a significant moment - but it lacks the nuts and bolts that determine whether diplomatic agreements hold together, or don't.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "471edba46558c2590984e047fc459796712b7a09",
-      "title": "Oura launches Ring 4 Ceramic collection, new charging case, and a ‘health panel’ feature",
-      "url": "https://techcrunch.com/2025/10/01/oura-launches-ring-4-ceramic-collection-new-charging-case/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-01T12:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The new Oura Ring 4 Ceramic is made from zirconia ceramic, which the company says allows for durability and lightweight comfort.",
-      "topics": [
-        "Technology"
       ]
     },
     {
