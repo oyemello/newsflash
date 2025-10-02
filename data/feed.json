@@ -1,7 +1,33 @@
 {
-  "version": "1759433853857",
-  "generatedAt": "2025-10-02T19:37:33.857Z",
+  "version": "1759434727700",
+  "generatedAt": "2025-10-02T19:52:07.700Z",
   "items": [
+    {
+      "id": "e52eea32e4485904eafb4dcde99c55fc61d52414",
+      "title": "Worshippers helped stop suspect from entering synagogue - what we know about attack",
+      "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-02T19:45:26.000Z",
+      "summary_90w": "",
+      "raw": "Two Jewish people died in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue on the holiest day in the Jewish religious calendar.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bc8589eda3bf24dc36467f0fa61756aabc46effb",
+      "title": "Strava sues Garmin over alleged patent infringement",
+      "url": "https://www.theverge.com/news/790922/strava-garmin-patent-infringement-lawsuit",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-02T19:37:59.000Z",
+      "summary_90w": "",
+      "raw": "Strava is suing its long-time partner Garmin, and is seeking to permanently block the company from selling most of its current fitness and cycling gadget lineup. The lawsuit filed in the US District Court of Colorado on September 30th, first reported by DC Rainmaker, alleges that Garmin violated an agreement between the companies by infringing on Strava’s patents for segments — route sections where athletes can compare performance times — and heatmaps that show popular areas for activity.\nStrava is seeking a permanent injunction to prohibit Garmin from selling or offering any products that provide segments or heat mapping features, arguing that “monetary relief alone is inadequate.” Those demands target Garmin’s Connect fitness tracking platform and the majority of Garmin’s devices, including Edge bike computers, and Forerunner, Fenix, and Epix watches.\nThe lawsuit is surprising, given that these are two of the most recognizable brands in fitness tech and share a lot of integrations between their respective platforms. A trend report that Strava published last year even revealed that Garmin’s decade-old Forerunner 235 was the most popular smartwatch among its worldwide users.\nThe patent for Strava’s segments feature was filed in 2011 and granted in 2015, detailing a system that allows athletes to compare their performances on user-defined routes. Garmin launched the Edge 1000 cycle computer in 2014, which featured its own Garmin Connect segments system. The company later signed a Master Cooperation Agreement (MCA) with Strava in 2015 to bring Strava Live Segments to Garmin devices.\nIn its complaint, Strava says that Garmin violated MCA terms by expanding Garmin-branded segments outside the permitted Strava‑built experience. Separately, Strava claims that Garmin used its patented segment tech to build a competing system across the Garmin Connect platform and hardware ecosystem.\nStrava also alleges that heat mapping and route suggestion features for Garmin’s devices and Connect platform infringe on two additional patents. One focused on activity heatmaps was filed in 2014, and granted in 2016, with the second covering popularity-based routing features being filed in 2016, and granted in 2017. As DC Rainmaker notes, however, Garmin first introduced heatmaps to Garmin Connect in 2013, prior to Strava’s patent filings.\n“Garmin received limited permission from Strava to implement Strava Segments on their devices; however, they leveraged this access to carefully study those features, painstakingly copy them, and then release them as Garmin features, and as a result, Strava has sued Garmin to protect its patented inventions,” Strava spokesperson Brian Bell said in a statement to The Verge. “Garmin rejected Strava’s repeated attempts to address Garmin’s infringement informally, forcing Strava to take a stand on the matter and file suit. We do not intend to take any actions that would disrupt the ability of Garmin users to sync their data with Strava, and hope Garmin values our shared users in the same way.”\nGarmin did not immediately respond to a request for comment.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "c85f0785c8a496ea5780da39b5395736f648c41d",
       "title": "Anthropic hires new CTO with focus on AI infrastructure",
@@ -10,7 +36,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-02T19:00:39.000Z",
       "summary_90w": "",
-      "raw": "Former Stripe CTO Rahul Patil is joining Anthropic to fine-tune the company's infrastructure.",
+      "raw": "As part of the change, Anthropic is updating the structure of its core technical group, bringing the company's product-engineering team into closer contact with the infrastructure and inference teams.",
       "topics": [
         "Technology"
       ]
@@ -328,19 +354,6 @@
       ]
     },
     {
-      "id": "e52eea32e4485904eafb4dcde99c55fc61d52414",
-      "title": "Worshippers helped stop suspect from entering synagogue - what we know about attack",
-      "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-02T16:48:27.000Z",
-      "summary_90w": "",
-      "raw": "Two Jewish people died in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue on the holiest day in the Jewish religious calendar.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "4f860f8ffeb3a89428d05124d5a34e1e7f798450",
       "title": "Iran may release hundreds of thousands of Afghan refugees into Iraq and Turkey",
       "url": "https://www.theguardian.com/world/2025/oct/02/iran-may-release-hundreds-of-thousands-of-afghan-refugees-into-iraq-and-turkey",
@@ -648,19 +661,6 @@
       "published": "2025-10-02T15:00:00.000Z",
       "summary_90w": "",
       "raw": "a16z releases its first AI spending report that shows which AI-native application layer companies startups are actually spending money on .",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "6556f69a8efa101948e81eac82d06b5c25329987",
-      "title": "Everything is terrorism in Trump&#8217;s America",
-      "url": "https://www.theverge.com/policy/790510/trump-fascism-antifa-soros-ice",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-02T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Trump administration declared war on the \"terrorist organization\" of \"antifa\" and the supposed \"networks\" associated with it last week. Antifa is not so much a vast national conspiracy as it is simply an abbreviation for anti-fascism - but don't point out that anti-anti-fascism looks a lot like fascism. That would make you antifa, too. The plain intent of the memo is to make Americans afraid to call fascism what it is - or worse, to say fascism is bad. \nPresident Donald Trump first signed an executive order purporting to classify antifa as a domestic terrorist organization - a designation that doesn't actually exist. This was followed b …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
