@@ -1,7 +1,72 @@
 {
-  "version": "1759436156657",
-  "generatedAt": "2025-10-02T20:15:56.657Z",
+  "version": "1759437333516",
+  "generatedAt": "2025-10-02T20:35:33.516Z",
   "items": [
+    {
+      "id": "44a9e5871ef84fd17707a9a8c4687107747378bc",
+      "title": "Starmer vows to protect Jewish communities",
+      "url": "https://www.bbc.com/news/articles/czrpxgk6x68o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-02T20:26:24.000Z",
+      "summary_90w": "",
+      "raw": "The prime minister said Britain must defeat antisemitic hate, as the King, religious leaders and politicians issue statements.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "af7b241a19a8879e648a1e9699d69642eac5070e",
+      "title": "Ring’s new Search Party feature is on by default; should you opt out?",
+      "url": "https://www.theverge.com/news/790928/ring-search-party-cameras-default-opt-out",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-02T20:16:34.000Z",
+      "summary_90w": "",
+      "raw": "This week, Ring, an Amazon-owned smart security company, announced Search Party, a new feature to help find lost dogs. When someone posts a picture of a lost dog on Ring’s Neighbors app, they will be able to initiate a Search Party. Ring then uses AI to scan footage from nearby outdoor Ring cameras and doorbells for the lost pet. If it’s detected via someone else’s device, that camera’s owner will receive a notification and can choose to share the video with the pet owner.\n\nI should be able to choose whether my footage is being searched \n\n\nIt’s a great use of AI and has the potential to track down missing pets a lot faster than social media posts or text message chains. This is because it (almost) cuts out the middleman — you. Rather than relying on you to see a message about a missing dog, look at a picture or read through the description of the dog, and then go check your camera feeds to see if it ran by your house, all of that happens in the background. \n“Your Ring AI assistant is looking for that dog and is going to tell you, ‘Look, this dog I saw looks like this dog that’s missing,’” Ring’s founder, Jamie Siminoff, told me in an interview at Amazon’s event this week. You can then decide whether to share the video or just notify the owner through the Neighbors app, he explained. \nHowever, it turns out that Search Party is enabled by default. In an email to customers this week, Siminoff wrote that the feature is rolling out to Ring outdoor cameras in November and noted, “You can always turn off Search Party.” \nI checked my cameras this morning, and they were all automatically set to enable Search Party. And I’m not alone; Ring users on Reddit have also reported that their cameras have been enabled for Search Party. As Siminoff wrote, I can turn this off, and if I don’t, I will get to review any footage it finds before deciding what to do with it. Ring says no video is shared without the owner’s consent.\nHowever, getting opted in by default feels intrusive, particularly for a company with a checkered history around sharing footage with the police. While mass adoption enabled by a default opt-in will undoubtedly make the feature much more effective — and yes, I want to help find my neighbors’ dogs — I should be able to choose whether my footage is being searched. \n\nI do get a choice in whether or not to share that alert with the dog’s owner\n\n\nThis is more about consent than privacy. Essentially, Search Party is working in the same way as Ring’s current AI-powered smart alerts for people, vehicles, and packages. The footage from your camera is analyzed in Ring’s cloud for those things. That’s what happens when you get a Ring alert that a package has been delivered. Only now, when someone else initiates a Search Party in the Neighbors app, Ring can also look for a specific dog on others’ cameras. The difference is that I told Ring I wanted it to search for packages, I didn’t tell it to look for dogs.\nAgain, when it comes to the dog, I do get a choice in whether or not to share that alert with the dog’s owner. It won’t be sent to them automatically. “We don’t want data escaping people’s environment without them knowing,” Siminoff told me.\nWhile most people will happily help someone find their lost dog, there is a concern about where this could lead. This week, the company also announced it’s bringing facial recognition to its cameras for the first time. Familiar Faces lets you register images of family and friends in the app so you can get specific alerts about who your cameras see. \nThe combination of Search Party and facial recognition raises the question of whether the Ring cloud could one day be used to search for specific individuals. Ring spokesperson Yassi Yarger told me that there are no plans around this for now. “Search Party was designed to match images of dogs to dogs captured in Ring videos,” she said. “It is not designed to process human biometrics.” \nAdditionally, she said Search Party footage is not included in Ring’s Community Requests service, which allows police and other public safety agencies to request help from the public.\nAs someone who regularly uses her own cameras to locate her pets, I think Search Party could be a great tool, and I will keep it enabled on the Ring cameras at my home. But I still think Ring should have asked before turning it on for everyone.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e52eea32e4485904eafb4dcde99c55fc61d52414",
+      "title": "Worshippers helped stop suspect from entering synagogue - what we know about attack",
+      "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-02T20:16:23.000Z",
+      "summary_90w": "",
+      "raw": "Two Jewish people died in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue on the holiest day in the Jewish religious calendar.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "cbb5b4f2d6da6f8dfaeca6258f0c7baab7d0b066",
+      "title": "'Find common ground', tourists in Washington tell lawmakers amid shutdown",
+      "url": "https://www.bbc.com/news/videos/c701yk41x86o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-02T20:10:49.000Z",
+      "summary_90w": "",
+      "raw": "Several museums and landmarks around the US, including the Capitol and Washington Monument, have closed to visitors.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6323524077ed6fd074296be8ef5da8008806f35e",
+      "title": "Ozzy Osbourne 'wouldn't change a thing', he told BBC film",
+      "url": "https://www.bbc.com/news/articles/c749dq3lw5go?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-02T20:06:38.000Z",
+      "summary_90w": "",
+      "raw": "The delayed documentary shows the late star and his family return to the UK ahead of a farewell show.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "5a2e5335ea842c7ab6d7542cf02650bb42f9c920",
       "title": "Google is destroying independent websites, and one sees no choice but to defend it anyway",
@@ -26,19 +91,6 @@
       "raw": "The Trump administration canceled over 300 awards related to clean energy on October 1. The states most affected by the cuts voted for Democrat presidential candidate Kamala Harris.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "e52eea32e4485904eafb4dcde99c55fc61d52414",
-      "title": "Worshippers helped stop suspect from entering synagogue - what we know about attack",
-      "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-02T19:45:26.000Z",
-      "summary_90w": "",
-      "raw": "Two Jewish people died in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue on the holiest day in the Jewish religious calendar.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -141,19 +193,6 @@
       "published": "2025-10-02T18:22:21.000Z",
       "summary_90w": "",
       "raw": "President also said the US is now in a ‘non-international conflict’, according to a White House memo\nDonald Trump has declared that drug cartels operating in the Caribbean are “unlawful combatants” and says the United States is now in a “non-international armed conflict”, according to a White House memo obtained by the Associated Press on Thursday.\nA US official familiar with the matter who was not authorized to comment publicly told the AP that Congress was notified about the designation by Pentagon officials on Wednesday.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "44a9e5871ef84fd17707a9a8c4687107747378bc",
-      "title": "Starmer vows to protect Jewish communities",
-      "url": "https://www.bbc.com/news/articles/czrpxgk6x68o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-02T18:15:29.000Z",
-      "summary_90w": "",
-      "raw": "The prime minister said Britain must defeat antisemitic hate, as the King, religious leaders and politicians issue statements.",
       "topics": [
         "World"
       ]
@@ -518,19 +557,6 @@
       "published": "2025-10-02T16:00:00.000Z",
       "summary_90w": "",
       "raw": "TechCrunch Disrupt 2025 wouldn’t be possible without the incredible support of our sponsors, who bring world-class expertise, bold innovation, and community energy to every corner of the conference.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "4f70e6bcb4c7069bd42b7828c3a51cf82b29815d",
-      "title": "Welcome to the Xbox $360 era",
-      "url": "https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-02T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "When Microsoft first revealed that it would be giving day-one Game Pass releases to all of its own Xbox games back in 2018, it suddenly turned the subscription service into a must-have for many fans. It was lauded as \"the best deal in gaming,\" with memes about just how good a value Xbox Game Pass was. \nBut after a massive price hike this week, the top Xbox Game Pass tier is now $29.99 per month, adding up to a steep $360 a year, which is more than the $299 debut price of the Xbox Series S. It comes at a time when Microsoft is also increasing console prices and trying to convince people to buy a $1,000 Xbox Ally X handheld.\nSo, why are we s …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -1368,19 +1394,6 @@
       ]
     },
     {
-      "id": "85e09c819ab0a47d7cd09a8b4ca870f2775db161",
-      "title": "Dame Jane Goodall revolutionised our understanding of our closest primate cousins",
-      "url": "https://www.bbc.com/news/articles/cgj1pz8q63go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-01T20:53:35.000Z",
-      "summary_90w": "",
-      "raw": "The conservationist, who died aged 91 on Wednesday, challenged how we relate to the natural world.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "96ffd6abdb7a1bc7e0b441f2bdcabbf1ed2a21ab",
       "title": "Microsoft announcement highlights complicated relationship between Big Tech and war",
       "url": "https://www.npr.org/2025/10/01/nx-s1-5554482/microsoft-announcement-highlights-complicated-relationship-between-big-tech-and-war",
@@ -1415,19 +1428,6 @@
       "published": "2025-10-01T18:25:22.000Z",
       "summary_90w": "",
       "raw": "At some point, public pressure and political pain will see one side yield to bring this latest US government shutdown to an end.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ce515dbc09260757015f7728877e171cea0da826",
-      "title": "Jimmy Kimmel on the moment he found out he was going off air",
-      "url": "https://www.bbc.com/news/videos/c87yql1ll8po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-01T18:02:32.000Z",
-      "summary_90w": "",
-      "raw": "His brief suspension came after his comments about the killing of Charlie Kirk.",
       "topics": [
         "World"
       ]
