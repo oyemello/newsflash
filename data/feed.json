@@ -1,14 +1,40 @@
 {
-  "version": "1759469680921",
-  "generatedAt": "2025-10-03T05:34:40.921Z",
+  "version": "1759470294622",
+  "generatedAt": "2025-10-03T05:44:54.623Z",
   "items": [
+    {
+      "id": "fbcbc38605839f896277b80407340150806d900e",
+      "title": "Munich airport reopens after drone sightings force closure",
+      "url": "https://www.bbc.com/news/articles/cpw1e7j5ew9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-03T05:40:23.000Z",
+      "summary_90w": "",
+      "raw": "Dozens of flights were cancelled or redirected at Munich International Airport after drone sightings.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1a5fbd18611a33a0fdad12c6647876658cd11383",
+      "title": "Former Israeli hostage 'very worried' Trump's peace plan will not happen",
+      "url": "https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-03T05:30:17.000Z",
+      "summary_90w": "",
+      "raw": "Eli Sharabi tells BBC in a rare interview that Trump must \"finish the job\" by ensuring the release of the remaining 48 hostages.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "18da90456a66525a0794df6407d19109e28a998c",
       "title": "Australia news live: pro-Palestine Opera House protesters vow to fight police block in court; search for missing four-year-old scaled back",
       "url": "https://www.theguardian.com/australia-news/live/2025/oct/03/png-agreement-aukus-submarines-pact-anthony-albanese-richard-marles-retired-admiral-slams-aukus-deal-gaza-flotilla-intercepted-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-10-03T05:05:54.000Z",
+      "published": "2025-10-03T05:18:13.000Z",
       "summary_90w": "",
       "raw": "Palestine Action Group says it will challenge the police’s decision to oppose a march to the Sydney Opera House. Follow the latest news live\n\nGet our breaking news email, free app or daily news podcast\n\nOpposition leader Sussan Ley has expressed her “grief and shock” after the Manchester synagogue attack. She said in a statement this morning:\nOur thoughts are with the families of those who have been killed and injured in this cowardly, evil attack.\nThe threat of terrorism requires continual vigilance and courage from our police and first responders. To target worshippers and families as they gather together for the holiest period of the Jewish faith is despicable beyond words. All people, regardless of religion have the right to worship in peace and should feel they can do so without fear or apprehension.\n Continue reading...",
       "topics": [
@@ -62,7 +88,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-10-03T04:07:48.000Z",
       "summary_90w": "",
-      "raw": "Latest ATO report reveals string of mostly multinational firms continue to be able to pay no or very little income tax, including Netflix, Apple and Microsoft\n\nGet our breaking news email, free app or daily news podcast\n\nScandal-ridden telco Optus, the world’s biggest meat producer, global tech firms and huge gas producers are among a host of major companies earning billions of dollars a year but paying zero income tax.\nThe latest corporate transparency report from the Australian Taxation Office revealed a string of mostly multinational firms continue to pay no or very little tax on income in Australia, including household names such as Netflix, Apple and Microsoft.\n Continue reading...",
+      "raw": "Latest ATO report reveals string of mostly multinational firms continue to be able to pay no or very little income tax, including Netflix, Apple and Microsoft\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nScandal-ridden telco Optus, the world’s biggest meat producer, global tech firms and huge gas producers are among a host of major companies earning billions of dollars a year but paying zero income tax.\nThe latest corporate transparency report from the Australian Taxation Office revealed a string of mostly multinational firms continue to pay no or very little tax on income in Australia, including household names such as Netflix, Apple and Microsoft.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -185,19 +211,6 @@
       ]
     },
     {
-      "id": "fbcbc38605839f896277b80407340150806d900e",
-      "title": "Munich airport closes after drones spotted nearby ",
-      "url": "https://www.bbc.com/news/articles/cpw1e7j5ew9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-03T02:13:56.000Z",
-      "summary_90w": "",
-      "raw": "Dozens of flights have been cancelled or redirected at Munich International Airport after drone sightings.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "682d190449a73f9304cb6c9b6214c337e92983e8",
       "title": "Top NHS boss backed surgeon whose failures contributed to deaths",
       "url": "https://www.bbc.com/news/articles/cn0rpdjd39po?at_medium=RSS&at_campaign=rss",
@@ -225,7 +238,7 @@
     },
     {
       "id": "e52eea32e4485904eafb4dcde99c55fc61d52414",
-      "title": "What we know about the attack: Worshippers helped stop suspect entering synagogue",
+      "title": "What we know about Manchester synagogue attack",
       "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -1605,13 +1618,13 @@
       "id": "6592fbb3a78e66d7c789752e0dce6c70a5148c58",
       "title": "Hackers say they have deleted children's pictures and data after nursery attack backlash",
       "url": "https://www.bbc.com/news/articles/c8rv83mrlyyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2025-10-01T23:01:12.000Z",
       "summary_90w": "",
       "raw": "The hackers tell the BBC they are sorry for their actions - but experts say it's a practical rather than moral move.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
