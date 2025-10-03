@@ -1,7 +1,33 @@
 {
-  "version": "1759521114975",
-  "generatedAt": "2025-10-03T19:51:54.975Z",
+  "version": "1759522529680",
+  "generatedAt": "2025-10-03T20:15:29.680Z",
   "items": [
+    {
+      "id": "19b14529b6f24f12d8a7234c97a31ec24be3e266",
+      "title": "Serving Met police officer arrested after BBC Panorama investigation",
+      "url": "https://www.bbc.com/news/articles/c86422y9vxno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-03T20:01:51.000Z",
+      "summary_90w": "",
+      "raw": "The officer has been bailed and suspended from duty, the Met police says.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9e2698eb309af6604884da1a44ffcff840c4ae82",
+      "title": "Starmer tells protesters to 'respect grief of British Jews'",
+      "url": "https://www.bbc.com/news/articles/ckgy8kvvkp3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-03T19:50:00.000Z",
+      "summary_90w": "",
+      "raw": "The prime minister said pro-Palestinian protests planned for the weekend would cause distress.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "823c68ae55b53047a77616ccb8f619ed15931a76",
       "title": "Storm Amy danger warnings as 100mph winds recorded",
@@ -26,19 +52,6 @@
       "raw": "OpenAI's third-ever developer conference is around the corner, and it's shaping up to be the company's biggest yet.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "19b14529b6f24f12d8a7234c97a31ec24be3e266",
-      "title": "Serving Met police officer arrested after BBC Panorama investigation",
-      "url": "https://www.bbc.com/news/articles/c86422y9vxno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-03T19:36:33.000Z",
-      "summary_90w": "",
-      "raw": "The officer has been bailed and suspended from duty, the Met police says.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -380,19 +393,6 @@
       ]
     },
     {
-      "id": "9e2698eb309af6604884da1a44ffcff840c4ae82",
-      "title": "Pro-Palestinian protests 'un-British' after terror attack, Mahmood says",
-      "url": "https://www.bbc.com/news/articles/ckgy8kvvkp3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-03T17:09:15.000Z",
-      "summary_90w": "",
-      "raw": "The home secretary told BBC Breakfast she was disappointed pro-Palestinian protests went ahead.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1295b9db90ed4a1db1bd6f912890bcb3150bba5c",
       "title": "I’ve fallen into Sora’s slippery slop",
       "url": "https://www.theverge.com/ai-artificial-intelligence/791290/openai-sora-ai-generated-video-hands-on",
@@ -452,7 +452,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-03T16:48:32.000Z",
       "summary_90w": "",
-      "raw": "Sora becomes the No. 3 US app after 164K downloads in 2 days, making the AI video app an early hit.",
+      "raw": "OpenAI's Sora app for AI videos is a viral hit, despite being invite-only for now and limited to users in the U.S. and Canada at launch.",
       "topics": [
         "Technology"
       ]
