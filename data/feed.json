@@ -1,16 +1,68 @@
 {
-  "version": "1759528290993",
-  "generatedAt": "2025-10-03T21:51:30.993Z",
+  "version": "1759529618920",
+  "generatedAt": "2025-10-03T22:13:38.920Z",
   "items": [
+    {
+      "id": "79d0f1b887a5cdb05b939f8751825c1064b317df",
+      "title": "Synagogue attacker was on bail after rape arrest, police say",
+      "url": "https://www.bbc.com/news/articles/cly97ervz1zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-03T22:02:32.000Z",
+      "summary_90w": "",
+      "raw": "Counter terror police also say Al-Shamie may have been influenced by \"extreme Islamist ideology\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3a54ea0da2a28d3b7c95838c1f8864c8535b4391",
+      "title": "Denmark prepares for a Russian 'hybrid war' after repeated drone spottings",
+      "url": "https://www.npr.org/2025/10/03/nx-s1-5561990/denmark-russia-drones-hybrid-war",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-03T21:57:41.000Z",
+      "summary_90w": "",
+      "raw": "Many Danes are rethinking their personal security, and stocking up on emergency supplies, amid unidentified drone appearances. Denmark's leaders warn that Russia is waging a \"hybrid war.\"",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "64734c779c110b0c0ef8d09842b745f77f2dd8dd",
+      "title": "Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z ",
+      "url": "https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-03T21:56:58.000Z",
+      "summary_90w": "",
+      "raw": "Former Databricks AI chief is raising $1 billion to build a Nvidia rival through a novel approach.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "8c110b60a8a1d336731ef96b261f87503cbc8aa2",
       "title": "Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
       "url": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2025-10-03T21:29:51.000Z",
+      "published": "2025-10-03T21:51:16.000Z",
       "summary_90w": "",
       "raw": "The 20-point proposal seeks to end the fighting immediately in return for the release of hostages and detained Gazans.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "823c68ae55b53047a77616ccb8f619ed15931a76",
+      "title": "Storm Amy danger warnings as wind gusts approaching 100mph recorded",
+      "url": "https://www.bbc.com/news/articles/c98d2ep62z7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-03T21:49:08.000Z",
+      "summary_90w": "",
+      "raw": "In Glasgow a derelict building collapsed, while 96mph gusts were recorded on the island of Tiree, off Scotland's west coast.",
       "topics": [
         "World"
       ]
@@ -76,19 +128,6 @@
       "published": "2025-10-03T20:44:04.000Z",
       "summary_90w": "",
       "raw": "Counter terrorism police arrest three more people as part of the investigation into Thursday's attack.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "823c68ae55b53047a77616ccb8f619ed15931a76",
-      "title": "Storm Amy danger warnings as 100mph gusts recorded",
-      "url": "https://www.bbc.com/news/articles/c98d2ep62z7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-03T20:38:16.000Z",
-      "summary_90w": "",
-      "raw": "In Glasgow a derelict building collapsed, while 102mph gusts were recorded on the island of Tiree, off Scotland's west coast.",
       "topics": [
         "World"
       ]
@@ -179,7 +218,7 @@
       "source_name": "The Verge",
       "published": "2025-10-03T19:23:14.000Z",
       "summary_90w": "",
-      "raw": "Unity is urging developers to take “immediate action” after it disclosed a major security vulnerability affecting games built using versions of its popular development tool dating back to 2017. While there is “no evidence of any exploitation of the vulnerability, nor has there been any impact on users or customers,” Unity already has fixes available to developers, according to a post from Larry Hryb, aka “Major Nelson.” \nSpecifically, developers need to take action if “you have developed and released a game or application using Unity 2017.1 or later for Windows, Android, or macOS,” Hryb says. Unity’s “platform partners” have also “taken further steps to secure their platforms and protect end users.”\nValve already released a new version of Steam that adds mitigations for the exploit, and “for Windows, Microsoft Defender has been updated and will detect and block the vulnerability,” Hryb says. Google and Meta have taken steps as well, according to Hyrb. There are “no findings to suggest” that the vulnerability can be exploited on iOS, visionOS, tvOS, Xbox, Nintendo Switch, PlayStation, UWP, Quest, and WebGL.\nAccording to the Common Vulnerabilities and Exposures (CVE) record about the exploit, “if an application was built with a version of Unity Editor that had the vulnerable Unity Runtime code, then an adversary may be able to execute code on, and exfiltrate confidential information from, the machine on which that application is running.”",
+      "raw": "Unity is urging developers to take “immediate action” after it disclosed a major security vulnerability affecting games built using versions of its popular development tool dating back to 2017. While there is “no evidence of any exploitation of the vulnerability, nor has there been any impact on users or customers,” Unity already has fixes available to developers, according to a post from Larry Hryb, aka “Major Nelson.” \nSpecifically, developers need to take action if “you have developed and released a game or application using Unity 2017.1 or later for Windows, Android, or macOS,” Hryb says. Unity’s “platform partners” have also “taken further steps to secure their platforms and protect end users.”\nValve already released a new version of Steam that adds mitigations for the exploit, and “for Windows, Microsoft Defender has been updated and will detect and block the vulnerability,” Hryb says. Google and Meta have taken steps as well, according to Hyrb. There are “no findings to suggest” that the vulnerability can be exploited on iOS, visionOS, tvOS, Xbox, Nintendo Switch, PlayStation, UWP, Quest, and WebGL.\nNumerous developers have taken actions in response to the disclosure. Obsidian removed some of its games and products from digital storefronts, including Grounded 2 Founders Edition, Avowed Premium Edition, Pillars of Eternity: Hero Edition, Pillars of Eternity II: Deadfire, and Pentiment, until it can “implement the necessary updates to address the issue.” Marvel Snap, No Rest for the Wicked, Ingress, and Fate/Grand Order have all received updates as well.\nAccording to the Common Vulnerabilities and Exposures (CVE) record about the exploit, “if an application was built with a version of Unity Editor that had the vulnerable Unity Runtime code, then an adversary may be able to execute code on, and exfiltrate confidential information from, the machine on which that application is running.”\nUpdate, October 3rd: Added details about Obsidian removing games from storefronts and about games that have gotten updates.",
       "topics": [
         "Technology"
       ]
@@ -913,19 +952,6 @@
       ]
     },
     {
-      "id": "ed5e11d5b015721c46628882e220cde8174e3cb9",
-      "title": "Mexico: The cumbia DJs of the streets",
-      "url": "https://www.npr.org/sections/the-picture-show/2025/10/03/nx-s1-5548571/cumbia-in-mexico",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-10-03T12:30:00.000Z",
-      "summary_90w": "",
-      "raw": "One of the most listened-to genres in the Americas, photographers and storytellers Karla Gachet and Ivan Kashinsky document cumbia in Colombia, Mexico, Ecuador, Peru, Argentina and the United States.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7f75631e415ef9f3a46cf4ef17e4b3631dc3fa64",
       "title": "Keeping Up Appearances star Patricia Routledge dies at 96",
       "url": "https://www.bbc.com/news/articles/czdjegvjz3do?at_medium=RSS&at_campaign=rss",
@@ -1420,19 +1446,6 @@
       ]
     },
     {
-      "id": "329ba0ae1298c1f7bb88d741e7dd7cc1407a02b8",
-      "title": "Department of Energy cancels $7.5B of clean energy projects in mostly blue states",
-      "url": "https://techcrunch.com/2025/10/02/department-of-energy-cancels-7-5b-of-clean-energy-projects-in-mostly-blue-states/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-02T19:53:46.000Z",
-      "summary_90w": "",
-      "raw": "The Trump administration canceled over 300 awards related to clean energy on October 1. The states most affected by the cuts voted for Democrat presidential candidate Kamala Harris.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "d999571d9ac2bda5654953eba60d644594964187",
       "title": "AI designs for dangerous DNA can slip past biosecurity measures, study shows",
       "url": "https://www.npr.org/2025/10/02/nx-s1-5558145/ai-artificial-intelligence-dangerous-proteins-biosecurity",
@@ -1545,19 +1558,6 @@
       "published": "2025-10-02T13:13:07.000Z",
       "summary_90w": "",
       "raw": "Pair had crossed border to support presidential campaign of reggae singer Bobi Wine\nTwo Kenyan activists have been abducted in Uganda after attending a presidential campaign event for Bobi Wine, the reggae musician turned politician.\nHeavily armed security operatives detained Bob Njagi, the chair of Free Kenya, and Nicholas Oyoo, the movement’s secretary general, at a petrol station near Kampala on Wednesday afternoon.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e8a474ece04a09ff3aca52926f4d1a9adc878984",
-      "title": "Watch on iPlayer: Access All Areas - When Country Comes to Town",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002k6z4?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-02T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Go behind the scenes as country music takes over the Royal Albert Hall.",
       "topics": [
         "World"
       ]
