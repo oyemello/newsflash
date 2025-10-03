@@ -1,7 +1,46 @@
 {
-  "version": "1759519540259",
-  "generatedAt": "2025-10-03T19:25:40.259Z",
+  "version": "1759520234589",
+  "generatedAt": "2025-10-03T19:37:14.589Z",
   "items": [
+    {
+      "id": "0c11b6ffa747e50580efc54305c721c6c207d5e2",
+      "title": "Tales from the AI hiring frenzy",
+      "url": "https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-03T19:30:00.000Z",
+      "summary_90w": "",
+      "raw": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week.\nThe billboard didn't say \"Listen Labs.\" It didn't say anything about hiring.  It consisted of just a plain white background with \"https://\" and a single line of grouped numbers hanging over Nob Hill, San Francisco. \nLast month, Alfred Wahlforss, the startup's CEO, posted on X that whoever cracked the code and completed a subsequent challenge would win a trip to Berlin and get on the guest list for the ultra-exclusive nightclub Berghain.\nOne of the more elaborate tech startup recruiting stunts in  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9cd9c77432a17b9841145aa56f2c63cfed6d88fa",
+      "title": "Snapchat is going to charge for storage — here’s how to save your Memories for free",
+      "url": "https://techcrunch.com/2025/10/03/snapchat-is-going-to-charge-for-storage-heres-how-to-save-your-memories-for-free/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-03T19:26:02.000Z",
+      "summary_90w": "",
+      "raw": "If your Memories exceed the new limit, you will need to either export them or sign up for one of Snapchat's new Memories Storage plans in order to preserve them.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "31f9241d372ea89e3f513484c7eda189102488dd",
+      "title": "Unity discloses a years-old security exploit and urges developers to update their games",
+      "url": "https://www.theverge.com/news/791609/unity-security-exploit-developers-update-games",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-03T19:23:14.000Z",
+      "summary_90w": "",
+      "raw": "Unity is urging developers to take “immediate action” after it disclosed a major security vulnerability affecting games built using versions of its popular development tool dating back to 2017. While there is “no evidence of any exploitation of the vulnerability, nor has there been any impact on users or customers,” Unity already has fixes available to developers, according to a post from Larry Hryb, aka “Major Nelson.” \nSpecifically, developers need to take action if “you have developed and released a game or application using Unity 2017.1 or later for Windows, Android, or macOS,” Hryb says. Unity’s “platform partners” have also “taken further steps to secure their platforms and protect end users.”\nValve already released a new version of Steam that adds mitigations for the exploit, and “for Windows, Microsoft Defender has been updated and will detect and block the vulnerability,” Hryb says. Google and Meta have taken steps as well, according to Hyrb. There are “no findings to suggest” that the vulnerability can be exploited on iOS, visionOS, tvOS, Xbox, Nintendo Switch, PlayStation, UWP, Quest, and WebGL.\nAccording to the Common Vulnerabilities and Exposures (CVE) record about the exploit, “if an application was built with a version of Unity Editor that had the vulnerable Unity Runtime code, then an adversary may be able to execute code on, and exfiltrate confidential information from, the machine on which that application is running.”",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "7169c50bc5785498293c9820a6f5d9368db05287",
       "title": "Google’s Gemini AI app could soon be getting a big makeover",
@@ -101,7 +140,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-03T18:36:53.000Z",
       "summary_90w": "",
-      "raw": "The YC Partner Simulator game, created by an undergrad in Berlin, lets you see if you can predict what startups get into Y Combinator.",
+      "raw": "The YC Partner Simulator game, created by an undergrad in Berlin, lets you see if you can predict which startups get into Y Combinator.",
       "topics": [
         "Technology"
       ]
@@ -518,32 +557,6 @@
       "published": "2025-10-03T15:39:35.000Z",
       "summary_90w": "",
       "raw": "The pixelated display is no frills but easy to read. | Image: Hoto\t\n\nHoto’s latest electric screwdriver introduces a couple of novel usability improvements. Now, you’ll find a pixelated display on the business end of the driver showing details like its remaining battery life, while a multi-function button lets you adjust its speed and switch directions with just one finger.\nThe new PixelDrive features a similarly sleek design as the company’s previous electric drivers. But the added screen — and added power — means it’s also a bit larger than the company’s other offerings. Hoto’s Electric Precision Screwdriver is much thinner by comparison. The company’s 3.6V Electric Screwdriver Kit is a bit stubbier, but its torque maxes out at 0.2Nm and 4Nm, respectively. The PixelDrive offers up to 6Nm of torque, adjustable through six different settings that are conveniently displayed on its screen.\nThat’s a welcome step-up, but at $79.99 the PixelDrive is also Hoto’s priciest rechargeable screwdriver to date. For an extra $10 you can upgrade to Hoto’s $89.99 Cordless Brushless Electric Drill which offers up to 30Nm of torque, 30 variable power settings, and the ability to make holes, too. It’s not as compact as the PixelDrive but it’s potentially more versatile if your assembly needs are more demanding than building a PC or Ikea furniture.\nPressing lightly on the PixelDrive’s button sets the driver’s speed to 80RPM, while a firm press boosts it to 200RPM. It features the same 2,000mAh battery as you’ll find in Hoto’s drill, but the company doesn’t specify how many screws you can drive before it needs a charge. There’s also an LED ring light at the top of the screwdriver to illuminate what you’re working on.\nYou won’t find any built-in storage for bits on the PixelDrive, but Hoto includes a cylinder accessory that separates into three sections that can hold a total of 30 bits, including options with extended lengths that can be useful for accessing screws hidden in deeper recesses.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "cf6cb458528f528e7729a4b969c27cd70bc4009f",
-      "title": "Kodak launches Kodacolor 100 and 200 to feed the film resurgence",
-      "url": "https://www.theverge.com/news/791251/kodak-launches-kodacolor-100-and-200-to-feed-the-film-resurgence",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-03T15:24:09.000Z",
-      "summary_90w": "",
-      "raw": "It’s been a while since Kodak launched a new film, and even longer since it actually distributed its own. But the company caught people by surprise yesterday when it announced two new film products — Kodacolor 100 and Kodacolor 200. Just as important, it announced that it would be distributing them itself, rather than going through Kodak Alaris, which has handled distribution since the company split following bankruptcy proceedings in 2012.\nIn an Instagram post Kodak described Kodacolor as “sub-brands of existing Kodak films,” meaning they’re not completely new film stock. My suspicion is that Kodacolor 100 is based on ProImage 100 and Kodacolor 200 on Color Plus 200, judging from the limited sample images I’ve seen. While new names on existing films might be less exciting than completely new film stock, this is still a big deal for photographers who have been facing steadily increasing film prices over the last several years.\n\n\n  \n \n  \n \n\n\n \n\n View this post on Instagram\n\n \n \n \n \n\n \n \n\n \n \n \n\n \n \n \n\nA post shared by Kodak (@kodak)\n\n\n\nIncreased capacity following upgrades at its Rochester, New York factory and cutting out the middleman should mean Kodak should be able to get more film into customers hands faster to better meet demand. More supply should also mean more stable prices. Prices for color film have increased by at least 50-percent since 2020, and for some specific stocks it’s doubled. Kodacolor 100 and Kodacolor 200 are also relatively inexpensive at around $9 a roll, which should make them attractive to those looking to dabble in film photography for the first time.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "fbbdb39ed102a6a264ae033eb56e59f6855aaf5b",
-      "title": "Microsoft is about to launch free Xbox Cloud Gaming with ads",
-      "url": "https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-03T15:18:15.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft is getting ready to announce an ad-supported version of Xbox Cloud Gaming. Sources familiar with Microsoft's plans tell The Verge that the software maker has started testing ad-supported games streaming internally, allowing employees to play select titles free without a Game Pass subscription.\nI understand that the free ad-supported version of Xbox Cloud Gaming will include the ability to stream some games you own, as well as eligible Free Play Days titles, which let Xbox players try games over a weekend. You'll also be able to stream Xbox Retro Classics games.\nSources tell me the internal testing includes around two minutes of p …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -1389,19 +1402,6 @@
       "published": "2025-10-02T19:00:39.000Z",
       "summary_90w": "",
       "raw": "As part of the change, Anthropic is updating the structure of its core technical group, bringing the company's product-engineering team into closer contact with the infrastructure and inference teams.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "6fd7bf78c92625269c0bf1f13c4d100b55c4b836",
-      "title": "YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying",
-      "url": "https://techcrunch.com/2025/10/02/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-02T18:06:25.000Z",
-      "summary_90w": "",
-      "raw": "YouTubers are no longer just creators, and in some cases, their side businesses are growing faster than their channels.",
       "topics": [
         "Technology"
       ]
