@@ -1,7 +1,20 @@
 {
-  "version": "1759685829548",
-  "generatedAt": "2025-10-05T17:37:09.548Z",
+  "version": "1759686696456",
+  "generatedAt": "2025-10-05T17:51:36.456Z",
   "items": [
+    {
+      "id": "08a7740f27c3b071568f81ed2b0c78028fa4525f",
+      "title": "If you can get past the terrible logo, Audacity 4 looks pretty great",
+      "url": "https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-05T17:37:55.000Z",
+      "summary_90w": "",
+      "raw": "The new Audacity logo\t\n\nRebrands rarely get much love. That backlash can be especially strong if you’re giving a facelift to a decades-old piece of software beloved by nerds around the globe. So, it was no surprise that when Audacity revealed its new logo people on the internet got a little worked up. And look, there’s no two ways about it, the logo is pretty bad. The font it quite nice, but the bewildering take on its traditional headphone icon is rough. \nReactions around The Verge newsroom included “looks like someone stepped on the apple music icon,” and “trying to decide if their new logo looks like a sperm, and am mostly coming up with yes.” But if you can get past the branding, Audacity 4 actually looks like it’s going to be a much needed upgrade.\n\nMartin Keary, VP of product at Muse, posted a nearly hour long video to YouTube detailing the challenges facing Audacity, the logic behind the design changes, and updates on the development of version 4 (slated for release in early 2026). One of the biggest improvements is in minimizing what Keary calls “Audacity says ‘no’”. These are things that Audacity simply won’t let you do, often with no explanation other than a simple pop up (if you’re lucky). He lists off a number of examples:\nIf you want to drag a clip past another clip, it hits it like a brick wall. No. If you copy a clip and try to paste it where there’s not enough blank runway, no. You don’t have enough room. If you wanted to select multiple clips… no.\nCleaning this up involved changing the behavior of the UI, like automatically trimming a clip if you paste something over it, and getting rid of a bunch of “modes” that limited how you could interact with audio. The team also added meters for individual tracks, made trimming and time stretching easier to find (just click and drag the edge of the clip), and added a split tool that makes cleaning up audio a bit easier. \nSome users might be upset that the Sync Lock feature is going away but, as a long time user of Audacity, I can confirm it’s a confusing mess. Working with and keeping multiple audio tracks in sync is a difficult challenge to tackle, but the approached laid out in version 4 makes a lot more sense (to me at least). Add to this a more customizable, modern interface that’s much easier to read and Audacity 4 looks like it’s actually shaping up to be major step forward for the stalwart audio editor. Lets just hope they revisit the branding before the proper release in 2026.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "d8590fb1aac8b5367ad6de8ed29ffba0f5dbad2e",
       "title": "Postecoglou 'expects' talks with Forest owner and vows to 'fight'",
@@ -1040,19 +1053,6 @@
       "raw": "Another 137 people from 14 countries were deported after being detained while trying to deliver aid to Gaza.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "da66fedf2ca6d5ad88ef252d29fb298da4608040",
-      "title": "Instagram wants me to make content — I just want to post a photo",
-      "url": "https://www.theverge.com/tech/791595/instagram-uploading-features-content",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-04T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Why just post a photo when you can encourage all your friends and followers to engage with it?\t\n\nHave you tried simply uploading a photo to Instagram lately? It's a minefield. Is that a Story, a Post, or a Reel? Do you want to add music? A caption? A prompt, which is… different than a caption, somehow? How about a poll? A fundraiser? More text, but this time on top of the image? Share it to Facebook? On and on and on. I have a simple request to anyone at Meta who is listening: please, just give us our photo sharing app back.\nThe current Instagram app is more like three or four apps in a trenchcoat. There's the grid, which is probably what anyone over the age of 35 thinks of as Instagram. Then there's Stories - shamelessly copied from S …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
