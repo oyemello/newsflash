@@ -1,7 +1,20 @@
 {
-  "version": "1759652180395",
-  "generatedAt": "2025-10-05T08:16:20.395Z",
+  "version": "1759653377199",
+  "generatedAt": "2025-10-05T08:36:17.199Z",
   "items": [
+    {
+      "id": "43fcbf271251c29ec02da0409a9ea939a8369964",
+      "title": "What to expect as Syria holds first parliamentary elections since Assad's ouster",
+      "url": "https://www.npr.org/2025/10/05/nx-s1-5563029/syria-first-elections-assad-ouster",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-05T08:20:44.000Z",
+      "summary_90w": "",
+      "raw": "Syria is holding parliamentary elections on Sunday for the first time since the fall of the country's longtime autocratic leader, Bashar Assad, who was unseated in a rebel offensive in December.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "a61bf6de31974515f40e4081ff4dd475fc959179",
       "title": "Meghan makes surprise appearance at Paris Fashion Week",
@@ -43,7 +56,7 @@
     },
     {
       "id": "6d7021b8d5e3259e74d48072aefdd9f843ab134f",
-      "title": "Police to get broader powers to restrict repeated protests",
+      "title": "Home secretary wants police to get more powers to restrict repeated protests",
       "url": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -435,7 +448,7 @@
       "id": "3fea16f8154da43c3ba9b77b38cce11f4152bb77",
       "title": "Hope and fear for hostage families after Hamas response to Gaza peace plan",
       "url": "https://www.bbc.com/news/articles/cly9e6mnve9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-10-04T21:11:07.000Z",
       "summary_90w": "",
@@ -916,7 +929,7 @@
       "id": "b254cc4de48d685a7526acb4aed2b4e6031ba430",
       "title": "Shock in Gaza as Trump appears to welcome Hamas response to US peace plan",
       "url": "https://www.bbc.com/news/articles/c15k199j1x3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-10-04T13:57:38.000Z",
       "summary_90w": "",
@@ -1059,13 +1072,13 @@
       "id": "abb73fe49f3a4d19741e638ef1634903eb416af6",
       "title": "Here's how the fashion industry is using AI to predict the next big trend",
       "url": "https://www.npr.org/2025/10/04/nx-s1-5561128/paris-fashion-week-ai-predict-trends",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2025-10-04T11:00:00.000Z",
       "summary_90w": "",
       "raw": "Once the province of elite fashion editors and forecasters, the art of figuring out what's likely to fly off future racks is getting an assist from AI algorithms.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
