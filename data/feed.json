@@ -1,7 +1,59 @@
 {
-  "version": "1759781853069",
-  "generatedAt": "2025-10-06T20:17:33.069Z",
+  "version": "1759782931255",
+  "generatedAt": "2025-10-06T20:35:31.255Z",
   "items": [
+    {
+      "id": "389be24e3c695a10f483d02a9e29244df7f8b1d4",
+      "title": "Google&#8217;s AI bounty program pays bug hunters up to $30K",
+      "url": "https://www.theverge.com/news/793362/google-ai-security-vulnerability-rewards",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-06T20:24:53.000Z",
+      "summary_90w": "",
+      "raw": "On Monday, Google launched a new reward program dedicated specifically to finding bugs in AI products. Google’s list of qualifying bugs includes examples of the kind of rogue actions it’s looking for, like indirectly injecting an AI prompt that causes Google Home to unlock a door, or a data exfiltration prompt injection that summarizes all of someone’s email and sends the summary to the attacker’s own account.\nThe new program clarifies what constitutes an AI bug, breaking them down as issues that use a large language model or a generative AI system to cause harm or take advantage of a security loophole, with rogue actions at the top of the list. This includes modifying someone’s account or data to impede their security or do something unwanted, like one flaw exposed previously that could open smart shutters and turn off the lights using a poisoned Google Calendar event. \nBug hunters have already raked in over $430,000 during the two years since the company officially started inviting AI researchers to root out potential avenues to abuse AI features in its products. \nSimply getting Gemini to hallucinate will not cut it. The company says that issues related to content produced by AI products — such as generating hate speech or copyright-infringing content — should be reported to the feedback channel within the product itself. According to Google, that way its AI safety teams can “diagnose the model’s behavior and implement the necessary long-term, model-wide safety training.”\nAlong with the new AI reward program, Google also announced on Monday an AI agent that patches vulnerable code called CodeMender. The company says it has used to patch “72 security fixes to open source projects” after vetting by a human researcher.  \nThe $20,000 prize is awarded for rooting out rogue actions on Google’s “flagship” products Search, Gemini Apps, and core Workspace applications like Gmail and Drive. Multipliers for report quality and a novelty bonus are also available, which could bring the total amount up to $30,000. The price drops for bugs found on Google’s other products, like Jules or NotebookLM, and for lower-tier abuses, such as stealing secret model parameters.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "700c1d4db0c3d5db90b673a9a6b7b6c72fc371d3",
+      "title": "Google Japan’s concept keyboard is inspired by rotary phones",
+      "url": "https://www.theverge.com/news/793136/google-japan-open-source-concept-dial-keyboard-rotary-phone",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-06T20:20:12.000Z",
+      "summary_90w": "",
+      "raw": "Feeling overproductive at work? Google Japan’s new concept keyboard gives you a chance to slow down. | Image: YouTube / Google Japan\t\n\nFollowing an April Fools’ Day prank in 2021 that had a delayed reveal as a result of the pandemic, Google Japan has been cooking up weird and wonderful keyboard concepts year after year. Its latest creation seems straight out of an alternate dimension where touch-tone technology never replaced rotary phones, and that functionality eventually found its way into other devices.\nInstead of keys, the Gboard Dial Version keyboard features various alphanumeric characters and functions laid out beneath a series of nine dials of various sizes, including one just for the return key. To type a specific character, you stick your finger in its corresponding hole and then rotate the dial until you reach its limit. When you release it, the dial rotates back.\nRotary phones used a technique called pulse dialing, where a spring-loaded dial generated a series of electrical pulses as it rotated back to its home position. The phone company would decode those pulses to determine what number was being dialed. Google Japan’s Gboard Dial Version trades pulse dialing for modern sensors that translate each dial’s rotational movements into USB signals.\nAnd similar to the phones of yesteryear that ended a call when you physically hung them up, the dial keyboard’s designers created an accompanying stand that turns off your webcam during a video call when you place your mouse atop it.\nAs with Google Japan’s past creations that have included a cylindrical keyboard in the shape of a Japanese Yunomi tea cup and a 65-inch-long monstrosity with all the keys of a QWERTY keyboard arranged in one long strip, the Dial Version isn’t available for sale. But if you really want to obliterate your typing speed, you’re welcome to build your own. Google has open-sourced its design, and you can find all the files needed to DIY one, including 3D printer models, PCB designs, and a parts list, available for download on GitHub.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "67296ef62fcba8318f5a9d6f5b65523bdecf9021",
+      "title": "Footage shows synagogue attacker minutes before killing",
+      "url": "https://www.bbc.com/news/articles/c62ne93n090o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-06T20:15:47.000Z",
+      "summary_90w": "",
+      "raw": "Footage given to the BBC shows a man matching the description of the attacker given by witnesses.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9a70424b4b65d15334b0c80a127a8aaeec92bf83",
+      "title": "Australia politics live: PM offers condolences to Jewish community on massacre anniversary and again backs Trump peace plan",
+      "url": "https://www.theguardian.com/australia-news/live/2025/oct/07/australia-politics-live-october-7-anniversary-hamas-israel-anthony-albanese-sussan-ley-question-time-andrew-hastie-labor-coalition-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-06T20:14:06.000Z",
+      "summary_90w": "",
+      "raw": "The prime minister says Australia ‘will always stand against antisemitism’. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nThe Victorian premier, Jacinta Allan, has taken to social media this morning to announce the Metro Tunnel will open in early December.\nShe’s holding a press conference later this morning to detail opening plans.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "9a4ffc67318b54421aa08893b9090aae1611aecc",
       "title": "New Supreme Court term will reshape Trump's powers",
@@ -16,6 +68,19 @@
       ]
     },
     {
+      "id": "4356099716487369fc2a0493ad57a5d3cb8c9188",
+      "title": "Israel-Hamas ceasefire talks under way; Putin and Netanyahu discussed Trump Gaza plan, says Kremlin – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2025/oct/06/gaza-ceasefire-peace-talks-hamas-israel-trump-egypt-middle-east-crisis-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-06T20:07:30.000Z",
+      "summary_90w": "",
+      "raw": "Delegations from Israel and Hamas began indirect negotiations; Russian leader reiterated Moscow’s support for independent Palestinian state, Moscow says\nIran signalled its support for Trump’s Gaza plan, with the country’s foreign ministry saying it supports any initiative that brings an end to the genocide of Palestinian people.\nIran’s foreign ministry wrote in a post on X:\nTaking into account the dangerous dimensions and aspects of this proposal, and while reiterating its warning about the repeated breaches and obstructionism by the Zionist regime in fulfilling its promises, especially in light of its expansionist and racist plans, the Islamic Republic of Iran considers any decision in this regard to be within the authority of the Palestinian people and resistance.\nIt welcomes any decision by them that guarantees halting the genocide of Palestinians, the withdrawal of the occupying Zionist army from Gaza, respect for the Palestinian people’s right to self-determination, the entry of humanitarian aid, and the reconstruction of Gaza.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "0d74451d7d08af2c103b59229c07cc9d8bb92dec",
       "title": "Psychiatrists call for RFK Jr. to be replaced as health secretary",
       "url": "https://www.npr.org/sections/shots-health-news/2025/10/06/nx-s1-5559217/rfk-jr-mental-health-substance-abuse-ssri",
@@ -24,19 +89,6 @@
       "published": "2025-10-06T20:04:06.000Z",
       "summary_90w": "",
       "raw": "Two groups are calling for new leadership at HHS after Health Secretary Robert F. Kennedy Jr.'s actions on substance abuse treatment and mental health medications, among other issues.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9a70424b4b65d15334b0c80a127a8aaeec92bf83",
-      "title": "Australia politics live: PM offers condolences to Jewish community on massacre anniversary and again backs Trump peace plan",
-      "url": "https://www.theguardian.com/australia-news/live/2025/oct/07/australia-politics-live-october-7-anniversary-hamas-israel-anthony-albanese-sussan-ley-question-time-andrew-hastie-labor-coalition-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-06T19:59:14.000Z",
-      "summary_90w": "",
-      "raw": "The prime minister says Australia ‘will always stand against antisemitism’. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nIndonesia ‘will not be offended’ by Australia-PNG treaty, Marape says\nFerguson asked James Marape specifically if it was possible that PNG could make a decision not to be involved in a conflict Australia was engaged in with China.\nThere’s a high possibility, when it even happens, PNG has a sovereignty in itself. This treaty was constructed within the fullest ambit of respecting sovereignties, in making their own calls.\nLikewise Australia, if PNG was engaged in a conflict, we would not expect Australia to drop everything else and run to us. The treaty has provisions where there’ll be consultations that will be engaged. There’s a finality of making calls that rests with respect to defence force commanders.\nThe construct of this treaty is a construct in peacetime for peace. This is not a construct to create war. It’s rather a construct to establish peace …\nI don’t necessarily see China as [an] enemy. China is a good relationship nation, even with Australia. We, PNG, we trade with China. We do business with China, and so there’s no need for an alarmist approach in this conversation.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -63,19 +115,6 @@
       "published": "2025-10-06T19:39:52.000Z",
       "summary_90w": "",
       "raw": "The decision late on Sunday comes a day after the same judge barred the deployment of troops from the state of Oregon.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4356099716487369fc2a0493ad57a5d3cb8c9188",
-      "title": "Israel-Hamas ceasefire talks under way; Putin and Netanyahu discussed Trump Gaza plan, says Kremlin – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/06/gaza-ceasefire-peace-talks-hamas-israel-trump-egypt-middle-east-crisis-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-06T19:34:24.000Z",
-      "summary_90w": "",
-      "raw": "Delegations from Israel and Hamas began indirect negotiations; Russian leader reiterated Moscow’s support for independent Palestinian state, Moscow says\nIran signalled its support for Trump’s Gaza plan, with the country’s foreign ministry saying it supports any initiative that brings an end to the genocide of Palestinian people.\nIran’s foreign ministry wrote in a post on X:\nTaking into account the dangerous dimensions and aspects of this proposal, and while reiterating its warning about the repeated breaches and obstructionism by the Zionist regime in fulfilling its promises, especially in light of its expansionist and racist plans, the Islamic Republic of Iran considers any decision in this regard to be within the authority of the Palestinian people and resistance.\nIt welcomes any decision by them that guarantees halting the genocide of Palestinians, the withdrawal of the occupying Zionist army from Gaza, respect for the Palestinian people’s right to self-determination, the entry of humanitarian aid, and the reconstruction of Gaza.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -309,7 +348,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-06T18:00:31.000Z",
       "summary_90w": "",
-      "raw": "“AgentKit is a complete set of building blocks available in the open AI platform designed to help you take agents from prototype to production, it is everything you need to build, deploy and optimize agent workflows with way less friction,” Sam Altman said Monday at OpenAI's Dev Day.",
+      "raw": "“AgentKit is a complete set of building blocks available in the open AI platform designed to help you take agents from prototype to production, it is everything you need to build, deploy, and optimize agent workflows with way less friction,” Sam Altman said Monday at OpenAI's Dev Day.",
       "topics": [
         "Technology"
       ]
@@ -458,19 +497,6 @@
       ]
     },
     {
-      "id": "67296ef62fcba8318f5a9d6f5b65523bdecf9021",
-      "title": "Footage shows synagogue attacker minutes before killing",
-      "url": "https://www.bbc.com/news/articles/c62ne93n090o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-06T17:16:37.000Z",
-      "summary_90w": "",
-      "raw": "Footage given to the BBC shows a man matching the description of the attacker given by witnesses.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a1e4b0a33817b9592fe49a27162eeb2d6cd4ed61",
       "title": "Meta Llama: Everything you need to know about the open generative AI model",
       "url": "https://techcrunch.com/2025/10/06/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/",
@@ -562,14 +588,27 @@
       ]
     },
     {
+      "id": "78e2ffff65a70bfb1fabe500aa1dd3da508f0eb1",
+      "title": "Shoe thrown at India's top judge in religious row",
+      "url": "https://www.bbc.com/news/articles/c80g4d5epm8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-06T16:49:38.000Z",
+      "summary_90w": "",
+      "raw": "A lawyer attacks India's Chief Justice BR Gavai, apparently over remarks he made about Hinduism.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "13811551c56d1d55724d4798e145b9068eec46ce",
-      "title": "Illinois and Chicago sue the Trump administration over National Guard deployment",
+      "title": "Illinois sues the Trump administration to block National Guard deployment, joining Oregon",
       "url": "https://www.npr.org/2025/10/06/nx-s1-5563882/illinois-and-chicago-sue-the-trump-administration-over-national-guard-deployment",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-10-06T16:49:28.000Z",
       "summary_90w": "",
-      "raw": "The parties are asking a judge to block the Trump administration from federalizing the Illinois National Guard and from sending to Illinois any guard members from other states, including Texas.",
+      "raw": "Illinois asked a judge to block the Trump administration from federalizing the Illinois National Guard and from sending Guard members from other states. A judge in Oregon blocked deployment there.",
       "topics": [
         "World"
       ]
@@ -757,19 +796,6 @@
       ]
     },
     {
-      "id": "64914002c5251cceab67bfe3e738a02fea58c41b",
-      "title": "Verizon appoints a new CEO for the &#8216;next phase&#8217; after its 5G rollout",
-      "url": "https://www.theverge.com/news/792875/verizon-dan-schulman-ceo-hans-vestberg-replacement",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-06T15:35:40.000Z",
-      "summary_90w": "",
-      "raw": "PayPal appointed Dan Schulman as CEO in 2014, and he stepped down in 2023. | Photo by Nathan Laine/Bloomberg via Getty Images\t\n\nVerizon has picked former PayPal head Dan Schulman to serve as its new CEO as the company enters its “next phase” of growth, Verizon board chair Mark Bertolini says in the Monday announcement. Starting today, Schulman will replace outgoing CEO Hans Vestberg, who will now serve as a special advisor through October 4th, 2026.\nVestberg became the CEO of Verizon in 2018, where he oversaw the carrier’s 5G launch and its expansion. Last year, Vestberg admitted that people are now holding onto their phones for “way over 36 months,” marking an end to the “exciting times” of yearly phone upgrades. He also led the company’s $20 billion acquisition of fiber internet provider Frontier, which the Federal Communications Commission approved after Verizon committed to “ending” practices related to diversity, equity, and inclusion (DEI).\nAfter working in executive positions across AT&T, Priceline, Virgin Mobile, and American Express, Schulman was appointed CEO of PayPal in 2014 following the company’s breakup with eBay. Schulman stepped down in 2023 and was succeeded by Intuit’s former chief product officer, Alex Chriss. Verizon’s CEO swap comes just weeks after T-Mobile CEO Mike Sievert stepped down, with the carrier’s chief operating officer, Srini Gopalan, taking his place.\n“We have a clear opportunity to redefine our trajectory, by growing our market share across all segments of the market, while delivering meaningful growth in our key financial metrics,” Schulman says in the press release. “I look forward to working with our employees, our regulators, our partners, and the Board to do the hard work it takes to regain our leadership in our sector across mobility and broadband.”",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "b1554be17faff5498c1e9b160bc559a2a0820e17",
       "title": "No 10 denies government involved in collapse of China spying case",
       "url": "https://www.bbc.com/news/articles/cyv6zegez29o?at_medium=RSS&at_campaign=rss",
@@ -843,19 +869,6 @@
       "published": "2025-10-06T15:00:00.000Z",
       "summary_90w": "",
       "raw": "Sugar Free Capital raises $32M inaugural fund to invest in MIT early-stage founders.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "c8b7c50b4666c625a385e80d206baa45178f57d2",
-      "title": "SwitchBot’s new safety tracker can discreetly trigger a fake phone call",
-      "url": "https://www.theverge.com/news/791676/switchbot-safety-alarm-apple-find-my-siren-light",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-06T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The fake phone calls could provide a way out of suspicious situations. | Image: SwitchBot\t\n\nSwitchBot is expanding its already diverse line of smart home offerings with a new tracking fob that doubles as both a personal safety device and a quick way to gain entry to your home.\nSwitchBot’s Safety Alarm looks like a keychain flashlight and even has LEDs when you need some extra illumination and don’t want to reach for your smartphone. The device is available starting today for $39.99 in black, white, and aqua color options, but you can save 99 cents when buying a two-pack. Most of the time, it works as an NFC key for SwitchBot’s smart locks and can send “home arrival” notifications once you’re in Bluetooth range, letting family members know you’ve safely returned.\nIn an emergency, however, you can also remove the Safety Alarm’s short keychain with a yank, which triggers a few things. That LED becomes a flashing strobe light and is accompanied by a very loud 130dB audible alarm. When a connected phone is nearby, an alert is also automatically sent to up to five friends and family members that includes the last known location of the tracker when the alarm was activated, but not live-tracking.\nIf you’re not feeling safe but don’t feel the situation is urgent enough to activate the alarm, discreetly double-pressing a button on the Safety Alarm will trigger a “virtual phone call” that you can pretend to answer, which could act as a deterrent. It will ring even if your smartphone is in silent mode, the company says.\nA variety of personal safety smartphone apps offer a fake phone call feature, and the SwitchBot Smart Alarm isn’t as compact or discreet as alternatives like Pebblebee’s Clip tracker, which recently added new personal safety features. But Switchbot’s will potentially provide more peace of mind with an alarm that’s over 30dB louder than the Pebblebee’s.\nPebblebee’s Clip is more expensive at $50, but it has the extra flexibility of being trackable with either Apple’s Find My network or Google’s Android Find Hub, while SwitchBot’s new Safety Alarm is only trackable through Apple’s network. Pebblebee also offers an optional subscription service ($2.99 / month or $24.99 / year) called Alert Alive, which adds extra safety features like sharing your real-time location with a group of trusted people when triggered.\nThe Safety Alarm is IP65 water- and dust-resistant, so a heavy downpour won’t be an issue but it may not survive a complete dunking. It will run for about a year on a pair of user-replaceable CR2032 batteries or up to two years if not using the Apple Find My functionality.",
       "topics": [
         "Technology"
       ]
@@ -939,6 +952,19 @@
       ]
     },
     {
+      "id": "8e8e03fc362d4c07c04c7d2b3ab90846f76f8689",
+      "title": "At $4.5bn each year, extreme weather is costing Australia three times as much compared with 1990s, insurers say",
+      "url": "https://www.theguardian.com/australia-news/2025/oct/07/at-45bn-each-year-extreme-weather-is-costing-australia-three-times-as-much-compared-with-1990s-insurers-say",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-06T14:00:15.000Z",
+      "summary_90w": "",
+      "raw": "‘The trajectory is only up, in terms of insured costs,’ CEO of insurance peak body warns\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe costs of extreme weather events such as floods, bushfires and storms have nearly tripled in Australia since the 1990s, insurers have warned, with poorer communities disproportionately burdened.\nThe climate crisis, ageing infrastructure and growing populations in increasingly affected regions have left the country more vulnerable, according to a report released on Tuesday by the Insurance Council of Australia.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "62f6fe9860916c721c57115edca3b17edec7cfda",
       "title": "Australian triumphs at world porridge championship with rum invention: an oaty jaffle",
       "url": "https://www.theguardian.com/food/2025/oct/06/australian-triumphs-world-porridge-championship-with-oaty-jaffle",
@@ -947,19 +973,6 @@
       "published": "2025-10-06T14:00:15.000Z",
       "summary_90w": "",
       "raw": "Melbourne food stylist Caroline Velik wins speciality dish category and places second in Golden Spurtle food fight behind Norwegian first-timer\nOnly an Australian would bring a toastie to a porridge fight – and walk away with a trophy.\nAs other competitors stirred oats and debated salt ratios, the Melbourne food stylist Caroline Velik took out one of the top awards at this year’s World Porridge Making Championships in Carrbridge, Scotland.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1668f9e9e68bb162f8ae1c1be01f8864658ef671",
-      "title": "Hastie says his stepping down gives Ley ‘clear air’ – but are storm clouds gathering for the Coalition?",
-      "url": "https://www.theguardian.com/australia-news/2025/oct/07/andrew-hastie-sussan-ley-coalition-turmoil-labor-avoids-spotlight-parliament-returns",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-06T14:00:15.000Z",
-      "summary_90w": "",
-      "raw": "The spotlight again falls on opposition turmoil as MPs return to Canberra, while Labor avoids scrutiny\n\nGet our breaking news email, free app or daily news podcast\n\nSenate estimates week in federal parliament is a rare chance for an opposition to subject a government to sustained scrutiny.\nIndeed there is much for the opposition to scrutinise over the upcoming three days of hearings, including the government’s oversight of the triple-zero system, handling of aged care reforms and the circumstances surrounding the return of six Australians from a Syrian detention camp.\n Continue reading...",
       "topics": [
         "World"
       ]
