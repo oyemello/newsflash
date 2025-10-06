@@ -1,7 +1,20 @@
 {
-  "version": "1759742281151",
-  "generatedAt": "2025-10-06T09:18:01.151Z",
+  "version": "1759743456985",
+  "generatedAt": "2025-10-06T09:37:36.985Z",
   "items": [
+    {
+      "id": "c6ff0a5f6571187fca932e6f383110d82537f074",
+      "title": "Sam Altman and Jony Ive&#8217;s secret device won&#8217;t be &#8216;your weird AI girlfriend&#8217;",
+      "url": "https://www.theverge.com/news/792635/openai-jony-ive-ai-device-voice-personality-issues",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-06T09:28:04.000Z",
+      "summary_90w": "",
+      "raw": "The goal is to develop a similar AI-assistant experience to Siri, “but better.”\t\n\nOpenAI and designer Jony Ive are trying to solve a number of technical challenges before releasing their mysterious AI gadget, according to a Financial Times report. Two of the challenges include figuring out the palm-sized device’s “personality” and how often it should talk. “The concept is that you should have a friend who’s a computer who isn’t your weird AI girlfriend,” according to one source briefed on the plans. \nThe report describes the device as lacking a screen and being “roughly the size of a smartphone” that can be either carried around by the user or placed on surfaces like a table or desk, mirroring similar details that leaked in May. It’s designed to communicate with users through a microphone, speaker, and camera — or multiple cameras, according to one FT source. This is the first of a family of devices being developed by Ive and OpenAI CEO Sam Altman, targeted for release sometime in late 2026 or early 2027.\nOpenAI is looking for ways to make the gadget “accessible but not intrusive,” according to the FT’s sources, with the aim of providing a similar experience to Apple’s digital voice assistant Siri, “but better.” The company is struggling to decide on the voice and mannerisms for the AI-powered device, and ensure that it knows when to engage with users and finish a conversation. One source in the report said OpenAI is taking an “always on” approach that gathers data throughout the day, rather than being activated by specific verbal prompts like Amazon’s Alexa-powered Echo devices.\nPrivacy issues around the always-listening device and budgeting constraints for computing infrastructure must also be overcome, according to the report. “Amazon has the compute for an Alexa, so does Google [for its Home device], but OpenAI is struggling to get enough compute for ChatGPT, let alone an AI device,” a source close to Ive told the FT. “They need to fix that first.”",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "5e83136c7220b23f6149b079e2f5dd58771cd0fa",
       "title": "French Prime Minister Sébastien Lecornu resigns after less than a month",
@@ -11,6 +24,19 @@
       "published": "2025-10-06T09:11:54.000Z",
       "summary_90w": "",
       "raw": "The shock move comes 26 days after his appointment following the collapse of the previous government of François Bayrou.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9bc47628c3afa52419e2c00c7749c9d1ef413e93",
+      "title": "France gripped by political turmoil as PM resigns – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/oct/06/france-pm-resigns-lecornu-macron-europe-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-06T09:07:21.000Z",
+      "summary_90w": "",
+      "raw": "Departure of Sébastien Lecornu after less than a month follows fierce criticism of Macron’s new cabinet\nHere are the immediate reactions we’ve seen on social media from the opposition:\nThe leader of the National Rally, Jordan Bardella: “There can be no return to stability without a return to the polls and the dissolution of the National Assembly.”\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -58,7 +84,7 @@
       "id": "a79a8c72ab6b97e4945ee25e961258f15d6af13b",
       "title": "Australian prosecutors appeal mushroom murderer's 'inadequate' sentence",
       "url": "https://www.bbc.com/news/articles/c07vlzn587lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-10-06T09:00:34.000Z",
       "summary_90w": "",
@@ -146,19 +172,6 @@
       ]
     },
     {
-      "id": "9bc47628c3afa52419e2c00c7749c9d1ef413e93",
-      "title": "France gripped by political turmoil as PM resigns – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/06/france-pm-resigns-lecornu-macron-europe-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-06T08:58:02.000Z",
-      "summary_90w": "",
-      "raw": "Departure of Sébastien Lecornu after less than a month follows fierce criticism of Macron’s new cabinet\nGood morning and welcome to Europe’s live blog. All eyes this morning are on France, which has been plunged into political turmoil as the prime minister, Sébastien Lecornu, steps down after less than a month in the role.\nEmmanuel Macron accepted his resignation this morning after the cabinet the president announced late on Sunday was met with fierce criticism across the political spectrum.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ca1a4fb2cb7dac6c4e4353ac2e66bceebeb0ea53",
       "title": "France’s PM resigns after less than a month amid widespread criticism of new cabinet",
       "url": "https://www.theguardian.com/world/2025/oct/06/france-pm-sebastien-lecornu-resigns",
@@ -192,7 +205,7 @@
       "source_name": "BBC News",
       "published": "2025-10-06T08:46:28.000Z",
       "summary_90w": "",
-      "raw": "HMNZS Manawanui started leaking oil into the ocean after it sunk in Samoan waters a year ago.",
+      "raw": "HMNZS Manawanui started leaking oil into the ocean after it sank in Samoan waters a year ago.",
       "topics": [
         "World"
       ]
@@ -271,19 +284,6 @@
       "published": "2025-10-06T07:46:25.000Z",
       "summary_90w": "",
       "raw": "Under new proposals, sellers and estate agents will have to provide key information about a property up front.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "919d7d16c0a8b76c9bf39e37200743050ded92c4",
-      "title": "'I'm at breaking point' - Kasatkina ends season early",
-      "url": "https://www.bbc.com/sport/tennis/articles/cx2rzp8er8eo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-06T07:42:03.000Z",
-      "summary_90w": "",
-      "raw": "World number 19 Daria Kasatkina says the schedule is \"too much, mentally and emotionally\".",
       "topics": [
         "World"
       ]
@@ -433,7 +433,7 @@
     },
     {
       "id": "59ae96546c797c525ef8753fd8bb24ddcd32a6d2",
-      "title": "'It's difficult to receive' - Moody on MND diagnosis",
+      "title": "Watch: Lewis Moody on receiving diagnosis and the 'heartbreaking' conversation with his sons",
       "url": "https://www.bbc.com/sport/rugby-union/videos/c3w50126393o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -817,19 +817,6 @@
       "published": "2025-10-05T19:08:00.000Z",
       "summary_90w": "",
       "raw": "Two couples squared off against each other on Sunday night, leading to one pair departing the show.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7b26a98403e153d524eb68f8e8bbd763e6b19edb",
-      "title": "Norris-Piastri incident 'threatens to derail McLaren harmony'",
-      "url": "https://www.bbc.com/sport/formula1/articles/czewkzkjjxzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-05T18:51:54.000Z",
-      "summary_90w": "",
-      "raw": "Lando Norris says \"anyone on the grid\" would have made the move that led to renewed tension between him and Oscar Piastri at the Singapore Grand Prix.",
       "topics": [
         "World"
       ]
@@ -1324,19 +1311,6 @@
       "published": "2025-10-04T16:26:50.000Z",
       "summary_90w": "",
       "raw": "OpenAI may be reversing course on how it approaches copyright and intellectual property in its new video app Sora.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "77410f0e9fbef172e615666ebf22c1291061ba3f",
-      "title": "Daniel Ek stepping down changes nothing for Spotify",
-      "url": "https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-04T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Spotify has found itself the target of artists' ire for many reasons over the years: poor audio quality, terrible payouts, giving Joe Rogan millions of dollars… the list goes on. But recently it's been CEO and founder Daniel Ek's extracurricular activities that have been cause for consternation. Over the past few months his funding of German defense company Helsing through his investment firm Prima Materia has been the final straw for many acts, including Hotline TNT, Massive Attack, Godspeed You! Black Emperor, Deerhoof, and more. \nThen, on Tuesday, Ek announced that he would be stepping down as CEO. Neither Ek nor Spotify gave any indicat …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
