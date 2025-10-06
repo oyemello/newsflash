@@ -1,7 +1,20 @@
 {
-  "version": "1759793402272",
-  "generatedAt": "2025-10-06T23:30:02.272Z",
+  "version": "1759793841991",
+  "generatedAt": "2025-10-06T23:37:21.991Z",
   "items": [
+    {
+      "id": "2635e7581334d46d7bd3bbe49edc3fe1269e26df",
+      "title": "The Supreme Court didn’t save Google from Epic, and now the clock is ticking",
+      "url": "https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-06T23:28:10.000Z",
+      "summary_90w": "",
+      "raw": "In August, Google had just two weeks to begin cracking open Android, and to stop forcing app developers to use its own payment systems, after Epic Games won its Google lawsuit for the second time. \nNow, Google has just over two weeks once again — because the US Supreme Court has decided not to save Google ahead of its Supreme Court appeal. Today, the Court denied the company’s request for a partial stay, meaning the permanent injunction is still in effect, meaning Google must do the following things this month or be in violation:\nStop Google from forcing app developers to use Google Play Billing\nLet Android developers tell users about other ways to pay from within the Play Store\nLet Android developers link to ways to download their apps outside of the Play Store\nLet developers set their own prices\nStop sharing money or perks with phonemakers, carriers, and app developers in exchange for Google Play exclusivity or preinstallation\nWork with Epic to resolve any disputes as Google builds a system to let rival app stores into Google Play\nEpic Games says the deadline for Google to comply is now October 22nd, 2025. “Starting October 22, developers will be legally entitled to steer US Google Play users to out-of-app payments without fees, scare screens, and friction – same as Apple App Store users in the US!” writes Epic CEO Tim Sweeney.\nGoogle wouldn’t explicitly tell The Verge if the company now plans to remove the requirement for Google Play Billing, allow other payment methods, and allow developers to link outside the Play Store to app downloads, among other things, at the same time it’s still trying to appeal the case to the Supreme Court. \nBut spokesperson Dan Jackson tells The Verge that the company will comply with its legal obligations, and passed along the following statement:\n“Android provides more choice for users and developers than any mobile OS, and the changes ordered by the US District Court will jeopardize users’ ability to safely download apps. While we’re disappointed the order isn’t stayed, we will continue our appeal.” \nEpic did not immediately answer our questions about whether it’s now working with Google on the court-mandated Joint Technical Committee to figure out how to bring Google Play apps to rival app stores without jeopardizing that safety.\nGoogle has said it will fully appeal to the Supreme Court for certiorari by October 27th, 2025 — but that would be after the deadline. The district court judge who originally issued the injunction, Judge James Donato, previously asked Google and Epic to explain how they’ll comply with it in his courtroom on October 30th.\nIt’s still possible that the Supreme Court might take up the case after Google’s deadline has passed.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "9a70424b4b65d15334b0c80a127a8aaeec92bf83",
       "title": "Australia politics live: Bragg agrees Coalition ‘running out of people to offend’; 7 October anniversary ‘not a day for demonstrations’, Marles says",
@@ -624,19 +637,6 @@
       "raw": "The talks are expected to be among the most consequential since the start of the war two years ago.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "adce286fb4c16670e3e3d53e2d18ad8d044f7930",
-      "title": "Lexar’s new SSD sticks to your iPhone and can survive nearly a 10-foot drop",
-      "url": "https://www.theverge.com/news/793032/lexar-es5-magnetic-magsafe-portable-ssd-apple-prores-4k",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-06T17:21:49.000Z",
-      "summary_90w": "",
-      "raw": "The ES5 SSD is MagSafe compatible. | Image: Lexar\t\n\nFirst announced in July, Lexar’s ES5 Magnetic Portable SSD is now available in a 1TB capacity for $119.99 or 2TB for $199.99. A 4TB version is also planned, but availability isn’t expected until Q1 of 2026.\nThe ES5 is compatible with any USB-equipped device and delivers read and write speeds of up to 2000MB/s. It’s quite a bit larger than Lexar’s Professional Go Portable SSD that debuted over a year ago, but also twice as fast. It’s also compatible with mobile devices like tablets and smartphones, but Lexar is targeting Apple users specifically with support for MagSafe, so you can stick the ES5 to the back of any iPhone model that supports MagSafe accessories. Lexar also includes a metal ring that can be stuck to other devices or surfaces where you might want to mount the drive.\nWhen connected to iPhone 15 Pro and Pro Max models, the ES5 unlocks 4K Apple ProRes recording at up to 60fps, or up to 120fps with the iPhone 16 and 17. When paired with the Galaxy S25, the drive is fast enough to capture Samsung Pro Video clips at up to 8K/30fps. The SSD also has an IP65 dust and water resistant rating so splashes are okay, but it won’t survive a complete dunking. Should it fall onto dryer and harder surfaces, Lexar says the ES5 is drop resistant from heights up to 3 meters, or just shy of 10 feet.",
-      "topics": [
-        "Technology"
       ]
     },
     {
