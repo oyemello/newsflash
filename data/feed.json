@@ -1,7 +1,33 @@
 {
-  "version": "1759877015452",
-  "generatedAt": "2025-10-07T22:43:35.452Z",
+  "version": "1759877485267",
+  "generatedAt": "2025-10-07T22:51:25.267Z",
   "items": [
+    {
+      "id": "9b34c83b8871df53ee73433e1f5f4c2912cd88df",
+      "title": "You can’t libel the dead. But that doesn’t mean you should deepfake them.",
+      "url": "https://techcrunch.com/2025/10/07/you-cant-libel-the-dead-but-that-doesnt-mean-you-should-deepfake-them/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-07T22:49:46.000Z",
+      "summary_90w": "",
+      "raw": "\"Please, just stop sending me AI videos of Dad,\" the late Robin Williams' daughter Zelda wrote on Instagram.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2cff0f38e0a234cbf4fd3f6dcb70c45b40f4f807",
+      "title": "Google&#8217;s latest AI model uses a web browser like you do",
+      "url": "https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-07T22:43:33.000Z",
+      "summary_90w": "",
+      "raw": "Google is previewing a new Gemini AI model designed to navigate and interact with the web via a browser, letting AI agents do things inside interfaces designed for use by people and not robots. The model, called Gemini 2.5 Computer Use, uses “visual understanding and reasoning capabilities” to analyze a user’s request and carry out a task, such as filling out and submitting a form.\nIt can be used for UI testing or navigating interfaces made for people who don’t have an API or other direct connection available. Other versions of this model have been used for agentic features in AI Mode and Project Mariner, a research prototype that uses AI agents to carry out tasks on its own in a browser, like adding items to your cart based on a list of ingredients.\nGoogle’s announcement comes just one day after OpenAI revealed new apps for ChatGPT as part of its annual Dev Day, and continues to focus its attention on its ChatGPT Agent feature that can complete complex tasks on your behalf. Meanwhile, Anthropic had already released a version of its Claude AI model with “computer use” last year. \nGoogle posted some demo videos showing its computer use tool in action, and notes that they are sped up 3x. \n\nGoogle says its computer use model “outperforms leading alternatives on multiple web and mobile benchmarks.” Unlike ChatGPT Agent and Anthropic’s computer use tool, Google’s new AI model only has access to a browser — not an entire computer environment. Google notes that it shows “it is not yet optimized for desktop OS-level control” and currently supports 13 actions, including opening a web browser, typing text, as well as dragging and dropping elements.\nGemini 2.5 Computer Use is available to developers through Google AI Studio and Vertex AI, but there’s also a demo on Browserbase, where you watch as it completes tasks, like “Play a game of 2048” or “Browse Hacker News for trending debates.”",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "d7550e516ec8a49010131c95c4a1aca77997b31d",
       "title": "Australian politics live: Tony Abbott suggests UK put migrants in English channel ‘mothership’; free summer weekend transport in Victoria",
@@ -310,19 +336,6 @@
       "published": "2025-10-07T19:29:24.000Z",
       "summary_90w": "",
       "raw": "The Wingman HD’s touchscreen includes details about the current golf course and hold you’re playing. | Image: Bushnell\t\n\nBushnell has announced a new version of its Wingman Bluetooth speaker that features a 3.5-inch color touchscreen with detailed metrics on the golf course you’re playing. It’s an upgrade to the company’s Wingman View that launched in early 2023 with a monochromatic LCD display. The Wingman HD carries forward the same $199.99 pricing as its predecessor, and is expected to launch in mid-October.\nThe Wingman HD uses its built-in GPS to determine what course you’re playing based on your location and provides details about distances and hazards displayed on the screen or announced through the speaker. It can also be connected to Bushnell’s mobile app, which provides additional functionality such as flyovers of the entire hole and scorekeeping.\nThe Wingman HD’s semi-cylindrical design, which is flattened on one side to accommodate the screen, incorporates a pair of 15-watt drivers that work alongside passive radiators to boost lower frequencies. There’s an integrated magnetic mount so you can stick it to your golf cart, and a new feature called “Dynamic Audio Adjustment” that increases the volume to compensate for the sound of your golf cart while driving to the next hole. \nIndoor and outdoor EQ modes optimize the sound according to your location. You can also trigger custom sound effects, such as the polite applause of a crowd, or record your own message like “good shot!” And if you’re playing with a big crowd, up to 100 Wingman HD speakers can be connected to play simultaneously, creating some genuine Caddy Shack vibes on the greens. (Cue Kenny Loggins’ I’m Alright.)",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "36d87fc5b6222892d7083f9b9d2a95e1423fc6dd",
-      "title": "Tesla’s ‘affordable’ EVs are just stripped down versions of the Model 3 and Model Y",
-      "url": "https://www.theverge.com/transportation/793302/tesla-model-y-moidel-3-standard-affordable-price-specs-photo",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-07T19:24:35.000Z",
-      "summary_90w": "",
-      "raw": "For as long as it's been a company, Tesla has been promising an entry-level electric vehicle that would compel more people to make the switch from gas guzzlers to zero-emission. Elon Musk himself predicted that Tesla would eventually sell a $25,000 EV and revolutionize the auto industry. The Model 3, the Model Y, and even the Cybertruck were all supposed to have more attainable variants, but they never materialized. \nNow, the company says it is finally ready to release its everyman EVs. Yep, there are two of them, and they are just stripped down versions of the automaker's best-selling models: the long-rumored Model Y Standard, which starts …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -1014,19 +1027,6 @@
       "raw": "Commemorations held in kibbutzim whose members were killed or kidnapped as Tel Aviv rally to call for hostages’ release\nIsraelis gathered across the country on Tuesday to mark the second anniversary of the 7 October attack, in which Hamas-led militants killed about 1,200 people and took 251 hostages during an assault on southern Israel.\nUnofficial commemorations were held in the small kibbutzim of southern Israel whose members were killed or kidnapped, and a large rally was due to be held in Tel Aviv to call for the release of the remaining hostages from Hamas captivity in Gaza.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "f6ab7167b494bf4235f15dd49ba1a34e8baaac5f",
-      "title": "xAI hires former Morgan Stanley banker Anthony Armstrong as CFO",
-      "url": "https://techcrunch.com/2025/10/07/xai-hires-former-morgan-stanley-banker-anthony-armstrong-as-cfo/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-07T12:12:51.000Z",
-      "summary_90w": "",
-      "raw": "Armstrong, who advised Musk during his Twitter takeover, will oversee the finances of both xAI and X, which were merged in April, the report said.",
-      "topics": [
-        "Technology"
       ]
     },
     {
