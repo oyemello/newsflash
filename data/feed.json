@@ -1,7 +1,59 @@
 {
-  "version": "1760113065887",
-  "generatedAt": "2025-10-10T16:17:45.887Z",
+  "version": "1760114460954",
+  "generatedAt": "2025-10-10T16:41:00.954Z",
   "items": [
+    {
+      "id": "b80b7a7ae6a671f3a10a0e15a3da89219b165326",
+      "title": "Boox’s new smartphone-sized e-readers come with a steep price hike",
+      "url": "https://www.theverge.com/news/798298/onyx-boox-p6-pro-color-e-ink-color-kaleido-3-5g-sim-card",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-10T16:34:50.000Z",
+      "summary_90w": "",
+      "raw": "Boox’s first pocket-sized color e-reader. | Image: Boox\t\n\nNow that the latest versions of Boox’s pocketable e-readers are finally available in China, we have a rough idea of what the new P6 Pro and P6 Pro Color will cost if and when the company releases them globally. Unfortunately, in keeping with the theme of price increases in 2025, they’re now quite a bit more expensive, as spotted by Liliputing.\nThe Boox P6 Pro, which has a slightly better 6.13 inch black-and-white Carta 1300 E Ink display than what the $300 Palma 2 used, is priced at 2,799 Chinese yuan, or around $393. The P6 Pro Color, which uses a 6.13-inch E Ink Kaleido 3 color screen, similar to what you’ll find in Kobo’s color e-readers, is even pricier at 3,299 CNY, or around $463. Boox is offering launch discounts for both devices that brings them down to 2,516 CNY/$353 and 2,991 CNY/$420, respectively, but because of US tariffs, they could end up being even more expensive if and when they launch here.\nBoth devices feature 128GB of storage that’s expandable to 2TB using a microSD card, a 16MP camera, 3,950mAh batteries, and run a version of Android 13 customized by Boox. The P6 Pro Color includes a bump in RAM from 6GB to 8GB, and supports the use of a stylus for note-taking. The most compelling upgrade is that these are Boox’s first compact e-readers to include a SIM card slot for accessing 5G mobile data. But unlike the Bigme Hibreak Pro that launched earlier this year, the P6 Pro models aren’t designed to be smartphone replacements with calling capabilities, making that price hike a tougher sell.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "fe70d340a340ec22cd91fe19489771f33953933d",
+      "title": "No shortcut to reducing NHS wait times in Scotland, says Swinney",
+      "url": "https://www.bbc.com/news/articles/cdr614l6ezlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-10T16:27:00.000Z",
+      "summary_90w": "",
+      "raw": "Ahead of the SNP conference, the first minister said some patients are waiting 'far too long' for treatment.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bc713654cc43250cfddcbcca3a3277c27c3723ff",
+      "title": "Samsung SmartThings finally adds support for joining existing Thread networks",
+      "url": "https://www.theverge.com/news/798263/samsung-smartthings-thread-border-routers-apple-google-amazon-matter",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-10T16:25:47.000Z",
+      "summary_90w": "",
+      "raw": "SmartThings Aeotec hubs can now join existing Thread networks.\t\n\nWe’re one step closer to a smart home that can manage Thread border routers from different manufacturers. Samsung SmartThings now supports “two-way Thread network unification,” its fancy way of saying Thread credentials sharing. This means that now, if you add a Samsung device that’s a Thread border router to your home, it can join an existing Thread network from other ecosystems, rather than setting up its own.\nThe capability, which is part of the Thread 1.4 spec released last year, will launch on select SmartThings hubs — including the Aeotec Smart Home Hub and the Aeotec Smart Home Hub 2. More hubs will follow, according to the company. \nA new “Manage Thread Network” menu in the SmartThings app Hub interface will allow you to connect a compatible hub to an existing Thread network using a QR code, one-time passcode, or your mobile OS credential locker. It will also allow you to add a third-party border router to an existing SmartThings hub’s Thread network via a QR code or OTP.\nA Thread border router is a gateway for Thread devices. Thread is a wireless smart home protocol designed for low-power devices such as door locks, lights, and sensors, which is used by the Matter smart home standard. Border routers are required to connect local Thread devices to other networks and to the internet. The tech can be built into devices like streaming boxes, smart speakers, and Wi-Fi routers, which means it’s easy to amass several in a smart home. \nHaving multiple Thread border routers can improve the range of Thread devices you’re using, as well as the reliability of the self-healing mesh network. If one border router goes down, another can pick up the traffic. \nWhen Matter launched in 2022, there was no standard way for a Thread border router from one manufacturer, such as an Apple TV, to connect with Thread border routers from another, like an Eero Wi-Fi router. This often resulted in each setting up separate Thread networks, preventing devices on them from talking to each other. \nInitially, border router manufacturers — including Apple, Amazon, Google, and Samsung — said they would work together to come up with solutions to this problem, but they mostly didn’t. While Apple and Google implemented Thread network credentials sharing using their mobile OSes, via iCloud Keychain and Google Play services, this is largely ecosystem-specific. A standardized method for sharing credentials was still needed. \nWhat is Matter\nMatter is a smart home interoperability standard designed to provide a common language for connected devices to communicate locally in your home without relying on a cloud connection. It is built to be secure and private, easy to set up, and widely compatible.\nDeveloped by Apple, Amazon, Google, Samsung, and others, Matter is an open-sourced, IP-based connectivity software layer for smart home devices. It works over Wi-Fi, Ethernet, and Thread.\nThread is a low-power, wireless mesh protocol. It operates on the same 2.4GHz spectrum as Zigbee and is designed for low-power devices, such as sensors, light bulbs, plugs, and shades. IP-based, Thread devices can communicate directly with each other, the internet, and with other networks using a Thread Border Router.\nToday, Matter supports most of the main device types in the home, including lighting, thermostats, locks, robot vacuums, refrigerators, dishwashers, dryers, ovens, smoke alarms, air quality monitors, EV chargers, and more.\nA smart home gadget with the Matter logo can be set up and used with any Matter-compatible ecosystem via a Matter controller and controlled by more than one ecosystem with a feature called multi-admin.\nAmazon Alexa, Google Home, Samsung SmartThings, Apple Home, Home Assistant, Ikea, and Aqara are among the well-known smart home companies supporting Matter, along with hundreds of device manufacturers.\nFinally, last year, Thread Group, the organization that oversees the protocol, took matters into its own hands and mandated “credentials sharing” in its 1.4 spec release. This is a standardized way for Thread devices and border routers to join an existing Thread network. \nNow, SmartThings has adopted Thread 1.4, and Apple has it in its latest iOS 26 update for Apple TV and HomePods (which are Thread border routers). Although Apple has not launched an interface for credentials sharing and it’s not clear if the feature is live yet. However, neither Amazon nor Google yet supports 1.4, though both say they are working on it. \nGoogle Home Thread border routers — including the Google TV streamer, Nest Hubs, and Nest Wifi — may connect to existing networks through Google’s mobile OS credentials sharing. But Amazon’s Echo devices that support Thread can only connect to Amazon or Eero-created networks. Its Echo devices are on Thread 1.3, but the company says it plans to enable Thread 1.4 next year and will support credentials sharing. Eero, the Wi-Fi router company owned by Amazon, has some 1.4 features enabled, but doesn’t currently support merging with existing Thread networks.\nSo three years in and we’re, like, three-quarters of the way there. Sort of. Great job, guys.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "92a74ebfac4aace6b0bdf11a97eb80108808a3da",
+      "title": "Hamas praises Trump but says Tony Blair not welcome in post-war Gaza role – live",
+      "url": "https://www.theguardian.com/world/live/2025/oct/10/gaza-ceasefire-plan-israel-donald-trump-hamas-palestine-benjamin-netanyahu-middle-east-latest-news",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-10T16:18:58.000Z",
+      "summary_90w": "",
+      "raw": "Senior Hamas official says ceasefire would not have happened without US president, but adds Palestinians have ‘bad memories’ of Blair\nIsraeli military has said that the ceasefire agreement has come into effect, as troops have now retreated to the deployment lines agreed upon.\nIn a statement released on Telegram, the IDF says troops “began positioning themselves along the updated deployment lines” from midday local time.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "00fd7ebde22266b8141632475384079f8e094fbd",
       "title": "Homeland Security reassigns ‘hundreds’ of CISA cyber staffers to support Trump’s deportation crackdown",
@@ -68,35 +120,9 @@
       ]
     },
     {
-      "id": "fe70d340a340ec22cd91fe19489771f33953933d",
-      "title": "No 'shortcut' to NHS wait time reduction, says Swinney",
-      "url": "https://www.bbc.com/news/articles/cdr614l6ezlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-10T16:00:05.000Z",
-      "summary_90w": "",
-      "raw": "Ahead of the SNP conference, the first minister said some patients are waiting 'far too long' for treatment.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "92a74ebfac4aace6b0bdf11a97eb80108808a3da",
-      "title": "Palestinians begin journey to Gaza’s north as Israel says ceasefire now in effect – live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/10/gaza-ceasefire-plan-israel-donald-trump-hamas-palestine-benjamin-netanyahu-middle-east-latest-news",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-10T15:56:27.000Z",
-      "summary_90w": "",
-      "raw": "Thousands of Palestinians travel back to the north of the territory after IDF forces retreated to deployment lines\nIsraeli military has said that the ceasefire agreement has come into effect, as troops have now retreated to the deployment lines agreed upon.\nIn a statement released on Telegram, the IDF says troops “began positioning themselves along the updated deployment lines” from midday local time.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0e7a9e1c45a1ede86a7a8d00d908d9c35fdf2138",
-      "title": "Instagram head Adam Mosseri pushes back on Mr. Beast’s AI fears, but admits society will have to adjust",
-      "url": "https://techcrunch.com/2025/10/10/instagram-head-adam-mosseri-pushes-back-on-mr-beasts-ai-fears-but-admits-society-will-have-to-adjust/",
+      "id": "35547fdb008b1f35cc5da93d083905e4890c31b5",
+      "title": "Instagram head Adam Mosseri pushes back on MrBeast’s AI fears, but admits society will have to adjust",
+      "url": "https://techcrunch.com/2025/10/10/instagram-head-adam-mosseri-pushes-back-on-mrbeasts-ai-fears-but-admits-society-will-have-to-adjust/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "published": "2025-10-10T15:55:17.000Z",
@@ -199,7 +225,7 @@
     },
     {
       "id": "8e139a166df97d06c5abd0a4c3428d123991f76f",
-      "title": "You can now connect your Spotify account to ChatGPT. Here’s how to do it",
+      "title": "You can now connect your Spotify account to ChatGPT: Here’s how to do it",
       "url": "https://techcrunch.com/2025/10/10/you-can-now-connect-your-spotify-account-to-chatgpt-heres-how-to-do-it/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -283,7 +309,7 @@
       "source_name": "The Verge",
       "published": "2025-10-10T14:55:36.000Z",
       "summary_90w": "",
-      "raw": "Ford and GM are both backing off their effort to continue offering the $7,500 electric vehicle tax credit to customers through the end of the year, Reuters is reporting. \nLast week, it was revealed that the automakers were working with their respective dealer networks on short-term programs that would allow customers to continue to receive the tax credit on leased EVs through the rest of the year. With the tax credit expiring on September 30th, Ford and GM were hoping to keep offering the discount to customers for a short while in order to buoy EV sales. \n\nFord and GM took a different approach\n\n\nWhile automakers including Hyundai and Stellantis have offered cash incentives to bridge the gap for buyers, Ford and GM took a different approach. They sought to buy EVs from their own dealers by having their finance divisions put down payments on all the electric models in their inventory before the tax credit expires. The dealers would then lease the vehicles to customers with a $7,500 discount baked into the price.\nBut now that plan is essentially moot. GM dropped out first, on Wednesday, followed by Ford, Reuters says. GM opted to kill the plan after Republican Senators Bernie Moreno (R-Ohio) and  John Barrasso (R-Wyoming) flagged the plan to the Treasury Department, calling it “a loophole” and “the total violation of Congressional intent by these nefarious actors.” Even so, Ford and GM did clear their plan with the Internal Revenue Service, according to Reuters. \nThe automakers were hoping to soften the blow on car shoppers and keep up the momentum that many dealers have been seeing in recent weeks. EV sales spiked in July and August as shoppers rushed to claim the credit before it expired on September 30th. Experts are predicting that now that the credit is gone, EV sales are likely to plummet.",
+      "raw": "Ford and GM are both backing off their effort to continue offering the $7,500 electric vehicle tax credit to customers through the end of the year, Reuters is reporting. \nLast week, it was revealed that the automakers were working with their respective dealer networks on short-term programs that would allow customers to continue to receive the tax credit on leased EVs through the rest of the year. With the tax credit expiring on September 30th, Ford and GM were hoping to keep offering the discount to customers for a short while in order to buoy EV sales. \n\nFord and GM took a different approach\n\n\nWhile automakers including Hyundai and Stellantis have offered cash incentives to bridge the gap for buyers, Ford and GM took a different approach. They sought to buy EVs from their own dealers by having their finance divisions put down payments on all the electric models in their inventory before the tax credit expires. The dealers would then lease the vehicles to customers with a $7,500 discount baked into the price.\nBut now that plan is essentially moot. GM dropped out first, on Wednesday, followed by Ford, Reuters says. GM opted to kill the plan after Republican Senators Bernie Moreno (R-Ohio) and  John Barrasso (R-Wyoming) flagged the plan to the Treasury Department, calling it “a loophole” and “the total violation of Congressional intent by these nefarious actors.” Even so, Ford and GM did clear their plan with the Internal Revenue Service, according to Reuters. \nThe automakers were hoping to soften the blow on car shoppers and keep up the momentum that many dealers have been seeing in recent weeks. EV sales spiked in July and August as shoppers rushed to claim the credit before it expired on September 30th. Experts are predicting that now that the credit is gone, EV sales are likely to plummet.\nUpdate October 10th: After publication, Ford spokesperson Marty Günsberg shared the following statement: “Ford will not claim the EV tax credit but will maintain the competitive lease payments we have in the market today to continue providing customers with more affordable electric vehicle options. For customers who want to purchase an electric vehicle, Ford Credit continues to offer 0 percent financing for 72 months and other incentives.”",
       "topics": [
         "Technology"
       ]
@@ -549,19 +575,6 @@
       ]
     },
     {
-      "id": "13c1416e7bb9e809527b5fc760b75039f156526e",
-      "title": "Lab-grown meat does not a burger make, EU lawmakers insist",
-      "url": "https://www.theverge.com/news/798146/lab-grown-meat-cultivated-plant-based-burger-sausage-steak-eu-ban",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-10T13:25:50.000Z",
-      "summary_90w": "",
-      "raw": "Vegetarian patties like Beyond Burger’s would also be hit by the restrictions. | Photo by Angela Weiss/AFP via Getty Images\t\n\nThis week the EU Parliament voted in favor of an amendment that would ban vegetarian and vegan products from using terms including “burger” and “sausage.” But the proposed ban goes further than that, and would also prevent cell-cultured meat — a.k.a. lab-grown — from using the same terms.\nThe regulation, passed by lawmakers 355 to 247, still needs to get past the EU Commission and member state governments before it becomes law. But if it does, it requires that terms including “steak,” “burger,” “sausage,” and even “egg white” be “reserved exclusively for products containing meat.” That’s a non-exhaustive list, and the legislation is intended to cover all names currently used for meat products.\nBut the bill is also explicit that the meaty terms “shall exclude cell-cultured products,” which could pose a problem for the burgeoning cultured meat industry. “Lab-grown flesh disk” doesn’t have the same ring as “hamburger,” and while the industry is still years away from perfecting lab-grown steak, it would like to be able to call it that once it does.\nThe restriction was proposed with the aim of supporting European livestock farmers, and backed by an increasingly right wing parliament, but has been opposed by supermarkets, climate groups, and even Burger King. A similar measure was voted down in 2020, but the EU does have precedent here, having banned the use of dairy terms like “milk” or “cheese” for plant-based alternatives.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "e32975c674895789cac2b8aaa0d8b94401907d11",
       "title": "UK slaps Google Search with special market status, making way for stricter regulations",
       "url": "https://techcrunch.com/2025/10/10/uk-slaps-google-search-with-special-market-status-making-way-for-stricter-regulations/",
@@ -583,19 +596,6 @@
       "published": "2025-10-10T13:15:00.000Z",
       "summary_90w": "",
       "raw": "Despite the amount of money being injected into the industry, humanoids won't be able to learn dexterity -- or the fine motor movements with hands -- rendering them essentially useless.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "aab502ce585241a9e3240718b2f3f0992cd70a4e",
-      "title": "Brendan Carr wants to let internet providers charge hidden fees again",
-      "url": "https://www.theverge.com/news/798154/fcc-proposal-scrap-isp-hidden-fee-rules",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-10T13:14:43.000Z",
-      "summary_90w": "",
-      "raw": "Broadband customers may find themselves blighted by unexpected charges again, thanks to Federal Communications Commission chairman Brendan Carr. The FCC has submitted a proposal to revise “unnecessary” requirements for internet service providers to itemize every fee on monthly bills, citing that it “may confuse customers.”\nThe proposal comes in response to complaints by ISPs over a Biden-era transparency rule that took effect in April 2024, arguing that their self-inflicted billing complexity made it impractical and burdensome to list every fee they impose on consumers. Compliance with the rule requires that ISPs either create a broadband “nutrition label” that makes it easier for consumers to accurately compare plan prices and avoid hidden fees, or include those hidden charges in the overall price.\nThe FCC isn’t seeking to ditch itemized labels entirely, it’s specifically targeting requirements for making labels inclusive of location-based fees, machine-readable, multi-lingual, and available to customers over the phone and on online account portals. However, the proposal is also examining ways to further streamline or eliminate “any other label requirements that are unduly burdensome and provide minimal benefit to consumers,” which could further impact how labels are presented when shopping for new broadband plans.\nIn a blog post heralding the proposal on Monday, Carr said that broadband labels are being examined to “focus on consumer protection,” and to “separate the wheat from the chaff.” A vote on the changes has been scheduled for October 28th, and requires FCC approval before it can take effect.\nThe proposal falls under the “Delete, Delete, Delete” initiative Carr launched in March that aims appease President Donald Trump’s order to remove as many government regulations as possible. As noted by Ars Technica, the Internet and Television Association (NCTA) lobby group specifically appealed to the FCC under this initiative to have fee itemization rules scrapped, after similar requirements were first imposed on cable and satellite TV providers in March.",
       "topics": [
         "Technology"
       ]
@@ -643,13 +643,13 @@
       "id": "8037f57bf8e3a1f70d97c92e1d99940404798e1e",
       "title": "OpenAI video app Sora hits 1 million downloads faster than ChatGPT",
       "url": "https://www.bbc.com/news/articles/crkjgrvg6z4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-10-10T12:30:07.000Z",
       "summary_90w": "",
       "raw": "The popular AI tool generates ten second long realistic-looking videos from simple text prompts.",
       "topics": [
-        "Technology"
+        "World"
       ]
     },
     {
@@ -1407,19 +1407,6 @@
       ]
     },
     {
-      "id": "04fa8dae01b5a625cac658b4d37feb15c71e660d",
-      "title": "Can Trump turn a Gaza ceasefire into a lasting peace deal?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0m7qcbp?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-09T16:32:00.000Z",
-      "summary_90w": "",
-      "raw": "Israel and Hamas have agreed to the first phase of a peace deal",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ad9941ef70d56c7bc5c25f420ba01083b8ea6860",
       "title": "Police fire rubber bullets as Madagascar protesters reject president's promises",
       "url": "https://www.bbc.com/news/articles/c07v33mg9m2o?at_medium=RSS&at_campaign=rss",
@@ -1454,6 +1441,19 @@
       "published": "2025-10-09T15:41:56.000Z",
       "summary_90w": "",
       "raw": "The US government said approximately 2.9 million cars could be impacted by the investigation.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2b80a0f24b2d42807a9cc2ec846825ba5ebdff9a",
+      "title": "Fireworks and a toast to life: Israelis delight at deal to return hostages",
+      "url": "https://www.bbc.com/news/articles/ce9rl9krm0do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-09T15:24:09.000Z",
+      "summary_90w": "",
+      "raw": "\"I can't quite believe this is actually happening, we've been waiting for so long,\" said Gil Dickman, cousin of hostage Carmel Gat.",
       "topics": [
         "World"
       ]
@@ -1525,13 +1525,13 @@
     },
     {
       "id": "99963ef39f0b9d118e426e05412db2d89ddc292b",
-      "title": "China curbs rare earth exports, raising stakes before Trump-Xi talks",
+      "title": "Trump threatens 'massive' tariffs and cancelling meeting after China's rare earth curb",
       "url": "https://www.npr.org/2025/10/09/g-s1-92685/china-curbs-rare-earth-exports-raising-stakes-before-trump-xi-talks",
       "source_id": "npr-business",
       "source_name": "NPR Topics: Business",
       "published": "2025-10-09T12:46:51.000Z",
       "summary_90w": "",
-      "raw": "Analysts say Thursday's announcement is China's bid to strengthen its leverage in trade talks with the U.S., ahead of a planned leaders' meeting.",
+      "raw": "President Trump responded to Beijing's announcement this week to put new restrictions on exports of rare earths. Trump and President Xi had planned to meet at the end of the month.",
       "topics": [
         "Business"
       ]
@@ -1662,19 +1662,6 @@
       "published": "2025-10-09T01:19:46.000Z",
       "summary_90w": "",
       "raw": "First vote in Congress on military campaign that White House says has hit four vessels and killed at least 21 people\nSenate Republicans voted down legislation Wednesday that would have put a check on Donald Trump’s ability to use deadly military force against drug cartels after Democrats tried to counter the administration’s extraordinary assertion of presidential war powers to destroy vessels in the Caribbean.\nThe vote fell mostly along party lines, 48-51, with two Republicans, Rand Paul and Lisa Murkowski, voting in favor and the Democrat John Fetterman voting against.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e7733c282a12d7b21a092b6e002a9d72fbefb486",
-      "title": "Escaped New Orleans inmate captured after 5 months on the run",
-      "url": "https://www.bbc.com/news/articles/cx2p816z4zgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-08T21:35:47.000Z",
-      "summary_90w": "",
-      "raw": "The last of 10 inmates who escaped from a Louisiana jail by making a hole in the wall behind a toilet was arrested in Atlanta.",
       "topics": [
         "World"
       ]
