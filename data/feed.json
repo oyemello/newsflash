@@ -1,7 +1,46 @@
 {
-  "version": "1760114460954",
-  "generatedAt": "2025-10-10T16:41:00.954Z",
+  "version": "1760115338842",
+  "generatedAt": "2025-10-10T16:55:38.842Z",
   "items": [
+    {
+      "id": "760aa2aea7efc318fd2ab5c664b572e7f4bcfaae",
+      "title": "Best iPad apps for unleashing and exploring your creativity",
+      "url": "https://techcrunch.com/2025/10/10/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-10T16:50:44.000Z",
+      "summary_90w": "",
+      "raw": "We’ve compiled a list of some of the best iPad apps for creativity that are available on the App Store.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e59d0c28d1c19a85af74b1157b9bf75911541a5c",
+      "title": "Melania Trump says Putin responded to her pleas about Ukrainian children ",
+      "url": "https://www.bbc.com/news/articles/cj075gq5n81o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-10T16:46:57.000Z",
+      "summary_90w": "",
+      "raw": "The First Lady has been directly engaged in diplomacy in Russia, pleading for the protection of children.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "00f8ec932f727ec953b289e0940c5930cd38da56",
+      "title": "Plaid promises universal childcare if it wins Welsh election",
+      "url": "https://www.bbc.com/news/articles/cewnv2xprzko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-10T16:38:28.000Z",
+      "summary_90w": "",
+      "raw": "Plaid will offer 20 hours of care for all families if it wins the next Senedd election, leader says.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "b80b7a7ae6a671f3a10a0e15a3da89219b165326",
       "title": "Boox’s new smartphone-sized e-readers come with a steep price hike",
@@ -13,6 +52,19 @@
       "raw": "Boox’s first pocket-sized color e-reader. | Image: Boox\t\n\nNow that the latest versions of Boox’s pocketable e-readers are finally available in China, we have a rough idea of what the new P6 Pro and P6 Pro Color will cost if and when the company releases them globally. Unfortunately, in keeping with the theme of price increases in 2025, they’re now quite a bit more expensive, as spotted by Liliputing.\nThe Boox P6 Pro, which has a slightly better 6.13 inch black-and-white Carta 1300 E Ink display than what the $300 Palma 2 used, is priced at 2,799 Chinese yuan, or around $393. The P6 Pro Color, which uses a 6.13-inch E Ink Kaleido 3 color screen, similar to what you’ll find in Kobo’s color e-readers, is even pricier at 3,299 CNY, or around $463. Boox is offering launch discounts for both devices that brings them down to 2,516 CNY/$353 and 2,991 CNY/$420, respectively, but because of US tariffs, they could end up being even more expensive if and when they launch here.\nBoth devices feature 128GB of storage that’s expandable to 2TB using a microSD card, a 16MP camera, 3,950mAh batteries, and run a version of Android 13 customized by Boox. The P6 Pro Color includes a bump in RAM from 6GB to 8GB, and supports the use of a stylus for note-taking. The most compelling upgrade is that these are Boox’s first compact e-readers to include a SIM card slot for accessing 5G mobile data. But unlike the Bigme Hibreak Pro that launched earlier this year, the P6 Pro models aren’t designed to be smartphone replacements with calling capabilities, making that price hike a tougher sell.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "92a74ebfac4aace6b0bdf11a97eb80108808a3da",
+      "title": "Hamas praises Trump but says Tony Blair not welcome in post-war Gaza role – live",
+      "url": "https://www.theguardian.com/world/live/2025/oct/10/gaza-ceasefire-plan-israel-donald-trump-hamas-palestine-benjamin-netanyahu-middle-east-latest-news",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-10T16:29:16.000Z",
+      "summary_90w": "",
+      "raw": "Senior Hamas official says ceasefire would not have happened without US president, but adds Palestinians have ‘bad memories’ of Blair\nIsraeli military has said that the ceasefire agreement has come into effect, as troops have now retreated to the deployment lines agreed upon.\nIn a statement released on Telegram, the IDF says troops “began positioning themselves along the updated deployment lines” from midday local time.\n Continue reading...",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -39,19 +91,6 @@
       "raw": "SmartThings Aeotec hubs can now join existing Thread networks.\t\n\nWe’re one step closer to a smart home that can manage Thread border routers from different manufacturers. Samsung SmartThings now supports “two-way Thread network unification,” its fancy way of saying Thread credentials sharing. This means that now, if you add a Samsung device that’s a Thread border router to your home, it can join an existing Thread network from other ecosystems, rather than setting up its own.\nThe capability, which is part of the Thread 1.4 spec released last year, will launch on select SmartThings hubs — including the Aeotec Smart Home Hub and the Aeotec Smart Home Hub 2. More hubs will follow, according to the company. \nA new “Manage Thread Network” menu in the SmartThings app Hub interface will allow you to connect a compatible hub to an existing Thread network using a QR code, one-time passcode, or your mobile OS credential locker. It will also allow you to add a third-party border router to an existing SmartThings hub’s Thread network via a QR code or OTP.\nA Thread border router is a gateway for Thread devices. Thread is a wireless smart home protocol designed for low-power devices such as door locks, lights, and sensors, which is used by the Matter smart home standard. Border routers are required to connect local Thread devices to other networks and to the internet. The tech can be built into devices like streaming boxes, smart speakers, and Wi-Fi routers, which means it’s easy to amass several in a smart home. \nHaving multiple Thread border routers can improve the range of Thread devices you’re using, as well as the reliability of the self-healing mesh network. If one border router goes down, another can pick up the traffic. \nWhen Matter launched in 2022, there was no standard way for a Thread border router from one manufacturer, such as an Apple TV, to connect with Thread border routers from another, like an Eero Wi-Fi router. This often resulted in each setting up separate Thread networks, preventing devices on them from talking to each other. \nInitially, border router manufacturers — including Apple, Amazon, Google, and Samsung — said they would work together to come up with solutions to this problem, but they mostly didn’t. While Apple and Google implemented Thread network credentials sharing using their mobile OSes, via iCloud Keychain and Google Play services, this is largely ecosystem-specific. A standardized method for sharing credentials was still needed. \nWhat is Matter\nMatter is a smart home interoperability standard designed to provide a common language for connected devices to communicate locally in your home without relying on a cloud connection. It is built to be secure and private, easy to set up, and widely compatible.\nDeveloped by Apple, Amazon, Google, Samsung, and others, Matter is an open-sourced, IP-based connectivity software layer for smart home devices. It works over Wi-Fi, Ethernet, and Thread.\nThread is a low-power, wireless mesh protocol. It operates on the same 2.4GHz spectrum as Zigbee and is designed for low-power devices, such as sensors, light bulbs, plugs, and shades. IP-based, Thread devices can communicate directly with each other, the internet, and with other networks using a Thread Border Router.\nToday, Matter supports most of the main device types in the home, including lighting, thermostats, locks, robot vacuums, refrigerators, dishwashers, dryers, ovens, smoke alarms, air quality monitors, EV chargers, and more.\nA smart home gadget with the Matter logo can be set up and used with any Matter-compatible ecosystem via a Matter controller and controlled by more than one ecosystem with a feature called multi-admin.\nAmazon Alexa, Google Home, Samsung SmartThings, Apple Home, Home Assistant, Ikea, and Aqara are among the well-known smart home companies supporting Matter, along with hundreds of device manufacturers.\nFinally, last year, Thread Group, the organization that oversees the protocol, took matters into its own hands and mandated “credentials sharing” in its 1.4 spec release. This is a standardized way for Thread devices and border routers to join an existing Thread network. \nNow, SmartThings has adopted Thread 1.4, and Apple has it in its latest iOS 26 update for Apple TV and HomePods (which are Thread border routers). Although Apple has not launched an interface for credentials sharing and it’s not clear if the feature is live yet. However, neither Amazon nor Google yet supports 1.4, though both say they are working on it. \nGoogle Home Thread border routers — including the Google TV streamer, Nest Hubs, and Nest Wifi — may connect to existing networks through Google’s mobile OS credentials sharing. But Amazon’s Echo devices that support Thread can only connect to Amazon or Eero-created networks. Its Echo devices are on Thread 1.3, but the company says it plans to enable Thread 1.4 next year and will support credentials sharing. Eero, the Wi-Fi router company owned by Amazon, has some 1.4 features enabled, but doesn’t currently support merging with existing Thread networks.\nSo three years in and we’re, like, three-quarters of the way there. Sort of. Great job, guys.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "92a74ebfac4aace6b0bdf11a97eb80108808a3da",
-      "title": "Hamas praises Trump but says Tony Blair not welcome in post-war Gaza role – live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/10/gaza-ceasefire-plan-israel-donald-trump-hamas-palestine-benjamin-netanyahu-middle-east-latest-news",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-10T16:18:58.000Z",
-      "summary_90w": "",
-      "raw": "Senior Hamas official says ceasefire would not have happened without US president, but adds Palestinians have ‘bad memories’ of Blair\nIsraeli military has said that the ceasefire agreement has come into effect, as troops have now retreated to the deployment lines agreed upon.\nIn a statement released on Telegram, the IDF says troops “began positioning themselves along the updated deployment lines” from midday local time.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -185,19 +224,6 @@
       ]
     },
     {
-      "id": "00f8ec932f727ec953b289e0940c5930cd38da56",
-      "title": "Plaid promises universal childcare if it wins Welsh election",
-      "url": "https://www.bbc.com/news/articles/cewnv2xprzko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-10T15:43:32.000Z",
-      "summary_90w": "",
-      "raw": "Plaid will offer 20 hours of care for all families if it wins the next Senedd election, leader says.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b9eabf5abaf40ae17aa4e0f953b233524381d192",
       "title": "Thousands line streets for boxing legend Ricky Hatton's funeral",
       "url": "https://www.bbc.com/news/articles/cvgq2z68n02o?at_medium=RSS&at_campaign=rss",
@@ -206,19 +232,6 @@
       "published": "2025-10-10T15:41:05.000Z",
       "summary_90w": "",
       "raw": "The great and good of the boxing world were among those saying an emotional farewell to the boxer.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e59d0c28d1c19a85af74b1157b9bf75911541a5c",
-      "title": "Melania Trump says Putin responded to her pleas about Ukrainian children ",
-      "url": "https://www.bbc.com/news/articles/cj075gq5n81o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-10T15:32:18.000Z",
-      "summary_90w": "",
-      "raw": "The First Lady has been directly engaged in diplomacy in Russia, pleading for the protection of children.",
       "topics": [
         "World"
       ]
@@ -952,14 +965,14 @@
       ]
     },
     {
-      "id": "01ce74ef1ce404ef6b35ab3b244335ba1f11b0ea",
-      "title": "This museum immerses students in U.S. history: 'You can smell it, touch it, see it'",
-      "url": "https://www.npr.org/2025/10/10/nx-s1-5547106/tenement-museum-american-history-high-school",
+      "id": "8cd93ce4ea3a4dbf60d2d3717e0a0a298cc0c025",
+      "title": "Where has Trump suggested sending troops? In cities run by Democratic mayors",
+      "url": "https://www.npr.org/2025/10/10/nx-s1-5567177/national-guard-map-chicago-california-oregon",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-10-10T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "At New York City's Tenement Museum, high schoolers explore the American experience through the eyes of one 1860s-era Black family.",
+      "raw": "In just four months, Trump has suggested or ordered sending federal intervention to nearly a dozen cities.",
       "topics": [
         "World"
       ]
@@ -1378,19 +1391,6 @@
       "raw": "People in Gaza celebrate a potential end to the war, but know it will mean facing the grief they have put aside.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "fbd60cc97445370ce7079a54869077ef28e34643",
-      "title": "Italian businessman’s phone reportedly targeted with Paragon spyware",
-      "url": "https://techcrunch.com/2025/10/09/italian-businessmans-phone-reportedly-targeted-with-paragon-spyware/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-09T17:25:06.000Z",
-      "summary_90w": "",
-      "raw": "The alleged targeting of prominent Italian businessman Francesco Gaetano Caltagirone now widens the Paragon spyware scandal in Italy to victims beyond journalists and activists.",
-      "topics": [
-        "Technology"
       ]
     },
     {
