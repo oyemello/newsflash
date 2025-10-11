@@ -1,7 +1,20 @@
 {
-  "version": "1760174054970",
-  "generatedAt": "2025-10-11T09:14:14.970Z",
+  "version": "1760175025162",
+  "generatedAt": "2025-10-11T09:30:25.162Z",
   "items": [
+    {
+      "id": "39b498d28a86a086ede63ca5f69e62dc4bfc4d0f",
+      "title": "Trump says ‘for the most part, there is consensus’ on next stages of Gaza ceasefire plan – live",
+      "url": "https://www.theguardian.com/world/live/2025/oct/11/israel-gaza-ceasefire-hamas-hostages-netanyahu-trump-middle-east-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-11T09:02:36.000Z",
+      "summary_90w": "",
+      "raw": "US president adds Hamas were gathering the hostages now, as displaced Palestinians return to northern Gaza\nAfter more than 700 days in captivity, the 20 hostages believed to be still alive in Gaza are set to be freed in the coming days, after the Israeli government’s ratification of a ceasefire deal with Hamas.\nThey were among the 251 people kidnapped during the 7 October attacks on southern Israel, in which Hamas-led militants killed about 1,200 people.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "5445cb8e5975cedb57b79c16cafacbd06c875435",
       "title": "India is forcibly deporting Muslims, including its own citizens, after Kashmir violence",
@@ -24,19 +37,6 @@
       "published": "2025-10-11T09:00:00.000Z",
       "summary_90w": "",
       "raw": "Alexandra is one of many people who lost their jobs for posting about the conservative influencer's death. She described the online mob that got her fired as \"state-sponsored censorship.\"",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "39b498d28a86a086ede63ca5f69e62dc4bfc4d0f",
-      "title": "Trump says ‘for the most part, there is consensus’ on next stages of Gaza ceasefire plan – live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/11/israel-gaza-ceasefire-hamas-hostages-netanyahu-trump-middle-east-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-11T08:51:59.000Z",
-      "summary_90w": "",
-      "raw": "US president adds Hamas were gathering the hostages now, as displaced Palestinians return to northern Gaza\nThe United Nations (UN) was given the green light by Israel to begin delivering scaled-up aid into Gaza starting on Sunday, a UN official said. The official spoke on the condition of anonymity to discuss details not yet made public, reports the Associated Press.\n\r\n The aid shipments are meant to address severe malnutrition and famine conditions triggered by Israeli offensives and restrictions on humanitarian help. The international criminal court is seeking the arrest of Israeli prime minister Benjamin Netanyahu and his former defence minister for allegedly using starvation as a method of war. Israeli officials deny the accusations.\n\r\n Accoding to the AP, the aid will include 170,000 metric tons that have already been positioned in neighboring countries such as Jordan and Egypt as humanitarian officials awaited permission from Israeli forces to restart their work.\nUN officials and Israeli authorities have engaged in a series of discussions in Jerusalem over the last 24 hours about the volume of aid humanitarian organisations can bring in and through which entry points.\n\r\n UN spokesperson Stéphane Dujarric told reporters on Friday that fuel, medical supplies and other critical materials have started flowing through the Kerem Shalom crossing. UN officials want Israel to open more border crossings and provide safe movement for aid workers and civilians who are returning to parts of Gaza that were under heavy fire until only recently.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -84,7 +84,7 @@
       "id": "7bb2b776ca833633f1c77351d8417cabe647908d",
       "title": "Mexico floods leave at least 27 dead and more missing",
       "url": "https://www.bbc.com/news/articles/c89d9vp1djyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-10-11T07:50:28.000Z",
       "summary_90w": "",
@@ -159,6 +159,19 @@
       ]
     },
     {
+      "id": "e308050051cb5e5addfd970db93ca37656882f00",
+      "title": "How forensics identified forgotten teen left buried in a carpet for eight years",
+      "url": "https://www.bbc.com/news/articles/cx2neq10d8po?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-11T06:09:20.000Z",
+      "summary_90w": "",
+      "raw": "Questions still remain as to why no-one looked for teenager Karen Price when she vanished in 1981.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "dbab1ae7356cbec15e84840ec76fc793e9424b5c",
       "title": "The fixer’s dilemma: Chris Lehane and OpenAI’s impossible mission",
       "url": "https://techcrunch.com/2025/10/10/the-fixers-dilemma-chris-lehane-and-openais-impossible-mission/",
@@ -169,6 +182,19 @@
       "raw": "The company’s Sora problem is really at the root of everything else.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "078d5f2b5e8987c2562c05f24ffbd035be913ea1",
+      "title": "The stats that say Haaland will run away with Golden Boot",
+      "url": "https://www.bbc.com/sport/football/articles/cdjz1py0xg7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-11T05:27:03.000Z",
+      "summary_90w": "",
+      "raw": "BBC Sport looks at why it looks inevitable that Erling Haaland will win the Premier League Golden Boot this season.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -526,7 +552,7 @@
       "id": "25c62c0bb19a408a3e7f9421c509d23a2cac290d",
       "title": "Trump threatens to impose additional 100% tariff on China",
       "url": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-10-10T22:38:14.000Z",
       "summary_90w": "",
@@ -1628,19 +1654,6 @@
       ]
     },
     {
-      "id": "c35a565b2ad07fb9828ed11f67abd7f293b0492b",
-      "title": "Please shout DUCK!' The town where mystery signs keep popping up",
-      "url": "https://www.bbc.com/news/articles/crl5y255z6lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-09T05:55:25.000Z",
-      "summary_90w": "",
-      "raw": "A council says the prank signs could \"mislead residents and cause confusion\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "cbef4182ef09255526eb883c2632df16031ab88b",
       "title": "Scenes of joy in Gaza after Trump's announcement",
       "url": "https://www.bbc.com/news/videos/c5yennkdjyyo?at_medium=RSS&at_campaign=rss",
@@ -1950,19 +1963,6 @@
       "raw": "It's the latest example of tech giants bowing to pressure from the Trump administration. Legal experts say the developer of the app has free speech rights that may have been violated.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "fa5f8bc365db2f3feb7f57a28900668b6cb009d1",
-      "title": "TV presenter Emma Willis lands 'dream role' at hospital",
-      "url": "https://www.bbc.com/news/articles/cy7p3jjyy5ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-03T16:19:05.000Z",
-      "summary_90w": "",
-      "raw": "The presenter becomes a patron of Birmingham Women's and Children's Hospital and Charity.",
-      "topics": [
-        "World"
       ]
     },
     {
