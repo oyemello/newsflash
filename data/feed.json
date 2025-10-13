@@ -1,6 +1,6 @@
 {
-  "version": "1760345446546",
-  "generatedAt": "2025-10-13T08:50:46.546Z",
+  "version": "1760347099806",
+  "generatedAt": "2025-10-13T09:18:19.806Z",
   "items": [
     {
       "id": "527f5d593ff2e58d2dcc3149cc64b86becd8a0fd",
@@ -8,11 +8,24 @@
       "url": "https://www.bbc.com/news/articles/c3drdy5ry2do?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-10-13T08:42:20.000Z",
+      "published": "2025-10-13T09:13:13.000Z",
       "summary_90w": "",
       "raw": "The disgraced Lostprophets frontman was fatally injured at HMP Wakefield on Saturday.",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "1df410fb266cb34d8ebfc84da05334a17ee6055b",
+      "title": "Dutch government takes control of China-owned chip firm",
+      "url": "https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-10-13T09:08:34.000Z",
+      "summary_90w": "",
+      "raw": "The move, which is aimed to protect supplies of technology, could raise tensions between the EU and China.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -21,9 +34,87 @@
       "url": "https://www.theguardian.com/world/live/2025/oct/13/gaza-ceasefire-live-updates-israel-hostages-release-hamas-trump-middle-east",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-10-13T08:39:09.000Z",
+      "published": "2025-10-13T09:05:54.000Z",
       "summary_90w": "",
-      "raw": "Donald Trump to speak to Israeli parliament as released hostages are seen in first images\n\nFull report: Hamas releases first seven of 20 Israeli hostages after more than 780 days in Gaza\n\nWho are the 20 hostages believed alive and expected to be freed from Gaza?\n\nExplainer: As Donald Trump heads to Gaza ‘peace summit’ in Egypt, who is going – and who isn’t?\n\nDonald Trump has questioned whether former UK prime minister Tony Blair will serve on a new “board of peace” that is intended to oversee the governance of Gaza.\nThe US president’s comments come amid ongoing criticisms of Blair for his role in the Iraq war that began in 2003.\n Continue reading...",
+      "raw": "Donald Trump to speak to Israeli parliament as released hostages are seen in first images\n\nFull report: Hamas releases Israeli hostages after more than 780 days in Gaza\n\nExplainer: As Donald Trump heads to Gaza ‘peace summit’ in Egypt, who is going – and who isn’t?\n\nDonald Trump has questioned whether former UK prime minister Tony Blair will serve on a new “board of peace” that is intended to oversee the governance of Gaza.\nThe US president’s comments come amid ongoing criticisms of Blair for his role in the Iraq war that began in 2003.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "098346a8eadd862430f13b1ccc57f2c9890a4b41",
+      "title": "Hamas releases 20 remaining living Israeli hostages after two years in Gaza",
+      "url": "https://www.theguardian.com/world/2025/oct/13/israeli-hostage-release-hamas-gaza-last-living",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-13T09:04:51.000Z",
+      "summary_90w": "",
+      "raw": "Group handed over to Red Cross as Israeli ministers approve list of more than 1,700 Palestinians for release\n\nGaza ceasefire – live updates\n\nAll 20 remaining living Israeli hostages have been released by Hamas after more than two years in captivity in Gaza.\nParents were reunited with sons and children with fathers as those held were handed over to the Red Cross before finally rejoining their families with the help of the Israeli army. Even before their release, Hamas had allowed some of the hostages to make video calls home on Monday morning.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6d84dde52bcbe020fefe42aea662bedb82235cfb",
+      "title": "Emissions linked to Woodside’s Scarborough gas project could lead to at least 480 deaths, research suggests",
+      "url": "https://www.theguardian.com/australia-news/2025/oct/13/woodside-scarborough-gas-project-emissions-could-cause-heat-deaths",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-13T09:00:17.000Z",
+      "summary_90w": "",
+      "raw": "Scientists have examined the $16.5bn project’s climate impact and found it could expose more than half a million people to unprecedented heat\n\nSign up for climate and environment editor Adam Morton’s free Clear Air newsletter here\n\nGreenhouse emissions linked to a gas field being developed by Australian fossil fuel company Woodside could lead to the death of at least 480 people and expose more than half a million to unprecedented heat, new research suggests.\nScientists from six universities have examined the climate impact of the $16.5bn Scarborough project, which is expected to start production off the northern Western Australian coast next year and could result in 876m tonnes of carbon dioxide being released into the atmosphere over three decades.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "822fa8a094a167d4901082b84051c5454395d891",
+      "title": "Amid shutdown, Trump administration guts department overseeing special education",
+      "url": "https://www.npr.org/2025/10/13/nx-s1-5572489/trump-special-education-department-funding-layoffs-disabilities",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-13T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Multiple sources tell NPR that, as part of the Trump administration's latest reduction-in-force, the U.S. Department of Education has gutted the office that handles special education.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8b963ed985299e88d5e9b1792423a169b42d549d",
+      "title": "She was about to drop out of college, but then her professor stepped in",
+      "url": "https://www.npr.org/2025/10/13/nx-s1-5566794/college-dropout-tuition",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-13T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Midway through her first semester of college, Silvana Clark realized she didn't have enough money to finish the year. Then, her drama professor stepped in.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d97cbb5a59fe044c7cbf5837c83c52ad6db9daf9",
+      "title": "French political crisis continues as Lecornu unveils new government – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/oct/13/france-political-crisis-lecornu-macron-sarkozy-ukraine-russia-gaza-europe-news-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-13T08:50:14.000Z",
+      "summary_90w": "",
+      "raw": "Marine Le Pen says she will seek to call a no-confidence motion as she urges Macron to dissolve the National Assembly\nDonald Trump has warned that the US could send Ukraine long-range Tomahawk cruise missiles if Moscow fails to end its war, signalling a potential escalation in Washington’s stance towards Vladimir Putin.\nSpeaking to reporters aboard Air Force One on Sunday after a call with Ukraine’s president, Volodymyr Zelenskyy, Trump said: “I might say, ‘Look, if this war is not going to get settled, I’m going to send them Tomahawks.’ The Tomahawk is an incredible weapon, very offensive weapon. And honestly, Russia does not need that.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6524cd4b702fe2c542f563454ee74c40516d1f0a",
+      "title": "Liberal MP’s sister says father’s church is a ‘cult’ where ‘gay conversion’ practices may still be happening",
+      "url": "https://www.theguardian.com/australia-news/2025/oct/13/victoria-cults-inquiry-city-builders-church-gay-conversion-practices-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-13T08:49:09.000Z",
+      "summary_90w": "",
+      "raw": "City Builders pastor’s daughter tells Victorian parliamentary inquiry into cults of ‘grave concerns’ about church\n\nGet our breaking news email, free app or daily news podcast\n\nThe sister of Victorian Liberal MP Renee Heath has described their father’s church as a “cult” and told an inquiry that so-called “gay conversion” practices may still be occurring in the state.\nClare Heath-McIvor, daughter of City Builders church pastor Brian Heath, told the parliamentary inquiry into cults and organised fringe groups that leaders of some churches in the New Apostolic Reformation movement, of which her father’s church is a part, believe “God’s law” overrides the state’s.\nInformation and support for anyone affected by rape or sexual abuse issues is available in Australia at 1800Respect (1800 737 732). Children, young adults, parents and teachers can contact the Kids Helpline on 1800 55 1800, or Bravehearts on 1800 272 831, and adult survivors can contact Blue Knot Foundation on 1300 657 380\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -37,19 +128,6 @@
       "published": "2025-10-13T08:30:59.000Z",
       "summary_90w": "",
       "raw": "Government’s FoI changes unlikely to pass Senate as Coalition, Greens and key crossbenchers voice outrage\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe Labor government’s changes to limit access to freedom of information (FoI) requests appear to be dead in the water, with the opposition leader, Sussan Ley, saying the Coalition will vote against the “friendless” proposal.\nAfter the Greens and key crossbenchers also voiced their outrage, there currently appears to be no pathway for the government to pass the reforms through the Senate. But the attorney general, Michelle Rowland, says she remains committed to the contentious reform, criticising the Coalition for once again reshuffling its frontbench and naming yet another new shadow legal spokesperson.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d97cbb5a59fe044c7cbf5837c83c52ad6db9daf9",
-      "title": "French political crisis continues as Lecornu unveils new government – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/13/france-political-crisis-lecornu-macron-sarkozy-ukraine-russia-gaza-europe-news-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-13T08:30:52.000Z",
-      "summary_90w": "",
-      "raw": "Marine Le Pen says she will seek to call a no-confidence motion as she urges Macron to dissolve the National Assembly\nRussia has dismissed reports that one of its submarines was in distress after surfacing off the coast of northern France, insisting the vessel was simply following routine navigation rules.\nNato’s Maritime Command last week shared photos of a French navy frigate tracking a Russian submarine near Brittany, saying the alliance maintained “constant vigilance and maritime awareness across the Atlantic.”\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -89,19 +167,6 @@
       "published": "2025-10-13T08:15:55.000Z",
       "summary_90w": "",
       "raw": "A ceasefire deal should see Hamas hand over all 48 remaining Israeli and foreign hostages, 20 of whom are believed to be alive.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "098346a8eadd862430f13b1ccc57f2c9890a4b41",
-      "title": "Hamas releases first seven of 20 Israeli hostages after two years in Gaza",
-      "url": "https://www.theguardian.com/world/2025/oct/13/israeli-hostage-release-hamas-gaza-last-living",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-13T08:04:24.000Z",
-      "summary_90w": "",
-      "raw": "Group handed over to Red Cross as Israeli ministers approve list of more than 1,700 Palestinians for release\n\nGaza ceasefire – live updates\n\nThe first seven of the remaining 20 living Israeli hostages have been released by Hamas after more than two years in captivity in Gaza, according to the Israeli military.\nThe group were handed over to the Red Cross ahead of being reunited with their families by the Israeli military at the Re’im reception point near the Gaza border. They were named by as Matan Engerst, Guy Gilboa Dalal, Alon Ohel, Gali and Zivi Berman, Eitan Mor and Omari Moran.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -172,32 +237,6 @@
       ]
     },
     {
-      "id": "09d3d73b51397fcf360c3f285410f4e8b45fbfa4",
-      "title": "Victoria police don’t know if Dezi Freeman is still alive – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2025/oct/13/australia-news-live-qantas-hack-data-leak-scam-warning-nsw-sydney-potholes-social-media-ban-anika-wells-albanese-sussan-ley-labor-liberal-coalition-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-13T06:33:43.000Z",
-      "summary_90w": "",
-      "raw": "This blog is now closed\n\nLabor scraps key elements of controversial superannuation tax plan as Greens call move ‘gift to the super-rich’\n\nGet our breaking news email, free app or daily news podcast\n\nNSW to begin $200m pothole blitz across greater Sydney\nThe NSW government said this morning it will fast-track $200m in spending to fix potholes and maintain roads across the Sydney region.\nWe know how frustrating it is for drivers to deal with damaged roads and potholes, especially after one of Sydney’s wettest winters on record. This $200 million blitz will help make sure our roads are safer and more reliable, while supporting the crews who are already working hard every day to keep Sydney moving.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "5dafee93da422f3ecab0d6edf15810bf100d69ff",
-      "title": "University of Sydney argues academic’s article not racist against Jewish people as ‘Zionism is a political concept’",
-      "url": "https://www.theguardian.com/australia-news/2025/oct/13/zionism-political-concept-says-university-sydney-after-academic-article-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-13T06:24:10.000Z",
-      "summary_90w": "",
-      "raw": "Case taken by academics against two colleagues and the university is considered a major test case for hate speech in Australia\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe University of Sydney has argued that an article written by a staff member that criticises Zionism was not racist against Jewish people because “Zionism is, at its core, a political concept”.\nThe argument was heard in the federal court on Monday as part of a racial discrimination case taken by academics against two of their colleagues and the university, in what is being considered a major test case for hate speech in Australia.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "c7a79a5ea1f5774ad9640e3a22c6bafac4bf6fad",
       "title": "In a major milestone, Hamas begins releasing final Israeli hostages",
       "url": "https://www.npr.org/2025/10/13/g-s1-93207/hamas-releasing-israeli-hostages",
@@ -212,7 +251,7 @@
     },
     {
       "id": "94a1e56933c1d35381614935f5255fa419bb3d73",
-      "title": "'He's giving us a lot of joy' - Marcus Rashford's revival at Barcelona",
+      "title": "Marcus Rashford's football revival at Barcelona",
       "url": "https://www.bbc.com/sport/football/articles/c3rvr0z531eo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -224,19 +263,6 @@
       ]
     },
     {
-      "id": "1df410fb266cb34d8ebfc84da05334a17ee6055b",
-      "title": "Netherlands cracks down on China-owned chip firm over security risk",
-      "url": "https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-10-13T05:19:36.000Z",
-      "summary_90w": "",
-      "raw": "The move, which is aimed to protect supplies of technology, could raise tensions between the EU and China.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "f6873783b3d18d38cbd552461944c18463ead324",
       "title": "By-election shines new spotlight on historic Caerphilly",
       "url": "https://www.bbc.com/news/articles/czew7nedd8jo?at_medium=RSS&at_campaign=rss",
@@ -245,6 +271,19 @@
       "published": "2025-10-13T05:18:05.000Z",
       "summary_90w": "",
       "raw": "Why the Caerphilly by-election is about more than just sending one representative to Cardiff Bay.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7a494c44856efd912e6273bad24b994baf633db7",
+      "title": "'He just kept growing': Life with a 13-stone Arctic dog",
+      "url": "https://www.bbc.com/news/articles/c20vr00plz4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-13T05:18:02.000Z",
+      "summary_90w": "",
+      "raw": "Amy Sharp's Alaskan Malamute Mal is more than twice the average size of a dog of his breed.",
       "topics": [
         "World"
       ]
@@ -511,7 +550,7 @@
     },
     {
       "id": "de08f99f3819291dc746d2c65729d7e28d25a7d0",
-      "title": "Mental arithmetic really stresses me out and science has proved it",
+      "title": "Your nose gets colder when you're stressed. These thermal images show the change",
       "url": "https://www.bbc.com/news/articles/cj076ynnlpgo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -544,19 +583,6 @@
       "published": "2025-10-12T23:14:45.000Z",
       "summary_90w": "",
       "raw": "Business for unregulated healers appears to be thriving in Cape Town, but there are dangers.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "319e717a730da9bd55ce9d28c604e6e4abc8ac95",
-      "title": "'Painful' job cuts to come if US shutdown drags on, warns JD Vance",
-      "url": "https://www.bbc.com/news/articles/cp3d554053lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-12T22:15:32.000Z",
-      "summary_90w": "",
-      "raw": "Hundreds of thousands of federal employees are already on leave without pay as the impasse approaches its third week.",
       "topics": [
         "World"
       ]
@@ -615,7 +641,7 @@
     },
     {
       "id": "a320ef828d46a6173403094e0e245cf1b2df7bdc",
-      "title": "Murder arrest over deaths of children aged 2 and 3",
+      "title": "Woman arrested after deaths of children aged 2 and 3",
       "url": "https://www.bbc.com/news/articles/c78n8y3mlxko?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -693,7 +719,7 @@
     },
     {
       "id": "131011a2f915f55bf1624566481144290313b3e6",
-      "title": "'In an instant, they were gone': Mall town mourns after Tennessee explosives factory blast",
+      "title": "'In an instant, they were gone': Small town mourns after Tennessee explosives factory blast",
       "url": "https://www.bbc.com/news/articles/cwy8y0rnw2eo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -991,19 +1017,6 @@
       ]
     },
     {
-      "id": "e56c7be5eff4ad0f4107d10d0a9c7afb1b05e420",
-      "title": "China vows to stand firm against Trump's 100% tariff threat",
-      "url": "https://www.npr.org/2025/10/12/nx-s1-5572400/china-vows-stand-firm-against-trumps-100-tariff-threat",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-10-12T11:34:00.000Z",
-      "summary_90w": "",
-      "raw": "China signaled Sunday that it would not back down in the face of a 100% tariff threat from President Donald Trump, urging the U.S. to resolve differences through negotiations instead of threats.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "28684b11181a2923c414ba829e89d92975f9fcad",
       "title": "Nuns escape fire at historic Italian monastery",
       "url": "https://www.bbc.com/news/videos/c1jzj1n797yo?at_medium=RSS&at_campaign=rss",
@@ -1012,19 +1025,6 @@
       "published": "2025-10-12T11:03:57.000Z",
       "summary_90w": "",
       "raw": "Drone footage shows blaze destroying the historic Bernaga Monastery in Italy.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3fe1fc96225ed19641146e570cebfde42efbf596",
-      "title": "5 things to know about the health care fight behind the shutdown",
-      "url": "https://www.npr.org/2025/10/12/nx-s1-5570849/shutdown-aca-health-care-tax-credits",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-10-12T11:02:00.000Z",
-      "summary_90w": "",
-      "raw": "If Congress doesn't act, costs will rise on premiums for health care plans on the Affordable Care Act marketplaces. Here's what to know about the politics and real-world impact of this issue.",
       "topics": [
         "World"
       ]
