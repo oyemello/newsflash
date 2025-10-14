@@ -1,7 +1,20 @@
 {
-  "version": "1760462113635",
-  "generatedAt": "2025-10-14T17:15:13.635Z",
+  "version": "1760463060277",
+  "generatedAt": "2025-10-14T17:31:00.277Z",
   "items": [
+    {
+      "id": "cc6237e8ed20aa18674efa90cc1c4db7517fef9e",
+      "title": "US Supreme Court rejects Alex Jones appeal in Sandy Hook shooting case",
+      "url": "https://www.bbc.com/news/articles/c5ypjjxd40qo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-14T17:12:21.000Z",
+      "summary_90w": "",
+      "raw": "The right-wing conspiracy theorist has not yet paid any of the more than $1b in damages he owes Sandy Hook families.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "ba6e4df92f5341b981d5b8f402b51f2ae63df9ac",
       "title": "D’Angelo, R&B Grammy-award winning singer, dies aged 51",
@@ -43,26 +56,13 @@
     },
     {
       "id": "b08f388136b0203edeea223e5d23d8ca5e37d1ff",
-      "title": "Hamas says it will return bodies of four Israeli hostages tonight after Israel says it will keep Rafah crossing closed – Gaza ceasefire live",
+      "title": "Hamas agrees to return four deceased hostages tonight as Israel says it will halve aid deliveries to Gaza over release of bodies – live",
       "url": "https://www.theguardian.com/world/live/2025/oct/14/gaza-ceasefire-israel-hamas-palestine-hostages-detainees-truce-live-news-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-10-14T16:51:01.000Z",
       "summary_90w": "",
       "raw": "Hamas tells mediators it plans to transfer bodies of four deceased hostages at 10pm local time\nDespite the ceasefire agreement, a medical source told Palestinian news agency Wafa today that four people were killed when Israeli drones fired at residents inspecting their homes in Gaza’s eastern Shejaiya neighbourhood. We have not yet been able to independently verify this information.\nIsrael’s military said it opened fire on people who it says approached Israeli forces operating in the northern Gaza Strip.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "21f52aff1ed9ab1cd9a0da555bf60d4e7b6df347",
-      "title": "William and Kate meet young firefighters in Northern Ireland",
-      "url": "https://www.bbc.com/news/articles/cp8yn808w8ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-14T16:37:28.000Z",
-      "summary_90w": "",
-      "raw": "The Prince and Princess of Wales make their first joint visit to Northern Ireland in three years.",
       "topics": [
         "World"
       ]
@@ -146,6 +146,19 @@
       ]
     },
     {
+      "id": "161383674c06d348dd2e48bebd7ffd02aba0dbe4",
+      "title": "Peer faces Lords ban for raising speeding fines with police chief",
+      "url": "https://www.bbc.com/news/articles/c5y4558r5gko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-14T16:20:31.000Z",
+      "summary_90w": "",
+      "raw": "Ex-Lords speaker Baroness D'Souza complained to Sir Mark Rowley she could lose her licence after a speeding fine.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "eaac4f4c321fabdd9a7a03c7a28015a6acd66d1a",
       "title": "My friend Bipin threw back Hamas grenade - and saved my life",
       "url": "https://www.bbc.com/news/articles/cy0kllzqk1vo?at_medium=RSS&at_campaign=rss",
@@ -167,19 +180,6 @@
       "published": "2025-10-14T16:16:50.000Z",
       "summary_90w": "",
       "raw": "The changes, which raised the retirement age from 62 to 64, were seen as signature reforms in Emmanuel Macron's presidency.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cc6237e8ed20aa18674efa90cc1c4db7517fef9e",
-      "title": "US Supreme Court rejects Alex Jones appeal in Sandy Hook shooting case",
-      "url": "https://www.bbc.com/news/articles/c5ypjjxd40qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-14T16:12:37.000Z",
-      "summary_90w": "",
-      "raw": "The right-wing conspiracy theorist has not yet paid any of the more than $1b in damages he owes Sandy Hook families.",
       "topics": [
         "World"
       ]
@@ -442,19 +442,6 @@
       "raw": "Flint raised a $5 million seed round led by Accel, with participation from Sheryl Sandberg’s fund, Sandberg Bernthal Venture Partners, and prior investor Neo.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "d84d80faaf33eacd082320b60b26869ff85d6e83",
-      "title": "Minister 'appalled' women banned from Muslim run",
-      "url": "https://www.bbc.com/news/articles/cz0x70rx2jdo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-14T14:55:53.000Z",
-      "summary_90w": "",
-      "raw": "Steve Reed said he was \"horrified\" that women were barred from mosque-run London charity event.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -784,13 +771,13 @@
     },
     {
       "id": "cba5d62b038072e768a18c30883fea9a0f0c5180",
-      "title": "Questions remain about deceased Israeli hostages in Gaza",
+      "title": "A Gaza ceasefire largely holds after Israel and Hamas swap detainees and hostages",
       "url": "https://www.npr.org/2025/10/14/nx-s1-5574057/israel-hamas-ceasefire-gaza",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-10-14T12:51:09.000Z",
       "summary_90w": "",
-      "raw": "The tenuous ceasefire in the two-year Israel-Hamas war appears to be holding even as complex issues remained ahead.",
+      "raw": "Israel and Hamas took steps toward ending the two-year war that has devastated the Gaza Strip, but hard work lies ahead.",
       "topics": [
         "World"
       ]
@@ -804,19 +791,6 @@
       "published": "2025-10-14T12:38:32.000Z",
       "summary_90w": "",
       "raw": "Tens of thousands of people take to the streets in Brussels over government reforms and spending cuts.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "da6d5eb3b8c7a4848de4752219d04b748981e4de",
-      "title": "What happens next in Trump's ceasefire plan",
-      "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-14T12:27:36.000Z",
-      "summary_90w": "",
-      "raw": "All living Israeli hostages have returned home and a ceasefire is in place. What happens next in Gaza?",
       "topics": [
         "World"
       ]
@@ -986,6 +960,19 @@
       "published": "2025-10-14T11:00:00.000Z",
       "summary_90w": "",
       "raw": "The 2025 Nobel Prize in economics was awarded to Joel Mokyr, Philippe Aghion and Peter Howitt.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c34f8632e898d61f221137df008e26b7e3c3bbe6",
+      "title": "YouTubers Dan and Phil confirm relationship after 16 years",
+      "url": "https://www.bbc.com/news/articles/cd7r31p0eyyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-14T10:53:17.000Z",
+      "summary_90w": "",
+      "raw": "Dan says intense fan intrusion \"could have killed me\", but that they \"can't live in fear any more\".",
       "topics": [
         "World"
       ]
