@@ -1,18 +1,70 @@
 {
-  "version": "1760474187163",
-  "generatedAt": "2025-10-14T20:36:27.163Z",
+  "version": "1760475139084",
+  "generatedAt": "2025-10-14T20:52:19.084Z",
   "items": [
     {
-      "id": "6f64c75a8679f7bbe2690eaff1f9c9e25c3ae315",
-      "title": "News organizations refuse to comply with restrictive new Pentagon policy",
-      "url": "https://www.npr.org/2025/10/14/nx-s1-5574184/news-organizations-refuse-to-comply-with-restrictive-new-pentagon-policy",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-10-14T20:32:38.000Z",
+      "id": "501e28c0c6e8a96e70224465754f06fa66999a7e",
+      "title": "YouTube has a new video player",
+      "url": "https://www.theverge.com/news/799492/youtube-new-video-player-update-changes",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-14T20:42:30.000Z",
       "summary_90w": "",
-      "raw": "NPR Pentagon correspondent Tom Bowman is turning in his press pass, but won't stop reporting. Major news organizations are rejecting a restrictive new policy around covering the Department of Defense.",
+      "raw": "YouTube is updating the look of the video player to be “cleaner and more immersive” beginning this week. “This includes updated controls and new icons to make the viewing experience more visually satisfying while obscuring less content,” YouTube says. It started testing changes to the player earlier this year. A screenshot from YouTube shows how the new look includes rounded on-screen buttons with a little bit of translucency, though the effect isn’t nearly as intense as Apple’s Liquid Glass. YouTube says the new player will be available on mobile, web, and TV devices. \nThe company is introducing a bunch of other updates, too. YouTube says the double-tap to skip feature will be “modern and less intrusive to your video watching experience.” A new “structured system for comment replies” is intended to “provide a more focused reading experience within the replies panel.” And on some videos, hitting the like button will show a “dynamic” animation, like a music note when liking a music video.",
       "topics": [
-        "Business"
+        "Technology"
+      ]
+    },
+    {
+      "id": "4d242edb7da39104f9639b1b1e69428db066bd51",
+      "title": "Facebook removes ICE-tracking page after US government ‘outreach’",
+      "url": "https://www.theverge.com/policy/799473/facebook-meta-ice-jawboning",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-14T20:42:01.000Z",
+      "summary_90w": "",
+      "raw": "Meta has removed a Facebook page dedicated to tracking Immigration and Customs Enforcement (ICE) action in Chicago after the Justice Department got involved. \nAttorney General Pam Bondi wrote on X Tuesday that Facebook had taken down an unnamed “large group page that was being used to dox and target” ICE agents after outreach from the DOJ. Meta spokesperson Andy Stone confirmed the group, which he did not identify, “was removed for violating our policies against coordinated harm.” Its removal follows Apple and Google blocking ICE-tracking apps, also following government demands.\nThe DOJ declined to comment beyond Bondi’s post, and ICE did not immediately respond to a request for comment about whether specific credible threats were made to ICE agents on the page. The DOJ appears to have taken action after Laura Loomer, a right-wing influencer who has led several campaigns against federal workers she deems disloyal to Trump, posted about a Facebook group called “ICE Sighting- Chicagoland” that she claimed “is providing location updates on ICE raids and ICE agent locations in the Chicago area.” While neither the DOJ nor Meta confirmed the name of the group taken down, Loomer claimed a DOJ source told her the agency had seen her post and contacted Meta about such pages. \nAs President Donald Trump has ramped up immigration enforcement across the country, including through more aggressive tactics like workplace raids, several tools and community groups have popped up to alert people to ICE’s presence in their area. The ICEBlock app used to anonymously report ICE sightings rose to the top of Apple’s app store this summer before it was similarly removed by Apple after the DOJ reached out, with Bondi claiming it was “designed to put ICE agents at risk just for doing their jobs.” ICEBlock developer Joshua Aaron told Fox News Digital it was “patently false” that the app “served to harm law enforcement officers.”\n\nBondi’s statement raises questions about whether the government engaged in illegal jawboning\n\n\nAs private sector businesses, Apple and Meta can generally legally remove groups or apps as they see fit. But Bondi’s statement raises questions about whether the government engaged in illegal jawboning, or pressuring private actors to take down legal speech. It’s not clear precisely what the DOJ said to platforms that prompted them to take action, or whether Meta might have removed the page even without government intervention. But the administration has recently suggested that a broad range of speech might constitute actionable support for domestic terrorism and pledged to crack down on it. \nThe incident is particularly notable since President Donald Trump and other Republicans have repeatedly characterized the Biden administration’s outreach to tech platforms over covid and voting misinformation as censorship, slamming the government’s role in flagging posts they labeled harmful to voting engagement or public health. Conservative state AGs sued the administration in a case that went all the way to the Supreme Court, which did not find a “concrete link” between the platforms’ removal decisions and the government’s communication with the tech executives. \nThere’s also little direct evidence that ICE-tracking tools have led to violence. The administration amped up pressure after claiming that a shooter at a Dallas field office in September used tracking apps, but it’s unclear what, if any, role they played in the attack (which led to the deaths of two detainees and no ICE officers). ICE agents have experienced more assaults as their presence in American communities has increased, but to a far lower degree than the government has claimed, a recent National Public Radio report found.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "76f4141b74f4accc0e6e7b42758206c886fde18d",
+      "title": "Trump threatens to cut US aid to Argentina if Milei loses election",
+      "url": "https://www.theguardian.com/us-news/2025/oct/14/trump-threatens-to-cut-us-aid-to-argentina-if-milei-loses-election",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-14T20:41:58.000Z",
+      "summary_90w": "",
+      "raw": "US president says ‘we will not be generous’ if leader fails to win key midterms after promising $20bn to prop up struggling economy\nDonald Trump has warned he could cut financial aid to Argentina if his ally Javier Milei loses crucial legislative elections later this month.\n“If he loses, we are not going to be generous with Argentina,” the US president said as Milei visited the White House to seek the Republican’s political and economic support. “I’m with this man because his philosophy is correct. And he may win and he may not win – I think he’s going to win. And if he wins we are staying with him, and if he doesn’t win we are gone.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "43eb417a4629e2f5ea486aa8865b20bcf4607545",
+      "title": "The players with points to prove as England reach World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/c986588n805o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-14T20:40:16.000Z",
+      "summary_90w": "",
+      "raw": "England have qualified for next summer's World Cup, but who are the players who must still prove they deserve a spot in Thomas Tuchel's squad?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4ba91a12d4a0a463d49e6f9ee19bdb13ae37ddb4",
+      "title": "At Starbase, SpaceX is taking firefighting into its own hands",
+      "url": "https://techcrunch.com/2025/10/14/at-starbase-spacex-is-taking-firefighting-into-its-own-hands/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-14T20:39:03.000Z",
+      "summary_90w": "",
+      "raw": "SpaceX's company town has formed a volunteer fire department, extending control over both the emergency response and permitting process as the company looks to expand Starbase.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -21,9 +73,35 @@
       "url": "https://www.theguardian.com/australia-news/live/2025/oct/15/australia-news-live-liberals-infighting-james-paterson-sussan-ley-andrew-hastie-superannuation-jim-chalmers-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-10-14T20:17:11.000Z",
+      "published": "2025-10-14T20:37:43.000Z",
       "summary_90w": "",
-      "raw": "Shadow finance minister says infighting and ‘mass public therapy session’ must end. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nThe International Monetary Fund has confirmed its predictions of slower Australian economic growth as the global economy battles trade tensions and faces risks of an AI bubble.\nThe Australian economy will grow at a pace of about 1.8% on average through 2025 and then 2.1% through 2026, according to the IMF’s latest projections, released today.\nThe outlook remains fragile, and risks remain tilted to the downside. The main risk is that tariffs may increase further from renewed and unresolved trade tensions.\n Continue reading...",
+      "raw": "Shadow finance minister says infighting and ‘mass public therapy session’ must end. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nNSW to use $70m in dormant Opal card funds to invest in active transport\nThe NSW government plans to use about $70m in unused balances on long-dormant, unregistered Opal cards to invest in active transport options such as bike lockers and a better system for shared e-bikes.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b08f388136b0203edeea223e5d23d8ca5e37d1ff",
+      "title": "Red Cross receives bodies of four more Israeli hostages; Trump says Hamas must disarm ‘or we will disarm them’ – as it happened",
+      "url": "https://www.theguardian.com/world/live/2025/oct/14/gaza-ceasefire-israel-hamas-palestine-hostages-detainees-truce-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-14T20:34:23.000Z",
+      "summary_90w": "",
+      "raw": "This live blog is now closed. You can read our latest coverage here:\n\nIsrael limits aid in dispute over hostage remains\n\nTrump says Hamas will be forced to disarm or ‘we will disarm them’\n\n\nDespite the ceasefire agreement, a medical source told Palestinian news agency Wafa today that four people were killed when Israeli drones fired at residents inspecting their homes in Gaza’s eastern Shejaiya neighbourhood. We have not yet been able to independently verify this information.\nIsrael’s military said it opened fire on people who it says approached Israeli forces operating in the northern Gaza Strip.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "835e106b8d4ce8d4b70bfabfd2d4232cc7dbf197",
+      "title": "Israel limits aid and keeps Rafah crossing closed in dispute over hostage remains",
+      "url": "https://www.theguardian.com/world/2025/oct/14/israel-limits-aid-keeps-rafah-crossing-closed-dispute-hostage-remains",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-14T20:30:57.000Z",
+      "summary_90w": "",
+      "raw": "Tensions still high as Israel accuses Hamas of breaching agreement by withholding bodies of 24 hostages\nThe fragile ceasefire in Gaza faced its first test on Tuesday when Israel said the flow of aid into the devastated Palestinian territory would be cut by half and the crucial Rafah border crossing with Egypt would not open as planned, accusing Hamas of breaching the US-brokered agreement by withholding the bodies of Israeli hostages.\nOn Monday, Israelis celebrated the return of the last 20 living hostages in Gaza and Palestinians rejoiced at Israel’s release of nearly 2,000 detainees as part of the ceasefire’s first phase.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -39,19 +117,6 @@
       "raw": "Hisense’s 65-inch U6 4K TV is $596.99 ($303 off) at Amazon | Image: Sony\t\n\nThings are looking bright for those who want to nab a great TV in 2025 at a substantial discount. There’s usually a great deal happening on a mid- or high-end TV from LG, Sony, Roku, Hisense, or Samsung — even if the biggest discounts remain reserved for Black Friday, Cyber Monday, Amazon Prime Day, and during the lead-up to the Super Bowl.\nRight now, there are a number of discounted 4K TVs to choose from, spanning a wide variety of prices, sizes, and feature sets. Whether you want a secondary screen for the bedroom or a high-end OLED that’s built to provide the ultimate gaming or cinematic experience, we’ve picked out the best TV deals.\n\nThe best 4K TV deals for most people\nThe best budget-friendly 4K TV deals\nThe best deals on high-end 4K TVs\n\nThe best 4K TV deals for most people\nSamsung Q8F \nSamsung’s Q8F is available for around $649.99 ($150 off) at Amazon, Best Buy, and B&H Photo for the 55-inch model, which is a solid value for a QLED 4K TV. Its quantum dot LED panel boasts great contrast (especially in HDR content). The Q8F has a 120Hz panel and four HDMI 2.0 ports. This means you can play in 4K at up to 60Hz with a Nintendo Switch 2, Xbox Series S/X, or a PlayStation 5 Pro, or at a faster 120Hz refresh rate bumped down to 1440p resolution. Samsung is also including two free months of Xbox Game Pass Ultimate with purchase, which will allow you to stream games directly to your TV through the cloud, eliminating the need for a console.\nThe TV is powered by Samsung’s Q4 AI processor, which is used to upscale HD video to 4K when necessary, to optimize the picture in real-time, and make navigating its interface feel snappy. Samsung also touts the Q8F’s audio system, which adjusts the EQ and boost dialogue volume when needed. If you’ve cut the cord with cable, you can watch over 2,700 free channels of TV (over 400 of which are exclusive to Samsung TVs) in addition to streaming services. You can save $302 by jumping up to the 85-inch model, which is on sale for around $1,597.99, matching its all-time low, at Amazon, Best Buy, and B&H Photo.\nSamsung Q8F\n\nWhere to Buy:\n\n $747.99 $647.99 at Amazon (55-Inch)\n $749.99 $649.99 at Best Buy (55-Inch)\n $2297.99 $1597.99 at Amazon (85-Inch)\n\nIf you’re looking for a 65-inch TV for watching sports, TV shows, movies, or playing video games, Hisense’s U65QF is a great choice, one you can currently purchase at Amazon and Best Buy for an all-time low of around $567.99 ($350 off). The TV features a native 144Hz refresh rate and two HDMI 2.1 ports, both of which can take full advantage of the high-speed display. It also sports a pair of HDMI 2.0 ports — which can carry a 4K signal at up to 60Hz — and a port assortment that makes it a good choice for current-gen consoles, 4K Blu-ray players, and streaming devices. If you connect a gaming PC with an AMD graphics card, you can even take advantage of the TV’s support for AMD FreeSync Premium Pro, which reduces graphical glitches such as screen tearing.\nThe U65QF has an LED screen, which means it can’t match the black levels or per-pixel brightness control you’d get with an OLED display. However, its full array lighting panel offers 300 local dimming zones. The TV can control the brightness of each zone to reduce blooming, which is what happens when the area around a bright object (think a lit torch in a cave) looks unnaturally bright. Additionally, the TV has a maximum brightness of 1,000 nits, so the image it produces should look good even in a room with some light interference. The U65QF also supports Dolby Vision, HLG, and HDR10 Plus for better color reproduction, and it features a Hi-View AI chip that automatically processes the image on screen so that it appears sharper. \nAs for its operating system, Hisense’s U65QF runs on Amazon’s Fire OS and features Amazon Alexa built in. You can use the smart assistant to control the TV’s many functions, search for content, control compatible smart home accessories, and look up answers to various questions with your voice. If you want an even larger screen, you can also pick up a 75-inch model for around $797.99 ($502 off) at Amazon and Best Buy.\nHisense U65QF TV (2025)\n\nWhere to Buy:\n\n $999.99 $567.99 at Amazon (65-inch)\n $998.99 $569.99 at Best Buy (65-inch)\n $1299.99 $797.99 at Amazon (75-inch)\n\nThe best budget-friendly 4K TV deals\nHisense E6\nHisense’s E6 is an Amazon-exclusive Fire TV model, and you can pick up the 50-inch model for $237.99 ($142 off) on its site. The E6 has surprisingly premium features for its price, including support for Dolby Vision HDR for richer colors, and a processor that utilizes AI to upscale HD video to look better on the 4K set. It has a light sensor that can automatically adjust the panel’s brightness, so you shouldn’t see a blown out picture in a dark room, or a dim picture during the day.\nThe E6 runs Amazon’s Fire OS, and comes bundled with an microphone-equipped Alexa remote. You can activate Amazon Alexa and use your voice to search for content and control compatible smart home accessories you might own. Having a smart home hub in your room is convenient if you’d like to turn smart plugs and light bulbs on and off without having a smart speaker around.\nThe TV’s only glaring technical limitation is its 60Hz refresh rate, which isn’t a surprise given its affordable price. This may be hinderance for gamers who want crave fast frame rates, but likely not for those primarily streaming TV shows and movies. The E6 has three HDMI 2.0 ports, so you can play video games or watch movies in 4K.\nHisense’s E6 is a fully-featured budget TV, especially if you want a smaller set. You can also get the 65-inch model for $367.99 ($182 off) and 75-inch model for $527.99 ($270 off) if you want the same features in a larger TV.\nHisense E6\nHisense’s E6 supports Dolby Vision, has an AI processor to make older videos look clearer on a 4K set, and has built-in support for Amazon Alexa.\n\nWhere to Buy:\n\n $379.99 $237.99 at Amazon (50-inch)\n $429.99 $259.99 at Amazon (65-inch)\n $799.99 $527.99 at Amazon (75-inch)\n\nRoku Plus\nIf you can stretch your budget a bit further, the 65-inch Roku Plus TV is an excellent TV for $499.99 ($150 off) at Amazon and Best Buy. It has a 60Hz Mini LED panel with full-array local dimming, which means the screen is lit by many LEDs as opposed to fewer ones. The result is even brightness across the entire TV so some sections don’t look abnormally bright or dim. Roku’s Plus TV supports Dolby Vision HDR, and has a “Smart Picture Max” viewing mode that uses AI to automatically adjust picture settings based on what you’re watching.\nOne of the Roku Plus TV’s biggest advantages is Roku OS, which we’ve found to be a very user-friendly TV operating system because of its clean interface and large icons. The operating system is also smart home assistant agnostic, which means you can control it using Amazon Alexa or Google Assistant if you connect it to a smart speaker. The TV also supports AirPlay, so you can wireless stream music or videos onto it from an Apple device. You can even mirror your Apple device’s screen, which comes in handy if you’d like to present photos or videos on your TV.\nThe Roku Plus’ remote has a built-in microphone, which you can activate with the push of a button to access the OS’ voice assistant. It also has a programmable “quick launch” button that you can assign to an open an app or setting. If you want to watch movies or play games late at night without waking anyone up, the TV’s “Bluetooth Headphone Mode” lets you connect any pair you’ve got.\nRoku Plus TV\nRoku’s 65-inch Plus TV had a Mini-LED panel, supports Amazon Alexa, Google Assistant, and Apple AirPlay, and runs Roku OS, which we find easy to use for less tech savvy folks.\n\nWhere to Buy:\n\n $649.99 $499.99 at Amazon (65-inch)\n $649.99 $499.99 at Best Buy (65-inch)\n $899.99 $649.99 at Best Buy (75-inch)\n\nThe best deals on high-end 4K TVs\nSony Bravia 8 II OLED\nIf you want a TV that produces reference-quality images, Sony’s Bravia 8 II (K65XR80M2) is the best choice. It was recently selected as the top TV in Valve Electronics’ 10th annual TV Shootout based on objective and subjective tests conducted by a panel of experts comparing each set to the image on a $43,000 reference monitor (Disclosure: Verge editor-in-chief Nilay Patel was one of the judges). The 55-inch model also recently received a substantial price cut, dropping it to $2,498.99 ($501 off) at Amazon and B&H Photo.\nSony’s premium set has a 120Hz refresh rate panel, with two HDMI 2.1 ports that support 4K at 120Hz, and two HDMI 2.0 ports that top out at 4K / 60Hz. It doesn’t support Nvidia’s G-Sync or AMD’s FreeSync Pro, so there aren’t any specific features on this TV that PC gamers can take advantage of. Sony calls the Bravia 8 II its brightest OLED screen yet, and testing conducted by Hometheaterreview found its maximum brightness was 1,880 nits when viewing HDR content. Its predecessor topped out at 1,300 nits HDR video, or roughly 44 percent dimmer. \nThe TV runs on Sony’s XR processor, which uses AI to adjust the color, contrast, and clarity of whatever you’re watching in real time to look better. The judges in the aforementioned TV Shootout chose Sony’s set as the best model for SDR (Standard Dynamic Range) processing, but third of four models compared for HDR (High Dynamic Range) processing. Any OLED TV can show true black, but judges agreed that the Bravia 8 II pulled ahead in grayscale and contrast when viewing SDR video.\nSony says its TV has modes calibrated for Netflix, Prime Video, and its own Sony Pictures Core streaming services, too. Sony Picture Core is a streaming service that’s available on select Bravia TVs and Sony gaming consoles, and allows you to stream or download 4K movies at far higher bitrates than competing services. The Bravia 8 II comes with 10 credits, which you can use to download movies for offline viewing, and two years of unlimited streaming for films in its catalogue.\nIf you want this TV in a larger size, Amazon, Best Buy, and B&H Photo are offering the 65-inch model for around $2,998 ($502 off).\nSony Bravia 8 II\n\nWhere to Buy:\n\n $2999.99 $2498 at Amazon (55-inch)\n $2999.99 $2498 at B&H Photo (55-inch)\n $3499.99 $2998 at Amazon (65-inch)\n\nLG C4 OLED\nThe last-gen LG C4 remains one of the best OLED TVs you can buy, and the 65-inch model is currently on sale for around $1,296.99 ($1,403 off) at Amazon, B&H Photo, and Best Buy. Like LG’s newer C5 OLED, it has a 120Hz panel with support for VRR, Nvidia G-Sync, and AMD FreeSync Premium (the option exists to enable a 144Hz mode if you dig in the TV’s options). Its embedded A9 AI Processor Gen7 offers higher-quality video upscaling and image optimization compared to the C3. The biggest difference between the C4 and C5 is their maximum brightness. The C4 tops out at an advertised 1,000 nits, while the C5 tops out at around 1,165 according to tests conducted by Tom’s Guide.\nAdditionally, the C4 features a three-channel audio system, which might sound impressive compared to other TVs, but still can’t compete with a soundbar. When you’re not watching videos or playing games, you can also enable the C4’s Gallery Mode to display art. Basically, the LG C4 offers many of the same features as the C5, but retails for nearly $400 less. You can also save on the 77-inch model, which is on sale for $1,896.96 ($1,803 off) at B&H Photo.\nLG C4\n\nWhere to Buy:\n\n $1596.99 $1296.99 at B&H Photo (65-Inch)\n $1599.99 $1296.99 at Amazon (65-Inch)\n $3496.99 $1896.99 at B&H Photo (77-Inch)\n\nSony A95L\nSony’s 55-inch A95L is a premium TV with features that should appeal to gamers and cinephiles alike, and you can get it for $1,598 ($1,102 off), a return to its all-time low price at Amazon and Best Buy. The TV has a 120Hz panel and two HDMI 2.1 ports (four HDMI ports total), so you can play games in 4K at up to 120 frames per second. Its two HDMI 2.0 ports are fine for last-gen consoles like the original Nintendo Switch. If you connect a PS5, the TV will adjust its video settings based on the genre of game you’re playing, which is a nice touch, but games on that console will look incredible on any OLED set.\nSony’s Cognitive Processor XR powers the A95L, which enables better motion processing so sports and games look less blurry. It also claims to improve the contrast and colors compared to previous generation Sony TVs. It has a peak brightness of 1,300 nits according to lab tests by Tom’s Guide, which is higher than most of the other OLED TVs we found on sale.\nThe A95L is a Bravia-series TV, which means it can access Sony’s Picture Core. This video on demand service has the highest-bitrate (aka video quality) of any streaming platform, which means what you watch will look closer to an uncompressed 4K Blu-ray than a 4K stream from Netflix. Its library is limited, but Sony includes 10 credits with A95L, so you can download movies to keep forever, and a 24-month subscription that lets you stream videos from the library.\nIf you want a higher-end OLED TV, Sony’s A95L is a great choice and has features you won’t find on non-Sony TVs. You can also get the 65-inch model on sale for around $1,998 ($1,502 off), which matches its all-time low price at Amazon and Best Buy.\nSony A95L\n\nWhere to Buy:\n\n $2799 $1598 at Amazon (55-Inch)\n $2699 $1598 at Best Buy (55-Inch)\n\nUpdate, October 14th: Updated pricing / availability, and added deals on Hisense’s E6 and Roku’s Plus TV.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "b08f388136b0203edeea223e5d23d8ca5e37d1ff",
-      "title": "Red Cross receives bodies of four more Israeli hostages; Trump says Hamas must disarm ‘or we will disarm them’ – live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/14/gaza-ceasefire-israel-hamas-palestine-hostages-detainees-truce-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-14T19:59:58.000Z",
-      "summary_90w": "",
-      "raw": "Israeli military says more remains of hostages have been handed over by Hamas; US president says disarming could happen ‘quickly and perhaps violently’ \n\nDespite the ceasefire agreement, a medical source told Palestinian news agency Wafa today that four people were killed when Israeli drones fired at residents inspecting their homes in Gaza’s eastern Shejaiya neighbourhood. We have not yet been able to independently verify this information.\nIsrael’s military said it opened fire on people who it says approached Israeli forces operating in the northern Gaza Strip.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -325,19 +390,6 @@
       "raw": "OpenAI will soon allow “erotica” for ChatGPT users who verify their age on the platform. In an X post on Tuesday, OpenAI CEO Sam Altman said the company will add support for mature conversations when it launches age-gating in December.\n“As we roll out age-gating more fully and as part of our ‘treat adult users like adults’ principle, we will allow even more, like erotica for verified adults,” Altman writes. Earlier this month, OpenAI hinted at allowing developers to create “mature” ChatGPT apps after it implements the “appropriate age verification and controls.”\nOpenAI isn’t the only company dipping into erotica, as Elon Musk’s xAI previously launched flirty AI companions, which appear as 3D anime models in the Grok app. \nAlong with the addition of “erotica”, OpenAI also plans on launching a new version of ChatGPT that “behaves more like what people liked about 4o.” Just one day after making GPT-5 the default model powering ChatGPT, OpenAI brought back GPT-4o as an option after people complained the new model was less personable.\nAltman said OpenAI made ChatGPT “pretty restrictive to make sure we were being careful with mental health issues,” adding that the company realized this change made the chatbot “less useful/enjoyable to many users who had no mental health problems.” OpenAI has since launched tools to “better detect” when a user is in mental distress. \nOpenAI also announced the formation of a council on “well-being and AI” to help shape OpenAI’s response to “complex or sensitive” scenarios. The council is comprised of a team of eight researchers and experts who study the impact of technology and AI on mental health. But, as Ars Technica points out, it doesn’t include any suicide prevention experts, many of whom recently called on OpenAI to roll out additional safeguards for users with suicidal thoughts.\n“Now that we have been able to mitigate the serious mental health issues and have new tools, we are going to be able to safely relax the restrictions in most cases,” Altman writes in his post on X.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "835e106b8d4ce8d4b70bfabfd2d4232cc7dbf197",
-      "title": "Israel limits aid and keeps Rafah crossing closed in dispute over hostage remains",
-      "url": "https://www.theguardian.com/world/2025/oct/14/israel-limits-aid-keeps-rafah-crossing-closed-dispute-hostage-remains",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-14T17:42:31.000Z",
-      "summary_90w": "",
-      "raw": "Tensions still high as Israel accuses Hamas of breaching agreement by withholding bodies of 24 hostages\n\nGaza ceasefire – live updates\n\nThe fragile ceasefire in Gaza faced its first test on Tuesday when Israel said the flow of aid into the devastated Palestinian territory would be cut by half and the crucial Rafah border crossing with Egypt would not open as planned, accusing Hamas of breaching the US-brokered agreement by withholding the bodies of Israeli hostages.\nOn Monday, Israelis celebrated the return of the last 20 living hostages in Gaza and Palestinians rejoiced at Israel’s release of nearly 2,000 detainees as part of the ceasefire’s first phase.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -666,19 +718,6 @@
       ]
     },
     {
-      "id": "58342c167a4711a893568cc2ff88986cf07d35b8",
-      "title": "Motorola has a super-thin Air phone too",
-      "url": "https://www.theverge.com/news/799159/motorola-has-a-super-thin-air-phone-too",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-14T15:20:15.000Z",
-      "summary_90w": "",
-      "raw": "Thin phones are in, and Motorola doesn’t want to miss out. It’s teasing the imminent launch of the X70 Air in China, a slim phone with an unexpectedly big battery, which we’re expecting to see launch in Europe as the Edge 70 soon too.\nThe X70 Air is less than 6mm thick, putting it in the same territory as the 5.6mm iPhone Air and 5.8mm Galaxy S25 Edge, and weighs just 159g. Despite that, its 4,800mAh battery is far larger than either of those phones’, which will be a big part of its appeal. It’s not a small phone otherwise, with a 6.7-inch display, and the Snapdragon 7 Gen 4 chipset won’t deliver flagship power, but it’s likely to cost a good deal less than the Samsung and Apple phones.\nThe X70 Air goes on sale in China on October 31st, while Motorola is teasing an Edge phone launch in Europe for November 5th which is likely the same model.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "68a6bbc4b56eed064d7b68ded820385b3db13a88",
       "title": "Google updates Search and Discover with collapsible ads, AI features, and more",
       "url": "https://techcrunch.com/2025/10/14/google-updates-search-and-discover-with-collapsible-ads-ai-features-and-more/",
@@ -752,19 +791,6 @@
       "published": "2025-10-14T15:03:30.000Z",
       "summary_90w": "",
       "raw": "Flint raised a $5 million seed round led by Accel, with participation from Sheryl Sandberg’s fund, Sandberg Bernthal Venture Partners, and prior investor Neo.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "53277e1ddf430d94cdfcfce5546479beadeffd22",
-      "title": "The latest Moto Razr Ultra foldable is an even better value at $999",
-      "url": "https://www.theverge.com/tech/799096/motorola-razr-ultra-2025-anker-nano-charging-station-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-14T14:50:00.000Z",
-      "summary_90w": "",
-      "raw": "Motorola’s Razr Ultra (2025) is $999.99 ($300 off) | Image: The Verge\t\n\nIf you’re on the fence about trying a foldable smartphone, Motorola’s Razr Ultra (2025) may be the one you’ve been waiting for, and you can pick it up for $999.99 ($300 off) at Amazon and Best Buy. Our reviewer praised its design (the wooden back panel has a layer of actual wood), and found Motorola still has the best software for foldables. Conveniently, in our reviewer’s tests, the phone’s outer screen was large enough to quickly check notifications without opening it up and running the risk of getting distracted. \nMotorola Razr Ultra (2025)\nMotorola has pulled out all the stops for its latest high-end flip phone with top-notch performance, great battery life, and luxurious finish options.\n\nWhere to Buy:\n\n $1299.99 $999.99 at Amazon (512GB)\n $1299.99 $999.99 at Best Buy (512GB)\n $1299.99 at Motorola (512GB)\n\nThe Razr Ultra has two displays: a 4-inch 1080p outer screen, and a 7-inch 1224p screen when the phone is unfolded. Both screens look sharp, but the exterior display isn’t quite bright enough to use comfortably in direct sunlight. Its hinge had better resistance than Razr’s previous models, and its IP48 rating means it shouldn’t be damaged even when immersed in one meter of water. It’s not fully dust resistant, though it held up well when carried around in a dusty tote. Still, you should be careful when using it around sand. Motorola guarantees three years of OS upgrades for the Razr Ultra, which is respectable, but Samsung guarantees six years of OS and security updates for the Flip 6.\nIt’s 2025, so of course the smartphone has baked-in AI features, including notification summaries, and the ability to initiate a live transcription when you begin a voice recording. These features were hit or miss in our tests, but Motorola was bullish enough on them to stick a dedicated AI button on the Razr Ultra. A single long press or double press will launch these functions. If you don’t want to hit a button, the smartphone’s Moto AI app is available on its home screen.\nMotorola equipped the Razr Ultra with 16GB of RAM, 512GB of storage, and the Snapdragon 8 Elite chipset. It supports wired charging at up to 68W and wireless charging up to 30W, and its battery lasted all day without dipping into the red. Its dual-lens rear camera system compromises a 50-megapixel wide and 50-megapixel ultrawide lens. Its selfie camera is also 50 megapixels, and we could get great shots from them in good lighting conditions, though it can be a little heavy-handed on the image processing. Read our review.\nThree more great deals\nAnker’s 7-in-1 Nano Charging Station is a compact and convenient way to keep a lot of your gadgets topped up, and it’s $59.99 ($30 off)—a new all-time low—at Amazon and from Anker with promo code WS7DV2GZULDK. The 100W charger has two retractable USB-C cables, three outlets, one USB-C port, and a USB-A port. An LCD screen will show which cables or ports are in use and how much power they’re drawing. The Nano Charging Station has a high enough output to charge a 16-inch MacBook Pro from zero to 50 percent in a little over a half hour. \nIn our tests the Amazfit Band 7 was so feature packed our reviewer felt she was “getting away with something” given its low price. Right now you can get it for around $39.99 ($10 off) at Amazon and Best Buy. The fitness band lasts around two weeks on a full charge, and can track your activity, heart, sleep, stress, and menstrual cycle. It’ll surface your notifications on its modestly-sized 1.47-inch OLED screen. The Amazfit Band 7’s GPS tracking wasn’t accurate enough for us to recommend it for serious runners training for a race, but if you want an inexpensive fitness tracker, you’ve found it. Read our review. \nIf you’re planning on sneaking in some autumnal camping, you can pick up Colman’s Cascade Classic Camping Stove for $118.99 ($21 off) at Campmor. The 11-pound, dual-burner, propane-powered stove offers up to 20,000 BTUs of cooking power, and can run for up to an hour when connected to a 16 ounce propane cylinder. It can accommodate a 12-inch and 10-inch pan simultaneously, so you can cook larger portions of food at once.",
       "topics": [
         "Technology"
       ]
@@ -975,19 +1001,6 @@
       "raw": "The far-right activist was charged under the Terrorism Act over an incident at the Channel Tunnel in July 2024.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "80c20e510dae11352226e875482da23e6d69927a",
-      "title": "Aquawise will show off its AI-driven water quality tech at TechCrunch Disrupt 2025",
-      "url": "https://techcrunch.com/2025/10/14/aquawise-will-show-off-its-ai-driven-water-quality-tech-at-techcrunch-disrupt-2025/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-14T13:08:39.000Z",
-      "summary_90w": "",
-      "raw": "Aquawise uses satellite images and a physics-based AI model to monitor and predict water quality at aquaculture farms.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1537,19 +1550,6 @@
       ]
     },
     {
-      "id": "56241d0b192fbf7d4eea7ba118babbd8edec5092",
-      "title": "Mexico floods leave at least 64 dead and 65 missing, authorities say",
-      "url": "https://www.theguardian.com/world/2025/oct/13/mexico-floods-deaths-missing",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-13T15:05:18.000Z",
-      "summary_90w": "",
-      "raw": "Overflowing rivers swept through entire villages, triggered landslides and swept away roads and bridges\nThe death toll from flooding in central and eastern Mexico has risen sharply to at least 64, with another 65 still missing, authorities said on Monday.\nThe flooding, caused by intense rainfall, was focused mostly in the Veracruz, Hidalgo and Puebla states, said Laura Velázquez, the head of Mexico’s civil defense authorities.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1c3b4f723af9ddd3eb4ad020e8749790c083bca4",
       "title": "Kids who use social media score lower on reading and memory tests, a study shows",
       "url": "https://www.npr.org/sections/shots-health-news/2025/10/13/nx-s1-5571050/social-media-teens-brains-reading-memory",
@@ -1844,6 +1844,19 @@
       "published": "2025-10-09T13:09:27.000Z",
       "summary_90w": "",
       "raw": "Financial educators bust three common myths about credit card debt — and explain why these negative assumptions can hold us back from making smart money decisions.",
+      "topics": [
+        "Business"
+      ]
+    },
+    {
+      "id": "99963ef39f0b9d118e426e05412db2d89ddc292b",
+      "title": "Trump threatens 'massive' tariffs and cancelling meeting after China's rare earth curb",
+      "url": "https://www.npr.org/2025/10/09/g-s1-92685/china-curbs-rare-earth-exports-raising-stakes-before-trump-xi-talks",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2025-10-09T12:46:51.000Z",
+      "summary_90w": "",
+      "raw": "President Trump responded to Beijing's announcement this week to put new restrictions on exports of rare earths. Trump and President Xi had planned to meet at the end of the month.",
       "topics": [
         "Business"
       ]
