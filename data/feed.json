@@ -1,18 +1,70 @@
 {
-  "version": "1760399494282",
-  "generatedAt": "2025-10-13T23:51:34.282Z",
+  "version": "1760403106333",
+  "generatedAt": "2025-10-14T00:51:46.333Z",
   "items": [
+    {
+      "id": "1df410fb266cb34d8ebfc84da05334a17ee6055b",
+      "title": " Dutch government takes control of China-owned chip firm",
+      "url": "https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-14T00:43:23.000Z",
+      "summary_90w": "",
+      "raw": "The move, which is aimed to protect supplies of technology, could raise tensions between the EU and China.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "97c7960294b5abf0075c0f18949a00625c8d8346",
       "title": "News live: record year for EV sales; Venezuela to close Australian embassy; hiker still missing in Tasmania",
       "url": "https://www.theguardian.com/australia-news/live/2025/oct/14/australia-news-live-jim-chalmers-superannuation-concession-tax-cybercrime-anthony-albanese-sussan-ley-coalition-penny-wong-israel-gaza-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-10-13T23:36:08.000Z",
+      "published": "2025-10-14T00:39:34.000Z",
       "summary_90w": "",
       "raw": "Large-scale search resumes in Mount Field national park for solo walker Daryl Fong, missing for more than 48 hours. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nThe acting prime minister, Richard Marles, has echoed Penny Wong in crediting Donald Trump with securing the release of all remaining Israeli hostages from Gaza.\nSpeaking to Channel Nine’s Today show earlier, Marles said:\nI think you have to acknowledge and give credit to President Trump and administration. This is an achievement that is incredible and will be remembered by history. And I think now is the moment to take this move forward and ensure that what we are seeing here is an enduring [peace] in the Middle East.\nWe’ve not had any requests of that kind and I wouldn’t speculate on that other than to say, you know, obviously we would seek to be as constructive as we can … [as] we’ve tried to be over the last two years. But really, it is now for all of the parties to commit to every point of this plan and make sure that this lasts.\nWhat we did yesterday was we wound back some of the generosity of the tax concessions for the biggest balances at the same time as we increased the low-income super tax offset so that young people on low incomes can retire with more money. And this is precisely what we’re talking about when we’re talking about intergenerational equity.\nI think people know that that’s a big priority for me, and that’s what these changes are exactly all about.\n Continue reading...",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "c8def946a1e3e3b8ca6422f913a80af65a301084",
+      "title": "SpaceX launches 11th test flight of its mega Starship rocket",
+      "url": "https://www.npr.org/2025/10/13/nx-s1-5573520/space-x-eleventh-test-flight-starship",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-14T00:37:12.000Z",
+      "summary_90w": "",
+      "raw": "Starship, the biggest and most powerful rocket ever built, thundered into the evening sky from the southern tip of Texas.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b68dba1bc1353f36fcf7211abc36cacbccb2d8b5",
+      "title": "The Papers: 'Two years of torment over' and Trump declares 'historic dawn'",
+      "url": "https://www.bbc.com/news/articles/cd0453xd72yo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-14T00:21:58.000Z",
+      "summary_90w": "",
+      "raw": "Every paper on Tuesday leads with the release of Israeli hostages, and the next phase of the ceasefire.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "10ce4cfc46059716bed34a39209c77c7a89a5490",
+      "title": "Nvidia’s ‘personal AI supercomputer’ goes on sale October 15th",
+      "url": "https://www.theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-14T00:04:01.000Z",
+      "summary_90w": "",
+      "raw": "Nvidia’s DGX Spark computer.\t\n\nNvidia will start selling its DGX Spark “personal AI supercomputer” this week. The machine is powerful enough to let users work on sophisticated AI models but small enough to fit on a desktop.  \nNvidia said Spark can be ordered online at nvidia.com starting Wednesday, October 15th, as well as from select partners and stores in the US. It said units would cost $3,000 when it revealed Spark earlier this year, but it appears the DGX Spark will now cost $3,999, according to an infographic embedded in Nvidia’s press release. Most PC makers have their own customized version, with the Acer Veriton GN100, as one example, also costing $3,999.\nSpark boasts the kind of performance that once required access to pricey, energy-hungry data centers. It could help democratize AI and would be particularly useful for researchers. When first announcing Spark earlier this year (then called Digits), Nvidia CEO Jensen Huang said “placing an AI supercomputer on the desks of every data scientist, AI researcher and student empowers them to engage and shape the age of AI.” \nBuyers can expect to see a variety of similar models on the market as Nvidia has said third-party manufacturers are welcome to make their own versions. Acer, Asus, Dell, Gigabyte, HP, Lenovo, and MSI are all debuting their own customized versions of Spark, Nvidia confirmed today.\nSpark comes with Nvidia’s GB10 Grace Blackwell Superchip, 128GB of unified memory, and up to 4TB of NVMe SSD storage. Nvidia says it can deliver a petaflop of AI performance — meaning it can do a million billion calculations each second — and is capable of handling AI models with up to 200 billion parameters. It’s also small, comfortably fitting on a desk and running from a standard power outlet. Nvidia calls it “the world’s smallest AI supercomputer.” \nWe agree: it really is quite tiny. Spark also has a bigger brother, Station, though there’s no word on when or if that might hit the general market.  \nCorrection, October 13th: An earlier version of this story misstated that the DGX Spark was “now available to buy.” It will actually go on sale October 15th.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -89,6 +141,19 @@
       "published": "2025-10-13T22:13:01.000Z",
       "summary_90w": "",
       "raw": "The SNP are not only hopeful of victory at next year's Scottish election, but are even talking of an outright majority.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3d60a1c46f16315551f0df5697dee8b96891f265",
+      "title": "Could I have saved my parents if I'd been taught CPR? ",
+      "url": "https://www.bbc.com/news/articles/cddm1lrjy7lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-13T22:00:04.000Z",
+      "summary_90w": "",
+      "raw": "Cameron McGerr lost both his parents and is campaigning to have life-saving first aid taught in schools.",
       "topics": [
         "World"
       ]
@@ -193,19 +258,6 @@
       "published": "2025-10-13T20:50:10.000Z",
       "summary_90w": "",
       "raw": "UN warns Gaza still needs ‘lifesaving aid’ as world leaders gather in Sharm el-Sheikh to discuss 20-point proposal\nThere was a rare moment of joy among Israelis and Palestinians on Monday as Hamas released the remaining 20 living hostages in Gaza as part of a swap deal for nearly 2,000 Palestinian detainees, on a day world leaders met in Egypt to try to ensure the current limited truce is extended into a durable peace.\n“The prayers of millions have finally been answered,” Donald Trump declared at the peace summit, with his counterparts lined up behind him. “At long last, we have peace in the Middle East.”\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1aac3966e7241832fbedef423d9817cf09586f10",
-      "title": "Israel-Gaza: Hostages Returned, Prisoners Released",
-      "url": "https://www.bbc.co.uk/sounds/play/p0m8f3sw?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-13T19:46:00.000Z",
-      "summary_90w": "",
-      "raw": "Trump and regional leaders sign document to cement Gaza ceasefire deal.",
       "topics": [
         "World"
       ]
@@ -705,19 +757,6 @@
       ]
     },
     {
-      "id": "87875883cae944f7f9154b39e28ae355a59af56a",
-      "title": "Palmer Luckey&#8217;s Anduril launches EagleEye military helmet with help from buddy Zuck",
-      "url": "https://www.theverge.com/news/798821/anduril-eagleeye-palmer-luckey-mark-zuckerberg-meta-military-mr",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-13T14:44:49.000Z",
-      "summary_90w": "",
-      "raw": "EagleEye includes “helmet-native hardware\" designed for the battlefield.\t\n\nAnduril, the military tech company founded by Oculus creator Palmer Luckey, has announced the first hardware to come out of its recent partnership with Meta: EagleEye, an AI-powered mixed-reality (MR) system designed to be built into soldiers’ helmets.\nThe modular hardware is a “family of systems,” according to Anduril’s announcement, including a heads-up display, spatial audio, and radio frequency detection. It can display mission briefings and orders, overlay maps and other information during combat, and control drones and military robotics.\n“We don’t want to give service members a new tool—we’re giving them a new teammate,” says Luckey. “The idea of an AI partner embedded in your display has been imagined for decades. EagleEye is the first time it’s real.”\nAnduril, which also manufactures border control tech, lethal drones, and military aircraft, has been developing EagleEye since its inception, and already provides software for the Army’s existing MR goggles, based on Microsoft’s HoloLens hardware. \nIts partnership with Meta was announced this May, and the company told TechCrunch at the time that the collaboration was to develop EagleEye. It’s a reunion of sorts for Luckey and Mark Zuckerberg, after Meta purchased Luckey’s then-start-up Oculus in 2014 and fired the founder three years later. \n“I am glad to be working with Meta once again,” Luckey said in a blog post at the time. “My mission has long been to turn warfighters into technomancers, and the products we are building with Meta do just that.”",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "a95e170b65fd992c1fd947054fb64ef4bb0a5872",
       "title": "The controversy over the collapsed China spy case explained",
       "url": "https://www.bbc.com/news/articles/ceq057734w1o?at_medium=RSS&at_campaign=rss",
@@ -965,19 +1004,6 @@
       ]
     },
     {
-      "id": "c6c7f2920a2440de8c167cba161f12b024cabfb3",
-      "title": "Natural gas prices are low, but your monthly gas bill is up. Here's why",
-      "url": "https://www.npr.org/2025/10/13/nx-s1-5558384/gas-utility-prices-home-climate",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-10-13T11:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Gas utility bills are rising even though natural gas prices are down. That's because a much larger share of your gas bill now goes to infrastructure instead of fuel.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8f165c82658852d1c8483e1b64cf9da038096b6c",
       "title": "Portugal’s far-right Chega falls well short of expectations in local elections",
       "url": "https://www.theguardian.com/world/2025/oct/13/portugal-far-right-chega-falls-well-short-local-elections",
@@ -1090,19 +1116,6 @@
       "published": "2025-10-13T09:44:36.000Z",
       "summary_90w": "",
       "raw": "The Israeli military says 20 living hostages have been released by Hamas and have returned to Israel.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1df410fb266cb34d8ebfc84da05334a17ee6055b",
-      "title": "Dutch government takes control of China-owned chip firm",
-      "url": "https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-13T09:25:50.000Z",
-      "summary_90w": "",
-      "raw": "The move, which is aimed to protect supplies of technology, could raise tensions between the EU and China.",
       "topics": [
         "World"
       ]
@@ -2067,19 +2080,6 @@
       "raw": "The creator of ICEBlock accuses the tech giant of \"capitulating to an authoritarian regime\" by removing his app.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "d104f68e1c5c0496fc4bb73dfe8a44f1fede2d7b",
-      "title": "Watch on iPlayer: The Big Cases - Murdered by his Grandparents",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002j88v?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-03T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The tragic case of two-year-old Ethan who was abused and killed by his grandparents.",
-      "topics": [
-        "World"
       ]
     },
     {
