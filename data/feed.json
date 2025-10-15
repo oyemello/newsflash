@@ -1,7 +1,46 @@
 {
-  "version": "1760556532175",
-  "generatedAt": "2025-10-15T19:28:52.175Z",
+  "version": "1760557047584",
+  "generatedAt": "2025-10-15T19:37:27.584Z",
   "items": [
+    {
+      "id": "6fb1424adc55f02f16169033fc4588c514e8fc05",
+      "title": "Cracked windscreen forces US defence secretary's plane to make unscheduled landing in UK",
+      "url": "https://www.bbc.com/news/articles/cd67qe0255vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-15T19:29:34.000Z",
+      "summary_90w": "",
+      "raw": "The Pentagon says Hegseth and other military leaders on board, who were travelling back from a Nato meeting, are safe.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "377ae4069d4b77e968ff74ade005e5732506b3e8",
+      "title": "Gaza ceasefire live: Trump reportedly says Israel could resume fighting if Hamas fails to uphold agreement",
+      "url": "https://www.theguardian.com/world/live/2025/oct/15/gaza-ceasefire-israel-hamas-palestine-aid-hostages-detainees-prisoners-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-15T19:28:37.000Z",
+      "summary_90w": "",
+      "raw": "US president tells CNN ‘as soon as I say the word’ Israel would resume Gaza attacks as Hamas talks of difficulty finding remaining bodies of hostages \n\nIsrael reportedly pulls back from threat to slash humanitarian aid entering Gaza\n\nThe Israeli military said on Wednesday that one of the bodies handed over by Hamas the previous day as part of the ceasefire deal is not that of one of the hostages who was held in Gaza.\n\r\n Four bodies were handed over by Hamas on Tuesday to ease pressure on the fragile ceasefire, after the first four on Monday – when the last 20 living hostages were released.\n\r\n The military said that “following the completion of examinations at the National Institute of Forensic Medicine, the fourth body handed over to Israel by Hamas does not match any of the hostages”.\nIn the north of the territory, as Israeli forces withdrew from Gaza City, the Hamas government’s black-masked armed police resumed street patrols, reports Agence France-Presse (AFP).\nOur message is clear: There will be no place for outlaws or those who threaten the security of citizens.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "66a1eaa6ff6f459ca945daeefc62efb2dd63217b",
+      "title": "The iPad just got the chip it needs to be a smart home controller — again",
+      "url": "https://www.theverge.com/news/799911/ipad-pro-thread-smart-home-apple-home-hub",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-15T19:25:24.000Z",
+      "summary_90w": "",
+      "raw": "The Apple-designed N1 wireless networking chip brings Thread to the iPad Pro. | Image: Apple\t\n\nApple’s new M5-powered iPad Pro is the first iPad to officially support the Thread smart home protocol. It comes with Apple’s new N1 wireless networking chip, which adds Wi-Fi 7, Bluetooth 6, and Thread — the three wireless protocols the Matter smart home standard runs on. \nWhile other iPads and Macs reportedly have Thread radios, this is the first model launching with the protocol publicly listed in the specs, and it could lay the groundwork for the iPad to be a Home hub — again. \nSo, what does this mean? Well, not much right away. Just as the answer to why Apple added Thread to iPhones starting with the iPhone 15 Pro wasn’t immediately clear, the company also hasn’t said why it’s on the new iPad.\n The most likely scenario is that, as eventually emerged with Thread-enabled iPhones, you’ll be able to use the iPad Pro to set up a Thread smart home device in your home, even if you don’t have a Thread border router.\nThis makes adding a Thread device — like a smart light, lock, or plug — easier as you won’t need to go buy an extra product just to use the one you bought. (Although some functionality may be limited until you get a border router.) \n\nApple could be considering bringing the iPad back into the Home hub fold\n\n\nThe iPad wouldn’t work as a Thread border router, as they need to be mains-powered devices, but having a Thread radio in a mobile device does allow for direct control of Thread gadgets, improving reliability and speed. And, if you already have a Thread border router but the power goes out, your iPad can step in to talk to battery-powered Thread devices such as smart locks.\nApple has been using Thread in Apple Home for several years now, since the launch of the HomePod Mini in 2020. The protocol offers several benefits in the smart home, including reduced latency, lower power use, and more reliable local control. While there aren’t many Thread devices available yet, the number is growing.\nThe less likely — but more intriguing — possibility is that Apple could be considering bringing the iPad back into the Home hub fold. \nFor years, any iPad could serve as an Apple Home hub, running automations and enabling remote control away from home. But when Apple introduced its new Home Architecture in 2022 as part of its transition to Matter, the iPad was eventually deprecated as a hub. While you can still control devices and create automations on an iPad with the Home app, you now need a separate hub, such as an Apple TV or HomePod Mini, for those more advanced features.\nWhile we’re all waiting for Apple’s long-rumored HomePod smart display to arrive, bringing back the iPad as a Home hub would be a welcome move. However, Thread-enabled Home hub capabilities would be more useful on lower-cost models or more compact ones, such as the iPad Mini — using a $1,000 M5 iPad Pro to run your smart home feels like overkill.\nAnother reason I’m intrigued to see the N1 arrive in the iPad Pro is that it feels like a safe bet that we’ll see it again soon in future products, such as the rumored new Apple TV and HomePod Mini 2. Alongside upgraded processors, the N1 addition could give both those devices a big boost as smart home hubs by improving speed, responsiveness, and reliability.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "c3750ef3365df56eff15b4dcb11f6eb8f567f344",
       "title": "Apple adds 650 megawatts of renewables in Europe with more coming in China",
@@ -13,19 +52,6 @@
       "raw": "Apple is adding renewable power to offset customer charging and support its operations, including third-party manufacturing in China.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "377ae4069d4b77e968ff74ade005e5732506b3e8",
-      "title": "Gaza ceasefire live: Trump reportedly says Israel could resume fighting if Hamas fails to uphold agreement",
-      "url": "https://www.theguardian.com/world/live/2025/oct/15/gaza-ceasefire-israel-hamas-palestine-aid-hostages-detainees-prisoners-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-15T19:15:11.000Z",
-      "summary_90w": "",
-      "raw": "US president tells CNN ‘as soon as I say the word’ Israel would resume Gaza attacks as Hamas talks of difficulty finding remaining bodies of hostages \n\nIsrael reportedly pulls back from threat to slash humanitarian aid entering Gaza\n\nThe Israeli military said on Wednesday that one of the bodies handed over by Hamas the previous day as part of the ceasefire deal is not that of one of the hostages who was held in Gaza.\n\r\n Four bodies were handed over by Hamas on Tuesday to ease pressure on the fragile ceasefire, after the first four on Monday – when the last 20 living hostages were released.\n\r\n The military said that “following the completion of examinations at the National Institute of Forensic Medicine, the fourth body handed over to Israel by Hamas does not match any of the hostages”.\nIn the north of the territory, as Israeli forces withdrew from Gaza City, the Hamas government’s black-masked armed police resumed street patrols, reports Agence France-Presse (AFP).\nOur message is clear: There will be no place for outlaws or those who threaten the security of citizens.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -88,7 +114,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-10-15T19:00:45.000Z",
       "summary_90w": "",
-      "raw": "Adani has strongly rejected the Australia Institute’s findings, including that customers paid an average of $102 a tonne in 2022-23\n\nGet our breaking news email, free app or daily news podcast\n\nAdani has consistently sold coal from its Queensland mine far below market rates, according to claims made in new analysis, potentially reducing the royalties owed to the state government by hundreds of millions of dollars.\nResearch director at The Australia Institute, Rod Campbell, calculated that Adani sold thermal coal from its Carmichael mine at an average of just over $A100 a tonne during the 2023 to 2025 financial years – its first three full years of operation.\n Continue reading...",
+      "raw": "Adani has strongly rejected the Australia Institute’s findings, including that customers paid an average of $102 a tonne in 2022-23\n\nGet our breaking news email, free app or daily news podcast\n\nAdani has consistently sold coal from its Queensland mine far below market rates, according to claims made in new analysis, potentially reducing the royalties owed to the state government by hundreds of millions of dollars.\nThe research director at the Australia Institute, Rod Campbell, calculated that Adani sold thermal coal from its Carmichael mine at an average of just over $A100 a tonne during the 2023 to 2025 financial years – its first three full years of operation.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -115,19 +141,6 @@
       "published": "2025-10-15T19:00:00.000Z",
       "summary_90w": "",
       "raw": "One of the most listened-to genres in the Americas, photographers and storytellers Karla Gachet and Ivan Kashinsky document cumbia in Colombia, Mexico, Ecuador, Peru, Argentina and the United States.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6fb1424adc55f02f16169033fc4588c514e8fc05",
-      "title": "Cracked windscreen forces US defence secretary's plane to make unscheduled landing in UK",
-      "url": "https://www.bbc.com/news/articles/cd67qe0255vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-15T18:57:49.000Z",
-      "summary_90w": "",
-      "raw": "The Pentagon says Hegseth and other military leaders on board, who were travelling back from a Nato meeting, are safe.",
       "topics": [
         "World"
       ]
@@ -895,19 +908,6 @@
       "published": "2025-10-15T14:17:28.000Z",
       "summary_90w": "",
       "raw": "Spotify's AI DJ now takes text commands and accepts Spanish-language music requests by voice.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "6cff18cb99052b92d2807d597aab72f644f30117",
-      "title": "Honor’s Robot Phone concept features a fold-out camera arm",
-      "url": "https://www.theverge.com/news/799944/honor-robot-phone-tease-announcement",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-15T14:13:55.000Z",
-      "summary_90w": "",
-      "raw": "Have you ever wanted a DJI Osmo Pocket built into your phone?\t\n\nHonor has announced what it’s calling the “Robot Phone,” a concept device with an AI-enabled, gimbal-mounted camera that unfolds from the phone’s rear and can shoot photos and film video in any direction.\nThe phone — so far only seen in CGI form in a teaser video, with no glimpse of real hardware just yet — looks like a typical, albeit thick, smartphone. Instead of an Honor logo it bears an alpha, representing the company’s “Alpha Plan” corporate vision, and the main giveaway that something’s up is the chunky camera module, split into two parts.\nFrom here a camera arm unfolds with a cartoonish giggle (it… really does giggle, at least in the video), revealing that the main camera can flip up to take selfies, but also to shoot from a variety of positions and angles, seemingly moving under its own direction. That would make this a more advanced successor to the likes of 2019’s Asus Zenfone 6, which flipped its main cameras up and over to take selfie shots.\n\n\n\n\n\n\n\n\nIt looks for all the world like the mini gimbal camera on top of the DJI Osmo Pocket, though Honor’s video would like to give the impression that it’s been imbued with enough intelligence to frame photographs, soothe babies, and gaze in astonished wonderment at the stars above.\n“With the Robot Phone, Honor envisions the future phone as more than just a tool,” the company wrote in a press release. “It becomes an emotional companion that senses, adapts, and evolves autonomously like a robot, enriching its users’ lives with love, joy, and wisdom.”\n\n\n\n\nWe’ll find out more about the Robot Phone — and maybe even get the chance to see it in the flesh — when Honor reveals more at Mobile World Congress next spring.\nThe Robot Phone was Honor’s “One more thing…” announcement at the end of a more typical launch event for Honor’s two Magic 8 flagship phones, which go on sale in China this month and will launch internationally before the end of the year.",
       "topics": [
         "Technology"
       ]
