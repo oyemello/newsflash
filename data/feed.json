@@ -1,7 +1,20 @@
 {
-  "version": "1760632999115",
-  "generatedAt": "2025-10-16T16:43:19.115Z",
+  "version": "1760633856847",
+  "generatedAt": "2025-10-16T16:57:36.847Z",
   "items": [
+    {
+      "id": "a71d41a367bf54628f85ce45b20605796e9618f4",
+      "title": "Spotify working on AI music tools with major record labels",
+      "url": "https://www.bbc.com/news/articles/cn7emv83edjo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-10-16T16:48:01.000Z",
+      "summary_90w": "",
+      "raw": "The streaming service says it will respect artists' rights in creating new \"responsible\" AI products.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "f2e92bbc0fc9c18ded1abccd005c21609fb67c39",
       "title": "A new wave of social media apps provide hope in a doomscrolling world ",
@@ -29,16 +42,29 @@
       ]
     },
     {
-      "id": "a71d41a367bf54628f85ce45b20605796e9618f4",
-      "title": "Spotify working on AI music tools with major record labels",
-      "url": "https://www.bbc.com/news/articles/cn7emv83edjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-10-16T16:26:39.000Z",
+      "id": "bff559cf417d352fde0d3cf2a0da60724583170b",
+      "title": "Catalonia’s Socialist president: tackling inequality can blunt separatist and far-right voices",
+      "url": "https://www.theguardian.com/world/2025/oct/16/catalonia-socialist-president-salvador-illa-tackling-inequality-separatist-far-right-coexistence-madrid",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-16T16:31:21.000Z",
       "summary_90w": "",
-      "raw": "The streaming service says it will respect artists' rights in creating new \"responsible\" AI products.",
+      "raw": "In an interview, Salvador Illa tells of ‘pragmatic approach’ as he seeks to persuade voters about benefits of coexistence with Madrid\nCatalonia’s Socialist president has said his party’s focus on tackling inequality can win over voters who are tempted by pro-independence and far-right voices, as he seeks to persuade Catalans of the benefits of coexistence with the central government in Madrid after years of turmoil.\nSalvador Illa, a close ally of Spain’s prime minister, Pedro Sánchez, has been in the post since August 2024 and leads the first Catalan parliament in 44 years without a pro-independence majority.\n Continue reading...",
       "topics": [
-        "Technology"
+        "World"
+      ]
+    },
+    {
+      "id": "30dbda97d2d6b0a8861518c0f0784f2ffead58b3",
+      "title": "Brazil to ask countries to quadruple biofuel use, leak suggests",
+      "url": "https://www.theguardian.com/environment/2025/oct/16/brazil-ask-countries-quadruple-biofuel-use-leak-suggests",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-16T16:26:14.000Z",
+      "summary_90w": "",
+      "raw": "Exclusive: Document sets draft pledge for leaders gathering at climate conference to increase usage of controversial fuels\nBrazil will ask countries to quadruple the global use of controversial biofuels despite concerns from environmental experts, the Guardian has learned.\nA leaked document seen by the Guardian sets out a draft pledge for world leaders gathering at the climate conference next month in Brazil to increase the use of biofuels in the next decade by four times compared with 2024 levels.\n Continue reading...",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -302,19 +328,6 @@
       ]
     },
     {
-      "id": "30dbda97d2d6b0a8861518c0f0784f2ffead58b3",
-      "title": "Brazil to ask countries to quadruple biofuel use, leak suggests",
-      "url": "https://www.theguardian.com/environment/2025/oct/16/brazil-ask-countries-quadruple-biofuel-use-leak-suggests",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-16T15:07:14.000Z",
-      "summary_90w": "",
-      "raw": "Exclusive: Document sets draft pledge for leaders gathering at climate conference to increase usage of controversial fuels\nBrazil will ask countries to quadruple the global use of controversial biofuels despite concerns from environmental experts, the Guardian has learned.\nA leaked document seen by the Guardian sets out a draft pledge for world leaders gathering at the climate conference next month in Brazil to increase the use of biofuels in the next decade by four times compared with 2024 levels.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "3d0a13a57cf78dccd44dbde61ca65933b1d71f3a",
       "title": "Rating Raducanu's season - and what does future hold?",
       "url": "https://www.bbc.com/sport/tennis/articles/cp975ld0x58o?at_medium=RSS&at_campaign=rss",
@@ -377,19 +390,6 @@
       "raw": "Google is trying to capitalize on what it calls “frequent and severe” Microsoft 365 outages by offering up services like email, storage, and videoconferencing to businesses in the event of a Microsoft outage. The search giant’s new Business Continuity plan runs a Google Workspace in parallel with Microsoft 365, so if there’s an outage then businesses just switch over to Gmail and Google Meet instead of Outlook and Microsoft Teams.\n“Workspace, with support from our partners, will sync emails, calendars, chat, and more with Microsoft 365, so customer data is right where organizations need it, without requiring migration,” explains Google. “This can protect against disruptions to the core business and impacts to customers.”\nGoogle says “it’s a question of when and for how long, not if,” Microsoft 365 goes down, and points to the company’s Microsoft 365 Status account on X that regularly posts outages. The last Microsoft 365 outage occurred on October 8th, just days after a problematic configuration change impacted mailbox connectivity for users.\nAlongside the continuity option of running a parallel instance of Gmail, Google is also offering up a Work Transformation Set that acts as a replacement for Microsoft 365 customers that are “ready to leave behind Microsoft’s lock-in and security incidents.” It combines Workspace and Gemini with options to pair them with identity solutions like Okta.\nMicrosoft and Google have a long history of trading blows publicly like this. Both companies returned to battle each other last year, after Microsoft accused Google of being behind what it calls “shadow campaigns” to undermine and discredit Microsoft’s cloud business. More than a decade ago, Microsoft even ran attack ads that treated Google like a political opponent with its Scroogled campaign, accusing Google of snooping on consumers.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "1ff4849aa5a9f6c4fdc45e7a88772328011b7dbd",
-      "title": "Russian cyber-attacks against Nato states up by 25% in a year, analysis finds",
-      "url": "https://www.theguardian.com/world/2025/oct/16/russian-cyber-attacks-against-nato-states-up-by-25-in-a-year-analysis-finds",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-16T14:44:29.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft report says sector most targeted by Russian state cyber-activity was government amid warnings of Kremlin’s ‘hybrid warfare’\nRussia has increased cyber-attacks against Nato states by 25% over the past year, according to an analysis, as the Kremlin escalates its “hybrid war” against European countries.\nMicrosoft said nine of the top 10 countries most affected by Russian state cyber-activity were members of the Nato alliance and attacks against them had risen by a quarter compared with the previous year.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -530,7 +530,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-16T14:00:00.000Z",
       "summary_90w": "",
-      "raw": "Last 48 hours to save before the TechCrunch Disrupt 2025 flash sale ends. Save up to $624 on your ticket and join 10,000 tech leaders. Register here.",
+      "raw": "Last 48 hours to save before the TechCrunch Disrupt 2025 flash sale ends. Save up to $624 on your ticket and join 10,000 tech leaders.",
       "topics": [
         "Technology"
       ]
