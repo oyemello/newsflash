@@ -1,7 +1,72 @@
 {
-  "version": "1760629995934",
-  "generatedAt": "2025-10-16T15:53:15.934Z",
+  "version": "1760631513551",
+  "generatedAt": "2025-10-16T16:18:33.551Z",
   "items": [
+    {
+      "id": "7d1250445868a953d5603b3d692017fed68cb9ce",
+      "title": "Deel hits $17.3B valuation after raising $300M from big-name VCs",
+      "url": "https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-16T16:01:32.000Z",
+      "summary_90w": "",
+      "raw": "Deel says it's been profitable for three years and surpassed $1 billion in ARR, including having a month.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "91b680d7e357799c3809ab68f4d5182382b6dd29",
+      "title": "Indigenous and environmental leaders in Ecuador say they are facing state intimidation",
+      "url": "https://www.theguardian.com/world/2025/oct/16/indigenous-and-environmental-leaders-in-ecuador-say-they-are-facing-state-intimidation",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-16T16:00:46.000Z",
+      "summary_90w": "",
+      "raw": "Critics say referendum on rewriting country’s eco-friendly constitution is president’s latest pro-extractivist move\nIndigenous and environmental leaders in Ecuador say they are facing a wave of state intimidation ahead of a national referendum next month on whether to rewrite the world’s only constitution that recognises the rights of nature.\nThe pressure is being applied by the rightwing president, Daniel Noboa, who has begun his second term with a Trumpian agenda of consolidating power and sweeping away legal and social barriers to extractivist businesses, such as mining.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f96731c8b4a71d16c2486e9e5966dd06c7c2ae54",
+      "title": "Anthropic turns to &#8216;skills&#8217; to make Claude more useful at work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-16T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "AI agents spent years as a concept and then as an experiment. Now, AI companies are devoting even more time and resources than before to make their agents actually useful for end users, whether they’re consumers or professionals. \nAnthropic on Thursday announced its next step toward that goal: Skills for Claude. The tool is made up of “folders that include instructions, scripts, and resources that Claude can load when needed to make it smarter at specific work tasks — from working with Excel [to] following your organization’s brand guidelines,” per a release. People can also build their own Skills for Claude relative to their specific jobs and use them across Claude.ai, Claude Code, Anthropic’s API, and the Claude Agent SDK. Box, Rakuten, and Canva have already used the tool, according to the release. \nEssentially, the feature is designed to improve Claude’s AI agent capabilities for your work specifically, so you don’t have to spend as much time writing the perfect prompt or referring to past context every time you’re trying to accomplish a task. It’s available to Pro, Max, Team, and Enterprise users. \nBrad Abrams, a product lead at Anthropic, told The Verge that “the thing that’s interesting to me about Skills is basically about agents.” He said that Skills as a feature essentially provides organizations building agents a way to teach Claude to do a good job “in their specific context.” He emphasized that it’s not about meeting arbitrary benchmarks — it’s about being able to do the task you need at your own company. \nUsing an Anthropic layer on top of Claude’s PowerPoint Skill, “I had Claude create me a presentation about how Haiku 4.5 is doing in the market,” Abrams said, adding that Claude created “well-formatted slides that are easy to digest.” \nOpenAI, Anthropic, Google, Microsoft, and others have been working toward the goal of actually useful AI agents for years, with executives regularly bringing up agentic AI on earnings calls and redirecting internal resources toward building the tools. To date, though, progress has been largely incremental, with companies fighting to release new feature updates or iterations of agents. (Think: Anthropic’s Computer Use — or OpenAI’s Operator, then Deep Research, and then ChatGPT Agent, which essentially combined the two.) \nAnthropic’s news also follows an OpenAI announcement in the same realm earlier this month at the company’s annual DevDay event. \nAt the event, OpenAI unveiled AgentKit, a group of tools executives said were “designed to help you take agents from prototype to production” and targeted both big companies and individual developers. The example use case OpenAI demonstrated was Albertsons, which runs more than 2,000 US grocery stores, using a custom agent with custom data to create a plan to improve ice cream sales if they were down more than 30 percent. Box, Canva, Evernote, and Ramp were also mentioned as having tried the tool. OpenAI also announced a consumer-facing tool that allows people to work with apps inside ChatGPT, like Zillow and Uber Eats.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "71d77a4e08efb6c48fdad2c5f19d1fa357cc7594",
+      "title": "Kenya police fire shots at crowds gathered to see body of ex-PM Odinga",
+      "url": "https://www.bbc.com/news/articles/cwyk1l65nqvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-16T15:58:38.000Z",
+      "summary_90w": "",
+      "raw": "The crowds were so big that the public viewing was moved from the parliament building to a stadium.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b9fa7835669d5b8f11a4f1988c34f77bb379c21f",
+      "title": "What was alleged against Christopher Cash and Christopher Berry in China spy case?",
+      "url": "https://www.bbc.com/news/articles/cpd2vxzpgl7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-16T15:54:13.000Z",
+      "summary_90w": "",
+      "raw": "The two were accused of passing information to an agent who forwarded it to a high-ranking Chinese official.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "de5290b993e582d4e03d145ec957d7270310fb10",
       "title": "How a headphone site operator built loyalty startup Lantern to solve his own problems",
@@ -30,7 +95,7 @@
     },
     {
       "id": "e9fd1afdbdf0479058cb329904289dde269194eb",
-      "title": "Decision on China mega embassy site delayed again",
+      "title": "Decision on China mega embassy in London delayed again",
       "url": "https://www.bbc.com/news/articles/cr7mn28drz8o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -78,19 +143,6 @@
       "raw": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.\nBig hero images highlighting select TV shows and movies, a row of app icons, a bunch of additional content recommendations: At first glance, Meta's new Horizon TV app looks a lot like the homescreen of your typical smart TV. Something Samsung, Google, or Amazon would ship on their devices.\nExcept Horizon TV isn't running on a TV or streaming stick, but on the company's Meta Quest headsets. Unveiled at Meta Connect last month, the app is a big part of Meta's push to attract olde …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "71d77a4e08efb6c48fdad2c5f19d1fa357cc7594",
-      "title": "Kenya police fire shots and tear gas at crowds gathered to see body of ex-PM Odinga",
-      "url": "https://www.bbc.com/news/articles/cwyk1l65nqvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-16T15:27:41.000Z",
-      "summary_90w": "",
-      "raw": "The crowds were so big that the public viewing was moved from the parliament building to a stadium.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -258,19 +310,6 @@
       "published": "2025-10-16T14:44:29.000Z",
       "summary_90w": "",
       "raw": "Microsoft report says sector most targeted by Russian state cyber-activity was government amid warnings of Kremlin’s ‘hybrid warfare’\nRussia has increased cyber-attacks against Nato states by 25% over the past year, according to an analysis, as the Kremlin escalates its “hybrid war” against European countries.\nMicrosoft said nine of the top 10 countries most affected by Russian state cyber-activity were members of the Nato alliance and attacks against them had risen by a quarter compared with the previous year.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b9fa7835669d5b8f11a4f1988c34f77bb379c21f",
-      "title": "What was alleged against Christopher Cash and Christopher Berry in China spy case?",
-      "url": "https://www.bbc.com/news/articles/cpd2vxzpgl7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-16T14:35:11.000Z",
-      "summary_90w": "",
-      "raw": "The two were accused of passing information to an agent who forwarded it to a high-ranking Chinese official.",
       "topics": [
         "World"
       ]
@@ -536,19 +575,6 @@
       ]
     },
     {
-      "id": "c2b14169e9467767ca8e04c42dd26ad93b78e804",
-      "title": "Spotify says it&#8217;s working with labels on &#8216;responsible&#8217; AI music tools",
-      "url": "https://www.theverge.com/news/800629/spotify-ai-music-sony-umg-wmg-merlin",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-16T13:28:03.000Z",
-      "summary_90w": "",
-      "raw": "The recently-rumored AI partnership between Spotify and the major record labels is now a reality. The streaming service announced today that it’s entering into an agreement with Sony Music Group, Universal Music Group, Warner Music Group, Merlin, and Believe to develop “responsible AI products.” Unfortunately, your guess is as good as ours as to what exactly that means. \nSpotify didn’t detail any specific products in the works but said it was building a “state-of-the-art generative AI research lab and product team focused on developing technologies that reflect our principles and create breakthrough experiences for fans and artists.” \nMost of the press release is dedicated to vagaries and laying out the principles that will guide Spotify’s generative AI projects: \nPartnerships with record labels, distributors, and music publishers: We’ll develop new products for artists and fans through upfront agreements, not by asking for forgiveness later.\nChoice in participation: We recognize there’s a wide range of views on use of generative music tools within the artistic community. Therefore, artists and rightsholders will choose if and how to participate to ensure the use of AI tools aligns with the values of the people behind the music.\nFair compensation and new revenue: We will build products that create wholly new revenue streams for rightsholders, artists, and songwriters, ensuring they are properly compensated for uses of their work and transparently credited for their contributions.\nArtist-fan connection: AI tools we develop will not replace human artistry. They will give artists new ways to be creative and connect with fans. We will leverage our role as the place where more than 700 million people already come to listen to music every month to ensure that generative AI deepens artist-fan connections. \nSpotify has already come under fire for its handling of AI slop proliferating on its platform, and its in-house AI products, like a personalized DJ and NotebookLM-powered 2024 Spotify Wrapped podcast, have been relatively limited so far. Also, many artists would argue that the company’s definition of “fair compensation” is laughable. And for all the press releases’ talk about how “copyright is essential,” Spotify has been on the defensive end of accusations of copyright infringement on multiple occasions.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "8371e0abe60fd6590eae2e8db5a74ad0c7889320",
       "title": "US airstrike near Venezuela may have killed two Trinidad citizens, police say",
       "url": "https://www.theguardian.com/world/2025/oct/16/airstrike-venezuela-trinidad-us-death-investigation",
@@ -745,13 +771,13 @@
     },
     {
       "id": "249f35bb95d1fdbfdc9fee6eb1097e6214da1b25",
-      "title": "Zepto raises $450 million at $7 billion valuation as Indian quick commerce market heats up",
+      "title": "Zepto raises $450M at $7B valuation as Indian quick-commerce market heats up",
       "url": "https://techcrunch.com/2025/10/16/zepto-raises-450-million-at-7-billion-valuation-as-indian-quick-commerce-market-heats-up/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "published": "2025-10-16T10:12:11.000Z",
       "summary_90w": "",
-      "raw": "Indian quick commerce startup Zepto said it has raised $400 million in a funding round led by a new investor, California Public Employees’ Retirement System (CalPERS), a U.S.-based pension fund. The round, which is a mix of primary and secondary investment, also has participation from existing investors, including Avenir, Avra, Lightspeed, Glade Brook, The Stepstone […]",
+      "raw": "Indian quick-commerce startup Zepto said it has raised $400 million in a funding round led by a new investor, the California Public Employees’ Retirement System (CalPERS), a U.S.-based pension fund.",
       "topics": [
         "Technology"
       ]
@@ -1350,32 +1376,6 @@
       "published": "2025-10-15T17:20:25.000Z",
       "summary_90w": "",
       "raw": "Aid agencies and UN officials call for more entry points to allow ‘thousands of trucks’ to enter devastated territory\nAid agencies and the United Nations are calling for Israel to open more crossings into Gaza to allow “thousands of trucks” to enter the devastated territory every day.\nPreparations are being made to allow convoys through the southern Rafah crossing with Egypt on Thursday, the first such access through the critical entry point since May last year.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4a8a6f61ca9b33546b09fe51302dd81c5756ba17",
-      "title": "Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers",
-      "url": "https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-15T17:15:00.000Z",
-      "summary_90w": "",
-      "raw": "Viven's seed funding was led by Khosla Ventures and Foundation Capital.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "102e359f6b2d6d915da316b58bf68c81792acdb0",
-      "title": "Canadian man fined for submitting AI hallucinations as part of legal defense",
-      "url": "https://www.theguardian.com/world/2025/oct/15/canada-ai-hallucinations-legal-defense",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-15T16:31:31.000Z",
-      "summary_90w": "",
-      "raw": "Jean Laprade ordered to pay $3,500 in legal saga of ‘hijacked planes’, Interpol red alerts and ‘inappropriate use’ of AI\nA Quebec man has been ordered to pay C$5,000 (US$3,562) for submitting artificial intelligence hallucinations as part of his legal defense, a move the judge warned was “highly reprehensible” and threatened to undermine integrity in the legal system.\nJustice Luc Morin of Quebec superior court levied the fine on Jean Laprade in a decision released on 1 October, capping a legal saga the judge said “contains several elements worthy of a successful movie script”, including a “hijacked plane passing through several complacent airports”, Interpol red alerts and the “inappropriate use of artificial intelligence” by Laprade.\n Continue reading...",
       "topics": [
         "World"
       ]
