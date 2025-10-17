@@ -1,12 +1,38 @@
 {
-  "version": "1760739242189",
-  "generatedAt": "2025-10-17T22:14:02.189Z",
+  "version": "1760740449965",
+  "generatedAt": "2025-10-17T22:34:09.965Z",
   "items": [
+    {
+      "id": "d19baae8653ea9e9482038e9909c71a009d5f10f",
+      "title": "The US has a new roadmap for fusion energy, without the funds to back it up",
+      "url": "https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-17T22:21:39.000Z",
+      "summary_90w": "",
+      "raw": "Guests await the beginning of a news conference at the Department of Energy headquarters to announce a breakthrough in fusion research on December 13, 2022 in Washington, DC. The officials announced that experiments at the National Ignition Facility at the LLNL achieved ‘ignition.’ | Photo: Getty Images\t\n\nThe Department of Energy (DOE) released a new roadmap for the US to realize the decades-long dream of harnessing fusion energy.\nIt’s a commitment to support research and development efforts and pursue public-private partnerships to finally build the first generation of fusion power plants. And of course, the plan hypes up AI as both a tool that can lead to new breakthroughs and as the motivation to create a new energy source that can satiate data centers’ growing electricity demands.\nThe DOE is eyeing an extremely ambitious timeline, although the details on how to accomplish that are vague considering success still relies on achieving scientific breakthroughs that have evaded scientists for the better part of a century. Moreover, the burgeoning ecosystem of startups and researchers committed to this task is clamoring for more cash — funds the DOE admits it doesn’t yet have to give. \n\nOf course, the plan hypes up AI \n\n\nA press release from the DOE yesterday boasts that its new strategy aims to deploy commercial-scale fusion power to electricity grids by the mid-2030s. The actual roadmap, however, paints a fuzzier picture. The document says in bold that its goal “is to deliver the public infrastructure that supports the fusion private sector scale up in the 2030s.” Regardless, there are still a lot of hurdles and uncertainties to face, which could realistically make powering our homes and businesses with fusion energy decades away, if ever. \nWhy is this such a large task? Today’s nuclear fission plants split atoms apart to release energy. Nuclear fusion plants, in contrast, would fuse atoms together to generate energy in a controlled way. (You get a hydrogen bomb when this is done in an uncontrolled way.) The upside to achieving fusion would be that it doesn’t produce the same radioactive waste as fission, nor does the process rely on polluting fossil fuels. \nFusion essentially mimics the way stars produce their own light and heat. While this could be an abundant carbon-free energy source, it also takes a tremendous amount of heat and pressure to fuse atoms together. As a result, it’s been extraordinarily difficult to achieve a fusion reaction that results in a net energy gain (something called “ignition” in industry-speak). Scientists accomplished this for the first time in 2022 using lasers. Researchers developing fusion technologies are working to re-create that feat and figure out how to sustain the reaction longer. \nThere have been some other significant changes in recent years that have fed into all the current buzz around fusion. The generative AI boom has left big tech companies scrambling to get enough electricity to power more data centers. Sam Altman, Bill Gates, and Jeff Bezos have all backed fusion startups developing their own plant designs. Both Google and Microsoft have announced plans to purchase electricity from forthcoming fusion power plants that are supposed to be online by the late 2020s or 2030s. More than $9 billion in private investments have flowed into fusion demonstrations and prototype reactors, the DOE says.\nThere are other big gaps to fill, which is where the DOE says it can step in. The roadmap emphasizes bringing together the public and private sectors to build out the “critical infrastructure” needed to make fusion commercially viable, such as producing and recycling fusion fuels (typically hydrogen isotopes called tritium and deuterium). Another “core challenge area” the document highlights is the need to develop structural materials strong enough to withstand the extreme conditions at a fusion plant. (Remember, you’re sort of replicating the environment within a star.)  \nIt also mentions the development of regional hubs for fusion innovation, where DOE laboratories might work with universities, local and state governments, and private companies to build up a workforce for these new technologies. One hub would be a collaboration between Nvidia, IBM, and the Princeton Plasma Physics Laboratory, and the DOE to “establish an AI-optimized fusion-centric supercomputing cluster” called Stellar-AI.\nThe DOE dedicates an entire section of the roadmap to AI, which it calls a “transformative tool for fusion energy.” Researchers can use AI models to construct “digital twins” to more quickly study how experimental facilities would perform, the roadmap says as an example. \nThe document also comes with a big disclaimer. Written at the top, above the executive summary, it says: “This Roadmap is not committing the Department of Energy to specific funding levels, and future funding will be subject to Congressional appropriations.” In other words, the DOE isn’t ready to throw any money at this plan just yet. \nAnd while the Trump administration has folded fossil fuels, nuclear fission, and fusion into its ambitions for so-called “energy dominance,” the president has clawed back funding for solar and wind energy projects that are already much faster and typically cheaper to deploy to meet America’s growing electricity demand.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "390e1e1ebaf128b368be780ae4956f87ac457d6e",
+      "title": "Trump administration asks Supreme Court to allow National Guard deployment in Illinois",
+      "url": "https://www.npr.org/2025/10/17/nx-s1-5578266/trump-supreme-court-national-guard-illinois",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-17T22:19:44.000Z",
+      "summary_90w": "",
+      "raw": "The Trump administration filed an appeal to the Supreme Court on Friday, asking it to lift lower-court rulings blocking Trump from deploying National Guard troops in Illinois.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "57f6c09242b7a490b0ea6cbf064bc08cb188305f",
       "title": "Exciting results from blood test for 50 cancers ",
       "url": "https://www.bbc.com/news/articles/c205g21n1zzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-10-17T22:02:31.000Z",
       "summary_90w": "",
@@ -286,19 +312,6 @@
       "raw": "Though the Pokémon games' Rotom Phones haven't really changed all that much design-wise over the past few years, each generation has introduced new functionalities that made upgrading a no-brainer. Sword / Shield's Rotom Phone - the very first one - came with a bare-bones camera that made it easy to snap wide-angle (screen)shots out in the Galar region's Wild Area. The second-generation Rotom Phone's camera in Scarlet / Violet was a significant improvement, but the device's real standout feature was its ability to keep you from plummeting to your death if you fell from a great height. \nWhile neither of the early Rotom Phones were as visuall …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "9f1961638ffd2744f7b311c25c35fc39050ff69b",
-      "title": "Security guard hurt in synagogue attack discharged",
-      "url": "https://www.bbc.com/news/articles/cvgv099j32zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-17T18:50:59.000Z",
-      "summary_90w": "",
-      "raw": "The guard was hit by the car driven by Jihad Al-Shamie during his assault on the building.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -653,6 +666,19 @@
       ]
     },
     {
+      "id": "587c20d1544d3d5a72ef29e7b4fe70d662f9ff5b",
+      "title": "Is writing already on the wall for Postecoglou at Forest?",
+      "url": "https://www.bbc.com/sport/football/articles/czxkr285kgko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-17T15:37:59.000Z",
+      "summary_90w": "",
+      "raw": "The potential consequences of defeat this weekend will not be lost on Nottingham Forest head coach Ange Postecoglou, with the club already looking at potential replacements.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "a9eb1a0cbc868abb8d5fa895ad50819e0929633b",
       "title": "China warns UK of 'consequences' over mega-embassy delays",
       "url": "https://www.bbc.com/news/articles/c629j10gln8o?at_medium=RSS&at_campaign=rss",
@@ -752,19 +778,6 @@
       "published": "2025-10-17T14:37:10.000Z",
       "summary_90w": "",
       "raw": "Cédric Jubillar maintained his innocence, but was found guilty by a jury and sentenced to 30 years in jail.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "89ab48bb62664fe9968ee420a2749e190534f6dd",
-      "title": "Defiant Postecoglou gives five-minute monologue at news conference",
-      "url": "https://www.bbc.com/sport/football/articles/c70j4y45y85o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-17T14:32:50.000Z",
-      "summary_90w": "",
-      "raw": "Under-fire boss Ange Postecoglou delivers a passionate defence of his legacy as he vows to win silverware at Nottingham Forest if given time.",
       "topics": [
         "World"
       ]
@@ -871,19 +884,6 @@
       "raw": "The Xbox Ally X isn't the handheld console the name implies. But it's still sold out, despite debuting as fans rage against price increase to Game Pass.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "3e4b7576c57ce4f3fe57a852d7d1dda59f7ad34c",
-      "title": "These AI glasses promised to make me smarter, and all I got was Clippy for my face",
-      "url": "https://www.theverge.com/column/801554/optimizer-halo-smart-glasses-ai-assistant",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-17T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "There’s a display but you’ve got to lift your head up to activate it.\t\n\nThis is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest phones, smartwatches, apps, and other gizmos that swear they're going to change your life. Optimizer arrives in our subscribers' inboxes at 10AM ET. Opt in for Optimizer here. We'll be off for the next two weeks and back on November 7th. \nAs I wrote last week, I'm rapidly running out of body parts to do my job. Part of being human is knowing when to ask for help, so a few months ago, I enlisted senior editor Sean Hollister - a fellow smart glasses nerd - to help me test Halo Glass, an always-listening AI c …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1092,19 +1092,6 @@
       "raw": "All staff employed by SK Telecom's new AI division are being offered a voluntary retirement program as part of a broader effort to bring together its various AI-related divisions, the company confirmed to TechCrunch.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f377bca72d803323215769f89a656d6d530dc765",
-      "title": "Trump and Zelenskyy to meet. And, John Bolton indicted for mishandling classified info",
-      "url": "https://www.npr.org/2025/10/17/g-s1-93955/up-first-newsletter-john-bolton-volodymyr-zelenskyy-gaza",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-10-17T11:31:40.000Z",
-      "summary_90w": "",
-      "raw": "President Volodymyr Zelenskyy and President Trump meet today to discuss Ukraine's request for long-range missiles. And, John Bolton indicted for allegedly mishandling classified information.",
-      "topics": [
-        "World"
       ]
     },
     {
