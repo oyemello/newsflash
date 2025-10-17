@@ -1,16 +1,55 @@
 {
-  "version": "1760699617531",
-  "generatedAt": "2025-10-17T11:13:37.531Z",
+  "version": "1760700540231",
+  "generatedAt": "2025-10-17T11:29:00.231Z",
   "items": [
     {
       "id": "adecc6fdd763ac90dafdd2d5569c4bb0d1b27e8e",
-      "title": "Far-right extremists jailed for terror plots",
+      "title": "Far-right extremists jailed for planning attacks on mosques and synagogues",
       "url": "https://www.bbc.com/news/articles/c4gkm4jyrpdo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-10-17T11:05:24.000Z",
+      "published": "2025-10-17T11:20:13.000Z",
       "summary_90w": "",
       "raw": "Three Nazi-worshipping extremists convicted of terror offences are sentenced.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2496b1fa4db5ab080f605fca07fba3926f898ba6",
+      "title": "US Governor wins $1.4m playing blackjack in Las Vegas",
+      "url": "https://www.bbc.com/news/articles/c5y0gr4y4r2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-17T11:10:43.000Z",
+      "summary_90w": "",
+      "raw": "Billionaire JB Pritzker won the sum while on holiday with friends and family.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f75b075393adfddcac92c1bc7839411abf6262c2",
+      "title": "Celebrity MasterChef to air with sacked host John Torode",
+      "url": "https://www.bbc.com/news/articles/c1lqg2j8zj0o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-17T11:09:21.000Z",
+      "summary_90w": "",
+      "raw": "The Christmas specials will also air, with the BBC acknowledging it had not been a \"straightforward decision\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c0419f9d0b6e4f87767d9fac418f4d1d7f6351dd",
+      "title": "Global stock markets hit by nerves over US banks",
+      "url": "https://www.bbc.com/news/articles/c4gjz82wx4wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-17T11:07:55.000Z",
+      "summary_90w": "",
+      "raw": "Problems at two US regional banks have made investors nervous and triggered a sell-off in shares.",
       "topics": [
         "World"
       ]
@@ -29,8 +68,34 @@
       ]
     },
     {
+      "id": "490ac170e635d65e049394ef33bc92f863e3710a",
+      "title": "King Charles to be first reigning English monarch in 500 years to pray publicly with pope",
+      "url": "https://www.theguardian.com/uk-news/2025/oct/17/king-charles-first-reigning-english-monarch-500-years-pray-publicly-pope",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-17T11:00:56.000Z",
+      "summary_90w": "",
+      "raw": "Monarch will join Pope Leo XIV at an ecumenical service in Sistine Chapel during visit to the Vatican next month\nKing Charles will become the first reigning English monarch since Henry VIII split from Rome in 1534 to pray publicly with a pope during his state visit to the Holy See next week.\nThe king will join Pope Leo XIV at an ecumenical service in the Sistine Chapel during his visit with the queen to the Vatican on 22-23 October, a gesture regarded as a “significant moment” in relations between the Catholic church and the Church of England, of which Charles is supreme governor.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "80f2f65b3b3ccf94ae1b87f5b35bdeb79723cc50",
+      "title": "US anti-vax stance to blame for continent-wide surge in measles, say experts",
+      "url": "https://www.theguardian.com/global-development/2025/oct/17/health-infectious-diseases-vaccination-measles-us-robert-kennedy-latin-america-antivax-blamed-cases-deaths-rise",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-17T11:00:55.000Z",
+      "summary_90w": "",
+      "raw": "The disease was eliminated across the Americas in 2024, but urgent vaccination drives are now under way as cases rise from Mexico to Bolivia after outbreaks farther north\nGovernments across Latin America are stepping up efforts to vaccinate their populations against measles, as outbreaks in North America drive a 34-fold increase in the number of cases reported in the region this year.\nMeasles cases have surged worldwide to a 25-year high, due to low vaccine coverage and the spread of misinformation about vaccine safety. However, there is added concern in parts of Latin America over unequal access to healthcare and the worrying situation in the US, which is facing its worst measles outbreak in decades following a reversal of vaccine policy led by Donald Trump’s health secretary, Robert F Kennedy Jr.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "c24599665b5f57fcb44b527e6bb2a768f61959af",
-      "title": "King Charles to pray with Pope during Vatican trip in historic first",
+      "title": "King Charles to pray with Pope during Vatican trip in historic moment",
       "url": "https://www.bbc.com/news/articles/czxkrn7jvexo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -84,7 +149,7 @@
       "id": "9e39244ae51d8a8059f65922d9ad362367c58f1d",
       "title": "Airline apologises for asking dead flight attendant for paperwork",
       "url": "https://www.bbc.com/news/articles/cy40gq2882xo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-10-17T10:46:20.000Z",
       "summary_90w": "",
@@ -115,6 +180,19 @@
       "published": "2025-10-17T10:38:48.000Z",
       "summary_90w": "",
       "raw": "Beau Greaves confirms she will play in the PDC World Darts Championship and take her place on the professional tour.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "537554a204bc925db30cc1a55822a3243efac46e",
+      "title": "Victims of romance fraud tricked out of £106m in past year",
+      "url": "https://www.bbc.com/news/articles/c24l5301gg8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-17T10:02:28.000Z",
+      "summary_90w": "",
+      "raw": "Varun Yadav lost his entire life savings after he was a victim of romance fraud on a dating app.",
       "topics": [
         "World"
       ]
@@ -770,19 +848,6 @@
       ]
     },
     {
-      "id": "0189a78b239a5785d16c6831aafb1a736001d855",
-      "title": "KISS founding guitarist Ace Frehley dies aged 74",
-      "url": "https://www.bbc.com/news/articles/cj41vwgv47no?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-17T00:14:22.000Z",
-      "summary_90w": "",
-      "raw": "Bandmates Gene Simmons and Paul Stanley have paid tribute to an \"irreplaceable rock soldier\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "37a74e90ace6503fdaed85cfbfa095eecd8ef132",
       "title": "Weekly quiz: What award did this sleepy spider win a 10-year-old?",
       "url": "https://www.bbc.com/news/articles/cvgvw7103ppo?at_medium=RSS&at_campaign=rss",
@@ -812,7 +877,7 @@
       "id": "12344f073af23ceba64ec9c3f4efe3182cc5ebad",
       "title": "The 'shadow army' helping Uganda's long-serving president keep an iron grip on power",
       "url": "https://www.bbc.com/news/articles/cvg33ke2d6do?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-10-16T23:37:10.000Z",
       "summary_90w": "",
@@ -1134,19 +1199,6 @@
       ]
     },
     {
-      "id": "15b5c0ac3e25f66b6d19b43846e5256fc352442f",
-      "title": "Woman alleged to have tortured and killed 12-year-old to stand trial in France",
-      "url": "https://www.theguardian.com/world/2025/oct/16/woman-alleged-to-have-tortured-and-killed-12-year-old-to-stand-trial-in-france",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-16T18:09:38.000Z",
-      "summary_90w": "",
-      "raw": "Killing of Lola Daviet three years ago led to outcry after far right was accused of exploiting her death for political gain\nA woman who allegedly abused and tortured a 12-year-old girl before leaving her to suffocate will go on trial for murder on Friday in a case that has shocked France and caused political waves.\nLola Daviet’s body was found stuffed into a plastic trunk that had been dumped on the street near her home.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a56215a2e6c7056b2442fd460a3349a994949896",
       "title": "The real reason Google DeepMind is working with a fusion energy startup",
       "url": "https://techcrunch.com/2025/10/16/the-real-reason-google-deepmind-is-working-with-a-fusion-energy-startup/",
@@ -1287,19 +1339,6 @@
       "raw": "Deel says it's been profitable for three years and surpassed $1 billion in ARR, including having a month that hit $100 million in revenue.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "91b680d7e357799c3809ab68f4d5182382b6dd29",
-      "title": "Indigenous and environmental leaders in Ecuador say they are facing state intimidation",
-      "url": "https://www.theguardian.com/world/2025/oct/16/indigenous-and-environmental-leaders-in-ecuador-say-they-are-facing-state-intimidation",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-16T16:00:46.000Z",
-      "summary_90w": "",
-      "raw": "Critics say referendum on rewriting country’s eco-friendly constitution is president’s latest pro-extractivist move\nIndigenous and environmental leaders in Ecuador say they are facing a wave of state intimidation ahead of a national referendum next month on whether to rewrite the world’s only constitution that recognises the rights of nature.\nThe pressure is being applied by the rightwing president, Daniel Noboa, who has begun his second term with a Trumpian agenda of consolidating power and sweeping away legal and social barriers to extractivist businesses, such as mining.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
