@@ -1,7 +1,72 @@
 {
-  "version": "1760914312811",
-  "generatedAt": "2025-10-19T22:51:52.811Z",
+  "version": "1760915632523",
+  "generatedAt": "2025-10-19T23:13:52.523Z",
   "items": [
+    {
+      "id": "97cefc09f5fd2eefae83ad392ba79551036b91b7",
+      "title": "X is changing how it handles links to try and keep you in the app",
+      "url": "https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-19T23:07:50.000Z",
+      "summary_90w": "",
+      "raw": "X is testing a change to the way it handles links on iOS so that the buttons to like, reply, and repost will always be visible. Normally, when you click a link on X the page opens up and completely covers the original post. Apparently, this leads to fewer people clicking like or otherwise engaging with the content. \nA good chunk of people probably just don’t return to Twitter at all after following an external link. So the company is collapsing the original post to the bottom, instead of letting the web browser take over the whole screen, and pushing further towards Elon Musk’s vision of X as an “everything app” that you never have to leave.\n\n\nWe're testing a new link experience, starting on iOS — to make it easier for your followers to engage with your post while browsing links.\nFor creators, a common complaint is that posts with links tend to get lower reach. This is because the web browser covers the post and… pic.twitter.com/oWraLpPwji\n— Nikita Bier (@nikitabier) October 19, 2025\n\n\nIt’s a common complaint that posts with links on X don’t perform well. The post announcing this new feature seems to suggest that the reason is because of the way the interface leads you away from X, and thus lowers engagement. \nElon also said in a post on X that there would be changes to how the recommendation system works, which could result in increased reach for posts with links. He claims that the company is four to six weeks away from “deletion of all heuristics,” meaning likes and replies will have less of an impact. Instead, he says that, “Grok will literally read every post and watch every video (100M+ per day) to match users with content they’re most likely to find interesting.” \nThe shift to an AI-based understanding of the actual content of a post, instead of a more rules-based algorithm, has been a clear goal for X for some time. These changes could lead to increased reach even for accounts with very few followers.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e91218ff7f200fd50f8a417d5ebf3e1439069e73",
+      "title": "Protests and food poisonings test Indonesian president's first year in office",
+      "url": "https://www.bbc.com/news/articles/c2lx2j0k1k0o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-19T22:54:55.000Z",
+      "summary_90w": "",
+      "raw": "Prabowo Subianto's promises of dynamic economic growth and social change have faced major challenges.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "df87985f54d75803c0ff2a4a2efd17a4ec4b23b0",
+      "title": "Tel Aviv derby called off by police after 'violent riots'",
+      "url": "https://www.bbc.com/sport/football/articles/cgr4n07509wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-19T22:49:11.000Z",
+      "summary_90w": "",
+      "raw": "The derby between Maccabi Tel Aviv and Hapoel Tel Aviv is cancelled before kick-off after police say \"smoke grenades and pyrotechnic devices were thrown\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e478ff2da7c3238f61225c22783c14f83179d005",
+      "title": "China will soon have a new Five Year Plan. Here's how they have changed the world so far",
+      "url": "https://www.bbc.com/news/articles/cjr045x425vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-19T22:46:24.000Z",
+      "summary_90w": "",
+      "raw": "Beijing's leaders are deciding on a blueprint that sets China's economic goals for the next decade.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8a864a4ae31759b61b1f74245e2220d24f23a827",
+      "title": "CCTV to identify violent protesters after police injured and pelted with rocks at Melbourne rally",
+      "url": "https://www.theguardian.com/australia-news/2025/oct/20/melbourne-protests-anti-immigration-rallies-counter-protest-police-injured",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-19T22:33:40.000Z",
+      "summary_90w": "",
+      "raw": "Victoria police say city has had ‘gutful’ of protesters looking to fight officers trying to keep them separated from rivals\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nPolice will use an abundance of CCTV and body-worn camera footage to identify those responsible for violent protests that put two officers in hospital.\nOne woman is expected to be charged over the ugly clashes as police tried to separate the anti-immigration rally from a counter anti-racism protest in Melbourne’s CBD on Sunday.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "5a6db668ee52c6130081d52791c8253e31af2a08",
       "title": "Barnaby Joyce confirms conversations with Pauline Hanson amid speculation on possible defection to One Nation",
@@ -95,13 +160,13 @@
     },
     {
       "id": "c1eb718b2ff1b9335d36a3dab46add0b68a7e06c",
-      "title": "Israel says it has resumed enforcement of ceasefire after wave of airstrikes on Gaza – Middle East crisis live",
+      "title": "Strikes hit Gaza after truce violations alleged – as it happened",
       "url": "https://www.theguardian.com/world/live/2025/oct/19/gaza-ceasefire-israel-hamas-rafah-hostages-middle-east-crisis-live-news-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-10-19T21:12:34.000Z",
       "summary_90w": "",
-      "raw": "IDF says ‘significant strikes’ were in response to Hamas violations\n\nIsraeli airstrikes on Gaza as ceasefire comes under threat\n\nFreed Israeli hostage David Cunio received a hero’s welcome in the city of Yavne, where residents lined the streets waving Israeli and American flags as he was driven from hospital to rejoin his family, The Times of Israel reports.\nCunio, who was abducted from kibbutz Nir Oz with his family during the 7 October 2023 Hamas attack, leaned out of the car window to shake hands and thank supporters as music played and people applauded.\n Continue reading...",
+      "raw": "This blog is now closed. See our latest full report here: \n\nScramble to shore up ceasefire as Israel hits Gaza with deadly raids \n\nFreed Israeli hostage David Cunio received a hero’s welcome in the city of Yavne, where residents lined the streets waving Israeli and American flags as he was driven from hospital to rejoin his family, The Times of Israel reports.\nCunio, who was abducted from kibbutz Nir Oz with his family during the 7 October 2023 Hamas attack, leaned out of the car window to shake hands and thank supporters as music played and people applauded.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -835,19 +900,6 @@
       ]
     },
     {
-      "id": "126acd304ea3831ecdc2169cb9be04bbbdb83119",
-      "title": "October heat records broken in WA; police use pepper spray on Melbourne protesters – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2025/oct/19/anthony-albanese-donald-trump-washington-meeting-aukus-tariffs-counter-protests-anti-immigration-march-for-australia-rallies-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-19T05:23:20.000Z",
-      "summary_90w": "",
-      "raw": "This blog is now closed\n\nDavid Littleproud urges Barnaby Joyce to stay in the Nationals amid speculation of a jump to One Nation\n\nCrocodile discovered in luxury Queensland resort pool sparks new warnings\n\nGet our breaking news email, free app or daily news podcast\n\nAsked about the hundreds of Palestinians from Gaza approved for visas in Australia and whether the ceasefire changes anything, Tony Burke said he’s not sure all of those approved for visas are still alive.\nHe says some will choose to stay in Australia, and others may end up with other options they might take up.\nAnd there will be some people who we don’t hear from again. And there’s some on that case list that we haven’t heard from for a very long time. A significant number of them are part of split family groups, where some of the family is, in fact, here in Australia and they’re wanting to join.\nYou need to remember, our humanitarian program that we run around the world isn’t limited to places where there’s an active war. There is decency that Australia shows to people from around the world … there are Israelis who have been approved for humanitarian visas as well. I’ve got no intention of cancelling those either. We’re a decent country. We are talking about people where all the checks have been made. And some of them won’t choose to come here, some of them won’t be alive any more …\nProbably the most significant change in response these days is the majority of people now get sent straight back to their country of origin. So, you used to really only see people going back to Indonesia or off to Nauru for processing. But the majority of cases now are going straight back to country of origin.\nWe had one very recently where, within 72 hours, we had everybody back to their country of origin. There was one in May, for example, where it was a mixed boatload of people from different countries and we had to, you know, from three different sorts of citizenships that people had come from. It was more complex but we still made sure we returned people directly straight back to the countries of origin.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "4fb5a3a6dd3337acee267c4e0865a2cda8d01ab0",
       "title": "Spanish town bans black cat adoptions during Halloween",
       "url": "https://www.bbc.com/news/articles/c77zjkxj750o?at_medium=RSS&at_campaign=rss",
@@ -864,7 +916,7 @@
       "id": "c187b4cf72f3e7cae76965d6474145f6212e5900",
       "title": "Grand Theft Auto made him a legend. His latest game was a disaster",
       "url": "https://www.bbc.com/news/articles/c4gzn34gwvwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-10-18T23:48:23.000Z",
       "summary_90w": "",
@@ -916,7 +968,7 @@
       "id": "43a741f7936ced932433eb1489803fcd145ecdfa",
       "title": "'I'm 89 and I saw my homeland rebuilt before - but now I don't believe Gaza has a future'",
       "url": "https://www.bbc.com/news/articles/c87400e3j5eo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-10-18T23:27:19.000Z",
       "summary_90w": "",
@@ -1053,19 +1105,6 @@
       "raw": "Driver lost control of bus in Saloá in Pernambuco state and cause of accident is under investigation\nA passenger bus in north-eastern Brazil has crashed into a sand embankment and flipped on its side, killing 17 people, local authorities have said.\nThe bus was carrying about 30 passengers, police said on Saturday, but the number of injured, who were taken to nearby hospitals, was not immediately clear. The vehicle departed from the state of Bahia and crashed in Saloá, a city in the neighbouring state of Pernambuco.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "79ef1a44531290f0e78da53a6a0fe5f1e28fa266",
-      "title": "TiVo won the court battles, but lost the TV war",
-      "url": "https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-18T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "TiVo could have been a contender.\t\n\nIn the 2000s, TiVo reached heights few companies ever achieve. Like Google and Xerox, its name became a verb. People had to \"TiVo\" the new episode of Battlestar Galactica or game 4 of the Red Sox vs. Cardinals, not \"record\" it. While it didn't invent the DVR, TiVo popularized it and many of the features we would eventually take for granted, like the ability to pause or rewind live TV, and watch one program while recording another. \nThose features were covered in the now infamous US Patent 6,233,389 - better known as the Time Warp patent. TiVo spent a good chunk of the 2000s and early 2010s defending its intellectual property through a serie …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1264,19 +1303,6 @@
       ]
     },
     {
-      "id": "76a3c38b93fa9a9155ba32f08be34d67cd539580",
-      "title": "How an old suitcase revealed a hidden family fortune, lost under Nazi rule",
-      "url": "https://www.bbc.com/news/articles/c33pvlez6yjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-18T05:01:16.000Z",
-      "summary_90w": "",
-      "raw": "The contents of his late father's case led Antony Easton to uncover a rich and tragic history.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "d7c57ff2d52b8ede12271805db395a6eeb30a93e",
       "title": "Silicon Valley spooks the AI safety advocates",
       "url": "https://techcrunch.com/2025/10/17/silicon-valley-spooks-the-ai-safety-advocates/",
@@ -1287,19 +1313,6 @@
       "raw": "The White House's David Sacks and OpenAI's Jason Kwon caused a stir online this week for their comments about groups promoting AI safety.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "beceb32b06ea53810d99361473913d021f2b4ccc",
-      "title": "'It's scary to think I could have died' - the Americans coming back from fentanyl addiction ",
-      "url": "https://www.bbc.com/news/articles/cm2e471159vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-17T23:42:24.000Z",
-      "summary_90w": "",
-      "raw": "Fatal overdoses in the US are falling - and Kayla's state of North Carolina is at the forefront of that trend.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1324,19 +1337,6 @@
       "published": "2025-10-17T23:10:31.000Z",
       "summary_90w": "",
       "raw": "The Pakistani convict called himself a \"walking dead person\" just days before his last voyage destined for Houthi rebels in Yemen.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "072b4759824f25bb0fbc4833c78cf17ab88227d0",
-      "title": "Ritual, wrestling and Reddit: Grand Sumo meets internet fandom in London",
-      "url": "https://www.bbc.com/news/articles/c4gw7009342o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-17T23:10:16.000Z",
-      "summary_90w": "",
-      "raw": "Going to Japan is almost the only way to see a top-flight suo sumo tournament. This week, London is hosting.",
       "topics": [
         "World"
       ]
