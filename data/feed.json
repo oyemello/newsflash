@@ -1,7 +1,46 @@
 {
-  "version": "1760949181425",
-  "generatedAt": "2025-10-20T08:33:01.425Z",
+  "version": "1760950690948",
+  "generatedAt": "2025-10-20T08:58:10.948Z",
   "items": [
+    {
+      "id": "cb3b3f8f070b779398cb4edb0bb5b71f21e1ee33",
+      "title": "Louvre heist puts pressure on French government over museum security",
+      "url": "https://www.theguardian.com/world/2025/oct/20/louvre-heist-pressure-french-government-museum-security-paris",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-20T08:41:36.000Z",
+      "summary_90w": "",
+      "raw": "Justice minister says ‘we have failed’ after thieves take seven minutes to steal priceless jewels from museum\nThe French government is under increasing pressure over museum security as police continue to search for thieves who took seven minutes to steal priceless jewels from the Louvre, the world’s most-visited museum.\n“What is certain is that we have failed, since people were able to park a furniture hoist in the middle of Paris, get people up it in several minutes to grab priceless jewels, and give France a terrible image,” the justice minister, Gérald Darmanin, told France Inter radio on Monday.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4ce501b1b5905e14bab384c9cc5e755cd86c45a8",
+      "title": "Louvre heist creates 'terrible image' of France, justice minister says",
+      "url": "https://www.bbc.com/news/articles/clyz58n65g3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-20T08:39:52.000Z",
+      "summary_90w": "",
+      "raw": "A manhunt is underway to find the four thieves before the jewels - which once belonged to French royals - are broken up.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b5adfb8c07eb4d1c77b3bbf01ba560461977e76b",
+      "title": "Truce resumes after Israeli airstrikes on Gaza amid scramble to shore up ceasefire – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-20T08:22:17.000Z",
+      "summary_90w": "",
+      "raw": "US envoy Steve Witkoff and Trump son-in-law Jared Kushner reportedly heading to Israel on Monday \nAs a reminder, Israel announced over the weekend that the crucial Rafah crossing with Egypt would remain shut “until further notice”.\nThe statement by Benjamin Netanyahu’s office said reopening Rafah would depend on how Hamas fulfils its ceasefire role of returning the remains of deceased hostages.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "e77a7940f766558b7445f2153f2eb056890bcb06",
       "title": "Australia accuses China of 'unsafe' military jet manoeuvres",
@@ -11,6 +50,19 @@
       "published": "2025-10-20T08:19:29.000Z",
       "summary_90w": "",
       "raw": "A Chinese jet allegedly dropped a flare close to an Australian plane over the South China Sea.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a1c1d5411d4a0d0624e83ab7e571112ad23d0d4c",
+      "title": "Hong Kong: two killed after cargo plane veers off runway into sea while landing",
+      "url": "https://www.theguardian.com/world/2025/oct/20/hong-kong-cargo-plane-skids-off-airport-runway-people-killed",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-20T08:17:23.000Z",
+      "summary_90w": "",
+      "raw": "Authorities say Emirates plane collided with patrol vehicle, taking it with it as it ditched in sea\nTwo people were killed in Hong Kong on Monday after a cargo plane hit a ground vehicle while trying to land and skidded off the runway into the sea.\nThe Emirates airlines plane had flown in to Hong Kong international airport from Dubai at about 4am, when it veered off the runway and crashed through a fence, according to airport officials. It then collided with the security patrol car, taking the vehicle with it as it ditched into the sea.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -62,22 +114,9 @@
       "source_name": "The Verge",
       "published": "2025-10-20T08:07:09.000Z",
       "summary_90w": "",
-      "raw": "Here are just a few of the services impacted by the outage.\t\n\nAmazon Web Services (AWS) is currently experiencing a major outage that has taken down online services, including Amazon, Alexa, Snapchat, Fortnite, and more. The AWS status checker is reporting that multiple services are “impacted” by operational issues, and that the company is “investigating increased error rates and latencies for multiple AWS services in the US-EAST-1 Region” — though outages are also impacting services in other regions globally.\nUsers on Reddit are reporting that the Alexa smart assistant is down and unable to respond to queries or complete requests, and in my own experience, I found that routines like pre-set alarms are not functioning. The AWS issue also appears to be impacting platforms running on its cloud network, including Perplexity, Airtable, Canva, and the McDonalds app. The cause of the outage hasn’t been confirmed, and it’s unclear when regular service will be restored.\n “Perplexity is down right now,” Perplexity CEO Aravind Srinivas said on X. “The root cause is an AWS issue. We’re working on resolving it.”\nThe AWS dashboard first reported issues affecting the US-EAST-1 Region at 3:11AM ET. “We are actively engaged and working to both mitigate the issue and understand root cause. We will provide an update in 45 minutes, or sooner if we have additional information to share,” Amazon said in an update published at 3:51AM ET. \nDeveloping…",
+      "raw": "Here are just a few of the services impacted by the outage.\t\n\nAmazon Web Services (AWS) is currently experiencing a major outage that has taken down online services, including Amazon, Alexa, Snapchat, Fortnite, ChatGPT, Epic Games Store, Epic Online Services, and more. The AWS status checker is reporting that multiple services are “impacted” by operational issues, and that the company is “investigating increased error rates and latencies for multiple AWS services in the US-EAST-1 Region” — though outages are also impacting services in other regions globally.\nUsers on Reddit are reporting that the Alexa smart assistant is down and unable to respond to queries or complete requests, and in my own experience, I found that routines like pre-set alarms are not functioning. The AWS issue also appears to be impacting platforms running on its cloud network, including Perplexity, Airtable, Canva, and the McDonalds app. The cause of the outage hasn’t been confirmed, and it’s unclear when regular service will be restored.\n“Perplexity is down right now,” Perplexity CEO Aravind Srinivas said on X. “The root cause is an AWS issue. We’re working on resolving it.”\n\n\n⚠️ An outage affecting several services on the internet is also impacting Fortnite log-ins. We're investigating this now, and will update you when we have more details.\n— Fortnite Status (@FortniteStatus) October 20, 2025\n\n\nThe AWS dashboard first reported issues affecting the US-EAST-1 Region at 3:11AM ET. “We are actively engaged and working to both mitigate the issue and understand root cause. We will provide an update in 45 minutes, or sooner if we have additional information to share,” Amazon said in an update published at 3:51AM ET. \nAWS outages in the US-East-1 region have created widespread disruptions in 2023, 2021, and 2020, forcing multiple websites and platforms offline for several hours before regular service was restored.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "b5adfb8c07eb4d1c77b3bbf01ba560461977e76b",
-      "title": "Truce resumes after Israeli airstrikes on Gaza amid scramble to shore up ceasefire – Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-20T08:04:17.000Z",
-      "summary_90w": "",
-      "raw": "US envoy Steve Witkoff and Trump son-in-law Jared Kushner reportedly heading to Israel on Monday \nSteve Witkoff has said he believes it could cost about £37bn to rebuild and reconstruct the Gaza Strip after relentless Israeli bombardments reduced much of the territory to rubble.\n“The estimates are in the $50bn (£37.2bn) range,” the US special envoy told CBS News. “It might be a little bit less; it might be a little bit more.”\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -102,19 +141,6 @@
       "published": "2025-10-20T07:41:53.000Z",
       "summary_90w": "",
       "raw": "Myeong Jae-wan fatally stabbed the student in February after luring her into a classroom.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4ce501b1b5905e14bab384c9cc5e755cd86c45a8",
-      "title": "Louvre heist creates 'terrible image' of France, justice minister says",
-      "url": "https://www.bbc.com/news/articles/clyz58n65g3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-20T07:39:51.000Z",
-      "summary_90w": "",
-      "raw": "A manhunt is underway to find the four thieves before the jewels - which once belonged to French royals - are broken up.",
       "topics": [
         "World"
       ]
@@ -484,19 +510,6 @@
       ]
     },
     {
-      "id": "a1c1d5411d4a0d0624e83ab7e571112ad23d0d4c",
-      "title": "Hong Kong: two people reported killed after cargo plane skids off airport runway",
-      "url": "https://www.theguardian.com/world/2025/oct/20/hong-kong-cargo-plane-skids-off-airport-runway-people-killed",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-20T00:24:04.000Z",
-      "summary_90w": "",
-      "raw": "The northern runway at the airport was closed after the incident, say authorities\nTwo people were killed in Hong Kong on Monday after a cargo plane hit a ground vehicle while trying to land and skidded off the runway into the sea.\nThe Emirates Airlines plane had flown in to Hong Kong international airport from Dubai at about 4am, when it veered off the runway and crashed through a fence, according to airport officials. It then collided with the security patrol car, taking the vehicle with it as it ditched into the sea.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e2cecd27669dc5d13808a438c0703281087f4401",
       "title": "These confederate statues caused nationwide protests. Melted down, they're now art pieces",
       "url": "https://www.bbc.com/news/articles/c5y9x1w2ee1o?at_medium=RSS&at_campaign=rss",
@@ -661,19 +674,6 @@
       "published": "2025-10-19T21:12:34.000Z",
       "summary_90w": "",
       "raw": "This blog is now closed. See our latest full report here: \n\nScramble to shore up ceasefire as Israel hits Gaza with deadly raids \n\nFreed Israeli hostage David Cunio received a hero’s welcome in the city of Yavne, where residents lined the streets waving Israeli and American flags as he was driven from hospital to rejoin his family, The Times of Israel reports.\nCunio, who was abducted from kibbutz Nir Oz with his family during the 7 October 2023 Hamas attack, leaned out of the car window to shake hands and thank supporters as music played and people applauded.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e2fda58c77d221fe414fd47439e1c71e3242c9d1",
-      "title": "Landslide win for pro-EU Turkish Cypriot candidate raises hopes for peace",
-      "url": "https://www.theguardian.com/world/2025/oct/19/turkish-cypriots-vote-in-pivotal-presidential-election-that-could-revive-peace-talks",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-19T21:07:01.000Z",
-      "summary_90w": "",
-      "raw": "Veteran leftwinger Tufan Erhürman wins after campaign on reviving stalled talks to reunify island\nTurkish Cypriots have handed the pro-European leftwing leader Tufan Erhürman a resounding victory in a presidential poll likely to inject renewed vigour into the deadlocked peace process on Cyprus.\nErhürman, 55, who campaigned on reviving stalled UN-brokered talks to reunify the island, defeated the incumbent nationalist, Ersin Tatar, by nearly 27 percentage points – a landslide win that surprised even his most ardent supporters.\n Continue reading...",
       "topics": [
         "World"
       ]
