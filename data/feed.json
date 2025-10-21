@@ -1,7 +1,46 @@
 {
-  "version": "1761068019728",
-  "generatedAt": "2025-10-21T17:33:39.728Z",
+  "version": "1761068676923",
+  "generatedAt": "2025-10-21T17:44:36.923Z",
   "items": [
+    {
+      "id": "d4b26c594d35501b94b86466ac159eeec26042b1",
+      "title": "Who is paying for Trump's White House ballroom? ",
+      "url": "https://www.bbc.com/news/articles/c891yxgj44ko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-21T17:39:18.000Z",
+      "summary_90w": "",
+      "raw": "A former White House chief ethics lawyer described the ballroom donations as an ethical 'nightmare'.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a5aa2d2f9b31e99f55f10890e45e6dfc121acefe",
+      "title": "Plans for Trump-Putin meeting shelved days after Budapest talks proposed",
+      "url": "https://www.bbc.com/news/articles/c4gjp73gp41o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-21T17:33:45.000Z",
+      "summary_90w": "",
+      "raw": "A White House official said there were \"no plans\" for the two presidents to meet in the \"immediate future\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "18b3c0da0f752e75a060072c738beb0fc5971771",
+      "title": "Israel takes steps to shut down international aid groups in Gaza and the West Bank",
+      "url": "https://www.npr.org/2025/10/21/nx-s1-5580351/israel-humanitarian-aid-ngos-gaza-west-bank",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-21T17:30:08.000Z",
+      "summary_90w": "",
+      "raw": "Israel is de-registering major nongovernmental aid groups from helping people in the Palestinian territories, according to several officials with humanitarian organizations.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "1e0bb3d1da07308031c2575494412f52e0be748b",
       "title": "OpenAI launches an AI-powered browser: ChatGPT Atlas",
@@ -62,7 +101,7 @@
       "source_name": "The Verge",
       "published": "2025-10-21T17:06:50.000Z",
       "summary_90w": "",
-      "raw": "OpenAI’s next move in its battle against Google is an AI-powered web browser. The tool, dubbed ChatGPT Atlas, is out today. The company announced it in a livestream after teasing it earlier Tuesday via a mysterious video of browser tabs on a white screen. \nChatGPT Atlas is available “globally” on macOS starting today, while access for Windows, iOS, and Android is “coming soon,” per OpenAI.\n“The way that we hope people will use the internet in the future… the chat experience in a web browser can be a great analog,” OpenAI CEO Sam Altman said on the livestream.  \nBesides Altman, the livestream description said it would feature OpenAI employees Will Ellsworth, who works on post-training research; Adam Fry, the product lead for ChatGPT Search; Ben Goodger, a staff member who in previous roles helped develop Google Chrome and Mozilla Firefox; Ryan O’Rouke, an interface designer; Justin Rushing, who previously worked at Apple; and Pranav Vishnu. \nFry said one of the browser’s best features is memory — making the browser “more personalized and more helpful to you,” as well as an agent mode, meaning that “in Atlas, ChatGPT can now take actions for you… It can help you book reservations or flights or even just edit a document that you’re working on.”\nWhenever you click a link from a search result in Atlas, it’ll by default show a split-screen with the webpage and the ChatGPT transcript, with the goal being to display a “companion” at all times, employees said, though a user can turn off the split-screen if they’d rather. On the livestream, employees also demonstrated the browser’s summarization features for webpages, as well as selecting text from an email and clicking a button to have ChatGPT tidy up the sentence in-line — the latter feature is called “cursor chat.” \nThis is just a great browser all-around — it’s smooth, it’s quick, it’s really nice to use,” Altman said. \nThe AI browser wars have been heating up for a while — OpenAI announced a prototype of its search engine, dubbed SearchGPT, all the way back in July 2024. But in recent months, AI-fueled browsers have felt like the latest frontier in AI hype.\nThis summer, Perplexity launched its buzzy Comet browser, an AI-powered solution aiming to simplify the way people browse the web and complete tasks. Instead of a laundry list of Google Search results, you get a Perplexity “answer engine,” which offers a few links to relevant websites and generates an answer to your query. It can also scan all your open tabs, summarize videos, declutter your email inbox, and even make purchases on Amazon.\nIn September, Google announced that it would more deeply embed its Gemini AI assistant into Chrome, and that in the coming months, it plans to allow Gemini in Chrome to be able to do “tedious tasks” on your behalf, such as grocery shop, schedule appointments, book reservations, and more — although Google declined to specify a launch date.\n\nThis story is developing.",
+      "raw": "OpenAI’s next move in its battle against Google is an AI-powered web browser. The tool, dubbed ChatGPT Atlas, is out today. The company announced it in a livestream after teasing it earlier Tuesday via a mysterious video of browser tabs on a white screen. \nChatGPT Atlas is available “globally” on macOS starting today, while access for Windows, iOS, and Android is “coming soon,” per the company. But its “agent mode” is only available to ChatGPT Plus and Pro users for now, OpenAI CEO Sam Altman said on the livestream.\n“The way that we hope people will use the internet in the future… the chat experience in a web browser can be a great analog,” Altman said.  \nBesides Altman, the livestream featured OpenAI employees Will Ellsworth, who works on post-training research; Adam Fry, the product lead for ChatGPT Search; Ben Goodger, a staff member who in previous roles helped develop Google Chrome and Mozilla Firefox; Ryan O’Rouke, an interface designer; Justin Rushing, who previously worked at Apple; and Pranav Vishnu. \nFry said one of the browser’s best features is memory — making the browser “more personalized and more helpful to you,” as well as an agent mode, meaning that “in Atlas, ChatGPT can now take actions for you… It can help you book reservations or flights or even just edit a document that you’re working on.” Users can see and manage the browser’s “memories” in settings, employees said, as well as open incognito windows. \nThe browser’s agent mode clearly builds on OpenAI’s past forays into agentic AI, such as its Operator tool, an early version of a tool allowing ChatGPT to use a computer on a user’s behalf, and ChatGPT Agent, the next iteration, which was designed to be able to complete more complex tasks, shop, and more (though it wasn’t always successful in that realm). \nWhenever you click a link from a search result in Atlas, it’ll by default show a split-screen with the webpage and the ChatGPT transcript, with the goal being to display a “companion” at all times, employees said, though a user can turn off the split-screen if they’d rather. On the livestream, employees also demonstrated the browser’s summarization features for webpages, as well as selecting text from an email and clicking a button to have ChatGPT tidy up the sentence in-line — the latter feature is called “cursor chat.” \n“This is just a great browser all-around — it’s smooth, it’s quick, it’s really nice to use,” Altman said. \nThe AI browser wars have been heating up for a while — OpenAI announced a prototype of its search engine, dubbed SearchGPT, all the way back in July 2024. But in recent months, AI-fueled browsers have felt like the latest frontier in AI hype.\nThis summer, Perplexity launched its buzzy Comet browser, an AI-powered solution aiming to simplify the way people browse the web and complete tasks. Instead of a laundry list of Google Search results, you get a Perplexity “answer engine,” which offers a few links to relevant websites and generates an answer to your query. It can also scan all your open tabs, summarize videos, declutter your email inbox, and even make purchases on Amazon.\nIn September, Google announced that it would more deeply embed its Gemini AI assistant into Chrome, and that in the coming months, it plans to allow Gemini in Chrome to be able to do “tedious tasks” on your behalf, such as grocery shop, schedule appointments, book reservations, and more — although Google declined to specify a launch date.",
       "topics": [
         "Technology"
       ]
@@ -115,19 +154,6 @@
       "published": "2025-10-21T16:59:08.000Z",
       "summary_90w": "",
       "raw": "Japan ranks low in gender equality among developed nations. The first woman to lead the country is an ultraconservative who cites Margaret Thatcher as a role model. She also loves heavy metal.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d4b26c594d35501b94b86466ac159eeec26042b1",
-      "title": "Who is paying for Trump's White House ballroom? ",
-      "url": "https://www.bbc.com/news/articles/c891yxgj44ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-21T16:54:37.000Z",
-      "summary_90w": "",
-      "raw": "A former White House chief ethics lawyer described the ballroom donations as an ethical 'nightmare'.",
       "topics": [
         "World"
       ]
@@ -198,19 +224,6 @@
       ]
     },
     {
-      "id": "a5aa2d2f9b31e99f55f10890e45e6dfc121acefe",
-      "title": "Plans for Trump-Putin meeting shelved days after Budapest talks proposed",
-      "url": "https://www.bbc.com/news/articles/c4gjp73gp41o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-21T16:38:53.000Z",
-      "summary_90w": "",
-      "raw": "A White House official said there were \"no plans\" for the two presidents to meet in the \"immediate future\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a10a383298a142b9c5c2d2eed0652fba2a721ed0",
       "title": "Even Xbox developer kits are getting a big price hike",
       "url": "https://www.theverge.com/report/803237/microsoft-xbox-devkit-price-hikes-developers",
@@ -276,19 +289,6 @@
       ]
     },
     {
-      "id": "f2a3e334d18470de4105acce7850c90ad912b0a6",
-      "title": "England's chance to show Ashes scars have healed",
-      "url": "https://www.bbc.com/sport/cricket/articles/cyv8epdm0gdo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-21T16:02:12.000Z",
-      "summary_90w": "",
-      "raw": "Unbeaten England face Australia on Wednesday with the chance to show they have put their Ashes scarring behind them before the Women's World Cup reaches the knockout stage.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5fc3a04c27242daf110d6e3b2c32adaecec58b50",
       "title": "YouTube’s likeness-detection technology has officially launched",
       "url": "https://techcrunch.com/2025/10/21/youtubes-likeness-detection-technology-has-officially-launched/",
@@ -296,7 +296,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-21T15:57:18.000Z",
       "summary_90w": "",
-      "raw": "YouTube's likeness detection technology is now available. Creators can request the removal of AI content using their face and voice.",
+      "raw": "YouTube’s detection technology identifies and manages AI-generated content featuring the likeness of creators, such as their face and voice.",
       "topics": [
         "Technology"
       ]
@@ -783,6 +783,19 @@
       ]
     },
     {
+      "id": "5b4538712e87d50315581f298551a36effb2947e",
+      "title": "Wife and secret lover plotted to murder husband in caravan attack",
+      "url": "https://www.bbc.com/news/articles/cwy1pylej0go?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-21T13:21:18.000Z",
+      "summary_90w": "",
+      "raw": "A woman and her ex-marines secret lover are found guilty of plotting to kill her husband.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "f18633cb34d546bde01c5cb10c22eb9a7959c4e0",
       "title": "Tech CEOs say the era of 'code by AI' is here. Some software engineers are skeptical",
       "url": "https://www.npr.org/2025/10/21/nx-s1-5506141/ai-code-software-productivity-claims",
@@ -1142,19 +1155,6 @@
       "published": "2025-10-21T09:00:00.000Z",
       "summary_90w": "",
       "raw": "President Trump and former President Obama have endorsed the two candidates locked in a tight race for New Jersey governor, Republican Jack Ciattarelli and Democrat Mikie Sherrill.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9ec5fa0e0b3d0b71eb6d80a67745736d51294381",
-      "title": "Karine Jean-Pierre on why she left the Democrats — and calls herself independent",
-      "url": "https://www.npr.org/2025/10/21/nx-s1-5423318/karine-jean-pierre-biden-book-democrats",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-10-21T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "In her new book Independent, former Biden press secretary Karine Jean-Pierre writes that party infighting, bias and disloyalty drove her to leave the Democratic Party.",
       "topics": [
         "World"
       ]
