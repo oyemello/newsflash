@@ -1,16 +1,68 @@
 {
-  "version": "1761083512394",
-  "generatedAt": "2025-10-21T21:51:52.394Z",
+  "version": "1761084890880",
+  "generatedAt": "2025-10-21T22:14:50.880Z",
   "items": [
+    {
+      "id": "a5375cee677d0a92ebd44f203fea4a24b388ec6b",
+      "title": "Open source agentic startup LangChain hits $1.25B valuation",
+      "url": "https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-21T22:12:46.000Z",
+      "summary_90w": "",
+      "raw": "As TechCrunch previously reported, the maker of a popular open source framework for building AI agents has officially become a unicorn.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "acf55787f1a33ebc37240071bb8055745b8f3827",
       "title": "Police in Dublin attacked at protest outside asylum seeker hotel",
       "url": "https://www.bbc.com/news/articles/c629zg8v8jpo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-10-21T21:38:22.000Z",
+      "published": "2025-10-21T22:06:46.000Z",
       "summary_90w": "",
       "raw": "Footage from the scene at Dublin's Citywest Hotel shows a police vehicle on fire.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7a420e46807bce32c89c65ae4ba532daf0643acb",
+      "title": "The iPhone 17’s selfie camera is to blame for delayed Project Indigo support",
+      "url": "https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-21T22:03:37.000Z",
+      "summary_90w": "",
+      "raw": "iPhone 17 Pro owners are still waiting for Project Indigo support. | Photo: Vjeran Pavic / The Verge\t\n\nThe iPhone 17 series launched just over a month ago, but Adobe’s camera app Project Indigo still doesn’t support the latest iPhones — you can run it on an iPhone 12 Pro if you have one handy, but I can’t use it on the iPhone 17 Pro on my desk. The holdup seems to be due in part to trouble with the phone’s new selfie camera, according to a post on Adobe’s forum (spotted by a keen-eyed redditor). And although it seems the wait might be over soon, support for the selfie camera might not be available right away.\nProduct manager Boris Ajdin has been relaying information about Project Indigo’s updates to eager fans on Adobe’s community forums, and he posted an update on October 16th with more information about the delayed iPhone 17 support. “We are working hard on it, and we have run into some issues, especially with the front camera. Some of them we flagged to Apple, who have made a fix and will ship it with iOS 26.1. Sadly, that means we need to consider disabling the front camera in Indigo until that version of iOS is shipped,” his post reads. \nThe team hoped to release that update “in a couple of days,” though it’s clear now that more time was needed. Responding to another comment in the thread today, Ajdin says he is “hoping that we can release an update this week.” I reached out to Adobe to ask for more details about the challenges the selfie camera has posed; Adobe spokesperson Erin Di Leva referred me to the aforementioned forum posts.\nThe iPhone 17 series included the first major update to the selfie camera since switching to a 12-megapixel sensor in the iPhone 11. The 17’s 18-megapixel front camera sensor is square, allowing it to capture both portrait and landscape orientation images without rotating the whole phone (or losing a lot of resolution to cropping). It also uses Center Stage controls to automatically follow subjects around the frame and change orientation when more people join the photo. It’s a useful update to a well-used camera, though not everyone is a fan of the image quality. \nProject Indigo gained a faithful following when it debuted this summer, offering more natural processing compared to the typical smartphone camera “look” most native camera apps produce. It’s the product of a team led by Marc Levoy, who’s known for his work on the Google Pixel camera and its pioneering use of computational photography. Indigo is an “experimental” app and is so far only available on iOS; Android owners are still waiting for support, which Levoy told me earlier this year is “definitely on the ‘want’ list,” though is likewise quite challenging. I have a feeling iPhone 17 owners are going to get their Indigo support before Android does.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a5aa2d2f9b31e99f55f10890e45e6dfc121acefe",
+      "title": "Trump says he did not want 'wasted meeting' after plan for Putin talks shelved",
+      "url": "https://www.bbc.com/news/articles/c4gjp73gp41o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-21T21:57:30.000Z",
+      "summary_90w": "",
+      "raw": "The comments by the US president come after plans to meet his Russian counterpart over the war in Ukraine were put on hold.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0779778b24ba9f9e5235c8fb81cdb1f17fc8dc59",
+      "title": "Australia news live: Sydney forecast to have hottest ever October day as Melbourne braces for destructive winds",
+      "url": "https://www.theguardian.com/australia-news/live/2025/oct/22/australia-news-live-weather-nsw-qld-heat-record-melbourne-destructive-wind-rex-airlines-bid-albanese-washington-sussan-ley-labor-coalition-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-21T21:54:02.000Z",
+      "summary_90w": "",
+      "raw": "Predicted high of 39C would be hotter than 38.2C October record from 2004. Follow today’s news live\n\nOctober heat records broken across Australia as Sydney braces for temperatures way above the norm\n\nGet our breaking news email, free app or daily news podcast\n\nBrittany Higgins has dropped her appeal against the Western Australia supreme court decision that she defamed Linda Reynolds in a series of social media posts, according to reports.\nIn August the state supreme court judge Paul Tottle ruled that the former defence minister’s reputation was damaged by a 2022 social media post from David Sharaz, which Higgins responded to, and an Instagram story published by Higgins in July 2023.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -39,19 +91,6 @@
       "raw": "Hello and welcome to Regulator.\nOf all the strange, unintended consequences stemming from major lawsuits, I never thought that the Trump administration's power to force Apple to remove ICE-tracking mobile apps from its stores could have been connected to a legal battle over Fortnite V-Bucks. \nYes, we are talking about the in-game digital currency that Fortnite players can use to buy taco hats and trending zoomer dance emotes for their avatars. Yes, they're the ones you can purchase as gift cards at CVS for a 9-year-old's emergency birthday gift. But at one point, they were the subject of two major lawsuits filed by developer Epic Games, a  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "0779778b24ba9f9e5235c8fb81cdb1f17fc8dc59",
-      "title": "Australia news live: Sydney forecast to have hottest ever October day as Melbourne braces for destructive winds",
-      "url": "https://www.theguardian.com/australia-news/live/2025/oct/22/australia-news-live-weather-nsw-qld-heat-record-melbourne-destructive-wind-rex-airlines-bid-albanese-washington-sussan-ley-labor-coalition-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-21T21:25:28.000Z",
-      "summary_90w": "",
-      "raw": "Predicted high of 39C would be hotter than 38.2C October record from 2004. Follow today’s news live\n\nOctober heat records broken across Australia as Sydney braces for temperatures way above the norm\n\nGet our breaking news email, free app or daily news podcast\n\nBrittany Higgins has dropped her appeal against the Western Australia supreme court decision that she defamed Linda Reynolds in a series of social media posts, according to reports.\nIn August the state supreme court judge Paul Tottle ruled that the former defence minister’s reputation was damaged by a 2022 social media post from David Sharaz, which Higgins responded to, and an Instagram story published by Higgins in July 2023.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -263,6 +302,19 @@
       ]
     },
     {
+      "id": "f0a8c6f6935af72f15b774c416eee1209b5410f4",
+      "title": "What did we learn from Rohl's Rangers unveiling?",
+      "url": "https://www.bbc.com/sport/football/articles/cx24gqdlveqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-21T19:19:25.000Z",
+      "summary_90w": "",
+      "raw": "Danny Rohl understands the need to win quickly as Rangers head coach and says he can handle pressure, as chief executive Patrick Stewart and sporting director Kevin Thelwell come under fire.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "a27c97a7956df77d5eab8475a5f37f95896ff30c",
       "title": "AWS outage: Are we relying too much on US big tech?",
       "url": "https://www.bbc.com/news/articles/c0jdgp6n45po?at_medium=RSS&at_campaign=rss",
@@ -362,6 +414,19 @@
       "published": "2025-10-21T18:41:17.000Z",
       "summary_90w": "",
       "raw": "A coroner says some of the care Cerys Lupton-Jones was given at a mental health unit was a \"shambles\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "aa2c68c5f67fdc5a7303ba7eef601be27b0fb94d",
+      "title": "South Africa knock Pakistan out of World Cup in rain-hit match",
+      "url": "https://www.bbc.com/sport/cricket/videos/c4gk00kdnrro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-21T18:38:07.000Z",
+      "summary_90w": "",
+      "raw": "South Africa secure a 150-run victory via the DLS method to knock Pakistan out of the ICC Women's World Cup and return to the top of the table in a rain-plagued fixture in Colombo.",
       "topics": [
         "World"
       ]
@@ -510,19 +575,6 @@
       ]
     },
     {
-      "id": "a5aa2d2f9b31e99f55f10890e45e6dfc121acefe",
-      "title": "Plans for Trump-Putin meeting shelved days after Budapest talks proposed",
-      "url": "https://www.bbc.com/news/articles/c4gjp73gp41o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-21T17:33:45.000Z",
-      "summary_90w": "",
-      "raw": "A White House official said there were \"no plans\" for the two presidents to meet in the \"immediate future\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "18b3c0da0f752e75a060072c738beb0fc5971771",
       "title": "Israel takes steps to shut down international aid groups in Gaza and the West Bank",
       "url": "https://www.npr.org/2025/10/21/nx-s1-5580351/israel-humanitarian-aid-ngos-gaza-west-bank",
@@ -585,19 +637,6 @@
       "raw": "The DfE has announced it will raise tuition fees every year, and will bring in new V-levels after GCSEs.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "ce21ccb536466e0c039aaf27a565ce2f3b6c185e",
-      "title": "Apple MacBook Pro M5 review: new chip, same greatness",
-      "url": "https://www.theverge.com/tech/803349/apple-macbook-pro-14-m5-2025-review",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-21T17:00:00.000Z",
-      "summary_90w": "",
-      "raw": "I promise I photographed the M5 model. But the M4 could stand in as a stunt double just fine.\t\n\nLast year's entry-level MacBook Pro was an impressive return to form for Apple's Pro laptop. Between the M4 chip, increased RAM, improved webcam, and a third Thunderbolt 4 port, the most affordable MacBook Pro was also one of the best deals in Apple's lineup.\nThe M5 sequel is mostly a copy-paste of the same machine - an annual Madden NFL release in laptop form. But instead of a glorified roster update, you get a slightly faster chip and much faster storage, potentially speeding things up when working on big project files and cutting down on time looking at progress bars.\nThat's mostly it. The screen, design, ports, speakers, webcam, and ju …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -949,19 +988,6 @@
       "raw": "Aston Villa remind fans of Uefa rules against \"the displaying of political symbols, messages or flags\" before next month's Europa League match with Maccabi Tel Aviv.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "4948c18c59dcb8cc7b483b9864709c03d5e084b0",
-      "title": "Veeam acquires data security company Securiti AI for $1.7B",
-      "url": "https://techcrunch.com/2025/10/21/veeam-acquires-data-security-company-securiti-ai-for-1-7b/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-21T14:08:12.000Z",
-      "summary_90w": "",
-      "raw": "Veeam plans to offer Securiti's data command center product alongside its existing data resiliency products.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1363,19 +1389,6 @@
       "published": "2025-10-21T03:30:02.000Z",
       "summary_90w": "",
       "raw": "Platform outage checker Downdetector said the issues have impacted more than 1,000 different businesses.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "168fd6e7eb6dc3b2f40e56e38c546a0b1d875935",
-      "title": "Play now",
-      "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-21T03:21:46.000Z",
-      "summary_90w": "",
-      "raw": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
       "topics": [
         "World"
       ]
