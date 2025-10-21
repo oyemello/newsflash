@@ -1,7 +1,20 @@
 {
-  "version": "1761032051251",
-  "generatedAt": "2025-10-21T07:34:11.251Z",
+  "version": "1761032627795",
+  "generatedAt": "2025-10-21T07:43:47.795Z",
   "items": [
+    {
+      "id": "12b9560bd4528f9dd910cfe669113bf6697a274b",
+      "title": "Israel receives body of Hamas hostage Tal Haimi",
+      "url": "https://www.bbc.com/news/articles/cew45zp1228o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-21T07:35:35.000Z",
+      "summary_90w": "",
+      "raw": "Haimi, killed by Hamas on 7 October 2023, is the 13th out of 28 deceased hostages returned under a ceasefire.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "d73f419ba8a39193b729930fb4eab96b48c1fe20",
       "title": "Former French President Sarkozy heads to jail over campaign financing",
@@ -11,6 +24,19 @@
       "published": "2025-10-21T07:28:09.000Z",
       "summary_90w": "",
       "raw": "Nicolas Sarkozy, president from 2007-2012, has appealed against his jail term at La Santé prison.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6301e2b323117724e8583ceab9e1c4de9d4d0b9c",
+      "title": "Japan's parliament elects Sanae Takaichi as nation's first female prime minister",
+      "url": "https://www.npr.org/2025/10/21/nx-s1-5581178/japan-sanae-takaichi-female-prime-minister",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-21T07:27:54.000Z",
+      "summary_90w": "",
+      "raw": "Japan's parliament elected Sanae Takaichi as the country's first female prime minister Tuesday, after her party struck a coalition deal expected to pull her governing bloc further to the right.",
       "topics": [
         "World"
       ]
@@ -952,19 +978,6 @@
       ]
     },
     {
-      "id": "12b9560bd4528f9dd910cfe669113bf6697a274b",
-      "title": "Israel receives body Hamas says is Gaza hostage",
-      "url": "https://www.bbc.com/news/articles/cew45zp1228o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-20T18:23:50.000Z",
-      "summary_90w": "",
-      "raw": "Before Monday, Hamas had handed over all living hostages and 12 out of 28 deceased hostages under a ceasefire.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "cd6673650d91df601255fc2d5dc028b519bb4856",
       "title": "Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed",
       "url": "https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/",
@@ -1196,19 +1209,6 @@
       "raw": "At WordCamp Canada 2025, Automattic CEO Matt Mullenweg called Tumblr his “biggest failure,” noting the challenge of maintaining the platform’s half-billion blogs while it remains unprofitable. Though plans to migrate Tumblr to WordPress infrastructure are on hold, Mullenweg said he hasn’t given up.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "bda537c3d06d68a8c3fe5824dce5904ec67749eb",
-      "title": "Cannabis blunts back pain in 2 new studies",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/10/20/nx-s1-5574424/cannabis-marijuana-back-pain",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-10-20T16:09:54.000Z",
-      "summary_90w": "",
-      "raw": "Millions of Americans use weed to treat chronic pain, but there's little high quality research on whether it works. New findings suggest it can be effective for low back pain, on par with opioids.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1914,16 +1914,29 @@
       ]
     },
     {
-      "id": "c8e064163b9f642d254e02e553f7d32780764afd",
-      "title": "How much can Tesla pay Elon Musk? Delaware's Supreme Court will decide",
-      "url": "https://www.npr.org/2025/10/15/nx-s1-5567930/elon-musk-tesla-compensation-case-appeal",
+      "id": "234bf17d946f393df7a09499d15623ac32aaaf2e",
+      "title": "'Broadcasting' has its roots in agriculture. Here's how it made its way into media",
+      "url": "https://www.npr.org/2025/10/15/nx-s1-5573073/broadcasting-word-origins-history",
       "source_id": "npr-business",
       "source_name": "NPR Topics: Business",
       "published": "2025-10-15T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "On Wednesday, the Delaware Supreme Court will hear oral arguments in a lawsuit over Tesla's record-setting compensation package for Elon Musk.",
+      "raw": "The word 'broadcasting' dates back centuries, and originally described a method of sowing seeds. But it took on a new meaning with the rise of radio in the 1920s.",
       "topics": [
         "Business"
+      ]
+    },
+    {
+      "id": "c8e064163b9f642d254e02e553f7d32780764afd",
+      "title": "How much can Tesla pay Elon Musk? Delaware's Supreme Court will decide",
+      "url": "https://www.npr.org/2025/10/15/nx-s1-5567930/elon-musk-tesla-compensation-case-appeal",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2025-10-15T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "On Wednesday, the Delaware Supreme Court will hear oral arguments in a lawsuit over Tesla's record-setting compensation package for Elon Musk.",
+      "topics": [
+        "Technology"
       ]
     },
     {
