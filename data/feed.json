@@ -1,7 +1,59 @@
 {
-  "version": "1761081272934",
-  "generatedAt": "2025-10-21T21:14:32.934Z",
+  "version": "1761082335851",
+  "generatedAt": "2025-10-21T21:32:15.851Z",
   "items": [
+    {
+      "id": "07b0bdcb25ae9b217f17876c55950dc2ae357fbe",
+      "title": "The federal government ends funding for an ambitious AI project",
+      "url": "https://www.npr.org/2025/10/21/nx-s1-5577879/the-federal-government-ends-funding-for-an-ambitious-ai-project",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2025-10-21T21:22:54.000Z",
+      "summary_90w": "",
+      "raw": "The Trump administration has pledged to invest in artificial intelligence. Yet a promising program that uses AI to solve weather-related problems lost funding from the National Science Foundation.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1c3efa38e3bcd1ee865251084c5af0d40ac642d1",
+      "title": "OpenAI’s new browser is a broadside shot at Google ",
+      "url": "https://techcrunch.com/2025/10/21/openais-new-browser-is-a-broadside-shot-at-google/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-21T21:17:50.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI's new browser announcement made it clear exactly how much Google has to lose in the AI era.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3e0dd91cfad57c555ed101d9001cf1a1c04301e8",
+      "title": "YouTube’s AI ‘likeness detection’ tool is searching for deepfakes of popular creators",
+      "url": "https://www.theverge.com/news/803818/youtube-ai-likeness-detection-deepfake",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-21T21:17:15.000Z",
+      "summary_90w": "",
+      "raw": "Starting today, creators in YouTube’s Partner Program are getting access to a new AI detection feature that will allow them to find and report unauthorized uploads using their likeness. As shown in this video from YouTube, after verifying their identity, creators can review flagged videos in the Content Detection tab on YouTube Studio. If a video looks like unauthorized, AI-generated content, creators can submit a request for it to be removed. \nThe first wave of eligible creators was notified via email this morning, and the feature will roll out to more creators over the next few months. YouTube warned early users in a guide on the feature that, in its current in-development state, it “may display videos featuring your actual face, not altered or synthetic versions,” such as clips of a creator’s own content. It works similarly to Content ID, which YouTube uses to detect copyrighted audio and video content. \n\n\nYouTube originally announced this feature last year and began testing it in December through a pilot program with talent represented by Creative Artists Agency (CAA). YouTube’s blog post at the time said, “Through this collaboration, several of the world’s most influential figures will have access to early-stage technology designed to identify and manage AI-generated content that features their likeness, including their face, on YouTube at scale.”\nYouTube and Google are among many tech firms pushing AI video generation and editing tools, and the likeness detection tool isn’t their only feature in development to deal with AI-generated content on the platform. Last March, YouTube also began requiring creators to label uploads that include content generated or altered using AI and announced a strict policy around AI-generated music “that mimics an artist’s unique singing or rapping voice.”",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7a0e3a05f62fa5a755974edb76b89cf763b49b24",
+      "title": "British officers sent to Israel to help monitor Gaza ceasefire",
+      "url": "https://www.bbc.com/news/articles/cly9jqzvzy9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-21T21:11:22.000Z",
+      "summary_90w": "",
+      "raw": "A small number of British planning officers has been sent to Israel to join a US-led multinational taskforce.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "acf55787f1a33ebc37240071bb8055745b8f3827",
       "title": "Police in Dublin attacked at protest outside asylum seeker hotel",
@@ -16,14 +68,14 @@
       ]
     },
     {
-      "id": "3054ab56ebe6da51c4c19538228afe345af15c8d",
-      "title": "Oxford Union president-elect ousted over Charlie Kirk posts",
-      "url": "https://www.bbc.com/news/articles/ceq0929eyg5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-21T21:05:46.000Z",
+      "id": "0779778b24ba9f9e5235c8fb81cdb1f17fc8dc59",
+      "title": "Australia news live: Sydney forecast to have hottest ever October day as Melbourne braces for destructive winds",
+      "url": "https://www.theguardian.com/australia-news/live/2025/oct/22/australia-news-live-weather-nsw-qld-heat-record-melbourne-destructive-wind-rex-airlines-bid-albanese-washington-sussan-ley-labor-coalition-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-21T21:07:13.000Z",
       "summary_90w": "",
-      "raw": "The Oxford Union announces George Abaraonye loses a no-confidence motion by 1,228 votes to 501.",
+      "raw": "Predicted high of 39C would be hotter than 38.2C October record from 2004. Follow today’s news live\n\nOctober heat records broken across Australia as Sydney braces for temperatures way above the norm\n\nGet our breaking news email, free app or daily news podcast\n\nBrittany Higgins has dropped her appeal against the Western Australia supreme court decision that she defamed Linda Reynolds in a series of social media posts, according to reports.\nIn August the state supreme court judge Paul Tottle ruled that the former defence minister’s reputation was damaged by a 2022 social media post from David Sharaz, which Higgins responded to, and an Instagram story published by Higgins in July 2023.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -36,22 +88,9 @@
       "source_name": "The Verge",
       "published": "2025-10-21T21:04:55.000Z",
       "summary_90w": "",
-      "raw": "We already know that the next-gen Xbox console isn’t locked to a single store, will use an AMD chip inside, and will maintain compatibility with existing Xbox games. Now, Microsoft appears to be teasing that the next-gen Xbox will be some type of hybrid console and PC.\nXbox president Sarah Bond sat down with Mashable this week to discuss the latest Xbox Ally X handheld, and dropped some vague hints about Microsoft’s next-gen Xbox console. When asked about rumors that the next-gen Xbox console will be more PC-like and more powerful, Bond appeared to agree. “I can tell you’re right, that the next-gen console will be a very premium and high-end curated experience,” said Bond. “You’re starting to see some of the thinking we have in this handheld, but I don’t want to give it all away.”\n\nI’ve been writing for more than a year that the next Xbox console will be more PC-like, and that the Xbox Ally devices are an early look at what’s to come. Bond’s latest comments are subtle, but they once again line up with her previous promise of delivering an “Xbox experience not locked to a single store or tied to one device,” and prioritizing Windows. “That’s why we’re working closely with the Windows team to ensure that Windows is the number one platform for gaming,” said Bond in June, while announcing a multi-year partnership with AMD for a portfolio of Xbox devices.\nI’m convinced that Microsoft’s next-gen Xbox console will be powered by Windows and be part of a number of devices from third parties that Microsoft also considers Xbox consoles. A $1,000 Xbox Ally X handheld tests the appetite for pricey next-gen consoles, and it may well also test the appetite for a combination of Xbox and Windows. Perhaps that’s what Bond means when she says the next-gen Xbox will deliver “the largest technical leap you will have ever seen in a hardware generation.”",
+      "raw": "We already know that the next-gen Xbox console isn’t locked to a single store, will use an AMD chip inside, and will maintain compatibility with an existing library of Xbox games. Now, Microsoft appears to be teasing that the next-gen Xbox will be some type of hybrid console and PC.\nXbox president Sarah Bond sat down with Mashable this week to discuss the latest Xbox Ally X handheld, and dropped some vague hints about Microsoft’s next-gen Xbox console. When asked about rumors that the next-gen Xbox console will be more like a gaming PC, Bond appeared to agree. “I can tell you you’re right, that the next-gen console is going to be a very premium, very high-end curated experience,” said Bond. “You’re starting to see some of the thinking we have in this handheld, but I don’t want to give it all away.”\n\nI’ve been writing for more than a year that the next Xbox console will be more PC-like, and that the Xbox Ally devices are an early look at what’s to come. Bond’s latest comments are subtle, but they once again line up with her previous promise of delivering an “Xbox experience not locked to a single store or tied to one device,” and prioritizing Windows. “That’s why we’re working closely with the Windows team to ensure that Windows is the number one platform for gaming,” said Bond in June, while announcing a multi-year partnership with AMD for a portfolio of Xbox devices.\nI’m convinced that Microsoft’s next-gen Xbox console will be powered by Windows and be part of a number of devices from third parties that Microsoft also considers Xbox consoles. A $1,000 Xbox Ally X handheld tests the appetite for pricey next-gen consoles, and it may well also test the appetite for a combination of Xbox and Windows. Perhaps that’s what Bond means when she says the next-gen Xbox will deliver “the largest technical leap you will have ever seen in a hardware generation.”",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "0779778b24ba9f9e5235c8fb81cdb1f17fc8dc59",
-      "title": "Australia news live: Sydney forecast to have hottest ever October day as Melbourne braces for destructive winds",
-      "url": "https://www.theguardian.com/australia-news/live/2025/oct/22/australia-news-live-weather-nsw-qld-heat-record-melbourne-destructive-wind-rex-airlines-bid-albanese-washington-sussan-ley-labor-coalition-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-21T20:54:46.000Z",
-      "summary_90w": "",
-      "raw": "Predicted high of 39C would be hotter than 38.2C October record from 2004. Follow today’s news live\n\nOctober heat records broken across Australia as Sydney braces for temperatures way above the norm\n\nGet our breaking news email, free app or daily news podcast\n\nBrittany Higgins has dropped her appeal against the Western Australia supreme court decision that she defamed Linda Reynolds in a series of social media posts, according to reports.\nIn August the state supreme court judge Paul Tottle ruled that the former defence minister’s reputation was damaged by a 2022 social media post from David Sharaz, which Higgins responded to, and an Instagram story published by Higgins in July 2023.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -601,19 +640,6 @@
       ]
     },
     {
-      "id": "a10a383298a142b9c5c2d2eed0652fba2a721ed0",
-      "title": "Even Xbox developer kits are getting a big price hike",
-      "url": "https://www.theverge.com/report/803237/microsoft-xbox-devkit-price-hikes-developers",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-21T16:35:02.000Z",
-      "summary_90w": "",
-      "raw": "After raising prices on Xbox consoles and subscriptions, Microsoft is now turning its attention to Xbox developers. Sources familiar with Microsoft's plans tell The Verge that the company is significantly increasing the price of its Xbox Development Kit (XDK) - the custom hardware used by developers to build Xbox games.\nThe current Xbox dev kit is moving from $1,500 to $2,000, a 33 percent jump in price. \"The adjustment reflects macroeconomic developments,\" says Microsoft in an announcement to Xbox developers, seen by The Verge. \"We remain committed to providing high-quality tools and support for your development efforts.\" I asked Microsoft …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "11a3ab6d3514aa7a44ec6a2343a3850042258ed4",
       "title": "Books about race and gender to be returned to school libraries on some military bases",
       "url": "https://www.npr.org/2025/10/21/nx-s1-5580738/judge-banned-books-returned-to-military-school-libraries",
@@ -946,7 +972,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-10-21T14:00:39.000Z",
       "summary_90w": "",
-      "raw": "Though the dollar benefits may not outweigh the cost on Australia’s new mining agreement with the US, experts say it couldn’t have gone any better\n\nGet our breaking news email, free app or daily news podcast\n\nAnthony Albanese has struck a multi-billion dollar deal with Donald Trump to develop critical minerals projects in Australia that will never be commercially viable.\nWhen it’s laid out like that, it very much sounds like our prime minister fell victim to the president’s “art of the deal”. But we are in a new world where the national value of our critical minerals extends beyond economics, experts say.\n Continue reading...",
+      "raw": "Though the dollar benefits may not outweigh the cost on Australia’s new mining agreement with the US, experts say it couldn’t have gone any better\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAnthony Albanese has struck a multibillion-dollar deal with Donald Trump to develop critical minerals projects in Australia that will never be commercially viable.\nWhen it’s laid out like that, it very much sounds as though our prime minister fell victim to the president’s “art of the deal”. But we are in a new world where the national value of our critical minerals extends beyond economics, experts say.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1040,19 +1066,6 @@
       "raw": "While AI is increasingly used to write code, every line is still reviewed by humans. Some engineers complain about having to clean up AI-generated code.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "ff0556784d12687d7c1f4120790d286d18d87a28",
-      "title": "X is testing a pay-per-use pricing model for its API",
-      "url": "https://techcrunch.com/2025/10/21/x-is-testing-a-pay-per-use-pricing-model-for-its-api/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-21T12:56:07.000Z",
-      "summary_90w": "",
-      "raw": "Two years after revamping its developer programs and pricing, X is expanding the closed beta of a pay-per-use plan for its API to more developers.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1792,19 +1805,6 @@
       "published": "2025-10-17T03:20:26.000Z",
       "summary_90w": "",
       "raw": "Typically a shopping event that begins on 11 November - Singles Day has kicked off earlier this year.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "00120a70105e9cff121de8fca6d17e611022f431",
-      "title": "Is the AI boom an AI bubble?",
-      "url": "https://www.npr.org/2025/10/16/nx-s1-5574391/is-the-ai-boom-an-ai-bubble",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2025-10-16T19:52:42.000Z",
-      "summary_90w": "",
-      "raw": "NPR's Ailsa Chang speaks with Jared Bernstein, a Stanford University economist who was once chief economic adviser to President Biden, on a potential artificial intelligence bubble in the U.S.",
       "topics": [
         "Technology"
       ]
