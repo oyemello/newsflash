@@ -1,7 +1,85 @@
 {
-  "version": "1761146088902",
-  "generatedAt": "2025-10-22T15:14:48.902Z",
+  "version": "1761147371733",
+  "generatedAt": "2025-10-22T15:36:11.733Z",
   "items": [
+    {
+      "id": "1a9f5fb993cb5798e04e8ec8b57d946641baaa12",
+      "title": "Eight Sleep adds ‘outage mode’ to smart beds after AWS problems left them frozen",
+      "url": "https://www.theverge.com/news/804289/eight-sleep-smart-bed-aws-outage-overheating-offline",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-22T15:28:06.000Z",
+      "summary_90w": "",
+      "raw": "Eight Sleep Pod mattress toppers can now be controlled offline in the event of future outages.\t\n\nSome smart bed users were quite literally losing sleep over the massive AWS outage on Monday. Eight Sleep’s elevating, temperature-controlling mattress systems were temporarily knocked out of service by Amazon’s server issues, with users on Reddit and X reporting their smart beds were stuck at sweltering temperatures and uncomfortable incline positions. Even our senior reviewer, Victoria Song, woke up on Monday with an Eight Sleep Pod 4 stuck upright due to the outage.\n“The AWS outage has impacted some of our users since last night, disrupting their sleep,” Eight Sleep CEO Matteo Franceschetti said in an X post on Tuesday. “That is not the experience we want to provide and I want to apologize for it.”\nThe company’s “Pod” mattress toppers — which start at $2,000 depending on the model and size, alongside a monthly Autopilot subscription (starting at $17) to use the features — rely on cloud connectivity. An active internet connection is required to control temperature and elevation settings via the Eight Sleep app, and it previously didn’t provide a way to adjust features offline.\nThe company started shipping out a new “outage mode” yesterday to address this, Eight Sleep spokesperson Nadine Hachicho told The Verge, which allows the app to communicate with Pod devices over Bluetooth when cloud infrastructure is unavailable. “During an outage, you’ll still be able to open the app, turn the Pod on/off, change temperature levels, and flatten the base,” Hachicho said.\nDuring the AWS outage, customers reported that their beds were stuck in whatever settings had been active at the time. A Reddit user claimed that one side of their bed had “set itself to 110F and won’t turn down.” Another user also responded to Franceschetti’s X post, saying their bed was stuck “in an inclined position.”\n“I woke up too hot in the middle of the night last night and kept double-tapping like a maniac to adjust the temp down since I wasn’t getting any haptic feedback. I only found out why after I got up in the morning,” said one Eight Sleep user on Reddit. “It would be somewhat understandable that Autopilot stops working because Eight Sleep’s backend is down but not being able to even adjust the temperature locally is ridiculous and completely unacceptable for such a high-end (and expensive) product.”\nFranceschetti said that all Eight Sleep devices are “currently working” again as of Tuesday, and said, “We will work the whole night+24/7 to build an outage mode so the problem will be fixed extremely quickly.”  That’s certainly a speedy resolution promise, especially when you consider that Eight Sleep customers have been complaining about the lack of offline feature controls for several years now.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1521ec65a1fc27244a92689096661caf24c22245",
+      "title": "Greetings from an Indian Railways coach, with spectacular views from Mumbai to Goa",
+      "url": "https://www.npr.org/2025/10/22/g-s1-94347/india-train-mumbai-goa",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-22T15:26:11.000Z",
+      "summary_90w": "",
+      "raw": "Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "dcc2918b66e6ac9dbe4ba277e4b7380eb2c79a97",
+      "title": "Child abuse expert pulls out of grooming inquiry over political 'point scoring'",
+      "url": "https://www.bbc.com/news/articles/c629zvnd5lno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-22T15:17:21.000Z",
+      "summary_90w": "",
+      "raw": "Child exploitation expert Jim Gamble pulls out, after four women quit the inquiry's panel of survivors.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "39218772d64abf475e919da811088616783f70a0",
+      "title": "Manchester Pride goes bust with thousands owed in unpaid fees",
+      "url": "https://www.bbc.com/news/articles/cpwvdvv70z7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-22T15:16:17.000Z",
+      "summary_90w": "",
+      "raw": "Organisers say the event is no longer \"financially viable\", blaming rising costs and declining ticket sales.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "98a1fe0651705eb5a6582604d00a6be752b67632",
+      "title": "Trump’s call to freeze Ukraine conflict at current frontlines is ‘good compromise’, says Zelenskyy – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/oct/22/russia-ukraine-war-kyiv-attack-latest-news-updates-europe",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-22T15:14:23.000Z",
+      "summary_90w": "",
+      "raw": "Ukrainian president’s comments come amid suspension of planned US-Russian summit and fresh attacks on Kyiv and Kharkiv\n\nChildren among six killed in Russian attack on Kyiv\n\nRussia said on Wednesday that preparation for a presidential summit between Vladimir Putin and Donald Trump was still continuing, despite the latter announcing it had been shelved (see 10.30am BST).\n“We are saying that preparations for a summit are continuing,” Russian deputy foreign minister Sergei Ryabkov was quoted as saying by the state TASS news agency.\nI want to officially confirm: Russia has not changed its position compared to the understandings that were reached during the Alaska summit.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7f17c33e638142b3b2f433a1873c1bfe88a74e9e",
+      "title": "Prince Andrew should face MPs over Royal Lodge lease, says Davey",
+      "url": "https://www.bbc.com/news/articles/c0exgrgd9w2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-22T15:13:40.000Z",
+      "summary_90w": "",
+      "raw": "Sir Ed Davey says Prince Andrew should be give evidence to a select committee inquiry about Crown finances.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "ef4a183a02712530771e7b5c2b51b873fa898edc",
       "title": "Louvre reopens three days after French crown jewels stolen",
@@ -62,7 +140,7 @@
       "source_name": "The Verge",
       "published": "2025-10-22T15:00:00.000Z",
       "summary_90w": "",
-      "raw": "A vehicle is welded by robot arms as it goes through the assembly line at the General Motors Lansing Delta Township Assembly plant in Lansing, Michigan. | Photo: Getty Images\t\n\nGeneral Motors may be shrinking its electric vehicle production, but the automaker wants investors to know its still committed to future technologies like automated driving, software-defined vehicles, and AI voice assistants. Today, GM CEO Mary Barra announced a string of new features coming to the company’s brands, like Cadillac and Chevy, that she said will help “define the next chapter” of America’s biggest automaker.\nThe news comes after GM said it would take a $1.6 billion loss related to its planned rollout of EVs. The automaker attributed the loss to the expiration of the $7,500 federal EV tax credit, which was eliminated as part of President Donald Trump’s budget bill. Experts predict EV sales to plunge in the aftermath of the credit’s loss, potentially imperiling America’s position as an automotive leader in the world.\nBut GM is trying to shift the focus to autonomous driving, AI, and advanced software as some of the potential ways the US can maintain its edge in the global race, especially as it continues to compete with rapid advances from China. \n\nAutomated driving, software-defined vehicles, and AI voice assistants\n\n\nTo start out, GM says it will debut a Level 3 hands-free, eyes-off highway driving feature in the Cadillac Escalade IQ in 2028. The company was a pioneer in hands-free driving with the release of its Level 2 Super Cruise in 2017. And now GM is ready to take things to the next level. \nGM says the new Level 3 system will work across the 600,000-mile mapped highway network — slightly less than the 750,000 miles covered by Super Cruise — and backed by advanced perception and decision-making technology. \nAs defined by the Society for Automotive Engineers (SAE), Level 3 describes highly automated driving, where the driver still needs to be able to take over control of the vehicle upon request but can also take their eyes off the road in certain situations. It’s not a fully autonomous system, like Waymo, and often only works at reduced speeds on mapped roads. Some experts have argued that L3 systems can be dangerous given the need for drivers to stay attentive despite the vehicle performing most of the driving tasks.\nIn an interview on The Verge’s Decoder podcast, GM’s new chief product officer, Sterling Anderson, said the rollout of Level 3 driving would be defined by safety, as evidenced by the company’s track record with Super Cruise. Anderson, who previously worked at Tesla, where he led both the Model X program and the team that delivered Autopilot, said that GM’s hands-free system was an industry leader when it comes to safety.\n“Our customers have driven over 700 million hands-free miles with Super Cruise without a single accident attributed to the technology,” he said. “I led Autopilot. You can’t say that for Autopilot.”\n\n“I led Autopilot. You can’t say that for Autopilot.”\n\n\nGM is shifting to Level 3 conditional autonomy after the failure of its Cruise robotaxi division, which was shut down earlier this year after the company fumbled the response to a pedestrian injury. GM has since rehired many of Cruise’s former employees to work on Super Cruise and its plan to eventually sell “personally owned” autonomous vehicles. \nAnd starting next year, GM plans to introduce Google’s Gemini AI in its cars as a new, more conversational voice assistant. Other automakers have also said they plan on doing something similar, including Volvo. But in the future, GM says it will introduce its own AI companion that’s “tuned to your vehicle’s intelligence and personal preferences.” \n“It’s about asking about your destination,” Anderson said. “It’s about asking about a number of other things where it can give you kind of contextual responses.”\nGM already uses Google’s software in a number of different applications for its cars, including conversational AI chatbots to handle simple OnStar calls. The car company also cut off access to popular phone mirroring services Apple CarPlay and Android Auto in its EVs in favor of a more deeply integrated Android software experience. \nSpeaking of software, GM says it expects to roll out a new centralized computing platform in 2028, starting again with the Escalade IQ. The automaker is calling it a “full reimagining of how vehicles are designed, updated, and improved over time,” which it says will include “10 times more over-the-air software update capacity, 1,000 times more bandwidth, and up to 35 times more AI performance for autonomy and advanced features.” The new computing platform will be rolled out to both GM’s EVs and internal combustion engine vehicles, the company said.\nAnderson offered some more details in his interview on Decoder:\nWhat it does is from a networking’s perspective, it moves to Ethernet-based networking, which allows us to move to sub-millisecond response times, take magnetic suspension systems or dampers, as your example, from accelerometer through controller back to actuator. We’re talking sub-one millisecond. You’re talking a thousand hertz, that’s a 10x improvement over previous electrical architectures. It’s a massive, massive opportunity not only for the dynamics, which I found General Motors is extraordinarily good at, but for the software that we can deploy on this.\nGM also shared updates on its robotics division, where it has 100 roboticists, AI engineers, and hardware specialists building advanced robotics systems to boost its manufacturing processes. These factory robots are being trained on GM’s production data, including telemetry, quality metrics, and sensor data, which will help feed a model that “improves with every manufacturing cycle.”\n\nGM says it expects to roll out a new centralized computing platform in 2028, starting again with the Escalade IQ\n\n\nThe work is being done right now at GM’s Autonomous Robotics Center (ARC) in Warren, Michigan, as well as at a sister lab in Mountain View, California. The center is currently hiring, seeking positions such as electrical systems architect and validation engineer, to develop next-generation automation software that can orchestrate diverse robot fleets, assign tasks based on plant needs, and manage how people and machines move through facilities.\nAnderson said that GM currently has “30,000 robots operating alongside on the order of 97,000 production associates in 11 facilities.” Many of those are giant arms that “sit in cages with e-stops on the outside that can’t operate in and around humans because they’re simply not designed for it,” he said.\nGM’s future robots will look much different. “We’re developing autonomous mobile robots that move materials through our factories,” Anderson said. “We’ve started deploying those.” GM is also developing collaborative robotic systems, or cobots, that can operate alongside factory workers.\nAnd lastly, GM is announcing a new program to enable EV owners to send backup energy in their vehicles’ batteries back to the grid. GM has touted this capability since launching its home energy and battery storage division, GM Energy, in 2022.\nMany EVs with high-capacity batteries have the ability to serve as backup power in the event of a blackout. EVs can also feed power back into the grid during times of peak demand. GM says that starting next year it will begin offering a new leasing model for the GM Energy Home System, which offers backup power, solar integration, and a unified app to control everything.",
+      "raw": "A vehicle is welded by robot arms as it goes through the assembly line at the General Motors Lansing Delta Township Assembly plant in Lansing, Michigan. | Photo: Getty Images\t\n\nGeneral Motors may be shrinking its electric vehicle production, but the automaker wants investors to know its still committed to future technologies like automated driving, software-defined vehicles, and AI voice assistants. Today, GM CEO Mary Barra announced a string of new features coming to the company’s brands, like Cadillac and Chevy, that she said will help “define the next chapter” of America’s biggest automaker.\nThe news comes after GM said it would take a $1.6 billion loss related to its planned rollout of EVs. The automaker attributed the loss to the expiration of the $7,500 federal EV tax credit, which was eliminated as part of President Donald Trump’s budget bill. Experts predict EV sales to plunge in the aftermath of the credit’s loss, potentially imperiling America’s position as an automotive leader in the world.\nBut GM is trying to shift the focus to autonomous driving, AI, and advanced software as some of the potential ways the US can maintain its edge in the global race, especially as it continues to compete with rapid advances from China. \n\nAutomated driving, software-defined vehicles, and AI voice assistants\n\n\nTo start out, GM says it will debut a Level 3 hands-free, eyes-off highway driving feature in the Cadillac Escalade IQ in 2028. The company was a pioneer in hands-free driving with the release of its Level 2 Super Cruise in 2017. And now GM is ready to take things to the next level. \nGM says the new Level 3 system will work across all highways in the US — similar to the 750,000 miles covered by Super Cruise — and backed by advanced perception and decision-making technology.\nAs defined by the Society for Automotive Engineers (SAE), Level 3 describes highly automated driving, where the driver still needs to be able to take over control of the vehicle upon request but can also take their eyes off the road in certain situations. It’s not a fully autonomous system, like Waymo, and often only works at reduced speeds on mapped roads. Some experts have argued that L3 systems can be dangerous given the need for drivers to stay attentive despite the vehicle performing most of the driving tasks.\nIn an interview on The Verge’s Decoder podcast, GM’s new chief product officer, Sterling Anderson, said the rollout of Level 3 driving would be defined by safety, as evidenced by the company’s track record with Super Cruise. Anderson, who previously worked at Tesla, where he led both the Model X program and the team that delivered Autopilot, said that GM’s hands-free system was an industry leader when it comes to safety.\n“Our customers have driven over 700 million hands-free miles with Super Cruise without a single accident attributed to the technology,” he said. “I led Autopilot. You can’t say that for Autopilot.”\n\n“I led Autopilot. You can’t say that for Autopilot.”\n\n\nGM is shifting to Level 3 conditional autonomy after the failure of its Cruise robotaxi division, which was shut down earlier this year after the company fumbled the response to a pedestrian injury. GM has since rehired many of Cruise’s former employees to work on Super Cruise and its plan to eventually sell “personally owned” autonomous vehicles. \nAnd starting next year, GM plans to introduce Google’s Gemini AI in its cars as a new, more conversational voice assistant. Other automakers have also said they plan on doing something similar, including Volvo. But in the future, GM says it will introduce its own AI companion that’s “tuned to your vehicle’s intelligence and personal preferences.” \n“It’s about asking about your destination,” Anderson said. “It’s about asking about a number of other things where it can give you kind of contextual responses.”\nGM already uses Google’s software in a number of different applications for its cars, including conversational AI chatbots to handle simple OnStar calls. The car company also cut off access to popular phone mirroring services Apple CarPlay and Android Auto in its EVs in favor of a more deeply integrated Android software experience. \nSpeaking of software, GM says it expects to roll out a new centralized computing platform in 2028, starting again with the Escalade IQ. The automaker is calling it a “full reimagining of how vehicles are designed, updated, and improved over time,” which it says will include “10 times more over-the-air software update capacity, 1,000 times more bandwidth, and up to 35 times more AI performance for autonomy and advanced features.” The new computing platform will be rolled out to both GM’s EVs and internal combustion engine vehicles, the company said.\nAnderson offered some more details in his interview on Decoder:\nWhat it does is from a networking’s perspective, it moves to Ethernet-based networking, which allows us to move to sub-millisecond response times, take magnetic suspension systems or dampers, as your example, from accelerometer through controller back to actuator. We’re talking sub-one millisecond. You’re talking a thousand hertz, that’s a 10x improvement over previous electrical architectures. It’s a massive, massive opportunity not only for the dynamics, which I found General Motors is extraordinarily good at, but for the software that we can deploy on this.\nGM also shared updates on its robotics division, where it has 100 roboticists, AI engineers, and hardware specialists building advanced robotics systems to boost its manufacturing processes. These factory robots are being trained on GM’s production data, including telemetry, quality metrics, and sensor data, which will help feed a model that “improves with every manufacturing cycle.”\n\nGM says it expects to roll out a new centralized computing platform in 2028, starting again with the Escalade IQ\n\n\nThe work is being done right now at GM’s Autonomous Robotics Center (ARC) in Warren, Michigan, as well as at a sister lab in Mountain View, California. The center is currently hiring, seeking positions such as electrical systems architect and validation engineer, to develop next-generation automation software that can orchestrate diverse robot fleets, assign tasks based on plant needs, and manage how people and machines move through facilities.\nAnderson said that GM currently has “30,000 robots operating alongside on the order of 97,000 production associates in 11 facilities.” Many of those are giant arms that “sit in cages with e-stops on the outside that can’t operate in and around humans because they’re simply not designed for it,” he said.\nGM’s future robots will look much different. “We’re developing autonomous mobile robots that move materials through our factories,” Anderson said. “We’ve started deploying those.” GM is also developing collaborative robotic systems, or cobots, that can operate alongside factory workers.\nAnd lastly, GM is announcing a new program to enable EV owners to send backup energy in their vehicles’ batteries back to the grid. GM has touted this capability since launching its home energy and battery storage division, GM Energy, in 2022.\nMany EVs with high-capacity batteries have the ability to serve as backup power in the event of a blackout. EVs can also feed power back into the grid during times of peak demand. GM says that starting next year it will begin offering a new leasing model for the GM Energy Home System, which offers backup power, solar integration, and a unified app to control everything.",
       "topics": [
         "Technology"
       ]
@@ -172,19 +250,6 @@
       ]
     },
     {
-      "id": "39218772d64abf475e919da811088616783f70a0",
-      "title": "Manchester Pride goes bust with thousands owed in unpaid fees",
-      "url": "https://www.bbc.com/news/articles/cpwvdvv70z7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-22T14:37:54.000Z",
-      "summary_90w": "",
-      "raw": "Organisers say the event is no longer \"financially viable\", blaming rising costs and declining ticket sales.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5eef8fbd42e5099f18c2ef1c758ebc69dee8e834",
       "title": "As the US flip-flops on the path to peace, Europe’s ‘coalition of the willing’ rallies round Ukraine",
       "url": "https://www.theguardian.com/world/2025/oct/22/this-is-europe-coalition-of-the-willing-reparations-loan",
@@ -211,19 +276,6 @@
       ]
     },
     {
-      "id": "98a1fe0651705eb5a6582604d00a6be752b67632",
-      "title": "Trump’s call to freeze Ukraine conflict at current frontlines is ‘good compromise’, says Zelenskyy – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/22/russia-ukraine-war-kyiv-attack-latest-news-updates-europe",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-22T14:28:28.000Z",
-      "summary_90w": "",
-      "raw": "Ukrainian president’s comments come amid suspension of planned US-Russian summit and fresh attacks on Kyiv and Kharkiv\n\nChildren among six killed in Russian attack on Kyiv\n\nRussia said on Wednesday that preparation for a presidential summit between Vladimir Putin and Donald Trump was still continuing, despite the latter announcing it had been shelved (see 10.30am BST).\n“We are saying that preparations for a summit are continuing,” Russian deputy foreign minister Sergei Ryabkov was quoted as saying by the state TASS news agency.\nI want to officially confirm: Russia has not changed its position compared to the understandings that were reached during the Alaska summit.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f24d20d4bca38869162638009cf73a51a0560ffc",
       "title": "Several users reportedly complain to FTC that ChatGPT is causing psychological harm",
       "url": "https://techcrunch.com/2025/10/22/several-users-reportedly-complain-to-ftc-that-chatgpt-is-causing-psychological-harm/",
@@ -238,13 +290,13 @@
     },
     {
       "id": "d27b12c0fb264c17bf2123a56697dd7e128fc126",
-      "title": "‘Just extraordinary’: Louvre broken window now on tourist trail as museum reopens after jewel heist",
+      "title": "The Louvre’s new must-see? The broken window smashed by thieves in €88m jewel heist",
       "url": "https://www.theguardian.com/world/2025/oct/22/paris-louvre-jewellery-heist-museum-reopens",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-10-22T14:13:38.000Z",
       "summary_90w": "",
-      "raw": "Apollo gallery remains closed as police investigate €88m robbery and director faces questioning over security\n\nIt is already, in a small way, Paris’s newest tourist attraction. “And on our right,” boomed the guide on the bateau mouche tour boat heading up the Seine, “the Louvre – and the window thieves smashed to steal France’s crown jewels.”\nThe world’s most visited museum reopened on Wednesday for the first time since a gang of four men broke into its Apollo gallery on Sunday, making off with €88m (£76m) of Napoleonic jewellery in France’s most dramatic heist in decades.\n Continue reading...",
+      "raw": "Visitors flock to visit Paris museum as it reopens, but some are more interested in evidence of Sunday’s dramatic robbery than the art works inside\nIt is already, in a small way, Paris’s newest tourist attraction. “And on our right,” boomed the guide on the bateau mouche tour boat heading up the Seine, “the Louvre – and the window thieves smashed to steal France’s crown jewels.”\nThe world’s most visited museum reopened on Wednesday for the first time since a gang of four men broke into its Apollo gallery on Sunday, making off with €88m (£76m) of Napoleonic jewellery in France’s most dramatic heist in decades.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -258,6 +310,19 @@
       "published": "2025-10-22T14:07:16.000Z",
       "summary_90w": "",
       "raw": "The Competition and Markets Authority says the tech giant dominates the smartphone market along with Google.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "493e051e6952506a5bd1c9ef209c06d959369ff7",
+      "title": "Which benefits are going up and by how much?",
+      "url": "https://www.bbc.com/news/articles/cm2ly7m07x8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-22T14:00:45.000Z",
+      "summary_90w": "",
+      "raw": "The cost of living is always important but this month's data has a particular extra impact for millions of people.",
       "topics": [
         "World"
       ]
@@ -367,19 +432,6 @@
       ]
     },
     {
-      "id": "dcc2918b66e6ac9dbe4ba277e4b7380eb2c79a97",
-      "title": "Second candidate to chair grooming inquiry pulls out after survivors quit",
-      "url": "https://www.bbc.com/news/articles/c629zvnd5lno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-22T13:47:41.000Z",
-      "summary_90w": "",
-      "raw": "Child exploitation expert Jim Gamble pulls out, after four women quit the inquiry's panel of survivors.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ae10984981db71822fb1d975a2516f87993ca784",
       "title": "'Hits the timbers!' - Bell gives England perfect start against Australia",
       "url": "https://www.bbc.com/sport/cricket/videos/c7403dqqdy7o?at_medium=RSS&at_campaign=rss",
@@ -416,19 +468,6 @@
       "raw": "Kin Lane fondly remembers working on the Free Application for Federal Student Aid in 2013. FAFSA is used by millions of college students each year to help access scholarship money, and Lane, an API expert, had an up-close look at the system. He saw the importance of ensuring financial data remains stored securely and can be accessed by Internal Revenue Service tools. The job wasn't flashy, but it was tangibly meaningful - when his own daughter went to college, he would use FAFSA himself.\nLane wasn't a veteran employee. He had recently joined the government as a Presidential Innovation Fellow and, in some ways, a skeptic. He was raised quest …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "7f17c33e638142b3b2f433a1873c1bfe88a74e9e",
-      "title": "Prince Andrew should face MPs over Royal Lodge lease, says Davey",
-      "url": "https://www.bbc.com/news/articles/c0exgrgd9w2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-22T13:34:47.000Z",
-      "summary_90w": "",
-      "raw": "Sir Ed Davey says Prince Andrew should be give evidence to a select committee inquiry about Crown finances.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -481,19 +520,6 @@
       "raw": "Meta is planning to axe around 600 roles within its legacy AI research division, according to a report from Axios. The layoffs will reportedly impact Meta’s Fundamental AI Research unit, also known as FAIR, along with its AI product and infrastructure division, while the company continues to hire workers for its newly formed superintelligence team, TBD Lab.\nMeta spokesperson Ana Brekalo confirmed to The Verge that Axios’s reporting is accurate. Over the summer, Meta kicked off an AI hiring spree after investing $14.3 billion in Scale AI and hiring CEO Alexandr Wang. It paused hiring just months later and announced a restructuring that will focus on AI-related products and infrastructure.\nMeanwhile, Meta’s AI research team has taken a backseat, with FAIR leader Joelle Pineau leaving earlier this year. In August, Meta AI’s head Wang said that Meta “will aim to integrate and scale many of the research ideas and projects from FAIR into the larger model runs conducted by TBD Lab.”\nNow, Meta is reducing roles inside FAIR and other divisions as it makes high-profile hires for TBD Lab. \n“By reducing the size of our team, fewer conversations will be required to make a decision, and each person will be more load-bearing and have more scope and impact,” Wang writes in a memo seen by Axios. Meta will allow impacted employees to apply for other roles within the company, Axios reports. \nUpdate, October 22nd: Added confirmation from Meta.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "2fc68cca75457aeafa611938b1769de14bda0fac",
-      "title": "Tottenham's Naz replaces Park in England squad",
-      "url": "https://www.bbc.com/sport/football/articles/c867pe8xn8no?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-22T13:18:54.000Z",
-      "summary_90w": "",
-      "raw": "Tottenham forward Jess Naz is added to the England squad for the friendlies with Brazil and Australia after Jess Park withdrew because of injury.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -557,19 +583,6 @@
       "published": "2025-10-22T13:00:00.000Z",
       "summary_90w": "",
       "raw": "YouTube is adding an timer for the Shorts feed to curb doomscrolling",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "f5241909fa4267765d7f26527cd314d4dfa09573",
-      "title": "YouTube will help you quit watching Shorts",
-      "url": "https://www.theverge.com/news/804113/youtube-shorts-time-limit-pause-feeds",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-22T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "YouTube has added a new Shorts feature that makes it easier to manage how much time you’re spending watching videos. Mobile users can now set a customizable daily limit that restricts how long they can scroll Shorts feeds, aiming to help viewers better manage their time instead of endlessly scrolling.\nWhen a user reaches their time limit, they will receive a notification saying Shorts has been paused for the day. This notification is dismissible, however, so it’s on the user to honor these self-imposed restrictions. Instagram and TikTok both provide similar optional screen time limits, though TikTok is the only service that expands this to web users.\n“Shorts are a core part of the YouTube experience,” YouTube said in its announcement. “Setting a scrolling time limit on the Shorts feed allows for this exploration while helping users be more deliberate about their viewing habits and manage their time effectively.”\nThe option to set and adjust custom time limits for Shorts can be found within the YouTube account settings. YouTube says it’s “beginning to roll out” starting today, so it may take a while to appear for all mobile users. YouTube says it’s also planning to expand this feature to parental controls “later this year” to proactively manage kids’ screen time, and that these limit notifications will be non-dismissable.",
       "topics": [
         "Technology"
       ]
@@ -823,7 +836,7 @@
     },
     {
       "id": "8c9b5e3967f3af1f3f4c10066cb8181ecd7441e8",
-      "title": "Mamdani's rise in NYC reflects generational fight within the Democratic Party",
+      "title": "Mamdani's rise in NYC reflects a generational fight within the Democratic Party",
       "url": "https://www.npr.org/2025/10/22/nx-s1-5581418/mamdani-cuomo-nyc-mayor",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
@@ -1017,6 +1030,19 @@
       ]
     },
     {
+      "id": "044a7ac89c8e51407b934bca9bb2ac422fa201c5",
+      "title": "'Tough feedback' - how Frankfurt turned Ekitike into £69m star",
+      "url": "https://www.bbc.com/sport/football/articles/cglg401jz52o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-22T06:15:52.000Z",
+      "summary_90w": "",
+      "raw": "Hugo Ekitike arrived at Eintracht Frankfurt having fallen out of favour at PSG, he left for Liverpool 18 months later as a £69m star forward.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "44ab384c7b007cac57b4f41f8404ecd7b344353a",
       "title": "Trump repeats claim India will cut Russian oil imports",
       "url": "https://www.bbc.com/news/articles/c364wk4r1j2o?at_medium=RSS&at_campaign=rss",
@@ -1141,20 +1167,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-10-22T03:00:53.000Z",
       "summary_90w": "",
-      "raw": "he move, welcomed by UN, will allow thousands of people living in camps to support themselves and their families\nThailand is setting a regional precedent this month by giving refugees permission to work in the country in an effort to tackle aid cuts and its own labour shortages.\nMore than 87,000 refugees living in nine refugee camps along Thailand’s border with Myanmar have been totally reliant on handouts of food and foreign aid.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b04150fc3681f971875bba02b9bac9f6f8656834",
-      "title": "Author Philip Pullman calls on government to act on AI using books for training",
-      "url": "https://www.bbc.com/news/articles/cm2w3d2jjw0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-22T02:45:30.000Z",
-      "summary_90w": "",
-      "raw": "The writer of the trilogies His Dark Materials and The Book of Dust wants copyright laws changed.",
+      "raw": "The move, welcomed by UN, will allow thousands of people living in camps to support themselves and their families\nThailand is setting a regional precedent this month by giving refugees permission to work in the country in an effort to tackle aid cuts and its own labour shortages.\nMore than 87,000 refugees living in nine refugee camps along Thailand’s border with Myanmar have been totally reliant on handouts of food and foreign aid.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1350,19 +1363,6 @@
       "published": "2025-10-21T20:08:40.000Z",
       "summary_90w": "",
       "raw": "Alvaro Uribe was the country's first president to be criminally convicted, and faced 12 years' house arrest.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e32e253e894057399ec2b774cba1acdb865672cd",
-      "title": "Pardoned Capitol rioter arrested for allegedly threatening to kill Hakeem Jeffries",
-      "url": "https://www.npr.org/2025/10/21/g-s1-94359/january-6-rioter-pardon-hakeem-jeffries-threat",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-10-21T19:49:38.000Z",
-      "summary_90w": "",
-      "raw": "New York State Police say the man was arrested after they received word from the FBI that that he made \"threats to kill a member of Congress.\"",
       "topics": [
         "World"
       ]
