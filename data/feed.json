@@ -1,7 +1,33 @@
 {
-  "version": "1761251744464",
-  "generatedAt": "2025-10-23T20:35:44.464Z",
+  "version": "1761252719225",
+  "generatedAt": "2025-10-23T20:51:59.225Z",
   "items": [
+    {
+      "id": "379d6c09ed37733e16c913c709eb866fa7b888ff",
+      "title": "Removed migrant who returned to UK will be 'fast-tracked' to France, PM says",
+      "url": "https://www.bbc.com/news/articles/c625jzd979yo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-23T20:39:45.000Z",
+      "summary_90w": "",
+      "raw": "The man is understood to have been removed under the \"one in, one out\" scheme a month ago.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1e4905c56e6ef9bc6dc493cf45112c1de0a70231",
+      "title": "Google is turning on the gas for its data centers",
+      "url": "https://www.theverge.com/news/805682/google-data-center-gas-power-plant-carbon-capture",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-23T20:36:09.000Z",
+      "summary_90w": "",
+      "raw": "Google’s latest pledge to support a new clean energy technology is… a gas project? To be precise, it’s a gas-fired power plant outfitted with filtering devices to capture its planet-heating carbon emissions. Is this just a polluting fossil fuel project in sheep’s clothing? \nGoogle just inked an agreement to support the development of a new gas-fired power plant in Illinois called the Broadwing Energy Center. It’ll be paired with carbon capture and storage (CCS), technology meant to filter carbon dioxide from smokestack emissions and then store it underground so that the greenhouse gas doesn’t build up in the atmosphere.\n\nIs this just a polluting fossil fuel project in sheep’s clothing? \n\n\nIn theory, that’s supposed to help the planet from heating beyond the point at which rising sea levels render entire coastal communities unlivable and ocean warming kills off the world’s coral reefs, among other disasters brought on by climate change. In reality, CCS is mired in doubts about its technical and financial feasibility. There’s also a healthy amount of skepticism over whether CCS will only prolong dependence on fossil fuels rather than encouraging a transition to more sustainable sources of energy, like solar and wind power.\nGoogle says it has agreed to purchase “most” of the power that the new 400MW-capacity power plant at Broadwing produces once it starts operating in 2030. “Our goal is to help bring promising new CCS solutions to the market while learning and innovating quickly,” Google says in its announcement today. \nSo far, CCS has a pretty checkered track record in the US. The US Department of Energy (DOE) has burned through hundreds of millions of dollars on failed CCS projects, according to a 2021 report by the Government Accountability Office. Of nearly $684 million spent on CCS projects at six coal plants, only one of them ever came online. The other projects suffered from “factors affecting their economic viability,” the GAO report says. \nThe cost of electricity from power plants combined with carbon capture is at least 1.5 to 2 times more expensive than that from solar, wind, or traditional coal and gas power plants without CCS, according to a 2023 report based on facilities in Australia. Already, rising electricity demand from data centers have contributed to climbing utility bills in the US.\nThe single CCS project that moved forward in the US with DOE support came online in 2017 before shuttering for a few years starting in 2020, when the covid-19 pandemic sent oil prices crashing. Why was it so sensitive to oil prices when the plant burned coal? The project supplied captured CO2 to an “enhanced oil recovery” project, a process involving shooting the CO2 deep into the ground to force out hard-to-reach reserves, as a means of staying financially viable.  \nThe project that Google is backing differs in a couple key ways. The plant burns gas, which has become a cheaper way to generate power than than burning coal in the US. And the CO2 will be sequestered a mile underground in a well near the power plant, rather than sold as a product for enhanced oil recovery. Google claims Broadwing will be able to permanently store about 90 percent of the carbon dioxide emissions the plant generates, a figure higher than many other CCS projects have been able to achieve to date. \nThat doesn’t account for other problems associated with gas-fired power plants. Even though the industry prefers the term “natural gas,” they primarily burn methane, which is a greenhouse gas even more potent than carbon dioxide. Methane routinely leaks from oil and gas wells and pipelines, a problem that merely capturing CO2 at a power plant fails to solve. Gas plants also produce other air pollutants that pose health risks to nearby communities. \nSolar and onshore wind energy farms don’t come with the same climate pollution problems and are typically cheaper to deploy than fossil fuel-fired power plants these days. Google has been one of the biggest corporate purchasers of renewable energy for years now, helping wind and solar become the fastest-growing sources of new electricity generation.  \nGoogle doesn’t mention that in its announcement today, however, perhaps reflecting the political tide turning against renewables in the US under the Trump administration. Donald Trump has installed fossil fuel executives to lead the Department of Energy and other key posts in his administration while clawing back previously allocated federal funds for renewable energy projects and issuing stop work orders to offshore wind farms under construction. \nRepublicans are sunsetting tax incentives for solar and wind projects, but not for CCS, incidentally. CCS has needed the financial support to help it get off the ground, and now it has another backer in Google. Google is trying to satiate energy-hungry data centers as it scales up its AI ambitions, and its carbon footprint has grown in the process.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "eea3fc207ff8c66ffc929fb692e2244a6a5afebf",
       "title": "Rivian CEO takes top marketing role in shakeup ahead of R2 launch",
@@ -29,6 +55,19 @@
       ]
     },
     {
+      "id": "323a718ec561996dcb23d70d9415d277ffa6049b",
+      "title": "Australia news live: police to resume search for body in infamous cold case of Indigenous child killed in 1990",
+      "url": "https://www.theguardian.com/australia-news/live/2025/oct/24/australia-news-live-police-search-colleen-walker-craig-bowraville-river-labor-environment-laws-murray-watt-coalition-greens-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-23T20:23:33.000Z",
+      "summary_90w": "",
+      "raw": "Colleen Walker-Craig was just 16 when she was last seen in Bowraville 35 years ago. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nDramatic slow-motion snake bites reveal clues about how fangs and venom kill prey\nVenomous snakes must strike fast to sink their fangs in prey before they startle – as quickly as 60 milliseconds when hunting rodents.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "48e929ecebe597bf947a04b0583fa324e6064e5d",
       "title": "Exploring the drawbacks of trusting some AI search results",
       "url": "https://www.npr.org/2025/10/23/nx-s1-5578292/exploring-the-drawbacks-of-trusting-some-ai-search-results",
@@ -39,19 +78,6 @@
       "raw": "NPR's It's Been a Minute podcast explored some of the pitfalls of relying on AI search results, including concerns about accuracy and bias.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "323a718ec561996dcb23d70d9415d277ffa6049b",
-      "title": "Australia news live: police to resume search for body in infamous cold case of Indigenous child killed in 1990",
-      "url": "https://www.theguardian.com/australia-news/live/2025/oct/24/australia-news-live-police-search-colleen-walker-craig-bowraville-river-labor-environment-laws-murray-watt-coalition-greens-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-23T20:13:40.000Z",
-      "summary_90w": "",
-      "raw": "Colleen Walker-Craig was just 16 when she was last seen in Bowraville 35 years ago. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nGood morning, we’ve made it to Friday. Nick Visser here to take over the blog. Let’s get to it.\nThe workplace tribunal system is being swamped by an “unsustainable” number of unfair dismissal claims as employers blame workers trying to win payouts rather than settle grievances.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -536,19 +562,6 @@
       ]
     },
     {
-      "id": "f50f55c7ec93cf70a952db71291f03aceeea5270",
-      "title": "Anthropic’s Claude chatbot is getting a ‘memory’ upgrade",
-      "url": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-23T17:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Anthropic is rolling out an update for Claude that will let the AI chatbot “remember” past conversations without prompting. The upgrade for all paid subscribers should make Claude more useful and convenient. \nMax subscribers will be able to turn on Claude’s “memory” in their settings from today, Anthropic said. The feature, which has been available to Team and Enterprise users since September, lets Claude remember details from previous chats. Pro subscribers will see the memory feature “roll out over the coming days,” Anthropic said. The company did not say whether it plans to make the feature available to free users in the future. \nAnthropic says the goal is “complete transparency.” Users will be able to clearly see what Claude remembers rather than “vague summaries,” it said. Specific memories can also be toggled on and off or edited with natural conversation. For example, you could tell Claude to focus on specific memories or “forget an old job entirely.” Users can also create “distinct memory spaces” that will keep various memories apart. If it works, this could be useful at stopping memories from different conversations or projects bleeding through into other chats, handy for separating different work projects or using the bot for personal and professional reasons.\nThe hotly anticipated memory function brings Claude closer in line with rival chatbots like ChatGPT and Gemini. All are competing ferociously for users and memory functions are a way of encouraging users to stick around rather than starting all over again with another bot. Claude has lagged its rivals in memory — OpenAI and Google both rolled out memory features for their chatbots last year — and it only gained the ability to remember past conversations this August. Even then, you had to explicitly ask Claude to remember. \nAnthropic hopes to reduce the friction of starting over by letting users import memories from ChatGPT or Gemini. These will need to be copy-and-pasted in. Memories can also be exported “anytime” from Claude, it said. “No lock-in.”\nChatbot memory has, however, proven divisive. While hailed as a useful feature, some experts warn recall can help sustain or amplify delusional thinking and other mental health concerns colloquially called “AI psychosis,” particularly given the sycophantic tendencies of some models.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "33854990afcd2b3c4682e966be3a19bf35ba5cca",
       "title": "Trump pardons Binance founder Changpeng Zhao",
       "url": "https://techcrunch.com/2025/10/23/trump-pardons-binance-founder-changpeng-zhao/",
@@ -848,19 +861,6 @@
       ]
     },
     {
-      "id": "ddc9c3f8432db9cbf11ca36c99db6629355ff3f0",
-      "title": "Southport killer's teacher 'dreaded' what he might do",
-      "url": "https://www.bbc.com/news/articles/cz6ndl2z9v4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-23T14:57:54.000Z",
-      "summary_90w": "",
-      "raw": "Joanne Hodson said Axel Rudakubana was the most \"unusual\" pupil she had ever encountered.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "bc318636574e134bc3df7cf1fdd2703fdaf16527",
       "title": "Announcing the top judges for the final round of Startup Battlefield 200, only at TechCrunch Disrupt 2025 ",
       "url": "https://techcrunch.com/2025/10/23/announcing-the-top-judges-for-the-final-round-of-startup-battlefield-200-only-at-techcrunch-disrupt-2025/",
@@ -985,7 +985,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-10-23T14:00:22.000Z",
       "summary_90w": "",
-      "raw": "Albanese government will need to make major concessions to pass promised federal nature laws as Liberals attack ‘nature positive 2.0’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe Albanese government will need to cough up major concessions to either the Coalition or the Greens to have any hope of overhauling federal nature laws after the two parties ruled out supporting the current plan.\nThe environment minister, Murray Watt, said he was open to working with either side, but wouldn’t speculate about possible changes, leaving the fate of the promised re-write of the Environment Protection and Biodiversity Conservation (EPBC) Act unknown ahead of its introduction to parliament in the upcoming sitting fortnight.\n Continue reading...",
+      "raw": "Albanese government will need to make major concessions to pass promised federal nature laws as Liberals attack ‘nature positive 2.0’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe Albanese government will need to cough up major concessions to either the Coalition or the Greens to have any hope of overhauling federal nature laws after the two parties ruled out supporting the current plan.\nThe environment minister, Murray Watt, said he was open to working with either side but would not speculate about possible changes, leaving the fate of the promised re-write of the Environment Protection and Biodiversity Conservation (EPBC) Act unknown before its introduction to parliament in the upcoming sitting fortnight.\n Continue reading...",
       "topics": [
         "World"
       ]
