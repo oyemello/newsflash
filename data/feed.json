@@ -1,7 +1,33 @@
 {
-  "version": "1761389514246",
-  "generatedAt": "2025-10-25T10:51:54.246Z",
+  "version": "1761390758998",
+  "generatedAt": "2025-10-25T11:12:38.998Z",
   "items": [
+    {
+      "id": "f5c367ce27316877e08e31ff22a08ea18dc41a6b",
+      "title": "Watch: Football Focus",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-25T22:59:00.000Z",
+      "summary_90w": "",
+      "raw": "Join Alex Scott and Alan Shearer at St James’ Park for a special 'on the road' show.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "05658219b414300a845b8cf5319b99a692335b22",
+      "title": "In the rural South where Medicaid has been a lifeline, residents brace for cuts",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/10/25/nx-s1-5584170/medicaid-cuts-south-louisiana-mississippi",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-25T11:00:00.000Z",
+      "summary_90w": "",
+      "raw": "With Medicaid cutbacks on the horizon, millions in the U.S. are expected to go uninsured. In the Mississippi Delta region — one of the poorest places in the U.S. — people are stressed and mad.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "493de5f674050f00ef8d84077c7b90315c230cb8",
       "title": "What you need to know about Labour's new deputy leader Lucy Powell",
@@ -76,19 +102,6 @@
       "published": "2025-10-25T09:48:56.000Z",
       "summary_90w": "",
       "raw": "Microsoft is taking one of its most popular and recognisable game series to a rival console for the first time.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "68a6da150d6bc667cc3b732e9ed429da01fec955",
-      "title": "Brisbane Test 'realistic' for Cummins return - Lyon",
-      "url": "https://www.bbc.com/sport/cricket/articles/ce9dvx8dk1xo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-25T09:32:08.000Z",
-      "summary_90w": "",
-      "raw": "Nathan Lyon believes Australia captain Pat Cummins could \"realistically\" be fit to return for the second Ashes Test in Brisbane.",
       "topics": [
         "World"
       ]
@@ -401,19 +414,6 @@
       "published": "2025-10-25T00:27:13.000Z",
       "summary_90w": "",
       "raw": "The mother of King Vajiralongkorn passed away \"peacefully\" on Friday night, according to the Thai Royal Household.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1b11d23757772c6b28a19954e317473504f9d45d",
-      "title": "McLaren 'already behind' as Verstappen sets practice pace",
-      "url": "https://www.bbc.com/sport/formula1/articles/cvgwngjxe4eo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-25T00:25:54.000Z",
-      "summary_90w": "",
-      "raw": "Red Bull driver Max Verstappen goes fastest in the second practice session at the Mexico City Grand Prix.",
       "topics": [
         "World"
       ]
@@ -877,13 +877,13 @@
       "id": "96350b0627bc585890417c7264131582f533244c",
       "title": "It's been a rollercoaster few years for Six Flags. Can Travis Kelce help?",
       "url": "https://www.npr.org/2025/10/24/nx-s1-5584940/travis-kelce-six-flags-activist-investors",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2025-10-24T18:41:52.000Z",
       "summary_90w": "",
       "raw": "Travis Kelce is teaming up with activist investors in hopes of transforming the embattled theme park operator Six Flags. No word yet on a Taylor Swift-themed rollercoaster.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -985,7 +985,7 @@
       "source_name": "BBC News",
       "published": "2025-10-24T16:50:17.000Z",
       "summary_90w": "",
-      "raw": "Speaking outside court, James accused Trump of using the justice department as a \"vehicle of retribution\".",
+      "raw": "Speaking outside court, James accused Trump of using the Justice Department as a \"vehicle of retribution\".",
       "topics": [
         "World"
       ]
@@ -2210,6 +2210,19 @@
       "raw": "Microsoft is ending support for Windows 10, which could make users vulnerable - here's how to get Windows 11.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "1fd14623848fd5c204daea65d4d36ef9107bb34d",
+      "title": "Some of music history’s most shocking stories revealed",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002k85n?at_mid=XZLfF6kcDM&at_campaign=Banned_in_the_80s_Moments_That_Shook_Music&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002k85n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Banned_in_the_80s_Moments_That_Shook_Music&at_bbc_team=BBC",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-09-27T21:22:31.000Z",
+      "summary_90w": "",
+      "raw": "The untold stories behind the most controversial music of the 1980s",
+      "topics": [
+        "World"
       ]
     },
     {
