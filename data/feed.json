@@ -1,16 +1,29 @@
 {
-  "version": "1761472303507",
-  "generatedAt": "2025-10-26T09:51:43.507Z",
+  "version": "1761473697461",
+  "generatedAt": "2025-10-26T10:14:57.461Z",
   "items": [
     {
+      "id": "a4de633620e14f30427fe9ddecb3d8e684d00106",
+      "title": "Two arrested over theft of jewels at Louvre museum in Paris",
+      "url": "https://www.bbc.com/news/articles/c2em38pdv0do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-26T09:55:04.000Z",
+      "summary_90w": "",
+      "raw": "Four thieves broke into the world's most-visited museum in broad daylight, stealing eight items worth €88m (£76m; $102m).",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "351a5b27c094341f78fb34680e6ec740c0d92733",
-      "title": "Two men reportedly arrested after Louvre jewel heist",
+      "title": "Two men arrested after Louvre jewel heist",
       "url": "https://www.theguardian.com/world/2025/oct/26/two-men-reportedly-arrested-after-louvre-jewel-heist",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-10-26T09:38:47.000Z",
       "summary_90w": "",
-      "raw": "Two suspects in their 30s detained on Saturday evening in relation to €88m robbery, French media reports\nTwo suspects have been arrested in relation to last Sunday’s heist of at the Louvre museum in Paris, in which a gang of four men made off with crown jewels worth an estimated €88m (£76m), French media has reported.\nCiting police sources, Le Parisien newpaper said on Sunday that the men, both in their 30s and from Seine St-Denis outside the French capital, were detained on Saturday evening as part of an investigation by the Paris organised crime squad.\n Continue reading...",
+      "raw": "Two suspects in their 30s detained on Saturday evening in relation to €88m robbery, according to Paris prosecutor\nTwo suspects have been arrested in relation to last Sunday’s heist at the Louvre museum in Paris, in which a gang of four men made off with crown jewels worth an estimated €88m (£76m), according to the Paris prosecutor.\nCiting police sources, Le Parisien newpaper said on Sunday that the men, both in their 30s and from Seine St-Denis outside the French capital, were detained on Saturday evening as part of an investigation by the Paris organised crime squad.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -37,19 +50,6 @@
       "published": "2025-10-26T09:35:49.000Z",
       "summary_90w": "",
       "raw": "One person was killed and six more were wounded in a shooting Saturday night at Pennsylvania's Lincoln University.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a4de633620e14f30427fe9ddecb3d8e684d00106",
-      "title": "Two arrested over theft of jewels at Louvre, French media report",
-      "url": "https://www.bbc.com/news/articles/c2em38pdv0do?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-26T09:30:57.000Z",
-      "summary_90w": "",
-      "raw": "Thieves wielding power tools broke into the world's most-visited museum in broad daylight, stealing eight items described as of inestimable value.",
       "topics": [
         "World"
       ]
@@ -84,7 +84,7 @@
       "id": "b088de6275908bc5b511bfd7c8a15b32724fe1b8",
       "title": "Harris 'concerned' she did not ask Biden to quit race",
       "url": "https://www.bbc.com/news/articles/cj412zgvy4do?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-10-26T08:07:39.000Z",
       "summary_90w": "",
