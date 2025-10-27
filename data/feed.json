@@ -1,10 +1,75 @@
 {
-  "version": "1761585269072",
-  "generatedAt": "2025-10-27T17:14:29.072Z",
+  "version": "1761586421131",
+  "generatedAt": "2025-10-27T17:33:41.131Z",
   "items": [
     {
+      "id": "95c9d53e6e2ce4de28ddac7c9941530eb29ed055",
+      "title": "Academic wins payout over portrayal in Steve Coogan's Richard III film",
+      "url": "https://www.bbc.com/news/articles/cdegzx9w16ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-27T17:28:34.000Z",
+      "summary_90w": "",
+      "raw": "Richard Taylor sued Steve Coogan and two production companies over his portrayal in the movie.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b8d22437713d5c20333d1d2281767f4aba417f26",
+      "title": "King Charles heckled over Prince Andrew and Epstein",
+      "url": "https://www.bbc.com/news/articles/cp8empv38vgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-27T17:23:51.000Z",
+      "summary_90w": "",
+      "raw": "A man asked how long the King had known about links between his brother and convicted sex offender Jeffrey Epstein.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "830c5047ea8cc6691342c5b0213b3c06b31b35eb",
+      "title": "Category 5 Hurricane Melissa could be strongest to ever hit Jamaica",
+      "url": "https://www.bbc.com/news/articles/c2dr0z57nygo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-27T17:22:58.000Z",
+      "summary_90w": "",
+      "raw": "Melissa has been upgraded to a category five storm and could become Jamaica's strongest on record.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "830c5047ea8cc6691342c5b0213b3c06b31b35eb",
+      "title": "Jamaica in path of 'life-threatening' category five Hurricane Melissa ",
+      "url": "https://www.bbc.com/news/articles/c2dr0z57nygo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-27T17:22:58.000Z",
+      "summary_90w": "",
+      "raw": "Melissa has been upgraded to a category five storm and could become Jamaica's strongest on record.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "40034a82ef4622f4a6cf59b8355da1dad0221e24",
+      "title": "&#8216;There isn&#8217;t really another choice:&#8217; Signal chief explains why the encrypted messenger relies on AWS",
+      "url": "https://www.theverge.com/news/807147/signal-aws-outage-meredith-whittaker",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-27T17:21:05.000Z",
+      "summary_90w": "",
+      "raw": "After last week’s major Amazon Web Services (AWS) outage took Signal along with it, Elon Musk was quick to criticize the encrypted messaging app’s reliance on big tech. But Signal president Meredith Whittaker argues that the company didn’t have any other choice but to use AWS or another major cloud provider.\n“The problem here is not that Signal ‘chose’ to run on AWS,” Whittaker writes in a series of posts on Bluesky. “The problem is the concentration of power in the infrastructure space that means there isn’t really another choice: the entire stack, practically speaking, is owned by 3-4 players.”\nIn the thread, Whittaker says the number of people who didn’t realize Signal uses AWS is “concerning,” as it indicates they aren’t aware of just how concentrated the cloud infrastructure industry is. “The question isn’t ‘why does Signal use AWS?’” Whittaker writes. “It’s to look at the infrastructural requirements of any global, real-time, mass comms platform and ask how it is that we got to a place where there’s no realistic alternative to AWS and the other hyperscalers.”\n\n\n📣THREAD: It’s surprising to me that so many people were surprised to learn that Signal runs partly on AWS (something we can do because we use encryption to make sure no one but you–not AWS, not Signal, not anyone–can access your comms). It’s also concerning. 1/\n— Meredith Whittaker  (@meredithmeredith.bsky.social) 2025-10-27T10:38:41.229Z\n\n\nWhittaker notes that AWS, Microsoft Azure, and Google’s cloud services are the only viable options that Signal can use to provide reliable service on a global scale without spending billions of dollars to build its own. “Running a low-latency platform for instant comms capable of carrying millions of concurrent audio/video calls requires a pre-built, planet-spanning network of compute, storage and edge presence that requires constant maintenance, significant electricity and persistent attention and monitoring,” Whittaker says.\nShe adds that Signal only “partly” runs on AWS and uses encryption to ensure Signal and AWS can’t see your conversations. Signal was far from the only company affected by the AWS outage, as it also brought down Starbucks, the Epic Games Store, Ring doorbells, Snapchat, Alexa devices, and even smart beds.\n“My silver lining hope is that AWS going down can be a learning moment, in which the risks of concentrating the nervous system of our world in the hands of a few players become very clear,” Whittaker writes.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
       "id": "617584579f781d2b77795265cf3ffa79f6e2f3c0",
-      "title": "Alleged McCann stalker 'still questions who she is'",
+      "title": "Woman who claimed to be Madeleine McCann 'still questions who she is', court hears",
       "url": "https://www.bbc.com/news/articles/cj0emv1r33do?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -140,7 +205,7 @@
       "source_name": "The Verge",
       "published": "2025-10-27T16:04:33.000Z",
       "summary_90w": "",
-      "raw": "Qualcomm is launching a pair of new AI chips in an attempt to challenge Nvidia’s dominance in the market. On Monday, Qualcomm announced plans to release its new AI200 chip next year, followed by the AI250 in 2027 — both of which are built on the company’s mobile neural processing technology. \nThe new chips are built for deploying AI models, rather than training them. The launch marks a notable change for Qualcomm, which has primarily made processors for mobile phones, laptops, tablets, and telecommunications equipment.\nAs reported by CNBC, Qualcomm’s AI-focused processors are based on the company’s Hexagon neural processing units that power AI features in its chips for mobile devices and laptops. CNBC reports that Qualcomm’s AI processors can work inside a rack with up to 72 chips functioning as a single computer, similar to Nvidia and AMD’s GPUs.\nQualcomm’s A1200 chip features 768GB of RAM, along with performance optimized for AI inference. Meanwhile, the AI250 will come with “a generational leap in efficiency” that the company claims will allow for “much lower power consumption.” Humain, the AI company that exists under Saudi Arabia’s Public Investment Fund, has already announced plans to use the AI200 and AI250 to power computing systems, building on a partnership to develop AI datacenters across Saudi Arabia.",
+      "raw": "Qualcomm is launching a pair of new AI chips in an attempt to challenge Nvidia’s dominance in the market. On Monday, Qualcomm announced plans to release its new AI200 chip next year, followed by the AI250 in 2027 — both of which are built on the company’s mobile neural processing technology. \nThe new chips are built for deploying AI models, rather than training them. The launch marks a notable change for Qualcomm, which has primarily made processors for mobile phones, laptops, tablets, and telecommunications equipment.\nAs reported by CNBC, Qualcomm’s AI-focused processors are based on the company’s Hexagon neural processing units that power AI features in its chips for mobile devices and laptops. CNBC reports that Qualcomm’s AI processors can work inside a rack with up to 72 chips functioning as a single computer, similar to Nvidia and AMD’s GPUs.\nQualcomm’s AI200 chip features 768GB of RAM, along with performance optimized for AI inference. Meanwhile, the AI250 will come with “a generational leap in efficiency” that the company claims will allow for “much lower power consumption.” Humain, the AI company that exists under Saudi Arabia’s Public Investment Fund, has already announced plans to use the AI200 and AI250 to power computing systems, building on a partnership to develop AI datacenters across Saudi Arabia.",
       "topics": [
         "Technology"
       ]
@@ -208,32 +273,6 @@
       "raw": "Mercor, which connects AI labs with domain experts for training their foundational AI models, is close to raising $350 million at a $10 billion valuation.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "830c5047ea8cc6691342c5b0213b3c06b31b35eb",
-      "title": "Category 5 Hurricane Melissa could be strongest to ever hit Jamaica",
-      "url": "https://www.bbc.com/news/articles/c2dr0z57nygo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-27T15:47:27.000Z",
-      "summary_90w": "",
-      "raw": "Melissa has been upgraded to a category five storm and could become Jamaica's strongest on record.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "830c5047ea8cc6691342c5b0213b3c06b31b35eb",
-      "title": "Hurricane Melissa could be strongest ever to hit Jamaica",
-      "url": "https://www.bbc.com/news/articles/c2dr0z57nygo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-27T15:47:27.000Z",
-      "summary_90w": "",
-      "raw": "Melissa has been upgraded to a category five storm and could become Jamaica's strongest on record.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -432,19 +471,6 @@
       ]
     },
     {
-      "id": "95c9d53e6e2ce4de28ddac7c9941530eb29ed055",
-      "title": "Academic wins payout over portrayal in Steve Coogan's Richard III film",
-      "url": "https://www.bbc.com/news/articles/cdegzx9w16ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-27T14:39:28.000Z",
-      "summary_90w": "",
-      "raw": "Richard Taylor sued Steve Coogan and two production companies over his portrayal in the movie.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "133bbc68214b5112b367bb9205a4fe275be238a7",
       "title": "Grave fears for civilians after Sudanese paramilitary claims capture of El Fasher",
       "url": "https://www.theguardian.com/world/2025/oct/27/fears-civilians-sudan-paramilitary-rsf-capture-el-fasher",
@@ -523,19 +549,6 @@
       ]
     },
     {
-      "id": "7ab08bc03405f972c23ebe4ea6c80ee73441e371",
-      "title": "‘Clinical-grade AI’: a new buzzy AI word that means absolutely nothing",
-      "url": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-27T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Earlier this month, Lyra Health announced a \"clinical-grade\" AI chatbot to help users with \"challenges\" like burnout, sleep disruptions, and stress. There are eighteen mentions of \"clinical\" in its press release, including \"clinically designed,\" \"clinically rigorous,\" and \"clinical training.\" For most people, myself included, \"clinical\" suggests \"medical.\" The problem is, it doesn't mean medical. In fact, \"clinical-grade\" doesn't mean anything at all.\n\"Clinical-grade\" is an example of marketing puffery designed to borrow authority from medicine without the strings of accountability or regulation. It sits alongside other buzzy marketing phra …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "00a31908f91284be111fbc685fdc0245adb6558e",
       "title": "Finland's stubbornly low birth rate shows why a population shift may be inevitable",
       "url": "https://www.npr.org/2025/10/27/nx-s1-5536836/population-family-birth-rate-babies-europe-finland-baby-box",
@@ -569,7 +582,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-27T14:00:00.000Z",
       "summary_90w": "",
-      "raw": "Today is the first day of TechCrunch Disrupt 2025! 10,000 founders, investors, and builders are flooding Moscone West for a nonstop run of ideas, demos, and deals. The energy is electric, the conversations are everywhere, and the breakthroughs are only just beginning. Don't miss out. Register here or head straight to Moscone West to join.",
+      "raw": "Today is the first day of TechCrunch Disrupt 2025, where 10,000 founders, investors, and builders are flooding Moscone West for a nonstop run of ideas, demos, and deals. The energy is electric, the conversations are everywhere, and the breakthroughs are only just beginning. Don't miss out. Register here or head straight to Moscone West to join.",
       "topics": [
         "Technology"
       ]
@@ -1492,7 +1505,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-25T19:05:11.000Z",
       "summary_90w": "",
-      "raw": "A high school student in Baltimore County, Maryland was reportedly handcuffed and searched after an AI security system flagged his bag of chips as a possible firearm.",
+      "raw": "Taki Allen, a student at Kenwood High School, told CNN affiliate WBAL, “I was just holding a Doritos bag — it was two hands and one finger out, and they said it looked like a gun.”",
       "topics": [
         "Technology"
       ]
@@ -1518,7 +1531,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-25T16:51:36.000Z",
       "summary_90w": "",
-      "raw": "OpenAI launched an AI-powered browser this week, but it feels like it offers a slight efficiency gain at best.",
+      "raw": "That news was on our minds as Max Zeff, Sean O’Kane, and I discussed the browser landscape — including some lesser-known alternatives — on the latest episode of the Equity podcast. But it doesn’t sound like any of us will be making a big switch soon.",
       "topics": [
         "Technology"
       ]
@@ -1599,19 +1612,6 @@
       "raw": "Travis Kelce is teaming up with activist investors in hopes of transforming the embattled theme park operator Six Flags. No word yet on a Taylor Swift-themed rollercoaster.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "6b17190ead3711673af91795318af435b939d81b",
-      "title": "Watch: The Bodies in the Suitcases",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002lsdp?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-24T18:30:00.000Z",
-      "summary_90w": "",
-      "raw": "A chilling discovery on a Bristol bridge exposes a twisted tale of sex, lies, and murder.",
-      "topics": [
-        "World"
       ]
     },
     {
