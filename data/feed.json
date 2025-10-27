@@ -1,7 +1,85 @@
 {
-  "version": "1761580344744",
-  "generatedAt": "2025-10-27T15:52:24.744Z",
+  "version": "1761581911803",
+  "generatedAt": "2025-10-27T16:18:31.803Z",
   "items": [
+    {
+      "id": "d9fdaf01ce7012e439b3993a3cecbd7947b5fbcc",
+      "title": "Qualcomm is turning parts from cellphone chips into AI chips to rival Nvidia",
+      "url": "https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-27T16:04:33.000Z",
+      "summary_90w": "",
+      "raw": "Qualcomm is launching a pair of new AI chips in an attempt to challenge Nvidia’s dominance in the market. On Monday, Qualcomm announced plans to release its new AI200 chip next year, followed by the AI250 in 2027 — both of which are built on the company’s mobile neural processing technology. \nThe new chips are built for deploying AI models, rather than training them. The launch marks a notable change for Qualcomm, which has primarily made processors for mobile phones, laptops, tablets, and telecommunications equipment.\nAs reported by CNBC, Qualcomm’s AI-focused processors are based on the company’s Hexagon neural processing units that power AI features in its chips for mobile devices and laptops. CNBC reports that Qualcomm’s AI processors can work inside a rack with up to 72 chips functioning as a single computer, similar to Nvidia and AMD’s GPUs.\nQualcomm’s A1200 chip features 768GB of RAM, along with performance optimized for AI inference. Meanwhile, the A1250 will come with “a generational leap in efficiency” that the company claims will allow for “much lower power consumption.” Humain, the AI company that exists under Saudi Arabia’s Public Investment Fund, has already announced plans to use the AI200 and AI250 to power computing systems, building on a partnership to develop AI datacenters across Saudi Arabia.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "dea1ed81538ba565c315e254370ba53e5f641bde",
+      "title": "Sora is showing us how broken deepfake detection is",
+      "url": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-27T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "C2PA has merit, but it isn’t enough to protect online users from being misled by OpenAI’s deepfake factory.\t\n\nOpenAI's new deepfake machine, Sora, has proven that artificial intelligence is alarmingly good at faking reality. The AI-generated video platform, powered by OpenAI's new Sora 2 model, has churned out detailed (and often offensive or harmful) videos of famous people like Martin Luther King Jr., Michael Jackson, and Bryan Cranston, as well as copyrighted characters like SpongeBob and Pikachu. Users of the app who voluntarily shared their likenesses have seen themselves shouting racial slurs or turned into fuel for fetish accounts.\nOn Sora, there's a clear understanding that everything you see and hear isn't real. But like any piece of socia …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "93610f3b42cc2e772e17d17ff7c3ccdfe42b575f",
+      "title": "Threads adds ‘ghost posts’ that disappear after 24 hours",
+      "url": "https://techcrunch.com/2025/10/27/threads-adds-ghost-posts-that-disappear-after-24-hours-and-responses-go-to-dms/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-27T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Instagram Threads is launching “ghost posts,” a new disappearing-posts feature that lets users share updates that automatically archive after 24 hours. The ephemeral option—rolling out globally on Monday—aims to encourage more casual, low-pressure sharing",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "649055d4d15e97dddbf9c18a922a83ac43475d2c",
+      "title": "Threads is getting disappearing posts",
+      "url": "https://www.theverge.com/news/806940/threads-disappearing-ghost-posts-launch",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-27T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Threads is launching a new feature called the “ghost post:” a post it will automatically archive after 24 hours.\nThese posts will come in handy if you want to share a thought, but don’t want to keep it on your profile. It’s also a feature that users on X, formerly Twitter, have long requested, leading them to turn to third-party archiving tools. \nThreads first started testing the ghost post in April as one of many new features it’s been drip-feeding, including direct messages, 10,000-character posts, and group chats. It also added new communities where you can find posts related to specific topics. \nYou can create a disappearing post by toggling the ghost icon in the post creation menu, and they’ll appear as a gray chat bubble in your feed. When someone replies to your post, Threads will send it directly to your inbox. Other users won’t be able to see the replies or likes.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "428ebbd34bb122ee5bae47c47221acc3667791e4",
+      "title": "Cameroon's 92-year-old president wins controversial eighth term",
+      "url": "https://www.bbc.com/news/articles/cdx45zln4qvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-27T15:59:22.000Z",
+      "summary_90w": "",
+      "raw": "Paul Biya retains his title as the world's oldest head of state, in an election marred with violence and allegations of fraud.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6caa262d049c23960c5272b24735ad02d1df7938",
+      "title": "Mercor quintuples valuation to $10B with $350M Series C",
+      "url": "https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-27T15:53:34.000Z",
+      "summary_90w": "",
+      "raw": "Mercor, which connects AI labs with domain experts for training their foundational AI models, is close to raising $350 million at a $10 billion valuation.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "830c5047ea8cc6691342c5b0213b3c06b31b35eb",
       "title": "Category 5 Hurricane Melissa could be strongest to ever hit Jamaica",
@@ -29,6 +107,45 @@
       ]
     },
     {
+      "id": "cf23c7ac3cfdd08360249d73bbaf9e8162160082",
+      "title": "Lithuanian PM says Belarus balloon incidents ‘call for united, resolute response,’ as it closes border with Russia’s ally – as it happened",
+      "url": "https://www.theguardian.com/world/live/2025/oct/27/lithuania-airport-russia-belarus-viktor-orban-pope-leo-europe-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-27T15:43:04.000Z",
+      "summary_90w": "",
+      "raw": "Inga Ruginienė says ‘no hybrid attack will be tolerated’ and pledges to shoot down balloons after 66 objects spotted by radar overnight\nMeanwhile over in the Czech Republic, the country’s president Petr Pavel has tasked the populist billionaire Andrej Babiš with leading talks on forming the new government after recent parliamentary election.\nBabiš told the president – who defeated him in the 2023 presidential elections – that the coalition talks were already under way, and “promised to hand over the text of the coalition agreement and programme priorities” later this week, according to a readout issued by the presidential office.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a901bd4e12e9338872bce0fda6a080c198d3d292",
+      "title": "Donald Trump greeted by Emperor Naruhito in Japan before meeting new prime minister – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/27/donald-trump-japan-sanae-takaichi-asia-canada-trade-news-updates-us-politics-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-27T15:42:41.000Z",
+      "summary_90w": "",
+      "raw": "First meeting between the US president and prime minister Takaichi will focus on trade as Trump continues his five-day Asia trip\nAs Republican states launch more redistricting efforts, Democrats in blue states are still deciding how or if they will respond.\nHouse minority leader Hakeem Jeffries is said to be headed to Illinois today to meet with local leaders about redrawing the congressional maps. Punchbowl reports that Jeffries will meet with the Illinois Legislative Black caucus and Black members of Congress, a nod to the fact that Black lawmakers will be needed to pass a new map.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4c692c01e58c356c9c2cd581f0f106e2f7f86d52",
+      "title": "Italian watchdog blasts ‘completely unjustified’ rise in cost of ski passes",
+      "url": "https://www.theguardian.com/world/2025/oct/27/italian-watchdog-blasts-completely-unjustified-rise-in-cost-of-ski-passes",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-27T15:42:01.000Z",
+      "summary_90w": "",
+      "raw": "Price increases of as much as 40% will make sport exclusive privilege of the wealthy, says Assoutenti \n“Completely unjustified” prices rises for ski passes in Italy this winter mean the sport is at risk of becoming the exclusive privilege of the wealthy, the president of an Italian consumers’ association has warned.\nFrom the Alps and the Dolomites in the north to the slopes of the central Italian region of Abruzzo, prices are poised to rise by as much as 40% compared with 2021, according to a report compiled by the watchdog, Assoutenti.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "30cf0dbe27694ecbdfa0ebda8e872044e0f4ca72",
       "title": "Ireland's president-elect is a left-wing, anti-establishment figure who is outspoken on Gaza",
       "url": "https://www.npr.org/2025/10/27/g-s1-95210/ireland-catherine-connolly-president-gaza",
@@ -43,7 +160,7 @@
     },
     {
       "id": "3edb1070bc3d9332c615a049342a10364b9ac296",
-      "title": "Tax rises and spending cuts options in Budget, says Reeves",
+      "title": "Spending cuts and tax rises both options to increase Budget 'headroom', Reeves says",
       "url": "https://www.bbc.com/news/articles/c9v1r7zeekro?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -114,7 +231,7 @@
       "source_name": "BBC News",
       "published": "2025-10-27T15:22:03.000Z",
       "summary_90w": "",
-      "raw": "But he rules out running for vice-president, an idea floated by supporters to circumvent the constitution that bars him from running again.",
+      "raw": "Trump rules out running for vice-president, an idea floated by supporters to circumvent the US constitution which bars him from running again.",
       "topics": [
         "World"
       ]
@@ -134,26 +251,13 @@
     },
     {
       "id": "f0e02ce44514399a89d5202ddcfd27b9c814bd52",
-      "title": "Where could Prince Andrew end up if he leaves Royal Lodge?",
+      "title": "Could one of these royal houses be Prince Andrew’s new home?",
       "url": "https://www.bbc.com/news/articles/c781j7pz87xo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-10-27T15:18:31.000Z",
       "summary_90w": "",
       "raw": "Prince Andrew's links with Jeffrey Epstein have prompted calls for him to be removed from his mansion.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a901bd4e12e9338872bce0fda6a080c198d3d292",
-      "title": "Donald Trump greeted by Emperor Naruhito in Japan before meeting new prime minister – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/27/donald-trump-japan-sanae-takaichi-asia-canada-trade-news-updates-us-politics-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-27T15:14:14.000Z",
-      "summary_90w": "",
-      "raw": "First meeting between the US president and prime minister Takaichi will focus on trade as Trump continues his five-day Asia trip\nAs Republican states launch more redistricting efforts, Democrats in blue states are still deciding how or if they will respond.\nHouse minority leader Hakeem Jeffries is said to be headed to Illinois today to meet with local leaders about redrawing the congressional maps. Punchbowl reports that Jeffries will meet with the Illinois Legislative Black caucus and Black members of Congress, a nod to the fact that Black lawmakers will be needed to pass a new map.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -237,19 +341,6 @@
       ]
     },
     {
-      "id": "cf23c7ac3cfdd08360249d73bbaf9e8162160082",
-      "title": "Lithuanian PM says Belarus balloon incidents ‘call for united, resolute response,’ as it closes border with Russia’s ally – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/27/lithuania-airport-russia-belarus-viktor-orban-pope-leo-europe-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-27T14:44:41.000Z",
-      "summary_90w": "",
-      "raw": "Inga Ruginienė says ‘no hybrid attack will be tolerated’ and pledges to shoot down balloons after 66 objects spotted by radar overnight\nMeanwhile over in the Czech Republic, the country’s president Petr Pavel has tasked the populist billionaire Andrej Babiš with leading talks on forming the new government after recent parliamentary election.\nBabiš told the president – who defeated him in the 2023 presidential elections – that the coalition talks were already under way, and “promised to hand over the text of the coalition agreement and programme priorities” later this week, according to a readout issued by the presidential office.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "95c9d53e6e2ce4de28ddac7c9941530eb29ed055",
       "title": "Academic wins payout over portrayal in Steve Coogan's Richard III film",
       "url": "https://www.bbc.com/news/articles/cdegzx9w16ro?at_medium=RSS&at_campaign=rss",
@@ -286,19 +377,6 @@
       "raw": "Between increased tariffs and price hikes, it’s not a great time to buy a PlayStation 5 console. That is, unless you head over to GameStop, which is selling the 825GB PS5 with a disc drive in its original (thicker) design along with 24 months of PS Plus Premium included for just $579.99 (previously $749.99). Given that the slimmer 1TB disc-based model is $549.99, this is a phenomenal deal that nets out to you paying just a little extra for two years of Sony’s top-tier online subscription (a $320 value).\nPS Plus Premium costs $17.99 per month, or $160 per year, and it’s a great way to play more games without buying them individually. New games arrive every month (recent additions include the spooky Silent Hill 2 remake and The Last of Us Part 2’s remake), and you can continue to play them so long as you maintain a subscription. Not only that, the service enables online multiplayer, and gives you access to a large roster of games, from current-gen titles and dating back to the PS1-era.\nPlayStation 5 console (825GB, disc) with 24 months of PS Plus Premium\n\nWhere to Buy:\n\n $749.99 $579.99 at GameStop\n\nWhile the original version of the PlayStation 5 has been succeeded by the slimmer, slightly more power-efficient revision, the hardware differences as it pertains to any performance-related advantages the newer model has over the launch edition are nil. You can still add on an affordable PCIe 4.0 M.2 SSD to boost the storage space, you can customize it with snap-on shells, and it can run any PS5 game out there. \nSome other Verge-approved deals\nThe last-gen Google Pixel Watch 3 in the 45mm Wi-Fi configuration is $100 off at Amazon, resulting in its lowest price yet. You can grab this model for $199.99 in the matte black aluminum case (with obsidian band), the champagne gold aluminum model (with hazel band), or the polished silver aluminum option (with porcelain band). Whether you’re upgrading from a previous version of the Pixel Watch, or jumping right in with Google’s ecosystem, you’re picking a good smartwatch that’s $150 cheaper than the superb Pixel Watch 4. Verge reviewer Victoria Song praised the brighter screens, better battery life, and the smaller bezels of the entire Pixel Watch 3 line. She also singled out the 45mm model because “it wears small,” and because its larger size means that its 35-percent bigger battery (compared to the 41mm edition) lets it last longer. Read our review.\nIt’s not common for Nintendo’s Joy-Con controllers for the Switch to get any sort of meaningful discount, but you can get a set of neon pink and green ones at Best Buy for $64.99 (was $89.99). These can slide onto a Nintendo Switch, of course, but they’re compatible wirelessly with a Switch 2 console, as well. If you want to recharge them via your Switch 2, you’ll need an extra accessory for that, like Fastsnail’s $19.99 product that can simultaneously charge any combination of four Joy-Con or Joy-Con 2.\nWorkout gear can get expensive, but good sweat-ready wireless earbuds don’t need to cost you dearly. Anker’s Soundcore Sport X20 are down to their lowest price yet at Amazon, costing $55.99 (was $79.99, but the previous best was $64). These are built to be a ready-for-anything companion, with an IP68 rating that ensures that they’re waterproof, dustproof, and sweatproof. In terms of fit, these stand out compared to other similarly-priced options because of their rotatable and extendable ear hooks. Personally, I don’t trust earbuds to stay in my ears (my ear fin-equipped Pixel Buds Pro 2 struggle to stay put), but the hooks make them seem like a great, no-fuss option. Not only that, they offer active noise cancellation and 12 hours per charge (up to 48 hours if you refill them in the included charging case).",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "cd73b3ad2eeb63723a620ccbfa842d7858f3c957",
-      "title": "Prisons begin extra checks after migrant sex offender released in error",
-      "url": "https://www.bbc.com/news/articles/c70jrrgjp9xo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-27T14:19:28.000Z",
-      "summary_90w": "",
-      "raw": "The government has introduced new mandatory procedures after the accidental release of Hadush Kebatu from Chelmsford prison on Friday.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -427,6 +505,19 @@
       "published": "2025-10-27T13:57:44.000Z",
       "summary_90w": "",
       "raw": "Tommy Freeman scores four tries against Saracens, Marcus Smith stars against Newcastle Red Bulls and Adam Radwan misses out on England - here are the Prem talking points.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "844338a2145e95abe77a03cb34b8b02730e1f952",
+      "title": "Australia will want revenge for World Cup - Toone",
+      "url": "https://www.bbc.com/sport/football/articles/c3rj919qjeeo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-27T13:31:09.000Z",
+      "summary_90w": "",
+      "raw": "England midfielder Ella Toone says it will \"feel like a revenge game\" for Australia when the sides meet in their friendly match at Pride Park on Tuesday.",
       "topics": [
         "World"
       ]
@@ -747,7 +838,7 @@
       "id": "0d01b98bcf393464b58a67f5008de177177251f6",
       "title": "Argentina's Milei wins big in midterms with 'chainsaw' austerity",
       "url": "https://www.bbc.com/news/articles/c4gw8qpyvqdo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-10-27T09:30:24.000Z",
       "summary_90w": "",
@@ -765,19 +856,6 @@
       "published": "2025-10-27T09:00:00.000Z",
       "summary_90w": "",
       "raw": "Family size around the world is dropping. That choice by couples is triggering a population shift that's sending shock waves through economies.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cd3dee54a0c126f70a448a07fc52f4c84603a060",
-      "title": "‘Open hostility has become normalised’: Dutch Muslims fear rise of far right as general election looms",
-      "url": "https://www.theguardian.com/world/2025/oct/27/geert-wilders-netherlands-dutch-muslims-fear-rise-of-far-right",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-27T08:53:04.000Z",
-      "summary_90w": "",
-      "raw": "The poll is seen as a litmus test for the Netherlands and its democratic ideals, as activists decry a hardening of political discourse driven by Geert Wilders\nThe drawing depicted two women; a young blonde with a friendly expression and a scowling older woman wearing a headscarf. On top of the image was a nod to this month’s general election in the Netherlands, along with the phrase “The choice is yours.”\nThe social media post, made by the far-right, anti-Muslim politician Geert Wilders, prompted a record 14,000 complaints to the country’s anti-discrimination hotline. “Many of those who called to report the image compared it to Nazi propaganda from the second world war,” the hotline said in a statement, adding that the 19 anti-discrimination agencies associated with the hotline had flagged the post to police, amid concerns that it could be an incitement to hatred.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1173,19 +1251,6 @@
       ]
     },
     {
-      "id": "42530a3c7c3ad5719358fbb9a8de7a8e8385dd16",
-      "title": "Adobe’s Project Indigo camera finally adds iPhone 17 support",
-      "url": "https://www.theverge.com/news/806779/adobes-project-indigo-camera-finally-adds-iphone-17-support",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-26T15:17:22.000Z",
-      "summary_90w": "",
-      "raw": "Adobe’s computational photography app, Project Indigo, had a bit of trouble adapting to the new square-format selfie sensor in the iPhone 17 series. For the last month or so, the app simply didn’t support Apple’s latest phones at all. Adobe was working behind the scenes to get things up and running, and posting occasional updates to the Adobe Community forums. But the company has decided to simply turn off access to the front-facing camera entirely, in order to get some version of Project Indigo out the door with iPhone 17 support.\nThe app debuted back in June and immediately started garnering fans who preferred the softer touch it took to processing images, compared to the standard iPhone camera app. But the new sensors in the iPhone 17 series apparently threw Project Indigo for a loop. A fix in iOS 26.1 will allow Adobe to enable selfie camera support as well, but for now, iPhone 17 owners will have to make do with rear-camera support only.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "567cbefe8b496758d0dd88850cc2acae6527228f",
       "title": "Trump raises tariffs on Canadian goods over Reagan advert",
       "url": "https://www.bbc.com/news/articles/cx2ljgrm78zo?at_medium=RSS&at_campaign=rss",
@@ -1196,19 +1261,6 @@
       "raw": "The US president announces he is adding 10% to current levies on one of the biggest US trading partners.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "e850fa434809c4a47fc8653308dfbe2801556033",
-      "title": "How Guitar Hero made everybody a rock star",
-      "url": "https://www.theverge.com/podcast/806168/guitar-hero-game-version-history",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-26T14:41:11.000Z",
-      "summary_90w": "",
-      "raw": "\"Sharp Dressed Man,\" by ZZ Top. Hard on a good day, Medium when my friends were over, Expert once and then never ever again. That was my Guitar Hero sweet spot. And for years, it seemed like everybody had one. The plastic guitar controllers became a staple of living rooms everywhere, and the songs - from big bands, small bands, and bands that didn't even actually exist - became huge hits. Long before TikTok was the most important thing in music, getting your track on a Guitar Hero setlist could change your life forever.\nFor this episode of Version History, we go through the whole history of Guitar Hero. The story begins in arcades in Japan, …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1274,19 +1326,6 @@
       "raw": "Three Chinese nationals face prison time for attempting to purchase $400,000 of nuclear material.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "da3e131ba6345c94546ba9cb73d1e9d12e9e8b60",
-      "title": "The next legal frontier is your face and AI",
-      "url": "https://www.theverge.com/column/805821/the-next-legal-frontier-is-your-face-and-ai",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-26T12:00:00.000Z",
-      "summary_90w": "",
-      "raw": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the legal morass of AI, follow Adi Robertson. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nThe song was called \"Heart on My Sleeve,\" and if you didn't know better, you might guess you were hearing Drake. If you did know better, you were hearing the starting bell of a new legal and cultural battle: the fight over how AI services should be able to use people's faces and voices, and how platforms should respond.\nBack in 2023, the AI-generated faux-Drake track \"Heart on My Sl …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1519,32 +1558,6 @@
       "published": "2025-10-25T14:00:00.000Z",
       "summary_90w": "",
       "raw": "BlaBlaCar is seeing rapid growth in India, with 20 million passengers expected this year — up 50% from last year.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "3635911e9b802b7eef438ca988bc2304f3e91e57",
-      "title": "The glaring security risks with AI browser agents",
-      "url": "https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-25T12:00:00.000Z",
-      "summary_90w": "",
-      "raw": "New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "e8d73ef00e9dd4f6c17c2747e67e2580362e34be",
-      "title": "Musk’s ad chief at X departs after just 10 months",
-      "url": "https://techcrunch.com/2025/10/24/musks-ad-chief-at-x-departs-after-just-10-months/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-25T06:46:38.000Z",
-      "summary_90w": "",
-      "raw": "The revolving door reportedly reflects deeper tensions.",
       "topics": [
         "Technology"
       ]
