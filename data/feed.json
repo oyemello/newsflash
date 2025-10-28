@@ -1,7 +1,150 @@
 {
-  "version": "1761652285691",
-  "generatedAt": "2025-10-28T11:51:25.691Z",
+  "version": "1761654313196",
+  "generatedAt": "2025-10-28T12:25:13.196Z",
   "items": [
+    {
+      "id": "d43875fc889b19001ec28a2247cb0a3a839dff6e",
+      "title": "Fawlty Towers star Prunella Scales dies aged 93",
+      "url": "https://www.bbc.com/news/articles/cjd0yn5gyndo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-28T12:13:10.000Z",
+      "summary_90w": "",
+      "raw": "Scales played hotel manager Sybil Fawlty, the bossy wife of Basil, in the classic British sitcom.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3ff5050e32f03fabefb9da6a2833a3a0dc0fb751",
+      "title": "Two military sites earmarked as asylum seeker accommodation",
+      "url": "https://www.bbc.com/news/articles/cjr0lx7n0y3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-28T12:04:15.000Z",
+      "summary_90w": "",
+      "raw": "Housing asylum seekers in hotels has cost billions, while they have also become a focal point for protests.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7feceba7c4a41b4cf86f36ec7e7ab0e422c90f11",
+      "title": "Adobe Firefly Image 5 brings support for layers, will let creators make custom models",
+      "url": "https://techcrunch.com/2025/10/28/adobe-firefly-image-5-brings-support-for-layers-will-let-creators-make-custom-models/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-28T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Adobe said on Tuesday that it is launching the latest iteration of its image generation model, Firefly Image 5. The company is also adding features to the Firefly website, support for more third-party models, and the ability to generate speech and soundtracks.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "bbad451222d373e10146722c38b02175ce8b5cb5",
+      "title": "Adobe launches AI assistants for Express and Photoshop",
+      "url": "https://techcrunch.com/2025/10/28/adobe-launches-ai-assistants-for-express-and-photoshop/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-28T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Adobe today released new AI assistants Creative Cloud products, Express and Photoshop, that can help users with image creation and editing.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "fb53c34794cef29c53a895a5494a3160dcc3bcbb",
+      "title": "Adobe’s new AI audio tools can add soundtracks and voice-overs to videos",
+      "url": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-28T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Generate Soundtrack is like Mad Libs for backing instrumentals.\t\n\nAdobe is giving filmmakers new generative AI audio tools that can quickly add thematically appropriate backing tracks and narration to videos. Generate Soundtrack and Generate Speech are being introduced to a redesigned Adobe Firefly AI app, while Adobe is also developing a new web-based video production tool that combines multiple AI features with a simple editing timeline.\nThe Generate Soundtrack tool is launching in public beta in the Firefly app, and works by assessing an uploaded video and then generating a selection of instrumental audio clips that automatically synchronize to the footage. Users can direct the style of the music by selecting from provided presets like lofi, hip-hop, classical, EDM, and more, or describe the desired vibe in the provided text prompt interface — asking it to be more sentimental, aggressive, and so on. The tool will also suggest a prompt based on the uploaded video footage that can be used as a starting point.\n“We wanna help users prompt music. It’s a new muscle we need to develop, so in order to make that easier and more accessible, if you give us your clip, we will predict what type of music goes with that clip,” Adobe’s generative AI head Alexandru Costin told The Verge. “But we’re also offering you this Mad Libs approach where you can pick the vibe, the style, the objective of your clip.”\n\nGenerate Soundtrack will provide four distinct audio clip variations per prompt, with each clip having a maximum length of five minutes. The Firefly AI model that Generate Soundtrack is built around was trained on licensed content, meaning it won’t place creators at risk of having videos taken down by copyright strikes. “We purchased music and voice from IP owners, that’s why we have the confidence to offer it as commercially safe,” said Costin.\nThat promise gives Adobe’s AI music-making efforts a leg up over competing companies like Suno and Udio, which have been targeted with copyright infringement lawsuits and admitted to training their own AI models on protected materials. Generate Soundtrack is only designed for background audio, but Adobe is also working on other tools that could provide a more comprehensive AI music production experience — one that aims to save creators the headache of navigating IP laws.\nFirefly’s Generate Speech tool is also launching in public beta, and can be used to create voiceovers for video projects from text. It provides more than 50 voices powered by either Adobe’s Firefly Speech Model or ElevenLabs, with support for more than 20 languages. Users can fine-tune things like speed, pitch, and emotion, and manually correct pronunciation for names or words that may have regional variations.\nAnother in-development filmmaking tool is the Firefly video editor, which Adobe describes as a “multitrack timeline editor for generating, organizing, trimming, and sequencing clips.” It combines Adobe’s various tools for generating voiceovers, soundtracks, and titles into a single web-based app, alongside frame-by-frame editing features and style presets. The Firefly video editor will start rolling out in private beta next month, with prospective users required to sign up to a waitlist for early access.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c2ab60145a49744bcd9adab3a3947daa199a8cd5",
+      "title": "Adobe&#8217;s AI social media admin is here with &#8216;Project Moonlight&#8217;",
+      "url": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-28T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Project Moonlight\t\n\nAs Adobe builds AI assistants into each of its applications, the company is also building an AI agent on its Firefly platform to act as a centralized creative director for social media campaigns. Project Moonlight’s chatbot integrates with Adobe’s creative software apps and pulls from your existing social media channels to brainstorm and edit content that’s consistent with your personal style and voice.\nAs seen in the above sample image, users describe their vision to the bot in text, and the AI assistant processes those ideas through Adobe’s other AI-enabled editing tools to create personalized images, videos, and social posts. Adobe says of the new AI agent:\nProject Moonlight is your personal orchestration assistant capable of coordinating across multiple Adobe apps and beyond. While each AI Assistant in our apps is an expert in its own domain—Photoshop for image editing, Premiere for video, Lightroom for photography—Project Moonlight operates like a conductor of an orchestra, bringing them all together in harmony. Just tell Project Moonlight what you need, and it unites our AI Assistants as one creative team to help you bring your vision to life. With Project Moonlight, you benefit from:\n• Context-aware creative intelligence: Project Moonlight connects to your Creative Cloud libraries and social accounts to understand your style, projects, and assets—surfacing personalized ideas and content that feel authentically you.\n• Conversational creation: Turn conversations with your agent into creative content. As you exchange ideas with your agent, it generates images, videos, and social posts aligned to your direction—taking you effortlessly from idea to execution.\n• Data-driven growth and strategy: Link your social channels to let your agent analyze performance, identify trends, and craft content strategies that grow your audience and strengthen your creative brand.\nAdobe is releasing a private beta version of Project Moonlight in the coming months to users who join the waitlist.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "23b701337b2e19871ea4a7290f424885c941ef9f",
+      "title": "Insta360’s X4 Air is a smaller and cheaper version of its 360-degree X5 action camera",
+      "url": "https://www.theverge.com/news/806482/insta360-x4-air-action-camera-8k-replaceable-lenses",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-28T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The new Insta360 X4 Air also has a larger sensor than the older X4. | Image: Insta360\t\n\nInsta360 debuted its new X5 360-degree action camera just six months ago, but it turns out that the company still has plans for its predecessor. Today, it announced the Insta360 X4 Air, which is a lighter, smaller, and more affordable alternative to the $549.99 X5 that still offers 8K recording capabilities, but starting at $399.99. It’s launching today around the world through Insta360’s online store in graphite black and arctic white color options, but availability for the US and Canada is still “coming soon.”\nThe X4 Air offers similar recording capabilities as the original X4, with 360-degree 8K videos maxing out at 30fps. But drop the resolution to 4K and the framerate maxes out at just 50fps, while the X5 and X4 can do 4K at up to 100fps for capturing slow motion clips. You’ll need to use the X4 Air in single-lens mode at 1080p to boost the frame to 120fps. The X4 Air also has reduced capabilities when capturing still photos. It maxes out at 29 megapixels, while the X5 and X4 both capture images at 72MP.\nDespite the slight performance reductions, the X4 Air features a pair of 1/1.8-inch sensors that are slightly larger than the 1/2-inch sensors used in the older X4 that Insta360 says should help it capture “better detail and more vivid color straight out of the camera.” But they’re both still smaller than the 1/1.28-inch sensors in the Insta360 X5, so if you plan on shooting in low-light conditions, then it might be worth the splurge and grab Insta360’s newest model instead.\nThe real appeal of the new X4 Air is its size, although, despite its name, it’s not that much smaller than the X4 and X5. It’s about 10 millimeters shorter than the other models at 113mm tall, and at 165 grams, it’s 30 grams lighter than the X4 and X5, potentially making it a bit more convenient to carry around all day. Its smaller body does come with the compromise of a smaller 2,010mAh battery, with battery life falling somewhere in-between the X4 and X5 at up to 88 minutes when recording at 8K / 30fps.\nThe removable lens guards introduced with the X4 are still available for the new X4 Air, but it also comes with user-replaceable lenses that can be swapped out in seconds which was one of the best features of the X5. The X4 Air is also waterproof to depths of up to 49 feet like the X5 without the need for a dive housing, and includes that action camera’s hands-free recording options including gestures, voice control, and the option to twist a selfie stick back and forth to begin capturing.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "5f516ca412b5cdf4763578719f38c3e06a08b0d9",
+      "title": "Kensington’s new trackball comes packed with scroll wheels",
+      "url": "https://www.theverge.com/news/806297/kensington-expert-mouse-tb800-eq-trackball",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-28T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The trackball’s scroll dial is now flanked by a pair of scroll wheels on either side of the mouse. | Image: Kensington\t\n\nKensington has announced a new version of its Expert Mouse wireless trackball with a major facelift and some new functionality. The Expert Mouse TB800 EQ features a slimmer design than its predecessor with a new built-in wrist rest making it look more like the sleeker SlimBlade Pro that Kensington launched in 2022. But the svelter profile doesn’t come at the cost of features. When it’s available later this year with a price bump from $109.99 to $149.99, the new Expert Mouse will include even more buttons, and three scroll wheels.\nThe new Expert Mouse maintains its predecessor’s dedicated scroll ring around the base of the trackball, while adding two additional vertically oriented scroll wheels found on either side. By contrast, the cheaper SlimBlade Pro has you scrolling by twisting its trackball.\nThe ring’s functionality can be toggled between smooth vertical scrolling or stepping line by line for when you’re reading websites or documents, while the side wheels facilitate horizontal scrolling and zooming which can be useful for navigating the timeline interfaces of video and audio editing apps. If you don’t have a use for the scroll wheels, they can be disabled individually using three switches on the underside of the mouse.\nIn addition to keeping the original  Expert Mouse’s set of four large programmable buttons surrounding its trackball, the new one has four additional buttons along the top. They come pre-programmed for controlling media playback and volume, but their functionality can be customized using Kensington’s desktop software.\nInstead of running on AA batteries, the new Expert Mouse comes with a rechargeable battery that Kensington says will keep it powered for up to four months. It connects to devices wirelessly over Bluetooth or using an included 2.4GHz USB dongle, but its USB-C charging cable also facilitates a wired connection to a computer if you’d rather not stress over battery life.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1bebaf825025d2e77a1960fd0656a66d420a1390",
+      "title": "Photoshop and Premiere Pro’s new AI tools can instantly edit more of your work",
+      "url": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-28T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Photoshop’s Generative Fill tool can now use third-party AI models. | Image: Adobe\t\n\nAdobe has kicked off its annual Max event, giving us a first look at new and upcoming generative AI tools launching for the company’s Photoshop, Premiere Pro, and Lightroom Creative Cloud apps. These include updates to Photoshop’s Generative Fill feature that aim to give creators more control over adding, removing or modifying content, and tools that can automate some of the more time-consuming elements of editing photos and videos.\nTo start, Adobe is allowing Photoshop users to power Generative Fill capabilities using Google and Black Forest Labs’ third-party AI models. After selecting their image and giving Generative Fill a prompt — such as describing an object to insert, or replacing an existing object or person with something else — users can switch between Google’s Gemini 2.5 Flash, Black Forest’s Flux.1 Kontext, and Adobe’s Firefly image model, providing a wider variety of results to choose from.\nPhotoshop for web is also introducing an AI Assistant in private beta. This is a chatbot-like interface that can be given descriptive instructions like “increase the saturation” to automatically edit files, effectively using Photoshop’s vast selection of tools for you. This capability was teased in April, and a similar feature is launching for Adobe Express in public beta.\nAnother beta feature called “Assisted Culling” is launching for Adobe Lightroom that can filter large collections of photographs for different focus, angles and degrees of sharpness, and recommends the best snaps for photographers to edit.\nThe Firefly AI image model that powers these editing tools is getting a model upgrade. Adobe says that Firefly Image 5 can generate images in a native four-megapixel resolution without upscaling, and has been optimized to improve its ability to render realistic humans. The model also powers Adobe’s new prompt-based editing features that make specific adjustments based on descriptions, and a new Layered Image Editing tool coming to Photoshop that makes precise, contextual changes, such as ensuring shadows are automatically corrected when moving objects around an image.\n\nFor video editors, Adobe also has a new tool for its Premiere Pro software that automatically stencils out people and objects in video frames. AI Object Mask is available in public beta, and aims to make it easier to quickly color grade, blur, and add visual effects to moving backgrounds by removing the need to manually mask subjects using the pen tool.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f17c5ede05e178de69e8c896d4a6c32fbffc1d4c",
+      "title": "You can tell Adobe Express’s new AI assistant to edit your designs for you",
+      "url": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-28T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The AI Assistant is designed to be used without needing professional design experience.\t\n\nA new generative AI experience is coming to Adobe’s cloud-based Express design platform, enabling you to transform projects by vaguely describing what changes to make. Adobe describes the “AI Assistant in Adobe Express” launching in public beta today as a conversational creative agent that “empowers people of every skill level” to quickly create visual content, without having to understand specific design terms or creative tools.\nThe feature is available as a toggle in the top-left corner of the Adobe Express web app. When activated, the usual homepage interface and tool options will be replaced by a chatbot-style text box, with options to make a new design or edit existing images. Users can surface a selection of curated presets by describing what they need to make, such as “fall-themed wedding invitation” or “retro-inspired poster for school science fair,” and edit their selection with natural language prompts.\nFor users without professional design experience, the AI assistant is capable of making adjustments based on vague requests like “make this pop” or “give this a jungle theme.” Users can also specify specific parts of the design to change, such as replacing backgrounds, fonts, and individual elements or layers of an asset, leaving the rest of the design unchanged. The tool pulls from a variety of sources, including Adobe’s Font and stock image library, or generates image assets from scratch to match specific requests using Adobe’s Firefly AI models.\n\nAn entire design can be created using the AI assistant, or users can toggle it off at any time to make manual changes using Express tools. It can also fulfill requests that would require a combination of Express tools, like resizing and reformatting completed designs, or converting them into animations.\n“You decide when and how to work with them. The experience is hybrid by design,” Adobe’s chief technology officer, Ely Greenfield, said in the announcement. “They act like capable teammates — taking on the work that distracts you from your craft, so you can accomplish more while staying firmly in creative control.\nThis is the latest expansion of Adobe’s plans to integrate conversational AI assistants across its wider product ecosystem, which started with Adobe Acrobat last year. A similar chatbot-style editor is also launching in private beta for Photoshop, and Adobe says it’s working on making the Express AI assistant available as an integration for third-party apps like ChatGPT. The goal is that these Adobe AI assistants will eventually “work together seamlessly across your apps,” according to Greenfield, allowing them to eventually adapt to your personal style and anticipate the assistance you need in the future.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e9bbbebbd97bb60cbd97727b530bacc1da84e11f",
+      "title": "Von der Leyen says EU ‘cannot tolerate’ disruption of airspace, calling balloons over Lithuania a ‘provocation’ – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/oct/28/zelenskyy-ukraine-peace-talks-putin-russia-alexander-lukashenko-belarus-europe-live-news-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-28T11:49:57.000Z",
+      "summary_90w": "",
+      "raw": "She also added they back plans to step up EU investment in military equipment and they are ready to cover the financing needs of Ukraine\nEU’s von der Leyen also gets asked about the balloons disrupting the Lithuanian airspace.\nShe says she wants to “express my full solidarity” with Lithuania, and calls it “a provocation, a hybrid threat,” which “we cannot tolerate.”\nWe’re in for the long haul. We are ready to cover the financing needs of Ukraine, so that we are standing by Ukraine for as long as it takes.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "10cd6b0908363259e87e815a339dd84a053dc358",
       "title": "Amazon is cutting 14,000 corporate jobs",
@@ -13,32 +156,6 @@
       "raw": "Amazon is planning to axe around 14,000 corporate jobs. The mass layoffs were expected as part of the company’s cost-cutting drive, but are smaller than the 30,000 job losses previous reports had indicated.  \nBeth Galetti, a senior executive at the e-commerce giant, broke the news to employees in a message on Tuesday. “The reductions we’re sharing today are a continuation of this work to get even stronger by further reducing bureaucracy, removing layers, and shifting resources to ensure we’re investing in our biggest bets and what matters most to our customers’ current and future needs,” Galetti said.\nGaletti did not give an indication of what roles are being cut or where they are located. Most employees will have 90 days to look for a new job internally, she said. \n“Some may ask why we’re reducing roles when the company is performing well,” Galetti wrote. “This generation of AI is the most transformative technology we’ve seen since the Internet, and it’s enabling companies to innovate much faster than ever before (in existing market segments and altogether new ones). We’re convicted that we need to be organized more leanly.”\nGaletti said Amazon expects “to continue hiring in key strategic areas” in 2026, but will also keep searching for areas to “realize efficiency gains,” suggesting more job cuts may be on the horizon. \nAmazon’s last major round of job cuts was at the end of 2022 and into 2023, when 27,000 workers were laid off.\nGaletti’s memo referenced a message from CEO Andy Jassy sent to employees in June. In it, the executive evangelizes generative AI as both the source of Amazon’s sought efficiency gains — read job cuts — and its strategic direction for products and services. The company has made it clear it hopes to tap automation, robotics, and AI as means of slashing labor costs and ultimately replacing thousands more human workers.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "e9bbbebbd97bb60cbd97727b530bacc1da84e11f",
-      "title": "Von der Leyen says EU ‘cannot tolerate’ disruption of airspace, calling balloons over Lithuania a ‘provocation’ – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/28/zelenskyy-ukraine-peace-talks-putin-russia-alexander-lukashenko-belarus-europe-live-news-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-28T11:39:45.000Z",
-      "summary_90w": "",
-      "raw": "She also added they back plans to step up EU investment in military equipment and they are ready to cover the financing needs of Ukraine\nEU’s von der Leyen also gets asked about the balloons disrupting the Lithuanian airspace.\nShe says she wants to “express my full solidarity” with Lithuania, and calls it “a provocation, a hybrid threat,” which “we cannot tolerate.”\nWe’re in for the long haul. We are ready to cover the financing needs of Ukraine, so that we are standing by Ukraine for as long as it takes.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d43875fc889b19001ec28a2247cb0a3a839dff6e",
-      "title": "Fawlty Towers star Prunella Scales dies aged 93",
-      "url": "https://www.bbc.com/news/articles/cjd0yn5gyndo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-28T11:37:40.000Z",
-      "summary_90w": "",
-      "raw": "Scales played hotel manager Sybil Fawlty, the bossy wife of Basil, in the classic British sitcom.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -55,23 +172,23 @@
       ]
     },
     {
-      "id": "3ff5050e32f03fabefb9da6a2833a3a0dc0fb751",
-      "title": "Two military sites earmarked as asylum seeker accommodation",
-      "url": "https://www.bbc.com/news/articles/cjr0lx7n0y3o?at_medium=RSS&at_campaign=rss",
+      "id": "201603953b5206b7f93e465656ab6ead7adc31b1",
+      "title": "Amazon confirms 14,000 corporate job losses as it focuses on AI",
+      "url": "https://www.bbc.com/news/articles/c1m3zm9jnl1o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-10-28T11:31:19.000Z",
+      "published": "2025-10-28T11:29:15.000Z",
       "summary_90w": "",
-      "raw": "Housing asylum seekers in hotels has cost billions, while they have also become a focal point for protests.",
+      "raw": "The company says the opportunities provided by AI means it  needs to be \"organised more leanly.\"",
       "topics": [
         "World"
       ]
     },
     {
       "id": "201603953b5206b7f93e465656ab6ead7adc31b1",
-      "title": "Amazon confirms 14,000 corporate job losses as it focuses on AI",
+      "title": "Amazon confirms 14,000 job losses in corporate division",
       "url": "https://www.bbc.com/news/articles/c1m3zm9jnl1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-10-28T11:29:15.000Z",
       "summary_90w": "",
@@ -95,13 +212,13 @@
     },
     {
       "id": "fd310590850c4be1f6867cd84ad0ef2804d3c814",
-      "title": "Tourist plane crash in Kenya kills 11 on board",
+      "title": "Kenya plane crash kills European tourists and local pilot ",
       "url": "https://www.bbc.com/news/articles/c75146k9z4no?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-10-28T11:14:05.000Z",
       "summary_90w": "",
-      "raw": "Ten Europeans and a local pilot have died after the plane crashed while flying to a game park.",
+      "raw": "The aircraft was flying from a popular coastal resort to a game park when it came down.",
       "topics": [
         "World"
       ]
@@ -198,6 +315,19 @@
       ]
     },
     {
+      "id": "aca2b039a65d5d35308e5842fe4438c1668d358a",
+      "title": "I'm just keeping Celtic seat warm - O'Neill",
+      "url": "https://www.bbc.com/sport/football/articles/cpwvy22gp5yo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-28T10:31:20.000Z",
+      "summary_90w": "",
+      "raw": "Martin O'Neill says he had to \"pull myself off the floor\" when he was asked to take interim charge of Celtic following Brendan Rodgers' exit.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "6cd17daa63e1694c6084c1f22dc9903885732e20",
       "title": "America's immigration crackdown is disrupting the global remittance market",
       "url": "https://www.npr.org/sections/planet-money/2025/10/28/g-s1-94960/americas-immigration-crackdown-is-disrupting-the-global-remittance-market",
@@ -245,6 +375,32 @@
       "published": "2025-10-28T10:26:30.000Z",
       "summary_90w": "",
       "raw": "The Liberal senator ‘tarnished’ reputation of Central Land Council chief, court hears, but she says there was public interest\n\nGet our breaking news email, free app or daily news podcast\n\nA Liberal senator accused of defaming the head of a large Aboriginal land council was an evasive witness who made baseless allegations and gave “illogical and self-serving” answers, a court has been told.\nJacinta Nampijinpa Price has been sued by Central Land Council chief executive, Lesley Turner, over an allegedly defamatory media release in July 2024 that claimed there had been a failed no-confidence motion against him.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d1defa2c9fbb67113683f039633338ef757aaa2e",
+      "title": "Bella Culley's family pay £137k to reduce sentence",
+      "url": "https://www.bbc.com/news/articles/cwypqwn4epyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-28T10:19:01.000Z",
+      "summary_90w": "",
+      "raw": "The pregnant 19-year-old will stay in detention in Georgia on drugs charges until her next hearing.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d1defa2c9fbb67113683f039633338ef757aaa2e",
+      "title": "Pregnant British teenager's family pay £137,000 to reduce sentence in Georgia jail",
+      "url": "https://www.bbc.com/news/articles/cwypqwn4epyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-28T10:19:01.000Z",
+      "summary_90w": "",
+      "raw": "The pregnant 19-year-old will stay in detention in Georgia on drugs charges until her next hearing.",
       "topics": [
         "World"
       ]
@@ -471,6 +627,19 @@
       ]
     },
     {
+      "id": "ef304a4290fe5e081c7d7fb91372ea402fa9c773",
+      "title": "Dodgers outlast Blue Jays in World Series six-hour epic",
+      "url": "https://www.bbc.com/sport/baseball/articles/cx2dn3qxk0ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-28T07:05:22.000Z",
+      "summary_90w": "",
+      "raw": "Freddie Freeman hits a walk-off home run in the bottom of the 18th inning as the Los Angeles Dodgers took a 2-1 lead in the best-of-seven World Series, beating the Toronto Blue Jays 6-5 in an epic game.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "cb220ed3f22f50cd2f467e3a4fa1924faf27281c",
       "title": "World’s climate plans fall drastically short of action needed, analysis shows",
       "url": "https://www.theguardian.com/environment/2025/oct/28/worlds-climate-plans-fall-drastically-short-of-action-needed-analysis-shows",
@@ -583,32 +752,6 @@
       "published": "2025-10-28T05:00:20.000Z",
       "summary_90w": "",
       "raw": "Exclusive: two dossiers of material seen by the security council raise questions over export of British arms to the UAE, which has been accused of supplying weapons to paramilitary RSF group\nBritish military equipment has been found on battlefields in Sudan, used by the Rapid Support Forces (RSF), a paramilitary group accused of genocide, according to documents seen by the UN security council.\nUK-manufactured small-arms target systems and British-made engines for armoured personnel carriers have been recovered from combat sites in a conflict that has now caused the world’s biggest humanitarian catastrophe.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "830c5047ea8cc6691342c5b0213b3c06b31b35eb",
-      "title": "Hurricane Melissa: Jamaica braces for world's strongest storm of 2025",
-      "url": "https://www.bbc.com/news/articles/c2dr0z57nygo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-28T03:59:18.000Z",
-      "summary_90w": "",
-      "raw": "Three reported dead in Jamaica as meteorologists warn of \"life-threatening winds, flooding and storm surge\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "eaacdcb5987f34633a4d8981967eea096164a353",
-      "title": "Watch: Storm chasers fly inside the eye of Hurricane Melissa",
-      "url": "https://www.bbc.com/news/videos/cwypk4e3v3lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-28T02:54:13.000Z",
-      "summary_90w": "",
-      "raw": "Footage taken by a US Air Force Reserve crew known as the \"Hurricane Hunters\" shows the category five storm intensifying in the Caribbean.",
       "topics": [
         "World"
       ]
@@ -848,19 +991,6 @@
       ]
     },
     {
-      "id": "227889a6c5c8ea20b89a8599d81f379c26fd3bcd",
-      "title": "How to sign up for Amazon Prime",
-      "url": "https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-27T23:49:20.000Z",
-      "summary_90w": "",
-      "raw": "Can you believe that the holiday season is already creeping up on us? I can’t. But at least that means we can begin looking forward to all the deals we’re likely to see during Black Friday and Cyber Monday, the bulk of which will drop on November 28th. Everything from gaming gear and headphones to the latest smart home tech — well, almost everything — will be on sale, including plenty of Verge favorites.\nBut be aware: some of the best deals will only be available for Amazon Prime subscribers. Fortunately, if you’re interested in all of Amazon’s discounted goodies but haven’t signed up for Prime, don’t worry — Amazon makes it very easy to lock in a premium account.\n\nIf you’re attracted by the goodies being offered but haven’t signed up for Prime, Amazon makes it very easy\n\n\nBesides giving access to Prime Day bargains, Amazon includes a bunch of features to entice people to sign up for its Prime service. These include access to its streaming video service, Prime Video, which sadly is no longer ad-free, though you can pay extra for that; free and faster shipping on purchases (with two-day or one-day delivery for many items and even same-day delivery for some); discounts on a selection of Amazon Fresh and Whole Foods groceries along with a free GrubHub Plus membership; Amazon Music ad-free audio streaming (not to be confused with the more extensive Amazon Music Unlimited, which is an additional $10.99 per month for Prime members and $11.99 per month for non-members); free access to Amazon Luna gaming; unlimited photo storage (along with 5GB of video storage); and Prime Reading, which gives you access to a rotating library of comics, books, and magazines as well as early access to a curated selection of new books. Amazon also added discounts at BP and Amaco gas stations last year.\nYou can share your Prime account with one other adult, up to four children, and up to four teens (as long as they were added before April 7th, 2025) using the Amazon Family program. Shared benefits include fast delivery, Prime streaming access, purchased ebooks and other media, and early access to lightning deals. (Some features, such as Music Prime, are not shared.) \nHere’s how to sign up.\nChoose a plan\nGo to https://www.amazon.com/amazonprime and scroll down to where it says Choose your plan. You can immediately click on the button that says Start your free 30-day trial if you want, but don’t you want to see what your options are first?\nChoose which plan you want. The basic plan lets you sign up for the service for $14.99 per month or $139 per year, which comes out to a little over $12 a month. \nPrime for Young Adults is for anyone who is between the ages of 18 and 24 or can verify that they are an enrolled student. You’ll get a free six-month trial subscription (if you’re a new member), and after that, you’ll only have to pay $7.49 a month or $69 a year. \nIf you’re on any of a variety of government assistance programs, like SNAP and Medicaid, you can also join for less with Prime Access: $6.99 a month with a free 30-day trial.\nIs it your birthday soon? If you have a generous friend or relative, they can gift you a Prime membership using one of Amazon’s gift cards.\nCreate an account\nOnce you’ve decided which plan you’re going to go with, you’ll need an Amazon account. If you don’t already have one, you’ll need to sign up. Click on Start your free 30-day trial and then Create your Amazon account to set one up with your name, email, and password. We strongly recommend setting up two-factor authentication for your account as well.\nOn the next page, Amazon will verify your account by sending what it calls an OTP (one-time password) to your email. Go to your email, copy the OTP, paste it into the Amazon page, and click Verify.\nYou’ll then be asked to enter your credit or debit card information.\nAnd you’re done!\nWe should probably mention the obvious: you can sign up for a Prime membership, take advantage of the free 30-day trial, and then cancel it after Black Friday and Cyber Monday have ended. But you can only do that once, so you won’t be able to use that trick next year when Prime Day or Black Friday comes around.\nUpdate, October 27th: This article was first published on June 9th, 2021, and has been updated to reflect new information regarding Amazon’s forthcoming Black Friday / Cyber Monday sale.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "0af44f89f399cf033b1cb4036b70cd273c5206ed",
       "title": "Roelof Botha explains why Sequoia supports Shaun Maguire after COO quit",
       "url": "https://techcrunch.com/2025/10/27/roelof-botha-explains-why-sequoia-supports-shaun-maguire-after-coo-quit/",
@@ -926,19 +1056,6 @@
       ]
     },
     {
-      "id": "c1cebee3a5fced37fcd7d59a0b9de0ca62b1e7e2",
-      "title": "ExxonMobil accuses California of violating its free speech",
-      "url": "https://www.theverge.com/news/807357/exxon-lawsuit-california-greenhouse-gas-climate-reporting-laws",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-27T22:42:33.000Z",
-      "summary_90w": "",
-      "raw": "Darren Woods, chairman and chief executive officer of Exxon Mobil Corp, during the Summit on Methane and Other Non-CO2 Greenhouse Gases on day three of the COP28 climate conference at Expo City in Dubai, United Arab Emirates, on Saturday, Dec. 2, 2023. | Photo: Getty Images\t\n\nExxonMobil is suing California over state laws that compel large companies to share a more comprehensive picture of their greenhouse gas emissions, as well as disclose financial risks that climate change might pose to their investors.\nThe oil and gas company claims that the two laws in question aim to “embarrass” large corporations the state “believes are uniquely responsible for climate change” in order to push them to reduce their greenhouse gas emissions. There is overwhelming scientific consensus that greenhouse gas emissions from fossil fuels cause climate change by trapping heat on the planet. \nExxonMobil alleges that California is violating the First Amendment by setting specific standards for how certain companies report those emissions and the associated climate risks. Under laws the state passed in 2023, “ExxonMobil will be forced to describe its emissions and climate-related risks in terms the company fundamentally disagrees with,” a complaint filed Friday says. The suit asks a US District Court to stop the laws from being enforced.\n\nIt’s the latest in an ongoing saga over how transparent companies should be about their impact on the climate\n\n\nIt’s the latest in an ongoing saga over how transparent companies should be about their impact on the climate. California has set higher standards than many companies follow in their sustainability reports. That, plus the state’s enormous economy, has allowed it to raise the bar for corporate climate disclosures even as the federal government moves in the opposite direction. ExxonMobil’s accusations that the state is compelling corporations to adopt its views on climate change also follow a landslide of allegations that ExxonMobil has misled consumers about the impact its products would have on the environment. \nOne of the laws ExxonMobil is suing over, SB 253, requires companies doing business in California with more than $1 billion in annual revenue to disclose their emissions according to internationally recognized standards set in the Greenhouse Gas Protocol. The company already publicly shares data on its greenhouse gas emissions, but says it disagrees with the Greenhouse Gas Protocol’s methods. The big tussle is over requirements to include emissions from a company’s supply chain, electricity use, and consumer use of its products — considered “indirect” emissions. Those indirect emissions often make up the majority of a company’s carbon footprint, and SB 253 would require full disclosure of them by 2027. \nExxonMobil’s suit, however, claims that including indirect emissions leads to double counting. It would mandate that the company claim tailpipe emissions from cars and trucks that burn their fuels, for example, while the owners of those vehicles might also claim those emissions in their reporting. \nThe other law in dispute, SB 261, says that companies earning more than $500 million in annual revenue need to disclose financial risks they face from climate change, such as how coastal flooding or more extreme weather might impact their business, by January 2026. The suit calls such disclosures “speculative,” requiring “the company to engage in granular conjecture about unknowable future developments.” \nUnder the Biden administration, the SEC proposed similar rules at the federal level, which it ultimately weakened after facing pushback from industry over requirements to disclose indirect emissions. This year, the SEC under the Trump administration announced that it would no longer defend those rules in court.  \nSeparately, ExxonMobil is embroiled in another suit California filed against it last year over plastic pollution. That suit claims that the company “deceived Californians for almost half a century by promising that recycling could and would solve the ever-growing plastic waste crisis.” Plastics are made from fossil fuels and are difficult to recycle; less than 10 percent of plastic waste has ever been recycled. ExxonMobil subsequently filed a defamation lawsuit against the California Attorney General in January over the disputed recycling claims.  \nCalifornia filed another suit in 2023 against multiple oil and gas companies including Exxon, alleging their “deceptive and tortious conduct was a substantial factor in bringing about these devastating climate change impacts in California,” including more intense heat, droughts, wildfires. Over the past decade a series of investigations into ExxonMobil, as well as peer-reviewed research, have shown how the company’s own scientists accurately predicted climate change while publicly dismissing the issue.\nExxonMobil’s latest suit now says the company “understands the very real risks associated with climate change and supports continued efforts to address those risks,” but that California’s laws would force it “to describe its emissions and climate-related risks in terms the company fundamentally disagrees with.” \n“These laws are about transparency. ExxonMobil might want to continue keeping the public in the dark, but we’re ready to litigate vigorously in court to ensure the public’s access to these important facts,” Christine Lee, a spokesperson for the California Department of Justice, said in an email to The Verge. Officials with the state regulatory agency named as defendants in the suit declined to comment on pending litigation.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "e12de5ce5edaf489509a691ddceb92effdb4c0bb",
       "title": "Prince Andrew hosted Epstein, Maxwell and Weinstein at Royal Lodge",
       "url": "https://www.bbc.com/news/articles/c4g7d39n6vgo?at_medium=RSS&at_campaign=rss",
@@ -949,32 +1066,6 @@
       "raw": "The trio were at Andrew's mansion in 2006 as part of his daughter Beatrice's 18th birthday celebrations.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "223cc752a465af950d0ec834e5325803f02e2c81",
-      "title": "Trump’s DHS is recruiting ICE officers with a Halo meme",
-      "url": "https://www.theverge.com/news/807514/trump-white-house-dhs-ice-halo-image-meme-gamestop-console-wars",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-27T22:21:24.000Z",
-      "summary_90w": "",
-      "raw": "After using the original Pokémon theme song in a montage of ICE raids, the Department of Homeland Security (DHS) is using another popular video game franchise to promote itself on social media: Halo. This morning, the DHS posted an image featuring Halo characters, a Warthog vehicle from the games, and the text “DESTROY THE FLOOD” and a link to ICE’s recruitment website. The DHS captioned the post, “finishing this fight.”\n\n\nFinishing this fight. pic.twitter.com/6Ezq9NUqMq\n— Homeland Security (@DHSgov) October 27, 2025\n\n\nLike with its Pokémon-themed post, which was captioned, “Gotta Catch ‘Em All,” the DHS’s Halo post implicitly compares immigrants to creatures from video games — this time, the parasitic alien species called the Flood. \nThe DHS’s post was the culmination of a social media exchange between the Trump administration and video game retailer GameStop, based on a joke that Trump had overseen the end of the “console wars” thanks to the announcement of the Halo: Combat Evolved remake for PlayStation next year. GameStop, whose CEO and chairman Ryan Cohen has been a vocal supporter of Trump, quoted the joke with a picture of Trump shaking hands with Halo protagonist Master Chief. The White House followed up with an image of Trump in a suit of armor similar to Master Chief’s, and GameStop responded with its own photoshopped Master Chief Trump, adding a meme-ified version of Vice President JD Vance’s head swapped onto what looks to be the feminine anthropomorphic AI Cortana.\n\n\nhttps://t.co/8DRFpgbFv5 pic.twitter.com/wWvOYrwSUR\n— GameStop (@gamestop) October 27, 2025\n\n\n\nhttps://t.co/jI0ZrstLgz pic.twitter.com/VS32cV0RG7\n— GameStop (@gamestop) October 27, 2025\n\n\nMicrosoft declined to comment about the DHS’s post, and didn’t immediately respond to a request for comment about the White House’s and GameStop’s posts. The Pokémon Company International, in response to Pokémon being associated with Trump’s mass deportation campaign, previously said in a statement to The Daily Beast that “our company was not involved in the creation or distribution of this content, and permission was not granted for the use of our intellectual property.”\nCorrection, October 27th: The Pokémon Company International provided the statement to The Daily Beast, not Nintendo, as we originally stated.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "953ff1a5b282ca3276fda445f6718bfd1b46e9bb",
-      "title": "AMD, Department of Energy announce $1 billion AI supercomputer partnership",
-      "url": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-27T22:16:48.000Z",
-      "summary_90w": "",
-      "raw": "AMD has sealed a $1 billion deal with the US Department of Energy to develop two supercomputers, Lux and Discovery, in collaboration with Oracle and Hewlett Packard Enterprise (HPE). Both supercomputers will live at Oak Ridge National Laboratory (ORNL) in Oak Ridge, Tennessee. Lux is slated to come online fairly soon in early 2026, with Discovery following in 2029. \nBoth build on the work that went into the Frontier supercomputer, which is also housed at ORNL and was the fastest in the world until El Capitan came online last year at Lawrence Livermore National Laboratory. AMD also helped develop those supercomputers, so this isn’t its first time working with the US government on a project like this. \nA press release announcing the partnership describes Lux as an “AI Factory,” stating:\nLux at ORNL is the nation’s first dedicated AI Factory for science, energy, and national security—purpose-built to train, fine-tune, and deploy AI foundation models that will accelerate discovery and engineering innovation. Lux is designed to accelerate AI-driven science through its advanced architecture, optimized for data-intensive and model-centric workloads.\nMeanwhile, Discovery is described as having a “Bandwidth Everywhere” design that improves on the performance and energy efficiency the Frontier supercomputer offers, delivering more computing output at a similar cost. That processing power will support scientific research in a variety of areas, as the press release explains:\nDiscovery will drive breakthroughs in energy, biology, advanced materials, national security, and manufacturing innovation. It will help design next-generation reactors, batteries, catalysts, semiconductors, and critical materials.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1095,19 +1186,6 @@
       ]
     },
     {
-      "id": "776ffb82e084bad0a6839797056f9a4981815136",
-      "title": "Spotify finally brings video podcasts and music videos to its Apple TV app",
-      "url": "https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-27T20:57:08.000Z",
-      "summary_90w": "",
-      "raw": "You can now watch your favorite video podcasts on your big screen with Spotify’s new tvOS app update. | Image: Spotify\t\n\nSpotify has announced a redesigned version of its Apple TV app that the company says has been “rebuilt from the ground up for a faster, smarter, more visual experience.” The tvOS version of the Spotify app is also gaining several welcome features from the mobile version, but the biggest updates include the addition of video podcasts and music videos. \nSome users have had access to the update for a few days already, but the new version is now available to download for everyone through Apple’s App Store, while devices using automatic updates should get the new experience by mid-November. Users of the old version of Spotify’s tvOS app have previously taken to online forums, including Reddit, to complain about everything from its frustrating navigation to missing features that have long been included in the Google TV version of the app, but it looks like this version is addressing them. \nWatching music videos on Spotify isn’t available in the US or Canada yet, but the feature has already expanded to 97 different markets around the world, with a limited catalog for Spotify Premium subscribers. They’re easily accessible using a “switch to video” prompt that appears when a song you’re listening to has an accompanying music video in Spotify’s catalog.\nPodcasts offering a video version will work in a similar manner in the new Spotify tvOS app, and will include an option to adjust the playback speed. Earlier this month, the company’s podcast studio announced a partnership with Netflix and The Ringer to bring 16 video podcast series to the video streaming platform in the US starting in 2026, including The Bill Simmons Podcast and shows based on the NFL, NBA, Fantasy Football, and F1.\nThe updated Spotify Apple TV app also adds new mobile features like queue management, seamless playback, song lyrics, and access to Spotify DJ, which uses AI to recommend what to listen to next. You’ll also be able to control playback on the Apple TV using your smartphone or tablet and the mobile app through Spotify Connect.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "3ce00a0560fe1efc377e85a384a24dcae6d401aa",
       "title": "Robotaxi companies must do more to prove safety, Waymo co-CEO says",
       "url": "https://techcrunch.com/2025/10/27/robotaxi-companies-must-do-more-to-prove-safety-waymo-co-ceo-says/",
@@ -1131,19 +1209,6 @@
       "raw": "Justice Secretary says human error led to migrant sex offender release.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "b5a514c60d00853c8804a1745b1fec6b4554b3af",
-      "title": "The best phone to buy right now",
-      "url": "https://www.theverge.com/22163811/best-phone",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-27T20:19:12.000Z",
-      "summary_90w": "",
-      "raw": "Haven’t you heard? Phones are boring now. And that’s just fine! Most people buying a new phone just want something familiar that works better than the device they’re replacing. If that’s your MO, then you’re sure to find something reliable in my recommendations below.\nBut even if you’re looking for something a little more extra, you’ve got some great options. They’re going to be pretty iterative compared to whatever you’re using now — we’re in more of a software era than a hardware innovation cycle these days — but you can still find a delightful new device. We finally have a folding phone that offers full water and dust resistance, there are flip phones that offer more than just nostalgia, and you can still buy a phone with no fewer than four cameras on the back. Not bad for a boring season of phone hardware.\nA lot of people in the US get their phones through carrier deals, and no judgment here if that’s the route you take — it’s how I bought mine. Just be sure you know what you’re getting into and how many years you’ll need to stay on that Super 5G Everything Unlimited Plus plan to keep the monthly device reimbursements coming.\nIf you’re looking to spend a little less and still get the best smartphone on a budget, you can find something really good for under $600. For those recommendations, check out our guide to budget smartphones.\nThe best iPhone for most people\nApple iPhone 17\n\n\nScore: 8\n\nProsCons\n\n\nAlways-on display makes it vastly more useful\nHigh refresh rate makes using the phone smoother\nThe cameras are solid\nBattery lasts well through the day\nThe price isn’t going up\nNo redesign, but the green is nice\n\nZoom capabilities are weak compared to the Pro\nGets hot during heavy gaming sessions\nApple Intelligence is still somewhere between useless and MIA\n\n\n\nWhere to Buy:\n\n $799 at Apple (256GB)\n $829.99 at Best Buy (256GB)\n $999 at Apple (512GB)\n\nScreen: 6.3-inch 2622 x 1206 OLED, 120Hz refresh rate / Processor: A19 / Cameras: 48-megapixel f/1.6 main with sensor-shift IS; 48-megapixel ultrawide; 18-megapixel selfie / Battery: Not advertised / Charging: 40W wired, 25W wireless MagSafe (Qi2) / Weather-resistance: IP68\nThis year’s standard iPhone offers a handful of major upgrades over its predecessor, including a larger 6.3-inch screen with a 120Hz panel and an always-on display. These two features make the everyday experience meaningfully better, but they’re not the only ones: you also get faster performance, better battery life, and twice the amount of base storage at 256GB. It also has the same starting price of $799, which is a shockingly great deal.\nOn the camera front, the iPhone 17’s new 48-megapixel ultrawide matches the Pro’s resolution, delivering sharper, more vibrant shots, while the main camera remains reliably good in most conditions. It also features the Pro’s 18-megapixel selfie camera, which lets you take horizontal shots without rotating the device. If you care about zoom or portraits, the iPhone 17’s lack of a telephoto camera is the clearest reason to go Pro. For most people, though, the device’s 2x “optical quality” zoom will be fine for everyday snaps, making it a great upgrade.\nRead our full iPhone 17 review.\nThe best Android phone for most people\nGoogle Pixel 10\n\n\nScore: 8\n\nProsCons\n\n\nQi2 wireless charging with magnets is great\nAI is actually kind of useful, finally\nTelephoto camera is a nice addition\n\nMain and ultrawide cameras aren’t quite as good as the Pro\nBattery life is just okay\n\n\n\nWhere to Buy:\n\n $799 at Amazon (128GB)\n $799 at Best Buy (128GB)\n $799 at Google (128GB)\n\nScreen: 6.3-inch, 1080p 120Hz OLED / Processor: Tensor G5 / Cameras: 48-megapixel f/1.7 main with OIS; 13-megapixel f/2.2 ultrawide; 10.8-megapixel 5x telephoto with OIS; 10.5-megapixel selfie / Battery: 4,970mAh / Charging: 30W wired, 15W wireless / Weather resistance: IP68\nThe Pixel 10 is an easygoing Android phone that offers some handy upgrades over its predecessor. The addition of Qi2 with built-in magnets is a delight, making it easier than ever to quickly charge up without plugging in. AI features like Magic Cue, which can proactively suggest information based on what you’re doing on your phone, are finally showing promise. And for the first time ever, the base model features a dedicated telephoto lens.\nBut, alas, there’s a catch: The Pixel 10 no longer features the same main and ultrawide camera hardware as the Pro. You’re essentially getting the two rear cameras found in the midrange Pixel 9A, plus a telephoto lens. Still, as a whole, the device’s triple camera system produces images that are totally fine. Beyond the cameras, the Pixel 10 features the same Tensor G5 chipset that’s found in the Pro phones — handy for those aforementioned AI features.\nOverall, the Pixel 10 mostly improves upon what made last year’s Pixel 9 such a solid release. We’re not thrilled with the downgraded camera, but the addition of Qi2 and a telephoto lens helps to soften the blow. If you can live with the camera tradeoffs, the Pixel 10 is still a smart pick for anyone who wants a flagship experience at a more approachable price.\nRead our full Pixel 10 review.\nThe best high-end Android phone\nSamsung Galaxy S25 Ultra\n\n\nScore: 8\n\nProsCons\n\n\nExcellent screen\nImproved ultrawide camera\nRounded corners are comfier\n\nExpensive\nBulky\nAI is (still) hit or miss\n\n\n\nWhere to Buy:\n\n $1299.99 $949.99 at Amazon (256GB)\n $1299.99 $949.99 at Best Buy (256GB)\n $1419.99 $1141.08 at Amazon (512GB)\n\nScreen: 6.9-inch, 1440p 120Hz OLED / Processor: Qualcomm Snapdragon 8 Elite / Cameras: 200-megapixel main with OIS; 50-megapixel 5x telephoto with OIS; 10-megapixel 3x telephoto with OIS; 50-megapixel ultrawide; 12-megapixel selfie / Battery: 5,000mAh / Charging: 45W wired, 15W wireless, Qi2 ready / Weather resistance: IP68\nSamsung’s “Ultra” S-series phone is still your best bet for a maximalist Android phone, even if ultra doesn’t quite mean what it once did. You still get four rear cameras — including a 3x and 5x telephoto — a massive screen, and a built-in S Pen stylus. The battery goes all day, the processor is top-notch, and there are AI features aplenty if you’re into that sort of thing. There’s just no other phone quite like it. \nThis year, Samsung removed the Bluetooth features from the stylus. That stings a little, especially considering that the company swapped a 10x zoom for the shorter 5x camera the year before. It still amounts to a great phone, but it’s one of the priciest slab-style phones you can buy, and Samsung seems to be cutting features without adding back any extra value. It’s still “ultra” alright, but it doesn’t feel quite as special as it used to.\nRead my full Galaxy S25 Ultra review.\nThe best phone for around $500\nGoogle Pixel 9A\n\n\nScore: 8\n\nProsCons\n\n\nRobust IP68 rating\nSeven years of software updates\nBrighter, bigger screen\n\nMissing a couple of AI features\nAI is occasionally handy, usually weird\n\n\n\nWhere to Buy:\n\n $499 $484.49 at Amazon (128GB)\n $499 at Best Buy (128GB)\n $499 at Google (128GB)\n\nScreen: 6.3-inch, 1080p OLED, 120Hz / Processor: Tensor G4 / Cameras: 48-megapixel f/1.7 with OIS, 13-megapixel ultrawide, 13-megapixel selfie / Battery: 5,100mAh / Charging: 23W wired, 7.5W wireless / Weather-resistance: IP68\nEvery year, we’re pleasantly surprised by how much Google packs into its midrange Pixel A-series devices. Last year, it was the Pixel 8A, and this year, it’s the even better Pixel 9A. For $500, the 9A offers Google’s fourth-gen custom Tensor G4 chipset (the very same chip that’s in the pricier Pixel 9 and Pixel 9 Pro), a brighter and larger 6.3-inch OLED display, and an IP68 rating for improved durability. Plus, you get the benefit of seven years of software updates and security support. What you end up with is a device that delivers fantastic value, especially compared to other inexpensive devices.\nThe Pixel 9A offers a handful of other features that put it above the pack, like a 120Hz refresh rate, wireless charging, and the largest battery across the Pixel line. It does fall short in a few areas, though — the camera’s low light performance and Portrait mode could be better. That said, the 9A’s camera is still great for everyday snaps, and for the price, the device is an easy recommendation as the best in this category.\nRead my full Pixel 9A review.\nThe best high-end iPhone\niPhone 17 Pro\n\n\nScore: 8\n\nProsCons\n\n\nSolid battery life\nBrighter screen outdoors\nCenter Stage camera\nFaster charging\nDoesn’t get blazing hot\nOrange\n\nWhat’s up with Siri?\nHeavier than last year\n\n\n\nWhere to Buy:\n\n $1099 at Apple (256GB)\n $1099.99 at Best Buy (256GB)\n $1299 at Apple (512GB)\n\nScreen: 6.3-inch 2622 x 1206 OLED, 120Hz refresh rate / Processor: A19 Pro / Cameras: 48-megapixel f/1.78 with sensor-shift IS; 48-megapixel 8x telephoto with OIS; 48-megapixel ultrawide; 18-megapixel selfie / Battery: Not advertised / Charging: 40W wired, 25W MagSafe (Qi2) / Weather-resistance: IP68\nThe iPhone 17 Pro is the model to get if you want Apple’s most capable camera system and the longest battery life you can get in an iPhone. All three rear sensors use 48-megapixel lenses — including the telephoto with 4x zoom — and support creator-focused tools like ProRes RAW. Apple’s switch to an aluminum body with a vapor chamber also helps keep temperatures low during intensive tasks, including high-res video recording, while the Ceramic Shield 2 front improves durability. And it’s all wrapped in a fresh, rounded design.\nAs part of that redesign, Apple carved out the frame to fit a larger battery, which lasts through a typical day of mixed use while browsing social media, gaming, etc. The 17 Pro supports 40W wired charging and slightly faster MagSafe charging, allowing you to take it from zero to 50 percent in as little as 20 minutes. It also supports USB 3 for lightning-fast transfer speeds, so you can quickly copy over all your vacation photos and videos to your laptop.\nSince the standard iPhone 17 has the same 120Hz refresh rate and an always‑on display, it’s easier to skip the Pro this year. That being said, if you want longer battery life and the most flexible camera system in the lineup, the 17 Pro is the way to go. Plus, it comes in a bold orange shade that’s unlike anything else in Apple’s lineup.\nRead our full iPhone 17 Pro review.\nThe best flip phone\nSamsung Galaxy Z Flip 7\n\n\nScore: 8\n\nProsCons\n\n\nSamsung finally adopted the big cover screen\nAll-day battery\nReliable camera\n\nMore susceptible to dust than your average phone\nStill too hard to run full apps on the cover screen\n\n\n\nWhere to Buy:\n\n $1099.99 $849.99 at Amazon (256GB)\n $1099.99 at Best Buy (256GB)\n $1219.99 $1149 at Amazon (512GB)\n\nScreen: 6.9-inch, 1080p, 120Hz OLED inner screen; 4.1-inch, 948p, OLED cover screen / Processor: Samsung Exynos 2500 / Cameras: 50-megapixel f/1.8 main with OIS; 12-megapixel ultrawide; 10-megapixel selfie (inner screen) / Battery: 4,300mAh / Charging: 25W wired, 15W wireless, 4.5W reverse wireless / Weather resistance: IP48\nSamsung finally got the memo with the Galaxy Z Flip 7’s cover screen. The company’s latest flip phone ditches the file folder-shaped look of its predecessor for a 4.1-inch, edge-to-edge display that wraps around the cameras. With more outer screen real estate, it’s easier to respond to texts and punch in a coffee order without flipping open the phone and getting sucked into a digital rabbit hole.\nThe Flip 7 still makes you jump through a few hoops if you want to run full apps on the cover screen, but once you’ve wrangled the settings, it unlocks a lot of convenience for everyday tasks. That said, the cover screen isn’t perfect for every app. Sometimes a button hides behind the camera cutout, forcing you to change the app’s window size. But most tasks are a breeze, and opening the phone is always an option.\nUnder the hood, Samsung swapped out Qualcomm’s processor for an in-house Exynos chip, though we didn’t notice any hits to performance. The new 4,300mAh battery will last you all day with moderate use, but heavy gaming and hotspot use will significantly impact battery life. The camera system, meanwhile, remains unchanged from the Z Flip 6, which isn’t a bad thing. You still get a 50-megapixel main shooter and all the fun flex mode tricks, which are great for capturing candids.\nUnfortunately, the Flip 7 still offers no protection against fine particles like dust or sand, which might work their way into the hinge and cause damage. This raises concerns about how the device might hold up over time. But Samsung’s beefed-up warranty and repair program can provide extra peace of mind. Plus, with seven years of OS and security updates, the Flip 7 should prove reliable until you decide to upgrade.\nRead our full Galaxy Z Flip 7 review.\nThe best folding phone\nGoogle Pixel Pro 10 Fold\n\n\nScore: 8\n\nProsCons\n\n\nFull dust resistance! On a foldable!\nQi2 support with built-in magnets\n\nHeavy and chunky\nCameras aren’t as good as the other 10 Pro phones’\nPricier than a regular phone\n\n\n\nWhere to Buy:\n\n $1799 at Amazon (256GB)\n $1799 at Best Buy (256GB)\n $1799 at Google (256GB)\n\nScreen: 8-inch, 2076p, 120Hz OLED inner screen; 6.4-inch, 1080p, 120Hz OLED cover screen / Processor: Google Tensor G5 / Cameras: 48-megapixel f/1.7 main with OIS; 10.8-megapixel 5x telephoto with OIS; 10.5-megapixel ultrawide; 10-megapixel selfie (cover screen); 10-megapixel inner selfie camera / Battery: 5,015mAh / Charging: 30W wired, 15W wireless (Qi2) / Weather resistance: IP68\nConcerns over long-term durability have kept us from recommending foldables to anyone but the most diehard gadget nerd. Then Google said “hold my USB-C cable” and bestowed an IP68 rating on the Pixel 10 Pro Fold, making it the first foldable to provide full water and dust resistance. That means the device can survive a tumble on the beach without the hinge and inner screen failing. What’s more, the device features Qi2 support with built-in magnets for accessories and wireless charging. And with a new Tensor G5 chip, it offers smooth performance, whether you’re playing intensive games like Diablo Immortal or multitasking on the larger inner display.\nAs much as we love the 10 Pro Fold’s improved durability, its cameras can’t quite keep up with those of other 10 Pro models. The device is also heavy and rather chunky; it’s over 40 grams heavier than Samsung’s Galaxy Z Fold 7 and nearly 2 millimeters thicker when folded shut. There’s a plus side to the thicker frame, though: it leaves more room for the phone’s larger battery, which can last a full day with minimal use of the inner display. If you find yourself spending most of your time using the larger display, you may need to find the nearest outlet by the end of the day.\nRead our full Pixel 10 Pro Fold review.\nOther phones we tested\nThe Samsung Galaxy S25 is a very good device, and it’s basically the last small-ish Android phone you can buy in the US. I find the software to be fussier and more cluttered than the Pixel 9’s, so it’s not my overall pick, but it’s a reliable device — and your best bet for a phone that isn’t gigantic. Read our review.\nThe iPhone 16E is a great phone that makes a lot of interesting trade-offs. Apple’s latest entry-level phone starts at $599 and comes with the company’s latest A18 processor, USB-C and wireless charging, a 60Hz OLED display, and the customizable Action Button found on Apple’s more premium handsets. The 6.1-inch phone doesn’t have MagSafe support or a Camera Control button, though, and it’s limited to a single 48-megapixel Fusion camera (sorry, ultrawide stans). That makes it hard for us to recommend over the standard iPhone 16, even if it does start at $200 less. Read our review.\nThe Motorola Razr Ultra 2025 is an excellent foldable that exemplifies what makes the brand’s phones so unique. It’s one of the best-looking phones you can buy, thanks to its gold-bronze chassis and wooden back. Plus, it features a spacious cover screen that’s handy for quickly performing tasks without opening the device. However, as much as we enjoy the Razr Ultra, Motorola’s promise of three OS upgrades and four years of security updates is on the shorter side. Read our review.\nThe Samsung Galaxy S25 Edge is an ultra-thin alternative to the big, chunky flagships we’ve seen over the past year. At just 5.8mm thick, it packs a 6.7-inch 1440p OLED display with a refresh rate of up to 120Hz, a 3,900mAh battery, and a Snapdragon 8 Elite processor. Despite its thinner frame, battery life is surprisingly acceptable, though it won’t last as long as other flagship devices. The S25 Edge also lacks a telephoto camera, so it’s not the best phone for portrait photos. Read our review.\nThe OnePlus 13R stands out in two key ways: battery life and screen. The 6.78-inch OLED display has a variable refresh rate of up to 120Hz and a resolution of 1264 x 2780, both of which are great specs for a midrange phone. Meanwhile, its 6,000mAh battery can last for a long time — most people are likely to squeeze out two days before the device needs to be recharged. That said, the 13R lacks features like wireless charging and more robust water resistance, and OnePlus is only promising four major OS upgrades and six years of security updates, which is fewer than the seven years of OS upgrades on the Google Pixel 9A. Read our review.\nThe Nothing Phone 3 is the brand’s “first true flagship phone,” with a 6.67-inch OLED screen, a Snapdragon 8S Gen 4 chip, and a 5,150mAh battery. It also features four cameras — three on the back and one on the front — all of which are 50 megapixels. Additionally, the Phone 3 ditches Nothing’s signature light strips for a small dot-matrix LED display on the back, which can display images or emoji tied to specific apps and contacts. Read our review.\nThe Pixel 9 Pro Fold is an impressive sophomore effort from Google. Like the Z Fold 7, the outer screen matches the dimensions of a regular slab-style phone, while the inner screen is great for multitasking. The whole package is also light enough that it sometimes doesn’t feel like you’re holding a foldable, though it does suffer from a slightly downgraded camera system compared to other Pixel 9 devices. There’s also no formal dust resistance, so long-term durability remains a concern. Read our review.\nThe Pixel 10 Pro is Google’s most refined flagship yet, blending a premium design with meaningful hardware upgrades like the Tensor G5 chip and Pixelsnap wireless charging. Magic Cue delivers genuinely useful on-device AI that can surface helpful info in real-time, while the camera’s portrait mode is much improved over its predecessor. Battery life is just average, though, and some AI features still feel like they’re being shoved into corners of the device where it doesn’t really need to be. Most readers will be better served by the cheaper Pixel 10. Read our review.\nThe Samsung Galaxy Z Fold 7 is another thin book-style foldable that feels like a regular phone when folded shut, though its IP48 rating means it isn’t fully dust resistant. The spacious inner display is great for multitasking and gaming, and its battery can last all day with moderate use. However, with a starting price of $2,000 — $200 more than the 10 Pro Fold — it’s the most expensive device on this list, even if we have seen it occasionally drop to $1,599. Read our review.\nThe iPhone Air is Apple’s biggest redesign in years, one that measures 5.6mm thick and weighs a mere 165 grams. It’s more durable than you might expect, too, thanks to its titanium frame and Ceramic Shield 2, and it feels deceptively small despite having a 6.5-inch display. However, there are a few downsides to the thinner frame, including shorter battery life and the lack of an ultrawide camera. Read our review.\nWhat’s coming next\nWe’re in a relatively quiet period now that Google and Apple have released their latest handsets. There might be a few more surprises in store for the remainder of 2025 — Samsung has yet to release its heavily rumored trifold — but we haven’t heard much since the summer. Regardless, now is a great time to start taking stock of any deals you see, especially with Black Friday and Cyber Monday around the corner.\nUpdate, October 27th: Adjusted pricing / availability and added the iPhone 17, iPhone 17 Pro, and Pixel 10 Pro Fold as new picks. Brandon Russell also contributed to this post.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1264,32 +1329,6 @@
       ]
     },
     {
-      "id": "2ef0f67abd5a3bc616f756d8c94e37fce7f58e35",
-      "title": "COI Energy solves a conundrum: Letting businesses sell unused electricity — catch it at TechCrunch Disrupt 2025",
-      "url": "https://techcrunch.com/2025/10/27/coi-energy-solves-a-conundrum-letting-businesses-sell-unused-electricity-catch-it-at-techcrunch-disrupt-2025/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-27T18:15:00.000Z",
-      "summary_90w": "",
-      "raw": "Large enterprises routinely buy  more electricity than they use.  COI Energy has a patented platform that lets them sell and share.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "81d4720b9b796585d7eb7d4138c95ed38241d238",
-      "title": "Skyline Nav AI’s software can guide you anywhere, without GPS — find it at TechCrunch Disrupt 2025",
-      "url": "https://techcrunch.com/2025/10/27/skyline-nav-ais-software-can-guide-you-anywhere-without-gps-find-it-at-techcrunch-disrupt-2025/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-27T18:15:00.000Z",
-      "summary_90w": "",
-      "raw": "The company's so-called Pathfinder software can look at almost anything — buildings, tree-lined roads, even aerial views — and quickly match it to a database and generate real-time navigation.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "e5f2d71fbd15135dd37fe0fb4d106bed4179b4b2",
       "title": "Warming oceans probably fueling Hurricane Melissa’s rapid intensification",
       "url": "https://www.theguardian.com/world/2025/oct/27/hurricane-melissa-warming-oceans-climate-crisis",
@@ -1365,19 +1404,6 @@
       "raw": "NPR is accusing the Corporation for Public Broadcasting in federal court of reneging on a contract to appease the White House.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "fed6ca77047affec6c4eb821dd55d343abf1f5b7",
-      "title": "UN pleads for safe passage for civilians trapped in war-hit Sudan city",
-      "url": "https://www.bbc.com/news/articles/c4gw8w73lngo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-27T09:52:22.000Z",
-      "summary_90w": "",
-      "raw": "The fall of el-Fasher would cement the RSF's control of the west and reinforce a de facto split in the nation.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -2018,6 +2044,19 @@
       ]
     },
     {
+      "id": "915187ab96df14e79576834f4239ffa446bac202",
+      "title": "Joe Swash meets young dads breaking stigmas",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002l5hr?at_mid=IS4oPuz1uw&at_campaign=Joe_Swash_Forgotten_Young_Dads&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002l5hr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Joe_Swash_Forgotten_Young_Dads&at_bbc_team=BBC",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-20T05:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Joe Swash meets young dads who are navigating the highs and lows of fatherhood.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "169f3c21c533716351c5e93df795d6b7f8d3924b",
       "title": "Bereaved families call for inquiry into government response to suicide websites",
       "url": "https://www.bbc.com/news/articles/c62e9v762pqo?at_medium=RSS&at_campaign=rss",
@@ -2135,19 +2174,6 @@
       ]
     },
     {
-      "id": "1fd14623848fd5c204daea65d4d36ef9107bb34d",
-      "title": "Some of music history’s most shocking stories revealed",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002k85n?at_mid=XZLfF6kcDM&at_campaign=Banned_in_the_80s_Moments_That_Shook_Music&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002k85n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Banned_in_the_80s_Moments_That_Shook_Music&at_bbc_team=BBC",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-09-27T21:22:31.000Z",
-      "summary_90w": "",
-      "raw": "The untold stories behind the most controversial music of the 1980s",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "53515fb374304cbca7057778293272f5385247e1",
       "title": "BBC News app",
       "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
@@ -2156,19 +2182,6 @@
       "published": "2025-04-30T14:04:28.000Z",
       "summary_90w": "",
       "raw": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "33adfe08c5ba7204ead48154792bba22db041271",
-      "title": "Comedy-horror about a young woman under house arrest",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m00248vd/housebound?at_mid=ufxtMosb0P&at_campaign=Housebound&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00248vd&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Housebound&at_bbc_team=BBC&at_creation=film",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2024-10-21T00:21:04.000Z",
-      "summary_90w": "",
-      "raw": "A young woman is confined to house arrest in her haunted childhood home.",
       "topics": [
         "World"
       ]
