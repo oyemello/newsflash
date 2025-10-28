@@ -1,7 +1,85 @@
 {
-  "version": "1761666920665",
-  "generatedAt": "2025-10-28T15:55:20.665Z",
+  "version": "1761668315368",
+  "generatedAt": "2025-10-28T16:18:35.368Z",
   "items": [
+    {
+      "id": "e0dd6062056949d40f947206a6dfc7e6e8132e94",
+      "title": "You’ll be able to pay with PayPal in ChatGPT next year",
+      "url": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-28T16:13:25.000Z",
+      "summary_90w": "",
+      "raw": "PayPal announced today that you’ll be able to use its wallet to make purchases directly through ChatGPT beginning sometime in 2026. The recently-added Instant Checkout feature in ChatGPT will have an option to pay with PayPal, using the same interface you already see when checking out with PayPal through other services. You’ll have access to all of your usual payment methods in your PayPal account and an overview of your shipping and contact info. \nThe partnership comes just a month after OpenAI added a “Buy Now” button in ChatGPT and rolled out its Instant Checkout feature, which was initially only available on Etsy and Shopify, but has since expanded to Walmart. Using OpenAI’s Agentic Commerce Protocol doesn’t just simplify things for buyers; it also automatically plugs products from businesses that support PayPal as an option into ChatGPT’s e-commerce setup without requiring them to sign up individually.\nHaving more purchasing options in ChatGPT will make it easier for users to make purchases across OpenAI’s ecosystem, including in its new Atlas browser and with the rumored consumer hardware device OpenAI is developing with Jony Ive. Turning ChatGPT’s agents into AI personal shoppers will give users more ways to use the chatbot, and it could open up new revenue streams for OpenAI.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8cb4871b86f02be7ce7b1dcf1d642ee01d228215",
+      "title": "What are the government's options on asylum seeker accommodation?",
+      "url": "https://www.bbc.com/news/articles/c9d60ejn41wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-28T16:13:17.000Z",
+      "summary_90w": "",
+      "raw": "Where to put asylum seekers has become one of the fiercest topics of political debate since last year's general election.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "78021d562e1ce1fcae1ce1abaa4a15655ca2f05c",
+      "title": "GitHub is launching a hub for multiple AI coding agents",
+      "url": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-28T16:10:00.000Z",
+      "summary_90w": "",
+      "raw": "GitHub is giving developers access to third-party AI coding agents with the launch of a new “Agent HQ.” Instead of just using GitHub Copilot, developers will get to try OpenAI’s Codex, Anthropic’s Claude, Google’s Jules, xAI, and Cognition’s Devin within GitHub in the coming months.\nDevelopers with a GitHub Copilot subscription will be able to access a new “mission control” dashboard, where they can control, manage, and track multiple AI coding agents. “With the new set of AI controls, we’re providing a control plane for all of the agent use on GitHub, whether you’re using the GitHub coding agent or one of our partners’ coding agents inside the platform,” GitHub COO Kyle Daigle tells The Verge.\nGitHub’s new Agent HQ will also allow developers to run multiple AI agents in parallel as they complete the same task. That way, developers can choose which agent’s work they like the best. Ahead of Agent HQ’s official launch, GitHub is making OpenAI Codex available to Copilot Pro Plus users who are part of the VS Code Insiders program.\nAdditionally, GitHub is launching a few other tools, including a new Plan Mode in VS Code that uses Copilot to create a step-by-step plan for a task that its AI coding agent will later execute. GitHub is also adding a code review step to Copilot, allowing the agent to access tools, such as CodeQL, that it can use to evaluate code before passing it along to a developer.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "22123825d31c0c3eb9dfe7fc2776ae8520a38f00",
+      "title": "Man dies in triple stabbing as suspect arrested",
+      "url": "https://www.bbc.com/news/articles/c5ypkd57n97o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-28T16:09:54.000Z",
+      "summary_90w": "",
+      "raw": "A 22-year-old man was arrested at the scene and remains in police custody, the Met Police said.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1fd743106ac9da513e3359b34c45135376dfc965",
+      "title": "TechCrunch Disrupt 2025: How to watch Vinod Khosla, Netflix, Slate Auto, and Startup Battlefield",
+      "url": "https://techcrunch.com/2025/10/28/techcrunch-disrupt-2025-how-to-watch-vinod-khosla-netflix-slate-auto-and-startup-battlefield/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-28T15:56:06.000Z",
+      "summary_90w": "",
+      "raw": "If you’re not able to attend in person, the next best thing is to check out our livestream of the Disrupt Stage. Tune in right here starting at 9 a.m. PT.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b9e145fc60ffaa145f06aed0cae0b0226f718c4e",
+      "title": "MSI&#8217;s QD-OLED gaming monitor is very fast and $130 off",
+      "url": "https://www.theverge.com/tech/807957/msi-mag271qp-x28-oled-monitor-razer-kishi-ultra-deal-sale",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-28T15:45:00.000Z",
+      "summary_90w": "",
+      "raw": "MSI’s Mag 271QP X28 is on sale for $519.99 ($130 off).\t\n\nBlack Friday is one month away, but MSI didn’t wait to drop the price of its 27-inch Mag 271QP X28 QD-OLED gaming monitor. You can get it for an all-time low price of $519.99 ($130 off) from MSI with the promo code 272QPW40. The display has a 2K (2560 x 1440) resolution, 280Hz refresh rate, and .03ms response time. Many OLED gaming monitors around $500 have a 240Hz refresh rate, which matters when playing fast-paced games like first-person shooters where tenths of a second can make the difference between winning and losing a match. \nMSI X28 OLED Monitor\n\nWhere to Buy:\n\n $649.99 $519.99 at MSI (promo code: 272QPW40)\n $649.99 $559.87 at Amazon\n $649.99 $559.99 at Best Buy\n\nMSI equipped the X28 with two HDMI 2.1 ports and a Display 1.4a port, all of which can accept a 280Hz 1440p signal if your computer has the right ports. You can connect a current-generation gaming console to the display, but all of them can only output a video signal up to 120Hz. The X28’s port selection allows you to keep a couple of consoles and gaming PC connected at the same time without a splitter.\nThe X28 mitigates burn in, which can occur if a static image stays on an OLED screen for an extended period of time, by dimming the top and bottom of the display (where task bars are typically located), and giving you the option to move pixels around in these areas every four hours. Moving the pixels is mandatory after 24 hours of continuous use. MSI offers a three-year warranty on the X28 that includes burn in, so you’re covered even if you properly maintain the display. \nThree more great deals\nRazer’s Kishi Ultra is a gaming controller for Android phones, iPhones, and iPad Minis with a USB-C port, and it’s $89.99 ($60 off) at Woot.The controller connects to your device’s USB-C port and separates into two sections that hug its sides. The controller has a familiar layout with two Hall Effect joysticks, an 8-way directional pad, Hall Effect triggers, and four face buttons. These buttons can be reprogrammed using Razer’s Nexus app. The Razer Kishi Ultra has a USB-C port with passthrough charging, so you can top up your device’s battery while you play, or connect it to a PC with a USB-C cable to play computer games.\nIf you want to keep your laptop and other power-hungry gadgets charged while traveling, Anker’s 26,000mAh power bank is $169.99 ($60 off) at Amazon and from Anker with promo code WS7DV2HX5RKP. The power bank has two USB-C ports and one USB-A port with a maximum power output of 300W. Anker says the battery pack is powerful enough to charge an M4 MacBook Pro’s battery from 0 to 50 percent in under half an hour, and extend its life up to 19 hours depending on what you use it for.\nApple’s MagSafe Charger (1m) is a Qi2.2 charging pad compatible with an iPhone or Android phone, and it’s at an all-time low of $30.02 ($9 off) at Amazon. The charger supports speeds up to 25W when paired with a 30W charging adapter, which you’ll need to buy separately. Older phones that don’t support Qi 2.2 are still compatible with Apple’s charger, but will charge at a slower speed. If you need a charger with a longer cable, Apple offers a 2m-long version that’s currently on sale for $42.99 ($7 off) at Best Buy.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "d43875fc889b19001ec28a2247cb0a3a839dff6e",
       "title": "Fawlty Towers star Prunella Scales dies aged 93",
@@ -30,26 +108,13 @@
     },
     {
       "id": "7b0ebd4ddedbbd9a412ce5b4d2bdc48393fe1052",
-      "title": "Alleged stalker tells of tears outside McCann home",
+      "title": "Kate McCann cried during encounter outside family home, alleged stalker tells trial",
       "url": "https://www.bbc.com/news/articles/cdjr2d8jdrlo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-10-28T15:34:50.000Z",
       "summary_90w": "",
       "raw": "Julia Wandelt, charged with stalking the McCanns, tried to present the pair with a DNA report, a court is told.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3ff5050e32f03fabefb9da6a2833a3a0dc0fb751",
-      "title": "Two military sites earmarked as asylum seeker accommodation",
-      "url": "https://www.bbc.com/news/articles/cjr0lx7n0y3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-28T15:34:38.000Z",
-      "summary_90w": "",
-      "raw": "Housing asylum seekers in hotels has cost billions, while they have also become a focal point for protests.",
       "topics": [
         "World"
       ]
@@ -89,19 +154,6 @@
       "published": "2025-10-28T15:27:55.000Z",
       "summary_90w": "",
       "raw": "The Ukrainian president stressed that this would ‘not a plan to end the war’ but one to ‘begin diplomacy’\nEU’s von der Leyen also gets asked about the balloons disrupting the Lithuanian airspace.\nShe says she wants to “express my full solidarity” with Lithuania, and calls it “a provocation, a hybrid threat,” which “we cannot tolerate.”\nWe’re in for the long haul. We are ready to cover the financing needs of Ukraine, so that we are standing by Ukraine for as long as it takes.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "22123825d31c0c3eb9dfe7fc2776ae8520a38f00",
-      "title": "Man dies in triple stabbing as suspect arrested",
-      "url": "https://www.bbc.com/news/articles/c5ypkd57n97o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-28T15:26:13.000Z",
-      "summary_90w": "",
-      "raw": "A 22-year-old man was arrested at the scene and remains in police custody, the Met Police said.",
       "topics": [
         "World"
       ]
@@ -445,32 +497,6 @@
       ]
     },
     {
-      "id": "d4ec64e6ab5ca2f9bdaef480741ade675ddd3e40",
-      "title": "An Apple Shortcuts masterclass",
-      "url": "https://www.theverge.com/podcast/807712/apple-shortcuts-best-tips-meta-display-vergecast",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-28T13:14:14.000Z",
-      "summary_90w": "",
-      "raw": "If you know how to set it up, it can almost seem like your phone can read your mind. The minute you walk out of the office, a text gets automatically fired off letting your spouse know exactly when you'll be home. When you start reading a book, your phone immediately shuts off notifications. When you want a cup of joe, your phone can randomly send you to one of your neighborhood favorites, and even order for you.\nAll sounds good, right? That's what makes Apple Shortcuts so tantalizing. The reality may not be quite so simple. \nOn this episode of The Vergecast, podcaster and creator Stephen Robles joins the show to dig into what's right and  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "f9b3e12b173e8184e1389dc992fb3225ed5d826d",
-      "title": "Samsung shows off its trifold phone in person",
-      "url": "https://www.theverge.com/news/807868/samsung-trifold-phone-apec-summit",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-28T13:14:04.000Z",
-      "summary_90w": "",
-      "raw": "When fully open, the trifold is essentially a 10-inch tablet. | Photo: SeongJoon Cho / Bloomberg via Getty Images\t\n\nAfter long insisting that it will release its first trifold phone this year, Samsung has gotten one step closer by showing off a version of the hardware at the Asia-Pacific Economic Cooperation (APEC) summit, being held this week in Korea. No-one’s allowed to touch it though (let alone fold it), and Samsung is staying coy about whether this is a final version of the hardware or not.\nThe trifold is on display in a glass case in both its folded and unfolded states. An animation shows off how the device folds between those forms, but the actual hardware is strictly static. As rumored, both sides seem to fold inwards together like a “G,” rather than the accordion-style folds of the Huawei Mate XT, now in its second generation. \nSamsung hasn’t named the device, or even confirmed if this is a version of the phone that’s ready to release. “The recent showcase reflects ongoing R&D efforts, and we plan to bring this next generation device to users within this year,” an unnamed company spokesperson told SamMobile in a statement.\nSamsung’s display division has shown off trifold concept devices in the past, including at MWC 2025, but this might be the first time we’ve seen the hardware that some consumers will be able to buy pretty soon.\n\n\n pic.twitter.com/MLRXg3a74U\n— BIswatma (@thebiswatma) October 28, 2025",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "c6b5bb5b7b35eda5f084d60c3ab6ed1cc0714ded",
       "title": "Returned body parts were of Gaza hostage recovered two years ago, Israel says",
       "url": "https://www.theguardian.com/world/2025/oct/28/returned-body-parts-were-of-hostage-recovered-two-years-ago-israel-says",
@@ -507,19 +533,6 @@
       "raw": "Claimants seek compensation from RWE and Heidelberg Materials after extreme flooding destroyed harvests\nA group of Pakistani farmers whose livelihoods were devastated by floods three years ago has fired the starting shot in legal action against two of Germany’s most polluting companies.\nLawyers acting for 43 men and women from the Sindh region sent the energy firm RWE and the cement producer Heidelberg formal letters before action on Tuesday warning of their intention to sue later this year.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "344a03f4deb9bfdda77a80eee01e826937d240a8",
-      "title": "Zillow adds DMs so you can chat about homes you&#8217;ll never buy",
-      "url": "https://www.theverge.com/news/807858/zillow-messaging-feature-dms-launch",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-28T12:58:53.000Z",
-      "summary_90w": "",
-      "raw": "Zillow is trying to make it easier to share listings by putting a messaging feature directly in its app. Instead of sharing a link to your dream home over a text message, Zillow says you can invite a friend, family member, or significant other to chat from the app’s inbox.\nFrom there, both you and your shopping partner can have a back-and-forth conversation about listings, as well as share your new finds inside the Zillow app. You can start up a chat by opening your inbox and choosing the “Invite a co-shopper” option. Zillow will then generate an invitation link that you can share with them. Your shopping partner will need to sign into their Zillow account or create one to accept the invite and start chatting.\nPutting a messaging feature in Zillow might seem a little unnecessary, but I can see how it might come in handy. It seems like it might make it easier to keep track of all the listings you’ve talked about with your shopping partner, as you won’t have to sort through unrelated conversations and photos to find a listing you talked about over text.\nUpdate, October 28th: Added more information about the invite process.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1274,19 +1287,6 @@
       "raw": "Exclusive: Red Cross acts as ‘neutral intermediary’ to recover hostages’ remains in areas under Israeli control\nThe International Committee of the Red Cross has accompanied members of Hamas inside areas of Gaza still under the control of the Israeli military to facilitate the search for the bodies of Israeli hostages, as the Palestinian militant group delivered the remains of another captive.\nUnder the US-brokered ceasefire, which took effect on 10 October, Hamas is required to return the remains of all Israeli hostages as soon as possible. In exchange, Israel has agreed to hand over 15 Palestinian bodies for each Israeli.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "321c9190539b664736d58b2efdc8ed6915153f22",
-      "title": "Waymo’s co-CEO on the challenge of scaling robotaxis safely",
-      "url": "https://techcrunch.com/2025/10/27/waymos-co-ceo-on-the-challenge-of-scaling-robotaxis-safely/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-27T21:20:02.000Z",
-      "summary_90w": "",
-      "raw": "Waymo co-CEO Tekedra Mawakana believes the robotaxi company can increase road safety by reaching scale.",
-      "topics": [
-        "Technology"
       ]
     },
     {
