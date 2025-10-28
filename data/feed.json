@@ -1,7 +1,46 @@
 {
-  "version": "1761690991504",
-  "generatedAt": "2025-10-28T22:36:31.504Z",
+  "version": "1761691938317",
+  "generatedAt": "2025-10-28T22:52:18.317Z",
   "items": [
+    {
+      "id": "1ee3909a9e9fbe36f1591cfe77b6d6c65f373f08",
+      "title": "'We are all terrified' - Hurricane Melissa pummels Jamaica",
+      "url": "https://www.bbc.com/news/articles/c2drjx9r0l8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-28T22:44:33.000Z",
+      "summary_90w": "",
+      "raw": "\"I am trying to use my own manpower to stop the wind blowing in the door,\" a frightened mother tells the BBC.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e56728eacb45250eb168e64690e0ca30c7f4b3e3",
+      "title": "Senators propose banning teens from using AI chatbots",
+      "url": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-28T22:42:04.000Z",
+      "summary_90w": "",
+      "raw": "A new piece of legislation could require AI companies to verify the ages of everyone who uses their chatbots. Sens. Josh Hawley (R-MO) and Richard Blumenthal (D-CT) introduced the GUARD Act on Tuesday, which would also ban everyone under 18 from accessing AI chatbots, as reported earlier by NBC News. \nThe bill comes just weeks after safety advocates and parents attended a Senate hearing to call attention to the impact of AI chatbots on kids. Under the legislation, AI companies would have to verify ages by requiring users to upload their government ID or provide validation through another “reasonable” method, which might include something like face scans.\nAI chatbots would be required to disclose that they aren’t human at 30-minute intervals under the bill. They would also have to include safeguards that prevent them from claiming that they are a human, similar to an AI safety bill recently passed in California. The bill would make it illegal to operate a chatbot that produces sexual content for minors or promotes suicide, too.\n“Our legislation imposes strict safeguards against exploitative or manipulative AI, backed by tough enforcement with criminal and civil penalties,” Blumenthal says in a statement provided to The Verge. “Big Tech has betrayed any claim that we should trust companies to do the right thing on their own when they consistently put profit first ahead of child safety.”",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "fdb26e2e95dc4a65b99e53541db5b01bb5af82ce",
+      "title": "Australia politics live: AFP warns of ‘crimefluencer’ networks hunting young girls online; ‘got to keep net zero’, Bragg says",
+      "url": "https://www.theguardian.com/australia-news/live/2025/oct/29/federal-politics-parliament-victoria-queensland-bom-labor-coalition-anthony-albanese-sussan-ley-abs-inflation-apec-summit-afp-press-club-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-28T22:37:29.000Z",
+      "summary_90w": "",
+      "raw": "Krissy Barrett, the first female AFP chief, is addressing the National Press Club later today on the matter. Follow updates live\n\nGet our breaking news email, free app or daily news podcast\n\nThe Coalition is still in the middle of a fight over the future of its energy policy, with big fractures between members over whether the 2050 net zero target should be kept.\nThe party is working towards something of a compromise, but there are a few moderates who don’t want that target to change – including shadow housing minister Andrew Bragg.\nLook, I think we’ll get there on net zero. I know there’s a lot of interest in it. I think ultimately there’s an ability there for the Coalition to do this much better than Labor. Labor’s net zero [policy] has been a disaster …\nI think we could do net zero better than Labor in terms of emissions and cost and environmental protection, but you’ve got to keep net zero.\nI know that you probably find it all very interesting to talk about, but we do have a culture of openness in the Liberal party and the National party, and we seem to talk about a lot of things. I mean, frankly, I wonder what the nation will talk about if the Liberal party died, because I think we’d sort of run out of things to discuss.\nCommunities around the country are trying to focus and talk about the issues that matter to them, not try to make some fake news thing out of a T-shirt the prime minister gets wearing off a plane. It’s ridiculous.\nLook, there’s a lot to legitimately criticise the prime minister about trillion dollar debt, skyrocketing house prices and job losses in our heavy industrial sector wearing a T-shirt is not one of them … So yeah, get on with acting on antisemitism.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "26275979124f3bbb54b9f84085903e57079a05c5",
       "title": "BBC 'deeply concerned' about journalist unable to leave Vietnam",
@@ -101,7 +140,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-28T22:15:00.000Z",
       "summary_90w": "",
-      "raw": "Unlisted is like Zillow but for homes that are not yet on the market.",
+      "raw": "Unlisted is like Zillow but for homes that are not yet on the market. The company is now launching an iOS app.",
       "topics": [
         "Technology"
       ]
@@ -114,7 +153,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-28T22:15:00.000Z",
       "summary_90w": "",
-      "raw": "Unthread builds Slack-native, AI-powered support bots for high-profile customers like Intuit, Lemonade and Automattic.",
+      "raw": "Unthread builds Slack-native, AI-powered support bots for high-profile customers like Intuit, Lemonade, and Automattic.",
       "topics": [
         "Technology"
       ]
@@ -127,7 +166,7 @@
       "source_name": "The Verge",
       "published": "2025-10-28T22:14:52.000Z",
       "summary_90w": "",
-      "raw": "YouTube is updating its policy to age-restrict more content containing video game scenes with “graphic violence,” the company announced on Tuesday. The update will go into effect on November 17th and will prevent accounts under 18 and signed-out users from watching videos with games focused on showing “realistic human characters” involved in scenes of “mass violence against non-combatants” or torture.\nWhen choosing whether to restrict a video, YouTube says it will take the length of the graphic scene into account, as well as whether it’s zoomed in or the main focus of a scene. It will also evaluate whether the video shows violence targeted at a character “that looks like a real human.” YouTube’s post doesn’t clarify if this applies to the violence seen in games like Grand Theft Auto, a Call of Duty sequence like the infamous “No Russian” mission, or other kinds of realistically rendered scenes.\nThe update builds upon YouTube’s existing policies, which state that the platform may restrict videos featuring “dramatized violence” focused on torture, severe injuries, or violent deaths with blood, with an exception for games. The current policy says, “Generally, we do not remove dramatized violence when the content or metadata lets us know that the content is fictional, or when it’s apparent from the content itself, such as with animated content or video games.”\n“YouTube’s policies are designed to adapt to the evolving digital world, and these updates reflect our ongoing commitment to protect younger users and foster a responsible platform,” YouTube spokesperson Boot Bullwinkle said today in a statement to The Verge.\nIn addition to stricter policies surrounding video games, the update will also prevent creators from directing users to online gambling content involving digital goods, like video game skins, cosmetics, or NFTs. YouTube stopped allowing creators to verbally mention or display online gambling services not approved by Google in March. The platform started blocking approved online gambling content for users under 18 at this time, and now it’s planning to age-restrict social casino content as well.",
+      "raw": "YouTube is updating its policy to age-restrict more content containing video game scenes with “graphic violence,” the company announced on Tuesday. The update will go into effect on November 17th and will prevent accounts under 18 and signed-out users from watching videos with games focused on showing “realistic human characters” involved in scenes of “mass violence against non-combatants” or torture.\nWhen choosing whether to restrict a video, YouTube says it will take the length of the graphic scene into account, as well as whether it’s zoomed in or the main focus of a scene. It will also evaluate whether the video shows violence targeted at a character “that looks like a real human.” YouTube’s post doesn’t clarify if this applies to the violence seen in games like Grand Theft Auto, a Call of Duty sequence like the infamous “No Russian” mission, or other kinds of realistically rendered scenes.\nHowever, YouTube spokesperson Boot Bullwinkle said in a statement to The Verge that “certain content may be age-restricted if it’s non-fleeting or zoomed in,” adding that “there may be ways the creator can choose to play the mission to avoid content that would lead to an age restriction.” Creators can also choose to blur or obscure the violence, according to Bullwinkle.\nThe update builds upon YouTube’s existing policies, which state that the platform may restrict videos featuring “dramatized violence” focused on torture, severe injuries, or violent deaths with blood, with an exception for games. The current policy says, “Generally, we do not remove dramatized violence when the content or metadata lets us know that the content is fictional, or when it’s apparent from the content itself, such as with animated content or video games.”\n“YouTube’s policies are designed to adapt to the evolving digital world, and these updates reflect our ongoing commitment to protect younger users and foster a responsible platform,” Bullwinkle said.\nIn addition to stricter policies surrounding video games, the update will also prevent creators from directing users to online gambling content involving digital goods, like video game skins, cosmetics, or NFTs. YouTube stopped allowing creators to verbally mention or display online gambling services not approved by Google in March. The platform started blocking approved online gambling content for users under 18 at this time, and now it’s planning to age-restrict social casino content as well.\nUpdate, October 28th: Added clarification from YouTube.",
       "topics": [
         "Technology"
       ]
@@ -141,19 +180,6 @@
       "published": "2025-10-28T22:14:14.000Z",
       "summary_90w": "",
       "raw": "Federal environment minister admits controversial BoM site refresh ‘not meeting many users’ expectations’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe new Bureau of Meteorology website is “not meeting many users’ expectations”, the environment minister admits, saying he has hauled in the BoM’s top brass to make some changes.\nThe federal opposition is also calling for a redesign and review, after the weather website’s recent refresh annoyed many users, drawing a large number of complaints about its accessibility and usefulness.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fdb26e2e95dc4a65b99e53541db5b01bb5af82ce",
-      "title": "Australia politics live: AFP warns of ‘crimefluencer’ networks targeting young girls online; ‘got to keep net zero’, Bragg says",
-      "url": "https://www.theguardian.com/australia-news/live/2025/oct/29/federal-politics-parliament-victoria-queensland-bom-labor-coalition-anthony-albanese-sussan-ley-abs-inflation-apec-summit-afp-press-club-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-28T22:08:04.000Z",
-      "summary_90w": "",
-      "raw": "Krissy Barrett, the first female AFP chief, is addressing the National Press Club later today on the matter. Follow updates live\n\nGet our breaking news email, free app or daily news podcast\n\nThe Coalition is still in the middle of a fight over the future of its energy policy, with big fractures between members over whether the 2050 net zero target should be kept.\nThe party is working towards something of a compromise, but there are a few moderates who don’t want that target to change – including shadow housing minister Andrew Bragg.\nLook, I think we’ll get there on net zero. I know there’s a lot of interest in it. I think ultimately there’s an ability there for the Coalition to do this much better than Labor. Labor’s net zero [policy] has been a disaster …\nI think we could do net zero better than Labor in terms of emissions and cost and environmental protection, but you’ve got to keep net zero.\nI know that you probably find it all very interesting to talk about, but we do have a culture of openness in the Liberal party and the National party, and we seem to talk about a lot of things. I mean, frankly, I wonder what the nation will talk about if the Liberal party died, because I think we’d sort of run out of things to discuss.\nCommunities around the country are trying to focus and talk about the issues that matter to them, not try to make some fake news thing out of a T-shirt the prime minister gets wearing off a plane. It’s ridiculous.\nLook, there’s a lot to legitimately criticise the prime minister about trillion dollar debt, skyrocketing house prices and job losses in our heavy industrial sector wearing a T-shirt is not one of them … So yeah, get on with acting on antisemitism.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -231,7 +257,7 @@
       "source_name": "The Verge",
       "published": "2025-10-28T21:21:45.000Z",
       "summary_90w": "",
-      "raw": "New World: Aeternum.\t\n\nAs part of Amazon’s mass layoffs announced today, the company is making “significant” changes to its gaming division, including halting much of its work on first-party AAA MMOs, according to a memo from Steve Boom, VP of audio, Twitch, and games. \n“While we’re proud of our successes in first-party AAA game development and publishing, we have made the difficult decision to halt a significant amount of our first-party AAA game development work – specifically around MMOs – within Amazon Game Studios, including making significant role reductions in our studios in Irvine and San Diego, as well as our central publishing team,” Boom said in the memo, which Amazon shared with The Verge.\nThe developers of New World: Aeternum, one of Amazon’s MMOs, have already announced plans to stop providing new content updates. The team said it’s not sunsetting the game “at this time” and that “servers will be live through 2026.” The developers will provide “a minimum of six months’ notice before making any changes that impact your ability” to play the game.\nAmazon also publishes the MMOs Throne and Liberty, which is developed by NCSoft and FirstSpark Games, and Lost Ark, developed by Smilegate RPG. “We will continue supporting Throne and Liberty and Lost Ark with regular updates and community engagement,” Amazon spokesperson Brittney Hefner told The Verge. They’ll get new content updates for the foreseeable future, Hefner confirmed.\nIn 2023, Amazon announced that it would be developing a Lord of the Rings MMO in partnership with Embracer Group. Amazon and Embracer didn’t immediately reply to a request for comment about that games.\nLast year, Amazon cancelled a planned western release of the Bandai Namco-developed MMO Blue Protocol, which was shuttered in Japan in January.\nAmazon isn’t fully pulling back on its work in games. Boom pointed to the launch of the revamped Luna and said that its Studio 5 team, which developed a courtroom game with an AI Snoop Dogg for the cloud gaming service, will “continue their focus on more casual and AI-focused games, optimized for Luna.” He also said Luna is a “great example” of “how we will have an impact with customers that fits the scale of Amazon” because it “leans into both streaming entertainment and delivering value for Prime members.”\nIn addition, Boom highlighted a “successful closed alpha” for the MOBA March of the Giants and noted that Amazon is still working with Crystal Dynamics on a new Tomb Raider game (Amazon is also making a Tomb Raider series) and with Maverick Games on a new open world driving game.\nYou can read Boom’s full memo below. \nDear Games Team,\nThis morning, we are making a number of changes in our Games business. While you’ve likely seen Beth Galetti’s note earlier this morning regarding the larger changes at Amazon that are taking place today, I wanted to dive a bit deeper with all of you, since the strategic changes we are making in Games go beyond what is happening company-wide. \nOver the last several months, we’ve been evaluating our go-forward plans, specifically through the lens of our mission to deliver the very best gaming experiences to customers while leaning into the things that Amazon does best. We believe that this is how we will have an impact with customers that fits the scale of Amazon. Last week’s launch of the all-new Luna is a great example, as it leans into both streaming entertainment and delivering value for Prime members, two tenets that are always top of mind in our group. Luna launched with a great catalog of social party games and AAA blockbusters, and we have a lot more to come from Jeff’s team on that front…it’s still Day 1. \nWe’ve also taken a critical look at the evolving dynamics of games industry and competitive landscape. While we’re proud of our successes in first-party AAA game development and publishing, we have made the difficult decision to halt a significant amount of our first-party AAA game development work – specifically around MMOs – within Amazon Game Studios, including making significant role reductions in our studios in Irvine and San Diego, as well as our central publishing team.\nWhile these changes are significant, we still have a lot going on in game development. Our Montreal studio recently concluded a successful closed alpha of March of Giants and is working hard to finish the game. Our Studio 5 team just released Courtroom Chaos: Starring Snoop Dogg as the launch title in Luna and will continue their focus on more casual and AI-focused games, optimized for Luna. Finally, we are continuing to work with our external studio partners Crystal Dynamics on an upcoming Tomb Raider title and Maverick Games on an upcoming open world driving game.\nOver the course of the day, both Christoph and Jeff will reach out with more details on how these changes will affect you and your teams. Most countries with impacted employees have been notified. Our other global hubs will follow local processes and be notified at a later date. \nThere is no getting around the fact that days like this are hard, and we will be losing team members whose work and dedication have had an incredible impact on our customers over the years. We don’t make these decisions lightly, and yet they are necessary for us to continue to drive our business forward.\nPlease reach out directly to your manager or to your HRBP with any specific questions.\nThank you,\nSteve\nUpdates, October 28th: Added details from the New World: Aeternum team and from Amazon about two of its other MMOs.",
+      "raw": "New World: Aeternum.\t\n\nAs part of Amazon’s mass layoffs announced today, the company is making “significant” changes to its gaming division, including halting much of its work on first-party AAA MMOs, according to a memo from Steve Boom, VP of audio, Twitch, and games. \n“While we’re proud of our successes in first-party AAA game development and publishing, we have made the difficult decision to halt a significant amount of our first-party AAA game development work – specifically around MMOs – within Amazon Game Studios, including making significant role reductions in our studios in Irvine and San Diego, as well as our central publishing team,” Boom said in the memo, which Amazon shared with The Verge.\nThe developers of New World: Aeternum, one of Amazon’s MMOs, have already announced plans to stop providing new content updates. The team said it’s not sunsetting the game “at this time” and that “servers will be live through 2026.” The developers will provide “a minimum of six months’ notice before making any changes that impact your ability” to play the game.\nAmazon also publishes the MMOs Throne and Liberty, which is developed by NCSoft and FirstSpark Games, and Lost Ark, developed by Smilegate RPG. “We will continue supporting Throne and Liberty and Lost Ark with regular updates and community engagement,” Amazon spokesperson Brittney Hefner told The Verge. They’ll get new content updates for the foreseeable future, Hefner confirmed.\nIn 2023, Amazon announced that it would be developing a Lord of the Rings MMO in partnership with Embracer Group. Amazon and Embracer didn’t immediately reply to a request for comment about that game.\nLast year, Amazon canceled a planned Western release of the Bandai Namco-developed MMO Blue Protocol, which was shuttered in Japan in January.\nAmazon isn’t fully pulling back on its work in games. Boom pointed to the launch of the revamped Luna and said that its Studio 5 team, which developed a courtroom game with an AI Snoop Dogg for the cloud gaming service, will “continue their focus on more casual and AI-focused games, optimized for Luna.” He also said Luna is a “great example” of “how we will have an impact with customers that fits the scale of Amazon” because it “leans into both streaming entertainment and delivering value for Prime members.”\nIn addition, Boom highlighted a “successful closed alpha” for the MOBA March of Giants and noted that Amazon is still working with Crystal Dynamics on a new Tomb Raider game (Amazon is also making a Tomb Raider series) and with Maverick Games on a new open-world driving game.\nYou can read Boom’s full memo below. \nDear Games Team,\nThis morning, we are making a number of changes in our Games business. While you’ve likely seen Beth Galetti’s note earlier this morning regarding the larger changes at Amazon that are taking place today, I wanted to dive a bit deeper with all of you, since the strategic changes we are making in Games go beyond what is happening company-wide. \nOver the last several months, we’ve been evaluating our go-forward plans, specifically through the lens of our mission to deliver the very best gaming experiences to customers while leaning into the things that Amazon does best. We believe that this is how we will have an impact with customers that fits the scale of Amazon. Last week’s launch of the all-new Luna is a great example, as it leans into both streaming entertainment and delivering value for Prime members, two tenets that are always top of mind in our group. Luna launched with a great catalog of social party games and AAA blockbusters, and we have a lot more to come from Jeff’s team on that front…it’s still Day 1. \nWe’ve also taken a critical look at the evolving dynamics of games industry and competitive landscape. While we’re proud of our successes in first-party AAA game development and publishing, we have made the difficult decision to halt a significant amount of our first-party AAA game development work – specifically around MMOs – within Amazon Game Studios, including making significant role reductions in our studios in Irvine and San Diego, as well as our central publishing team.\nWhile these changes are significant, we still have a lot going on in game development. Our Montreal studio recently concluded a successful closed alpha of March of Giants and is working hard to finish the game. Our Studio 5 team just released Courtroom Chaos: Starring Snoop Dogg as the launch title in Luna and will continue their focus on more casual and AI-focused games, optimized for Luna. Finally, we are continuing to work with our external studio partners Crystal Dynamics on an upcoming Tomb Raider title and Maverick Games on an upcoming open world driving game.\nOver the course of the day, both Christoph and Jeff will reach out with more details on how these changes will affect you and your teams. Most countries with impacted employees have been notified. Our other global hubs will follow local processes and be notified at a later date. \nThere is no getting around the fact that days like this are hard, and we will be losing team members whose work and dedication have had an incredible impact on our customers over the years. We don’t make these decisions lightly, and yet they are necessary for us to continue to drive our business forward.\nPlease reach out directly to your manager or to your HRBP with any specific questions.\nThank you,\nSteve\nUpdates, October 28th: Added details from the New World: Aeternum team and from Amazon about two of its other MMOs.",
       "topics": [
         "Technology"
       ]
@@ -362,19 +388,6 @@
       "published": "2025-10-28T20:30:18.000Z",
       "summary_90w": "",
       "raw": "Government says it has done all it can to prepare for strongest hurricane in country since records began\n\nHurricane Melissa – latest updates\n\nHurricane Melissa has made landfall in Jamaica, where sheltering residents braced themselves against ferocious winds, heavy flood waters and landslides from the category 5 storm, one of the strongest Atlantic hurricanes in history.\nVideos and photographs published by local newspapers painted a devastating portrait of the impact: roads transformed into raging rivers, downed power lines and trees, and roofs ripped off buildings by the power of the winds. “Hurricane Melissa is wreaking absolute havoc on Jamaica’s breadbasket parish,” the Jamaica Observer reported from St Elizabeth in the south-west of the island.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d43875fc889b19001ec28a2247cb0a3a839dff6e",
-      "title": "Fawlty Towers star Prunella Scales dies aged 93",
-      "url": "https://www.bbc.com/news/articles/cjd0yn5gyndo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-28T20:18:13.000Z",
-      "summary_90w": "",
-      "raw": "Scales played hotel manager Sybil Fawlty, the bossy wife of Basil, in the classic British sitcom.",
       "topics": [
         "World"
       ]
@@ -718,19 +731,6 @@
       ]
     },
     {
-      "id": "1ee3909a9e9fbe36f1591cfe77b6d6c65f373f08",
-      "title": "'We're absolutely terrified': Hurricane Melissa arrives in Jamaica",
-      "url": "https://www.bbc.com/news/articles/c2drjx9r0l8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-28T18:19:36.000Z",
-      "summary_90w": "",
-      "raw": "Ahead of the landfall of the world's strongest storm of the year in Jamaica, people describe frantic preparations.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "696f9dd0ee229c773f4155687b9a622a0e10f7f6",
       "title": "Lucid jumps on the ‘privately owned’ autonomous vehicle bandwagon",
       "url": "https://www.theverge.com/transportation/807954/lucid-private-owned-autonomous-vehicle-nvidia",
@@ -754,19 +754,6 @@
       "raw": "These powerful tropical storms are generally becoming more intense as the world warms.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "78ee2605d419e2890a3d6dec2df3390355270da6",
-      "title": "Disney is breaking up with Doctor Who",
-      "url": "https://www.theverge.com/entertainment/808183/disney-bbc-doctor-who-partnership-ending",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-28T17:58:22.000Z",
-      "summary_90w": "",
-      "raw": "Though there’s still a new Doctor Who spinoff making its way to Disney Plus, Disney’s production partnership with the BBC has come to an end.\nThe BBC announced today that after two seasons of Doctor Who starring Ncuti Gatwa in the titular role, Disney will no longer be a co-producer on the sci-fi series. In a statement about the news, the BBC’s director of drama Lindsay Salt thanked Disney Plus for being “terrific global partners” and for the upcoming The War Between the Land and the Sea series. Salt also noted that while Disney is stepping back from Doctor Who, the BBC intends to keep the show going with at least one more Christmas special from showrunner Russell T Davies.\n“The BBC remains fully committed to Doctor Who, which continues to be one of our most loved dramas, and we are delighted that Russell T Davies has agreed to write us another spectacular Christmas special for 2026,” Salt said. “We can assure fans, the Doctor is not going anywhere, and we will be announcing plans for the next series in due course which will ensure the TARDIS remains at the heart of the BBC.”\nAs Deadline notes, each episode of the Disney-produced Doctor Who seasons cost somewhere around $13 million, making them a rather expensive endeavor for the studio. That price tag was likely a big factor in Disney’s decision to end the deal, and it now seems like the BBC’s plan going forward will be to play to fans’ nostalgia",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1207,6 +1194,19 @@
       "published": "2025-10-28T11:08:57.000Z",
       "summary_90w": "",
       "raw": "The UN's review of national climate plans shows the world is well off track to limit warming",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3c0aa84eac22a1c4bd1864da59024c027eaf1593",
+      "title": "One of Britain's finest comic actors: Prunella Scales dies aged 93",
+      "url": "https://www.bbc.com/news/articles/cyjjkdrje13o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-28T10:58:40.000Z",
+      "summary_90w": "",
+      "raw": "The versatile actress, who has died aged 93, will be best remembered for her portrayal of Sybil Fawlty.",
       "topics": [
         "World"
       ]
