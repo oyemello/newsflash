@@ -1,7 +1,85 @@
 {
-  "version": "1761753395790",
-  "generatedAt": "2025-10-29T15:56:35.790Z",
+  "version": "1761754723363",
+  "generatedAt": "2025-10-29T16:18:43.363Z",
   "items": [
+    {
+      "id": "f22fc0a0877068adbe2d6fd34e66055082980b4b",
+      "title": "Israeli strikes in Gaza kill 104, health ministry says, after Hamas accused of killing soldier",
+      "url": "https://www.bbc.com/news/articles/cgjdy5eevn2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-29T16:04:58.000Z",
+      "summary_90w": "",
+      "raw": "US President Trump says \"nothing\" will jeopardise the two-week-old ceasefire despite the flare-up of violence.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9646f6db0c7c9a45e51c79736ca9319fce5c560f",
+      "title": "Attorney general blames outdated law for collapse of China spy case",
+      "url": "https://www.bbc.com/news/articles/cn972plvv43o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-29T16:03:41.000Z",
+      "summary_90w": "",
+      "raw": "The government's chief legal adviser says the trial would have gone ahead if new legislation had been in force.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ef178e78e75011abea622a3589db2aa727129857",
+      "title": "LG’s G5 65-inch OLED 4K TV is the most affordable it’s ever been",
+      "url": "https://www.theverge.com/tech/809043/lg-g5-oled-tv-pawsync-smart-pet-feeder-deal-sale",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-29T16:02:54.000Z",
+      "summary_90w": "",
+      "raw": "The high-end OLED TV is 41 percent off. | Image: LG\t\n\nIf you want one of the best home theater experiences LG can provide, the 65-inch LG G5 OLED is down to a new record low price. Regularly $3,399.99, you can buy the TV for around $1,996.99 at Amazon and directly from LG. Other configurations are also on sale, with the 77-inch going for around $3,456.99 (about $1,000 off) at Amazon and LG. If you purchase the TVs from LG, you’ll also get free professional wall mounting or stand set up with a free matching TV stand through November 16th.\nLG G5 OLED TV\n\nWhere to Buy:\n\n $3399.99 $1996.99 at Amazon (65-inches)\n $4499.99 $3496.99 at Amazon (77-inches)\n $6499.99 $4996.99 at Amazon (83-inches)\n\nWhile it didn’t win this year’s “TV Shootout” award for flawless picture quality, the LG G5 OLED still delivers an impressive viewing experience. It features the same stunning OLED picture quality as the popular C5 line — complete with support for Dolby Vision — but takes things a step further with LG’s “Brightness Booster Ultimate” technology. As a result, it’s noticeably brighter.\nThe G5 additionally boasts LG’s more powerful Alpha 11 Gen 2 processor, which improves image processing and upscaling, along with a higher maximum 165Hz refresh rate. It also includes four HDMI 2.1 ports along with AMD FreeSync Premium and NVIDIA G-Sync compatibility for responsive gaming. Rounding things out, the TV supports Dolby Atmos audio, comes with LG’s wand-like Magic Remote, and offers access to a wide range of streaming apps — making it an excellent choice for both gamers and home theater enthusiasts alike.\nMore great gadget deals\nYou can buy the Pawsync Smart Pet Feeder for $69.99 ($30 off) when you apply the on-page coupon at Amazon. The smart feeder ensures your pets are always fed on time, allowing you to create custom schedules and manage precise portion sizes. It automatically dispenses the exact amount you set and even adjusts portions if it detects food in the bowl. You can also monitor your pet’s eating habits through meal reports that track how much they ate, how long it took, and more, helping you take better care of their health.\nYou can buy the latest Blink Video Doorbell with the Sync Module Core — which adds local storage — included for $29.99 ($40 off) at Amazon and Best Buy, which is its best price to date. The upgraded version of Blink’s popular budget-friendly doorbell offers all the essentials: decent 1080p video, motion detection, night vision, and two-way audio. It also boasts up to two years of battery life and a 150-degree field of view with a 1:1 aspect ratio, giving you a full head-to-toe view of anyone at your door.\nThe small Anker Soundcore 2 Bluetooth Speaker is on sale for $27.99 ($17 off), which is $6 shy of its all-time low, at Amazon, Best Buy, and Walmart. The portable Bluetooth speaker features an IPX7 water resistance rating so it’s safe to use by the pool, beach, or shower. Despite being small, Anker also lets you pair two Soundcore 2 units together, so you can enjoy stereo sound, and it can last around 24 hours on a single charge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8980e6589a1f2cdd98006919077aeaf98eee1673",
+      "title": "Chrome is about to show even more safety warnings",
+      "url": "https://www.theverge.com/news/808108/google-chrome-insecure-websites-warnings-https-default",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-29T16:00:40.000Z",
+      "summary_90w": "",
+      "raw": "You’re going to start seeing more warnings in Chrome when accessing insecure sites. Starting next October, Chrome will soon warn users when they visit a public website without an encrypted HTTPS connection.\nChrome already issues a “Your connection is not private” message when you visit pages that have an HTTPS connection that’s misconfigured. But this will expand the warnings to websites that don’t use HTTPS at all.\nGoogle first offered insecure connections warnings for HTTP pages in 2021, but users had to opt in to see them. HTTPS — or Hypertext Transfer Protocol Secure — uses encryption to establish a secure connection with a website, preventing bad actors from snooping on the private information you enter.\nHTTPS connections now make up around 95 to 99 percent of connections, Google says. “This level of adoption is what makes it possible to consider stronger mitigations against the remaining insecure HTTP,” Google writes in its announcement.\nThe company notes that “the largest contributor to insecure HTTP” is private websites, adding that it remains complicated for them to get an HTTPS certification. “HTTP navigations to private sites can still be risky, but are typically less dangerous than their public site counterparts because there are fewer ways for an attacker to take advantage of these HTTP navigations,” Google says.\nBefore making HTTPS the default for everyone, Google plans on rolling out the change to people who have enabled Enhanced Safe Browsing protections in Chrome starting in April 2026. Google adds that users will still be able to disable HTTP warnings by turning off the “Always Use Secure Connections” setting.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "54f5d59c97df0bdc00ec0ed2a44a742fb547d128",
+      "title": "Voting under way in Netherlands parliamentary election – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/oct/29/netherlands-parliamentary-election-geert-wilders-europe-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-29T15:59:30.000Z",
+      "summary_90w": "",
+      "raw": "Polls suggest Geert Wilders’ far-right Freedom party (PVV) could finish first in vote triggered when he pulled out of rightwing coalition in June\nThe Anne Frank House is not the only unusual place where voters can cast their votes today.\nThe Dutch Vogue has a list of 11 special locations, including a children’s zoo in Amsterdam, the marine museum in Rotterdam, the miniature park in The Hague.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f3d6d6cd550d069b26a8309dec72e97bd609373c",
+      "title": "Migrant sex offender given £500 after threat to disrupt deportation",
+      "url": "https://www.bbc.com/news/articles/cly9rxlvp85o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-29T15:56:45.000Z",
+      "summary_90w": "",
+      "raw": "Hadush Kebatu was \"forcibly deported\" and accompanied by five escorts on the flight, the BBC understands.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "22ba1ec344ae24b1f2ec2ef075284c7487570c65",
       "title": "Nvidia becomes first public company worth $5 trillion",
@@ -13,6 +91,19 @@
       "raw": "With a market cap of $5 trillion, Nvidia is now worth more than the aggregated stock markets of all countries, apart from the United States, China and Japan.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "67abddf90f7b319f58b69677a9b2dc1040c5a2be",
+      "title": "Teenager found guilty of murdering boy at NYE event",
+      "url": "https://www.bbc.com/news/articles/cdeg30dgy1go?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-29T15:49:24.000Z",
+      "summary_90w": "",
+      "raw": "Harry Pitman, 16, died after he was stabbed at Primrose Hill, north London, on 31 December 2023.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -39,32 +130,6 @@
       "raw": "Tesla’s Cybercab isn’t scheduled to go into production until 2026, but when it does, it may end up stuck with a vestige of the automotive past: a steering wheel.\nTo be sure, we still use steering wheels. But the Tesla Cybercab was meant to be the first vehicle of the new future, and there’s nothing futuristic about steering wheels. \nRobyn Denholm, chair of Tesla’s board of directors, let slip in an interview with Bloomberg that the autonomous vehicle may need to include one of those round, spinny things us lowly humans use to navigate through our course, analog environment. That’s because steering wheels are kind of a big deal with regulators; they like cars to have them. If you want to sell a car without one, you need to apply for an exemption from current federal safety rules. And that comes with a lot of tradeoffs. \n“If we have to have a steering wheel, it can have a steering wheel and pedals,” Denholm told Bloomberg.\nTesla unveiled the Cybercab at a lavish event in Hollywood last year, with Elon Musk touting the sleek two-seater as the future of mobility. The lack of a steering wheel was intended to convey the seriousness with which Tesla was approaching autonomous technology. This would be a purpose-built autonomous vehicle, one built from the ground up to be autonomous, and only autonomous. No steering wheel meant to way to take manual control of the vehicle. \nBut it was also a huge risk for Tesla. Theoretically, a vehicle without pedals and a steering wheel could take months, if not years, to be approved for public roads. A more traditional-looking vehicle, meanwhile, could be released a lot sooner.\nWe’ve already seen what happens when a company tries to build a purpose-built autonomous vehicle. General Motors tried to get an exemption for its steering wheel-less Cruise Origin shuttles, and was left twisting in the wind for year. Eventually, GM scrapped its plans for the Origin and shut down Cruise altogether after safety lapses. \nEven if Tesla were to obtain an exemption, it would only allow the company to manufacture and sell 2,500 Cybercabs per year. That would put a serious crimp in the company’s plans to pivot to an AI and robotics powerhouse. \nThe US Department of Transportation under Secretary Sean Duffy has said it wants to streamline the review process for exemptions to allow companies like Tesla to get more fully autonomous vehicles on the road. But it can raise the cap on the number of vehicles allowed each year without an act from Congress — and last I checked none of those guys were even working right now. \nFurther complicating Tesla’s plans is the current dispute between Duffy and Musk. The two seems simpatico during a site visit at Tesla’s headquarters in Austin earlier this year. But since then Duffy has been named interim administrator at NASA, and now he and Musk are involved in a tiff over a SpaceX contract. If only we lived in a country where we weren’t at the mercy of a few very powerful, very thin-skinned men!",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f3d6d6cd550d069b26a8309dec72e97bd609373c",
-      "title": "Migrant sex offender given £500 after threat to disrupt deportation",
-      "url": "https://www.bbc.com/news/articles/cly9rxlvp85o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-29T15:33:44.000Z",
-      "summary_90w": "",
-      "raw": "Hadush Kebatu was \"forcibly deported\" and accompanied by five escorts on the flight, the BBC understands.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "54f5d59c97df0bdc00ec0ed2a44a742fb547d128",
-      "title": "Voting under way in Netherlands parliamentary election – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/oct/29/netherlands-parliamentary-election-geert-wilders-europe-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-29T15:30:39.000Z",
-      "summary_90w": "",
-      "raw": "Polls suggest Geert Wilders’ far-right Freedom party (PVV) could finish first in vote triggered when he pulled out of rightwing coalition in June\nThe Anne Frank House is not the only unusual place where voters can cast their votes today.\nThe Dutch Vogue has a list of 11 special locations, including a children’s zoo in Amsterdam, the marine museum in Rotterdam, the miniature park in The Hague.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -211,19 +276,6 @@
       ]
     },
     {
-      "id": "9646f6db0c7c9a45e51c79736ca9319fce5c560f",
-      "title": "Attorney general blames outdated law for collapse of China spy case",
-      "url": "https://www.bbc.com/news/articles/cn972plvv43o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-29T14:42:03.000Z",
-      "summary_90w": "",
-      "raw": "The government's chief legal adviser says the trial would have gone ahead if new legislation had been in force.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "4fc50b96f7c97f0b188f4a2ac01c32f199c447ae",
       "title": "Jamaicans start to reveal devastation as hurricane causes floods, power cuts and splits city in two",
       "url": "https://www.bbc.com/news/articles/c5yl09v025lo?at_medium=RSS&at_campaign=rss",
@@ -245,19 +297,6 @@
       "published": "2025-10-29T14:31:54.000Z",
       "summary_90w": "",
       "raw": "With communication networks in Jamaica crippled, the true scale of the disaster remains unknown.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f22fc0a0877068adbe2d6fd34e66055082980b4b",
-      "title": "Israeli strikes in Gaza kill 104, health ministry says, after Hamas accused of killing soldier",
-      "url": "https://www.bbc.com/news/articles/cgjdy5eevn2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-29T14:20:00.000Z",
-      "summary_90w": "",
-      "raw": "US President Trump says \"nothing\" will jeopardise the two-week-old ceasefire despite the flare-up of violence.",
       "topics": [
         "World"
       ]
@@ -497,32 +536,6 @@
       ]
     },
     {
-      "id": "471c811ede14423d18d3deabff83a785dd1486cb",
-      "title": "Apple&#8217;s OLED transition could come with a more expensive iPad Mini",
-      "url": "https://www.theverge.com/news/808841/apple-oled-transition-macbook-air-ipad-mini",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-29T13:26:54.000Z",
-      "summary_90w": "",
-      "raw": "The iPad Mini is reportedly the next device to get an OLED upgrade.\t\n\nApple is planning to incorporate OLED displays across more of its devices, including the MacBook Air, iPad Mini, and iPad Air, according to a report from Bloomberg’s Mark Gurman. The company added an OLED display to the iPad Pro last year and the upgraded M5 model released this month, offering improved brightness, better contrast, and richer blacks also seen on the iPhone and Apple Watch.\nApple is planning to outfit the iPad Mini with an OLED screen as soon as next year, coinciding with a price increase of as much as $100, according to Gurman. Carrying over the OLED display to other devices could take years, as Gurman reports that an OLED-equipped MacBook Air “isn’t likely” to arrive before 2028. Meanwhile, Apple is reportedly planning to upgrade the iPad Air last. \nThose aren’t the only OLED upgrades Apple may have in store. Gurman reports that Apple is planning to bring the display technology to a touchscreen MacBook Pro that could arrive late next year or early 2027. It could be a while before we see OLED displays on its non-Pro laptops and tablets.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "16bfa56444a4356587c7bf210f6210808b504b8f",
-      "title": "OpenAI has an AGI problem — and Microsoft just made it worse",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-29T13:19:21.000Z",
-      "summary_90w": "",
-      "raw": "OpenAI is ending October with a new for-profit structure, a new deal with Microsoft, and an entirely new level of pressure to achieve artificial general intelligence. \nThe generally accepted definition of AGI is an artificial intelligence system that equals or surpasses human cognitive ability. But even as it's become a goalpost for the entire AI industry, people disagree on exactly what that looks like and if or when it may be possible. An increasingly huge swath of the economy is devoted to finding the entirely hypothetical finish line of this expensive race. And after Tuesday's news, there's a new entrant in the race: Microsoft itself.  \n …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "0f5bdb6d5aef5f6ea2933ad58edbbf0dde1d8f71",
       "title": "Character AI is ending its chatbot experience for kids",
       "url": "https://techcrunch.com/2025/10/29/character-ai-is-killing-the-chatbot-experience-for-minors/",
@@ -618,19 +631,6 @@
       "title": "S Korea announces lowering of tariffs as part of new US trade deal",
       "url": "https://www.bbc.com/news/articles/cly4jz9zr50o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-29T12:38:19.000Z",
-      "summary_90w": "",
-      "raw": "Seoul will also invest $350bn in the US as part of the deal, which Donald Trump says is \"pretty much finalised\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "06bb09748b5973430cb9ec668abf973e8b975f91",
-      "title": "South Korea announces lowering of tariffs as part of new US trade deal",
-      "url": "https://www.bbc.com/news/articles/cly4jz9zr50o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-10-29T12:38:19.000Z",
       "summary_90w": "",
@@ -900,27 +900,27 @@
       ]
     },
     {
-      "id": "ae2579c9815b1650ccd3f802a09bb055f1183927",
-      "title": "Camouflaging cars and swapping license plates: How agents make immigration arrests",
-      "url": "https://www.npr.org/2025/10/29/g-s1-95373/immigration-arrests-license-plates-conceal-federal-agents",
+      "id": "a11a4cb894f4769bc7f9ff4a675d67ac178c0e4b",
+      "title": "Families could start losing access to Head Start if shutdown continues",
+      "url": "https://www.npr.org/2025/10/29/nx-s1-5587603/head-start-government-shutdown",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-10-29T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "Immigration enforcement officers are sometimes forgoing license plates or otherwise masking their cars while apprehending migrants across the U.S.",
+      "raw": "If the government shutdown extends beyond Nov. 1, more than 65,000 children could be at risk of losing access to Head Start, the federal early-learning program for low-income families.",
       "topics": [
         "World"
       ]
     },
     {
-      "id": "9d35e03560c21ad8d189a3e4927cd7560a538ba4",
-      "title": "How 'neurodivergent' became a word for many types of minds",
-      "url": "https://www.npr.org/2025/10/29/nx-s1-5585292/word-of-week-neurodivergent",
+      "id": "3f6e547e19147769f635ed7568f96207b7834a9e",
+      "title": "Love or hate chain restaurants? We want to hear your story",
+      "url": "https://www.npr.org/2025/10/29/nx-s1-5588623/chain-restaurant-family-dinner-culture",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-10-29T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "\"Neurodivergent\" is not just a way to describe medical diagnoses like autism and ADHD. It encompasses a range of ways in which people's brains differ from what is considered normal in the U.S.",
+      "raw": "America loves chain restaurants. NPR reporters Alana Wise and Jaclyn Diaz explore why.",
       "topics": [
         "World"
       ]
