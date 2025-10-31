@@ -1,7 +1,72 @@
 {
-  "version": "1761930912605",
-  "generatedAt": "2025-10-31T17:15:12.605Z",
+  "version": "1761932108158",
+  "generatedAt": "2025-10-31T17:35:08.158Z",
   "items": [
+    {
+      "id": "1bb9f6546ea1d4efd3037812067964d8f44471e4",
+      "title": "Tattd gave four TechCrunch writers tattoos at Startup Battlefield",
+      "url": "https://techcrunch.com/2025/10/31/tattd-gave-four-techcrunch-writers-tattoos-at-startup-battlefield/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-31T17:32:09.000Z",
+      "summary_90w": "",
+      "raw": "Tattd, a marketplace for tattoo-seekers and artists, set up a mini tattoo parlor in the Expo Hall at TechCrunch Disrupt 2025.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e45ff855dc425b1ebb645860c5a0e6a631bf137e",
+      "title": "Adobe’s experimental AI tool can edit entire videos using one frame",
+      "url": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-31T17:31:03.000Z",
+      "summary_90w": "",
+      "raw": "Project Frame Forward takes any change you make to the first frame of a video and applies it across the entire footage.\t\n\nAdobe demonstrated some of the experimental AI tools it’s working on at its Max conference that provide new ways to intuitively edit photos, videos, and audio. These experiments, called “sneaks,” include tools that instantly apply any changes you make to one frame across an entire video, easily manipulate light in images, and correct mispronunciations in audio recordings.\nProject Frame Forward is one of the more visually impressive sneaks, allowing video editors to add or remove anything from footage without using masks — a time-consuming process for selecting objects or people. Instead, Adobe’s demonstration shows Frame Forward identifying, selecting, and removing a woman in the first frame of a video, and then replacing her with a natural-looking background-similar to Photoshop tools like Context-aware Fill or Remove Background. This removal is automatically applied across the entire video in a few clicks.\nUsers can also insert objects into the video frame by drawing where they want to place it and describing what to add with AI prompts. These changes will similarly be applied across the whole video. The demonstration shows that these inserted objects can also be contextually aware, showing a generated puddle that reflects the movement of a cat that was already in the video.\n\nAnother tool is Project Light Touch, which uses generative AI to reshape light sources in photos. It can change the direction of lighting, make rooms look as if they were illuminated by lamps that weren’t switched on in the original image, and allows users to control the diffusion of light and shadow. It can also insert dynamic lighting that can be dragged across the editing canvas, bending light around and behind people and objects in real time, such as illuminating a pumpkin from within, and turning the surrounding environment from day to night. The color of these manipulated light sources can also be adjusted, letting you tweak warmth or create vibrant RGB-like effects.\n\nProject Clean Take is a new editing tool that can change how speech is enunciated using AI prompts, removing the need to re-record video or audio clips. Users can change the delivery or emotion behind someone’s voice — making them sound happier or inquisitive, for example — or replace words entirely while preserving the identifying characteristics of the original speaker’s voice. It can also automatically separate background noises into individual sources so that users can selectively adjust or mute specific sounds, helping to preserve the overall audio while improving voice clarity.\n\nThese are just a handful of sneaks that were showcased at Adobe’s Max event. Other notable mentions include Project Surface Swap, which lets you instantly change the material or texture of objects and surfaces, Project Turn Style for editing objects in images by rotating them like a 3D image, and Project New Depths, which lets you edit photographs as if it were a 3D space that identifies when inserted objects should be partially obscured by the surrounding environment. You can read more about each sneak preview in detail over on Adobe’s blog.\nSneaks aren’t publicly available to use, and they’re not guaranteed to become official features in Adobe’s Creative Cloud software or Firefly apps. Many features, like Photoshop’s Distraction Removal and Harmonize tools, initially started out as sneaks projects, however, so there’s a good chance that some version of these experimental capabilities will be available to creatives in the future.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b2dec0f46144f850c98ecaae4d647508292ed434",
+      "title": "Hackers threaten to leak data after breaching University of Pennsylvania to send mass emails",
+      "url": "https://techcrunch.com/2025/10/31/hackers-threaten-to-leak-data-after-breaching-university-of-pennsylvania-to-send-mass-emails/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-10-31T17:30:02.000Z",
+      "summary_90w": "",
+      "raw": "The hackers sent out mass-emails using official University of Pennsylvania email accounts, and threatened to leak university data.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7fef259ab3f89ab454d7c71e76bcfbf083e92afd",
+      "title": "Sudan’s RSF accused of ‘PR stunt’ after arresting fighters behind civilian killings",
+      "url": "https://www.theguardian.com/world/2025/oct/31/sudan-rsf-accused-pr-stunt-after-arresting-fighters-behind-civilian-killings",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-31T17:17:23.000Z",
+      "summary_90w": "",
+      "raw": "Reports of indiscriminate violence and ethnic targeting in El Fasher have led to growing global outrage\nSudan’s paramilitary Rapid Support Forces claim to have arrested several of their fighters after outrage over the extent of killing in the city of El Fasher continues to build.\nBut the paramilitary group’s move has been greeted with scepticism from human rights campaigners and Sudanese people, who see it as an attempt to temper criticism over the violence.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ec2ee5b8dc66c5cfbdc1477dbc93cd8afca94a33",
+      "title": "Canada's Carney to visit Xi in China, marking 'turning point' in relations",
+      "url": "https://www.bbc.com/news/articles/cx27pe8ekpdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-31T17:13:09.000Z",
+      "summary_90w": "",
+      "raw": "Finding it hard to reach a resolution of its trade dispute with the US after Trump suspended talks, Canada turns to other major economies.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "ea92db18b7c194405568127da1163ba0426b94fe",
       "title": "AWS exceeds Wall Street’s expectations as demand for cloud infra remains high",
@@ -55,6 +120,32 @@
       ]
     },
     {
+      "id": "936a2d60093096f263fb8501b167398ba2c6193f",
+      "title": "South Africa hits back at US refugee plan to favour white Afrikaners",
+      "url": "https://www.bbc.com/news/articles/c1e3de5ny14o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-31T16:45:28.000Z",
+      "summary_90w": "",
+      "raw": "Pretoria rubbishes claims of a white genocide and quotes prominent Afrikaners who dub Trump's plans racist.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "95857c7d85ef3da318a5c165e96833bca27cdb2d",
+      "title": "Disney pulls channels from YouTube TV over fee dispute",
+      "url": "https://www.bbc.com/news/articles/c2emmdx0x38o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-31T16:43:55.000Z",
+      "summary_90w": "",
+      "raw": "ESPN, ABC and other Disney channels will not be available to YouTube TV subscribers.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "59eb67baf7b14e91575fb98a1d736af7072e3249",
       "title": "Madrid regional government co-funding Woody Allen’s new film – but it must feature ‘Madrid’ in the title",
       "url": "https://www.theguardian.com/film/2025/oct/31/spanish-government-co-funding-woody-allen-new-film-madrid-title",
@@ -95,7 +186,7 @@
     },
     {
       "id": "dce5e0b01359b0b8318d510fa45934a8189105f6",
-      "title": "Latvian MPs vote to pull out of treaty on protecting women from violence",
+      "title": "Latvian vote to pull out of treaty on protecting women from violence prompts outcry",
       "url": "https://www.bbc.com/news/articles/cn09x7jpvw7o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
@@ -212,13 +303,13 @@
     },
     {
       "id": "7c74917e5d1ed3b74b9e08633a3926c45f77c990",
-      "title": "Cotton Capital bonus episode: Searching for the spirit of pan-Africanism – podcast",
+      "title": "Bonus episode: Searching for the spirit of Pan-Africanism – podcast",
       "url": "https://www.theguardian.com/news/audio/2025/oct/31/searching-for-the-spirit-of-pan-africanism-podcast-bonus-episode",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-10-31T15:08:48.000Z",
       "summary_90w": "",
-      "raw": "In this bonus episode, the Guardian journalist Chris Osuh explores whether we are living through a pan-African moment 80 years on from Manchester’s groundbreaking 1945 Pan-African Congress\n\n‘A sense of freedom’: 80 years on from the Pan-African Congress in Manchester\n\nIn this bonus episode, the Guardian journalist Chris Osuh looks at the idea of Pan-Africanism in 2025 – the belief that all Black people, whether on the continent or in the diaspora, are united in a shared struggle for liberation.\nAs Manchester gears up to celebrate the 80th anniversary of the landmark 1945 Pan-African Congress, Chris speaks to Ntombizodwa Nyoni, the writer of the play Liberation that recently brought the event back to life. The pair discusses how congress delegates drove the wave of the African independence movements that followed, the parallels between 1945 and 2025, and what Pan-African activists today can learn from the experiences of those at the talks.\n Continue reading...",
+      "raw": "In this bonus episode, the Guardian journalist Chris Osuh explores whether we are living through a Pan-African moment 80 years on from Manchester’s groundbreaking 1945 Pan-African Congress\n\n‘A sense of freedom’: 80 years on from the Pan-African Congress in Manchester\n\nIn this bonus episode, the Guardian journalist Chris Osuh looks at the idea of Pan-Africanism in 2025 – the belief that all Black people, whether on the continent or in the diaspora, are united in a shared struggle for liberation.\nAs Manchester gears up to celebrate the 80th anniversary of the landmark 1945 Pan-African Congress, Chris speaks to Ntombizodwa Nyoni, the writer of the play Liberation that recently brought the event back to life. The pair discusses how congress delegates drove the wave of the African independence movements that followed, the parallels between 1945 and 2025, and what Pan-African activists today can learn from the experiences of those at the talks.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -284,19 +375,6 @@
       "published": "2025-10-31T14:42:03.000Z",
       "summary_90w": "",
       "raw": "The first edition of the solid gold loo was taken from Blenheim Palace in 2019.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7fef259ab3f89ab454d7c71e76bcfbf083e92afd",
-      "title": "Sudan’s RSF accused of ‘PR stunt’ after arresting fighters behind civilian killings",
-      "url": "https://www.theguardian.com/world/2025/oct/31/sudan-rsf-accused-pr-stunt-after-arresting-fighters-behind-civilian-killings",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-31T14:40:07.000Z",
-      "summary_90w": "",
-      "raw": "Reports of indiscriminate violence and ethnic targeting in El Fasher have led to growing global outrage\nSudan’s paramilitary Rapid Support Forces claim to have arrested several of their fighters after outrage over the extent of killing in the city of El Fasher continues to build.\nBut the paramilitary group’s move has been greeted with scepticism from human rights campaigners and Sudanese people, who see it as an attempt to temper criticism over the violence.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -536,19 +614,6 @@
       ]
     },
     {
-      "id": "331794ba85156ed71a754051c0e5fa4246e80ac8",
-      "title": "A contentious kids safety bill might be getting gutted — and nobody&#8217;s happy",
-      "url": "https://www.theverge.com/policy/810874/kosa-kids-online-safety-house-package",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-31T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "One of the biggest flashpoints for internet regulation, the Kids Online Safety Act, is poised for a revival - but possibly without the central feature that's kept people fighting over it for the past three years.\nSince 2022, supporters of KOSA have backed its plan to require web platforms to protect kids from a variety of online harms, imposing what's known as a duty of care. That faction includes parents whose children have died after experiencing cyberbullying, becoming victims of sextortion, or obtaining illegal drugs online. They believe the prospect of new legal liability could make companies change their policies to prevent more trage …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "341c4a4ab79673f624cb596c77cb31367f766a45",
       "title": "Making KPop Demon Hunters sound magical meant finding the right harmonies",
       "url": "https://www.theverge.com/entertainment/809871/kpop-demon-hunters-sound-design-interview-michael-babcock",
@@ -609,6 +674,19 @@
       "published": "2025-10-31T11:59:33.000Z",
       "summary_90w": "",
       "raw": "Two Jewish men were killed when Jihad Al-Shamie attacked the synagogue before being shot dead by police.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0c4ec1e9e761b3b4c9be8fa63964905e11c43183",
+      "title": "Sixty years after tourist stole skull from cathedral, he sends it back",
+      "url": "https://www.bbc.com/news/articles/c2317drzm04o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-31T11:51:32.000Z",
+      "summary_90w": "",
+      "raw": "\"It's not something you expect,\" says Franz Zehetner, who opened the parcel  addressed to Vienna's St Stephen's Cathedral.",
       "topics": [
         "World"
       ]
@@ -1038,19 +1116,6 @@
       "published": "2025-10-31T02:40:47.000Z",
       "summary_90w": "",
       "raw": "The Gaudí-designed architectural marvel now stands at an impressive 162.91 metres.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1533b5acdf8b8d5c7ee170cbf6e529b72a28cca1",
-      "title": "Trump caps refugee admissions at record low - with most to be white South Africans",
-      "url": "https://www.bbc.com/news/articles/cy40jj71243o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-31T01:57:24.000Z",
-      "summary_90w": "",
-      "raw": "The president sets the limit at 7,500 for the coming year, a dramatic cut from 125,000.",
       "topics": [
         "World"
       ]
@@ -1576,32 +1641,6 @@
       ]
     },
     {
-      "id": "98eab7ca2170cc612a4f19f0905b04d1f5137416",
-      "title": "A New Generational Divide: Living with(out) the Bank of Mum and Dad (Eliza Filby)",
-      "url": "https://www.bbc.co.uk/sounds/play/m002lfft?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-30T06:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Historian Dr Eliza Filby on how young people can thrive without leaning on family wealth.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "56ba04316f44306e0557da9914498feaae7e02d6",
-      "title": "IntrCity SmartBus lands $30M at $140M valuation to deepen its grip on India’s intercity travel market",
-      "url": "https://techcrunch.com/2025/10/29/intrcity-smartbus-lands-30m-at-140m-valuation-to-deepen-its-grip-on-indias-intercity-travel-market/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-30T05:30:00.000Z",
-      "summary_90w": "",
-      "raw": "IntrCity SmartBus grew revenue by 67% last year and is targeting full profitability this year, as intercity travel booms across India.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "9bd2ed55f56d9abf5d1445519afd3d566522fc47",
       "title": "Hurricane Melissa death toll rises as storm wreaks destruction across Caribbean – as it happened",
       "url": "https://www.theguardian.com/world/live/2025/oct/29/hurricane-melissa-live-updates-strengthens-cuba-extensive-damage-parts-of-jamaica",
@@ -1612,19 +1651,6 @@
       "raw": "This blog is closed\n\nHurricane Melissa hits Cuba after turning Jamaica into ‘disaster area’\n\nVisual guide to Hurricane Melissa\n\nTell us if you’ve been affected\n\nAs Cuba prepares for the storm to make landfall any minute, officials in Jamaica are preparing to assess the damage on Wednesday.\nA video shared by the Jamaican Constabulary Force shows officers surveying extensive destruction in Black River, close to where Hurricane Melissa made landfall on Tuesday as a Category 5 storm.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "908ef40247661bb75d80ec487a5829270eb1d1c3",
-      "title": "India’s Snabbit valuation doubled to $180M in 5 months on its quick house-help bet",
-      "url": "https://techcrunch.com/2025/10/29/indias-snabbit-valuation-doubled-to-180m-in-5-months-on-its-quick-house-help-bet/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-10-30T01:30:00.000Z",
-      "summary_90w": "",
-      "raw": "India's appetite for instant convenience — once confined to food and grocery delivery — is expanding into house help.",
-      "topics": [
-        "Technology"
       ]
     },
     {
