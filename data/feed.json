@@ -1,6 +1,6 @@
 {
-  "version": "1761910180619",
-  "generatedAt": "2025-10-31T11:29:40.619Z",
+  "version": "1761910644391",
+  "generatedAt": "2025-10-31T11:37:24.391Z",
   "items": [
     {
       "id": "f6bdb631acd8419ff168d079370323d918f492bd",
@@ -140,7 +140,7 @@
       "source_name": "The Verge",
       "published": "2025-10-31T10:37:10.000Z",
       "summary_90w": "",
-      "raw": "The Task Manager isn’t managing its tasks. | Image: u/Hary06\t\n\nIf you’re a Windows 11 user who frequently uses the Task Manager tool, you should probably avoid Microsoft’s latest OS update. Reddit users and my colleague Tom Warren are reporting that a bug in the optional Windows 11 KB5067036 update is causing Task Manager to duplicate itself when they attempt to close the app, impacting computer performance.\nThe bug is breaking the “X” button to quit Task Manager, preventing the app from shutting down and instead keeping it running in the background. Repeated attempts to open and close the app result in multiple instances that can eat up your CPU and RAM resources.\nAccording to the KB5067036 change log notes, the update includes a fix for Task Manager that resolves some apps not being grouped with their processes, but mentions no other Task Manager changes. Microsoft hasn’t acknowledged this new bug at the time of writing, and the KB5067036 log still says that the company “is not currently aware of any issues with this update.”\nWe have reached out to Microsoft for further information.\nThankfully, Windows Latest and Reddit user BNSoul have found a temporary workaround. Individual Task Manager instances can be closed by selecting the “End task” button on the app instead of clicking the “X” button, or users can run taskkill /im taskmgr.exe /f in the Windows 11 Command Prompt to shut down all of the Task Manager instances simultaneously.",
+      "raw": "The Task Manager isn’t managing its tasks. | Image: Tom Warren / The Verge﻿\t\n\nIf you’re a Windows 11 user who frequently uses the Task Manager tool, you should probably avoid Microsoft’s latest OS update. Reddit users and my colleague Tom Warren are reporting that a bug in the optional Windows 11 KB5067036 update is causing Task Manager to duplicate itself when they attempt to close the app, impacting computer performance.\nThe bug is breaking the “X” button to quit Task Manager, preventing the app from shutting down and instead keeping it running in the background. Repeated attempts to open and close the app result in multiple instances that can eat up your CPU and RAM resources.\nAccording to the KB5067036 change log notes, the update includes a fix for Task Manager that resolves some apps not being grouped with their processes, but mentions no other Task Manager changes. Microsoft hasn’t acknowledged this new bug at the time of writing, and the KB5067036 log still says that the company “is not currently aware of any issues with this update.”\nWe have reached out to Microsoft for further information.\nThankfully, Windows Latest and Reddit user BNSoul have found a temporary workaround. Individual Task Manager instances can be closed by selecting the “End task” button on the app instead of clicking the “X” button, or users can run taskkill /im taskmgr.exe /f in the Windows 11 Command Prompt to shut down all of the Task Manager instances simultaneously.",
       "topics": [
         "Technology"
       ]
@@ -1079,6 +1079,19 @@
       "raw": "NPR alleges that CPB unlawfully yanked away a planned three-year contract worth $36 million in the face of intense pressure from the White House to sever ties with the radio network.",
       "topics": [
         "Business"
+      ]
+    },
+    {
+      "id": "c0549d84621337b1724b2d8f46b619c69ce594c0",
+      "title": "'Everything's gone' - BBC finally able to access one of Jamaica's worst-hit areas",
+      "url": "https://www.bbc.com/news/videos/c4gj9j66wxno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-30T18:39:57.000Z",
+      "summary_90w": "",
+      "raw": "Buildings, power lines, and a church once visited by King Charles are down in the tourism hub of Falmouth.",
+      "topics": [
+        "World"
       ]
     },
     {
