@@ -1,7 +1,85 @@
 {
-  "version": "1761934843082",
-  "generatedAt": "2025-10-31T18:20:43.082Z",
+  "version": "1761936723717",
+  "generatedAt": "2025-10-31T18:52:03.717Z",
   "items": [
+    {
+      "id": "e5e5c9243f09e381164efabc2a204a9ae2723036",
+      "title": "US judge blocks Trump administration from halting Snap food benefits ",
+      "url": "https://www.bbc.com/news/articles/cr433x9zqq4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-10-31T18:48:23.000Z",
+      "summary_90w": "",
+      "raw": "A federal judge said the plan to suspend food aid to millions of Americans during the ongoing US government shutdown is likely unlawful.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "87f5801ca22d4fbb1ce66154432beb837722d868",
+      "title": "Several hundred feared dead as Tanzania election protests continue",
+      "url": "https://www.bbc.com/news/articles/cz0x8vdvkjgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-31T18:43:18.000Z",
+      "summary_90w": "",
+      "raw": "A diplomatic source tells the BBC there is credible evidence that at least 500 people had died.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2b197d36b3d20942831b8be962f1afdb2615ccb6",
+      "title": "Judge gives Trump administration until Monday to have a plan for SNAP benefits",
+      "url": "https://www.npr.org/2025/10/31/nx-s1-5592366/snap-food-benefits-judge-trump-administration-usda-wic",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-10-31T18:40:48.000Z",
+      "summary_90w": "",
+      "raw": "Judge Indira Talwani acknowledged this will leave millions of people without assistance starting Saturday. Two dozen Democratic-led states had sued over the administration's decision to suspend SNAP.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "dbe06f50a1d1ead14c47643376d8fa01fbb0ae4f",
+      "title": "Windows 11 tests Bluetooth audio sharing that connects two headsets at once",
+      "url": "https://www.theverge.com/news/811795/microsoft-windows-11-bluetooth-le-shared-audio-headsets",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-31T18:32:30.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is bringing shared audio to Windows 11, allowing you to stream audio across two pairs of wireless headphones, speakers, earbuds, or hearing aids. The feature is built using the Bluetooth Low Energy (LE) audio codec, and it’s rolling out in preview to Windows 11 Insiders in the Dev and Beta channels.\nShared audio comes in handy if you’re watching a movie on a laptop with your friend or family member, or just want to show them new music that you can both stream inside your own wireless headsets. You can use shared audio by connecting Bluetooth LE-supported devices to your Windows 11 PC and then selecting the “Shared audio (preview) button in your quick settings menu.\nMicrosoft introduced an LE Audio feature on Windows 11 in August, enabling higher audio quality while using a wireless headset in a game or call. Other device makers have added support for shared audio as well, with Google using the Bluetooth LE-based Auracast feature to broadcast audio from Android 16 devices to compatible hearing aids. The company later expanded this capability to allow Pixel 8 phones or newer to connect to two pairs of headphones at once. Samsung also began building Auracast into its phones with last year’s launch of the Galaxy S24.\nFor now, shared audio in Windows 11 is only available on select Copilot Plus PCs, including the 13.8 and 15-inch Surface Laptops and the 13-inch Surface Pro. It’s coming to the Samsung Galaxy Book5 360, Galaxy Book5 Pro, 13-inch Surface Laptop, and others at a later date. You can also only use the feature with devices compatible with Bluetooth LE, such as the Samsung Galaxy Buds 2 Pro, Buds 3, Buds 3 Pro, and the Sony WH-1000XM6 wireless headphones.\nView Link",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3bb79e154432dcbcff9bb4ace1b91f6b3a8736ea",
+      "title": "Dolby Atmos arrives in the new, affordable China-exclusive Hyundai Elexio",
+      "url": "https://www.theverge.com/tech/811718/dolby-atmos-arrives-in-the-new-affordable-china-exclusive-hyundai-elexio",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-10-31T18:23:33.000Z",
+      "summary_90w": "",
+      "raw": "Dolby Atmos, the dominant name behind spatial audio in theaters and the home, has become a fixture in luxury cars from the likes of Mercedes-Benz, Rivian, Cadillac, and Lucid priced upwards of $70,000. But now, Hyundai is including Dolby Atmos audio in the new entry-level Elexio EV - a China-exclusive (for now) SUV that costs between RMB 119,800 and 149,800 (or $16,800 to $21,000).\nUnlike the more luxury vehicles that have included Atmos as part of a premium package, the Hyundai Elexio will offer it as standard on all trims through its six built-in speakers. There is the option of increasing that to eight speakers with an external amplifier …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7bb9bc69018fa27c882be9b873d29ed21bab4293",
+      "title": "Nexperia halts chip supplies to China in threat to global car production",
+      "url": "https://www.theguardian.com/business/2025/oct/31/nexperia-halts-chip-supples-china-threat-car-production",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-31T18:20:25.000Z",
+      "summary_90w": "",
+      "raw": "Dutch-controlled company informs customers about suspension but is said to want to de-escalate trade war\nNexperia, the EU-based automotive chipmaker at the centre of a geopolitical dispute, has suspended supplies to its Chinese factory, stepping up a trade war that threatens to halt production at carmakers around the world.\nThe company wrote to customers this week informing them all supplies to a Chinese plant had been suspended.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "c6c3630bd89611e26a295cf0d148a2d19319b833",
       "title": "Bose headphones and earbuds return to all-time lows for Black Friday",
@@ -43,7 +121,7 @@
     },
     {
       "id": "2448768fd10c5d1c75aa087978f020c9a5be5f7c",
-      "title": "Dictionary.com's 2025 word of the year, '67,' means nothing and everything at once",
+      "title": "What does '67' mean? Dictionary.com's 2025 word of the year has no definition",
       "url": "https://www.npr.org/2025/10/31/nx-s1-5593052/67-dictionary-word-of-the-year-2025",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
@@ -62,7 +140,7 @@
       "source_name": "The Verge",
       "published": "2025-10-31T17:41:54.000Z",
       "summary_90w": "",
-      "raw": "“We got hacked,” members of the University of Pennsylvania community were told in the subject line of several emails sent from addresses linked to its Graduate School of Education. The sender, apparently, was the potential hacker or hackers themselves.\n“The University of Pennsylvania is a dogshit elitist institution full of woke retards,” said the emails, which were received by several alumni including a Verge author who attended the University of Pennsylvania. “We have terrible security practices and are completely unmeritocratic. We hire and admit morons because we love legacies, donors, and unqualified affirmative action admits. We love breaking federal laws like FERPA (all your data will be leaked) and Supreme Court rulings like SFFA. Please stop giving us money.”\nThe apparent hacker or hackers referenced the Family Educational Rights and Privacy Act, which protects the privacy of students’ personal information that’s shared with schools. SFFA appears to refer to Students for Fair Admissions, the group that was at the forefront of the Supreme Court ruling that struck down race-based affirmative action for college admissions. \nDo you have information about the U Penn hack or other university attacks? Contact Elizabeth Lopatto securely on Signal at lopatto.46.\nPenn acknowledged the existence of the messages in a statement on its website. “A fraudulent email is currently being circulated that appears to come from a Penn GSE account with the subject “We got hacked (Action Required)” or similar,“ it says. ”The University’s Office of Information Security is aware of the situation, and their Incident Response team is actively addressing it.”\nPenn would not be the first Ivy League school to be hacked this year by what seems to be politically-motivated attackers. Columbia University was the target of a breach earlier this year reportedly impacting decades of admissions data. The alleged hacker told Bloomberg they were looking for signs that it had continued affirmative action policies after the Supreme Court struck it down. Both schools have been at the center of political firestorms over their handling of protests over Israel’s war in Gaza. The alleged Columbia hacker — a self-proclaimedly “violently racist” and pro-Hitler figure whose handle includes a racial slur — also took credit for two other hacks at New York University and the University of Minnesota.",
+      "raw": "“We got hacked,” members of the University of Pennsylvania community were told in the subject line of several emails sent from addresses linked to its Graduate School of Education. The sender, apparently, was the potential hacker or hackers themselves.\n“The University of Pennsylvania is a dogshit elitist institution full of woke retards,” said the emails, which were received by several alumni including a Verge author who attended the University of Pennsylvania. “We have terrible security practices and are completely unmeritocratic. We hire and admit morons because we love legacies, donors, and unqualified affirmative action admits. We love breaking federal laws like FERPA (all your data will be leaked) and Supreme Court rulings like SFFA. Please stop giving us money.”\nThe apparent hacker or hackers referenced the Family Educational Rights and Privacy Act, which protects the privacy of students’ personal information that’s shared with schools. SFFA appears to refer to Students for Fair Admissions, the group that was at the forefront of the Supreme Court ruling that struck down race-based affirmative action for college admissions. \nDo you have information about the U Penn hack or other university attacks? Contact Elizabeth Lopatto securely on Signal at lopatto.46.\nPenn acknowledged the existence of the messages in a statement on its website. “A fraudulent email is currently being circulated that appears to come from a Penn GSE account with the subject “We got hacked (Action Required)” or similar,“ it says. ”The University’s Office of Information Security is aware of the situation, and their Incident Response team is actively addressing it.” In a statement on the university’s communications website, the school says, “nothing in the highly offensive, hurtful message reflects the mission or actions of Penn or of Penn GSE.”\nPenn would not be the first Ivy League school to be hacked this year by what seems to be politically-motivated attackers. Columbia University was the target of a breach earlier this year reportedly impacting decades of admissions data. The alleged hacker told Bloomberg they were looking for signs that it had continued affirmative action policies after the Supreme Court struck it down. Both schools have been at the center of political firestorms over their handling of protests over Israel’s war in Gaza. The alleged Columbia hacker — a self-proclaimedly “violently racist” and pro-Hitler figure whose handle includes a racial slur — also took credit for two other hacks at New York University and the University of Minnesota.",
       "topics": [
         "Technology"
       ]
@@ -406,19 +484,6 @@
       ]
     },
     {
-      "id": "87f5801ca22d4fbb1ce66154432beb837722d868",
-      "title": "Several hundred feared dead as Tanzania election protests continue",
-      "url": "https://www.bbc.com/news/articles/cz0x8vdvkjgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-31T15:26:54.000Z",
-      "summary_90w": "",
-      "raw": "A diplomatic source tells the BBC there is credible evidence that at least 500 people had died.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "664c6199a479c63eb06c8bb81f4ff36d83606ce2",
       "title": "Tim Cook says Apple is open to M&A on the AI front",
       "url": "https://techcrunch.com/2025/10/31/tim-cook-says-apple-is-open-to-ma-on-the-ai-front/",
@@ -686,20 +751,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-31T13:29:44.000Z",
       "summary_90w": "",
-      "raw": "NVIDIA CEO Jensen Huang is visiting South Korea to strengthen partnerships with Samsung, Hyundai, SK, and Naver, unveiling plans for AI-powered networks and next-generation intelligent systems.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "2bb25b9e04039799cc16c949d1f3a711ed9f636a",
-      "title": "Perplexity’s new AI tool aims to simplify patent research",
-      "url": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-31T13:23:18.000Z",
-      "summary_90w": "",
-      "raw": "Patents are notoriously difficult to search for, but Perplexity has launched an AI-powered tool that’s supposed to make the process a little easier. Its new patent research agent allows you to search for patents using natural language, rather than a string of keywords.\nAs an example, Perplexity says you can enter something like, “Are there any patents on AI language learning?” or “Key quantum computing patents since 2024,” and Perplexity will return relevant results, along with AI-generated summaries of each one.\nPerplexity says its tool extends beyond exact keyword matches, too. That means if you search for “fitness trackers,” Perplexity will also surface patents filed under related terms, like “activity bands,” “step-counting watches,” and “health monitoring watches.” Its tool can also search through academic papers, public software repositories, and other sources for prior art.\nPerplexity is making its patent research tool free for everyone to use while it’s in beta, with Pro and Max subscribers getting additional usage quotas and configuration options. You can try out the tool by entering a search for a patent directly in Perplexity.",
+      "raw": "Nvidia CEO Jensen Huang is visiting South Korea to strengthen partnerships with Samsung, Hyundai, SK, and Naver, unveiling plans for AI-powered networks and next-generation intelligent systems.",
       "topics": [
         "Technology"
       ]
@@ -713,32 +765,6 @@
       "published": "2025-10-31T13:05:44.000Z",
       "summary_90w": "",
       "raw": "Volker Türk said the strikes were \"unacceptable\" and urged Washington to halt them immediately.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "261cd4189b8a234d28be57508ca2b64ae907271c",
-      "title": "ESPN, ABC, and other Disney channels go dark on YouTube TV",
-      "url": "https://www.theverge.com/news/811316/youtube-tv-disney-channels-pulled-deal-renewal",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-10-31T13:01:01.000Z",
-      "summary_90w": "",
-      "raw": "More than 20 Disney-owned channels, including ESPN, ABC, and Nat Geo, have been pulled from YouTube TV after Google and Disney failed to reach a new content distribution agreement. The previous contract expired at 11:59 PM ET on October 30th, and it’s unclear when, or if, the two companies will reach a new deal.\nThe blackout was prompted by disagreements over carriage fees, with Google saying in a blog post published last week that Disney was “proposing costly economic terms that would raise prices on YouTube TV customers.” That same post was updated at 11:15PM on Thursday, claiming that Disney had followed through on threats to pull its channels from YouTube TV, which Google described as a “negotiating tactic.”\n“We know this is a frustrating and disappointing outcome for our subscribers, and we continue to urge Disney to work with us constructively to reach a fair agreement that restores their networks to YouTube TV,” Google said in the statement. “If their content remains off YouTube TV for an extended period of time, we’ll offer subscribers a $20 credit.”\nThe full list of removed Disney-owned channels includes: ABC, ESPN, ESPN2, ESPNU, ESPNews, Disney Channel, Disney Junior, Disney XD, Freeform, FX, FXX, FXM, SEC Network, Nat Geo, Nat Geo Wild, ABC News Live, ACC Network, and Localish. For YouTube TV subscribers on the Spanish plan, ESPN Deportes, Baby TV Español, and Nat Geo Mundo have also been pulled. The removals impact recordings and on-demand content saved to YouTube TV users’ libraries.\nThe Verge has reached out to Disney for comment. In a statement to Variety, Disney said that YouTube TV “has chosen to deny their subscribers the content they value most by refusing to pay fair rates for our channels, including ESPN and ABC,” and claims that Google is “using its market dominance to eliminate competition and undercut the industry-standard terms.”\nA similar breakdown between Google and Disney occurred in 2021 at the end of their previous contracts. Meanwhile, NBCUniversal announced earlier this month that it had reached a renewal deal with Google, following an agreement to a short extension that prevented its channels from going dark on YouTube TV.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "7bb9bc69018fa27c882be9b873d29ed21bab4293",
-      "title": "Nexperia halts chip supplies to China in threat to global car production",
-      "url": "https://www.theguardian.com/business/2025/oct/31/nexperia-halts-chip-supples-china-threat-car-production",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-31T12:41:11.000Z",
-      "summary_90w": "",
-      "raw": "Dutch-controlled company informs customers about suspension but is said to want to de-escalate trade war\nNexperia, the EU-based automotive chipmaker at the centre of a geopolitical dispute, has suspended supplies to its Chinese factory, stepping up a trade war that threatens to halt production at carmakers around the world.\nThe company wrote to customers this week informing them all supplies to a Chinese plant had been suspended.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -936,19 +962,6 @@
       "raw": "Automakers have been paying billions of dollars in tariffs on imported cars, parts and materials. But on earnings calls this month, some carmakers reported that they're performing well anyway.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "777990f55a26528a5a8fc8bcaa66889ac13049d1",
-      "title": "Latter-day Saints are having fewer children. Church officials are taking note",
-      "url": "https://www.npr.org/2025/10/31/nx-s1-5535654/latter-day-saints-are-having-fewer-children-church-officials-are-taking-note",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-10-31T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Church of Jesus Christ of Latter-day Saints has long emphasized the importance of having children. Now the church says it's worried about the declining birth rate.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1677,19 +1690,6 @@
       "raw": "Virgin Media O2 has partnered with Elon Musk firm Starlink to offer the service.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "0f10ad19b11c5324f70b4d17d5e739a07fe6533e",
-      "title": "Handshakes and whispers: Trump and Xi's meeting…in 73 seconds",
-      "url": "https://www.bbc.com/news/videos/cq83eked32go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-10-30T06:07:19.000Z",
-      "summary_90w": "",
-      "raw": "Trump says the meeting with President Xi, which was their first face-to-face interaction since 2019, was a \"great success\".",
-      "topics": [
-        "World"
       ]
     },
     {
