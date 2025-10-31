@@ -1,12 +1,25 @@
 {
-  "version": "1761945252874",
-  "generatedAt": "2025-10-31T21:14:12.874Z",
+  "version": "1761946115653",
+  "generatedAt": "2025-10-31T21:28:35.653Z",
   "items": [
+    {
+      "id": "7ed9bebb22f7334b86b953d2d8c61b809d120cc7",
+      "title": "Russia link suspected as Bulgarians jailed for vandalising Paris Jewish memorial",
+      "url": "https://www.theguardian.com/world/2025/oct/31/russia-link-suspected-as-bulgarians-jailed-for-vandalising-paris-jewish-memorial",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-10-31T21:04:44.000Z",
+      "summary_90w": "",
+      "raw": "Four men given prison terms for desecration that was possibly ‘orchestrated by Russian intelligence services’\nA French court on Friday sentenced four Bulgarians to between two and four years in prison for desecrating a Jewish memorial with red handprints last year, in what prosecutors think may have been foreign interference linked to Russia.\nThe Paris criminal court gave two-year sentences to Georgi Filipov and Kiril Milushev, described as the perpetrators, and four years and three years respectively to Nikolay Ivanov and Mircho Angelov, considered the operation’s “masterminds”. Angelov is still at large.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "68815235cc0078405cedf6009e77926d2b3bb377",
       "title": "Tchéky Karyo, star of Nikita and The Missing, dies at 72",
       "url": "https://www.bbc.com/news/articles/cx2dd7yyly9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-10-31T20:50:47.000Z",
       "summary_90w": "",
@@ -49,7 +62,7 @@
       "source_name": "TechCrunch",
       "published": "2025-10-31T20:14:06.000Z",
       "summary_90w": "",
-      "raw": "Bluesky is looking to a new signal — \"dislikes\" — to personalize users' feeds.",
+      "raw": "As users \"dislike\" posts, the system will learn what sort of content they want to see less of. This will help to inform more than just how content is ranked in feeds, but also reply rankings.",
       "topics": [
         "Technology"
       ]
@@ -120,6 +133,19 @@
       ]
     },
     {
+      "id": "f2e7bbe3f565a1fab86ecb9d5a49e00cf81f5bc0",
+      "title": "Double murderer jailed for stabbing pregnant girlfriend",
+      "url": "https://www.bbc.com/news/articles/cm2e8mz8l7eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-10-31T19:17:43.000Z",
+      "summary_90w": "",
+      "raw": "Shaine March is sentenced to life with a minimum term of 42 years for killing Alana Odysseos.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "e2dfba60e12f4023687efcd22afc0860fea8a294",
       "title": "Pakistan and Afghanistan agree to maintain a ceasefire -- for now. Here's what to know",
       "url": "https://www.npr.org/2025/10/31/g-s1-95838/pakistan-afghanistan-ceasefire-taliban-turkey-qatar",
@@ -134,7 +160,7 @@
     },
     {
       "id": "f7063b0d8fb4c40b1dc00849781779428ec93b1f",
-      "title": "AI mania tanks CoreWeave’s Core Scientific acquisition; it buys Python notebook Marimo",
+      "title": "AI mania tanks CoreWeave’s Core Scientific acquisition — it buys Python notebook Marimo",
       "url": "https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -351,19 +377,6 @@
       "raw": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "b619b2be7b9b5195bcc83727247b276563b47ff8",
-      "title": "Dave dethrones Taylor Swift as new album sets rap records",
-      "url": "https://www.bbc.com/news/articles/c201zvedkd2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-31T17:34:10.000Z",
-      "summary_90w": "",
-      "raw": "The Boy Who Played the Harp dethrones Taylor Swift and keeps Lily Allen off the top spot.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1004,19 +1017,6 @@
       ]
     },
     {
-      "id": "e06bcf5311ab0c49ba3bbe6a6171e37c1bdaa3bf",
-      "title": "Sultana says party founded with Corbyn aiming to 'run government'",
-      "url": "https://www.bbc.com/news/articles/cly2xjgpg92o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-31T10:35:39.000Z",
-      "summary_90w": "",
-      "raw": "Changing \"people's lives for the better\" requires \"winning state power\", the Coventry South MP says.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "603d6fd3b69ff18d1ba9025aa02b6ed6c2b93c5a",
       "title": "Israel confirms identities of hostages' bodies returned by Hamas",
       "url": "https://www.bbc.com/news/articles/c4gj90j2g8jo?at_medium=RSS&at_campaign=rss",
@@ -1168,19 +1168,6 @@
       "published": "2025-10-31T07:50:21.000Z",
       "summary_90w": "",
       "raw": "Category 5 storm is most powerful to strike Jamaica and has caused death and destruction in Cuba and Haiti\nHurricane Melissa has wreaked havoc across parts of the Caribbean in recent days, after first making landfall in Jamaica on Tuesday night as a category 5 storm – the highest strength. This was the most powerful storm to strike the island nation, packing winds of up to 185mph at its peak.\nWestern parts of Jamaica were worst hit, with 90% of homes in the town of Black River losing their roof or being destroyed entirely. Roughly three-quarters of the country lost electricity, with at least 19 people known to have lost their lives at the time of publication. The cleanup operation was hampered by thunderstorms even after Melissa cleared to the north. The hurricane continued northwards, but was a slightly weakened category 3 storm by the time it made landfall in Cuba. Nonetheless, the storm continued to bring winds of up to 120mph and torrential rains.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "20ac90463b933ba9dbd1853ef64688a3be145450",
-      "title": "After a year of street protests, Serbia’s students split on what should come next",
-      "url": "https://www.theguardian.com/world/2025/oct/31/serbia-street-protests-students-split-elections",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-10-31T07:31:04.000Z",
-      "summary_90w": "",
-      "raw": "As a radicalised generation presses its calls for political change, a debate has opened up over whether to join battle by the ballot box\nMidway through a 16-day, 250-mile (400km) march from Novi Pazar to Novi Sad, Inas Hodžić was still remarkably energetic. Like thousands of other Serbian students, he was making his way to the city which, last autumn, become the scene of national tragedy.\nSixteen people were killed when the newly renovated canopy of Novi Sad’s main railway station collapsed on 1 November 2024, a disaster that critics say exposed much more than faulty construction and sparked Serbia’s largest youth-led protest movement since the fall of Slobodan Milošević.\n Continue reading...",
       "topics": [
         "World"
       ]
