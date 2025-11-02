@@ -1,6 +1,6 @@
 {
-  "version": "1762120297278",
-  "generatedAt": "2025-11-02T21:51:37.278Z",
+  "version": "1762121641185",
+  "generatedAt": "2025-11-02T22:14:01.185Z",
   "items": [
     {
       "id": "4400370135c4ceeb9151734e55f223065c873b00",
@@ -8,9 +8,35 @@
       "url": "https://www.bbc.com/news/articles/c0exdqpv3vvo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-11-02T21:44:41.000Z",
+      "published": "2025-11-02T21:58:50.000Z",
       "summary_90w": "",
       "raw": "A nine-month-old baby has been killed in a dog attack, Gwent Police has said.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c4648197cc2c0a50495b75eb223b4238b64fb55a",
+      "title": "What we know about stabbings on Doncaster to London train",
+      "url": "https://www.bbc.com/news/articles/c8r007d4kk2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-02T21:56:58.000Z",
+      "summary_90w": "",
+      "raw": "Nine people have life-threatening injuries, police say, with counter-terror police joining the investigation.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3da778317e3eb67266cddc479ea6abd08075b3e8",
+      "title": "Australia politics live: Liberal frontbencher admits Coalition ‘down in the dumps’ but backs Ley; Littleproud rejects ‘puerile’ net zero argument",
+      "url": "https://www.theguardian.com/australia-news/live/2025/nov/03/australia-politics-live-nationals-net-zero-liberals-labor-bulk-billing-optus-sussan-ley-anthony-albanese-question-time",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-02T21:55:19.000Z",
+      "summary_90w": "",
+      "raw": "Liberal leader Sussan Ley faces fundamental fracture on Coalition climate policy. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nMortgage arrears fall at Westpac after rate cuts\nMortgage holders are enjoying a reprieve from relentless cost of living pressures, as the number of home owners falling behind on their repayments falls.\nNotwithstanding the relief from interest rates, challenges remain, with inflation and unemployment increasing in recent months.\nGlobally, uncertainty remains but this is an opportunity for Australia and we are in a good position to work through any impacts from events such as the ongoing geopolitical and trade tensions.\nI never started this process seeking to fail. I want to succeed, and that means we’ve all got to work together. And the way we have been constructively working together – obviously, there’s some noise here and noise there – but the way we have been working constructively together, I’m very confident that we’ll be able to reach a position which means we can all continue to work together in the best interests of the nation.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -24,19 +50,6 @@
       "published": "2025-11-02T21:41:04.000Z",
       "summary_90w": "",
       "raw": "The 3,500-year-old stone head was likely stolen during the Arab Spring uprising.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3da778317e3eb67266cddc479ea6abd08075b3e8",
-      "title": "Australia politics live: Liberal frontbencher admits Coalition ‘down in the dumps’ but backs Ley; Littleproud rejects ‘puerile’ net zero argument",
-      "url": "https://www.theguardian.com/australia-news/live/2025/nov/03/australia-politics-live-nationals-net-zero-liberals-labor-bulk-billing-optus-sussan-ley-anthony-albanese-question-time",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-02T21:38:14.000Z",
-      "summary_90w": "",
-      "raw": "Liberal leader Sussan Ley faces fundamental fracture on Coalition climate policy. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nMortgage arrears fall at Westpac after rate cuts\nMortgage holders are enjoying a reprieve from relentless cost of living pressures, as the number of home owners falling behind on their repayments falls.\nNotwithstanding the relief from interest rates, challenges remain, with inflation and unemployment increasing in recent months.\nGlobally, uncertainty remains but this is an opportunity for Australia and we are in a good position to work through any impacts from events such as the ongoing geopolitical and trade tensions.\nI never started this process seeking to fail. I want to succeed, and that means we’ve all got to work together. And the way we have been constructively working together – obviously, there’s some noise here and noise there – but the way we have been working constructively together, I’m very confident that we’ll be able to reach a position which means we can all continue to work together in the best interests of the nation.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -159,19 +172,6 @@
       ]
     },
     {
-      "id": "c4648197cc2c0a50495b75eb223b4238b64fb55a",
-      "title": "What we know about stabbings on Doncaster to London train",
-      "url": "https://www.bbc.com/news/articles/c8r007d4kk2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-02T18:33:36.000Z",
-      "summary_90w": "",
-      "raw": "Nine people have life-threatening injuries, police say, with counter-terror police joining the investigation.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "d751b744f52b17d3a744ed5324172bac8e33598c",
       "title": "You need to watch the found footage classic, Lake Mungo",
       "url": "https://www.theverge.com/column/812150/watch-the-found-footage-classic-horror-mokumentary-lake-mungo",
@@ -179,7 +179,7 @@
       "source_name": "The Verge",
       "published": "2025-11-02T18:00:00.000Z",
       "summary_90w": "",
-      "raw": "Lake Mungo is haunting and heartbreaking.\t\n\nFound footage movies are tough to pull off. For every classic like The Blair Witch Project or Rec, there are 100 movies like Slender and Megan Is Missing that are, at best, forgettable, and at worst, an affront to the very concept of cinema. My personal favorite, though, is Lake Mungo, a slow burn mokumentary with found footage elements that manages to be both creepy and emotionally wrenching. Oh, and it's gloriously concise at under an hour and a half. \nLake Mungo is, first and foremost, one of the most convincingly realized mokumentaries ever made. If you told someone it was a legit documentary about a supposed haunting, there's a chance  …\nRead the full story at The Verge.",
+      "raw": "Lake Mungo is haunting and heartbreaking.\t\n\nFound footage movies are tough to pull off. For every classic like The Blair Witch Project or Rec, there are 100 movies like Slender and Megan Is Missing that are, at best, forgettable, and at worst, an affront to the very concept of cinema. My personal favorite, though, is Lake Mungo, a slow burn mockumentary with found footage elements that manages to be both creepy and emotionally wrenching. Oh, and it's gloriously concise at under an hour and a half. \nLake Mungo is, first and foremost, one of the most convincingly realized mockumentary ever made. If you told someone it was a legit documentary about a supposed haunting, there's a chance  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -598,6 +598,19 @@
       "raw": "NPR's Ayesha Rascoe asks UVA cybersecurity expert Chris Maurer about job offer scams and an increasing number of postings from legitimate companies that they do not fill.",
       "topics": [
         "Business"
+      ]
+    },
+    {
+      "id": "f426f7e21733744ae0dc2d5e151de56ec3d8839b",
+      "title": "What We Know So Far About The Doncaster-London Train Attack",
+      "url": "https://www.bbc.co.uk/sounds/play/p0md85zz?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-02T13:44:00.000Z",
+      "summary_90w": "",
+      "raw": "Two people arrested, and the police say they believe the attack was not terror-related.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1179,7 +1192,7 @@
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-11-01T07:00:32.000Z",
-      "summary_90w": "",
+      "summary_90w": "The UN special rapporteur on torture is being urged to investigate Lebanon's involvement in the treatment of Abdulrahman al-Qaradawi, an Egyptian-Turkish poet imprisoned in the UAE for over 10 months due to his criticism of the Emirati, Egyptian, and Saudi governments. Legal representatives for Qaradawi submitted a complaint to the UN on Thursday, seeking an examination of his situation and the alleged torture he has faced.",
       "raw": "Abdulrahman al-Qaradawi has been imprisoned in the UAE for almost a year for criticising Emirati, Egyptian and Saudi governments\nThe UN special rapporteur on torture is being urged to investigate Lebanon’s role in the treatment of the Egyptian-Turkish poet and activist Abdulrahman al-Qaradawi, a dissident who has been imprisoned in the United Arab Emirates for more than 10 months over a post he made on social media.\nLegal counsel representing Qaradawi filed a complaint to the UN rapporteur on Thursday, asking it to examine the situation.\n Continue reading...",
       "topics": [
         "World"
@@ -1456,19 +1469,6 @@
       "raw": "Apple CEO Tim Cook noted in the company's Q4 2025 earnings call that Apple was preparing to announce more AI partnerships like the one it has with OpenAI to integrate ChatGPT into Siri and Apple Intelligence.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "cb666a4ce0deacafb064c1b55b5a113afeebb33f",
-      "title": "The Week: The King v Andrew And Possible Tax Rises",
-      "url": "https://www.bbc.co.uk/sounds/play/p0mcy5jj?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-31T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Why did the King choose now to strip Andrew of his titles?",
-      "topics": [
-        "World"
       ]
     },
     {
