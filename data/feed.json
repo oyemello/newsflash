@@ -1,7 +1,20 @@
 {
-  "version": "1762169883253",
-  "generatedAt": "2025-11-03T11:38:03.253Z",
+  "version": "1762170693573",
+  "generatedAt": "2025-11-03T11:51:33.573Z",
   "items": [
+    {
+      "id": "7f4e6584f15f47ef15c122c0096d665aa2b2ff27",
+      "title": "Google pulls AI model after senator says it fabricated assault allegation",
+      "url": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-03T11:40:40.000Z",
+      "summary_90w": "",
+      "raw": "Google says it has pulled AI model Gemma from its AI Studio platform after a Republican senator complained the model, designed for developers, “fabricated serious criminal allegations” about her. \nIn a post on X, Google’s official news account said the company had “seen reports of non-developers trying to use Gemma in AI Studio and ask it factual questions.” AI Studio is a platform for developers and not a conventional way for regular consumers to access Google’s AI models. Gemma is specifically billed as a family of AI models for developers to use, with variants for medical use, coding, and evaluating text and image content.\nGemma was never meant to be used as a consumer tool, or to be used to answer factual questions, Google said. “To prevent this confusion, access to Gemma is no longer available on AI Studio. It is still available to developers through the API.”\nGoogle did not specify which reports prompted Gemma’s removal, though on Thursday Senator Marsha Blackburn (R-TN) wrote to CEO Sundar Pichai accusing the company of defamation and anti-conservative bias. Blackburn, who also raised the issue during a recent Senate commerce hearing about anti-diversity activist Robby Starbuck’s own AI defamation suit against Google, claimed Gemma responded falsely when asked “Has Marsha Blackburn been accused of rape?” \nGemma apparently replied that Blackburn “was accused of having a sexual relationship with a state trooper” during her 1987 campaign for state senate, who alleged “she pressured him to obtain prescription drugs for her and that the relationship involved non-consensual acts.” It also provided a list of fake news articles to support the story, Blackburn said.  \nNone of this is true, not even the campaign year which was actually 1998. The links lead to error pages and unrelated news articles. There has never been such an accusation, there is no such individual, and there are no such news stories. This is not a harmless “hallucination.” It is an act of defamation produced and distributed by a Google-owned AI model.\nThe narrative has a familiar feel. Even though we’re now several years into the generative AI boom, AI models still have a complex relationship with the truth. False or misleading answers from AI chatbots masquerading as facts still plague the industry and despite improvements there is no clear solution to the accuracy problem in sight. Google said it remains “committed to minimizing hallucinations and continually improving all our models.”\nIn her letter, Blackburn said her response remains the same: “Shut it down until you can control it.”",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "9e0636bc3a25b2f84e25d886307fdbff0c1cddd2",
       "title": "Pregnant British teen freed from Georgia jail after drug smuggling charge",
@@ -17,6 +30,19 @@
     },
     {
       "id": "c34572bfafebf25affd5d17b346ee1abfbd196c7",
+      "title": "Valencia leader resigns over handling of deadly 2024 floods",
+      "url": "https://www.bbc.com/news/articles/cr43d5yz3xxo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-03T11:32:17.000Z",
+      "summary_90w": "",
+      "raw": "A year after flash floods killed 229 people in the Valencia region, Carlos Mazón acknowledged \"mistakes\" were made.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c34572bfafebf25affd5d17b346ee1abfbd196c7",
       "title": "Valencia leader resigns over handling of deadly floods ",
       "url": "https://www.bbc.com/news/articles/cr43d5yz3xxo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
@@ -24,6 +50,19 @@
       "published": "2025-11-03T11:32:17.000Z",
       "summary_90w": "",
       "raw": "A year after flash floods killed 229 people in the Valencia region, Carlos Mazón acknowledged \"mistakes\" were made.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "caab5cc387449afec88785e674ec33bee8afc3ff",
+      "title": "Australians to get at least three hours a day of free solar power - even if they don’t have solar panels",
+      "url": "https://www.theguardian.com/australia-news/2025/nov/03/australians-to-get-at-least-three-hours-a-day-of-free-solar-power-even-if-they-dont-have-solar-panels",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-03T11:30:33.000Z",
+      "summary_90w": "",
+      "raw": "Labor announces ‘solar sharer’ program for households in NSW, south-east Queensland and South Australia\n\nGet our breaking news email, free app or daily news podcast\n\nAustralian households in three states will be promised access to at least three hours a day of free solar power, regardless of whether they have rooftop panels, the federal government has announced.\nThe “solar sharer” offer will be available to homes with smart meters – which is the majority of homes – in New South Wales, south-east Queensland and South Australia from July next year, with other areas to potentially follow in 2027.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -75,7 +114,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-11-03T11:16:06.000Z",
       "summary_90w": "",
-      "raw": "International Organization for Migration says refugees are heading to Tawila, which is already sheltering 652,000 displaced people\nMore than 36,000 Sudanese have fled the Kordofan region east of Darfur since Saturday, the UN’s migration agency has said, a week after the paramilitary Rapid Support Forces took control of the city of El Fasher.\nThe strategic central area between Sudan’s Darfur provinces and the Khartoum-Riverine region that includes the capital to the east, has in recent weeks become the latest battleground in the two-year civil war between the Sudanese armed forces (SAF) and the paramilitary group.\n Continue reading...",
+      "raw": "International Organization for Migration says refugees are heading to Tawila, which is already sheltering 652,000 displaced people\nMore than 36,000 people have fled Sudan’s Kordofan region east of Darfur since Saturday, the UN’s migration agency has said, a week after the paramilitary Rapid Support Forces took control of the city of El Fasher.\nThe strategic central area between the country’s Darfur provinces and the Khartoum-Riverine region that includes the capital to the east, has in recent weeks become the latest battleground in the two-year civil war between the Sudanese armed forces (SAF) and the paramilitary group.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -128,6 +167,19 @@
       "published": "2025-11-03T10:46:37.000Z",
       "summary_90w": "",
       "raw": "Wayne Hunt was kept in detention after a seizure instead of being taken to hospital, coroner hears\n\nGet our breaking news email, free app or daily news podcast\n\nAn inmate who suffered a seizure was put in handcuffs and a spit hood by prison guards who left him naked in an “at-risk cell” before he died two days later.\nAt an inquest into his death in Darwin on Monday, Northern Territory corrections and health departments apologised to the family of Wayne Hunt for the way he was treated and told the coroner, Elisabeth Armitage, that procedural changes would be made.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "524906f04b1a1ca30e2ab5890685a424dfe929fe",
+      "title": "Labour MPs back gambling tax to fight child poverty",
+      "url": "https://www.bbc.com/news/articles/cy7evm5vj1zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-03T10:33:38.000Z",
+      "summary_90w": "",
+      "raw": "Nearly a quarter of Labour MPs say increasing taxes could enable to the government to lift the two-child benefit cap.",
       "topics": [
         "World"
       ]
@@ -257,20 +309,7 @@
       "source_name": "NPR Topics: News",
       "published": "2025-11-03T10:00:00.000Z",
       "summary_90w": "",
-      "raw": "President Trump and several others now high up in his second administration have been talking about using the National Guard to help with mass deportations -- and possibly invoking the Insurrection Act -- for years. Now, those plans might be playing out.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4400370135c4ceeb9151734e55f223065c873b00",
-      "title": "Nine-month-old baby killed in dog attack",
-      "url": "https://www.bbc.com/news/articles/c0exdqpv3vvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-03T09:45:43.000Z",
-      "summary_90w": "",
-      "raw": "Officers and paramedics went to a property in Rogiet, Monmouthshire, on Sunday evening.",
+      "raw": "President Trump and several others now high up in his second administration have been talking about using the National Guard to help with mass deportations — and possibly invoking the Insurrection Act — for years. Now, those plans might be playing out.",
       "topics": [
         "World"
       ]
@@ -576,13 +615,13 @@
     },
     {
       "id": "bd76b0fd0dc34126a5fe86c081a61a93adeb6fb9",
-      "title": "Sir Anthony Hopkins looks back on a life of luck, loneliness and his legendary roles",
+      "title": "'Anger and revenge': Anthony Hopkins on how being bullied at school spurred him on",
       "url": "https://www.bbc.com/news/articles/crmxv3m8mwzo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-11-03T06:08:29.000Z",
       "summary_90w": "",
-      "raw": "Sir Anthony Hopkins, bullied and written off as a child, says he vowed to \"show\" his parents that he'd succeed.",
+      "raw": "The veteran star describes himself as \"a cold fish\", who withdrew into himself as a defence mechanism.",
       "topics": [
         "World"
       ]
@@ -596,19 +635,6 @@
       "published": "2025-11-03T05:45:59.000Z",
       "summary_90w": "",
       "raw": "Sheffield Hallam University apologises to Professor Laura Murphy for restricting her academic freedom.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "df42da490bdf140db4e5caec9e9aaea0f7a07185",
-      "title": "Australia’s richest person Gina Rinehart spotted at Donald Trump’s Halloween party",
-      "url": "https://www.theguardian.com/business/2025/nov/03/donald-trump-halloween-party-australia-richest-person-gina-rinehart-spotted",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-03T05:41:51.000Z",
-      "summary_90w": "",
-      "raw": "The 1920s, Great Gatsby-themed bash also reportedly attracted the likes of One Nation leader, Pauline Hanson, though her office did not confirm\nAustralia’s richest person, Gina Rinehart, has been spotted at Donald Trump’s Halloween party at his Mar-a-Lago resort.\nThe mining billionaire, who has never shied from publicly praising the controversial two-time US president, was seen speaking at Trump’s ear while he read a piece of paper in a social media post at the lavish affair at the weekend, as first reported by the Nine newspapers.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -812,7 +838,7 @@
       "id": "99faaa7822ac441186ec9e9ea09fdf4a40741b1f",
       "title": "Netherlands to return stolen ancient sculpture to Egypt",
       "url": "https://www.bbc.com/news/articles/cnve21y7lreo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-02T21:41:04.000Z",
       "summary_90w": "",
@@ -1326,19 +1352,6 @@
       "raw": "Political instability and fuel shortages caused by rebel group is driving Mali to brink of becoming Islamist republic\nArmed groups of JNIM fighters have blocked key routes used by fuel tankers, disrupting supply lines to the capital Bamako and other regions across Mali.\nThe al-Qaida-linked jihadist group Jama’at Nusrat ul-Islam wa al-Muslimin (JNIM) is gradually converging on Mali’s capital, Bamako, with increasing attacks in recent weeks, including on army-backed convoys.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "4097621ae996bcd19adad06f542845f5feb9ebfa",
-      "title": "LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday",
-      "url": "https://www.theverge.com/tech/811935/lg-b5-oled-tv-black-friday-doorbuster-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-01T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Best Buy’s latest doorbuster deal nets you a cool $770 off the regular price. | Image: The Verge\t\n\nBest Buy’s early Black Friday deals are already live, with discounts to be had on everything from smartphones and gaming PCs to wireless headphones. If you’re in the market for a new 4K TV, Best Buy is also offering an exclusive doorbuster deal on LG’s 48-inch B5 OLED, bringing the price of the 4K TV down to just $529.99 ($770 off) for a limited time. You can also grab the 55-inch model from Amazon, Best Buy, and LG for around $896 ($604 off), an all-time low.\nLG B5 OLED TV\n\nWhere to Buy:\n\n $1299.99 $529.99 at Best Buy (48-inch)\n $1499.99 $896.99 at Amazon (55-inch)\n $1499.99 $899.99 at Best Buy (55-inch)\n\nLG’s entry-level B Series offers one of the most affordable ways to jump into the world of OLED technology. Although the B5 can’t match the brightness of comparably priced LED TVs, it delivers far better black level performance and contrast, as well as excellent viewing angles. As far as we can tell, the B5 closely matches the display performance of LG’s flagship C3 from a few years ago.\nIn addition to 4K resolution, the B5 features four HDMI 2.1 ports — all of which support up to 4K at 120Hz with variable refresh rate for gaming — along with support for premium formats such as Dolby Vision and HDR10. It supports Filmmaker Mode, too, which aims to present movies as directors intended by disabling certain settings, such as motion smoothing and image sharpening. The B5 also runs on LG’s speedy Alpha 8 AI Processor Gen 2, so swiping through LG’s webOS interface isn’t a slog. Meanwhile, support for Apple AirPlay 2 and Google Cast makes it easy to stream content from a compatible device, including your phone or tablet.\nAs great as the B5 is, the set offers middling peak brightness and struggles with handling reflections, according to the folks over at RTings. That said, it’s a great option for gaming, and if you can place it in a room without a lot of ambient light, it’s a nice upgrade for movie night. My 10-year-old Phillips TV broke at the beginning of summer, and I think I finally found a suitable replacement.",
-      "topics": [
-        "Technology"
       ]
     },
     {
