@@ -1,7 +1,20 @@
 {
-  "version": "1762547641371",
-  "generatedAt": "2025-11-07T20:34:01.371Z",
+  "version": "1762548245894",
+  "generatedAt": "2025-11-07T20:44:05.894Z",
   "items": [
+    {
+      "id": "5846587eb6a0c25b0cd55547784f9eceae4e5340",
+      "title": "Traveling soon? What the FAA's flight reductions could mean for you",
+      "url": "https://www.npr.org/2025/11/07/nx-s1-5601666/flights-faa-reductions-cancellations-government-shutdown-travel-tips",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-11-07T20:31:46.000Z",
+      "summary_90w": "",
+      "raw": "The FAA is cutting 10% of air traffic at 40 of the nation's busiest airports, canceling hundreds of flights and creating uncertainty for many more passengers. Here's what to do if you're one of them.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "bc1c6a383dd96f2ddcc23ac0631bb792b93bcc4c",
       "title": "OPENAI'S NEW BROWSER",
@@ -37,19 +50,6 @@
       "published": "2025-11-07T20:16:32.000Z",
       "summary_90w": "",
       "raw": "GoWish, an app for making wishlists, is having a record year, and has doubled its users.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "71d4d040142e4dab2472fb872d2f94819d857bc7",
-      "title": "World of Warcraft is getting a new kind of fake money",
-      "url": "https://www.theverge.com/news/816714/world-of-warcraft-player-housing-hearthsteel-currency",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-07T20:10:41.000Z",
-      "summary_90w": "",
-      "raw": "The long-awaited addition of Housing in World of Warcraft is going to cost you. On top of your monthly subscription and the cost of the Midnight expansion itself, some Housing items will require a new in-game currency called “Hearthsteel” that players will have to pay for with real money. World of Warcraft already has hundreds of currencies, and at one point, the game’s main currency, gold, was worth more than the Venezuelan bolivar. \nBlizzard said in its announcement blog post for Hearthsteel that it will only be for Housing, not the Trading Post, mounts, or other in-game items. Blizzard also clarified that not all of the Housing items will require Hearthsteel:\n“The vast majority of Housing items are (and will continue to be) earnable in-game. Only a small fraction is available for purchase from the shop. Comparing this number against collectibles such as mounts is a good metric here, with more than a thousand mounts earnable in-game and only a few dozen from the shop.”",
       "topics": [
         "Technology"
       ]
@@ -557,6 +557,19 @@
       "published": "2025-11-07T16:30:00.000Z",
       "summary_90w": "",
       "raw": "Apple’s run of excellent sci-fi looks to continue with Pluribus. The series has some strong pedigree; it’s helmed by Breaking Bad and Better Call Saul creator Vince Gilligan, who also has a history in the genre working on The X-Files. It’s also a show that requires a lot of trust from viewers, with a strange concept, slow pace, and plentiful mysteries. \nThe show follows a woman named Carol (Rhea Seehorn) who is one of the only people on Earth unaffected by a scourge of infectious happiness that has completely altered the planet. It’s a little post-apocalyptic, a little Invasion of the Body Snatchers, and yet also unlike almost anything else out there.\nAnd you can keep up with all of our coverage of the show — from reviews to interviews with its creators — right here.\nApple’s latest sci-fi series Pluribus luxuriates in its mystery\n\t\t\t\nPluribus’ Vince Gilligan on making shows that ‘attract really smart viewers’\n\t\t\t\nApple shows off the unsettling world of Pluribus in first trailer\n\t\t\t\nBreaking Bad creator’s new sci-fi show hits Apple in November\n\t\t\t\nApple is teasing something about its show from Breaking Bad’s creator.\n\t\t\t\nApple has picked up the next show from Breaking Bad’s creator",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1d0931b066975db6c8d7705ebc12d8a7e36dfb74",
+      "title": "Ploopy’s smallest open-source trackball now includes a button",
+      "url": "https://www.theverge.com/news/816341/ploopy-nano-2-open-source-trackball-button-qmk",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-07T16:24:24.000Z",
+      "summary_90w": "",
+      "raw": "The Nano 2’s new button comes pre-programmed to trigger a scrolling mode, but its functionality can be customized. | Image: Ploopy\t\n\nCanadian-based Ploopy announced the Nano 2 on Friday. It’s an update to the ultra-compact Nano trackball featuring a new button, improved performance, and a USB-C port that replaces the original’s chunky USB-B port. The company made a similar upgrade with its Classic 2 trackball mouse earlier this year.\nThe Nano 2 is still designed to offer a “pure cursor experience” and complement a split keyboard setup or a small macro pad. But the new button could potentially turn it into a tiny trackball mouse.\nThe Nano 2’s single button is pre-programmed to trigger drag scrolling mode so you can temporarily switch the trackball from controlling your cursor to scrolling long documents or websites. As with Ploopy’s other peripherals, the Nano 2 runs the open-source QMK firmware. You customize the button’s functionality using the VIA web app, including making it function as a primary mouse click.\nPloopy has upgraded the Nano 2’s trackball performance with a new PAW-3222 sensor that supports a polling rate of over 1,000Hz, but as with all of the company’s hardware, you can upgrade or mod any of the components using the full documentation it shares on its GitHub. Unlike many of its other products, which are also available as discounted DIY kits, Ploopy is only selling the Nano 2 fully assembled and tested for $59.99 CAD, or around $43.",
       "topics": [
         "Technology"
       ]
@@ -1072,13 +1085,13 @@
       "id": "2d8f7f36fe32497dbce4f062ca5c1a62b90dc74a",
       "title": "Is the job market getting worse? As the shutdown continues, this is what we know",
       "url": "https://www.npr.org/2025/11/07/nx-s1-5600734/jobs-labor-market-government-shutdown",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2025-11-07T10:00:00.000Z",
       "summary_90w": "",
       "raw": "For the second month in a row, a government report on employment and unemployment has been delayed by the federal shutdown. That leaves analysts looking for other signs to gauge the job market.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -1649,19 +1662,6 @@
       "published": "2025-11-06T10:00:00.000Z",
       "summary_90w": "",
       "raw": "Across the country, demand for electricity is on the rise — and so is the price of electric power.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
-      "id": "66c5026aecd4d1999efaebf2092367558bb823fe",
-      "title": "Your credit history could be costing you more to drive",
-      "url": "https://www.npr.org/2025/11/05/nx-s1-5397184/auto-insurance-credit-history-cost",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-11-06T09:46:23.000Z",
-      "summary_90w": "",
-      "raw": "Auto insurance companies often use credit history as a factor in setting premiums",
       "topics": [
         "Business"
       ]
