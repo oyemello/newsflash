@@ -1,7 +1,33 @@
 {
-  "version": "1762617051731",
-  "generatedAt": "2025-11-08T15:50:51.731Z",
+  "version": "1762618557394",
+  "generatedAt": "2025-11-08T16:15:57.394Z",
   "items": [
+    {
+      "id": "26fa2234f21bc84dff897b9fef66e4602cea09c6",
+      "title": "Former Top Gear presenter Quentin Willson dies",
+      "url": "https://www.bbc.com/news/articles/c2lpww7pw72o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-08T16:02:30.000Z",
+      "summary_90w": "",
+      "raw": "The presenter and campaigner was described by his family as a \"true national treasure\" and \"true consumer champion\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3a9a0f268993a49aa0b225295b2618bab83893c6",
+      "title": "Apple helped kill netbooks. Will it bring them back?",
+      "url": "https://www.theverge.com/tech/817277/apple-ipad-killed-the-netbook-cheap-macbook-is-bringing-them-back",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-08T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "How small will Apple’s affordable MacBook be?\t\n\nRumor has it, Apple is working on a low-cost MacBook. And not \"low-cost for a Mac,\" but a proper cheap laptop, possibly as low as $599. For a company that traditionally targets the more premium end of the market, this would be something of an about-face. \nOf course, Apple takes great pride in its design and aesthetics. So the company isn't going to simply take the innards of a MacBook Air, slap them in a cheap plastic case, and call it a day. Instead, Apple is supposedly building a smaller laptop, with a lower-resolution screen and an \"entirely new design\" around an iPhone processor.\nThat chip could be some version of the A19 found in the  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "9d4e6845946351ea0187879301278d5c0c5b36af",
       "title": "Six dead as Russia hits energy and residential sites in Ukraine",
@@ -62,7 +88,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-11-08T15:17:47.000Z",
       "summary_90w": "",
-      "raw": "Chadema party says deputy secretary general arrested and calls election of incumbent president fraudulent\nTanzanian authorities have detained a senior official from the main opposition party Chadema amid a spate of arrests in connection to deadly protests during elections last week.\nMore than 1,000 people were killed by security forces during the demonstrations, according to Chadema and human rights bodies. The Tanzanian government has said these figures were exaggerated but did not give its own figures.\n Continue reading...",
+      "raw": "Chadema party says deputy secretary general arrested and calls election of incumbent president fraudulent\nTanzanian authorities have detained a senior official from the main opposition party, Chadema, amid a spate of arrests in connection to deadly protests during elections last week.\nMore than 1,000 people were killed by security forces during the demonstrations, according to Chadema and human rights bodies. The Tanzanian government has said these figures were exaggerated but did not give its own figures.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -149,7 +175,7 @@
       "id": "2e16976398bb87e088f22cae1310a151e69b0d25",
       "title": "Israel says body of Lior Rudaeff has been returned from Gaza",
       "url": "https://www.bbc.com/news/articles/cwykw15dx56o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-08T14:46:02.000Z",
       "summary_90w": "",
@@ -257,7 +283,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-11-08T13:55:13.000Z",
       "summary_90w": "",
-      "raw": "Shabana Mahmood’s proposals draw scorn from some Labour MPs, while others want government to go further\nShabana Mahmood is to announce changes to the UK’s immigration rules modelled on the Danish system, largely seen as among the most stringent in Europe, the Guardian understands.\nLast month, the home secretary dispatched officials to Denmark to study its border control and asylum policies. Denmark’s tighter rules on family reunions and restricting some refugees to a temporary stay are among the policies being looked at.\n Continue reading...",
+      "raw": "Shabana Mahmood’s proposals draw scorn from some Labour MPs, while others want government to go further\n• Why does the UK want to copy Denmark?\nShabana Mahmood is to announce changes to the UK’s immigration rules modelled on the Danish system, largely seen as among the most stringent in Europe, the Guardian understands.\nLast month, the home secretary dispatched officials to Denmark to study its border control and asylum policies. Denmark’s tighter rules on family reunions and restricting some refugees to a temporary stay are among the policies being looked at.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1012,19 +1038,6 @@
       "published": "2025-11-07T19:22:35.000Z",
       "summary_90w": "",
       "raw": "The Washington Post is the latest victim of a hacking campaign by the notorious Clop ransomware gang, which relied on vulnerabilities in Oracle software used by many corporations.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "f500163ced168d8e9bc0f00676268a9ec350e505",
-      "title": "Blackmagic’s free camera app can now stream directly to YouTube and Twitch",
-      "url": "https://www.theverge.com/news/816516/blackmagic-design-camera-mobile-app-ios-android-streaming-youtube-twitch",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-07T18:53:33.000Z",
-      "summary_90w": "",
-      "raw": "All of the app’s camera controls are still accessible and adjustable while streaming. | Image: Blackmagic Design\t\n\nBlackmagic released an update to its free camera app with some new features that streamers and professional broadcasters will appreciate. Both the Android and iOS versions of the Blackmagic Camera app can now stream directly to YouTube, Twitch, and Vimeo, removing the need for third-party apps or additional encoding hardware. You just need to select your platform and enter a secure stream key. While broadcasting, you’ll still have access to the app’s controls so you can adjust settings like exposure and focus on the fly.\nThe update also adds support for SRT: a more modern streaming protocol frequently used by professional broadcasters that’s optimized for networks whose speeds and reliability are less consistent, like the internet. Blackmagic Camera also gains support for custom RTMP and SRT servers for streamers wanting alternatives to the three native platforms now supported.\nOther improvements to the app include detailed and immediate alerts when an external drive is disconnected to help prevent data loss when working with high-res and high framerate Apple ProRes files the iPhone can’t record internally. And there’s now an option to select the number of multi-view angles while monitoring remote cameras, allowing for more flexibility when customizing the layout of multiple video feeds on a device with a larger screen like an iPad or a Mac.",
       "topics": [
         "Technology"
       ]
