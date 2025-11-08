@@ -1,6 +1,6 @@
 {
-  "version": "1762573727634",
-  "generatedAt": "2025-11-08T03:48:47.634Z",
+  "version": "1762574314166",
+  "generatedAt": "2025-11-08T03:58:34.166Z",
   "items": [
     {
       "id": "49aa122ab05f16806d5077122a9815fd771890a1",
@@ -208,19 +208,6 @@
       "raw": "Thousands of Kenyans, who fought for Britain, are buried in unknown locations and were never commemorated.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "cbdf5d7967e5756d9823e8929cdb7c0d7db8cb6b",
-      "title": "Halo Infinite is about to get its last major update",
-      "url": "https://www.theverge.com/news/816960/halo-infinite-end",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-07T23:26:31.000Z",
-      "summary_90w": "",
-      "raw": "On November 18th, Operation: Infinite will be released for Halo Infinite players with a battle pass and lots of new customizations, but according to the team,  that’s it for this game’s content updates:\nWith multiple Halo titles in development, we’ll need our whole team’s combined focus to deliver new experiences with the same passion and care that our community has given us. While we remain committed to supporting Halo Infinite on the road ahead, Operation: Infinite is the last major content update currently planned.\nPutting this game into maintenance mode is an awkward counterpart after last month’s news of a 2026 multiplatform release for the Halo: Campaign Evolved remake, but that’s the way things have gone for Infinite ever since it came out of the blocks stumbling with an ugly, unpolished eight-minute gameplay trailer in 2020.\nThe game was eventually delayed another year to late 2021, missing the launch of the Xbox Series X / S consoles, and shipping without features like campaign co-op and the Forge customization mode.  The infamous Craig did get a glow-up, and subsequent updates checked off some of the community’s wishlist items. Still, it’s clearer than ever that the future of Halo is cross-platform and doesn’t include the free-to-play multiplayer of Infinite, as Xbox hardware sales continue to slow, and Microsoft’s profitability push shuts down studios and raises prices.\nNow, the team writes, “we’ve been floored by the response” to Campaign Evolved, which will be released on both PS5 and Xbox next year.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -882,6 +869,19 @@
       "published": "2025-11-07T16:58:22.000Z",
       "summary_90w": "",
       "raw": "Kim Kardashian admitted that she has failed legal exams after blindly relying on ChatGPT's advice.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "28bcdbd49257569b19add59d7734660fc3c285dd",
+      "title": "X appears to be sending fake traffic across the web",
+      "url": "https://www.theverge.com/news/816451/x-fake-traffic-preloading-links-bluesky-substack",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-07T16:53:49.000Z",
+      "summary_90w": "",
+      "raw": "X's new link experiment on iOS may be artificially inflating traffic. Websites like Substack and Bluesky noticed a sharp increase in \"fake\" views following the update, something that Nick Eubanks, the VP of owned media at the digital marketing platform Semrush, attributes to a new behavior that preloads content before users click on it.\n\"What's happening here is a classic case of metrics distortion caused by product experimentation at the platform layer,\" Eubanks tells The Verge. With the new experiment, X will collapse a post when you click on its link, allowing you to interact with the like, repost, reply, and bookmark buttons while viewi …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
