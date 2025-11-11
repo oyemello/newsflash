@@ -1,7 +1,59 @@
 {
-  "version": "1762887066986",
-  "generatedAt": "2025-11-11T18:51:06.986Z",
+  "version": "1762888405901",
+  "generatedAt": "2025-11-11T19:13:25.901Z",
   "items": [
+    {
+      "id": "0144f79bb807c23981c5c8382804caffe9210901",
+      "title": "Google is introducing its own version of Apple’s private AI cloud compute",
+      "url": "https://www.theverge.com/news/818364/google-private-ai-compute",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-11T19:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Google is rolling out a new cloud-based platform that lets users unlock advanced AI features on their devices while keeping data private. The feature, virtually identical to Apple’s Private Cloud Compute, comes as companies reconcile users’ demands for privacy with the growing computational needs of the latest AI applications.\nMany Google products run AI features like translation, audio summaries, and chatbot assistants, on-device, meaning data doesn’t leave your phone, Chromebook, or whatever it is you’re using. This isn’t sustainable, Google says, as advancing AI tools need more reasoning and computational power than devices can supply. \nThe compromise is to ship more difficult AI requests to a cloud platform, called Private AI Compute, which it describes as a “secure, fortified space” offering the same degree of security you’d expect from on-device processing. Sensitive data is available “only to you and no one else, not even Google.”\nGoogle said the ability to tap into more processing power will help its AI features go from completing simple requests to giving more personal and tailored suggestions. For example, it says Pixel 10 phones will get more helpful suggestions from Magic Cue, an AI tool that contextually surfaces information from email and calendar apps, and a wider range of languages for Recorder transcriptions. “This is just the beginning,” Google said.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "736e5bc9a73774d7085f7fe5f8ca504d745385c4",
+      "title": "Google Pixel update adds battery-saving maps mode, AI photo remixing, and smarter notifications",
+      "url": "https://techcrunch.com/2025/11/11/google-pixel-update-adds-battery-saving-maps-mode-ai-photo-remixing-and-smarter-notifications/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-11T19:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Google says the new power saving mode for Google Maps can save you up to four hours of battery life",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8735be44eab6ada2ff847b5884176585151bfbbf",
+      "title": "Pixel phones are getting notification summaries",
+      "url": "https://www.theverge.com/tech/817644/pixel-update-notification-summaries-image-remix-messages",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-11T19:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Google is releasing an update for Pixel phones with an interesting feature in the mix: notification summaries. Apple notably had plenty of trouble implementing its version of this AI-powered feature, and Google is taking a cautious first step by deploying it only for chat conversations. It’ll arrive as part of this month’s Pixel update for Pixel 9 series phones and newer — with the exception of the Pixel 9A.\nAndroid Authority’s Mishaal Rahman shared a deep dive of the feature in August when code for it appeared in an Android 16 beta. As Rahman described, summaries are limited to chat apps for now, and only for longer conversations. As AA’s C. Scott Brown points out, limiting summaries to longer pieces of information means the system has more context to work with and could reduce the kind of swings and misses that Apple’s AI has made in the past. Google also says that December’s update will take things a step further, automatically sorting your notifications and silencing those that are lower priority — a problem Apple is throwing AI at, too.\nGoogle expanded its scam detection feature in messages beyond Pixel phones earlier this year. Now, Pixel 6 phones and newer will expand scam detection beyond Google’s Messages to some third-party chat apps including Telegram and Discord. The notification itself includes a badge labeling it as “likely scam,” and tapping the notification triggers a system pop-up encouraging the user to exercise caution. Google is expanding access to scam detection for calls, too, bringing it to Pixel 9 owners (9A excluded) in the UK, Ireland, India, Australia, and Canada.\nMeanwhile, back in Google’s own messaging app, users will be able to “remix” photos with AI right inside Messages. This update extends beyond Pixels to the broader Android ecosystem, though it’s limited to English and the US, UK, Australia, Canada, India, Ireland, and New Zealand for now. Additionally, the Pixel 6 and newer will give priority to chat notifications from your Messages VIPs.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f0dfc67a9c855bcfedbf0f4bb742f273cce19380",
+      "title": "World must ‘honour 1.5C’, small island states insist at Cop30 summit – live",
+      "url": "https://www.theguardian.com/environment/live/2025/nov/11/cop30-live-negotiations-begin-after-agenda-agreed",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-11T18:57:48.000Z",
+      "summary_90w": "",
+      "raw": "The 1.5 temperature limit is not a political slogan, it’s a lifeline, the small island states say, as climate discussions continue in Belém\nIn the run-up to Cop30, the Guardian published a series of articles looking at the ten biggest polluters of greenhouse gas, and their plans to clean up. Here’s a piece my colleague Jonathan Watts wrote in September about China, which according to an analysis published today has plateaued its emissions.\nChinese power took on an old-fashioned hue in the past week with a huge military parade, a gathering of former allies Russia and North Korea, and President Xi Jinping’s defiant vow not to be intimidated by bullies.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "9d0d1216db357a8d35c3d44dbce22737b27cc1c0",
       "title": "Government to reconsider compensation for women not warned of pension age change",
@@ -11,19 +63,6 @@
       "published": "2025-11-11T18:24:52.000Z",
       "summary_90w": "",
       "raw": "Pensions Secretary Pat McFadden says that the rethink does not mean that payouts will necessarily follow.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f0dfc67a9c855bcfedbf0f4bb742f273cce19380",
-      "title": "World must ‘honour 1.5C’, small island states insist at Cop30 summit – live",
-      "url": "https://www.theguardian.com/environment/live/2025/nov/11/cop30-live-negotiations-begin-after-agenda-agreed",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-11T18:18:40.000Z",
-      "summary_90w": "",
-      "raw": "The 1.5 temperature limit is not a political slogan, it’s a lifeline, the small island states say, as climate discussions continue in Belém\nIn the run-up to Cop30, the Guardian published a series of articles looking at the ten biggest polluters of greenhouse gas, and their plans to clean up. Here’s a piece my colleague Jonathan Watts wrote in September about China, which according to an analysis published today has plateaued its emissions.\nChinese power took on an old-fashioned hue in the past week with a huge military parade, a gathering of former allies Russia and North Korea, and President Xi Jinping’s defiant vow not to be intimidated by bullies.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -666,19 +705,6 @@
       ]
     },
     {
-      "id": "77cf3aa59544ab36b57499722a88095a31e11b00",
-      "title": "The iPad Pro at 10: a decade of unrealized potential",
-      "url": "https://www.theverge.com/tech/817939/ipad-pro-laptop-computer-2025",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-11T14:05:38.000Z",
-      "summary_90w": "",
-      "raw": "The theory of the iPad has always been simple: size matters. Even in its very first public debut in 2010, the iPad was mostly just an iPhone with a larger screen, and Apple CEO Steve Jobs believed that was enough. Remember the way Jobs sat down on an easy chair to read his iPad, scrolling and panning his way through The New York Times' website? He was certain that the way you looked at the larger screen, the way you held it, the way you touched it, would all change your relationship with your device. All because it was bigger.\nWhen the iPad Pro came along five years later - it went on sale 10 years ago today - nothing much had changed. The  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "d087c5f7549449fb164d21dfd36a2dd0ea168efa",
       "title": "First-in-family uni students should be recognised as disadvantaged or risk being left behind, author of new report says",
       "url": "https://www.theguardian.com/australia-news/2025/nov/11/first-in-family-uni-students-should-be-recognised-as-disadvantaged-or-risk-being-left-behind-author-of-new-report-says",
@@ -713,19 +739,6 @@
       "published": "2025-11-11T14:00:00.000Z",
       "summary_90w": "",
       "raw": "Robyn wants to position it self as an empathetic chatbot and not as a companion or a therapy app",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0dad2b1093811c68574266be295bc99e86739467",
-      "title": "Wyze’s new scale measures segmented body composition with a retractable handle",
-      "url": "https://www.theverge.com/news/817826/wyze-smart-scale-ultra-bodyscan-segmented-body-composition-handle-electrodes",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-11T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The retractable handle doubles the number of electrodes the smart scale uses to analyze your body composition. | Image: Wyze\t\n\nWyze has announced its first smart scale that can capture body metric data for your arms, legs, and torso individually using a retractable handle. Wyze’s smart scales have traditionally been budget-friendly alternatives to offerings from competitors like Withings, whose entry-level Body Smart scale now starts at $129.95. The new Ultra BodyScan is Wyze’s most expensive smart scale at $119.98, but it offers similar functionality to the $499.95 Withings Body Scan that also features a handle.\nAvailable now through Wyze’s online store, the Ultra BodyScan offers similar functionality to the much cheaper $34 Wyze Scale X, including measuring 13 different body composition metrics like weight, body fat percentage, BMI, muscle weight, bone mass, and body water percentage. What potentially makes the upgrade to the Ultra BodyScan worth the extra $80-plus is that it uses a total of eight electrodes on the scale and its retractable handle to provide more accurate bioelectrical impedance analysis (BIA) and a breakdown of those various metrics across your legs, arms, and torso.\nWhere the Wyze Scale Ultra BodyScan trails the more expensive Withings Body Scan is with heart metrics. Both scales can measure your heart rate during a weigh-in, but Withings goes much further with that data. Its Body Scan scale provides EKG recordings that can be shared with a doctor, assessments of your cardiovascular health and your vascular age, and warnings about dangerous heart arrhythmias like A-fib if detected.\nLike the cheaper $50 Wyze Scale Ultra that debuted last November, the new Ultra BodyScan has a 4.3-inch customizable color screen that can display detailed breakdowns of data for up to eight users, including how measurements have changed over time. But the scale also has Wi-Fi and Bluetooth for sharing that data to Wyze’s mobile app, or the fitness apps from Google and Apple. Four AAA batteries will keep the scale powered for up to nine months, and like other Wyze smart scales, it has modes for weighing pets and luggage while you’re holding them.",
       "topics": [
         "Technology"
       ]
@@ -1402,19 +1415,6 @@
       "published": "2025-11-10T16:29:57.000Z",
       "summary_90w": "",
       "raw": "Carbon Direct is buying Pachama as the voluntary carbon markets enter a period of uncertainty.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0a7e9fd8c2ae683281b1ca1a31e5460c8eade026",
-      "title": "YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying",
-      "url": "https://techcrunch.com/2025/11/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-10T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "YouTubers are no longer just creators, and in some cases, their side businesses are growing faster than their channels.",
       "topics": [
         "Technology"
       ]
