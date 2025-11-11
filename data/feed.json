@@ -1,16 +1,42 @@
 {
-  "version": "1762857746714",
-  "generatedAt": "2025-11-11T10:42:26.714Z",
+  "version": "1762858557330",
+  "generatedAt": "2025-11-11T10:55:57.330Z",
   "items": [
     {
+      "id": "ccecc8769a4310c8d7ec918e6a2ca9c28fa918d8",
+      "title": "Armistice Day being marked around the world",
+      "url": "https://www.bbc.com/news/articles/cj41g5w0vgno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-11T10:43:57.000Z",
+      "summary_90w": "",
+      "raw": "The Prince and Princess of Wales are among those commemorating the end of World War One.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "f4297f29a3da3b62c168ddfef1a217b37327a48a",
-      "title": "Suicide attack outside Islamabad court kills 12, interior minister says",
+      "title": "Suicide bombing in Islamabad kills 12, says Pakistan's interior minister",
       "url": "https://www.bbc.com/news/articles/cp3x6102p3ko?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-11-11T10:37:22.000Z",
+      "published": "2025-11-11T10:43:09.000Z",
       "summary_90w": "",
-      "raw": "Pakistan's interior minister says the bomber tried to gain entry to a court complex, but was unable to get inside.",
+      "raw": "Mohsin Naqvi says the bomber tried to gain entry to a court complex, but was unable to get inside.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e313eaa5647c104764971b50b5a836634786ca10",
+      "title": "Europe marks Armistice Day under shadow of war as Russia attacks Ukraine overnight – live",
+      "url": "https://www.theguardian.com/world/live/2025/nov/11/europe-armistice-day-russia-ukraine-romania-france-live-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-11T10:38:23.000Z",
+      "summary_90w": "",
+      "raw": "Belgium, France and Poland among countries commemorating first world war as conflict rumbles on\nUkraine’s military said about 300 Russian soldiers were inside the embattled town of Pokrovsk, and that Moscow had intensified efforts to get more troops in over the past few days, using dense fog for cover, Reuters reported.\n“Their goal remains unchanged – to reach the northern borders of Pokrovsk and then attempt to encircle the agglomeration,” Ukraine’s 7th paratrooper corps said on Facebook.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -29,19 +55,6 @@
       ]
     },
     {
-      "id": "e313eaa5647c104764971b50b5a836634786ca10",
-      "title": "Europe marks Armistice Day under shadow of war as Russia attacks Ukraine overnight – live",
-      "url": "https://www.theguardian.com/world/live/2025/nov/11/europe-armistice-day-russia-ukraine-romania-france-live-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-11T10:17:57.000Z",
-      "summary_90w": "",
-      "raw": "Belgium, France and Poland among countries commemorating first world war as conflict rumbles on\nUkraine’s military said about 300 Russian soldiers were inside the embattled town of Pokrovsk, and that Moscow had intensified efforts to get more troops in over the past few days, using dense fog for cover, Reuters reported.\n“Their goal remains unchanged – to reach the northern borders of Pokrovsk and then attempt to encircle the agglomeration,” Ukraine’s 7th paratrooper corps said on Facebook.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b00153d2c4a017f4f3ee82ccef0f81c98b496367",
       "title": "Trump floats tariff 'dividends' even while plan shows major flaws",
       "url": "https://www.npr.org/2025/11/11/nx-s1-5604681/trump-tariff-dividends-flaws",
@@ -50,19 +63,6 @@
       "published": "2025-11-11T10:04:50.000Z",
       "summary_90w": "",
       "raw": "President Trump says the government will distribute checks to Americans from tariff revenue. Here's what that could mean.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ccecc8769a4310c8d7ec918e6a2ca9c28fa918d8",
-      "title": "William and Catherine to mark Armistice Day",
-      "url": "https://www.bbc.com/news/articles/cj41g5w0vgno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-11T10:02:22.000Z",
-      "summary_90w": "",
-      "raw": "The Prince and Princess of Wales will be among those commemorating the end of World War One.",
       "topics": [
         "World"
       ]
@@ -526,7 +526,7 @@
       "id": "883960ad9d20b0a8f92b64a604135158d5da8ce2",
       "title": "New 'Lucifer' bee with devil-like horns found in Australia",
       "url": "https://www.bbc.com/news/articles/c051yjv90dmo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-11T02:29:59.000Z",
       "summary_90w": "",
@@ -1030,19 +1030,6 @@
       ]
     },
     {
-      "id": "3e0bb7981e4a1c8e54e1bbc3a5a7efd6723ca1f9",
-      "title": "Canada loses its measles-free status, with US on track to follow",
-      "url": "https://www.bbc.com/news/articles/cy7e2lv4r8xo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-10T19:39:18.000Z",
-      "summary_90w": "",
-      "raw": "The country hasn't been able to curb an outbreak of more than 5,000 cases over the last year, while US cases are at a 33-year high.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a1201f468eb827e17ab69ff1140af65e23814bad",
       "title": "Google brings Gemini to the Google TV Streamer",
       "url": "https://techcrunch.com/2025/11/10/google-brings-gemini-to-the-google-tv-streamer/",
@@ -1066,6 +1053,19 @@
       "raw": "Gamma is growing quickly, and profitably, its co-founder CEO Grant Lee says.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "f48d15556489d1557ae06bb76bcce566788ec022",
+      "title": "Fight fake news and defeat climate deniers, Brazil's Lula tells UN talks",
+      "url": "https://www.bbc.com/news/articles/cn51pn74l23o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-11-10T18:53:39.000Z",
+      "summary_90w": "",
+      "raw": "The world must \"defeat\" climate denialism and fake news, Brazil's President Lula da Silva tells UN climate summit.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1121,19 +1121,6 @@
       ]
     },
     {
-      "id": "8153ef2490f17fe0e005b6fc113c7b4c63324647",
-      "title": "Former French president Sarkozy released from prison after three weeks",
-      "url": "https://www.bbc.com/news/articles/cm2eppqd2nyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-10T17:25:17.000Z",
-      "summary_90w": "",
-      "raw": "The former French president was jailed in October for conspiring to fund his election campaign with money from late Libyan dictator Muammar Gaddafi.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "9189739f1ee5c84755031cec6fb2c6d73a70f045",
       "title": "Verified videos show aftermath of explosion in Delhi",
       "url": "https://www.bbc.com/news/videos/cly2pknvjvlo?at_medium=RSS&at_campaign=rss",
@@ -1155,6 +1142,19 @@
       "published": "2025-11-10T16:49:26.000Z",
       "summary_90w": "",
       "raw": "Decision reflects wider regional doubts about terms of US-drafted plan to disarm Hamas\nPlans for a UN-mandated international stabilisation force charged with disarming Hamas inside Gaza face growing opposition after the United Arab Emirates said it would not participate because it did not yet see a clear legal framework for the force.\nIsrael has already ruled out Turkey joining the force, and King Abdullah of Jordan has said Jordanian troops will not join. Azerbaijan, once mooted as a contributor, did not attend a planning meeting in Turkey last week and said it would not contribute unless a full ceasefire was in place.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7b3b3abff1f97254f99ce4fb668de97a5eedf978",
+      "title": "99-yard return and Allen makes history in NFL's plays of the week",
+      "url": "https://www.bbc.com/sport/american-football/videos/c3vn24ggqz3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-10T16:30:26.000Z",
+      "summary_90w": "",
+      "raw": "A 99-yard touchdown return from New York Jets running back Kene Nwangwu and Keenan Allen's history-making catch for the Los Angeles Chargers top the best plays from week 10 of the NFL season.",
       "topics": [
         "World"
       ]
@@ -1355,32 +1355,6 @@
       ]
     },
     {
-      "id": "2d224bd417fd7dc318afccce153ebd8fd5aa28b1",
-      "title": "Dozens of inmates found hanged in Ecuador prison",
-      "url": "https://www.bbc.com/news/articles/c0kp220561go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-10T12:34:33.000Z",
-      "summary_90w": "",
-      "raw": "Prison guards found 27 bodies hours after another four inmates were killed in clashes between rival gangs.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6fe7ece133b565312d473073e0e4f75a86601a10",
-      "title": "Malian TikToker killed by suspected jihadists after pro-army posts",
-      "url": "https://www.bbc.com/news/articles/cnvep8ppyr6o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-10T10:52:38.000Z",
-      "summary_90w": "",
-      "raw": "Mariam Cissé, said to be in her 20s, was accused of providing information to the army.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "811a3cebbd03387a483cdb9a404aa8347fa2b3e8",
       "title": "Netherlands presses on with plan to ban imports from illegal Israeli settlements",
       "url": "https://www.theguardian.com/world/2025/nov/10/netherlands-ban-imports-israeli-settlements-palestine-sanctions",
@@ -1389,19 +1363,6 @@
       "published": "2025-11-10T10:31:08.000Z",
       "summary_90w": "",
       "raw": "Move follows rising Israeli violence against Palestinians and freeze on broader sanctions last month\n\nEurope live – latest updates\n\nThe Netherlands is still working on legislation to bar imports from illegal settlements in occupied Palestine, even though it has paused a push for broader sanctions on Israel after last month’s ceasefire deal in Gaza, the foreign minister has said during a visit to the region.\nThe partial ban was a response to settlement expansion and spiralling Israeli violence against Palestinians that threatened the viability of the two-state solution, David van Weel said after visiting an area in the West Bank that had been targeted by settlers.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "16028a80e3dd38222a493033db5975150c046b4b",
-      "title": "Iran faces unprecedented drought as water crisis hits Tehran",
-      "url": "https://www.bbc.com/news/articles/cy4p2yzmem0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-10T08:23:49.000Z",
-      "summary_90w": "",
-      "raw": "The government is pleading with Iranians to save water as reservoirs dry up and rainfall is at a record low.",
       "topics": [
         "World"
       ]
@@ -1537,19 +1498,6 @@
       ]
     },
     {
-      "id": "ce8a8d63d4a456e0ae2e6a46a3e0d55139f3c0c6",
-      "title": "The president blamed for shattering Tanzania's aura of stability",
-      "url": "https://www.bbc.com/news/articles/c2kp9yev5e5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-09T09:17:13.000Z",
-      "summary_90w": "",
-      "raw": "The manner of Samia Suluhu Hassan's re-election has earned the country a rare rebuke from the African Union.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "84078c61494eef3849fd726d8c3c990a59b3b7ef",
       "title": "Back from the brink: UK red kites aid Spanish cousins",
       "url": "https://www.bbc.com/news/articles/crrez8x7l55o?at_medium=RSS&at_campaign=rss",
@@ -1571,6 +1519,19 @@
       "published": "2025-11-08T16:14:42.000Z",
       "summary_90w": "",
       "raw": "On the surface, the Hungarian PM's trip was exactly what he wanted, but the full picture is more complex, writes the BBC's Nick Thorpe.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b5922e767f62d634afc34919dafdbf37a804eba4",
+      "title": "Watch: Drone footage shows town destroyed by deadly Brazil tornado",
+      "url": "https://www.bbc.com/news/videos/cz0xee1ex1ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-11-08T15:09:39.000Z",
+      "summary_90w": "",
+      "raw": "At least six people were killed and 437 injured in the twister, authorities said.",
       "topics": [
         "World"
       ]
@@ -1784,19 +1745,6 @@
       ]
     },
     {
-      "id": "c2902158f08eca45e55bc0f93da40012f337fcf5",
-      "title": "How a Brazilian woman became the face of India vote fraud row",
-      "url": "https://www.bbc.com/news/articles/crmx89jkgw7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-07T10:32:07.000Z",
-      "summary_90w": "",
-      "raw": "Congress MP Rahul Gandhi alleges that Larissa Nery's photo appeared on the voters' list in Haryana 22 times.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "2aa1bca08979aca8c9164360b6714a14a0ca4ca3",
       "title": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
       "url": "https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss",
@@ -1849,19 +1797,6 @@
       ]
     },
     {
-      "id": "4103a2f1aa5dc5e806f32496e3e93b634c570fbd",
-      "title": "The battle over Gaza's future: Why no-one can agree on the rebuild",
-      "url": "https://www.bbc.com/news/articles/cj41y42qxq8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-07T06:01:57.000Z",
-      "summary_90w": "",
-      "raw": "From AI-powered super cities to designs that capture its 'soul and spirit', plans have already been draw up - but political obstacles remain",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "aabf6e32b759841b2ec00680ac44494e1640a7db",
       "title": "Texas sues Roblox for 'putting paedophiles and profits' over safety",
       "url": "https://www.bbc.com/news/articles/cy0kd4kk0kqo?at_medium=RSS&at_campaign=rss",
@@ -1872,45 +1807,6 @@
       "raw": "Roblox said it is \"disappointed\" that it is being sued based on \"misrepresentations and sensationalised claims\".",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "6b3d13a486b4b9b14b095b2e3cd43295bf7753f6",
-      "title": "Buoyed by election wins, Democrats still face tough choices to regain power",
-      "url": "https://www.bbc.com/news/articles/cvgk8rr8e20o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-07T02:42:36.000Z",
-      "summary_90w": "",
-      "raw": "A year after a painful election defeat, the Democratic Party stands at a fork in the road.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "dfbb249946eebc2c24c337fef9c87bbf7bede6fe",
-      "title": "Viktor Orban's dilemma - Russian oil or Trump's favour",
-      "url": "https://www.bbc.com/news/articles/c5ypl16pp81o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-07T01:38:21.000Z",
-      "summary_90w": "",
-      "raw": "Trump's closest ally in Europe will head to Washington in the midst of a disagreement over Russian oil.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3bf1fa347b07de454b5dcc6e3ec0daf47c033485",
-      "title": "'Our job is only killing' - how Sudan's brutal militia carried out a massacre",
-      "url": "https://www.bbc.com/news/articles/c8dr5e30m5ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-07T00:30:58.000Z",
-      "summary_90w": "",
-      "raw": "BBC Verify tracks how the RSF killed unarmed people in a massacre that humanitarian officials believe left 2,000 dead.",
-      "topics": [
-        "World"
       ]
     },
     {
