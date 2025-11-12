@@ -1,7 +1,33 @@
 {
-  "version": "1762975825428",
-  "generatedAt": "2025-11-12T19:30:25.428Z",
+  "version": "1762976391172",
+  "generatedAt": "2025-11-12T19:39:51.172Z",
   "items": [
+    {
+      "id": "0c40e766ea6a231d496c43347e1dbe6940ff7e83",
+      "title": "Australia news live: aurora lights up night sky after solar storm; Liberals to reveal energy policy",
+      "url": "https://www.theguardian.com/australia-news/live/2025/nov/13/australia-news-live-liberals-energy-policy-dan-tehan-sussan-ley-net-zero-emissions-climate-change-labor-anthony-albanese-aurora-australis-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-12T19:30:02.000Z",
+      "summary_90w": "",
+      "raw": "Shadow cabinet will hear the proposals at 9am before Sussan Ley makes a public announcement. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nGood morning and welcome to our live news blog. I’m Martin Farrer, setting the scene for the day, and then it will be Nick Visser to guide you though the day.\nWe’re expecting to hear Sussan Ley announce whether or not the Liberal party is going to keep its net zero commitment or follow the Nationals in ditching the policy. After yesterday’s marathon five-hour party room meeting, the shadow cabinet will hear the verdict from Dan Tehan at 9am and then we expect to hear from the leader in public by midday. More coming up.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c9f55217523c9140cf2d3b2d64821b4b544d1b67",
+      "title": "Israeli settlers attack villages in West Bank as violent incidents increase",
+      "url": "https://www.theguardian.com/world/2025/nov/12/israeli-settlers-new-attack-violence-west-bank-palestinians",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-12T19:26:00.000Z",
+      "summary_90w": "",
+      "raw": "President condemns ‘shocking’ incident in rare comment after four Palestinians injured and Israeli soldiers attacked\nDozens of masked Israeli settlers attacked Palestinian villages in the occupied West Bank on Tuesday, injuring four Palestinians and attacking Israeli soldiers in the latest incident of rising settler violence.\nThe settlers attacked the Palestinian villages of Beit Lid and Deir Sharaf, setting vehicles on fire and damaging property belonging to a Bedouin community, with charred remains of cars left behind the next day.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "15e552732483fbe1d1e21cb670ac66d56dac7823",
       "title": "Valve thinks Arm has ‘potential’ for SteamOS handhelds, laptops, and more",
@@ -34,22 +60,9 @@
       "url": "https://www.theguardian.com/environment/live/2025/nov/12/cop30-live-talks-us-protests-belem-brazil",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-11-12T19:13:59.000Z",
+      "published": "2025-11-12T19:16:50.000Z",
       "summary_90w": "",
       "raw": "Former US vice-president also critical of Donald Trump and Bill Gates as negotiations begin in earnest\nHello comrades, this is Nina Lakhani in chilly New York City taking over the blog for the next few hours. Thanks very much to my colleague Matt Taylor in London Town who will be back in the hot seat on Friday morning.\nLeading climate activists and influencers have signed a letter criticising PR firm Edelman over its role at the Cop30 summit in Brazil.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "331a0d6a5a3c4c26d1e377bbb87c15e6d978046f",
-      "title": "'Friendly competition' - could Rogers keep Bellingham out of England team?",
-      "url": "https://www.bbc.com/sport/football/articles/c30vy02v7d8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-12T19:01:55.000Z",
-      "summary_90w": "",
-      "raw": "Lifelong friends Jude Bellingham and Morgan Rogers are set to compete for England's number 10 shirt at the World Cup - who will prevail?",
       "topics": [
         "World"
       ]
@@ -91,6 +104,19 @@
       "raw": "You can think of the just-announced Steam Frame as a wireless VR headset for your PC, or a Steam Deck for your face. But another way to think about it is that Valve is finally entering the mobile realm. The Frame doesn’t just run Windows games on its Arm-based Qualcomm Snapdragon chip — Valve will now support and encourage developers to bring their Android apps to Steam as well.\nIt’ll try to make some of them first-class citizens, too, Valve engineer Jeremy Selan tells The Verge. “From the user’s perspective, our preference is that they don’t even have to think about it, they just have their titles on Steam, they download them and hit play.” \nValve says the Steam Frame can use the same Android APKs developers already use to bring their apps to phones and Android-based VR headsets such as the Meta Quest — and it’s launching a Steam Frame developer kit program to help put the hardware in developers’ hands.\nIt sounds like Valve is specifically hoping to attract some of those Meta VR game developers, rather than just any kind of Android app you might find on a tablet or phone. “They’re really VR developers who want to publish their VR content, and they’re porting a mobile VR title where they’re already familiar with how to make those APKs,” says Selan. “They are now free to bring those to Steam, and they’ll just work on this device.”\nIn terms of performance, Selan suggests it should be excellent because the code is running natively. While Valve’s SteamOS is not Android and needs to use its Proton compatibility layer to make apps feel at home, the Arm code will run on an Arm processor without needing translation first.\nGot any burning questions about Valve’s new hardware?\nWe’re holding a subscriber-exclusive AMA today, November 12th, at 3PM ET. Drop your questions here and we’ll do our best to answer them.\nWhen I ask about Android apps beyond games — and mention how I’d really like to see things like Discord voice chat in Steam, not just Wallpaper Engine — Valve seems a little less sure. “We’ve never disinvited people from doing that,” says Valve’s Lawrence Yang. “We are a games company and we are focused on games, but like you said, there are a lot of things on Steam that are tools, software like Blender for instance.”\n\n \n @verge \nValve is bringing headsets back, and not just for VR! This is the Steam Frame, and it one-ups Meta Quest by playing flat Windows games on its Arm chip too. Kind of like a Steam Deck for your face that gives you a private virtual room! For VR lovers, it cuts the cord and bypasses your busy Wi-Fi with a direct 6GHz link to your PC. Price, local performance, battery all still TBD, though! #steam #valve #steamframe #headset #vr \n ♬ original sound – The Verge \n  \n\n\nSelan chimes in, “We don’t have it quite working to show you today, but our intention is to have rich browser integration, so at any point you’ll be able to bring up a browser, have floating windows, all of the multitasking environments you’d expect, so you could certainly go to any website and have those apps present.”\n“I know there’s a difference between that and what you asked, but we expect that will bridge a lot of that gap.” \nWill there be a way to quickly launch those web apps from Steam, and let users turn them into buttons, perhaps? “That’s our hope. I don’t want to promise that for launch, but that’s our hope,” Selan says.\nValve likes to build for the long haul, and I would be surprised if its plans begin and end at Android-based VR games for the Steam Frame. I think this is more likely the tip of the iceberg. For one thing, it’s looking like Google will soon be forced to open up Android to alternative app stores, so Steam might soon be able to easily sell games on phones just like its rival Epic has been trying to do.\nIn the meanwhile, Gamers Nexus reports that you’ll also be able to sideload Android APKs onto the Steam Frame, too.\nBut Valve’s Pierre-Loup Griffais also hints that there’s potential in bringing SteamOS to other devices with Arm chips, at least someday. He tells me he thinks the Steam Frame paves the way for SteamOS to work on “a wider variety of Arm devices,” including laptops, and that Arm obviously has “a lot of potential” in future handhelds.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "d205b761b2105641f1455b88e08e2c6f857b0bcf",
+      "title": "Heineken UK cuts Foster's alcohol strength to 3.4%",
+      "url": "https://www.bbc.com/news/articles/c4gzw99w17go?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-12T18:48:08.000Z",
+      "summary_90w": "",
+      "raw": "The brewer said the change could lead to cheaper pints.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -260,6 +286,19 @@
       "raw": "The new controller at Valve’s HQ.\t\n\nOne of the best parts of the Steam Deck is its many different controls, and how you can customize them to let you do whatever you want with every single one of your games. Now, Valve is bringing that same level of flexibility into a new gamepad. I recently got to try it at Valve's headquarters, and it feels like the controller I've always wanted.\nToday, Valve announced the second-generation Steam Controller. It's a Bluetooth controller that works with any device that runs Steam, including Valve's new Steam Machine PC and Steam Frame VR headset, and comes with a puck that serves as a low-latency wireless connector and doubles as a charging s …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "67eaab5fb65b0eadbb5393919cc0a02e41fee3b3",
+      "title": "SSE to invest £33bn in upgrading Scotland's electricity grid",
+      "url": "https://www.bbc.com/news/articles/cr7mk5np141o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-12T17:53:02.000Z",
+      "summary_90w": "",
+      "raw": "The company plans to spend two-thirds of that to upgrade wiring and increase high-voltage grid capacity to get power from the north to customers in the south.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -835,19 +874,6 @@
       ]
     },
     {
-      "id": "ddfd78e979d010313b74c8ad4ee4cc53ff11a017",
-      "title": "Former defender Edwards' return to Wolves - a gamble all round?",
-      "url": "https://www.bbc.com/sport/football/articles/c79745l95x2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-12T14:00:42.000Z",
-      "summary_90w": "",
-      "raw": "Wolves finally have their man. But how big a gamble have the Premier League side made in appointing Rob Edwards?",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b8f82e32636b99dabecce29bd3cf927d0e02f075",
       "title": "Colombian military bombs suspected rebel camp, killing 19 ",
       "url": "https://www.bbc.com/news/articles/c0jdyx6505do?at_medium=RSS&at_campaign=rss",
@@ -1186,14 +1212,14 @@
       ]
     },
     {
-      "id": "37a5c28bb1f4f628e46f1a4c760cccba06769292",
-      "title": "Here's how many strikes on alleged drug vessels the U.S. has announced",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5604895/trump-venezuela-drug-boat-strikes",
+      "id": "356310d5ae4994ebdcc668b19b76b8e8b22d0621",
+      "title": "Once upon a time, nostalgia was epidemic among homesick soldiers",
+      "url": "https://www.npr.org/2025/11/12/nx-s1-5599179/nostalgia-origin-etymology-homesickness-swiss-soldiers",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-11-12T10:00:00.000Z",
       "summary_90w": "",
-      "raw": "Since September, the Trump administration has carried out more than a dozen strikes on boats it claims are run by drug traffickers, killing more than 70 people.",
+      "raw": "The word began as a medical diagnosis but over the centuries has evolved to mean the longing for a bygone, idealized past.",
       "topics": [
         "World"
       ]
@@ -1246,19 +1272,6 @@
       "published": "2025-11-12T08:57:01.000Z",
       "summary_90w": "",
       "raw": "The US president indicates he will go ahead with a lawsuit against the BBC over how his speech was presented by Panorama.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a14659b44edc7804198bd1ebcbb79d926d0e9635",
-      "title": "Climate-sceptic IPA refuses to reveal funders in fiery Senate inquiry",
-      "url": "https://www.theguardian.com/australia-news/2025/nov/12/climate-sceptic-ipa-refuses-to-reveal-funders-in-fiery-senate-inquiry",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-12T08:02:48.000Z",
-      "summary_90w": "",
-      "raw": "Australia’s richest person, Gina Rinehart has previously donated to Institute of Public Affairs but thinktank won’t say if she remains a donor\n\nGet our breaking news email, free app or daily news podcast\n\nA thinktank known for its rejection of the climate crisis and a conservation group that has opposed renewable energy projects refused to identify their funders during a fiery Senate inquiry into climate and energy misinformation on Wednesday.\nChair of the committee, Greens senator Peter Whish-Wilson, asked Rainforest Reserves Australia’s vice-president, Steven Nowakowski, who had funded nine full-page newspaper advertisements promoting an open letter attacking a shift to renewable energy and promoting nuclear.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1716,19 +1729,6 @@
       "raw": "In an extraordinary move, the Dutch government seized control of Nexperia, triggering anger in Beijing.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "9caa26bd38dff552821c4d175c53cafab8255d29",
-      "title": "US declares partial suspension of sanctions on Syria after historic meeting",
-      "url": "https://www.theguardian.com/world/2025/nov/10/us-declares-partial-suspension-of-sanctions-on-syria-after-historic-meeting",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-10T23:55:08.000Z",
-      "summary_90w": "",
-      "raw": "Ahmed al-Sharaa and Donald Trump hold first White House summit between a US and Syrian leader since 1946\nThe US has announced a partial suspension of sanctions on Syria after a historic meeting in Washington DC between its new leader, Ahmed al-Sharaa, and Donald Trump.\nMonday’s meeting was the first summit between a US and Syrian leader at the White House since 1946. The meeting is part of a remarkable turnaround in US-Syrian relations after the fall of Bashar al-Assad, who had prosecuted a deadly civil war in the country from 2011 until his forces collapsed in December 2024.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
