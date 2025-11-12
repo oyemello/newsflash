@@ -1,7 +1,46 @@
 {
-  "version": "1762974835786",
-  "generatedAt": "2025-11-12T19:13:55.786Z",
+  "version": "1762975825428",
+  "generatedAt": "2025-11-12T19:30:25.428Z",
   "items": [
+    {
+      "id": "15e552732483fbe1d1e21cb670ac66d56dac7823",
+      "title": "Valve thinks Arm has ‘potential’ for SteamOS handhelds, laptops, and more",
+      "url": "https://www.theverge.com/news/818698/valve-steamos-arm-potential-handhelds-laptops",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-12T19:20:00.000Z",
+      "summary_90w": "",
+      "raw": "A Steam Frame with a transparent case.\t\n\nValve won’t talk about a Steam Deck 2. It probably wants to keep the attention on its just-announced living room console, comfy new controller, and Arm-based headset instead. But now that the company is preparing to sell an Arm headset, one that can even run Android apps, there’s an obvious question. Is Arm a one-off experiment for Valve, or might it power future SteamOS hardware?\nValve software engineer Pierre-Loup Griffais makes it sound like the sky’s the limit. I don’t want to oversell what he said — he was excited about the potential, not any specific devices, and you’ll see that in more context when we publish the interview later this week.\nBut when I ask whether he thinks there’ll be other SteamOS devices with Arm chips, he says the answer is yes, and that he’s excited about it.\n“I think that it paves the way for a bunch of different, maybe ultraportables, maybe more powerful laptops being Arm-based,” he begins. “Handhelds, there’s a lot of potential for Arm, of course, and one might see desktop chips as well at some point in the Arm world.” I immediately think about how Nvidia reportedly has an Arm-powered gaming laptop coming, and how Razer showed up at Qualcomm’s last coming-out party for laptop chips.\n“We’ll keep greasing the wheels, so to speak, so that SteamOS can work on a wider variety of Arm devices, but also so that the catalog becomes more reliable there in terms of compatibility and performance,” says Griffais.\nGot any burning questions about Valve’s new hardware?\nWe’re holding a subscriber-exclusive AMA today, November 12th, at 3PM ET. Drop your questions here and we’ll do our best to answer them.\nGriffais tells me that companies are already reaching out to Valve about handhelds, and I happen to know that one of them, OneNetbook, has recently been experimenting with (and selling) powerful handheld-grade Arm chips, too.\nBut again, Valve isn’t talking about the Steam Deck 2 today, and I get the sense that Griffais may not see enough power in Arm handheld chips just yet — at least not for a “generational leap in compute without sacrificing battery life” like Valve promised for the Steam Deck’s successor. \n“When you get into lower power, anything lower than Steam Deck, I think you’ll find that there’s an Arm chip that maybe is competitive with x86 offerings in that segment,” he tells me earlier in our conversation.\nI like to imagine Griffais was winking when he said “anything lower than Steam Deck,” but his camera was off.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "862925773d20f84c013654cef096e70cc9bbf56f",
+      "title": "Court rules that OpenAI violated German copyright law; ordered it to pay damages",
+      "url": "https://techcrunch.com/2025/11/12/court-rules-that-openai-violated-german-copyright-law-ordered-it-to-pay-damages/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-12T19:18:59.000Z",
+      "summary_90w": "",
+      "raw": "A German court ruled that OpenAI’s ChatGPT violated the nation’s copyright laws by training its language models on licensed musical work without permission.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f4182059c7e20a89f215cda155f75b8068c689ac",
+      "title": "Cop30 live: ‘literally insane’ that we are letting global heating happen, says Al Gore",
+      "url": "https://www.theguardian.com/environment/live/2025/nov/12/cop30-live-talks-us-protests-belem-brazil",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-12T19:13:59.000Z",
+      "summary_90w": "",
+      "raw": "Former US vice-president also critical of Donald Trump and Bill Gates as negotiations begin in earnest\nHello comrades, this is Nina Lakhani in chilly New York City taking over the blog for the next few hours. Thanks very much to my colleague Matt Taylor in London Town who will be back in the hot seat on Friday morning.\nLeading climate activists and influencers have signed a letter criticising PR firm Edelman over its role at the Cop30 summit in Brazil.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "331a0d6a5a3c4c26d1e377bbb87c15e6d978046f",
       "title": "'Friendly competition' - could Rogers keep Bellingham out of England team?",
@@ -94,19 +133,6 @@
       ]
     },
     {
-      "id": "f4182059c7e20a89f215cda155f75b8068c689ac",
-      "title": "Cop30 live: ‘literally insane’ that we are letting global heating happen, says Al Gore",
-      "url": "https://www.theguardian.com/environment/live/2025/nov/12/cop30-live-talks-us-protests-belem-brazil",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-12T18:36:42.000Z",
-      "summary_90w": "",
-      "raw": "Former US vice-president also critical of Donald Trump and Bill Gates as negotiations begin in earnest\nHello comrades, this is Nina Lakhani in chilly New York City taking over the blog for the next few hours. Thanks very much to my colleague Matt Taylor in London Town who will be back in the hot seat on Friday morning.\nLeading climate activists and influencers have signed a letter criticising PR firm Edelman over its role at the Cop30 summit in Brazil.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "6a7fbbf3797a3b4a6fc6027d7646256d4198979b",
       "title": "Youth detention guard 'possibly most prolific sex offender in British history'",
       "url": "https://www.bbc.com/news/articles/cdegpepg6n7o?at_medium=RSS&at_campaign=rss",
@@ -193,19 +219,6 @@
       "published": "2025-11-12T18:00:00.000Z",
       "summary_90w": "",
       "raw": "The Steam Machine.\t\n\nValve is about to challenge the Xbox and PlayStation on their home turf. Ten years to the month after Valve's original Steam Machines went on sale, the company is announcing… the Steam Machine. \nI flew to Valve's headquarters to try the company's new PC-based game console, alongside a brand-new Steam Controller and the new Steam Frame gaming headset. It's the culmination of Valve's hardware and software efforts over the last decade, and it looks a lot like the leaks that have been coming out over the past year.\nHere's what the new Steam Machine is all about.\nThe promise\nShipping early 2026 in every region where the Steam Deck is sold tod …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "c936805e22e50162a85b31c1f8e5d4373ee31669",
-      "title": "Steam Machines have returned: all the news about Valve’s new hardware universe",
-      "url": "https://www.theverge.com/games/819080/valve-brings-back-steam-machines-steam-os-steam-frame-news-announcements",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-12T18:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Steam Frame, Steam Machine, Steam Deck, and Steam Controller. | Image: Valve\t\n\nIn 2012, The Verge broke the news that Valve was making a game console. Gabe Newell himself dished on the company’s grand plans. By 2015, the “Steam Machines” had utterly flopped. But Valve never stopped quietly working on the idea. The Steam Deck handheld became the seed for a grand reboot of Valve’s console and headset ambitions. And now, Steam Machines are back.\n\n \n @verge \nHello from Valve headquarters! We just saw the Steam Machine, the PC game console that’s not much bigger than a box of Kleenex. It’s coming alongside the sequel to the Steam Controller, the most customizable gamepad ever made. It’s like a Steam Deck for your TV with far more performance — enough to replace an Xbox or PlayStation in your living room, perhaps? But might be priced more like a PC… #valve #steammachine #steamcontroller #gaming #gametok \n ♬ original sound – The Verge – The Verge \n  \n\n\nThe new Steam Machine is for your TV, the Steam Controller is for your hands, and the Steam Frame is for your face— and they might just be the start. The company hinted there might be more SteamOS hardware later on.\nWe’re tracking Valve’s rebooted hardware plans in this Verge StoryStream. And if you want to know how we got here, it also contains our original Steam Machine coverage — going back over a decade.\n\n\n\t\t\t\t\t\nValve is welcoming Android games into Steam\n\t\t\t\nValve has no news about Steam Deck 2\n\t\t\t\nValve enters the console wars\n\t\t\t\nOur first look at the Steam Machine, Valve’s ambitious new game console\n\t\t\t\nThe Steam Frame is a surprising new twist on VR\n\t\t\t\nValve’s new Steam Controller might be my dream controller\n\t\t\t\nHere’s the secret Steam Machine that Valve probably used to test headsets.\n\t\t\t\nValve’s master plan for Steam Machines is finally coming into focus\n\t\t\t\nIn case you missed it, the Dreamcast-shaped EmuDeck Machine is dead.\n\t\t\t\nRemember Steam Machines? EmuDeck founder revisits Valve’s TV console idea\n\t\t\t\nWait, wait… HDMI and DisplayPort could’ve been a single port THIS WHOLE TIME?\n\t\t\t\nFarewell to the Steam Link, the best wireless HDMI gadget ever made (update: it’s $2.50)\n\t\t\t\nGaming performance on Valve’s SteamOS can’t keep up with Windows\n\t\t\t\nValve’s first Steam Machines and controller have been officially released\n\t\t\t\nAlienware’s Alpha console will bring Steam to your living room this November\n\t\t\t\nValve delays Steam Machines and controller until 2015\n\t\t\t\nValve shows off updated Steam Controller design\n\t\t\t\nValve posts entirety of Steam Dev Days to YouTube, explaining its console and VR strategy\n\t\t\t\nSteam In-Home Streaming lets you play away from your PC\n\t\t\t\nSteam Controller ditches the touchscreen for better backwards compatibility\n\t\t\t\nAlienware’s Steam Machine will arrive in September\n\t\t\t\nSteamOS now supports Intel and AMD graphics\n\t\t\t\nValve reportedly about to release a standard interface for virtual reality controllers\n\t\t\t\nValve announces 13 Steam Machine partners, including Alienware\n\t\t\t\nCyberPowerPC Steam Machine will compete with consoles at $499\n\t\t\t\nDigital Storm details its first Steam Machine: a hybrid Windows and SteamOS combo for $1,899\n\t\t\t\nValve reportedly has 12 Steam Machine partners\n\t\t\t\nYou can download SteamOS right now\n\t\t\t\nSteamOS will be available to download on December 13th\n\t\t\t\nDigital Storm’s first Steam Machine will be a $1,469 gaming PC\n\t\t\t\nPiixl Jetpack straps a SteamOS PC to the back of your TV\n\t\t\t\niBuyPower’s Steam Machine offers PC specs for the price of a new Xbox\n\t\t\t\nValve says it wouldn’t make ‘Half-Life 3’ a SteamOS exclusive\n\t\t\t\nWe play with the Steam Machine, Valve’s game console of the future\n\t\t\t\nJohn Carmack says odds of Steam Machines being successful are ‘a little bit dicey’\n\t\t\t\nValve demonstrates how its Steam Controller works with your favorite PC games\n\t\t\t\nHere’s what’s inside Valve’s first Steam Machine prototypes\n\t\t\t\nValve’s Steam Box won’t challenge consoles, says ‘Borderlands’ studio boss\n\t\t\t\nValve unveils the Steam Controller\n\t\t\t\nValve announces Steam Machines, the Steam Box hardware beta\n\t\t\t\nSteamOS: could Valve’s game console challenge Windows?\n\t\t\t\nValve announces SteamOS, a living-room operating system for games\n\t\t\t\nValve’s Steam Box teased for Monday reveal on official countdown page\n\t\t\t\nValve’s Steam Box could be revealed next week\n\t\t\t\nXi3 opens $999.99 pre-orders for Piston gaming ‘console PC’ (update 2)\n\t\t\t\nValve will hand out Steam Box prototypes ‘in the next three to four months’\n\t\t\t\nValve’s Gabe Newell addresses layoffs: ‘We aren’t canceling any projects’\n\t\t\t\nValve reportedly fires more employees as part of ‘great cleansing’\n\t\t\t\nValve fires Jeri Ellsworth, who was developing Steam Box game controllers\n\t\t\t\nHow Valve’s Steam Box will reinvent the game console as you know it\n\t\t\t\nGabe Newell says Apple is the Steam Box’s biggest threat\n\t\t\t\n‘Steam was broken’ without a route to the living room, says Valve’s Greg Coomer\n\t\t\t\nValve confirms it’s building a Linux-based Steam Box that will act as a local gaming server for all your screens\n\t\t\t\nExclusive interview: Valve’s Gabe Newell on Steam Box, biometrics, and the future of gaming\n\t\t\t\nValve’s Steam Box gets big push at CES as Gabe Newell meets with major hardware partners\n\t\t\t\nGabe Newell says Valve will release its own console-like PC for the living room\n\t\t\t\nConnect the dots: Valve’s Big Picture could be a Linux game console\n\t\t\t\nValve says it’s jumping into the computer hardware business\n\t\t\t\nValve hiring an engineer to help with ‘hardware design’ in its R&D labs\n\t\t\t\nValve: we won’t be releasing a Steam Box console in the immediate future",
       "topics": [
         "Technology"
       ]
@@ -1160,32 +1173,6 @@
       ]
     },
     {
-      "id": "3ad2d8b13c8ef347c0413edceae4b9a71095d221",
-      "title": "Adelita Grijalva is set to be sworn in, teeing up a potential vote on Epstein files",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5606350/adelita-grijalva-swearing-in",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-11-12T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Arizona Democrat won her race in September, but Speaker Mike Johnson has waited to swear her in until today. Grijalva has vowed to be the decisive signature in a bid to release the Epstein files.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b806999c728b82aae1e4f38ec6ecd605ba7a33f9",
-      "title": "Figma bets on India to expand beyond design",
-      "url": "https://techcrunch.com/2025/11/12/figma-bets-on-india-to-expand-beyond-design/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-12T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Figma has opened a new office in Bengaluru as part of a push to deepen its India ties and appeal to more developers.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "b61137f4fdb6267d15a80982f21f96026d6b1619",
       "title": "Google launches a lawsuit targeting text message scammers",
       "url": "https://www.npr.org/2025/11/12/nx-s1-5604857/google-lawsuit-phishing-text-message-scammers",
@@ -1196,6 +1183,19 @@
       "raw": "Ever gotten a text saying you forgot to pay a nonexistent road toll or need to pick up a mystery package? Google's going after the scammers behind those messages.",
       "topics": [
         "Business"
+      ]
+    },
+    {
+      "id": "37a5c28bb1f4f628e46f1a4c760cccba06769292",
+      "title": "Here's how many strikes on alleged drug vessels the U.S. has announced",
+      "url": "https://www.npr.org/2025/11/12/nx-s1-5604895/trump-venezuela-drug-boat-strikes",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-11-12T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Since September, the Trump administration has carried out more than a dozen strikes on boats it claims are run by drug traffickers, killing more than 70 people.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1213,9 +1213,9 @@
     },
     {
       "id": "453f03e5ff9dbcf38e598cbc3e5e11cf2f7de4d0",
-      "title": "From YouTube team to the Prem: Ndiaye's unusual run to the top ",
+      "title": "From YouTube team to the Premier League: Ndiaye's unusual run to the top",
       "url": "https://www.bbc.com/news/articles/cp3x6ndzdkvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-12T09:17:27.000Z",
       "summary_90w": "",
@@ -1226,9 +1226,9 @@
     },
     {
       "id": "453f03e5ff9dbcf38e598cbc3e5e11cf2f7de4d0",
-      "title": "From YouTube team to the Premier League: Ndiaye's unusual run to the top",
+      "title": "His football skills were showcased on Youtube. Now he plays in the Premier League",
       "url": "https://www.bbc.com/news/articles/cp3x6ndzdkvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-11-12T09:17:27.000Z",
       "summary_90w": "",
