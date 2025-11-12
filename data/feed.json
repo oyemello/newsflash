@@ -1,7 +1,59 @@
 {
-  "version": "1762973996785",
-  "generatedAt": "2025-11-12T18:59:56.785Z",
+  "version": "1762974835786",
+  "generatedAt": "2025-11-12T19:13:55.786Z",
   "items": [
+    {
+      "id": "331a0d6a5a3c4c26d1e377bbb87c15e6d978046f",
+      "title": "'Friendly competition' - could Rogers keep Bellingham out of England team?",
+      "url": "https://www.bbc.com/sport/football/articles/c30vy02v7d8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-12T19:01:55.000Z",
+      "summary_90w": "",
+      "raw": "Lifelong friends Jude Bellingham and Morgan Rogers are set to compete for England's number 10 shirt at the World Cup - who will prevail?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "06d3e1f8501dc2a2224bbda1795230872940c574",
+      "title": "Real estate agents face $110,000 fine for underquoting under new laws in NSW",
+      "url": "https://www.theguardian.com/australia-news/2025/nov/12/nsw-underquoting-laws-real-estate-agents-face-110000-fine",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-12T19:00:03.000Z",
+      "summary_90w": "",
+      "raw": "Labor is consulting with the property sector as it drafts legislation to stamp out misleading price estimates\n\nGet our breaking news email, free app or daily news podcast\n\nReal estate agents in New South Wales could be fined $110,000 or more if caught underquoting properties under proposed new laws intended to stamp out misleading price estimates and increase transparency for buyers.\nThe Minns Labor government has started consultation with the property sector as it prepares to draft legislation to enact tougher underquoting laws, which it expects to introduce to parliament next year.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "efeed8926ca18f7b9ad6033137c9900b2921e434",
+      "title": "OpenAI says the brand-new GPT-5.1 is &#8216;warmer&#8217; and has more &#8216;personality&#8217; options",
+      "url": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-12T19:00:00.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI is releasing GPT-5.1 today, an update to the flagship model it released in August. OpenAI calls it an “upgrade” to GPT-5 that “makes ChatGPT smarter and more enjoyable to talk to.” \nThe new models include GPT-5.1 Instant and GPT-5.1 Thinking. The former is “warmer, more intelligent, and better at following your instructions” than its predecessor, per an OpenAI release, and the latter is “now easier to understand and faster on simple tasks, and more persistent on complex ones.” Queries will, in most cases, be auto-matched to the models that may best be able to answer them. The two new models will start rolling out to ChatGPT users this week, and the old GPT-5 models will be available for three months in ChatGPT’s legacy models dropdown menu before they disappear. \nAs part of the update, OpenAI also said it would expand its personality presets for the conversational tone of the models. The total list of options now includes Default, Professional, Friendly, Candid, Quirky, Efficient, Nerdy, and Cynical, per the company’s blog post. OpenAI also said in a release that it would also debut an “experiment for new ways to fine-tune ChatGPT’s style directly from settings,” which some users will begin to be able to access this week. \n“With more than 800 million people using ChatGPT, we’re well past the point of one-size-fits-all,” Fidji Simo, the company’s CEO of Applications, wrote in a Wednesday Substack post.\nWhile OpenAI CEO Sam Altman hyped up the announce of GPT-5 in August, the release failed the hype test. Many ChatGPT users were left unimpressed, particularly at the incremental improvements, and expressed frustration over OpenAI’s choice to make it the default model for ChatGPT. There was so much pressure that OpenAI decided it would bring back GPT-4o as an option, a day after the launch of GPT-5.\nMicrosoft, OpenAI’s strategic AI partner, has also increasingly been looking at rival models from Anthropic after GPT-5 failed to raise the bar enough. Anthropic’s models are now helping power Copilot Researcher, GitHub Copilot, Copilot Studio, and a new Office Agent that is able to produce Word and PowerPoint documents from Microsoft’s own Copilot chat interface.\nThe announcement of GPT-5.1 comes just weeks after OpenAI launched its AI-powered web browser, ChatGPT Atlas. It has an “agent mode” that’s currently only available to ChatGPT Plus and Pro users, and it works much like the company’s Operator tool to take actions in the browser on behalf of users.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f04bdcfd704f74c330afc5e00ea90d8493ad0f43",
+      "title": "Valve is welcoming Android games into Steam",
+      "url": "https://www.theverge.com/news/818672/valve-android-apps-steam-frame",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-12T19:00:00.000Z",
+      "summary_90w": "",
+      "raw": "You can think of the just-announced Steam Frame as a wireless VR headset for your PC, or a Steam Deck for your face. But another way to think about it is that Valve is finally entering the mobile realm. The Frame doesn’t just run Windows games on its Arm-based Qualcomm Snapdragon chip — Valve will now support and encourage developers to bring their Android apps to Steam as well.\nIt’ll try to make some of them first-class citizens, too, Valve engineer Jeremy Selan tells The Verge. “From the user’s perspective, our preference is that they don’t even have to think about it, they just have their titles on Steam, they download them and hit play.” \nValve says the Steam Frame can use the same Android APKs developers already use to bring their apps to phones and Android-based VR headsets such as the Meta Quest — and it’s launching a Steam Frame developer kit program to help put the hardware in developers’ hands.\nIt sounds like Valve is specifically hoping to attract some of those Meta VR game developers, rather than just any kind of Android app you might find on a tablet or phone. “They’re really VR developers who want to publish their VR content, and they’re porting a mobile VR title where they’re already familiar with how to make those APKs,” says Selan. “They are now free to bring those to Steam, and they’ll just work on this device.”\nIn terms of performance, Selan suggests it should be excellent because the code is running natively. While Valve’s SteamOS is not Android and needs to use its Proton compatibility layer to make apps feel at home, the Arm code will run on an Arm processor without needing translation first.\nGot any burning questions about Valve’s new hardware?\nWe’re holding a subscriber-exclusive AMA today, November 12th, at 3PM ET. Drop your questions here and we’ll do our best to answer them.\nWhen I ask about Android apps beyond games — and mention how I’d really like to see things like Discord voice chat in Steam, not just Wallpaper Engine — Valve seems a little less sure. “We’ve never disinvited people from doing that,” says Valve’s Lawrence Yang. “We are a games company and we are focused on games, but like you said, there are a lot of things on Steam that are tools, software like Blender for instance.”\n\n \n @verge \nValve is bringing headsets back, and not just for VR! This is the Steam Frame, and it one-ups Meta Quest by playing flat Windows games on its Arm chip too. Kind of like a Steam Deck for your face that gives you a private virtual room! For VR lovers, it cuts the cord and bypasses your busy Wi-Fi with a direct 6GHz link to your PC. Price, local performance, battery all still TBD, though! #steam #valve #steamframe #headset #vr \n ♬ original sound – The Verge \n  \n\n\nSelan chimes in, “We don’t have it quite working to show you today, but our intention is to have rich browser integration, so at any point you’ll be able to bring up a browser, have floating windows, all of the multitasking environments you’d expect, so you could certainly go to any website and have those apps present.”\n“I know there’s a difference between that and what you asked, but we expect that will bridge a lot of that gap.” \nWill there be a way to quickly launch those web apps from Steam, and let users turn them into buttons, perhaps? “That’s our hope. I don’t want to promise that for launch, but that’s our hope,” Selan says.\nValve likes to build for the long haul, and I would be surprised if its plans begin and end at Android-based VR games for the Steam Frame. I think this is more likely the tip of the iceberg. For one thing, it’s looking like Google will soon be forced to open up Android to alternative app stores, so Steam might soon be able to easily sell games on phones just like its rival Epic has been trying to do.\nIn the meanwhile, Gamers Nexus reports that you’ll also be able to sideload Android APKs onto the Steam Frame, too.\nBut Valve’s Pierre-Loup Griffais also hints that there’s potential in bringing SteamOS to other devices with Arm chips, at least someday. He tells me he thinks the Steam Frame paves the way for SteamOS to work on “a wider variety of Arm devices,” including laptops, and that Arm obviously has “a lot of potential” in future handhelds.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "e8dbda016b846908689d24a3ed4ce3c993baeccf",
       "title": "iOS 26.2 beta adds new Liquid Glass customization, alarms in the Reminders app, and more",
@@ -101,7 +153,7 @@
       "source_name": "The Verge",
       "published": "2025-11-12T18:20:00.000Z",
       "summary_90w": "",
-      "raw": "Valve has just announced its biggest hardware push that it’s arguably ever made — a living room game console called the Steam Machine, a headset called the Steam Frame, and the long-awaited sequel to its Steam Controller it hinted about three years back.\nBut Valve won’t say the first word about its next gaming handheld, the Steam Deck 2. \n“Steam Deck is not what we’re here to talk about today,” Valve software engineer Pierre-Loup Griffais told us at the very beginning of our briefing. “It’s sort of related but not really,” he said, before launching into a discussion of how the Steam Deck’s learnings underpinned every new product that it’s announcing today.\nThe company wouldn’t tell us if the new drift-resistant TMR joysticks it’s introducing in the Steam Controller and Steam Frame’s wands will make it into a future Steam Deck, either. “We’re always thinking about Steam Deck and ways to improve it in the future,” says Valve hardware engineer Steve Cardinali when I ask. (He also says Valve currently has no plans to offer the TMR joysticks as a drop-in module for the original Deck.)\nGot any burning questions about Valve’s new hardware?\nWe’re holding a subscriber-exclusive AMA today, November 12th, at 3PM ET. Drop your questions here and we’ll do our best to answer them.\nWhile Valve has repeatedly confirmed that the Steam Deck will have sequels, the company’s also repeatedly been clear that it’s in no hurry to bring them to market. Since 2022, Griffais has consistently told us that Valve wants to see a significant leap in performance and efficiency before it takes the plunge. “We really do want to wait for a generational leap in compute without sacrificing battery life before we ship the real second generation of Steam Deck,” is how Valve’s Lawrence Yang concisely reiterated it to Reviews.org in 2024.\nThe question now is: will Valve find that leap in performance and efficiency from x86? Because while Valve initially thought its standalone VR headset might run on the existing Steam Deck’s chip, the company just announced the Steam Frame with an Arm processor instead — using emulation to let it play some Windows games locally on the headset. Griffais tells me he thinks Arm has “a lot of potential” in future handhelds someday.\nValve tells us the Frame has a lower performance target than the nearly four-year-old Steam Deck, so it would need a far more potent Arm chip to power such a handheld. Qualcomm, in particular, has been working on Arm chips for handhelds, though, and one of its customers for the latest was even interested in discussing a possible SteamOS handheld with Valve.\nIt’s also possible Valve already found its next Steam Deck chip in AMD’s future roadmaps — like it did with the original Steam Deck — and is simply waiting for it to arrive.\nNone of that necessarily means you should expect an Arm-based Steam Deck 2 just yet, though.",
+      "raw": "Valve has just announced its biggest hardware push that it’s arguably ever made — a living room game console called the Steam Machine, a headset called the Steam Frame, and the long-awaited sequel to its Steam Controller it hinted about three years back.\nBut Valve won’t say the first word about its next gaming handheld, the Steam Deck 2. \n“Steam Deck is not what we’re here to talk about today,” Valve software engineer Pierre-Loup Griffais told us at the very beginning of our briefing. “It’s sort of related but not really,” he said, before launching into a discussion of how the Steam Deck’s learnings underpinned every new product that it’s announcing today.\nThe company wouldn’t tell us if the new drift-resistant TMR joysticks it’s introducing in the Steam Controller and Steam Frame’s wands will make it into a future Steam Deck, either. “We’re always thinking about Steam Deck and ways to improve it in the future,” says Valve hardware engineer Steve Cardinali when I ask. (He also says Valve currently has no plans to offer the TMR joysticks as a drop-in module for the original Deck.)\nGot any burning questions about Valve’s new hardware?\nWe’re holding a subscriber-exclusive AMA today, November 12th, at 3PM ET. Drop your questions here and we’ll do our best to answer them.\nWhile Valve has repeatedly confirmed that the Steam Deck will have sequels, the company’s also repeatedly been clear that it’s in no hurry to bring them to market. Since 2022, Griffais has consistently told us that Valve wants to see a significant leap in performance and efficiency before it takes the plunge. “We really do want to wait for a generational leap in compute without sacrificing battery life before we ship the real second generation of Steam Deck,” is how Valve’s Lawrence Yang concisely reiterated it to Reviews.org in 2024.\nThe question now is: Will Valve find that leap in performance and efficiency from x86? Because while Valve initially thought its standalone VR headset might run on the existing Steam Deck’s chip, the company just announced the Steam Frame with an Arm processor instead — using emulation to let it play some Windows games locally on the headset. Griffais tells me he thinks Arm has “a lot of potential” in future handhelds someday.\nValve tells us the Frame has a lower performance target than the nearly four-year-old Steam Deck, so it would need a far more potent Arm chip to power such a handheld. Qualcomm, in particular, has been working on Arm chips for handhelds, though, and one of its customers for the latest was even interested in discussing a possible SteamOS handheld with Valve.\nIt’s also possible Valve already found its next Steam Deck chip in AMD’s future roadmaps — like it did with the original Steam Deck — and is simply waiting for it to arrive.\nNone of that necessarily means you should expect an Arm-based Steam Deck 2 just yet, though.",
       "topics": [
         "Technology"
       ]
@@ -153,7 +205,7 @@
       "source_name": "The Verge",
       "published": "2025-11-12T18:00:00.000Z",
       "summary_90w": "",
-      "raw": "The Steam Frame, Steam Machine, Steam Deck, and Steam Controller. | Image: Valve\t\n\nIn 2012, The Verge broke the news that Valve was making a game console. Gabe Newell himself dished on the company’s grand plans. By 2015, the “Steam Machines” had utterly flopped. But Valve never stopped quietly working on the idea. The Steam Deck handheld became the seed for a grand reboot of Valve’s console and headset ambitions. And now, Steam Machines are back.\n\n \n @verge \nHello from Valve headquarters! We just saw the Steam Machine, the PC game console that’s not much bigger than a box of Kleenex. It’s coming alongside the sequel to the Steam Controller, the most customizable gamepad ever made. It’s like a Steam Deck for your TV with far more performance — enough to replace an Xbox or PlayStation in your living room, perhaps? But might be priced more like a PC… #valve #steammachine #steamcontroller #gaming #gametok \n ♬ original sound – The Verge – The Verge \n  \n\n\nThe new Steam Machine is for your TV, the Steam Controller is for your hands, and the Steam Frame is for your face— and they might just be the start. The company hinted there might be more SteamOS hardware later on.\nWe’re tracking Valve’s rebooted hardware plans in this Verge StoryStream. And if you want to know how we got here, it also contains our original Steam Machine coverage — going back over a decade.\n\n\n\t\t\t\t\t\nValve has no news about Steam Deck 2\n\t\t\t\nValve enters the console wars\n\t\t\t\nOur first look at the Steam Machine, Valve’s ambitious new game console\n\t\t\t\nThe Steam Frame is a surprising new twist on VR\n\t\t\t\nValve’s new Steam Controller might be my dream controller\n\t\t\t\nHere’s the secret Steam Machine that Valve probably used to test headsets.\n\t\t\t\nValve’s master plan for Steam Machines is finally coming into focus\n\t\t\t\nIn case you missed it, the Dreamcast-shaped EmuDeck Machine is dead.\n\t\t\t\nRemember Steam Machines? EmuDeck founder revisits Valve’s TV console idea\n\t\t\t\nWait, wait… HDMI and DisplayPort could’ve been a single port THIS WHOLE TIME?\n\t\t\t\nFarewell to the Steam Link, the best wireless HDMI gadget ever made (update: it’s $2.50)\n\t\t\t\nGaming performance on Valve’s SteamOS can’t keep up with Windows\n\t\t\t\nValve’s first Steam Machines and controller have been officially released\n\t\t\t\nAlienware’s Alpha console will bring Steam to your living room this November\n\t\t\t\nValve delays Steam Machines and controller until 2015\n\t\t\t\nValve shows off updated Steam Controller design\n\t\t\t\nValve posts entirety of Steam Dev Days to YouTube, explaining its console and VR strategy\n\t\t\t\nSteam In-Home Streaming lets you play away from your PC\n\t\t\t\nSteam Controller ditches the touchscreen for better backwards compatibility\n\t\t\t\nAlienware’s Steam Machine will arrive in September\n\t\t\t\nSteamOS now supports Intel and AMD graphics\n\t\t\t\nValve reportedly about to release a standard interface for virtual reality controllers\n\t\t\t\nValve announces 13 Steam Machine partners, including Alienware\n\t\t\t\nCyberPowerPC Steam Machine will compete with consoles at $499\n\t\t\t\nDigital Storm details its first Steam Machine: a hybrid Windows and SteamOS combo for $1,899\n\t\t\t\nValve reportedly has 12 Steam Machine partners\n\t\t\t\nYou can download SteamOS right now\n\t\t\t\nSteamOS will be available to download on December 13th\n\t\t\t\nDigital Storm’s first Steam Machine will be a $1,469 gaming PC\n\t\t\t\nPiixl Jetpack straps a SteamOS PC to the back of your TV\n\t\t\t\niBuyPower’s Steam Machine offers PC specs for the price of a new Xbox\n\t\t\t\nValve says it wouldn’t make ‘Half-Life 3’ a SteamOS exclusive\n\t\t\t\nWe play with the Steam Machine, Valve’s game console of the future\n\t\t\t\nJohn Carmack says odds of Steam Machines being successful are ‘a little bit dicey’\n\t\t\t\nValve demonstrates how its Steam Controller works with your favorite PC games\n\t\t\t\nHere’s what’s inside Valve’s first Steam Machine prototypes\n\t\t\t\nValve’s Steam Box won’t challenge consoles, says ‘Borderlands’ studio boss\n\t\t\t\nValve unveils the Steam Controller\n\t\t\t\nValve announces Steam Machines, the Steam Box hardware beta\n\t\t\t\nSteamOS: could Valve’s game console challenge Windows?\n\t\t\t\nValve announces SteamOS, a living-room operating system for games\n\t\t\t\nValve’s Steam Box teased for Monday reveal on official countdown page\n\t\t\t\nValve’s Steam Box could be revealed next week\n\t\t\t\nXi3 opens $999.99 pre-orders for Piston gaming ‘console PC’ (update 2)\n\t\t\t\nValve will hand out Steam Box prototypes ‘in the next three to four months’\n\t\t\t\nValve’s Gabe Newell addresses layoffs: ‘We aren’t canceling any projects’\n\t\t\t\nValve reportedly fires more employees as part of ‘great cleansing’\n\t\t\t\nValve fires Jeri Ellsworth, who was developing Steam Box game controllers\n\t\t\t\nHow Valve’s Steam Box will reinvent the game console as you know it\n\t\t\t\nGabe Newell says Apple is the Steam Box’s biggest threat\n\t\t\t\n‘Steam was broken’ without a route to the living room, says Valve’s Greg Coomer\n\t\t\t\nValve confirms it’s building a Linux-based Steam Box that will act as a local gaming server for all your screens\n\t\t\t\nExclusive interview: Valve’s Gabe Newell on Steam Box, biometrics, and the future of gaming\n\t\t\t\nValve’s Steam Box gets big push at CES as Gabe Newell meets with major hardware partners\n\t\t\t\nGabe Newell says Valve will release its own console-like PC for the living room\n\t\t\t\nConnect the dots: Valve’s Big Picture could be a Linux game console\n\t\t\t\nValve says it’s jumping into the computer hardware business\n\t\t\t\nValve hiring an engineer to help with ‘hardware design’ in its R&D labs\n\t\t\t\nValve: we won’t be releasing a Steam Box console in the immediate future",
+      "raw": "The Steam Frame, Steam Machine, Steam Deck, and Steam Controller. | Image: Valve\t\n\nIn 2012, The Verge broke the news that Valve was making a game console. Gabe Newell himself dished on the company’s grand plans. By 2015, the “Steam Machines” had utterly flopped. But Valve never stopped quietly working on the idea. The Steam Deck handheld became the seed for a grand reboot of Valve’s console and headset ambitions. And now, Steam Machines are back.\n\n \n @verge \nHello from Valve headquarters! We just saw the Steam Machine, the PC game console that’s not much bigger than a box of Kleenex. It’s coming alongside the sequel to the Steam Controller, the most customizable gamepad ever made. It’s like a Steam Deck for your TV with far more performance — enough to replace an Xbox or PlayStation in your living room, perhaps? But might be priced more like a PC… #valve #steammachine #steamcontroller #gaming #gametok \n ♬ original sound – The Verge – The Verge \n  \n\n\nThe new Steam Machine is for your TV, the Steam Controller is for your hands, and the Steam Frame is for your face— and they might just be the start. The company hinted there might be more SteamOS hardware later on.\nWe’re tracking Valve’s rebooted hardware plans in this Verge StoryStream. And if you want to know how we got here, it also contains our original Steam Machine coverage — going back over a decade.\n\n\n\t\t\t\t\t\nValve is welcoming Android games into Steam\n\t\t\t\nValve has no news about Steam Deck 2\n\t\t\t\nValve enters the console wars\n\t\t\t\nOur first look at the Steam Machine, Valve’s ambitious new game console\n\t\t\t\nThe Steam Frame is a surprising new twist on VR\n\t\t\t\nValve’s new Steam Controller might be my dream controller\n\t\t\t\nHere’s the secret Steam Machine that Valve probably used to test headsets.\n\t\t\t\nValve’s master plan for Steam Machines is finally coming into focus\n\t\t\t\nIn case you missed it, the Dreamcast-shaped EmuDeck Machine is dead.\n\t\t\t\nRemember Steam Machines? EmuDeck founder revisits Valve’s TV console idea\n\t\t\t\nWait, wait… HDMI and DisplayPort could’ve been a single port THIS WHOLE TIME?\n\t\t\t\nFarewell to the Steam Link, the best wireless HDMI gadget ever made (update: it’s $2.50)\n\t\t\t\nGaming performance on Valve’s SteamOS can’t keep up with Windows\n\t\t\t\nValve’s first Steam Machines and controller have been officially released\n\t\t\t\nAlienware’s Alpha console will bring Steam to your living room this November\n\t\t\t\nValve delays Steam Machines and controller until 2015\n\t\t\t\nValve shows off updated Steam Controller design\n\t\t\t\nValve posts entirety of Steam Dev Days to YouTube, explaining its console and VR strategy\n\t\t\t\nSteam In-Home Streaming lets you play away from your PC\n\t\t\t\nSteam Controller ditches the touchscreen for better backwards compatibility\n\t\t\t\nAlienware’s Steam Machine will arrive in September\n\t\t\t\nSteamOS now supports Intel and AMD graphics\n\t\t\t\nValve reportedly about to release a standard interface for virtual reality controllers\n\t\t\t\nValve announces 13 Steam Machine partners, including Alienware\n\t\t\t\nCyberPowerPC Steam Machine will compete with consoles at $499\n\t\t\t\nDigital Storm details its first Steam Machine: a hybrid Windows and SteamOS combo for $1,899\n\t\t\t\nValve reportedly has 12 Steam Machine partners\n\t\t\t\nYou can download SteamOS right now\n\t\t\t\nSteamOS will be available to download on December 13th\n\t\t\t\nDigital Storm’s first Steam Machine will be a $1,469 gaming PC\n\t\t\t\nPiixl Jetpack straps a SteamOS PC to the back of your TV\n\t\t\t\niBuyPower’s Steam Machine offers PC specs for the price of a new Xbox\n\t\t\t\nValve says it wouldn’t make ‘Half-Life 3’ a SteamOS exclusive\n\t\t\t\nWe play with the Steam Machine, Valve’s game console of the future\n\t\t\t\nJohn Carmack says odds of Steam Machines being successful are ‘a little bit dicey’\n\t\t\t\nValve demonstrates how its Steam Controller works with your favorite PC games\n\t\t\t\nHere’s what’s inside Valve’s first Steam Machine prototypes\n\t\t\t\nValve’s Steam Box won’t challenge consoles, says ‘Borderlands’ studio boss\n\t\t\t\nValve unveils the Steam Controller\n\t\t\t\nValve announces Steam Machines, the Steam Box hardware beta\n\t\t\t\nSteamOS: could Valve’s game console challenge Windows?\n\t\t\t\nValve announces SteamOS, a living-room operating system for games\n\t\t\t\nValve’s Steam Box teased for Monday reveal on official countdown page\n\t\t\t\nValve’s Steam Box could be revealed next week\n\t\t\t\nXi3 opens $999.99 pre-orders for Piston gaming ‘console PC’ (update 2)\n\t\t\t\nValve will hand out Steam Box prototypes ‘in the next three to four months’\n\t\t\t\nValve’s Gabe Newell addresses layoffs: ‘We aren’t canceling any projects’\n\t\t\t\nValve reportedly fires more employees as part of ‘great cleansing’\n\t\t\t\nValve fires Jeri Ellsworth, who was developing Steam Box game controllers\n\t\t\t\nHow Valve’s Steam Box will reinvent the game console as you know it\n\t\t\t\nGabe Newell says Apple is the Steam Box’s biggest threat\n\t\t\t\n‘Steam was broken’ without a route to the living room, says Valve’s Greg Coomer\n\t\t\t\nValve confirms it’s building a Linux-based Steam Box that will act as a local gaming server for all your screens\n\t\t\t\nExclusive interview: Valve’s Gabe Newell on Steam Box, biometrics, and the future of gaming\n\t\t\t\nValve’s Steam Box gets big push at CES as Gabe Newell meets with major hardware partners\n\t\t\t\nGabe Newell says Valve will release its own console-like PC for the living room\n\t\t\t\nConnect the dots: Valve’s Big Picture could be a Linux game console\n\t\t\t\nValve says it’s jumping into the computer hardware business\n\t\t\t\nValve hiring an engineer to help with ‘hardware design’ in its R&D labs\n\t\t\t\nValve: we won’t be releasing a Steam Box console in the immediate future",
       "topics": [
         "Technology"
       ]
@@ -198,19 +250,6 @@
       ]
     },
     {
-      "id": "2ce27150ea880a0d4bb749d3729ab2196ee0d668",
-      "title": "Tapo’s RV30 Max Plus is the only sub-$200 robovac worth buying",
-      "url": "https://www.theverge.com/tech/819085/tapo-rv30-max-plus-robot-vacuum-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-12T17:59:22.000Z",
-      "summary_90w": "",
-      "raw": "The Tapo RV30 Max Plus is over $100 off.\t\n\nWe don’t normally recommend robot vacuums under $200, but the Tapo RV30 Max Plus is the exception to the rule. While its MSRP is $329, right now it’s down to a new record low of $199.99 when you apply promo code 30RV30MPLUS at Amazon or Tapo.\nThe Tapo RV30 Max Plus is our favorite cheap robot vacuum, boasting features you’d typically only find on far pricier models. In addition to its self-emptying dock, the robovac offers an impressive 5,200Pa suction power, picking up dirt and debris particularly well on hard floors. It even comes with a wide mop pad, which performs surprisingly well given it lacks active pressure application and oscillation. \nTapo RV30 Max Plus\n\nWhere to Buy:\n\n $329.99 $229.99 at Amazon (with Prime)\n $329.99 $229.99 at TP-Link (with code 50TPVCMOP)\n\nThe RV30 Max Plus’s lidar-based navigation is excellent, too, mapping and cleaning with impressive precision in our tests. Plus, it supports room-specific cleaning, letting you choose from five suction levels, three water levels, and three scrubbing rotations. That said, it doesn’t include AI-powered obstacle avoidance, so you’ll want to keep floors relatively clutter-free to prevent it from getting stuck or set virtual keep-out zones. Rounding things out, the robovac also now supports Matter, which means it’ll work with every major smart home platform for hands-free control.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "819cf3beadfb9b2854c5b94a8463656799918690",
       "title": "£220 ‘for a cut-up sock' - Apple's new iPhone Pocket ridiculed online",
       "url": "https://www.bbc.com/news/articles/cn97ndgpnq7o?at_medium=RSS&at_campaign=rss",
@@ -234,19 +273,6 @@
       "raw": "The Transport Secretary has announced new measures to tackle the continuing backlog of driving tests.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "7277f82090dbd05488d65f2124ce3fa80f4ab8e7",
-      "title": "Apple launches a Digital ID and says it&#8217;ll be accepted by the TSA",
-      "url": "https://www.theverge.com/news/819077/apple-digital-id-launch-tsa",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-12T17:42:05.000Z",
-      "summary_90w": "",
-      "raw": "Apple is launching Digital IDs, a feature that allows you to create and store an ID in Apple Wallet using your US passport. In the announcement, Apple says Digital ID acceptance will begin to “roll out first”at TSA checkpoints for domestic travel in over 250 airports across the US.\nYou can present your Digital ID in place of a REAL ID at TSA checkpoints using your iPhone or Apple Watch. But Apple notes that it isn’t a replacement for your physical passport, and that you can’t use it for international travel or border crossings.\nApple already allows you to store your driver’s license in Apple Wallet in 12 states and Puerto Rico, but the new Digital ID option offers an alternative for people whose home state doesn’t support digital driver’s licenses or don’t already have a REAL ID or state ID. Apple first announced Digital IDs during its Worldwide Developers Conference in June, and the feature was supposed to arrive with iOS 26 before Apple quietly delayed it.\nTo create a Digital ID, tap the “plus” button at the top right corner of the Wallet app, and then select Digital ID. From there, Apple will ask you to scan the photo page of your physical passport, as well as the chip embedded on the back of it “to ensure the data’s authenticity.” You’ll then have to take a selfie for verification, as well as complete facial and head movements to confirm that it’s really you.\nYou can present your Digital ID by double-clicking your iPhone’s side or Home button to open Apple Wallet, choosing your Digital ID, and then holding your phone or Apple Watch near an identity reader.\nApple says the feature is encrypted, meaning Apple can’t see when you display your ID, or the data you presented. You also won’t need “to unlock, show, or hand over” your device to present your ID — something you shouldn’t do with digital driver’s licenses, either. \nIt’s still not clear which airports will accept Digital IDs. Apple also notes that users will soon be able to present their Digital ID at “additional select businesses and organizations” in the future.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -390,19 +416,6 @@
       "raw": "Radio streamer TuneIn sold for $175M, down from its earlier valuation of $500M.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "331a0d6a5a3c4c26d1e377bbb87c15e6d978046f",
-      "title": "'Friendly competition' - could Rogers keep Bellingham out of England team?",
-      "url": "https://www.bbc.com/sport/football/articles/c30vy02v7d8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-12T16:47:49.000Z",
-      "summary_90w": "",
-      "raw": "Lifelong friends Jude Bellingham and Morgan Rogers are set to compete for England's number 10 shirt at the World Cup - who will prevail?",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1147,6 +1160,19 @@
       ]
     },
     {
+      "id": "3ad2d8b13c8ef347c0413edceae4b9a71095d221",
+      "title": "Adelita Grijalva is set to be sworn in, teeing up a potential vote on Epstein files",
+      "url": "https://www.npr.org/2025/11/12/nx-s1-5606350/adelita-grijalva-swearing-in",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-11-12T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The Arizona Democrat won her race in September, but Speaker Mike Johnson has waited to swear her in until today. Grijalva has vowed to be the decisive signature in a bid to release the Epstein files.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "b806999c728b82aae1e4f38ec6ecd605ba7a33f9",
       "title": "Figma bets on India to expand beyond design",
       "url": "https://techcrunch.com/2025/11/12/figma-bets-on-india-to-expand-beyond-design/",
@@ -1163,13 +1189,13 @@
       "id": "b61137f4fdb6267d15a80982f21f96026d6b1619",
       "title": "Google launches a lawsuit targeting text message scammers",
       "url": "https://www.npr.org/2025/11/12/nx-s1-5604857/google-lawsuit-phishing-text-message-scammers",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2025-11-12T10:00:00.000Z",
       "summary_90w": "",
       "raw": "Ever gotten a text saying you forgot to pay a nonexistent road toll or need to pick up a mystery package? Google's going after the scammers behind those messages.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -1246,19 +1272,6 @@
       "published": "2025-11-12T07:49:11.000Z",
       "summary_90w": "",
       "raw": "A video has gone viral showing Russian soldiers openly driving into the city on civilian cars and motorbikes.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3c16640aa73bcf466e51f9ff3b6412873e6da443",
-      "title": "Tehan and Ley to reveal Liberals’ net zero emissions position tomorrow – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2025/nov/12/australia-news-live-fossil-fuel-lending-banks-net-zero-emissions-coalition-sussan-ley-liberals-nationals-anthony-albanese-labor-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-12T07:07:32.000Z",
-      "summary_90w": "",
-      "raw": "This blog is now closed\n\nLiberals poised to dump net zero target after majority reject policy in marathon five-hour meeting\n\nGet our breaking news email, free app or daily news podcast\n\nRemoving CO2 from atmosphere vital to avoid catastrophic tipping points, leading scientist says\nRemoving carbon from the atmosphere will be necessary to avoid catastrophic tipping points, one of the world’s leading scientists has warned, as even in the best-case scenario the world will heat by about 1.7C.\n Continue reading...",
       "topics": [
         "World"
       ]
