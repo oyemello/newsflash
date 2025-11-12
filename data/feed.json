@@ -1,7 +1,111 @@
 {
-  "version": "1762962983126",
-  "generatedAt": "2025-11-12T15:56:23.126Z",
+  "version": "1762964361175",
+  "generatedAt": "2025-11-12T16:19:21.175Z",
   "items": [
+    {
+      "id": "23c7af2b2b3016700da0acbfde1dcecbfca3985c",
+      "title": "At least six die in crush at Ghana military recruitment event",
+      "url": "https://www.bbc.com/news/articles/crmx0gl82n9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-11-12T16:05:26.000Z",
+      "summary_90w": "",
+      "raw": "Thousands had turned up to El-Wak stadium, in the capital Accra, with hopes of being enlisted.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9ec8910c04e229eb22ee42392652d3063b44a2f0",
+      "title": "AI data startup WisdomAI has raised another $50M, led by Kleiner, Nvidia ",
+      "url": "https://techcrunch.com/2025/11/12/ai-data-startup-wisdomai-has-raised-another-50m-led-by-kleiner-nvidia/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-12T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "WisdomAI is offering AI-driven data analytics that can answer business questions from structured, unstructured, and even “dirty” data, meaning data not cleaned of typos or errors.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "cf24b08f29c3573a8de4e361414dc05d99d3c705",
+      "title": "Waymo is hitting the highway — but can it handle the speed?",
+      "url": "https://www.theverge.com/news/818552/waymo-highway-california-arizona-robotaxi-challenge",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-12T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Waymo is finally ready to hit the highway. Starting today, the company’s robotaxis will gradually start to include more highway trips in its routes in Phoenix, San Francisco, and Los Angeles. In addition, Waymo’s Bay Area service is extending south to San Jose, including 24/7 curbside access at both terminals of San Jose International Airport — the company’s second airport service after Phoenix.\nSince its inception, Waymo’s robotaxis have typically avoided highways, opting instead for longer routes that stick to local roads when ferrying passengers. This has not gone unnoticed by customers, who often note their trips can take longer because the vehicles are prohibited from using routes that travel on highways. But after years of testing, including on public highways with employees as well as on closed courses and in virtual simulation, Waymo says it’s ready to start offering highway trips to a lot more people.\n“Freeway driving is one of those things that’s very easy to learn, but very hard to master when we’re talking about full autonomy without a human driver as a backup,” Dmitri Dolgov, co-CEO of Waymo, said in a briefing with reporters. “And at scale. So it took time to do it properly with a strong focus on system safety and reliability.”\nWaymo will start conducting highway trips in Phoenix, Los Angeles, and the San Francisco Bay Area. Initially, only early-access users — those who have opted in to test new Waymo features — will be able to take trips that include freeway travel. Over time, the feature will expand gradually to more riders as performance data and feedback are collected. From the rider’s perspective, the experience will stay familiar. Users hail a ride via the Waymo app, view their ETA and route preview, and if the freeway route is significantly faster, the system automatically selects it. \nWaymo is hoping riders will reward the service with higher ratings, as freeway routing can make trips up to 50 percent faster, such as from San Francisco to Mountain View, while also helping connect riders more efficiently to public transit, and improving “first-mile” and “last-mile” mobility.\nThe challenges of highway driving are numerous. Higher traffic speeds mean Waymo’s autonomous vehicles will have less time to make consequential decisions. Any mistake can carry a higher degree of severity. The company’s engineers say that their hardware stack, which include lidar, camera, and radar, have 360-degree visibility and can “see” objects up to three football fields away.\n\n“Freeway driving is one of those things that’s very easy to learn, but very hard to master when we’re talking about full autonomy without a human driver as a backup.”\n\n\nBecause freeways can be so much more challenging, Waymo has built more redundancy into its systems to account for a wider variety of edge cases, including simulating a total power failure to one of Waymo’s dual onboard computers. In that scenario, the system immediately activates its backup, allowing the vehicle to maintain control and safely navigate to the nearest freeway exit. Pierre Kreitmann, principal software engineer at the company, likens this to a human suddenly losing half their vision and brainpower but still driving safely.\nWhen Waymo vehicles do need to pull over, the company says it has well-established protocols to keep riders safe and ensure their trips can continue. Waymo is coordinating closely with the Arizona Department of Public Safety, California Highway Patrol, and other regional safety authorities to ensure readiness and alignment with local rules and regulations.\nHighways have been a top target for Waymo for many years now. Critics have cited the avoidance of highways as evidence that autonomous vehicles aren’t ready for the realities of driving long distances. Self-driving truck companies have largely stuck to highways in their testing, though usually with human safety drivers in the front seat. \nWaymo is unique insofar as it is one of the only robotaxi companies offering trips in fully driverless cars. Tesla operates a “robotaxi” service in California with safety drivers behind the wheel that’s only open to select riders, which apparently includes highway routes. \nThe extension of Waymo’s service area to San Jose, including the city’s airport, has been in the works for months. The company still does not offer commercial service to San Francisco International Airport (SFO), which makes San Jose’s Mineta Airport the company’s first official airport in California. \nThere will be dedicated curbside pickup and drop-off zones at both Terminals A and B. Meanwhile, SFO is still in the early pilot stage. Waymo received its permit to start commercial operations at SFO in September, but it’s still coordinating with airport officials to phase in operations gradually. The company has been locked in negotiations with SFO for several years as it seeks to assure regulators that its vehicles can handle their chaotic environments, with thousands of cars, taxis, shuttles, and passengers constantly intermixing every day.\nAirports and highways are inexorably linked, as most airports are accessed through highway driving. They’re also huge cash cows for ridehail companies, accounting for an estimated 20 percent of human-driven services like Uber and Lyft. Waymo will need to master both airports and highways if it wants to successfully compete with traditional ridehailing — to say nothing of making a profit.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6f79a3ac1d92bf7cd0b288f64351db158cbaf30d",
+      "title": "Waymo robotaxis are now giving rides on freeways in LA, San Francisco, and Phoenix",
+      "url": "https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-12T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Waymo robotaxis will use freeways in Los Angeles, Phoenix, and San Francisco - an expansion that could reduce ride times by 50%.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f4182059c7e20a89f215cda155f75b8068c689ac",
+      "title": "Cop30 live: US looms over talks despite absence as protests at venue continue",
+      "url": "https://www.theguardian.com/environment/live/2025/nov/12/cop30-live-talks-us-protests-belem-brazil",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-12T15:59:43.000Z",
+      "summary_90w": "",
+      "raw": "Day three at the Belem summit is expected to see more protests as crucial climate negotiations begin in earnest\nMore on the links between the climate crisis and global health from Sol Oyuela, executive director for Global Policy & Campaigns, after Al Gore’s’ remarks on Bill Gates’ shifting position earlier.\nOyuela, who is in Belem, reiterated that it was impossible to separate tackling public health and addressing the climate emergency.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0a199da10f6dc24db08c9e38f0bfa1d6075751ac",
+      "title": "Cleto Escobedo III, leader of Jimmy Kimmel's house band, dies at 59",
+      "url": "https://www.npr.org/2025/11/12/nx-s1-5606911/cleto-escobedo-dead-jimmy-kimmel-band",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-11-12T15:55:44.000Z",
+      "summary_90w": "",
+      "raw": "Escobedo had been leading Kimmel's house band since the show launched in 2003. The musician and the comedian were childhood friends in Las Vegas.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e7b3c3f1bf88b3c3f46ff3828604df60b97eca5f",
+      "title": "The EU invited Ukraine to join the club, but will it ever happen?",
+      "url": "https://www.theguardian.com/world/2025/nov/12/the-eu-invited-ukraine-to-join-the-club-kyivs-hopes-are-high-but-will-it-ever-happen",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-12T15:53:55.000Z",
+      "summary_90w": "",
+      "raw": "Zelenskyy wants admission before 2030, but with a growing far-right, anti-enlargement contingent and budgetary fears mounting, some countries are hiding behind a Hungarian veto\n• Don’t get This Is Europe delivered to your inbox? Sign up here\nVolodymyr Zelenskyy may be a wartime leader, but he is fighting to deliver peacetime ambitions, too: he wants Ukraine to become an EU country – soon.\nUkraine’s tireless president is ramping up pressure on EU governments to accelerate the slow process of joining: he sees the collective sacrifice of his people as a struggle “for the Ukrainian future, the future of Ukraine in the European Union”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1c74490e80d67d6a7376ac9081111a89d4eab56d",
+      "title": "Ukrainian energy minister Hrynchuk resigns as corruption probe fallout continues – live",
+      "url": "https://www.theguardian.com/world/live/2025/nov/12/ukraine-energy-corruption-scandal-zelenskyy-eu-europe-news-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-12T15:53:23.000Z",
+      "summary_90w": "",
+      "raw": "Following Zelenskyy’s request Svitlana Hrynchuk has now also resigned from her post \nAngela Giuffrida in Rome and Kim Willsher in Paris\nProsecutors in Milan have opened an investigation into Italians who allegedly paid members of the Bosnian Serb army for trips to Sarajevo so that they could kill citizens during the four-year siege of the city in the 1990s.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "0232734e67df43162f9dbee3848e705390a2484f",
       "title": "Anthropic announces $50 billion data center plan",
@@ -13,6 +117,19 @@
       "raw": "Anthropic has launched an ambitious new data center partnership with the UK-based Fluidstack, committing $50 billion to building facilities across the US.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "652e517fbbcd0313a6168aa59dd8b5117acc17b6",
+      "title": "Fifty-year mortgages and $2,000 cheques: What's behind Trump's affordability drive?",
+      "url": "https://www.bbc.com/news/articles/c231y3dm8jko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-12T15:48:06.000Z",
+      "summary_90w": "",
+      "raw": "The US president is increasingly focusing on affordability amid growing public pessimism on the economy.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -29,14 +146,14 @@
       ]
     },
     {
-      "id": "23c7af2b2b3016700da0acbfde1dcecbfca3985c",
-      "title": "At least six die in crush at Ghana military recruitment event",
-      "url": "https://www.bbc.com/news/articles/crmx0gl82n9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "id": "f5c05b39ae8f0b054665d966d8782bfbc7c210b4",
+      "title": "Trump urges Israel's president to pardon Benjamin Netanyahu",
+      "url": "https://www.bbc.com/news/articles/c986285zrq0o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-11-12T15:46:29.000Z",
+      "published": "2025-11-12T15:44:20.000Z",
       "summary_90w": "",
-      "raw": "Thousands had turned up to El-Wak stadium, in the capital Accra, with hopes of being enlisted.",
+      "raw": "President Herzog's office says he holds Trump \"in the highest regard\", but that anyone seeking a pardon has to submit a formal request.",
       "topics": [
         "World"
       ]
@@ -78,32 +195,6 @@
       "raw": "As with the previous version, Nomad’s new Tracking Card Pro is only compatible with Apple’s Find My network. | Image: Nomad\t\n\nNomad released a new version of its tracking card designed to be carried in wallets or billfolds that comes with a big boost to battery life. Its new Tracking Card Pro will last for up to 16 months on a full charge, while the standard version maxes out at up to five months. It’s available now through Nomad’s online store for $39 which is $10 more expensive than the older model, but buying two will get you a 10 percent discount.\nA steeper price tag isn’t the only drawback to the Tracking Card Pro. To accommodate a larger battery the new version is 2.5mm thick compared to 1.7mm thick for Nomad’s standard Tracking Card, but it’s still much thinner than Apple’s 8mm thick AirTags. Made with a polycarbonate body featuring exposed aluminum edges, the Tracking Card Pro is also a bit heavier at 15 grams.\nFunctionality is the same as its predecessor with support for Apple’s Find My tracking network and the ability to trigger audible alerts when you’re less than 150 feet away from the card. It supports wireless charging and while the card lacks magnets of its own, it has enough metal inside to stick to MagSafe or Qi2-compatible magnetic charging pads.\nLonger battery life is a welcome upgrade for those who regularly forget to charge or replace the batteries in their trackers. Even so, Pebblebee’s recently announced Card 5 wallet tracker may be a better option over Nomad’s latest. It’s cheaper at $34.99, thinner at 1.74mm, supports both Apple’s Find My and Google’s Find Hub networks, and has wireless charging with up to 18 months of battery life.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "c1f1a15b2a161f3372079cb5638908e2e38c4946",
-      "title": "Seven men charged in child sexual exploitation probe",
-      "url": "https://www.bbc.com/news/articles/c709ypzr8xlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-12T15:32:10.000Z",
-      "summary_90w": "",
-      "raw": "The men have been charged with more than 40 child exploitation offences against 11 victims.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1c74490e80d67d6a7376ac9081111a89d4eab56d",
-      "title": "Ukrainian energy minister Hrynchuk resigns as corruption probe fallout continues – live",
-      "url": "https://www.theguardian.com/world/live/2025/nov/12/ukraine-energy-corruption-scandal-zelenskyy-eu-europe-news-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-12T15:31:14.000Z",
-      "summary_90w": "",
-      "raw": "Following Zelenskyy’s request Svitlana Hrynchuk has now also resigned from her post \nAngela Giuffrida in Rome and Kim Willsher in Paris\nProsecutors in Milan have opened an investigation into Italians who allegedly paid members of the Bosnian Serb army for trips to Sarajevo so that they could kill citizens during the four-year siege of the city in the 1990s.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -289,19 +380,6 @@
       ]
     },
     {
-      "id": "f4182059c7e20a89f215cda155f75b8068c689ac",
-      "title": "Cop30 live: US looms over talks despite absence as protests at venue continue",
-      "url": "https://www.theguardian.com/environment/live/2025/nov/12/cop30-live-talks-us-protests-belem-brazil",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-12T14:32:15.000Z",
-      "summary_90w": "",
-      "raw": "Day three at the Belem summit is expected to see more protests as crucial climate negotiations begin in earnest\nBrazilian Bruno Zanette, 26, is currently pursuing a Master’s in Eco Design. This year, he is attending COP with the Climate Clock, a global movement calling for action on the climate emergency.\n“My motivation to attend COP began when I heard, back in 2023, that Brazil would host it. I’ve since tried to align my activism toward this moment. For me, COP isn’t just about negotiations — it’s a space for connection, listening, and learning from activists around the world. It’s where strategies are shared and where I hope to strengthen international bridges for climate action.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "190a303837eb6390d9eb28d14258c867e0f6abc7",
       "title": "New bridge in south-west China collapses into mountainside",
       "url": "https://www.theguardian.com/world/2025/nov/12/new-hongqi-bridge-in-south-west-china-collapses-into-mountainside",
@@ -387,7 +465,7 @@
       "source_name": "BBC News",
       "published": "2025-11-12T14:00:42.000Z",
       "summary_90w": "",
-      "raw": "Wolves finally have their man. Rob Edwards' appointment on a three-and-a-half-year contract follows the sacking of Vitor Pereira. But how big of a gamble have the Premier League side made?",
+      "raw": "Wolves finally have their man. But how big a gamble have the Premier League side made in appointing Rob Edwards?",
       "topics": [
         "World"
       ]
@@ -468,19 +546,6 @@
       "raw": "The air strike comes after the US accused the Colombian president of allowing the drugs trade to expand.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "104277c7cff8bdc71010a2baed821713a8b6af1b",
-      "title": "The first Toy Story 5 teaser threatens the toys with a tablet",
-      "url": "https://www.theverge.com/news/818762/toy-story-5-pixar-disney-first-teaser-trailer",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-12T13:44:54.000Z",
-      "summary_90w": "",
-      "raw": "This is the new face of evil for Pixar’s upcoming Toy Story sequel.\t\n\nDisney and Pixar have released the first teaser trailer for Toy Story 5, showing tablet screens as an “all-new threat to playtime.” The trailer introduces — much to the horror of Woody and co — a new character called “Lilypad,” a frog-shaped tablet played by Greta Lee (Russian Doll, Tron: Ares), alongside the tagline “the age of toys is over.”\nToy Story 5 is set to hit theaters on June 19th, 2026, more than 30 years after the first Toy Story movie debuted in 1996. The teaser itself doesn’t provide a lot of insight into the plot besides identifying that technology will take on the villainous role, alluding to concerns around real children ditching traditional toys in favor of screentime. Conan O’Brien was also recently cast to play a “toilet training tech toy” called Smarty Pants.\nKids becoming glued to tablet screens is hardly an “all-new” concern, but Pixar may be betting on winning over parents with that theming, alongside the proven profitability of the Toy Story franchise. That seems like more of a sure bet than Pixar’s most recent project, Elio. That movie was released this summer and pulled in just $21 million during its US debut, making it Pixar’s worst box-office opening in the entire history of the company.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -900,19 +965,6 @@
       ]
     },
     {
-      "id": "356310d5ae4994ebdcc668b19b76b8e8b22d0621",
-      "title": "Once upon a time, nostalgia was epidemic among homesick soldiers",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5599179/nostalgia-origin-etymology-homesickness-swiss-soldiers",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-11-12T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The word began as a medical diagnosis but over the centuries has evolved to mean the longing for a bygone, idealized past.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "339b06a610f2395b79beb35bce01ec255835df65",
       "title": "Some labor unions remain committed to recruiting women despite policy rollbacks",
       "url": "https://www.npr.org/2025/11/12/nx-s1-5599090/some-labor-unions-remain-committed-to-recruiting-women-despite-policy-rollbacks",
@@ -1108,19 +1160,6 @@
       ]
     },
     {
-      "id": "24ffd9f1280417cbf004d1ae98215b77f6573031",
-      "title": "Supply boom in cheaper renewables will seal end of fossil fuel era, says IEA",
-      "url": "https://www.theguardian.com/environment/2025/nov/12/supply-boom-in-cheaper-renewables-will-seal-end-of-fossil-fuel-era-says-iea",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-12T05:00:15.000Z",
-      "summary_90w": "",
-      "raw": "Watchdog’s flagship report says rise in low-carbon electricity will make transition ‘inevitable’, despite Trump’s calls to carry on drilling\nRenewables will grow faster than any major energy source in the next decade, according to the world’s energy watchdog, making the transition away from fossil fuels “inevitable”, despite a green backlash in the US and parts of Europe.\nThe world is expected to build more renewable energy projects in the next five years than has been rolled out over the last 40, according to the flagship annual report from the International Energy Agency (IEA).\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7582cd98ba1afb8444c166e1af68ddd9b041fe93",
       "title": "Japan’s new PM faces sumo-sized dilemma: will Takaichi defy the sport’s ban on women?",
       "url": "https://www.theguardian.com/world/2025/nov/12/japan-pm-sumo-wrestling-ban-women",
@@ -1196,19 +1235,6 @@
       "raw": "Lauren Mekies spent much of his career in the engineering trenches. His approach to winning reflects that technical background, too.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f19c4d0a85aba4a419f133131b3b0a8f118c8a12",
-      "title": "Trump vs the BBC: What hurdles might the president's legal argument face?",
-      "url": "https://www.bbc.com/news/articles/c709y1yx1r0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-12T02:26:57.000Z",
-      "summary_90w": "",
-      "raw": "If he were to bring a defamation case in Florida, experts say he would need to prove three major components.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1586,32 +1612,6 @@
       "raw": "Two fathers in Britain enlist law firm to get government to follow through on evacuation promises made months ago\nThe British government is facing legal action over its lack of action to help evacuate families in Gaza after committing to do so months ago.\nTwo families have argued that the government’s failure to act is unlawful and in breach of their family’s human rights. They are among a number of separated families to which the government has failed to keep its evacuation promise, according to the law firm Leigh Day, which is representing them.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "694e6383eb21a46052a22c01f83a65c80073b3ca",
-      "title": "Wonderful raised $100M Series A to put AI agents on the front lines of customer service",
-      "url": "https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-11T16:08:47.000Z",
-      "summary_90w": "",
-      "raw": "Israeli AI agent startup Wonderful has raised $100 million in a Series A round led by Index Ventures, with participation from Insight Partners, IVP, Bessemer, and Vine Ventures. The large round, in a market already crowded with AI agent startups, suggests Wonderful has convinced top tier investors it’s not just another GPT wrapper, but a company building the infrastructure and orchestration that could scale if […]",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "4575cf144882a4df22af695e6aaa9db4b24ae31e",
-      "title": "How founders can prepare for their late-stage fundraises from the start",
-      "url": "https://techcrunch.com/2025/11/11/how-founders-can-prepare-for-their-late-stage-fundraises-from-the-start/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-11T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Startups should start forging connections with late-stage investors while they are still at the early stages.",
-      "topics": [
-        "Technology"
       ]
     },
     {
