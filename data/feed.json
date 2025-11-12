@@ -1,7 +1,150 @@
 {
-  "version": "1762968007640",
-  "generatedAt": "2025-11-12T17:20:07.640Z",
+  "version": "1762969123864",
+  "generatedAt": "2025-11-12T17:38:43.864Z",
   "items": [
+    {
+      "id": "e0a032a77e6d060d1a7861d102140c7c8da50a1d",
+      "title": "Major corruption scandal engulfs top Zelensky allies",
+      "url": "https://www.bbc.com/news/articles/cy8vw62j3g9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-12T17:33:27.000Z",
+      "summary_90w": "",
+      "raw": "The Ukrainian president has called for the justice and energy ministers to be removed from their posts.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ac9fdb8fb7cf5f0d170da4dabdf14aa5a6338b67",
+      "title": "Streeting accuses doctors' union of acting 'like cartel'",
+      "url": "https://www.bbc.com/news/articles/cj6n32rpy8jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-12T17:29:19.000Z",
+      "summary_90w": "",
+      "raw": "The health secretary launches strongest criticism yet of the union ahead of Friday's strike by resident doctors.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "116aea6a0f601c3d4a00b2efdc2e4e99f4d899c2",
+      "title": "Aqara’s cord-free presence sensor runs for up to three years on battery power",
+      "url": "https://www.theverge.com/news/819067/aqara-presence-multi-sensor-fp300-battery-power-zigbee-matter-thread",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-12T17:24:24.000Z",
+      "summary_90w": "",
+      "raw": "The FP300 can detect people when moving or stationary, and has light, temperature, and humidity sensors. | Image: Aqara\t\n\nAqara has announced its first battery-powered presence sensor, which can be installed nearly anywhere in your home to automate smart devices as your family comes and goes. Instead of having to hide a cord and plan its location around a power source, a pair of CR2450 coin cell batteries powers the Presence Multi-Sensor FP300 for up to three years when using it with a Zigbee smart home setup, or up to two years if you’ve upgraded to Thread. It’s available now through Amazon or Aqara’s website for $49.99.\nThe FP300 uses a combination of passive infrared (PIR) and 60 GHz mmWave radar sensors to detect moving or stationary people up to 20 feet away so you can set up automations that turn on lights when someone enters a room, or turns off various smart home devices after a room has been empty for a few minutes. The FP300 also features built-in temperature, humidity, and light sensors so you can automate climate control settings for comfort or energy efficiency.\nWith both Zigbee and Matter over Thread support, the sensor can be used across smart home platforms including Apple Home, Google Home, Amazon Alexa, and Samsung SmartThings. If you stick with Zigbee, in addition to longer battery life, you can adjust the FP300’s detection range in the Aqara Home mobile app, and turn off individual sensors to further extend its battery life. The switch to battery power does come with some tradeoffs. The FP300 lacks the multi-person detection, fall detection, and real-time heart and respiratory rate monitoring while you sleep that’s available with Aqara’s more expensive FP2 presence sensor.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d384c6d61b5c40f02cf5f393a4e681233c64cd7b",
+      "title": "YouTube TV’s Disney blackout is ruining my life (I can’t watch ‘Jeopardy!’)",
+      "url": "https://techcrunch.com/2025/11/12/youtube-tvs-disney-blackout-is-ruining-my-life-i-cant-watch-jeopardy/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-12T17:23:48.000Z",
+      "summary_90w": "",
+      "raw": "For 12 days and counting, Disney-owned channels like ESPN and ABC have been blacked out on YouTube TV.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6ea32a6527d5238abc69bea6129ff2ac42f54771",
+      "title": "Stokes must 'respect' views of ex-players - Vaughan",
+      "url": "https://www.bbc.com/sport/cricket/articles/cwypej0rvylo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-12T17:21:41.000Z",
+      "summary_90w": "",
+      "raw": "England captain Ben Stokes must \"respect\" views of former players, says ex-skipper Michael Vaughan, after Stokes described some of his critics as \"has-beens\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "23c7af2b2b3016700da0acbfde1dcecbfca3985c",
+      "title": "At least six die in crush at Ghana military recruitment event",
+      "url": "https://www.bbc.com/news/articles/crmx0gl82n9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-11-12T17:21:32.000Z",
+      "summary_90w": "",
+      "raw": "Thousands had turned up to El-Wak stadium, in the capital Accra, with hopes of being enlisted.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ebaa566248f8d4738d6f4e27c1b19674c6e8848e",
+      "title": "Beijing court to rule in appeal of jailed Chinese journalist Dong Yuyu",
+      "url": "https://www.theguardian.com/world/2025/nov/12/beijing-court-appeal-jailed-chinese-journalist-dong-yuyu-human-rights",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-12T17:20:47.000Z",
+      "summary_90w": "",
+      "raw": "Detention of Dong on espionage charges has been criticised by human rights and press freedom organisations\nA court in Beijing is expected to rule on Thursday in the appeal of Dong Yuyu, a Chinese journalist who is serving a seven-year jail sentence on espionage charges.\nThe detention of Dong, a senior columnist with a long career in Chinese state media, has been criticised by the US government and by international human rights and press freedom organisations.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "997352eb5437f35f3eb10f10031e1af66e6c7f85",
+      "title": "Who is Laura Loomer, President Trump's self-described chief 'loyalty enforcer'?",
+      "url": "https://www.npr.org/2025/11/12/nx-s1-5606925/who-is-laura-loomer-president-trumps-self-described-chief-loyalty-enforcer",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-11-12T17:19:58.000Z",
+      "summary_90w": "",
+      "raw": "The New Yorker's Antonia Hitchens describes how Loomer went from a conspiracy theorist to a close ally of Trump who's gotten government officials she claims are disloyal to the president fired.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "347b2aa53b88ba8b76b2a99f4eda877b51d16165",
+      "title": "Anthropic will invest $50 billion in building AI data centers in the US",
+      "url": "https://www.theverge.com/news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-12T17:17:06.000Z",
+      "summary_90w": "",
+      "raw": "Anthropic just announced plans to put $50 billion toward bolstering computing infrastructure in the US. As part of the initiative, the company is working with the AI cloud platform Fluidstack to build datacenters in Texas and New York, “with more sites to come.” \nThe data centers will come online throughout 2026 and create 800 jobs, according to Anthropic. “It will help advance the goals in the Trump administration’s AI Action Plan to maintain American AI leadership and strengthen domestic technology infrastructure,” Anthropic says in the press release.\nAnthropic isn’t the only AI company pouring billions into building out data centers, as OpenAI and SoftBank announced the $500 billion “Stargate Project” in January, which will light up a series of AI data centers around the US, starting with Texas. Meta has also committed $600 billion to invest in US infrastructure and data centers.\nAnthropic says that the size of its investment “is necessary to meet the growing demand” for its AI chatbot Claude, while also allowing it to keep its research “at the frontier” of the technology.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f4182059c7e20a89f215cda155f75b8068c689ac",
+      "title": "Cop30 live: ‘literally insane’ that we are letting global heating happen, says Al Gore",
+      "url": "https://www.theguardian.com/environment/live/2025/nov/12/cop30-live-talks-us-protests-belem-brazil",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-12T17:14:17.000Z",
+      "summary_90w": "",
+      "raw": "Former US vice-president also critical of Donald Trump and Bill Gates as negotiations begin in earnest\nHello comrades, this is Nina Lakhani in chilly New York City taking over the blog for the next few hours. Thanks very much to my colleague Matt Taylor in London Town who will be back in the hot seat on Friday morning.\nLeading climate activists and influencers have signed a letter criticising PR firm Edelman over its role at the Cop30 summit in Brazil.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1c74490e80d67d6a7376ac9081111a89d4eab56d",
+      "title": "Ukrainian energy minister Hrynchuk resigns as corruption probe fallout continues – live",
+      "url": "https://www.theguardian.com/world/live/2025/nov/12/ukraine-energy-corruption-scandal-zelenskyy-eu-europe-news-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-12T17:13:54.000Z",
+      "summary_90w": "",
+      "raw": "Following Zelenskyy’s request Svitlana Hrynchuk has now also resigned from her post \nAngela Giuffrida in Rome and Kim Willsher in Paris\nProsecutors in Milan have opened an investigation into Italians who allegedly paid members of the Bosnian Serb army for trips to Sarajevo so that they could kill citizens during the four-year siege of the city in the 1990s.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "141a6d8379a21f31d83ece51b6525cd21b0f7474",
       "title": "Why a researcher is building robots that look and act like bats ",
@@ -55,32 +198,6 @@
       ]
     },
     {
-      "id": "1c74490e80d67d6a7376ac9081111a89d4eab56d",
-      "title": "Ukrainian energy minister Hrynchuk resigns as corruption probe fallout continues – live",
-      "url": "https://www.theguardian.com/world/live/2025/nov/12/ukraine-energy-corruption-scandal-zelenskyy-eu-europe-news-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-12T16:48:46.000Z",
-      "summary_90w": "",
-      "raw": "Following Zelenskyy’s request Svitlana Hrynchuk has now also resigned from her post \nAngela Giuffrida in Rome and Kim Willsher in Paris\nProsecutors in Milan have opened an investigation into Italians who allegedly paid members of the Bosnian Serb army for trips to Sarajevo so that they could kill citizens during the four-year siege of the city in the 1990s.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f4182059c7e20a89f215cda155f75b8068c689ac",
-      "title": "Cop30 live: US looms over talks despite absence as protests at venue continue",
-      "url": "https://www.theguardian.com/environment/live/2025/nov/12/cop30-live-talks-us-protests-belem-brazil",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-12T16:48:13.000Z",
-      "summary_90w": "",
-      "raw": "Day three at the Belem summit is expected to see more protests as crucial climate negotiations begin in earnest\nHello comrades, this is Nina Lakhani in chilly New York City taking over the blog for the next few hours. Thanks very much to my colleague Matt Taylor in London Town who will be back in the hot seat on Friday morning.\nLeading climate activists and influencers have signed a letter criticising PR firm Edelman over its role at the Cop30 summit in Brazil.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "331a0d6a5a3c4c26d1e377bbb87c15e6d978046f",
       "title": "'Friendly competition' - could Rogers keep Bellingham out of England team?",
       "url": "https://www.bbc.com/sport/football/articles/c30vy02v7d8o?at_medium=RSS&at_campaign=rss",
@@ -120,19 +237,6 @@
       ]
     },
     {
-      "id": "e0a032a77e6d060d1a7861d102140c7c8da50a1d",
-      "title": "Major corruption scandal engulfs top Zelensky allies",
-      "url": "https://www.bbc.com/news/articles/cy8vw62j3g9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-12T16:42:12.000Z",
-      "summary_90w": "",
-      "raw": "The Ukrainian president has called for the justice and energy ministers to be removed from their posts.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a55fe933076d293f0f6fd0ec9dc5c1baf1110b5a",
       "title": "Lawmakers warn Democratic governors that states are sharing drivers’ data with ICE",
       "url": "https://techcrunch.com/2025/11/12/lawmakers-warn-democratic-governors-that-states-are-sharing-drivers-data-with-ice/",
@@ -143,19 +247,6 @@
       "raw": "A group of Democratic lawmakers asked governors in California, Colorado, and other states to block ICE from accessing their residents’ driver’s license data without their knowledge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "ac9fdb8fb7cf5f0d170da4dabdf14aa5a6338b67",
-      "title": "Streeting accuses doctors' union of acting 'like cartel'",
-      "url": "https://www.bbc.com/news/articles/cj6n32rpy8jo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-12T16:38:31.000Z",
-      "summary_90w": "",
-      "raw": "The health secretary launches strongest criticism yet of the union ahead of Friday's strike by resident doctors.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -232,19 +323,6 @@
       "published": "2025-11-12T16:07:04.000Z",
       "summary_90w": "",
       "raw": "Country explores taking part in the glitzy song contest as it distances from the US and seeks to deepen ties with Europe\nWhen Canada released its federal budget this month, much of it was standard fare, from the plans to downsize the public service to the boost in defence spending.\nBut one line tucked in the nearly 500-page document has captured imaginations on both sides of the Atlantic: a mention that the government is working with Canada’s national broadcaster to explore participation in the Eurovision song contest.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "23c7af2b2b3016700da0acbfde1dcecbfca3985c",
-      "title": "At least six die in crush at Ghana military recruitment event",
-      "url": "https://www.bbc.com/news/articles/crmx0gl82n9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-12T16:05:26.000Z",
-      "summary_90w": "",
-      "raw": "Thousands had turned up to El-Wak stadium, in the capital Accra, with hopes of being enlisted.",
       "topics": [
         "World"
       ]
@@ -575,19 +653,6 @@
       ]
     },
     {
-      "id": "8fcbe14a043714376d4642cff45f5c726b5b2d82",
-      "title": "The Super Mario Galaxy Movie shoots for the stars in first trailer",
-      "url": "https://www.theverge.com/entertainment/818737/super-mario-galaxy-movie-trailer",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-12T14:36:43.000Z",
-      "summary_90w": "",
-      "raw": "The first full Super Mario Galaxy Movie trailer has finally landed, and it looks like Nintendo and Illumination are doing it big for their next animated feature.\nThough there are a few shots of the Mushroom Kingdom and a very miniscule Bowser (Jack Black) imprisoned in a tiny castle, The Super Mario Galaxy Movie‘s new trailer has everyone looking up to the sky as Mario (Chris Pratt), Luigi (Charlie Day), Toad (Keegan-Michael Key) and Princess Peach (Anya Taylor-Joy) venture off into space. That’s where the group encounters a vengeful Bowser Jr. (Benny Safdie) who’s ready to wage war and free his father using a magic paintbrush that can transform things into metallic versions of themselves. The young villain’s arsenal of weapons makes it seem like Mario and  his crew might be outgunned for a while. But the heroes will have Princess Rosalina (Brie Larson) — who looks like she’ll end up being a heavy hitter — on their side.\nThe trailer leans heavily into the action set pieces team Mario will find themselves at the center of as they hop from planet to planet looking for a way to stop their new foe. Curiously, Yoshi doesn’t make an appearance here. But given the last film’s post credits sequence, we can probably expect to see the shoe-wearing dinosaur as we get closer to The Super Mario Galaxy Movie’s April 3rd, 2026 premiere date.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "190a303837eb6390d9eb28d14258c867e0f6abc7",
       "title": "New bridge in south-west China collapses into mountainside",
       "url": "https://www.theguardian.com/world/2025/nov/12/new-hongqi-bridge-in-south-west-china-collapses-into-mountainside",
@@ -596,32 +661,6 @@
       "published": "2025-11-12T14:31:47.000Z",
       "summary_90w": "",
       "raw": "No casualties reported after section of 758-metre structure helping to link Sichuan province to Tibet falls to pieces\nA newly opened bridge in south-west China collapsed on Tuesday, sending slabs of concrete and plumes of dust into the mountainside and water below. No casualties were reported.\nVideos of the collapse of part of Hongqi Bridge, in the mountainous Sichuan province, were shared widely on Chinese social media. Authorities had closed the 758-metre-long bridge on Monday after cracks appeared on nearby roads. A landslide on Tuesday caused part of the bridge to collapse completely.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "bcfa67b1d662ce9d1322ae85430441acf704d253",
-      "title": "UN climate talks are getting weird",
-      "url": "https://www.theverge.com/report/818223/un-climate-united-nations-climate-change-conference-cop30-ai-trade-energy-costs-are-getting-weird",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-12T14:11:17.000Z",
-      "summary_90w": "",
-      "raw": "Brazil's President Luiz Inacio Lula da Silva attends the General Plenary of Leaders in the framework of the COP30 UN Climate Change Conference in Belem, Para State, Brazil, on November 6, 2025.\t\n\nOne of the most consequential rounds of global climate negotiations has kicked off in Belém, Brazil. Leaders from nearly every country in the world - but notably, not the US - are gathering to try to ramp up action on climate change during a time of tremendous transformation when it comes to both energy systems and international cooperation.\nWhatever happens over the course of talks at the United Nations climate conference, known as COP30 this year, will be a peek into what the shuffling world order means for the climate we live in now and for generations to come.\nNo pressure, right? Here's what to know as the negotiations take place throu …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "a04d14751899a0c01b181d38876fa2da0e4fc8f4",
-      "title": "Plans to demolish Netflix's Dept Q police headquarters",
-      "url": "https://www.bbc.com/news/articles/cq501v457v4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-12T14:10:09.000Z",
-      "summary_90w": "",
-      "raw": "Argyle House starred as the police headquarters in the Netflix series, but it could be demolished for a new development.",
       "topics": [
         "World"
       ]
@@ -712,7 +751,7 @@
       "source_name": "TechCrunch",
       "published": "2025-11-12T13:44:01.000Z",
       "summary_90w": "",
-      "raw": "Marble is different from competitors like Odyssey, Decart, and Google's Genie because creates persistent, downloadable 3D environments rather than generating worlds on-the-fly as you explore.",
+      "raw": "Marble is different from competitors like Odyssey, Decart, and Google's Genie because it creates persistent, downloadable 3D environments rather than generating worlds on-the-fly as you explore.",
       "topics": [
         "Technology"
       ]
@@ -1017,19 +1056,6 @@
       ]
     },
     {
-      "id": "3ad2d8b13c8ef347c0413edceae4b9a71095d221",
-      "title": "Adelita Grijalva is set to be sworn in, teeing up a potential vote on Epstein files",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5606350/adelita-grijalva-swearing-in",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-11-12T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Arizona Democrat won her race in September, but Speaker Mike Johnson has waited to swear her in until today. Grijalva has vowed to be the decisive signature in a bid to release the Epstein files.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b806999c728b82aae1e4f38ec6ecd605ba7a33f9",
       "title": "Figma bets on India to expand beyond design",
       "url": "https://techcrunch.com/2025/11/12/figma-bets-on-india-to-expand-beyond-design/",
@@ -1046,24 +1072,11 @@
       "id": "b61137f4fdb6267d15a80982f21f96026d6b1619",
       "title": "Google launches a lawsuit targeting text message scammers",
       "url": "https://www.npr.org/2025/11/12/nx-s1-5604857/google-lawsuit-phishing-text-message-scammers",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-11-12T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Ever gotten a text saying you forgot to pay a nonexistent road toll or need to pick up a mystery package? Google's going after the scammers behind those messages.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
-      "id": "37a5c28bb1f4f628e46f1a4c760cccba06769292",
-      "title": "Here's how many strikes on alleged drug vessels the U.S. has announced",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5604895/trump-venezuela-drug-boat-strikes",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-11-12T10:00:00.000Z",
       "summary_90w": "",
-      "raw": "Since September, the Trump administration has carried out more than a dozen strikes on boats it claims are run by drug traffickers, killing more than 70 people.",
+      "raw": "Ever gotten a text saying you forgot to pay a nonexistent road toll or need to pick up a mystery package? Google's going after the scammers behind those messages.",
       "topics": [
         "World"
       ]
@@ -1342,19 +1355,6 @@
       ]
     },
     {
-      "id": "0ce1dfd8b830140cabd916e9f73ae007ae20a3dd",
-      "title": "Red Bull Racing’s secret weapon? An engineer who treats workflows like lap times",
-      "url": "https://techcrunch.com/2025/11/11/red-bull-racings-secret-weapon-an-engineer-who-treats-workflows-like-lap-times/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-12T02:52:33.000Z",
-      "summary_90w": "",
-      "raw": "Lauren Mekies spent much of his career in the engineering trenches. His approach to winning reflects that technical background, too.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "e0508950fa182e908d930940c4ef480a92e01e96",
       "title": "Evidence of ancient tree-climbing 'drop crocs' found in Australia ",
       "url": "https://www.bbc.com/news/articles/c2lpyrnjleeo?at_medium=RSS&at_campaign=rss",
@@ -1467,19 +1467,6 @@
       "published": "2025-11-11T23:11:06.000Z",
       "summary_90w": "",
       "raw": "Sanae Takaichi drew fire after suggesting Tokyo could take military action if Beijing attacked Taiwan.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "bf0f19dee787086828e0b03b9f3e14f01a199df7",
-      "title": "Asio accuses Chinese hackers of seeking access to Australia’s critical infrastructure",
-      "url": "https://www.theguardian.com/australia-news/2025/nov/12/asio-accuses-chinese-hackers-of-seeking-access-to-australias-criticial-infrastructure",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-11T23:08:38.000Z",
-      "summary_90w": "",
-      "raw": "Mike Burgess points to successful infiltration in the US by units known as Salt Typhoon and Volt Typhoon ‘working for the Chinese government’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAustralia’s intelligence agency has accused “Chinese hackers” of seeking to gain access to critical infrastructure assets, including telecommunications networks.\nIn a speech to a business forum in Melbourne, the director general of the Australian Security and Intelligence Organisation, Mike Burgess, said the nation now faced a threat of “high-impact sabotage”.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1636,19 +1623,6 @@
       "published": "2025-11-11T16:13:55.000Z",
       "summary_90w": "",
       "raw": "Two fathers in Britain enlist law firm to get government to follow through on evacuation promises made months ago\nThe British government is facing legal action over its lack of action to help evacuate families in Gaza after committing to do so months ago.\nTwo families have argued that the government’s failure to act is unlawful and in breach of their family’s human rights. They are among a number of separated families to which the government has failed to keep its evacuation promise, according to the law firm Leigh Day, which is representing them.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "beb25e8bfdf4eb71a1287436be3cfdb3d2da6eab",
-      "title": "'This animal spared my life': Biologist bitten in head by shark hopes to meet it again",
-      "url": "https://www.bbc.com/news/articles/cj0ep00g3ydo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-11T15:56:32.000Z",
-      "summary_90w": "",
-      "raw": "Despite having worked with sharks for 30 years, Mexican Mauricio Hoyos never thought he would encounter one so close up.",
       "topics": [
         "World"
       ]
