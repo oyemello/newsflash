@@ -1,7 +1,111 @@
 {
-  "version": "1762971637765",
-  "generatedAt": "2025-11-12T18:20:37.765Z",
+  "version": "1762973380110",
+  "generatedAt": "2025-11-12T18:49:40.110Z",
   "items": [
+    {
+      "id": "e8dbda016b846908689d24a3ed4ce3c993baeccf",
+      "title": "iOS 26.2 beta adds new Liquid Glass customization, alarms in the Reminders app, and more",
+      "url": "https://techcrunch.com/2025/11/12/ios-26-2-beta-adds-new-liquid-glass-customization-alarms-in-the-reminders-app-and-more/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-12T18:42:33.000Z",
+      "summary_90w": "",
+      "raw": "Apple released the iOS 26.2 beta 1 last week, introducing the option to adjust the Liquid Glass appearance of the lock screen clock, and more.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a42bc6ff3118ec6ca11317a04daa6ae43c863346",
+      "title": "Valve has stopped manufacturing its Index VR headset",
+      "url": "https://www.theverge.com/news/817967/valve-index-vr-headset-stopped-manufacturing-frame",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-12T18:40:00.000Z",
+      "summary_90w": "",
+      "raw": "Valve has just announced the Steam Frame, its new VR headset that can play games streamed directly from your PC using a dedicated streaming stick and run Windows games locally thanks to an Arm chip in the headset itself. At the same time, Valve is also moving on from its previous VR headset, the Valve Index, which it’s “no longer manufacturing,” designer Lawrence Yang tells The Verge.\nThe Index, a high-end headset that had to be tethered to your PC to work and used external “lighthouse” base stations for tracking, was released in 2019. In her review, my colleague Adi Robertson praised its visuals and its controllers, though dinged it for its $999 cost.\nBut corded headsets have also fallen out of favor since then. Meta has sold tens of millions of its standalone Quest VR headsets that can play games without a PC connection and track your position without extra base stations. Even more expensive headsets like the Apple Vision Pro and Samsung’s Galaxy XR have taken the standalone approach.\nThe Frame isn’t exactly a sequel to the Index. But it does improve upon the older headset with some of its specs; the Index’s LCD screens have 1440 x 1600 per-eye resolution, while the Frame offers 2160 x 2160 per eye, for example. If you like the Index’s “Knuckles” controllers and how you can strap them right onto your hand, you’ll be able to buy optional straps for the Frame’s controllers so you can do the same thing.\nAnd Valve is extremely confident in the Frame’s 6GHz wireless streaming adapter as a replacement for a physical cord. In our brief demos at Valve HQ, the streaming worked extremely well.\nThis may be the end for Valve’s lighthouse base stations, which were actually first released in 2016 with the HTC Vive. If you’ve got lighthouse base stations set up in your home already, don’t expect to use them with the Frame anytime soon, if ever.\n“With Steam Frame, we’re not working on lighthouse support for it,” Yang says. Instead of sweeping a room with lasers like the lighthouses, the Frame currently uses four monochrome cameras and IR illuminators to determine its position in 3D space, though it also has a modular accessory port that could support additional cameras.\nGot any burning questions about Valve’s new hardware?\nWe’re holding a subscriber-exclusive AMA today, November 12th, at 3PM ET. Drop your questions here and we’ll do our best to answer them.\nThe Stream Frame is set to launch in early 2026. Valve hasn’t yet shared a specific price for it, only telling us that it will be cheaper than the $999 Index.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6a7fbbf3797a3b4a6fc6027d7646256d4198979b",
+      "title": "Youth detention guard 'possibly most prolific sex offender in British history'",
+      "url": "https://www.bbc.com/news/articles/cdegpepg6n7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-12T18:31:53.000Z",
+      "summary_90w": "",
+      "raw": "An inquiry catalogues missed opportunities to stop abuse at Medomsley Detention Centre.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f4182059c7e20a89f215cda155f75b8068c689ac",
+      "title": "Cop30 live: ‘literally insane’ that we are letting global heating happen, says Al Gore",
+      "url": "https://www.theguardian.com/environment/live/2025/nov/12/cop30-live-talks-us-protests-belem-brazil",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-12T18:28:23.000Z",
+      "summary_90w": "",
+      "raw": "Former US vice-president also critical of Donald Trump and Bill Gates as negotiations begin in earnest\nHello comrades, this is Nina Lakhani in chilly New York City taking over the blog for the next few hours. Thanks very much to my colleague Matt Taylor in London Town who will be back in the hot seat on Friday morning.\nLeading climate activists and influencers have signed a letter criticising PR firm Edelman over its role at the Cop30 summit in Brazil.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f3a388c83f71951e03ba1676328b3f8c7973b3f4",
+      "title": "French-Algerian writer Boualem Sansal pardoned and to be released from prison",
+      "url": "https://www.theguardian.com/world/2025/nov/12/french-algerian-writer-boualem-sansal-pardoned-and-to-be-released-from-prison",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-12T18:23:39.000Z",
+      "summary_90w": "",
+      "raw": "Eighty-one year-old who is suffering from prostate cancer can now be transferred to Germany for medical treatment\nFrench-Algerian writer Boualem Sansal has been pardoned and is to be released from prison, the Algerian presidential office said in a statement on Wednesday.\nThe move, which will mean Sansal can be transferred to Germany for medical treatment, comes after German president Frank-Walter Steinmeier urged Algeria to free Sansal.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7b3a7317ad0bba315a469b173d8fb450fdca6c7d",
+      "title": "At least 37 killed in Peru after bus plunges into ravine",
+      "url": "https://www.bbc.com/news/articles/c1d015pz12po?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-11-12T18:21:08.000Z",
+      "summary_90w": "",
+      "raw": "The bus was carrying 60 passengers when it collided with a truck and careered off the road in the Arequipa region.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b6e9e030b278e82e0088f57b92da054de26c3d59",
+      "title": "Valve has no news about Steam Deck 2",
+      "url": "https://www.theverge.com/news/818313/valve-has-no-news-about-a-steam-deck-2",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-12T18:20:00.000Z",
+      "summary_90w": "",
+      "raw": "Valve has just announced its biggest hardware push that it’s arguably ever made — a living room game console called the Steam Machine, a headset called the Steam Frame, and the long-awaited sequel to its Steam Controller it hinted about three years back.\nBut Valve won’t say the first word about its next gaming handheld, the Steam Deck 2. \n“Steam Deck is not what we’re here to talk about today,” Valve software engineer Pierre-Loup Griffais told us at the very beginning of our briefing. “It’s sort of related but not really,” he said, before launching into a discussion of how the Steam Deck’s learnings underpinned every new product that it’s announcing today.\nThe company wouldn’t tell us if the new drift-resistant TMR joysticks it’s introducing in the Steam Controller and Steam Frame’s wands will make it into a future Steam Deck, either. “We’re always thinking about Steam Deck and ways to improve it in the future,” says Valve hardware engineer Steve Cardinali when I ask. (He also says Valve currently has no plans to offer the TMR joysticks as a drop-in module for the original Deck.)\nGot any burning questions about Valve’s new hardware?\nWe’re holding a subscriber-exclusive AMA today, November 12th, at 3PM ET. Drop your questions here and we’ll do our best to answer them.\nWhile Valve has repeatedly confirmed that the Steam Deck will have sequels, the company’s also repeatedly been clear that it’s in no hurry to bring them to market. Since 2022, Griffais has consistently told us that Valve wants to see a significant leap in performance and efficiency before it takes the plunge. “We really do want to wait for a generational leap in compute without sacrificing battery life before we ship the real second generation of Steam Deck,” is how Valve’s Lawrence Yang concisely reiterated it to Reviews.org in 2024.\nThe question now is: will Valve find that leap in performance and efficiency from x86? Because while Valve initially thought its standalone VR headset might run on the existing Steam Deck’s chip, the company just announced the Steam Frame with an Arm processor instead — using emulation to let it play some Windows games locally on the headset. Griffais tells me he thinks Arm has “a lot of potential” in future handhelds someday.\nValve tells us the Frame has a lower performance target than the nearly four-year-old Steam Deck, so it would need a far more potent Arm chip to power such a handheld. Qualcomm, in particular, has been working on Arm chips for handhelds, though, and one of its customers for the latest was even interested in discussing a possible SteamOS handheld with Valve.\nIt’s also possible Valve already found its next Steam Deck chip in AMD’s future roadmaps — like it did with the original Steam Deck — and is simply waiting for it to arrive.\nNone of that necessarily means you should expect an Arm-based Steam Deck 2 just yet, though.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1c74490e80d67d6a7376ac9081111a89d4eab56d",
+      "title": "Ukrainian energy minister Hrynchuk resigns as corruption probe fallout continues – as it happened",
+      "url": "https://www.theguardian.com/world/live/2025/nov/12/ukraine-energy-corruption-scandal-zelenskyy-eu-europe-news-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-12T18:01:52.000Z",
+      "summary_90w": "",
+      "raw": "Following Zelenskyy’s request Svitlana Hrynchuk has now also resigned from her post. This live blog is closed\nAngela Giuffrida in Rome and Kim Willsher in Paris\nProsecutors in Milan have opened an investigation into Italians who allegedly paid members of the Bosnian Serb army for trips to Sarajevo so that they could kill citizens during the four-year siege of the city in the 1990s.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "4e66861def907be87d20027c5f62dbf189497f19",
       "title": "We tried Valve’s new VR headset, PC, and controller — ask us anything!",
@@ -36,7 +140,7 @@
       "source_name": "The Verge",
       "published": "2025-11-12T18:00:00.000Z",
       "summary_90w": "",
-      "raw": "The Steam Frame, Steam Machine, Steam Deck, and Steam Controller. | Image: Valve\t\n\nIn 2012, The Verge broke the news that Valve was making a game console. Gabe Newell himself dished on the company’s grand plans. By 2015, the “Steam Machines” had utterly flopped. But Valve never stopped quietly working on the idea. The Steam Deck handheld became the seed for a grand reboot of Valve’s console and headset ambitions. And now, Steam Machines are back.\n\n \n @verge \nHello from Valve headquarters! We just saw the Steam Machine, the PC game console that’s not much bigger than a box of Kleenex. It’s coming alongside the sequel to the Steam Controller, the most customizable gamepad ever made. It’s like a Steam Deck for your TV with far more performance — enough to replace an Xbox or PlayStation in your living room, perhaps? But might be priced more like a PC… #valve #steammachine #steamcontroller #gaming #gametok \n ♬ original sound – The Verge – The Verge \n  \n\n\nThe new Steam Machine is for your TV, the Steam Controller is for your hands, the Steam Frame is for your face, and they might just be the start. The company hinted there might be more SteamOS hardware later on.\nWe’re tracking Valve’s rebooted hardware plans in this Verge StoryStream. And if you want to know how we got here, it also contains our original Steam Machine coverage — going back over a decade.\n\n\n\t\t\t\t\t\nValve enters the console wars\n\t\t\t\nOur first look at the Steam Machine, Valve’s ambitious new game console\n\t\t\t\nThe Steam Frame is a surprising new twist on VR\n\t\t\t\nValve’s new Steam Controller might be my dream controller\n\t\t\t\nHere’s the secret Steam Machine that Valve probably used to test headsets.\n\t\t\t\nValve’s master plan for Steam Machines is finally coming into focus\n\t\t\t\nIn case you missed it, the Dreamcast-shaped EmuDeck Machine is dead.\n\t\t\t\nRemember Steam Machines? EmuDeck founder revisits Valve’s TV console idea\n\t\t\t\nWait, wait… HDMI and DisplayPort could’ve been a single port THIS WHOLE TIME?\n\t\t\t\nFarewell to the Steam Link, the best wireless HDMI gadget ever made (update: it’s $2.50)\n\t\t\t\nGaming performance on Valve’s SteamOS can’t keep up with Windows\n\t\t\t\nValve’s first Steam Machines and controller have been officially released\n\t\t\t\nAlienware’s Alpha console will bring Steam to your living room this November\n\t\t\t\nValve delays Steam Machines and controller until 2015\n\t\t\t\nValve shows off updated Steam Controller design\n\t\t\t\nValve posts entirety of Steam Dev Days to YouTube, explaining its console and VR strategy\n\t\t\t\nSteam In-Home Streaming lets you play away from your PC\n\t\t\t\nSteam Controller ditches the touchscreen for better backwards compatibility\n\t\t\t\nAlienware’s Steam Machine will arrive in September\n\t\t\t\nSteamOS now supports Intel and AMD graphics\n\t\t\t\nValve reportedly about to release a standard interface for virtual reality controllers\n\t\t\t\nValve announces 13 Steam Machine partners, including Alienware\n\t\t\t\nCyberPowerPC Steam Machine will compete with consoles at $499\n\t\t\t\nDigital Storm details its first Steam Machine: a hybrid Windows and SteamOS combo for $1,899\n\t\t\t\nValve reportedly has 12 Steam Machine partners\n\t\t\t\nYou can download SteamOS right now\n\t\t\t\nSteamOS will be available to download on December 13th\n\t\t\t\nDigital Storm’s first Steam Machine will be a $1,469 gaming PC\n\t\t\t\nPiixl Jetpack straps a SteamOS PC to the back of your TV\n\t\t\t\niBuyPower’s Steam Machine offers PC specs for the price of a new Xbox\n\t\t\t\nValve says it wouldn’t make ‘Half-Life 3’ a SteamOS exclusive\n\t\t\t\nWe play with the Steam Machine, Valve’s game console of the future\n\t\t\t\nJohn Carmack says odds of Steam Machines being successful are ‘a little bit dicey’\n\t\t\t\nValve demonstrates how its Steam Controller works with your favorite PC games\n\t\t\t\nHere’s what’s inside Valve’s first Steam Machine prototypes\n\t\t\t\nValve’s Steam Box won’t challenge consoles, says ‘Borderlands’ studio boss\n\t\t\t\nValve unveils the Steam Controller\n\t\t\t\nValve announces Steam Machines, the Steam Box hardware beta\n\t\t\t\nSteamOS: could Valve’s game console challenge Windows?\n\t\t\t\nValve announces SteamOS, a living-room operating system for games\n\t\t\t\nValve’s Steam Box teased for Monday reveal on official countdown page\n\t\t\t\nValve’s Steam Box could be revealed next week\n\t\t\t\nXi3 opens $999.99 pre-orders for Piston gaming ‘console PC’ (update 2)\n\t\t\t\nValve will hand out Steam Box prototypes ‘in the next three to four months’\n\t\t\t\nValve’s Gabe Newell addresses layoffs: ‘We aren’t canceling any projects’\n\t\t\t\nValve reportedly fires more employees as part of ‘great cleansing’\n\t\t\t\nValve fires Jeri Ellsworth, who was developing Steam Box game controllers\n\t\t\t\nHow Valve’s Steam Box will reinvent the game console as you know it\n\t\t\t\nGabe Newell says Apple is the Steam Box’s biggest threat\n\t\t\t\n‘Steam was broken’ without a route to the living room, says Valve’s Greg Coomer\n\t\t\t\nValve confirms it’s building a Linux-based Steam Box that will act as a local gaming server for all your screens\n\t\t\t\nExclusive interview: Valve’s Gabe Newell on Steam Box, biometrics, and the future of gaming\n\t\t\t\nValve’s Steam Box gets big push at CES as Gabe Newell meets with major hardware partners\n\t\t\t\nGabe Newell says Valve will release its own console-like PC for the living room\n\t\t\t\nConnect the dots: Valve’s Big Picture could be a Linux game console\n\t\t\t\nValve says it’s jumping into the computer hardware business\n\t\t\t\nValve hiring an engineer to help with ‘hardware design’ in its R&D labs\n\t\t\t\nValve: we won’t be releasing a Steam Box console in the immediate future",
+      "raw": "The Steam Frame, Steam Machine, Steam Deck, and Steam Controller. | Image: Valve\t\n\nIn 2012, The Verge broke the news that Valve was making a game console. Gabe Newell himself dished on the company’s grand plans. By 2015, the “Steam Machines” had utterly flopped. But Valve never stopped quietly working on the idea. The Steam Deck handheld became the seed for a grand reboot of Valve’s console and headset ambitions. And now, Steam Machines are back.\n\n \n @verge \nHello from Valve headquarters! We just saw the Steam Machine, the PC game console that’s not much bigger than a box of Kleenex. It’s coming alongside the sequel to the Steam Controller, the most customizable gamepad ever made. It’s like a Steam Deck for your TV with far more performance — enough to replace an Xbox or PlayStation in your living room, perhaps? But might be priced more like a PC… #valve #steammachine #steamcontroller #gaming #gametok \n ♬ original sound – The Verge – The Verge \n  \n\n\nThe new Steam Machine is for your TV, the Steam Controller is for your hands, and the Steam Frame is for your face— and they might just be the start. The company hinted there might be more SteamOS hardware later on.\nWe’re tracking Valve’s rebooted hardware plans in this Verge StoryStream. And if you want to know how we got here, it also contains our original Steam Machine coverage — going back over a decade.\n\n\n\t\t\t\t\t\nValve has no news about Steam Deck 2\n\t\t\t\nValve enters the console wars\n\t\t\t\nOur first look at the Steam Machine, Valve’s ambitious new game console\n\t\t\t\nThe Steam Frame is a surprising new twist on VR\n\t\t\t\nValve’s new Steam Controller might be my dream controller\n\t\t\t\nHere’s the secret Steam Machine that Valve probably used to test headsets.\n\t\t\t\nValve’s master plan for Steam Machines is finally coming into focus\n\t\t\t\nIn case you missed it, the Dreamcast-shaped EmuDeck Machine is dead.\n\t\t\t\nRemember Steam Machines? EmuDeck founder revisits Valve’s TV console idea\n\t\t\t\nWait, wait… HDMI and DisplayPort could’ve been a single port THIS WHOLE TIME?\n\t\t\t\nFarewell to the Steam Link, the best wireless HDMI gadget ever made (update: it’s $2.50)\n\t\t\t\nGaming performance on Valve’s SteamOS can’t keep up with Windows\n\t\t\t\nValve’s first Steam Machines and controller have been officially released\n\t\t\t\nAlienware’s Alpha console will bring Steam to your living room this November\n\t\t\t\nValve delays Steam Machines and controller until 2015\n\t\t\t\nValve shows off updated Steam Controller design\n\t\t\t\nValve posts entirety of Steam Dev Days to YouTube, explaining its console and VR strategy\n\t\t\t\nSteam In-Home Streaming lets you play away from your PC\n\t\t\t\nSteam Controller ditches the touchscreen for better backwards compatibility\n\t\t\t\nAlienware’s Steam Machine will arrive in September\n\t\t\t\nSteamOS now supports Intel and AMD graphics\n\t\t\t\nValve reportedly about to release a standard interface for virtual reality controllers\n\t\t\t\nValve announces 13 Steam Machine partners, including Alienware\n\t\t\t\nCyberPowerPC Steam Machine will compete with consoles at $499\n\t\t\t\nDigital Storm details its first Steam Machine: a hybrid Windows and SteamOS combo for $1,899\n\t\t\t\nValve reportedly has 12 Steam Machine partners\n\t\t\t\nYou can download SteamOS right now\n\t\t\t\nSteamOS will be available to download on December 13th\n\t\t\t\nDigital Storm’s first Steam Machine will be a $1,469 gaming PC\n\t\t\t\nPiixl Jetpack straps a SteamOS PC to the back of your TV\n\t\t\t\niBuyPower’s Steam Machine offers PC specs for the price of a new Xbox\n\t\t\t\nValve says it wouldn’t make ‘Half-Life 3’ a SteamOS exclusive\n\t\t\t\nWe play with the Steam Machine, Valve’s game console of the future\n\t\t\t\nJohn Carmack says odds of Steam Machines being successful are ‘a little bit dicey’\n\t\t\t\nValve demonstrates how its Steam Controller works with your favorite PC games\n\t\t\t\nHere’s what’s inside Valve’s first Steam Machine prototypes\n\t\t\t\nValve’s Steam Box won’t challenge consoles, says ‘Borderlands’ studio boss\n\t\t\t\nValve unveils the Steam Controller\n\t\t\t\nValve announces Steam Machines, the Steam Box hardware beta\n\t\t\t\nSteamOS: could Valve’s game console challenge Windows?\n\t\t\t\nValve announces SteamOS, a living-room operating system for games\n\t\t\t\nValve’s Steam Box teased for Monday reveal on official countdown page\n\t\t\t\nValve’s Steam Box could be revealed next week\n\t\t\t\nXi3 opens $999.99 pre-orders for Piston gaming ‘console PC’ (update 2)\n\t\t\t\nValve will hand out Steam Box prototypes ‘in the next three to four months’\n\t\t\t\nValve’s Gabe Newell addresses layoffs: ‘We aren’t canceling any projects’\n\t\t\t\nValve reportedly fires more employees as part of ‘great cleansing’\n\t\t\t\nValve fires Jeri Ellsworth, who was developing Steam Box game controllers\n\t\t\t\nHow Valve’s Steam Box will reinvent the game console as you know it\n\t\t\t\nGabe Newell says Apple is the Steam Box’s biggest threat\n\t\t\t\n‘Steam was broken’ without a route to the living room, says Valve’s Greg Coomer\n\t\t\t\nValve confirms it’s building a Linux-based Steam Box that will act as a local gaming server for all your screens\n\t\t\t\nExclusive interview: Valve’s Gabe Newell on Steam Box, biometrics, and the future of gaming\n\t\t\t\nValve’s Steam Box gets big push at CES as Gabe Newell meets with major hardware partners\n\t\t\t\nGabe Newell says Valve will release its own console-like PC for the living room\n\t\t\t\nConnect the dots: Valve’s Big Picture could be a Linux game console\n\t\t\t\nValve says it’s jumping into the computer hardware business\n\t\t\t\nValve hiring an engineer to help with ‘hardware design’ in its R&D labs\n\t\t\t\nValve: we won’t be releasing a Steam Box console in the immediate future",
       "topics": [
         "Technology"
       ]
@@ -94,29 +198,16 @@
       ]
     },
     {
-      "id": "1c74490e80d67d6a7376ac9081111a89d4eab56d",
-      "title": "Ukrainian energy minister Hrynchuk resigns as corruption probe fallout continues – live",
-      "url": "https://www.theguardian.com/world/live/2025/nov/12/ukraine-energy-corruption-scandal-zelenskyy-eu-europe-news-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-12T17:50:59.000Z",
-      "summary_90w": "",
-      "raw": "Following Zelenskyy’s request Svitlana Hrynchuk has now also resigned from her post \nAngela Giuffrida in Rome and Kim Willsher in Paris\nProsecutors in Milan have opened an investigation into Italians who allegedly paid members of the Bosnian Serb army for trips to Sarajevo so that they could kill citizens during the four-year siege of the city in the 1990s.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "819cf3beadfb9b2854c5b94a8463656799918690",
-      "title": "'$230 for a cut-up sock' - Apple's new iPhone Pocket ridiculed online",
+      "title": "£220 ‘for a cut-up sock' - Apple's new iPhone Pocket ridiculed online",
       "url": "https://www.bbc.com/news/articles/cn97ndgpnq7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-11-12T17:47:37.000Z",
       "summary_90w": "",
       "raw": "Many took aim at the high price online, while others made fun of its striking likeness to a piece of footwear.",
       "topics": [
-        "Technology"
+        "World"
       ]
     },
     {
@@ -146,19 +237,6 @@
       ]
     },
     {
-      "id": "f4182059c7e20a89f215cda155f75b8068c689ac",
-      "title": "Cop30 live: ‘literally insane’ that we are letting global heating happen, says Al Gore",
-      "url": "https://www.theguardian.com/environment/live/2025/nov/12/cop30-live-talks-us-protests-belem-brazil",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-12T17:39:59.000Z",
-      "summary_90w": "",
-      "raw": "Former US vice-president also critical of Donald Trump and Bill Gates as negotiations begin in earnest\nHello comrades, this is Nina Lakhani in chilly New York City taking over the blog for the next few hours. Thanks very much to my colleague Matt Taylor in London Town who will be back in the hot seat on Friday morning.\nLeading climate activists and influencers have signed a letter criticising PR firm Edelman over its role at the Cop30 summit in Brazil.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e0a032a77e6d060d1a7861d102140c7c8da50a1d",
       "title": "Major corruption scandal engulfs top Zelensky allies",
       "url": "https://www.bbc.com/news/articles/cy8vw62j3g9o?at_medium=RSS&at_campaign=rss",
@@ -182,19 +260,6 @@
       "raw": "The health secretary launches strongest criticism yet of the union ahead of Friday's strike by resident doctors.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "116aea6a0f601c3d4a00b2efdc2e4e99f4d899c2",
-      "title": "Aqara’s cord-free presence sensor runs for up to three years on battery power",
-      "url": "https://www.theverge.com/news/819067/aqara-presence-multi-sensor-fp300-battery-power-zigbee-matter-thread",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-12T17:24:24.000Z",
-      "summary_90w": "",
-      "raw": "The FP300 can detect people when moving or stationary, and has light, temperature, and humidity sensors. | Image: Aqara\t\n\nAqara has announced its first battery-powered presence sensor, which can be installed nearly anywhere in your home to automate smart devices as your family comes and goes. Instead of having to hide a cord and plan its location around a power source, a pair of CR2450 coin cell batteries powers the Presence Multi-Sensor FP300 for up to three years when using it with a Zigbee smart home setup, or up to two years if you’ve upgraded to Thread. It’s available now through Amazon or Aqara’s website for $49.99.\nThe FP300 uses a combination of passive infrared (PIR) and 60 GHz mmWave radar sensors to detect moving or stationary people up to 20 feet away so you can set up automations that turn on lights when someone enters a room, or turns off various smart home devices after a room has been empty for a few minutes. The FP300 also features built-in temperature, humidity, and light sensors so you can automate climate control settings for comfort or energy efficiency.\nWith both Zigbee and Matter over Thread support, the sensor can be used across smart home platforms including Apple Home, Google Home, Amazon Alexa, and Samsung SmartThings. If you stick with Zigbee, in addition to longer battery life, you can adjust the FP300’s detection range in the Aqara Home mobile app, and turn off individual sensors to further extend its battery life. The switch to battery power does come with some tradeoffs. The FP300 lacks the multi-person detection, fall detection, and real-time heart and respiratory rate monitoring while you sleep that’s available with Aqara’s more expensive FP2 presence sensor.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -263,19 +328,6 @@
       ]
     },
     {
-      "id": "347b2aa53b88ba8b76b2a99f4eda877b51d16165",
-      "title": "Anthropic will invest $50 billion in building AI data centers in the US",
-      "url": "https://www.theverge.com/news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-12T17:17:06.000Z",
-      "summary_90w": "",
-      "raw": "Anthropic just announced plans to put $50 billion toward bolstering computing infrastructure in the US. As part of the initiative, the company is working with the AI cloud platform Fluidstack to build datacenters in Texas and New York, “with more sites to come.” \nThe data centers will come online throughout 2026 and create 800 jobs, according to Anthropic. “It will help advance the goals in the Trump administration’s AI Action Plan to maintain American AI leadership and strengthen domestic technology infrastructure,” Anthropic says in the press release.\nAnthropic isn’t the only AI company pouring billions into building out data centers, as OpenAI and SoftBank announced the $500 billion “Stargate Project” in January, which will light up a series of AI data centers around the US, starting with Texas. Meta has also committed $600 billion to invest in US infrastructure and data centers.\nAnthropic says that the size of its investment “is necessary to meet the growing demand” for its AI chatbot Claude, while also allowing it to keep its research “at the frontier” of the technology.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "141a6d8379a21f31d83ece51b6525cd21b0f7474",
       "title": "Why a researcher is building robots that look and act like bats ",
       "url": "https://techcrunch.com/2025/11/12/why-a-researcher-is-building-robots-that-look-and-act-like-bats/",
@@ -299,6 +351,19 @@
       "raw": "The autocomplete will help users create more effective prompts for AI apps, resulting in fewer back-and-forths.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "1193ed835ff66a930ff5bb55cf6a1c543e9bf7bd",
+      "title": "Woman fatally stabbed in neck in Birmingham was 'shining light', family say",
+      "url": "https://www.bbc.com/news/articles/c5ypzne9ekeo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-12T16:58:57.000Z",
+      "summary_90w": "",
+      "raw": "The family of Katie Fox, who died after being stabbed in the neck in Birmingham, pay tribute to her.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -342,7 +407,7 @@
     },
     {
       "id": "22b0b9187a6872d14ca9fdb7000e20c37bc85275",
-      "title": "Victims' commissioner Baroness Newlove dies, aged 63",
+      "title": "Victims' commissioner Baroness Newlove dies aged 63",
       "url": "https://www.bbc.com/news/articles/c3dn394z90ro?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -744,19 +809,6 @@
       ]
     },
     {
-      "id": "6a7fbbf3797a3b4a6fc6027d7646256d4198979b",
-      "title": "Youth detention guard 'possibly most prolific sex offender in British history'",
-      "url": "https://www.bbc.com/news/articles/cdegpepg6n7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-12T13:51:00.000Z",
-      "summary_90w": "",
-      "raw": "An inquiry catalogues missed opportunities to stop abuse at Medomsley Detention Centre.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b8f82e32636b99dabecce29bd3cf927d0e02f075",
       "title": "Colombian military bombs suspected rebel camp, killing 19 ",
       "url": "https://www.bbc.com/news/articles/c0jdyx6505do?at_medium=RSS&at_campaign=rss",
@@ -1147,19 +1199,6 @@
       ]
     },
     {
-      "id": "7cfda7ec8697e3951a0b0f6053b740ee262c940d",
-      "title": "Thousands of NHS England staff to lose jobs after Treasury approves £1bn pay-off deal",
-      "url": "https://www.bbc.com/news/articles/c3w9y9dpv5qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-12T09:00:51.000Z",
-      "summary_90w": "",
-      "raw": "The compromise deal would allow the NHS to overspend this year.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "d2b80a66dba0893d3672b972ca1e12bead940610",
       "title": "Trump says he has 'obligation' to sue BBC over speech edit",
       "url": "https://www.bbc.com/news/articles/ce9d5m54350o?at_medium=RSS&at_campaign=rss",
@@ -1209,32 +1248,6 @@
       "raw": "This blog is now closed\n\nLiberals poised to dump net zero target after majority reject policy in marathon five-hour meeting\n\nGet our breaking news email, free app or daily news podcast\n\nRemoving CO2 from atmosphere vital to avoid catastrophic tipping points, leading scientist says\nRemoving carbon from the atmosphere will be necessary to avoid catastrophic tipping points, one of the world’s leading scientists has warned, as even in the best-case scenario the world will heat by about 1.7C.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "6caa043816b8a7e1d1e6295b5a288dc169a44c96",
-      "title": "Thailand extradites owner of Myanmar scam city to China",
-      "url": "https://www.bbc.com/news/articles/cx20xx2pl69o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-12T07:02:44.000Z",
-      "summary_90w": "",
-      "raw": "She Zhijiang is one of the biggest figures linked to South East Asia's cyberscam operations.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f98b8d4654b7c9842fabe4428477024ed7f3d3ea",
-      "title": "The global race for the AI app layer is still on",
-      "url": "https://techcrunch.com/2025/11/11/the-global-race-for-the-ai-app-layer-is-still-on/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-12T07:01:00.000Z",
-      "summary_90w": "",
-      "raw": "The U.S. is far ahead of Europe in the race for large AI models, at least in funding. But the picture is different for the application layer, global VC firm Accel highlighted in its 2025 Globalscape report.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1420,19 +1433,6 @@
       ]
     },
     {
-      "id": "6c08d5876305c32a814ec47db720877d6aa61169",
-      "title": "Global girl group Katseye have received 'thousands' of death threats",
-      "url": "https://www.bbc.com/news/articles/cj6ng8w1xrjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-12T00:37:29.000Z",
-      "summary_90w": "",
-      "raw": "The band, nominated for best new act at the Grammys, discuss the \"jarring\" hatred they've received.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1f99a5ef6c75922286ee59bd1cfdb8912f5b7020",
       "title": "UK seeking to curb AI child sex abuse imagery with tougher testing",
       "url": "https://www.bbc.com/news/articles/cn8xq677l9xo?at_medium=RSS&at_campaign=rss",
@@ -1443,6 +1443,19 @@
       "raw": "A new law will allow authorised testers to assess AI models for their ability to generate abuse material",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "88dab0a04a220846c9b8b927f24fe3023bd9f964",
+      "title": "California governor calls Trump ‘an invasive species’ at Cop30 climate talks",
+      "url": "https://www.theguardian.com/environment/2025/nov/11/gavin-newsom-trump-cop30",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-11T23:56:34.000Z",
+      "summary_90w": "",
+      "raw": "Gavin Newsom is most senior US politician at annual talks, heading alternate delegation in Trump’s absence\n\nUS politics live – latest updates\n\nCalifornia’s governor, Gavin Newsom, has said Donald Trump is an “invasive species” whose dismissal of the climate crisis is an “abomination”, in a fiery attack at the UN climate talks in Brazil – from which Trump and his administration have been completely absent.\nNewsom is the most senior American politician at the Cop30 summit in Belém, after Trump took the unprecedented step of not sending a delegation to the talks. Newsom sought to fill the notable void of official US activity by lambasting the president for tearing up climate policies and pushing for burning more of the fossil fuels that have caused dangerous global heating.\n Continue reading...",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1482,19 +1495,6 @@
       "raw": "Visa and Mastercard say they've reached a deal to resolve a long-running battle with businesses over \"swipe fees.\"  But retailers and restaurants say it doesn't go far enough.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "f0dfc67a9c855bcfedbf0f4bb742f273cce19380",
-      "title": "World must ‘honour 1.5C’, small island states insist at Cop30 summit – as it happened",
-      "url": "https://www.theguardian.com/environment/live/2025/nov/11/cop30-live-negotiations-begin-after-agenda-agreed",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-11T21:01:36.000Z",
-      "summary_90w": "",
-      "raw": "This live blog is now closed. You can read the full Guardian coverage of the climate talks in Brazil here\nIn the run-up to Cop30, the Guardian published a series of articles looking at the ten biggest polluters of greenhouse gas, and their plans to clean up. Here’s a piece my colleague Jonathan Watts wrote in September about China, which according to an analysis published today has plateaued its emissions.\nChinese power took on an old-fashioned hue in the past week with a huge military parade, a gathering of former allies Russia and North Korea, and President Xi Jinping’s defiant vow not to be intimidated by bullies.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1664,19 +1664,6 @@
       "raw": "President Trump says the government will distribute checks to Americans from tariff revenue. Here's what that could mean.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "4274e9d22dd9742481bd2b9d8255a8c39b32d448",
-      "title": "Violent reprisals after DRC whistleblowers discover profiteering in protected land",
-      "url": "https://www.theguardian.com/environment/2025/nov/11/violent-reprisals-after-drc-whistleblowers-discover-profiteering-in-protected-land",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-11T08:00:12.000Z",
-      "summary_90w": "",
-      "raw": "Environmentalists seeking to end logging, smuggling and pollution in DRC’s Mangrove Marine park faced threats, violence and rape\nPeople who have tried to expose unlawful ownership and profit-making from protected land in the Democratic Republic of Congo (DRC) have faced threats, violence and rape, an investigation has found.\nThe DRC government hired the conservation worker Kim Rebholz in 2022 to safeguard the Mangrove Marine park, an internationally recognised nature reserve on the country’s tiny coastline. The Congo basin rainforest, to the east, is the largest rainforest after the Amazon.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
