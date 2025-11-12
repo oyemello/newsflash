@@ -1,7 +1,33 @@
 {
-  "version": "1762976391172",
-  "generatedAt": "2025-11-12T19:39:51.172Z",
+  "version": "1762977115673",
+  "generatedAt": "2025-11-12T19:51:55.673Z",
   "items": [
+    {
+      "id": "542dfcc761a81a9d98a6b79171cc40687f13fff3",
+      "title": "Elon Musk’s X botched its security key switchover, locking users out",
+      "url": "https://techcrunch.com/2025/11/12/elon-musks-x-botched-its-security-key-switchover-locking-users-out/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-12T19:40:08.000Z",
+      "summary_90w": "",
+      "raw": "As part of an effort to retire the old Twitter.com domain, X is requiring passkey and security key users to re-enroll — but are getting stuck in endless loops and unable to finish.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3197d0c31fd3df2a83268f231a252bff9ad389d6",
+      "title": "How the Steam Frame compares to other VR headsets",
+      "url": "https://www.theverge.com/news/818041/valve-steam-frame-vr-headsets-comparison",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-12T19:40:00.000Z",
+      "summary_90w": "",
+      "raw": "Valve just announced the Steam Frame, a new standalone VR headset that can both stream games from a PC and play games locally thanks to an onboard Arm chip. The headset is quite a bit different from Valve’s previous model, the Index, which had to be tethered to a gaming computer with a physical wire. But it also stands out from a lot of other major VR headsets on the market right now, like the Meta Quest 3, Samsung Galaxy XR, and Apple Vision Pro.\nA big way the Frame separates itself from the pack is its focus on streaming your games. That’s all made possible thanks to a wireless dongle that comes with every Frame: plug it into your PC, and you can stream both your flat and VR games to the headset over a low-latency connection. I got to try the streaming for myself at Valve’s headquarters while playing Half-Life: Alyx, and I didn’t notice any discernible lag.\n\nCategorySteam FrameMeta Quest 3Apple Vision ProSamsung Galaxy XR\n\nColorsBlackWhiteSilverSilver\nWeight (grams)185g (core unit), 440g (with head strap that adds audio and rear battery)515g750–800g (depending on light seal and headband configuration)545g, though weight may vary if you wear the light shield or not\nOSSteamOSMeta Horizon OSvisionOSAndroid XR\nLensesPancakePancakePancakePancake\nScreen typeLCDLCDmicro-OLEDmicro-OLED\nResolution2160 x 2160 per eye2064 x 2208 per eye3660 x 3200 per eye4K per eye\nRefresh rate72-144Hz refresh rate (144Hz experimental)72Hz, 90Hz, 120Hz90Hz, 96Hz, 100Hz, 120Hz60Hz, 72Hz (default), up to 90Hz\nProcessorSnapdragon 8 Gen 3Snapdragon XR2 Gen 2Apple M5 chipSnapdragon XR2 Plus Gen 2\nFOVUp to 110 degreesUp to 100 degrees horizontal and 96 degrees verticalEstimated to be about 100 degrees 109 degrees horizontal and 100 degrees vertical\nRAM16GB unified LPDDR5 RAM8GB16GB, reportedly16GB\nStorage256GB / 1TB UFS storage options, microSD card slot512GB256GB, 512GB, 1TB256GB\nConnectivityWi-Fi 7, includes dedicated Wi-Fi 6E adapter for low-latency streaming gamesWi-Fi 6EWi‑Fi 6Wi-Fi 7\nTracking, passthrough, and sensors4 outward-facing monochrome cameras for\ncontroller and headset tracking, 2 interior cameras for eye tracking, outward IR illuminator2 RGB cameras with 18 PPD for full-color passthrough2 high‑resolution main cameras, 6 world‑facing tracking cameras, 4 eye‑tracking cameras, TrueDepth camera, LiDAR Scanner, 4 inertial measurement units (IMUs), flicker sensor, ambient light sensor2 high-resolution passthrough cameras, 6 world-facing tracking cameras, 4 eye-tracking cameras, 5 Inertial Measurement Units (IMUs), depth sensor, flicker sensor  \nEye trackingYesNoYesYes\nBattery capacity21.6Wh19.44WhUp to 2.5 hours of “general use”Up to 2 hours of “general usage”\nStarting priceTBA$499.99$3,499.00$1,799.99\nAvailabilityEarly 2026October 2023October 2025October 2025\n\n\n\nYou can also play games right on the Frame itself because Valve has gotten SteamOS working on Arm; the headset is equipped with a Snapdragon 8 Gen 3 chip. Other headsets can play games locally, too — typically games built specifically for their respective platforms. But the Frame is actually able to run Windows x86 code and recompile it in real time using an emulator, meaning that a vast amount of the Steam library will be playable directly on the headset without you or any developers having to do anything.\nThat said, you shouldn’t expect to be able to play high-end games locally on the Frame. Valve designer Lawrence Yang tells The Verge that developers should target lower performance than they would for a game on Steam Deck. The Frame’s real-time emulation could affect performance; while playing Hollow Knight: Silksong and Hades II on the headset, both of which are relatively lower-end games, I saw some stutters that I never see on my Steam Deck. (According to Valve hardware engineer Jeremy Selan, this was a bug and the company expects to make improvements leading up to and after launch.)\nGot any burning questions about Valve’s new hardware?\nWe’re holding a subscriber-exclusive AMA today, November 12th, at 3PM ET. Drop your questions here and we’ll do our best to answer them.\nValve isn’t sharing a price just yet, but hardware engineer Gabe Rowe did tell The Verge that the company is aiming for a cost that’s less than the Index. Meta’s Quest 3 costs $499.99, while the Samsung Galaxy XR and Apple Vision Pro — two headsets that have higher-resolution micro-OLED displays and sensors that support color passthrough — cost $1,799.99 and $3,499, respectively. If you’re curious how that all compares to the outgoing Index, we’ve whipped up a comparison below; Valve sold the Index for $999 with the necessary controllers and base stations.\n\nCategorySteam FrameValve Index\n\nColorsBlackBlack\nWeight (grams)185g (core unit), 440g (with head strap that adds audio and rear battery)809g\nOSSteamOSN/A\nLensesPancakeFresnel\nScreen typeLCDLCD\nResolution2160 x 2160 per eye1440 x 1600 per eye\nRefresh rate72–144Hz refresh rate (144Hz experimental)80/90/120, 144Hz experimental\nProcessorSnapdragon 8 Gen 3N/A\nFOVUp to 110 degreesUp to 130 degrees\nRAM16GB unified LPDDR5 RAMN/A\nStorage256GB / 1TB UFS storage options, microSD card slotN/A\nConnectivityWi-Fi 7, includes dedicated Wi-Fi 6E adapter for low-latency streaming gamesMust connect headset to PC via DisplayPort, plug cameras to USB 3.0 port, and into a power outlet for power\nTracking and passthrough4 outward-facing monochrome cameras for\ncontroller and headset tracking, 2 interior cameras for eye tracking, outward IR illuminatorAt least one base station for tracking, dual 960 x 960 passthrough cameras\nEye trackingYesNo\nBattery capacity21.6WhN/A\nStarting priceTBA$499 (standalone), $999 (with controllers and base stations)\nAvailabilityEarly 2026June 2019\n\n\n\nValve is set to release the Steam Frame in early 2026. I recently got to try it at Valve’s headquarters, and I think the company is on to something.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "0c40e766ea6a231d496c43347e1dbe6940ff7e83",
       "title": "Australia news live: aurora lights up night sky after solar storm; Liberals to reveal energy policy",
@@ -258,19 +284,6 @@
       "published": "2025-11-12T18:00:00.000Z",
       "summary_90w": "",
       "raw": "Here’s me wearing the Steam Frame, Valve’s new VR headset.\t\n\nValve is about to launch a new virtual reality headset, and with it, a comprehensive new approach to what a VR device should be. Most VR headsets I've tried have ended up collecting dust after the novelty wore off, and I thought I had sworn off VR for good. But after trying Valve's new headset for myself at the company's headquarters, I was nearly ready to put down my credit card before I walked out the door.\nThe new headset is called the Steam Frame, and it's trying to do several things at once. It's a standalone VR headset with a smartphone-caliber Arm chip inside that lets you play flat-screen Windows games locally off the onboard storag …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "afdb207717a29aba91f8743f0e2ef037fdd78d23",
-      "title": "Valve enters the console wars",
-      "url": "https://www.theverge.com/games/818622/valve-console-wars-price-sony-microsoft-nintendo-windows",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-12T18:00:00.000Z",
-      "summary_90w": "",
-      "raw": "On the 15th floor of an upscale office building in Bellevue, Washington, security guards line the halls. They're here to make sure we don't stray - because I'm visiting Valve's headquarters, a place few journalists ever get to go. The guards help escort me to a tiny demo room, where a pair of Valve engineers show me their pride and joy: a glowing 6-inch cube, barely bigger than a box of Kleenex, that they hope might be the future of video game consoles. \nFor a moment, I feel like I'm watching history repeat itself. Twelve years ago, in a different Valve office half a mile away, the maker of Half-Life and Portal showed me what ultimately bec …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -1082,19 +1095,6 @@
       ]
     },
     {
-      "id": "29d6815a7787fa2814c0dabc169a53600f80a3de",
-      "title": "Self-driving trucks startup Einride plans to go public via a SPAC",
-      "url": "https://techcrunch.com/2025/11/12/self-driving-trucks-startup-einride-plans-to-go-public-via-a-spac/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-12T11:30:00.000Z",
-      "summary_90w": "",
-      "raw": "The Swedish startup just raised $100 million from investors last month.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "067f91744a05f3561834429242576f0e81769ffb",
       "title": "US House set for crunch vote on ending historic government shutdown",
       "url": "https://www.bbc.com/news/articles/cr437q69422o?at_medium=RSS&at_campaign=rss",
@@ -1212,14 +1212,14 @@
       ]
     },
     {
-      "id": "356310d5ae4994ebdcc668b19b76b8e8b22d0621",
-      "title": "Once upon a time, nostalgia was epidemic among homesick soldiers",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5599179/nostalgia-origin-etymology-homesickness-swiss-soldiers",
+      "id": "37a5c28bb1f4f628e46f1a4c760cccba06769292",
+      "title": "Here's how many strikes on alleged drug vessels the U.S. has announced",
+      "url": "https://www.npr.org/2025/11/12/nx-s1-5604895/trump-venezuela-drug-boat-strikes",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-11-12T10:00:00.000Z",
       "summary_90w": "",
-      "raw": "The word began as a medical diagnosis but over the centuries has evolved to mean the longing for a bygone, idealized past.",
+      "raw": "Since September, the Trump administration has carried out more than a dozen strikes on boats it claims are run by drug traffickers, killing more than 70 people.",
       "topics": [
         "World"
       ]
