@@ -1,7 +1,85 @@
 {
-  "version": "1763047024051",
-  "generatedAt": "2025-11-13T15:17:04.051Z",
+  "version": "1763048229548",
+  "generatedAt": "2025-11-13T15:37:09.548Z",
   "items": [
+    {
+      "id": "f8ca3312e96b45db3f10ccd2a57ea58ffa5fe27a",
+      "title": "Sam Atlman-backed Exowatt wants to power AI data centers with billions of hot rocks",
+      "url": "https://techcrunch.com/2025/11/13/sam-atlman-backed-exowatt-wants-to-power-ai-data-centers-with-billions-of-hot-rocks/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-13T15:30:00.000Z",
+      "summary_90w": "",
+      "raw": "The solar-thermal startup wants to deliver electricity for as little as one cent per kWh. But first it has to scale production to 1 million units per year.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b1a37ce624443661f2f8de5fca1e5c1a8d750607",
+      "title": "What emails in the Epstein document release say about Donald Trump",
+      "url": "https://www.bbc.com/news/articles/c3rj0d97ynvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T15:27:26.000Z",
+      "summary_90w": "",
+      "raw": "In emails released by Democrats, Epstein says Trump \"knew about the girls\". The White House says they are an attempt to \"smear\" the president.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b1a37ce624443661f2f8de5fca1e5c1a8d750607",
+      "title": "What we know about new Epstein emails that mention Trump",
+      "url": "https://www.bbc.com/news/articles/c3rj0d97ynvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-11-13T15:27:26.000Z",
+      "summary_90w": "",
+      "raw": "In emails released by Democrats, Epstein says Trump \"knew about the girls\". The White House says they are an attempt to \"smear\" the president.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8f1eac8ab51fa567748e5e8e5aba916fe6e75182",
+      "title": "Nigeria cancels mother-tongue teaching in primary schools and reverts to English",
+      "url": "https://www.bbc.com/news/articles/cd7rlrzq88wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-11-13T15:24:44.000Z",
+      "summary_90w": "",
+      "raw": "Exam results from areas which dropped English have declined, the education minister says, announcing the U-turn.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e178a01ba93fe851157789675343a86cc8ab47eb",
+      "title": "Royal outrider cleared over pedestrian's death",
+      "url": "https://www.bbc.com/news/articles/cy0yj4kp0eyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T15:23:40.000Z",
+      "summary_90w": "",
+      "raw": "Met Police officer PC Christopher Harrison was accused of causing death by careless driving.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6f6c90c797848be773555127be6f6c09dda8c232",
+      "title": "Ukraine’s PM announces plans to audit public companies: ‘corruption is unacceptable’ – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/nov/13/volodymyr-zelenskyy-ukraine-russia-corruption-brussels-news-updates-europe-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-13T15:13:55.000Z",
+      "summary_90w": "",
+      "raw": "Yulia Svyrydenko says government will conduct major audit of Energoatom and other state-owned firms in bid to fight corruption allegations\nA bitter battle over the future of a Chinese-owned chipmaker in the Netherlands that threatened to cripple the global car industry is a “wake-up call to Europe and the west”, the minister at the heart of the row has warned.\nThe six-week standoff between the EU and Beijing over Nexperia and its vital supplies of automotive semiconductors has served up a sobering lesson to world leaders over their dependency on China, says Vincent Karremans.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "bde26cb059deb73cab4081fbe7264677359b5013",
       "title": "UK's first small nuclear power station to be built in north Wales ",
@@ -50,19 +128,6 @@
       "published": "2025-11-13T15:03:52.000Z",
       "summary_90w": "",
       "raw": "President Trump signed a bill reopening the government Wednesday night, but it will take more than a day for some things to return to business as usual. We're tracking those here.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e178a01ba93fe851157789675343a86cc8ab47eb",
-      "title": "Royal outrider cleared over pedestrian's death",
-      "url": "https://www.bbc.com/news/articles/cy0yj4kp0eyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-13T15:03:18.000Z",
-      "summary_90w": "",
-      "raw": "Met Police officer PC Christopher Harrison was accused of causing death by careless driving.",
       "topics": [
         "World"
       ]
@@ -117,19 +182,6 @@
       "raw": "So a lot of people think AI is a bubble. That includes OpenAI CEO Sam Altman, who keeps saying AI is a bubble all while raising and spending enormous amounts of money in ways that seem like bubble indicators to everyone else. This is all pretty confusing. So we sent Verge senior reporter Liz Lopatto out to report on the AI bubble  — whether it’s real, how it might pop, and what all of this means. \nShe’s joining Decoder today to talk about a particular company that sits right in the middle of all of it. That company is called CoreWeave, and Liz has spent considerable time diving into its history, its financials, and the truly fascinating story that all of that tells us about the modern AI boom. Liz has a big story about all this running next week on The Verge, so if you want even more detail after you listen to this episode, stay tuned for that. \n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nBut to me the basics of the CoreWeave story are themselves fascinating. CoreWeave was founded by former commodities traders as an Ethereum mining firm out of New Jersey. Like so much of the tech industry, when crypto sputtered, CoreWeave pivoted to AI. It started to use the same GPUs it was stockpiling to mine Ethereum to start up its own data center operation.\nCoreWeave’s big innovation is creative financing. It raises huge money to build data centers full of Nvidia GPUs, and then it leases that compute back to big AI companies to feed the industry’s seemingly insatiable demand for compute. That’s turned CoreWeave into a pillar of the obscenely expensive AI infrastructure build-out that’s turned markets inside out over the past year. \nCoreWeave itself went public this past March, and it’s worth almost $50 billion today. Just this year alone, CoreWeave has signed multiple contracts worth tens of billions of dollars with companies like Meta and OpenAI for access to its data centers. \nBut what Liz has found is that the story of CoreWeave is a whole lot more complicated than a few Wall Street types making some smart bets and getting filthy rich. In fact, the entire narrative around CoreWeave — that it’s the company that makes the picks and shovels of the AI gold rush  — is built around some very complex financial maneuvering, as well as a unique relationship to Nvidia itself. \nIn many ways, Liz says, CoreWeave could not exist without extraordinary levels of financial investment from Nvidia — and from the value the AI industry is putting on Nvidia’s stock, on its chips, and on the wholesale transformation of the economy that AI is supposed to deliver at some point in the future. \nSo I wanted to ask Liz what it means that CoreWeave is so dependent on Nvidia, for the AI industry is growing so dependent on CoreWeave, and what might happen in a world where the AI bubble actually pops.\n\n\nIf you’d like to read more about what we discussed in this episode, check out these links:\nCoreWeave CEO plays down concerns about AI-spending bubble | WSJ\nWhy debt funding is ratcheting up the risks of the AI boom | NYT\nInside the data centers that train AI and drain the electrical grid | The New Yorker\nHow a crypto miner transformed Into the multibillion-dollar backbone of AI | Wired\nCoreWeave signs $14 billion AI infrastructure deal with Meta | Reuters\nCoreWeave, Nvidia sign $6.3 billion cloud computing capacity order | Reuters\nNvidia turned CoreWeave into major player in AI years before saving its IPO | CNBC\nCoreWeave inks $6.5 billion deal with OpenAI | CNBC\n‘Project Osprey:’ How Nvidia seeded CoreWeave’s rise | The Information\nFor this startup, Nvidia GPUs are currency | The Verge\nQuestions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "6f6c90c797848be773555127be6f6c09dda8c232",
-      "title": "Ukraine’s PM announces plans to audit public companies: ‘corruption is unacceptable’ – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/nov/13/volodymyr-zelenskyy-ukraine-russia-corruption-brussels-news-updates-europe-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-13T14:55:35.000Z",
-      "summary_90w": "",
-      "raw": "Yulia Svyrydenko says government will conduct major audit of Energoatom and other state-owned firms in bid to fight corruption allegations\nA bitter battle over the future of a Chinese-owned chipmaker in the Netherlands that threatened to cripple the global car industry is a “wake-up call to Europe and the west”, the minister at the heart of the row has warned.\nThe six-week standoff between the EU and Beijing over Nexperia and its vital supplies of automotive semiconductors has served up a sobering lesson to world leaders over their dependency on China, says Vincent Karremans.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -562,19 +614,6 @@
       ]
     },
     {
-      "id": "2174e6d33b19460f0fcef9b045f3310f09209cf1",
-      "title": "Scottish government aiming to issue first bonds in 2026-27",
-      "url": "https://www.bbc.com/news/articles/cj97dw17k3do?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-13T12:22:27.000Z",
-      "summary_90w": "",
-      "raw": "Scottish ministers wants to use bonds to raise money from investors to fund infrastructure projects.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "96767d113f4c80081bca36b75f72fcd9fb6489f6",
       "title": "If you're going to be kind to another human, today is the day to do it!",
       "url": "https://www.npr.org/sections/goats-and-soda/2025/11/13/g-s1-97432/world-kindness-day-kind-compassion-empathy",
@@ -731,6 +770,19 @@
       ]
     },
     {
+      "id": "c1d0b0d8c91b2435f65ccbe97a2eab9416f64c52",
+      "title": "The Ratcliffe revolution - inside Man Utd's mass exodus and rebuild",
+      "url": "https://www.bbc.com/sport/football/articles/cdjrkznlk9yo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T10:11:18.000Z",
+      "summary_90w": "",
+      "raw": "BBC Sport tells the story of how Sir Jim Ratcliffe ripped apart and rebuilt Manchester United's leadership team.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "1fc41770a069e68d9b5061e2dd535659fb38979e",
       "title": "Mexico takes action to combat sexual abuse after president publicly groped",
       "url": "https://www.theguardian.com/world/2025/nov/13/mexico-sexual-abuse-president-groped",
@@ -843,32 +895,6 @@
       "published": "2025-11-13T08:00:17.000Z",
       "summary_90w": "",
       "raw": "Exclusive: Vincent Karremans says row with Beijing that threatened global car production is ‘wake-up call’ to west\nA bitter battle over the future of a Chinese-owned chipmaker in the Netherlands that threatened to cripple the global car industry is a “wake-up call to Europe and the west”, the minister at the heart of the row has warned.\nThe six-week standoff between the EU and Beijing over Nexperia and its vital supplies of automotive semiconductors has served up a sobering lesson to world leaders over their dependency on China, says Vincent Karremans.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b1a37ce624443661f2f8de5fca1e5c1a8d750607",
-      "title": "What emails in the Epstein document release say about Donald Trump",
-      "url": "https://www.bbc.com/news/articles/c3rj0d97ynvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-13T07:21:33.000Z",
-      "summary_90w": "",
-      "raw": "In emails released by Democrats, Epstein says Trump \"knew about the girls\". The White House says they are an attempt to \"smear\" the president.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b1a37ce624443661f2f8de5fca1e5c1a8d750607",
-      "title": "What we know about new Epstein emails that mention Trump",
-      "url": "https://www.bbc.com/news/articles/c3rj0d97ynvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-13T07:21:33.000Z",
-      "summary_90w": "",
-      "raw": "In emails released by Democrats, Epstein says Trump \"knew about the girls\". The White House says they are an attempt to \"smear\" the president.",
       "topics": [
         "World"
       ]
@@ -1350,19 +1376,6 @@
       "published": "2025-11-12T17:47:37.000Z",
       "summary_90w": "",
       "raw": "Many took aim at the high price online, while others made fun of its striking likeness to a piece of footwear.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "d384c6d61b5c40f02cf5f393a4e681233c64cd7b",
-      "title": "YouTube TV’s Disney blackout is ruining my life (I can’t watch ‘Jeopardy!’)",
-      "url": "https://techcrunch.com/2025/11/12/youtube-tvs-disney-blackout-is-ruining-my-life-i-cant-watch-jeopardy/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-12T17:23:48.000Z",
-      "summary_90w": "",
-      "raw": "YouTube TV's parent company, Google, has been locked in a standoff with Disney for nearly two weeks. The dispute began when the two companies failed to reach an agreement on a streaming deal.",
       "topics": [
         "Technology"
       ]
