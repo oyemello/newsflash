@@ -1,7 +1,98 @@
 {
-  "version": "1763063507470",
-  "generatedAt": "2025-11-13T19:51:47.470Z",
+  "version": "1763065048828",
+  "generatedAt": "2025-11-13T20:17:28.828Z",
   "items": [
+    {
+      "id": "eda93043d14ff5de1999dccf04c68b7fe8e06346",
+      "title": "Anthropic details how it measures Claude&#8217;s wokeness",
+      "url": "https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-13T20:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Anthropic is detailing its efforts to make its Claude AI chatbot “politically even-handed” — a move that comes just months after President Donald Trump issued a ban on “woke AI.” As outlined in a new blog post, Anthropic says it wants Claude to “treat opposing political viewpoints with equal depth, engagement, and quality of analysis.”\nIn July, Trump signed an executive order that says the government should only procure “unbiased” and “truth-seeking” AI models. Though this order only applies to government agencies, the changes companies make in response will likely trickle down to widely released AI models, since “refining models in a way that consistently and predictably aligns them in certain directions can be an expensive and time-consuming process,” as noted by my colleague Adi Robertson. Last month, OpenAI similarly said it would “clamp down” on bias in ChatGPT.\nAnthropic doesn’t mention Trump’s order in its press release, but it says it has instructed Claude to adhere to a series of rules — called a system prompt — that direct it to avoid providing “unsolicited political opinions.” It’s also supposed to maintain factual accuracy and represent “multiple perspectives.” Anthropic says that while including these instructions in Claude’s system prompt “is not a foolproof method” to ensure political neutrality, it can still make a “substantial difference” in its responses.\nAdditionally, the AI startup describes how it uses reinforcement learning “to reward the model for producing responses that are closer to a set of pre-defined ‘traits.’” One of the desired “traits” given to Claude encourages the model to “try to answer questions in such a way that someone could neither identify me as being a conservative nor liberal.”\nAnthropic also announced that it has created an open-source tool that measures Claude’s responses for political neutrality, with its most recent test showing Claude Sonnet 4.5 and Claude Opus 4.1 garnering respective scores of 95 and 94 percent in even-handedness. That’s higher than Meta’s Llama 4 at 66 percent and GPT-5 at 89 percent, according to Anthropic.\n“If AI models unfairly advantage certain views — perhaps by overtly or subtly arguing more persuasively for one side, or by refusing to engage with some arguments altogether — they fail to respect the user’s independence, and they fail at the task of assisting users to form their own judgments,” Anthropic writes in its blog post.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "0d0a658bc68a7e6c7d0828f3d6f96018d527e859",
+      "title": "Apple will take a mini commission from mini app developers",
+      "url": "https://www.theverge.com/news/820486/apple-mini-app-developers-commission",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-13T19:58:25.000Z",
+      "summary_90w": "",
+      "raw": "Apple is launching a new program for mini app developers that slashes its fees for in-app purchases. On Thursday, the company announced that mini app creators who join the program take advantage of a lower 15 percent commission rate — half of the up to 30 percent rate Apple charges other developers.\nApple describes mini apps as “self-contained experiences” built using HTML5 and JavaScript that exist within another app. The format has become popular in China, where apps like the Tencent-owned WeChat have built-in services for ride-hailing, food delivery, payments, and more. Telegram and Discord similarly offer mini apps, while Snapchat and TikTok have also experimented with them.\nThe news of the program comes just hours after Apple reached an agreement with Tencent, allowing it to take a 15 percent commission on purchases from WeChat’s mini apps. Part of the Department of Justice’s antitrust lawsuit against Apple accuses the company of stifling super apps, or apps that offer a range of services (or mini apps) on a single platform. This move may help lessen that antitrust pressure.\nApple says its new program will help “developers who host mini apps grow their business and further the availability of mini apps on the App Store.”",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "940cc8c3140d7ea0c5d8c4002ed273237e5b1cf8",
+      "title": "Cop30 live: ‘We will exterminate ourselves’ if we keep extracting fossil fuels, activists say",
+      "url": "https://www.theguardian.com/environment/live/2025/nov/13/cop30-live-calls-for-just-transition-plan-grow-as-report-warns-world-on-track-for-26c-of-heating",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-13T19:57:41.000Z",
+      "summary_90w": "",
+      "raw": "Climate Action Tracker report finds pledges made in past year have not cut the forecast for global heating\nMore than half of all delegation members at Cop30 have withheld or obscured details of their affiliations, potentially concealing conflicts of interest and undermining trust in the Cop process, warns Transparency International.\nAccording to the campaign group’s examination of the UNFCCC’s official list of registered participants, 54% of participants in national delegations either did not disclose the type of affiliation they have or selected a vague category such as “Guest” or “Other”.\nYet, at Cop30, thousands of delegates still do not share enough information, most from within national delegations. If Cop30 is indeed the Cop of truth, the lresidency and the UNFCCC Secretariat should now commit to reviewing and strengthening participant disclosure rules ahead of future summits, ensuring integrity and accountability at every level.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "025116ee3b455c81ac60b2ce0b59a0774c43f36c",
+      "title": "Two-thirds of military women experienced sexualised behaviour, survey says",
+      "url": "https://www.bbc.com/news/articles/cvgkx1nenlpo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T19:57:34.000Z",
+      "summary_90w": "",
+      "raw": "The behaviours include comments about their appearance, harassment, leering and groping, according to a survey.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "007f4a1e14f2f845ee0dfd9bbdc9c6783fccf784",
+      "title": "US calls for international action to cut weapons supply to Sudan paramilitaries",
+      "url": "https://www.bbc.com/news/articles/c17p1nwy7q8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-11-13T19:56:54.000Z",
+      "summary_90w": "",
+      "raw": "\"They're committing acts of sexual violence and atrocities,\" says the US secretary of state, \"and it needs to end immediately\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "dd580018a0f3567b684a1db19fed6c06f8820e84",
+      "title": "Australia news live: Hobart stadium plan passes first parliamentary vote; $37m boost for childcare checks",
+      "url": "https://www.theguardian.com/australia-news/live/2025/nov/14/australia-news-live-net-zero-coalition-sussan-ley-liberals-climate-change-anthony-albanese-labor-hobart-stadium-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-13T19:53:27.000Z",
+      "summary_90w": "",
+      "raw": "Labor joins governing Liberals as Tasmania’s lower house votes 25-9 for $1.3bn project. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nThe federal government will spend $37m over five years to improve working with children checks (WWWC) in early childhood and care, including monitoring changes to criminal history.\nThe attorney-general, Michelle Rowland said the funding boost would go towards establishing the national continuous checking capability (NCCC), first announced earlier this year to provide “continuous, near real-time monitoring of changes to criminal history information for WWCC holders, significantly strengthening safeguards for children and young people”.\nThat’s why we are progressing a coordinated and ambitious reform agenda to achieve meaningful consistency across jurisdictions for when a person is suitable to hold a WWCC and when they should be excluded. This addresses existing gaps and inconsistencies and will improve protections for children and young people.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "771d6f17bf180bee4fbe87b7641d5bbd13d92ac6",
+      "title": "Germany paves way to conscription as defence boss sees strongest EU army in five years",
+      "url": "https://www.bbc.com/news/articles/c4gpkerdn9qo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-11-13T19:52:18.000Z",
+      "summary_90w": "",
+      "raw": "Berlin has agreed a new military service plan to boost troop numbers to 260,000 by 2035.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "9a9766b7dac7687f9b7014f4989cd91cace93af2",
       "title": "Hackers use Anthropic’s AI model Claude once again",
@@ -26,6 +117,19 @@
       "raw": "From the outside, it looks like virtual and mixed reality is having a moment. Three new headsets have launched or been announced in the last month: Apple's M5 Vision Pro, the Samsung Galaxy XR, and, just this week, Valve announced the Steam Frame. Given the marketing, you might assume that means Big Tech thinks this tech finally has some mass-market appeal. But, in the nearly 60 years since the first-ever VR headset, one thing remains true: this isn't the next iPhone. \n\"Let's put it this way,\" says Gartner's Tuong Huy Nguyen, a director analyst on Gartner's emerging technologies and trends team. \"Everyone who wants a VR headset already has  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "1c0b4a1d06cb5fe4592337504a9e9b50a63a6339",
+      "title": "UK billionaire Joe Lewis receives pardon from Trump",
+      "url": "https://www.bbc.com/news/articles/c740g7429l1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T19:41:54.000Z",
+      "summary_90w": "",
+      "raw": "The businessman, whose family trust owns Tottenham Hotspur, pleaded guilty in 2024 to insider trading as part of a deal with prosecutors.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -68,14 +172,14 @@
       ]
     },
     {
-      "id": "dd580018a0f3567b684a1db19fed6c06f8820e84",
-      "title": "Australia news live: Hobart stadium plan passes first parliamentary vote; $37m boost for childcare checks",
-      "url": "https://www.theguardian.com/australia-news/live/2025/nov/14/australia-news-live-net-zero-coalition-sussan-ley-liberals-climate-change-anthony-albanese-labor-hobart-stadium-ntwnfb",
+      "id": "fa4486150939a6d5de8d8526b136a65874ea03c8",
+      "title": "‘The pain remains’: France remembers victims of 2015 Paris attacks",
+      "url": "https://www.theguardian.com/world/2025/nov/13/france-paris-attacks-10th-anniversary",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-11-13T19:30:07.000Z",
+      "published": "2025-11-13T19:30:49.000Z",
       "summary_90w": "",
-      "raw": "Labor joins governing Liberals as Tasmania’s lower house votes 25-9 for $1.3bn project. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nGood morning and welcome to our live news blog. I’m Martin Farrer with the best of the overnight stories before Nick Visser takes you further towards the end of the working week.\nThe contentious plan to build a new stadium at Macquarie Point in Hobart passed its first hurdle in the Tasmanian parliament last night as governing Liberal MPs were joined by Labor members to approve the $1.3bn project by 25 votes to nine. A tougher test awaits in the upper house next month. More coming up.\n Continue reading...",
+      "raw": "Bells ring out across French capital marking 10th anniversary of country’s deadliest peacetime attack\n\nParis attacks anniversary – in pictures\n\nFrance has paid tribute to the 130 people killed 10 years ago by Islamic State gunmen and suicide bombers who targeted a stadium, bars, restaurants and the Bataclan concert hall in the country’s deadliest peacetime attack.\n“The pain remains,” Emmanuel Macron wrote on social media on Thursday as he visited each of the sites that were attacked. Bells rang out across the city as a remembrance ceremony began at a memorial garden in central Paris attended by relatives and survivors.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -95,13 +199,13 @@
     },
     {
       "id": "b36e166433ee038f7a57a32f7d1a97501dd19b62",
-      "title": "Serbia fast-tracks deal with Jared Kushner firm to develop protected Belgrade site",
+      "title": "Serbia secretly agreed deal with Jared Kushner firm to develop protected Belgrade site",
       "url": "https://www.theguardian.com/world/2025/nov/13/serbia-and-jared-kushner-firm-fast-track-deal-to-develop-protected-belgrade-site",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-11-13T19:09:38.000Z",
       "summary_90w": "",
-      "raw": "Belgrade establishes joint venture with Donald Trump’s son-in-law to build hotel, apartments and museum complex\nThe Serbian government has established a joint venture with a property development company owned by Donald Trump’s son-in-law, Jared Kushner, to develop a hotel complex in Belgrade, giving Serbia until next May to demolish the existing buildings, according to leaked documents.\nAn independent Serbian news magazine, Radar, published what appears to be a 2024 investment agreement giving Kushner’s firm, Atlantic Incubation Partners LLC, a 77.5% stake in the joint venture, and the Serbian government a 22.5% stake.\n Continue reading...",
+      "raw": "Government established joint venture with Trump’s son-in-law in February 2024 to build hotel, apartments and museum complex\nThe Serbian government has established a joint venture with a property development company owned by Donald Trump’s son-in-law, Jared Kushner, to develop a hotel complex in Belgrade, giving Serbia until next May to demolish the existing buildings, according to leaked documents.\nAn independent Serbian news magazine, Radar, published what appears to be a 2024 investment agreement giving Kushner’s firm, Atlantic Incubation Partners LLC, a 77.5% stake in the joint venture, and the Serbian government a 22.5% stake.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -270,35 +374,9 @@
       "source_name": "TechCrunch",
       "published": "2025-11-13T18:39:52.000Z",
       "summary_90w": "",
-      "raw": "Orders were supposed to be fulfilled by end of summer but were delayed again and again due to the bottle.",
+      "raw": "When the hosts of the popular All-In podcast launched their own tequila brand at a star-studded party last June, all 750 bottles of the $1,200 spirit quickly sold out. But getting those bottles into customers' hands has proven harder than expected.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "fa4486150939a6d5de8d8526b136a65874ea03c8",
-      "title": "‘The pain remains’: France remembers victims of 2015 Paris attacks",
-      "url": "https://www.theguardian.com/world/2025/nov/13/france-paris-attacks-10th-anniversary",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-13T18:32:04.000Z",
-      "summary_90w": "",
-      "raw": "Bells ring out across French capital marking 10th anniversary of country’s deadliest peacetime attack\n\nParis attacks anniversary – in pictures\n\nFrance has paid tribute to the 130 people killed 10 years ago by Islamic State gunmen and suicide bombers who targeted a stadium, bars, restaurants and the Bataclan concert hall in the country’s deadliest peacetime attack.\n“The pain remains,” Emmanuel Macron wrote on social media on Thursday as he visited each of the sites that were attacked. Bells rang out across the city as a remembrance ceremony began at a memorial garden in central Paris attended by relatives and survivors.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "940cc8c3140d7ea0c5d8c4002ed273237e5b1cf8",
-      "title": "Cop30 live: ‘We will exterminate ourselves’ if we keep extracting fossil fuels, activists say",
-      "url": "https://www.theguardian.com/environment/live/2025/nov/13/cop30-live-calls-for-just-transition-plan-grow-as-report-warns-world-on-track-for-26c-of-heating",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-13T18:31:26.000Z",
-      "summary_90w": "",
-      "raw": "Climate Action Tracker report finds pledges made in past year have not cut the forecast for global heating\nMore than half of all delegation members at Cop30 have withheld or obscured details of their affiliations, potentially concealing conflicts of interest and undermining trust in the Cop process, warns Transparency International.\nAccording to the campaign group’s examination of the UNFCCC’s official list of registered participants, 54% of participants in national delegations either did not disclose the type of affiliation they have or selected a vague category such as “Guest” or “Other”.\nYet, at Cop30, thousands of delegates still do not share enough information, most from within national delegations. If Cop30 is indeed the Cop of truth, the lresidency and the UNFCCC Secretariat should now commit to reviewing and strengthening participant disclosure rules ahead of future summits, ensuring integrity and accountability at every level.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -322,7 +400,7 @@
       "source_name": "TechCrunch",
       "published": "2025-11-13T17:38:22.000Z",
       "summary_90w": "",
-      "raw": "From the same label that made the iconic Steve Jobs mockneck, the iPhone Pocket could be the next Labubu... if you have the disposable income.",
+      "raw": "From the same label that made the iconic Steve Jobs mockneck, the iPhone Pocket could be the next Labubu … if you have the disposable income.",
       "topics": [
         "Technology"
       ]
@@ -393,19 +471,6 @@
       ]
     },
     {
-      "id": "a336a4398bdcb9ac2c7cd90ea3c51b595837ee52",
-      "title": "The Fire TV Stick 4K Max is back down to $35, its best price in a year",
-      "url": "https://www.theverge.com/tech/820121/amazon-fire-tv-stick-4k-max-early-black-friday-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-13T17:20:51.000Z",
-      "summary_90w": "",
-      "raw": "The Amazon Fire TV Stick 4K Max is down to just $35 ahead of Black Friday.\t\n\nAmazon’s Black Friday officially starts on November 20th, but in reality, it’s already well underway. For the past week or so, we’ve been seeing the retailer drop a number of good Black Friday deals, and the latest Fire TV Stick 4K Max is one of the best. Right now, you can buy the streaming stick for just $34.99 ($25 off) at Amazon, Best Buy, and Target (through November 15th) which matches its 2025 record low and is just $2 shy of its best price to date.\nAmazon Fire TV Stick 4K Max (2023)\n\nWhere to Buy:\n\n $59.99 $34.99 at Amazon\n $59.99 $34.99 at Best Buy\n $59.99 $34.99 at Target\n\nIf you’re already embedded in Amazon’s ecosystem, this streaming device is a great pick. It offers deep Alexa integration, letting you search by actor or plot and even issue commands as specific as “Alexa, turn to ESPN on Sling TV” using the included Alexa Voice Remote. You can also turn your screen into an Echo Show smart display to showcase reminders, your calendar, or control compatible smart-home devices — including pulling up camera feeds without interrupting your show. And when you’re not actively watching, the Fire TV Stick 4K Max can help your screen blend into your home by displaying more than 2,000 pieces of fine art or customizable AI-generated images.\nAside from offering a bunch of cool tricks, the Fire TV Stick 4K Max is also just a good 4K streamer with support for all the major services, including Netflix, Disney Plus, and HBO Max. You also get Dolby Atmos, Dolby Vision, and HDR10 Plus, along with a few welcome upgrades over its excellent predecessor, such as faster performance, 16GB of storage, and Wi-Fi 6E support.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "c8eecfffc0a68a55f7f4002ca9beaebfeffe385a",
       "title": "Guests ejected mid-stay from bankrupt hotel chain Sonder",
       "url": "https://www.bbc.com/news/articles/c364yg7g351o?at_medium=RSS&at_campaign=rss",
@@ -442,19 +507,6 @@
       "raw": "More than 120 people were killed in the raid which targeted the Comando Vermelho criminal gang.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "9b852a232c1cdecbefd45c1cd407dfad364243d2",
-      "title": "World Labs is betting on ‘world generation’ as the next AI frontier",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/820016/world-labs-is-betting-on-world-generation-as-the-next-ai-frontier",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-13T17:16:25.000Z",
-      "summary_90w": "",
-      "raw": "In recent years, we've seen generative AI move quickly through different eras: chatbots, image-generation, voice, video-generation, and more. But Dr. Fei-Fei Li, longtime AI pioneer and co-director of Stanford's Institute for Human-Centered Artificial Intelligence (HAI), is staking out what she thinks is the next frontier: spatial intelligence, a nascent field that she believes is the \"defining challenge of the next decade,\" as she wrote in a Substack post this week.\nThat's why Li co-founded World Labs in 2024 - and raised $230 million last fall - to build world models, or generative AI models that can \"perceive, generate, reason, and inter …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -640,21 +692,8 @@
       ]
     },
     {
-      "id": "007f4a1e14f2f845ee0dfd9bbdc9c6783fccf784",
-      "title": "US calls for international action to cut weapons supply to Sudan paramilitaries",
-      "url": "https://www.bbc.com/news/articles/c17p1nwy7q8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-13T16:10:39.000Z",
-      "summary_90w": "",
-      "raw": "\"They're committing acts of sexual violence and atrocities,\" says the US secretary of state, \"and it needs to end immediately\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f5f78005fe7e74b87bf1c45614b2740c560aa2f8",
-      "title": "Missing information and racism concerns: Five key failings in Sara Sharif review",
+      "title": "How Sara Sharif was failed multiple times before she was murdered",
       "url": "https://www.bbc.com/news/articles/c1e31vdjjl5o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -855,7 +894,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-11-13T14:00:45.000Z",
       "summary_90w": "",
-      "raw": "Since late 2024, registrations of 11 VET organisations have been cancelled, voiding diplomas, certificates and statements of attainment\n\nGet our breaking news email, free app or daily news podcast\n\nAt least 30,000 people have lost their qualifications in the past year as the regulator cracks down on Australia’s shonky vocational education and training providers.\nSince late 2024, the Australian Skills Quality Authority (ASQA) has cancelled the registrations of 11 training organisations and voided diplomas, certificates and statements of attainment that providers had issued.\n Continue reading...",
+      "raw": "Since late 2024, registrations of 11 VET organisations have been cancelled, voiding diplomas, certificates and statements of attainment\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAt least 30,000 people have lost their qualifications in the past year as the regulator cracks down on Australia’s shonky vocational education and training providers.\nSince late 2024, the Australian Skills Quality Authority (ASQA) has cancelled the registrations of 11 training organisations and voided diplomas, certificates and statements of attainment that providers had issued.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -868,7 +907,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-11-13T14:00:45.000Z",
       "summary_90w": "",
-      "raw": "Jacinta Allan’s Labor government takes a leaf out of the playbook of conservative oppositions: focus on crime and hope voters see them as knights in shining armour\n\nGet our breaking news email, free app or daily news podcast\n\nTo put it in language those in the Victorian government who are enamoured of tabloid newspapers and talkback radio will understand: are these new laws tough on crime, or merely a coward punch?\nA decision by the Victorian government to introduce adult crime, adult time laws has been widely condemned as an easy way out, getting in first with a cheap shot rather than having to duke it out on youth crime with a rabble of a Coalition at next year’s state election. It may work politically, but will it work as policy?\n Continue reading...",
+      "raw": "Jacinta Allan’s Labor government takes a leaf out of the playbook of conservative oppositions: focus on crime and hope voters see them as knights in shining armour\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nTo put it in language those in the Victorian government who are enamoured of tabloid newspapers and talkback radio will understand: are these new laws tough on crime, or merely a coward punch?\nA decision by the Victorian government to introduce adult crime, adult time laws has been widely condemned as an easy way out, getting in first with a cheap shot rather than having to duke it out on youth crime with a rabble of a Coalition at next year’s state election. It may work politically, but will it work as policy?\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -894,7 +933,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-11-13T14:00:44.000Z",
       "summary_90w": "",
-      "raw": "The International Energy Agency, once known for an anti-renewables bias, now says a more ambitious transition will lower prices\n\nSign up for climate and environment editor Adam Morton’s free Clear Air newsletter here\n\nJust as the Liberal party walked away from a firm net zero emissions target, a new International Energy Agency report told the world that a more ambitious clean energy transition means lower household power bills.\nThe timing is exquisite.\n Continue reading...",
+      "raw": "The International Energy Agency, once known for an anti-renewables bias, now says a more ambitious transition will lower prices\n\nSign up for climate and environment editor Adam Morton’s free Clear Air newsletter here\n\nFollow our Australia news live blog for latest updates\n\nJust as the Liberal party walked away from a firm net zero emissions target, a new International Energy Agency report told the world that a more ambitious clean energy transition means lower household power bills.\nThe timing is exquisite.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -942,7 +981,7 @@
       "id": "a156cf4925a4e55c8a944ff9d283ad34a1fbc196",
       "title": "Epstein email says Andrew had photo taken with Virginia Giuffre",
       "url": "https://www.bbc.com/news/articles/cglgj08erywo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-13T12:38:43.000Z",
       "summary_90w": "",
@@ -981,7 +1020,7 @@
       "id": "8d93a0165e49b8ae7752baaf6172472b03466fcd",
       "title": "PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
       "url": "https://www.bbc.com/news/articles/cd679n9lnx5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-13T11:04:12.000Z",
       "summary_90w": "",
