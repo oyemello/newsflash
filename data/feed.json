@@ -1,7 +1,33 @@
 {
-  "version": "1763062631640",
-  "generatedAt": "2025-11-13T19:37:11.640Z",
+  "version": "1763063507470",
+  "generatedAt": "2025-11-13T19:51:47.470Z",
   "items": [
+    {
+      "id": "9a9766b7dac7687f9b7014f4989cd91cace93af2",
+      "title": "Hackers use Anthropic’s AI model Claude once again",
+      "url": "https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-13T19:47:39.000Z",
+      "summary_90w": "",
+      "raw": "Anthropic announced on Thursday that Chinese state-backed hackers used the company’s AI model Claude to automate roughly 30 attacks on corporations and governments during a September campaign, according to reporting from the Wall Street Journal.\nAnthropic said that up to 80% to 90% of the attack was automated with AI, a level higher than previous hacks. It occurred “literally with the click of a button, and then with minimal human interaction,” Anthropic’s head of threat intelligence Jacob Klein told the Journal. He added: “The human was only involved in a few critical chokepoints, saying, ‘Yes, continue,’ ‘Don’t continue,’ ‘Thank you for this information,’ ‘Oh, that doesn’t look right, Claude, are you sure?’” \nAI-powered hacking is increasingly common, and so is the latest strategy to use AI to tack together the various tasks necessary for a successful attack. Google spotted Russian hackers using large-language models to generate commands for their malware, according to a company report released on November 5th. \nFor years, the US government has warned that China was using AI to steal data of American citizens and companies, which China has denied. Anthropic told the Journal that it is confident the hackers were sponsored by the Chinese government. In this campaign, the hackers stole sensitive data from four victims, but as with previous hacks, Anthropic did not disclose the names of the targets, successful or unsuccessful. The company did say that the US government was not a successful target.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "81de558a64c9dab5d2ad9ce5e5ff9ae2784cdf55",
+      "title": "Who is buying VR and XR headsets anyway?",
+      "url": "https://www.theverge.com/tech/820416/vr-xr-headsets-vision-pro-galaxy-xr-steam-frame-enterprise",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-13T19:45:48.000Z",
+      "summary_90w": "",
+      "raw": "From the outside, it looks like virtual and mixed reality is having a moment. Three new headsets have launched or been announced in the last month: Apple's M5 Vision Pro, the Samsung Galaxy XR, and, just this week, Valve announced the Steam Frame. Given the marketing, you might assume that means Big Tech thinks this tech finally has some mass-market appeal. But, in the nearly 60 years since the first-ever VR headset, one thing remains true: this isn't the next iPhone. \n\"Let's put it this way,\" says Gartner's Tuong Huy Nguyen, a director analyst on Gartner's emerging technologies and trends team. \"Everyone who wants a VR headset already has  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "9345c3a947a8b1580f316646d16e1481df05ed78",
       "title": "A decade after the Bataclan attacks, France is still grappling with how to remember",
@@ -16,6 +42,19 @@
       ]
     },
     {
+      "id": "09260a5df3aaf685d59d89ffb38017cbd30533b0",
+      "title": "Israel receives body Hamas says belongs to hostage",
+      "url": "https://www.bbc.com/news/articles/czxnerkx5pgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T19:33:11.000Z",
+      "summary_90w": "",
+      "raw": "Confirmation of the remains would mean that only three deceased hostages' bodies now remain in Gaza.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "aebb37ce6a791425b5c4896ae5d3d10442967d3e",
       "title": "BBC faces fresh claim of misleading Trump edit",
       "url": "https://www.bbc.com/news/articles/cr5e9erpnzlo?at_medium=RSS&at_campaign=rss",
@@ -24,6 +63,19 @@
       "published": "2025-11-13T19:32:58.000Z",
       "summary_90w": "",
       "raw": "The clip aired on Newsnight in 2022, two years before the Panorama that led to the director-general's resignation.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "dd580018a0f3567b684a1db19fed6c06f8820e84",
+      "title": "Australia news live: Hobart stadium plan passes first parliamentary vote; $37m boost for childcare checks",
+      "url": "https://www.theguardian.com/australia-news/live/2025/nov/14/australia-news-live-net-zero-coalition-sussan-ley-liberals-climate-change-anthony-albanese-labor-hobart-stadium-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-13T19:30:07.000Z",
+      "summary_90w": "",
+      "raw": "Labor joins governing Liberals as Tasmania’s lower house votes 25-9 for $1.3bn project. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nGood morning and welcome to our live news blog. I’m Martin Farrer with the best of the overnight stories before Nick Visser takes you further towards the end of the working week.\nThe contentious plan to build a new stadium at Macquarie Point in Hobart passed its first hurdle in the Tasmanian parliament last night as governing Liberal MPs were joined by Labor members to approve the $1.3bn project by 25 votes to nine. A tougher test awaits in the upper house next month. More coming up.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -43,13 +95,26 @@
     },
     {
       "id": "b36e166433ee038f7a57a32f7d1a97501dd19b62",
-      "title": "Serbia and Jared Kushner firm fast track deal to develop protected Belgrade site",
+      "title": "Serbia fast-tracks deal with Jared Kushner firm to develop protected Belgrade site",
       "url": "https://www.theguardian.com/world/2025/nov/13/serbia-and-jared-kushner-firm-fast-track-deal-to-develop-protected-belgrade-site",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-11-13T19:09:38.000Z",
       "summary_90w": "",
-      "raw": "Belgrade establish joint venture with Donald Trump’s son-in-law to build hotel, apartments and museum complex\nThe Serbian government has established a joint venture with a property development company owned by Donald Trump’s son-in-law, Jared Kushner, to develop a hotel complex in Belgrade, giving Serbia until next May to demolish the existing buildings, according to leaked documents.\nAn independent Serbian news magazine, Radar, published what appears to be a 2024 investment agreement giving Kushner’s firm, Atlantic Incubation Partners LLC, a 77.5% stake in the joint venture, and the Serbian government a 22.5% stake.\n Continue reading...",
+      "raw": "Belgrade establishes joint venture with Donald Trump’s son-in-law to build hotel, apartments and museum complex\nThe Serbian government has established a joint venture with a property development company owned by Donald Trump’s son-in-law, Jared Kushner, to develop a hotel complex in Belgrade, giving Serbia until next May to demolish the existing buildings, according to leaked documents.\nAn independent Serbian news magazine, Radar, published what appears to be a 2024 investment agreement giving Kushner’s firm, Atlantic Incubation Partners LLC, a 77.5% stake in the joint venture, and the Serbian government a 22.5% stake.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "875c5f85017e311b306cb1b988bae4d0c96ead27",
+      "title": "Watch: How the BBC works... in under two minutes",
+      "url": "https://www.bbc.com/news/videos/ceq0ewgenweo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T19:08:53.000Z",
+      "summary_90w": "",
+      "raw": "Culture reporter Noor Nanji explains how the BBC is funded and governed, amid controversy that has lead to the departures of two senior bosses.",
       "topics": [
         "World"
       ]
@@ -250,19 +315,6 @@
       ]
     },
     {
-      "id": "0570a3754813e4dd1db2019d84a13c883df14d9d",
-      "title": "Bellingham on bench v Serbia as O'Reilly wins first cap",
-      "url": "https://www.bbc.com/sport/football/articles/c867n7yp4lxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-13T18:22:26.000Z",
-      "summary_90w": "",
-      "raw": "Jude Bellingham starts on the bench for England's World Cup qualifier against Serbia, with Morgan Rogers in the number 10 role.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "fe9312c5678979555d58a4e69fc3bd8877f45217",
       "title": "In defense of Apple’s $230 iPhone sock",
       "url": "https://techcrunch.com/2025/11/13/in-defense-of-apples-230-iphone-sock/",
@@ -406,32 +458,6 @@
       ]
     },
     {
-      "id": "52336b6d8a808d14ca2758fe0cbfbe8a9cc24c9e",
-      "title": "Tesla is recalling over 10,000 Powerwall 2 batteries due to burn risks",
-      "url": "https://www.theverge.com/news/820123/tesla-recall-uscpsc-powerwall-2-batteries-overheat-fire-burn-hazard",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-13T17:15:39.000Z",
-      "summary_90w": "",
-      "raw": "The company is proactively discharging the units remotely to make them safe until they’re replaced. | Image: Tesla\t\n\nTesla is expanding a Powerwall 2 battery recall that started in Australia last September to the US. A ”third-party battery cell defect” can cause units to “stop functioning normally, resulting in overheating, smoking and in some cases smoke or flame causing minor property damage.” The company has received 22 reports of overheating, six reports of smoke, and five reports of minor property damage due to fire but no injuries, according to the US Consumer Product Safety Commission (USCPSC).\nThe recall includes about 10,500 batteries that were sold through Tesla’s website and by certified Tesla installers across the country between November 2020 and December 2022. The affected units can be identified by the Powerwall 2 branding printed on the side, but Tesla says nearly all of them have already been remotely discharged so they no longer “pose an operational risk.” The rest will be discharged by its technicians.\nTesla is removing and replacing all the affected Powerwall 2 units at no additional cost and is notifying customers through its mobile app. The company is prioritizing the replacements and says certified installers “will reach out directly by email or phone” to schedule an installation appointment. Customers with questions are encouraged to contact their original certified installers first, but can also contact Tesla’s support teams directly at 1-877-961-7652 or by email at powerwallsupportna@tesla.com for a faster response.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "83efa049396a3e83fe54f333ed659c79bec18da3",
-      "title": "Even Realities’ new smart glasses ditch cameras and speakers",
-      "url": "https://www.theverge.com/news/820120/even-realities-g2-smart-glasses-r1-ring-launch-ai",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-13T17:13:03.000Z",
-      "summary_90w": "",
-      "raw": "The wearable technology company Even Realities has taken the wraps off its latest pair of “human-centric” smart glasses, which it claims are designed not to interfere with your everyday life. The G2 Display Smart Glasses come without outward-facing cameras and external speakers, a move Even Realities says “removes the anxiety of being recorded, overheard or distracted by unwanted sounds.”\nShipping smart glasses with just a microphone might seem like a bold move in an era where it seems like every piece of tech comes with AI attached, but at least you’ll have to worry a little less about the ethical concerns posed by the camera-equipped glasses from Meta.\nEven Realities’ new Smart Glasses still feature four microphones along with a display that combines micro-LED projectors, gradient waveguides, and digitally surfaced lenses. According to Even Realities, this creates a 3D “floating spatial display” with multiple layers designed to mimic how the human eye processes information. Quick prompts or AI insights will appear on the front layer, while things like navigation or notes will surface in the back. “The result is an experience that feels less like looking at a screen and more like seeing naturally enhanced reality,” Even Realities claims.\nYou can navigate and scroll through content using the new R1 smart ring, which also offers some health-tracking features. The G2 Display Smart Glasses have an AI-powered “Conversate” tool that offers prompts, explanations, and follow-up questions during your conversations, as well as AI-generated summaries that appear after. The company has also added improvements to the translation, navigation, and teleprompter features available within the previous-gen G1 smart glasses that stood out to my colleague Victoria Song at CES.\nEven Realities says its new smart glasses come with an IP67 rating for dust and water resistance, as well as more than two days of battery life on a single charge. The G2 Display Smart Glasses start at $599 and come in two styles in addition to a range of prescription lens options. The R1 Smart Ring is available separately for $249.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "d7e8d795d3ea72e9de4066a2eae20f318afa651f",
       "title": "The 10 companies that just launched from Betaworks’ latest startup camp",
       "url": "https://techcrunch.com/2025/11/13/the-10-companies-that-just-launched-from-betaworks-latest-startup-camp/",
@@ -492,19 +518,6 @@
       "published": "2025-11-13T16:56:07.000Z",
       "summary_90w": "",
       "raw": "Judges in Luxembourg say EU law prohibits use of term ‘non-alcoholic gin’, in case brought by German lobby group\nThe makers of spirits may be raising a toast to the European judges of Luxembourg after the EU’s court ruled that non-alcoholic drinks cannot be called gin.\nOnly spirit drinks based on ethyl alcohol flavoured by juniper berries with a minimum alcoholic strength of 37.5% by volume can be known as gin, the court said in a judgment issued on Thursday.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "243e965f095d70b4b0d533f716b260b119098b01",
-      "title": "Hitman pleads guilty to gangland Hogmanay pub murder",
-      "url": "https://www.bbc.com/news/articles/cr7mkl2v10go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-13T16:54:38.000Z",
-      "summary_90w": "",
-      "raw": "Grant Hunter, 34, shot Marc Webley at the Anchor Inn in Granton on New Year's Eve 2023 after he taunted his rivals.",
       "topics": [
         "World"
       ]
@@ -654,7 +667,7 @@
     },
     {
       "id": "cf56373f582858ba858709860897b0998634a4db",
-      "title": "Titanic passenger's watch expected to fetch £1m",
+      "title": "Titanic passenger's watch expected to fetch £1m at auction",
       "url": "https://www.bbc.com/news/articles/cr5e9n3q8qdo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -809,6 +822,19 @@
       ]
     },
     {
+      "id": "1d193339e826971059a6d2ff2b1611373fc23bc3",
+      "title": "McIlroy tightens grip on Race to Dubai title ",
+      "url": "https://www.bbc.com/sport/golf/articles/c0rpd94j8vro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T14:32:51.000Z",
+      "summary_90w": "",
+      "raw": "Six-time Race to Dubai winner Rory McIlroy tightens his grip on another title with an impressive opening round in the UAE.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "248af014dc312d745caa25331f97a0b2ff47657b",
       "title": "State-sanctioned fuel smuggling cost Libya $20bn over three years – report",
       "url": "https://www.theguardian.com/world/2025/nov/12/state-sanctioned-fuel-smuggling-cost-libya-20bn-over-three-years-report",
@@ -862,7 +888,7 @@
     },
     {
       "id": "59de35d280b9d3402a4b42905f56b9562037037d",
-      "title": "The Coalition believes pursuing net zero will increase power bills – but the IEA tells us the opposite is true",
+      "title": "The Coalition claims pursuing net zero will increase power bills – but the IEA tells us the opposite is true",
       "url": "https://www.theguardian.com/australia-news/2025/nov/13/coalition-net-zero-power-bills-international-energy-agency",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
@@ -1082,19 +1108,6 @@
       ]
     },
     {
-      "id": "2830ba269035b55460204c1a7fadf68b38dec8b3",
-      "title": "'Not an easy job' - why would anyone want to be the new BBC director general?",
-      "url": "https://www.bbc.com/news/articles/cly175e1emno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-13T09:44:28.000Z",
-      "summary_90w": "",
-      "raw": "As the BBC searches for a new chief, who are the potential candidates and is it a poisoned chalice?",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e4d0dbf8ddcf6748eb0e9fba780a8c8838dc44f1",
       "title": "‘I’d do it all again,’ says Dutch minister at heart of car chip standoff with China",
       "url": "https://www.theguardian.com/business/2025/nov/13/netherlands-china-nexperia-row-global-car-industry",
@@ -1116,19 +1129,6 @@
       "published": "2025-11-13T07:20:46.000Z",
       "summary_90w": "",
       "raw": "Almost a year to the day after Boualem Sansal was arrested, the Algerian president grants him a pardon.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "507f9221381c6d15726aad8b9c7f14668ae3d0b0",
-      "title": "Malcolm Turnbull accuses Liberals of ‘Trumpian campaign against renewables’ after party dumps net zero",
-      "url": "https://www.theguardian.com/australia-news/2025/nov/13/malcom-turnbull-accuses-liberals-of-trumpian-campaign-against-renewables-after-party-dumps-net-zero",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-13T07:08:57.000Z",
-      "summary_90w": "",
-      "raw": "Climate groups call backflip a ‘disaster’ while moderate Liberals worry about impact on winning back urban electorates\n\nGet our breaking news email, free app or daily news podcast\n\nThe former Liberal prime minister Malcolm Turnbull says his party’s decision to dump a net zero emissions target shows it “does not take climate change seriously”, accusing the opposition of “a Trumpian campaign against renewables”.\nBut while moderate sources are alarmed about the impact on winning back or retaining urban electorates, and climate groups called the backflip a “disaster”, the Liberal decision to scrap its own 2050 target and unwind Labor’s 2035 and renewable energy pledges has been praised by conservative MPs and campaigners.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1168,6 +1168,19 @@
       "published": "2025-11-13T06:00:11.000Z",
       "summary_90w": "",
       "raw": "Years of conflict have taken their toll and the war of attrition is continuing on the homefront - but Ukrainians are fighting back hard by trying to keep morale high",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d7740d385356768f721295111799443346982ea0",
+      "title": "How to limit the power of big tech",
+      "url": "https://www.bbc.co.uk/sounds/play/m002m0fz?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T06:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The deputy PM turned Meta executive on the influence of tech bosses like Mark Zuckerberg.",
       "topics": [
         "World"
       ]
@@ -1402,19 +1415,6 @@
       "published": "2025-11-12T18:23:39.000Z",
       "summary_90w": "",
       "raw": "Eighty-one year-old, who has prostate cancer, can now be transferred from Algeria to Germany for medical treatment\nThe French-Algerian writer Boualem Sansal has been pardoned and is to be released from prison, the Algerian presidential office said in a statement on Wednesday.\nThe move, which will mean Sansal can be transferred to Germany for medical treatment, comes after the German president, Frank-Walter Steinmeier, urged Algeria to free Sansal.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "2ffc9b5947bf3399f98c3f85f384c55a2e32bf3e",
-      "title": "Has Keir Starmer Lost Control Of No.10?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0mg8pt7?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-12T17:50:00.000Z",
-      "summary_90w": "",
-      "raw": "Efforts to shore up the PM's leadership may have backfired.",
       "topics": [
         "World"
       ]
