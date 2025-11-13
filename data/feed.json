@@ -1,6 +1,6 @@
 {
-  "version": "1763039464640",
-  "generatedAt": "2025-11-13T13:11:04.640Z",
+  "version": "1763041688192",
+  "generatedAt": "2025-11-13T13:48:08.192Z",
   "items": [
     {
       "id": "bde26cb059deb73cab4081fbe7264677359b5013",
@@ -8,7 +8,7 @@
       "url": "https://www.bbc.com/news/articles/c051y3d7myzo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-11-13T13:03:57.000Z",
+      "published": "2025-11-13T13:43:30.000Z",
       "summary_90w": "",
       "raw": "Three small modular reactors are confirmed for the site, with the potential for up to eight.",
       "topics": [
@@ -16,14 +16,131 @@
       ]
     },
     {
-      "id": "f26731ee80511740eb1c78b1bdd0b60403386eed",
-      "title": "British Gas boss voices concerns over Scotland's energy jobs",
-      "url": "https://www.bbc.com/news/articles/cr437w9nr96o?at_medium=RSS&at_campaign=rss",
+      "id": "243e965f095d70b4b0d533f716b260b119098b01",
+      "title": "Man pleads guilty to gangland Hogmanay pub murder",
+      "url": "https://www.bbc.com/news/articles/cr7mkl2v10go?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-11-13T13:00:08.000Z",
+      "published": "2025-11-13T13:39:00.000Z",
       "summary_90w": "",
-      "raw": "Chris O'Shea, the boss of Centrica, which owns British Gas, says the energy transition is correct, but worries over the impact on jobs.",
+      "raw": "Grant Hunter, 34, shot Marc Webley at the Anchor Inn in Granton on New Year's Eve 2023.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8d14fc50ca422db3fe09bbe78b3f86c3a2efa03e",
+      "title": "Spotify adds a new, less repetitive shuffle, plus audiobook recaps",
+      "url": "https://techcrunch.com/2025/11/13/spotify-adds-a-new-less-repetitive-shuffle-plus-audiobook-recaps/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-13T13:30:00.000Z",
+      "summary_90w": "",
+      "raw": "Spotify's new default shuffle option will queue up fewer songs from your recent listening history",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "32e330a96146b632241e0be2c1ee8c8995aa5947",
+      "title": "Spotify’s new audiobook recap feature uses AI to remind you of the story so far",
+      "url": "https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-13T13:30:00.000Z",
+      "summary_90w": "",
+      "raw": "Spotify is launching a new AI feature for audiobooks that summarizes what you’ve already heard without needing to rewind. The company likens the feature, called Recaps, to a “previously on” segment at the start of episodes in a TV series. \nRecaps will be available automatically in the iOS app for a limited number of English-language audiobooks, with plans to expand to more audiobooks in an unspecified time frame. While the Recap button is always present on supported titles, you will have to listen to more than 15–20 minutes of the audiobook to get a summary, according to the Spotify blog post on the feature. After that, Recaps will be “regularly updated” as you progress through the audiobook. It’s “designed to help people finish the books they start,” the company says in the blog. \nTrue-crime author J.H. Markert called the feature “an audio bookmark that speaks” in the company blog. “Using it once blew my mind. As sophisticated as it is smart, this feature is a must for any audiobook lovers out there.”\nSpotify made clear that Recaps uses AI, but maintains that the original works — including the book content and voice narration — remain protected. “We are not using audiobook content for LLM training purposes or voice generation, and Recaps do not replicate narration or replace the original audiobook in any way,” Spotify’s research director of LLMs, Paul Bennett, wrote in the blog post. \nIn February, Spotify partnered with AI company ElevenLabs to bring to the platform more AI-narrated audiobooks. But the company has faced backlash for its slow reaction to the proliferation of AI slop in its music platform. In September, it released policies aiming to tamp down on slop with better AI detection tools and disclosure of AI in song creation. Spotify also began working with music labels on “responsible” AI music tools without offering details on what those might be.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "946980095b571d7b0984c565b62e508e227fef51",
+      "title": "‘Trumpist’ Czech PM-elect refuses to sell business empire amid conflict of interest row",
+      "url": "https://www.theguardian.com/world/2025/nov/13/trumpist-czech-pm-elect-refuses-to-sell-business-empire-amid-conflict-of-interest-row",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-13T13:27:40.000Z",
+      "summary_90w": "",
+      "raw": "Billionaire populist Andrej Babiš insisting he will meet legal obligations before taking office\nAndrej Babiš, the self-proclaimed “Trumpist” billionaire who won last month’s Czech election, has refused to sell his huge business empire, but insisted he will resolve a conflict of interest that threatens to bar him from becoming prime minister.\nBabiš, whose ANO party finished a comfortable first in the October vote but failed to secure a majority in parliament, said in a social media post on Thursday he would not sell his Agrofert farming, food processing and chemicals conglomerate.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5d63969548b8662ba2fbe784083d7e59824fae40",
+      "title": "Police and crime commissioners to be scrapped in England and Wales",
+      "url": "https://www.bbc.com/news/articles/c93d4dd3l3lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T13:27:08.000Z",
+      "summary_90w": "",
+      "raw": "The government says it will save £100m over this Parliament and less than 20% of voters can name their PCC.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "940cc8c3140d7ea0c5d8c4002ed273237e5b1cf8",
+      "title": "Cop30 live: calls for ‘just transition’ plan grow as report warns world on track for 2.6C of heating",
+      "url": "https://www.theguardian.com/environment/live/2025/nov/13/cop30-live-calls-for-just-transition-plan-grow-as-report-warns-world-on-track-for-26c-of-heating",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-13T13:25:16.000Z",
+      "summary_90w": "",
+      "raw": "Climate Action Tracker report finds pledges made in past year have not cut the forecast for global heating\nProtecting health in a changing climate demands a whole of society approach, UN climate chief Simon Stiell told delegates at Cop30 at the launch of a new initiative placing health at the centre of global climate adaptation.\nAt the start of proceedings at the UN climate talks on Thursday, the host Brazil put forward the Belém Health Action Plan, a blueprint to help health ministries to respond to the effects of climate breakdown.\nThe climate crisis is a health crisis. Evidence linking heatwaves, floods, and droughts to disease outbreaks shows that climate change is putting lives at risk and overburdening health systems around the world. While health is beginning to gain space in climate policies — and vice versa — progress remains fragmented and underfunded.\nAs host country of Cop30 in Belém, Brazil seizes the opportunity to accelerate the trajectory from commitment to implementation and to engage UNFCCC Parties and the broader community in a global effort for climate and health action.\nWhile it is undeniable that children are the group most affected by climate change, we have yet to elucidate the precise mechanisms by which climate change induced extreme weather events affect different groups of children in specific ways and in particular locations. This detailed information is critical to inform the granular evidence necessary to develop appropriate adaption and mitigation actions to protect children. Our Initiative exists to develop this granular evidence around the globe.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6f6c90c797848be773555127be6f6c09dda8c232",
+      "title": "Germany expects Ukraine to ‘vigorously pursue the fight against corruption’, says Merz – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/nov/13/volodymyr-zelenskyy-ukraine-russia-corruption-brussels-news-updates-europe-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-13T13:20:41.000Z",
+      "summary_90w": "",
+      "raw": "German chancellor and Zelenskyy discussed the recent corruption allegations against former members of the Ukrainian cabinet in a call earlier this morning\nA bitter battle over the future of a Chinese-owned chipmaker in the Netherlands that threatened to cripple the global car industry is a “wake-up call to Europe and the west”, the minister at the heart of the row has warned.\nThe six-week standoff between the EU and Beijing over Nexperia and its vital supplies of automotive semiconductors has served up a sobering lesson to world leaders over their dependency on China, says Vincent Karremans.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "aa46623fd80fd0d2e7974a6ba20b86c3055d5f2a",
+      "title": "EU investigates Google over ‘demotion’ of commercial content from news media",
+      "url": "https://www.theguardian.com/technology/2025/nov/13/eu-investigates-google-search-over-demoting-commercial-content-from-news-media",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-13T13:16:23.000Z",
+      "summary_90w": "",
+      "raw": "Officials say some content created with advertisers is in effect not visible, which could mean unfair loss of revenue\nThe EU has launched an investigation into Google Search over concerns the US tech company has been “demoting” commercial content from news media sites.\nThe bloc’s executive arm announced the move after monitoring found certain content created with advertisers and sponsors was being given such a low priority by Google that it was in effect no longer visible in search results.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c45ad3de0196dc80ae0be8ec28688cb6f49237a1",
+      "title": "Who is Starmer's chief of staff Morgan McSweeney?",
+      "url": "https://www.bbc.com/news/articles/cy0l9z7qv0lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T13:13:48.000Z",
+      "summary_90w": "",
+      "raw": "Morgan McSweeney is credited with masterminding Labour's landslide election victory.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9f69a4f64f938927c828d91d16367d7c8900716b",
+      "title": "Hunger Games on stage 'dazzles' but some critics say it 'lacks emotion' ",
+      "url": "https://www.bbc.com/news/articles/cy9pw4jv31po?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T13:08:06.000Z",
+      "summary_90w": "",
+      "raw": "The Hunger Games: On Stage brings Panem to life in a purpose-built 1,200 seat arena in Canary Wharf.",
       "topics": [
         "World"
       ]
@@ -55,19 +172,6 @@
       ]
     },
     {
-      "id": "6f6c90c797848be773555127be6f6c09dda8c232",
-      "title": "Germany expects Ukraine to ‘vigorously pursue the fight against corruption’, says Merz – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/nov/13/volodymyr-zelenskyy-ukraine-russia-corruption-brussels-news-updates-europe-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-13T12:55:08.000Z",
-      "summary_90w": "",
-      "raw": "German chancellor and Zelenskyy discussed the recent corruption allegations against former members of the Ukrainian cabinet in a call earlier this morning\nA bitter battle over the future of a Chinese-owned chipmaker in the Netherlands that threatened to cripple the global car industry is a “wake-up call to Europe and the west”, the minister at the heart of the row has warned.\nThe six-week standoff between the EU and Beijing over Nexperia and its vital supplies of automotive semiconductors has served up a sobering lesson to world leaders over their dependency on China, says Vincent Karremans.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8ad290b9253b5365eca4d903a8603a3c26642cb2",
       "title": "Council visited wrong home to check on Sara Sharif the day before her murder",
       "url": "https://www.bbc.com/news/articles/crmx0ge18d8o?at_medium=RSS&at_campaign=rss",
@@ -94,19 +198,6 @@
       ]
     },
     {
-      "id": "940cc8c3140d7ea0c5d8c4002ed273237e5b1cf8",
-      "title": "Cop30 live: calls for ‘just transition’ plan grow as report warns world on track for 2.6C of heating",
-      "url": "https://www.theguardian.com/environment/live/2025/nov/13/cop30-live-calls-for-just-transition-plan-grow-as-report-warns-world-on-track-for-26c-of-heating",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-13T12:42:33.000Z",
-      "summary_90w": "",
-      "raw": "Climate Action Tracker report finds pledges made in past year have not cut the forecast for global heating\nAway from the official Cop30 negotiations, members of the Amazon’s indigenous communities were gathering in Belém’s university yesterday for the inauguration of a parallel People’s Summit.\nPictures filed by news agencies showed people dancing, singing and mingling at the event, on the grounds of the Federal University of Para, just a couple of miles from the conference centre where the UN climate summit is taking place.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a156cf4925a4e55c8a944ff9d283ad34a1fbc196",
       "title": "Epstein email says Andrew had photo taken with Virginia Giuffre",
       "url": "https://www.bbc.com/news/articles/cglgj08erywo?at_medium=RSS&at_campaign=rss",
@@ -128,19 +219,6 @@
       "published": "2025-11-13T12:35:41.000Z",
       "summary_90w": "",
       "raw": "The Canadian hip-hop artist is serving a 10-year sentence for an attack on the female rap superstar.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "5d63969548b8662ba2fbe784083d7e59824fae40",
-      "title": "Police and crime commissioners to be scrapped in England and Wales",
-      "url": "https://www.bbc.com/news/articles/c93d4dd3l3lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-13T12:28:19.000Z",
-      "summary_90w": "",
-      "raw": "The government says it will save £100m over this Parliament and less than 20% of voters can name their PCC.",
       "topics": [
         "World"
       ]
@@ -237,6 +315,19 @@
       ]
     },
     {
+      "id": "0570a3754813e4dd1db2019d84a13c883df14d9d",
+      "title": "Scott left out of England squad for Serbia match",
+      "url": "https://www.bbc.com/sport/football/articles/c867n7yp4lxo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T11:56:52.000Z",
+      "summary_90w": "",
+      "raw": "Uncapped Bournemouth midfielder Alex Scott is left out of the 23-man England squad for Thursday's World Cup qualifier against Serbia at Wembley.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "0baf614e8a4594c24c9431385a5fa737ef996039",
       "title": "Amber warnings issued ahead of heavy rain from Storm Claudia",
       "url": "https://www.bbc.com/weather/articles/cj0e3y6yy99o?at_medium=RSS&at_campaign=rss",
@@ -245,19 +336,6 @@
       "published": "2025-11-13T11:49:09.000Z",
       "summary_90w": "",
       "raw": "Storm Claudia is set to bring heavy and persistent rain to parts of the UK with amber warnings issued with risk of flooding and disruption.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c45ad3de0196dc80ae0be8ec28688cb6f49237a1",
-      "title": "Who is Starmer's chief of staff Morgan McSweeney?",
-      "url": "https://www.bbc.com/news/articles/cy0l9z7qv0lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-13T11:39:03.000Z",
-      "summary_90w": "",
-      "raw": "Morgan McSweeney is credited with masterminding Labour's landslide election victory.",
       "topics": [
         "World"
       ]
@@ -276,23 +354,10 @@
       ]
     },
     {
-      "id": "aa46623fd80fd0d2e7974a6ba20b86c3055d5f2a",
-      "title": "EU investigates Google over ‘demotion’ of commercial content from news media",
-      "url": "https://www.theguardian.com/technology/2025/nov/13/eu-investigates-google-search-over-demoting-commercial-content-from-news-media",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-13T11:09:13.000Z",
-      "summary_90w": "",
-      "raw": "Officials say some content created with advertisers is in effect not visible, which could mean unfair loss of revenue\nThe EU has launched an investigation into Google Search over concerns the US tech company has been “demoting” commercial content from news media sites.\nThe bloc’s executive arm announced the move after monitoring found certain content created with advertisers and sponsors was being given such a low priority by Google that it was in effect no longer visible in search results.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8d93a0165e49b8ae7752baaf6172472b03466fcd",
       "title": "PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
       "url": "https://www.bbc.com/news/articles/cd679n9lnx5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-11-13T11:04:12.000Z",
       "summary_90w": "",
@@ -380,14 +445,14 @@
       ]
     },
     {
-      "id": "01936b3d30a63cafb230745f9a2c94632e4c2fa8",
-      "title": "NHS waiting list down after three months of rises",
-      "url": "https://www.bbc.com/news/articles/c3dn3ryl3p7o?at_medium=RSS&at_campaign=rss",
+      "id": "c1d0b0d8c91b2435f65ccbe97a2eab9416f64c52",
+      "title": "The Ratcliffe revolution - inside Man Utd's mass exodus and rebuild",
+      "url": "https://www.bbc.com/sport/football/articles/cdjrkznlk9yo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-11-13T10:23:12.000Z",
+      "published": "2025-11-13T10:11:18.000Z",
       "summary_90w": "",
-      "raw": "At the end of September, the backlog stood at 7.39 million in England.",
+      "raw": "BBC Sport tells the story of how Sir Jim Ratcliffe ripped apart and rebuilt Manchester United's leadership team.",
       "topics": [
         "World"
       ]
@@ -427,6 +492,32 @@
       "published": "2025-11-13T10:00:00.000Z",
       "summary_90w": "",
       "raw": "The first ever disruption to the nation's largest anti-hunger program came as a shock. It's shaken trust in the program for some and stoked concern that it could happen again.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "810fa6cbf801f318557f7d548d5cf39d017d6a9b",
+      "title": "Stokes takes six in England warm-up but Wood suffers injury concern",
+      "url": "https://www.bbc.com/sport/cricket/articles/crmxr4lmn7go?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T09:56:35.000Z",
+      "summary_90w": "",
+      "raw": "England captain Ben Stokes takes six wickets on the opening day of his side's solitary warm-up match before the Ashes begins next week.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "986bdb2eda3c1cf0c1642032f9fb8c7cfa7938d2",
+      "title": "Joshua v Paul? Hearn says 'maybe' with camps in talks",
+      "url": "https://www.bbc.com/sport/boxing/articles/c9d6855964lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-13T09:55:35.000Z",
+      "summary_90w": "",
+      "raw": "Former heavyweight world champion Anthony Joshua is in talks to fight YouTuber-turned-boxer Jake Paul, says promoter Eddie Hearn.",
       "topics": [
         "World"
       ]
@@ -705,19 +796,6 @@
       ]
     },
     {
-      "id": "ece858ea817fe146f4a3d39a606e4934a52fe514",
-      "title": "Catherine's Christmas service to feature stars including Kate Winslet",
-      "url": "https://www.bbc.com/news/articles/cwy1lg9kgnko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-13T04:08:33.000Z",
-      "summary_90w": "",
-      "raw": "This will be the fifth time that the Princess of Wales has led the Together at Christmas carol service.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a82f993270540e33b0211adb9411f3351ba22bae",
       "title": "Fatal clash on Thai-Cambodia border after Trump-brokered peace deal breaks down",
       "url": "https://www.theguardian.com/world/2025/nov/13/thailand-cambodia-border-clash",
@@ -747,7 +825,7 @@
       "id": "793c521825b9bc4b66e54612fede21f75074d06f",
       "title": "Fossil fuel emissions rise again - but renewables boom offers hope for climate",
       "url": "https://www.bbc.com/news/articles/c620q30w0q0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-13T03:16:15.000Z",
       "summary_90w": "",
@@ -1056,19 +1134,6 @@
       ]
     },
     {
-      "id": "c6804ed3026f58c3139317261488f088dd0462b1",
-      "title": "Valve’s new VR streaming trick won’t just work with its own headset",
-      "url": "https://www.theverge.com/news/817993/valve-vr-steam-frame-foveated-streaming-rendering-link",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-12T20:20:00.000Z",
-      "summary_90w": "",
-      "raw": "Valve’s new streaming-first VR headset — the Steam Frame — employs a clever trick to help make game streaming feel as low-latency as possible. It’s called foveated streaming, and it means the headset requests a higher-quality image for the content that’s right in front of your eyes while lowering the resolution of your peripheral vision to reduce bandwidth and processing demands. \nThe headset relies on a couple pieces of hardware to make that happen. The first is a dedicated wireless streaming adapter that sends games from a PC to the headset. The second is a pair of eye-tracking cameras inside the headset that follow where you’re looking. If you’re familiar with foveated rendering, which headsets like Apple’s Vision Pro deploy for on-device processing, it’s a similar idea.\nValve tells The Verge that foveated streaming won’t be exclusive to the Frame. While it’s currently optimized for the Steam Frame, foveated streaming can work with “any headset that supports eye tracking” and that is “compatible with our Steam Link streaming app,” according to hardware engineer Jeremy Selan.\nWe answered your burning questions about Valve’s new hardware.\nWe hosted a subscriber-exclusive AMA about the Steam Machine, Steam Frame, and Steam Controller, and you can check out our responses here.\nI’ve seen foveated streaming in action myself, and it’s extremely impressive. While playing Half-Life: Alyx on a Steam Frame streamed from a nearby PC with that dedicated 6GHz wireless streaming adapter, I honestly couldn’t tell that the game wasn’t running locally on the headset. While Valve hasn’t specified when foveated streaming might be available on other headsets or which might be able to use it, I’m glad to hear that owners of other VR headsets will be able to use the feature to play their games.\nIt doesn’t sound like Valve has plans for other VR headsets to be able to take advantage of the wireless adapter, though. “Supporting the wireless adapter is more difficult without lower-level OS support, as we have with SteamOS,” Selan says.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "407a51c0c3cd69d87ce31cf947e4bf1b931e84f6",
       "title": "Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment",
       "url": "https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/",
@@ -1298,32 +1363,6 @@
       "published": "2025-11-12T16:07:04.000Z",
       "summary_90w": "",
       "raw": "Country explores taking part in the glitzy song contest as it distances from the US and seeks to deepen ties with Europe\nWhen Canada released its federal budget this month, much of it was standard fare, from the plans to downsize the public service to the boost in defence spending.\nBut one line tucked in the nearly 500-page document has captured imaginations on both sides of the Atlantic: a mention that the government is working with Canada’s national broadcaster to explore participation in the Eurovision song contest.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9ec8910c04e229eb22ee42392652d3063b44a2f0",
-      "title": "AI data startup WisdomAI has raised another $50M, led by Kleiner, Nvidia ",
-      "url": "https://techcrunch.com/2025/11/12/ai-data-startup-wisdomai-has-raised-another-50m-led-by-kleiner-nvidia/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-12T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "WisdomAI is offering AI-driven data analytics that can answer business questions from structured, unstructured, and even “dirty” data, meaning data not cleaned of typos or errors.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "e7b3c3f1bf88b3c3f46ff3828604df60b97eca5f",
-      "title": "The EU invited Ukraine to join the club, but will it ever happen?",
-      "url": "https://www.theguardian.com/world/2025/nov/12/the-eu-invited-ukraine-to-join-the-club-kyivs-hopes-are-high-but-will-it-ever-happen",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-12T15:53:55.000Z",
-      "summary_90w": "",
-      "raw": "Zelenskyy wants admission before 2030, but with a growing far-right, anti-enlargement contingent and budgetary fears mounting, some countries are hiding behind a Hungarian veto\n• Don’t get This Is Europe delivered to your inbox? Sign up here\nVolodymyr Zelenskyy may be a wartime leader, but he is fighting to deliver peacetime ambitions, too: he wants Ukraine to become an EU country – soon.\nUkraine’s tireless president is ramping up pressure on EU governments to accelerate the slow process of joining: he sees the collective sacrifice of his people as a struggle “for the Ukrainian future, the future of Ukraine in the European Union”.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1732,19 +1771,6 @@
       ]
     },
     {
-      "id": "b03efcd0c37ca73be9e02fa1db46bafd2a64eaed",
-      "title": "The remarkable story of an everlasting Hollywood icon",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002m46k/richard-burton-wild-genius?at_mid=deJpUJ9deb&at_campaign=Richard_Burton_Wild_Genius&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002m46k&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Richard_Burton_Wild_Genius&at_bbc_team=BBC",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-10T06:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The epic story of a Hollywood star whose life and talent blazed like no other.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "11049843fc4f694abee58dd4e17407603a652455",
       "title": "Some UPS and FedEx planes are grounded. What does that mean for holiday shipping?",
       "url": "https://www.npr.org/2025/11/09/nx-s1-5602930/ups-fedex-md11-aircraft-holiday-shipping",
@@ -2106,19 +2132,6 @@
       "raw": "AI email assistants are crafting perfect, tailor-made messages with minimal human input. But some people are now worried their emails sound too perfect -- including people who work in tech.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "c9f19c58461b8e278b5d77fc292ed5abe7fd4e4d",
-      "title": "Aliens are invading in this sci-fi Spielberg epic",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002l55s?at_mid=CYR2LRhPpK&at_campaign=Close_Encounters_of_the_Third_Kind&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002l55s&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Close_Encounters_of_the_Third_Kind&at_bbc_team=BBC&at_creation=Film",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-10-18T19:36:51.000Z",
-      "summary_90w": "",
-      "raw": "Roy Neary has an encounter with an alien spacecraft and becomes consumed with the desire to see it again",
-      "topics": [
-        "World"
       ]
     },
     {
