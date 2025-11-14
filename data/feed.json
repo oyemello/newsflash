@@ -1,6 +1,6 @@
 {
-  "version": "1763116838102",
-  "generatedAt": "2025-11-14T10:40:38.102Z",
+  "version": "1763117700060",
+  "generatedAt": "2025-11-14T10:55:00.060Z",
   "items": [
     {
       "id": "2fc468003dd8d7c5cd84d74b183d2665b76e2521",
@@ -8,9 +8,48 @@
       "url": "https://www.theguardian.com/world/live/2025/nov/14/ukraine-kyiv-russia-zelenskyy-putin-europe-latest-news-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-11-14T10:20:06.000Z",
+      "published": "2025-11-14T10:43:16.000Z",
       "summary_90w": "",
       "raw": "Drones and missiles used to target Kyiv with at least four people killed and ‘dozens’ wounded\n\nRussia attacks every district of Kyiv\n\nElsewhere, Russia’s Black Sea port of Novorossiysk, a key outlet for Russian commodity shipments, suspended oil exports after what authorities said was a major Ukrainian drone attack, two industry sources told Reuters.\nThe attack, one of the biggest on Russian oil-exporting infrastructure in recent months, comes after Ukraine in August stepped up strikes on Russian oil refineries in an attempt to degrade Moscow’s ability to finance its war, Reuters noted.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "21af09d007b697a9e7833024f65ed043ed13527d",
+      "title": "WhatsApp is launching third-party chat integration in Europe",
+      "url": "https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-14T10:41:35.000Z",
+      "summary_90w": "",
+      "raw": "Meta is on the cusp of launching third-party integration with WhatsApp in Europe — something that’s required by the Digital Markets Act (DMA). It’s rolling out “over the coming months” with WhatsApp’s level of end-to-end encryption (E2EE) maintained.\nMeta says that BirdyChat and Haiket will be the first third-party services to implement messaging interoperability with WhatsApp. No, we haven’t heard of them either, but that’s what leveling the playing field looks like.\nWhatsApp users in Europe will eventually see a notification in the settings tab that will explain how to opt-in to third party messaging. It will work in WhatsApp for iOS and Android, but not on desktops, web, or tablets. \nMeta says that “third-party messaging apps must use the same level of E2EE as WhatsApp,” and Meta can’t see encrypted messages in transit. Content can include text, photos, videos, voice messages, and documents. It will also only work for users with a WhatsApp account registered to phone numbers in regions covered by the DMA, according to the FAQ.\nMeta warns that third-party apps “might handle your data differently” than it would — is that a bad thing?",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "cd1ba2b691509e4e7ca3a7fc386cc5b565e20f6f",
+      "title": "Reeves decides against raising income tax rates",
+      "url": "https://www.bbc.com/news/articles/c0mx3nv7zy8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-14T10:41:19.000Z",
+      "summary_90w": "",
+      "raw": "The chancellor had been widely expected to increase income tax rates, which would have broken a manifesto promise.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bfde1d087a6f26c3216c68b2fcd533a291965111",
+      "title": "New photo released for King's 77th birthday",
+      "url": "https://www.bbc.com/news/articles/c77zgmg6d76o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-14T10:27:39.000Z",
+      "summary_90w": "",
+      "raw": "The picture shows the king at his Sandringham estate in Norfolk, holding a shepherd's crook.",
       "topics": [
         "World"
       ]
@@ -133,19 +172,6 @@
       ]
     },
     {
-      "id": "cd1ba2b691509e4e7ca3a7fc386cc5b565e20f6f",
-      "title": "Reeves decides against raising income tax rates",
-      "url": "https://www.bbc.com/news/articles/c0mx3nv7zy8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-14T09:51:48.000Z",
-      "summary_90w": "",
-      "raw": "The chancellor had been widely expected to increase income tax rates, which would have broken a manifesto promise.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ba603a3bd8d3e7d81a9f3ee0645b2cdca864ab7b",
       "title": "Doctors begin five-day walkout in England",
       "url": "https://www.bbc.com/news/articles/cm2lg8pgjymo?at_medium=RSS&at_campaign=rss",
@@ -201,7 +227,7 @@
       "id": "842ff7d371e8fb7fb6661a5759cc8e530b84a414",
       "title": "Australian schools shut over asbestos risk in children's sand",
       "url": "https://www.bbc.com/news/articles/c0qpvq3v3xeo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-14T09:29:58.000Z",
       "summary_90w": "",
@@ -445,6 +471,19 @@
       ]
     },
     {
+      "id": "dc0f47c8082b3a95976da9794e0fe7ebbe6bbb26",
+      "title": "'Where do we look now?' Heskey on lack of England strikers",
+      "url": "https://www.bbc.com/sport/football/articles/c1wl15p1yyno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-14T06:11:54.000Z",
+      "summary_90w": "",
+      "raw": "Emile Heskey feels it is difficult to see who the next main England striker will be, following the decline of the traditional number nine.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "ad7ca4af66777298b3d62e44758a6b015f2a69d4",
       "title": "Graeme Samuel calls for Labor to ditch ‘national interest’ workaround for environment laws",
       "url": "https://www.theguardian.com/environment/2025/nov/14/graeme-samuel-calls-for-labor-to-ditch-national-interest-workaround-for-environment-laws",
@@ -557,19 +596,6 @@
       "published": "2025-11-14T03:16:48.000Z",
       "summary_90w": "",
       "raw": "October marked the 10th month of decreased Canadian travel to the US, with many staying away over political and trade tensions.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e0037650c34c21165a21aa5c7fff158ffdb54d11",
-      "title": "Ex-Bangladesh leader tells BBC she's not guilty of crimes against humanity",
-      "url": "https://www.bbc.com/news/articles/c1lq1e1d79lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-14T02:26:08.000Z",
-      "summary_90w": "",
-      "raw": "Sheikh Hasina tells the BBC her trial in absentia is destined to deliver a \"pre-ordained guilty verdict\".",
       "topics": [
         "World"
       ]
@@ -947,19 +973,6 @@
       "published": "2025-11-13T19:47:39.000Z",
       "summary_90w": "",
       "raw": "Anthropic announced on Thursday that Chinese state-backed hackers used the company’s AI model Claude to automate roughly 30 attacks on corporations and governments during a September campaign, according to reporting from the Wall Street Journal.\nAnthropic said that up to 80% to 90% of the attack was automated with AI, a level higher than previous hacks. It occurred “literally with the click of a button, and then with minimal human interaction,” Anthropic’s head of threat intelligence Jacob Klein told the Journal. He added: “The human was only involved in a few critical chokepoints, saying, ‘Yes, continue,’ ‘Don’t continue,’ ‘Thank you for this information,’ ‘Oh, that doesn’t look right, Claude, are you sure?’” \nAI-powered hacking is increasingly common, and so is the latest strategy to use AI to tack together the various tasks necessary for a successful attack. Google spotted Russian hackers using large-language models to generate commands for their malware, according to a company report released on November 5th. \nFor years, the US government has warned that China was using AI to steal data of American citizens and companies, which China has denied. Anthropic told the Journal that it is confident the hackers were sponsored by the Chinese government. In this campaign, the hackers stole sensitive data from four victims, but as with previous hacks, Anthropic did not disclose the names of the targets, successful or unsuccessful. The company did say that the US government was not a successful target.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "81de558a64c9dab5d2ad9ce5e5ff9ae2784cdf55",
-      "title": "Who is buying VR and XR headsets anyway?",
-      "url": "https://www.theverge.com/tech/820416/vr-xr-headsets-vision-pro-galaxy-xr-steam-frame-enterprise",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-13T19:45:48.000Z",
-      "summary_90w": "",
-      "raw": "From the outside, it looks like virtual and mixed reality is having a moment. Three new headsets have launched or been announced in the last month: There's Apple's M5 Vision Pro, the Samsung Galaxy XR, and, just this week, Valve announced the Steam Frame. Given the marketing, you might assume that means Big Tech thinks this tech finally has some mass-market appeal. But, in the nearly 60 years since the first VR headset, one thing remains true: This isn't the next iPhone. \n\"Let's put it this way,\" says Tuong Huy Nguyen, a director analyst on Gartner's emerging technologies and trends team. \"Everyone who wants a VR headset already has one.\" \nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -2078,19 +2091,6 @@
       "published": "2025-11-03T17:45:20.000Z",
       "summary_90w": "",
       "raw": "The seven-year agreement will see OpenAI gain access to Nvidia graphics processors to train its artificial intelligence models.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0fc00bf1034be03a7776be3ddb844939f91e8133",
-      "title": "'No idea who he is,' says Trump after pardoning crypto tycoon",
-      "url": "https://www.bbc.com/news/articles/cn7ek63e5xyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-11-03T06:16:03.000Z",
-      "summary_90w": "",
-      "raw": "The president pardoned Changpeng Zhao, the co-founder of the world's largest crypto exchange, in October.",
       "topics": [
         "Technology"
       ]
