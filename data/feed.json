@@ -1,7 +1,20 @@
 {
-  "version": "1763216005245",
-  "generatedAt": "2025-11-15T14:13:25.245Z",
+  "version": "1763217214247",
+  "generatedAt": "2025-11-15T14:33:34.247Z",
   "items": [
+    {
+      "id": "b9a35909cfdf74e31d43892919945f8a0048bcd5",
+      "title": "A stock of U.S.-bought birth control, meant for sub-Saharan Africa, goes bad in Belgium",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/11/15/g-s1-97843/birth-control-contraceptives-usaid-belgium-unusable-storage",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-11-15T14:10:36.000Z",
+      "summary_90w": "",
+      "raw": "Millions of dollars worth of contraceptives have been stored in Belgium since the U.S. froze foreign aid. A local official says some products were stored improperly and are largely unusable.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "802faa8f20a06e3a41f10adf3b092ef9e05f6325",
       "title": "Framework’s franken-laptop is back with big chip upgrades and familiar frustrations",
@@ -19,7 +32,7 @@
       "id": "cfb1ed9ee9d0b81786aa8597c1fe065ffda1d92d",
       "title": "Iran confirms it seized tanker in Strait of Hormuz",
       "url": "https://www.bbc.com/news/articles/cze6zxjw3g3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-11-15T13:57:25.000Z",
       "summary_90w": "",
@@ -37,6 +50,19 @@
       "published": "2025-11-15T13:43:30.000Z",
       "summary_90w": "",
       "raw": "Met Office yellow rain warning was in place early on Saturday with 83 flood warnings issued for England and 12 flood warnings across Wales.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "eaa25f8f68c70ced96f8c0fae313589d1eb387fa",
+      "title": "Watch: Aerial footage shows devastating scenes caused by flooding in Wales",
+      "url": "https://www.bbc.com/news/videos/cn7e4pzpy31o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-15T13:39:31.000Z",
+      "summary_90w": "",
+      "raw": "Aerial footage shows devastating scenes caused by floods.",
       "topics": [
         "World"
       ]
@@ -240,7 +266,7 @@
       "id": "95583d9ba5db7f882a641a75fd0bfba1e4a75f25",
       "title": "Nine killed in accidental blast at police station in Indian-administered Kashmir, officials say",
       "url": "https://www.bbc.com/news/articles/cnvel2gvqeqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-15T10:04:06.000Z",
       "summary_90w": "",
@@ -310,19 +336,6 @@
       "published": "2025-11-15T09:48:07.000Z",
       "summary_90w": "",
       "raw": "Acceding to President Donald Trump's demands, U.S. Attorney General Pam Bondi said Friday that she has ordered a top federal prosecutor to investigate Jeffrey Epstein's ties to Trump political foes.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fd803d2c158d6216d0500428324a3109b8745823",
-      "title": "Chance of snow in UK this week after Storm Claudia clears",
-      "url": "https://www.bbc.com/weather/articles/cy8ve54we24o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-15T09:05:25.000Z",
-      "summary_90w": "",
-      "raw": "As the rains clear, northerly winds will turn our weather much colder next week with the chance of snow in some parts.",
       "topics": [
         "World"
       ]
@@ -630,13 +643,13 @@
       "id": "3e7344b2365bbedd7dff8826f764b30bacbe0153",
       "title": "Trump scraps tariffs on beef, coffee, tropical fruit in a push to lower prices",
       "url": "https://www.npr.org/2025/11/14/g-s1-97936/trump-tariffs-executive-order-beef-coffee-fruit",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2025-11-14T23:59:54.000Z",
       "summary_90w": "",
       "raw": "President Trump announced the removal of U.S. tariffs on beef, coffee, tropical fruits and other commodities amid pressure to address high consumer prices.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
