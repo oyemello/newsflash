@@ -1,6 +1,6 @@
 {
-  "version": "1763209385519",
-  "generatedAt": "2025-11-15T12:23:05.519Z",
+  "version": "1763211773432",
+  "generatedAt": "2025-11-15T13:02:53.432Z",
   "items": [
     {
       "id": "43e3dea5f73ddca470e826acd21584b2542d154a",
@@ -8,9 +8,22 @@
       "url": "https://www.bbc.com/news/articles/c4gw5xxej04o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-11-15T12:06:08.000Z",
+      "published": "2025-11-15T12:47:58.000Z",
       "summary_90w": "",
       "raw": "Met Office yellow rain warning was in place early on Saturday with 83 flood warnings issued for England and 12 flood warnings across Wales.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f420494754ca19e09b17aa63b714204768d89bd2",
+      "title": "BBC now faces tough legal battle with world's most powerful man. What happens next?",
+      "url": "https://www.bbc.com/news/articles/cy0yz5r8lypo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-15T12:26:07.000Z",
+      "summary_90w": "",
+      "raw": "Anyone who thought an apology to Donald Trump was going to stop his threat of a lawsuit was deluded, writes Culture and Media Editor Katie Razzall.",
       "topics": [
         "World"
       ]
@@ -37,19 +50,6 @@
       "published": "2025-11-15T12:00:00.000Z",
       "summary_90w": "",
       "raw": "Research on brain disorders may slow as young neuroscientists struggle to find jobs and research grants.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f420494754ca19e09b17aa63b714204768d89bd2",
-      "title": "BBC now faces tough legal battle with world's most powerful man. What happens next?",
-      "url": "https://www.bbc.com/news/articles/cy0yz5r8lypo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-15T10:49:51.000Z",
-      "summary_90w": "",
-      "raw": "Anyone who thought an apology to Donald Trump was going to stop his threat of a lawsuit was deluded, writes Culture and Media Editor Katie Razzall.",
       "topics": [
         "World"
       ]
@@ -1683,13 +1683,13 @@
       "id": "b61137f4fdb6267d15a80982f21f96026d6b1619",
       "title": "Google launches a lawsuit targeting text message scammers",
       "url": "https://www.npr.org/2025/11/12/nx-s1-5604857/google-lawsuit-phishing-text-message-scammers",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2025-11-12T10:00:00.000Z",
       "summary_90w": "",
       "raw": "Ever gotten a text saying you forgot to pay a nonexistent road toll or need to pick up a mystery package? Google's going after the scammers behind those messages.",
       "topics": [
-        "Business"
+        "Technology"
       ]
     },
     {
