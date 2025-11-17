@@ -1,7 +1,85 @@
 {
-  "version": "1763382359943",
-  "generatedAt": "2025-11-17T12:25:59.943Z",
+  "version": "1763385032998",
+  "generatedAt": "2025-11-17T13:10:32.998Z",
   "items": [
+    {
+      "id": "6d1c3921ba0ffd68cb92eac0d921703bc772dbb7",
+      "title": "Surveillance tech provider Protei was hacked, its data stolen and its website defaced",
+      "url": "https://techcrunch.com/2025/11/17/surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-17T13:09:47.000Z",
+      "summary_90w": "",
+      "raw": "The defacement of Protei's website said \"another DPI/SORM provider bites the dust,\" apparently referring to the company selling its web intercept and surveillance products to phone and internet providers.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1a53247cd5ec6d2583662a6173b016eea936f047",
+      "title": "Bone AI raises $12M to challenge Asia’s defense giants with AI-powered robotics",
+      "url": "https://techcrunch.com/2025/11/17/bone-ai-raises-funding-to-challenge-asias-defense-giants-with-next-gen-ai-powered-robotics/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-17T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Bone AI, a South Korean startup, is combining AI and manufacturing to build next-gen defense robotics and challenge the region’s industry giants.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f11f527bc0b45e915fae42b8d20d8d6122ac4266",
+      "title": "Bangladesh's ousted leader Sheikh Hasina sentenced to death",
+      "url": "https://www.bbc.com/news/articles/cpwvg99e8vdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-17T12:59:35.000Z",
+      "summary_90w": "",
+      "raw": "The former prime minister was tried by a special tribunal after 1,400 died during a crackdown on unrest in 2024.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a7927d243260b820e53204d1c7c4ffa4beebffa8",
+      "title": "Explosion on Polish railway was ‘unprecedented act of sabotage,’ says PM – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/nov/17/ukraine-russia-france-poland-zelenskyy-macron-eu-europe-news-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-17T12:43:54.000Z",
+      "summary_90w": "",
+      "raw": "Donald Tusk says ‘worst fears confirmed’ over damage on route used to ferry aid deliveries to Ukraine\nBack to Poland, the country’s interior minister is hosting an emergency meeting on the train incidents, with transport, justice ministers, police and representatives of security services all attending.\n“Poland is facing acts of sabotage unprecedented in its most recent history,” Marcin Kierwiński said in a social media post.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bcb6321bf53efa0902a917fabdeb7c194ded2bf7",
+      "title": "Trump changes stance on Epstein files. And, the U.S. increases pressure on Venezuela",
+      "url": "https://www.npr.org/2025/11/17/g-s1-98106/up-first-newsletter-trump-epstein-files-venezuela-charlotte-border-patrol",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-11-17T12:37:59.000Z",
+      "summary_90w": "",
+      "raw": "President Trump changes stance on the Epstein files, urging Republicans to support a House vote tomorrow. And, the U.S. military buildup in the Caribbean adds pressure on Venezuela.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "608196c9c0594de07a435f66eaf6b83beb3b6d0a",
+      "title": "Ukraine to import US liquefied natural gas via Greece",
+      "url": "https://www.bbc.com/news/articles/c0ex0y0p31jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-17T12:25:08.000Z",
+      "summary_90w": "",
+      "raw": "Vital supplies are due to start flowing into the war-ravaged country this winter via a Balkan pipeline.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "fb820a76bbda92a6b8912ce74684890649d2cbe6",
       "title": "MSI’s $380 QD-OLED gaming monitor is one of 2025’s best deals so far",
@@ -65,19 +143,6 @@
       "raw": "The second-gen Nest Thermostat launched in 2012.\t\n\nGoogle officially turned off remote control functionality for early Nest Learning Thermostats last month, but it hasn’t stopped collecting a stream of data from these downgraded devices. After digging into the backend, security researcher Cody Kociemba found that the first- and second-generation Nest Learning Thermostats are still sending Google information about manual temperature changes, whether a person is present in the room, if sunlight is hitting the device, and more.\nKociemba made the discovery while participating in a bounty program created by FULU, a right-to-repair advocacy organization cofounded by electronics repair technician and YouTuber Louis Rossmann. FULU challenged developers to come up with a solution to restore smart functionality to Nest devices no longer supported by Google, and that’s exactly what Kociemba did with his open-source No Longer Evil project.\nBut after cloning Google’s API to create this custom software, he started receiving a trove of logs from customer devices, which he turned off. “On these devices, while they [Google] turned off access to remotely control them, they did leave in the ability for the devices to upload logs. And the logs are pretty extensive,” Kociemba tells The Verge.\nAlong with preventing users from remotely controlling early Nest Learning Thermostats (in addition to the European version from 2014), Google turned off the ability for users to check the status of their devices from the Nest or Google Home app, while also blocking security and software updates. Google notes that the unsupported devices “will continue to report logs for issue diagnostics,” though the data the company is collecting no longer appears to be useful.\n“Although these logs can contain technical details such as HVAC error states, Google can no longer use that information to assist the customers who still depend on these thermostats, since support has been fully discontinued, even in cases of device failure,” according to Kociemba.\nGoogle is still getting all the information collected by Nest Learning Thermostats, including data measured by their sensors, such as temperature, humidity, ambient light, and motion. “I was under the impression that the Google connection would be severed along with the remote functionality, however that connection is not severed, and instead is a one-way street,” Kociemba says. The Verge reached out to Google with a request for comment but didn’t immediately hear back.\nFULU awarded Kociemba and another winner, who goes by the name of Team Dinosaur, with the $14,772 bounty for bringing smart features back to the unsupported thermostats.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f11f527bc0b45e915fae42b8d20d8d6122ac4266",
-      "title": "Bangladesh's ousted leader Sheikh Hasina sentenced to death",
-      "url": "https://www.bbc.com/news/articles/cpwvg99e8vdo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-17T11:57:29.000Z",
-      "summary_90w": "",
-      "raw": "The former prime minister was tried by a special tribunal after 1,400 died during a crackdown on unrest in 2024.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -154,19 +219,6 @@
       "published": "2025-11-17T11:35:26.000Z",
       "summary_90w": "",
       "raw": "The US draft authorises decommissioning Hamas weapons - though the group has not said it will disarm.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a7927d243260b820e53204d1c7c4ffa4beebffa8",
-      "title": "Explosion on Polish railway was ‘unprecedented act of sabotage,’ says PM – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/nov/17/ukraine-russia-france-poland-zelenskyy-macron-eu-europe-news-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-17T11:29:54.000Z",
-      "summary_90w": "",
-      "raw": "Donald Tusk says ‘worst fears confirmed’ over damage on route used to ferry aid deliveries to Ukraine\nBack to Poland, the country’s interior minister is hosting an emergency meeting on the train incidents, with transport, justice ministers, police and representatives of security services all attending.\n“Poland is facing acts of sabotage unprecedented in its most recent history,” Marcin Kierwiński said in a social media post.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -381,7 +433,7 @@
     },
     {
       "id": "a7f1a0bbd91d1dfcd74d450ec2209f00cb4f2a2d",
-      "title": "Parents arrested after complaining about school on WhatsApp say police have paid £20k",
+      "title": "Police admit unlawful arrest and pay £20k to couple who complained about school on WhatsApp",
       "url": "https://www.bbc.com/news/articles/c4gz1qy30v5o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -461,7 +513,7 @@
       "id": "2793cfe0c5c725c4e980955a6f8c8f86ac215fd6",
       "title": "How Tanzania police crushed election protests with lethal force",
       "url": "https://www.bbc.com/news/articles/c3vn4rlqd52o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-17T09:00:07.000Z",
       "summary_90w": "",
@@ -544,19 +596,6 @@
       "published": "2025-11-17T07:30:35.000Z",
       "summary_90w": "",
       "raw": "Four NSW officers who failed to report former constable’s confessions also found to have engaged in serious misconduct, independent commission says\n\nGet our breaking news email, free app or daily news podcast\n\nA former NSW constable who used excessive force on six separate occasions and destroyed incriminating body-worn video evidence has been found to have engaged in serious misconduct, alongside four officers he confessed to who didn’t report him.\nThe findings, released by the state’s independent Law Enforcement Conduct Commission (Lecc) on Monday, could lead to a criminal investigation and potential jail time for the former New South Wales police officer.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ab82e08a2757fdd3f4df33446d9b60bd1ff19c4f",
-      "title": "A spat over Taiwan is threatening China-Japan ties",
-      "url": "https://www.npr.org/2025/11/17/g-s1-98081/spat-over-taiwan-china-japan",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-11-17T07:07:14.000Z",
-      "summary_90w": "",
-      "raw": "Less than a month into her term, Japan's conservative leader has stirred tensions with China by suggesting a Chinese move against Taiwan could prompt a Japanese military response.",
       "topics": [
         "World"
       ]
@@ -1584,32 +1623,6 @@
       "published": "2025-11-14T17:59:45.000Z",
       "summary_90w": "",
       "raw": "OpenAI says users can now personalize ChatGPT to stop using the em dash in its output.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0bf65302d90755d347d0bf2587b9892823546e38",
-      "title": "Five people plead guilty to helping North Koreans infiltrate US companies as ‘remote IT workers’",
-      "url": "https://techcrunch.com/2025/11/14/five-people-plead-guilty-to-helping-north-koreans-infiltrate-us-companies-as-remote-it-workers/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-14T17:15:09.000Z",
-      "summary_90w": "",
-      "raw": "The U.S. Department of Justice said five people — including four U.S. nationals — \"facilitated\" North Korean IT workers to get jobs at American companies, allowing the regime to earn money from their remote labor.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "28a2f51cac5027719c890793883f9c528d8906b4",
-      "title": "Boeing has a carbon emissions problem. Startup Charm Industrial is cleaning up.",
-      "url": "https://techcrunch.com/2025/11/14/boeing-has-a-carbon-emissions-problem-startup-charm-industrial-is-cleaning-up/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-14T17:04:10.000Z",
-      "summary_90w": "",
-      "raw": "The deal will see Charm Industrial collect forestry waste and transform it into a bio-oil it buries underground.",
       "topics": [
         "Technology"
       ]
