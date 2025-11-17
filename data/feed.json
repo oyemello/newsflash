@@ -1,7 +1,137 @@
 {
-  "version": "1763380264906",
-  "generatedAt": "2025-11-17T11:51:04.906Z",
+  "version": "1763382359943",
+  "generatedAt": "2025-11-17T12:25:59.943Z",
   "items": [
+    {
+      "id": "fb820a76bbda92a6b8912ce74684890649d2cbe6",
+      "title": "MSI’s $380 QD-OLED gaming monitor is one of 2025’s best deals so far",
+      "url": "https://www.theverge.com/gadgets/820451/msi-qd-oled-1440p-gaming-monitor-deal-sale-black-friday",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-17T12:15:29.000Z",
+      "summary_90w": "",
+      "raw": "At $380, MSI’s 27-inch 1440p QD-OLED gaming monitor is one of the best purchases Verge readers who want an awesome gaming upgrade can make now. That’s how much it costs in an online-only deal at Costco for membership holders through December 1st. In case you’re curious as to what kind of OLED monitor you can get for just $380, so was I. So I got MSI to send over a review unit, which I’ve been using for over a week. \nThis monitor (model MAG271QPX E2) doesn’t really differ from several other similarly-sized models. It offers a fast 240Hz refresh rate, fantastic viewing angles compared to cheaper panel types, and colors that really pop. It’s not typically one I’d suggest most people buy at its usual $599 sale price, but it becomes an extremely compelling value for $200 less.\nMSI MAG271QPX E2 1440p QD-OLED gaming monitor\n\nWhere to Buy:\n\n $479.99 $379.99 at Costco\n\nMSI’s QD-OLED replaced an aging Acer 1440p IPS 144Hz monitor at my desk, and the difference was profound when I jumped into a game. I’ve been playing a lot of Battlefield 6 lately, and the landscapes look more lived-in than they do with the limited, pale color gamut that my IPS can muster. The chaotic action looks a little more real, thanks to more vivid-looking explosions. Every little aspect of the interface is easier to parse, too, thanks to OLEDs unbeatable contrast ratio. \nAmbrosia Sky is another title I recently picked up that looks particularly stunning on this display. I wish I had started testing this around Halloween, when I was playing more scary games, because its deep black levels look fantastic in my home office — it’s got great contrast. If this is your first OLED gaming monitor and you haven’t yet experienced the difference between that and an inferior panel type, you’re in for a treat that keeps on giving. \nI play a lot of games, but I type articles in Google Docs more often because of my job. OLEDs have a bad reputation for rendering text; various subpixel layout types introduce color-tinged aliasing that’s not present on IPS and other types of non-OLED panels. The evidence of this is irrefutable under close inspection, as this Monitors Unboxed hands-on video proves. However, as the video mentions, you may not notice it. From the distance I sit from the monitor, it looks fine to me.\nThis monitor’s specs make it a particularly good deal compared to other non-OLED monitors at this price point. This model supports variable refresh rate between the range of 48Hz and 240Hz. While it only lists support for AMD FreeSync Premium Pro adaptive sync, not Nvidia G-Sync, I’ve been happy with its performance in a range of games while connected to my Nvidia RTX 5070 Ti-powered PC. The panel itself is covered in an “anti-reflection” coating that appears semi-glossy, so it might catch reflections in a well-lit room. This monitor comes with a nice height-adjustable stand that allows for tilting, swiveling, and pivoting, but I just tossed it on my monitor arm thanks to its VESA mount.\nMSI covers the monitor with a three-year warranty that includes panel burn-in, which is great. I’m also smitten with this model’s ports. It sports one DisplayPort 1.4a port, two HDMI 2.1 ports supporting up to 240Hz on PC (or up to 120Hz on consoles), plus one USB-C with DisplayPort video, which works great with my Steam Deck, and a headphone jack. That port allows 15W PD charging, but is turned off by default.\nIf there’s one complaint that I have, it’s that the plastic chassis on the back is a bit chunky compared to other models that I’ve tested. However, MSI says that this is where the monitor’s heatsink is located, which allows it to have a fanless design. And at $380, this complaint doesn’t hold much water.\nIf you aren’t a Costco member, it may be worth it to become one if only just for this deal. But if you don’t plan to become one, it’s possible that we’ll see deals at other retailers for this model. It sold for $449.99 at Amazon during the Prime Big Deal Days, so hopefully that price (or ideally, something better) will pop up during Black Friday. \nWhile Best Buy only sells the MSI monitor through a third-party seller, the retailer currently has Alienware’s AW2725D, the company’s 27-inch 280Hz 1440p QD-OLED, for $499.99 — a $50 price drop. LG’s 27-inch 1440p OLED with 240Hz refresh rate (which seems very similar to MSI’s) is $499.99 at Amazon. In other words, there are deals to be had just about anywhere. But right now, Costco’s is the one to beat on a QD-OLED gaming monitor.\nPhotography by Cameron Faulkner / The Verge",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9ac1e079e8839d9f311b49b052e934ea20f6268b",
+      "title": "X launches Chat, its new encrypted DMs",
+      "url": "https://www.theverge.com/news/821950/x-chat-encrypted-dms-video-calls",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-17T12:06:53.000Z",
+      "summary_90w": "",
+      "raw": "X has revealed Chat, an encrypted upgrade to the platform’s direct messaging service. It also includes support for video and voice calls, disappearing messages, and file sharing.\nThe company announced Chat on Friday, and it’s available now on iOS and the web, with an Android version coming “soon.” It replaces X’s existing messaging system, though your old messages should be carried across.\nX says that Chat supports end-to-end encryption (E2EE) for both messages and files, though a support page notes that this doesn’t cover message metadata — such as who received it, or when it was sent. There’s also no protection against man-in-the-middle attacks, the company admitting that if “a malicious insider or X itself” compromised an encrypted conversation, there would be no way for users to know, though ways to verify message authenticity and device identity are coming.\nOther privacy features include disappearing messages, which can be set to automatically delete after a set period of time, and the options to either receive a notification when a chat is screenshotted or block screenshots entirely. Messages can be both edited and deleted, and voice and video calls are supported, with voice notes on the way in the future.\n\n\nSay hello to Chat – all-new secure messaging on X.\n• end-to-end encrypted chats and file sharing\n• edit, delete, or make messages disappear\n• block screenshots and get notified of attempts\n• no ads. no tracking. total privacy. pic.twitter.com/7dmDEDkYvO\n— Chat (@chat) November 14, 2025\n\n\nX — then Twitter — first introduced encrypted DMs in 2023, before pausing the feature this May while it worked on “improvements.” Those seem to have arrived as Chat.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1cc4dd568ad653b4f44b098a18e82d9279992829",
+      "title": "Far-right group with links to neo-Nazi leader offers online military training",
+      "url": "https://www.theguardian.com/world/2025/nov/17/far-right-paramilitary-the-base",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-17T12:00:34.000Z",
+      "summary_90w": "",
+      "raw": "Experts say Observations Group’s connections to the Base and Rinaldo Nazzaro present ‘urgent danger’\nIn the underworld of accelerationist neo-Nazis, where talk of attacks against western governments are commonplace, the spread of illegal weapons manuals and tradecraft on drone warfare are proliferating. Experts say, in some cases, that classes are being taught online with the input of leadership from proscribed terrorist groups with links to Russian intelligence.\nAuthorities have been warning, on both sides of the Atlantic, about the accessibility of drone technologies and military veterans on the far right with the know-how to use them, presenting a grave national security threat.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "42f6c5a383a3892cc73f649d5871e77b2e5d5088",
+      "title": "Dementia housing without locked wards? It's a small but growing movement",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/11/17/nx-s1-5600877/dementia-alzheimers-care-housing-senior-living-inclusion-segregation",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-11-17T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Some senior living communities are caring for people with dementia alongside other residents, not segregated behind locked doors.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f3221efa0607f154d9254927f32f98c51b659dfe",
+      "title": "Google is collecting troves of data from downgraded Nest thermostats",
+      "url": "https://www.theverge.com/news/820600/google-nest-learning-thermostat-downgraded-data-collection",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-17T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The second-gen Nest Thermostat launched in 2012.\t\n\nGoogle officially turned off remote control functionality for early Nest Learning Thermostats last month, but it hasn’t stopped collecting a stream of data from these downgraded devices. After digging into the backend, security researcher Cody Kociemba found that the first- and second-generation Nest Learning Thermostats are still sending Google information about manual temperature changes, whether a person is present in the room, if sunlight is hitting the device, and more.\nKociemba made the discovery while participating in a bounty program created by FULU, a right-to-repair advocacy organization cofounded by electronics repair technician and YouTuber Louis Rossmann. FULU challenged developers to come up with a solution to restore smart functionality to Nest devices no longer supported by Google, and that’s exactly what Kociemba did with his open-source No Longer Evil project.\nBut after cloning Google’s API to create this custom software, he started receiving a trove of logs from customer devices, which he turned off. “On these devices, while they [Google] turned off access to remotely control them, they did leave in the ability for the devices to upload logs. And the logs are pretty extensive,” Kociemba tells The Verge.\nAlong with preventing users from remotely controlling early Nest Learning Thermostats (in addition to the European version from 2014), Google turned off the ability for users to check the status of their devices from the Nest or Google Home app, while also blocking security and software updates. Google notes that the unsupported devices “will continue to report logs for issue diagnostics,” though the data the company is collecting no longer appears to be useful.\n“Although these logs can contain technical details such as HVAC error states, Google can no longer use that information to assist the customers who still depend on these thermostats, since support has been fully discontinued, even in cases of device failure,” according to Kociemba.\nGoogle is still getting all the information collected by Nest Learning Thermostats, including data measured by their sensors, such as temperature, humidity, ambient light, and motion. “I was under the impression that the Google connection would be severed along with the remote functionality, however that connection is not severed, and instead is a one-way street,” Kociemba says. The Verge reached out to Google with a request for comment but didn’t immediately hear back.\nFULU awarded Kociemba and another winner, who goes by the name of Team Dinosaur, with the $14,772 bounty for bringing smart features back to the unsupported thermostats.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f11f527bc0b45e915fae42b8d20d8d6122ac4266",
+      "title": "Bangladesh's ousted leader Sheikh Hasina sentenced to death",
+      "url": "https://www.bbc.com/news/articles/cpwvg99e8vdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-17T11:57:29.000Z",
+      "summary_90w": "",
+      "raw": "The former prime minister was tried by a special tribunal after 1,400 died during a crackdown on unrest in 2024.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "14a65c85a33dae895d314cdf0138c27fa00ccc4d",
+      "title": "Snow and ice warnings issued by Met Office as sub-zero temperatures forecast",
+      "url": "https://www.bbc.com/weather/articles/cz0xvjrzp4eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-17T11:57:14.000Z",
+      "summary_90w": "",
+      "raw": "The weather has turned colder with the risk of snow and ice in parts of the UK as Simon King explains.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f585f2fe996e0d71b88990bdaeb6c2447a754aa6",
+      "title": "Trump calls on House Republicans to vote to release Epstein files",
+      "url": "https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-11-17T11:56:04.000Z",
+      "summary_90w": "",
+      "raw": "\"We have nothing to hide,\" the US president writes after previously resisting publishing the documents.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f585f2fe996e0d71b88990bdaeb6c2447a754aa6",
+      "title": "Trump reverses position and urges own party to vote for release of Epstein files",
+      "url": "https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-17T11:56:04.000Z",
+      "summary_90w": "",
+      "raw": "\"We have nothing to hide,\" the US president writes after previously resisting publishing the documents.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "74c99320aeffed9b2fa2c1b7a69742a0c64544d8",
+      "title": "Sakana AI raises $135M Series B at a $2.65B valuation to continue building AI models for Japan",
+      "url": "https://techcrunch.com/2025/11/17/sakana-ai-raises-135m-series-b-at-a-2-65b-valuation-to-continue-building-ai-models-for-japan/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-17T11:52:07.000Z",
+      "summary_90w": "",
+      "raw": "Sakana AI raised about $135M at a $2.65B post-money valuation in one of Japan’s largest fundraises this year.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "d504c9a929f57d4cb3864884fe3bd8f7342e4b79",
       "title": "Hackers are helping hijackers steal cargo shipments in real life, researchers find",
@@ -89,19 +219,6 @@
       "published": "2025-11-17T10:51:52.000Z",
       "summary_90w": "",
       "raw": "Heavy rainfall hit Galicia region first before slowly moving across western parts of the Iberian peninsula\nPortugal and Spain are again recovering from flooding after Storm Claudia brought heavy rain and strong winds last week. The storm developed from an area of low pressure that had earlier driven early season cold and snowy conditions through eastern parts of Canada and the north-eastern US through early November.\nThe system tracked eastwards across the Atlantic during the second weekend of November before slowing and stalling to the north-west of the Iberian peninsula, caught in the trough of an increasingly amplified, or wavy, jet stream. Spain’s meteorological service AEMET named the storm last Monday before the arrival of several bouts of heavy rainfall, which slowly pushed through during the rest of the week.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "2be3b61dafd08a2270ffabf654d41583743e67c0",
-      "title": "Cold snap brings chance of snow for some as flood clear-up continues",
-      "url": "https://www.bbc.com/news/articles/cj0el2g5448o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-17T10:45:33.000Z",
-      "summary_90w": "",
-      "raw": "Storm Claudia moved away on Sunday after delivering over a month's worth of rain to parts of England and Wales.",
       "topics": [
         "World"
       ]
@@ -302,6 +419,19 @@
       ]
     },
     {
+      "id": "20aa0f527d0b61fd12548c4475737bd7d35f523a",
+      "title": "Will Danish doubts & Hampden roar carry Scotland to World Cup?",
+      "url": "https://www.bbc.com/sport/football/articles/c0kp0zpmxe2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-17T09:21:38.000Z",
+      "summary_90w": "",
+      "raw": "Former strikers Billy Dodds and James McFadden assess Scotland's chances of defeating Denmark in Tuesday's World Cup qualification showdown at Hampden.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "6ff5e44b63e43c443b6b183ce6c2111bfad09599",
       "title": "Man who grabbed Ariana Grande at premiere jailed in Singapore",
       "url": "https://www.bbc.com/news/articles/c2dr6y0w3rjo?at_medium=RSS&at_campaign=rss",
@@ -393,32 +523,6 @@
       ]
     },
     {
-      "id": "f585f2fe996e0d71b88990bdaeb6c2447a754aa6",
-      "title": "Trump calls on House Republicans to vote to release Epstein files",
-      "url": "https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-17T07:57:07.000Z",
-      "summary_90w": "",
-      "raw": "\"We have nothing to hide,\" the US president writes after previously resisting publishing the documents.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f585f2fe996e0d71b88990bdaeb6c2447a754aa6",
-      "title": "Trump reverses position and urges own party to vote for release of Epstein files",
-      "url": "https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-17T07:57:07.000Z",
-      "summary_90w": "",
-      "raw": "\"We have nothing to hide,\" the US president writes after previously resisting publishing the documents.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "db413bee98c88b46ad491dfe2c844f106ce8f0eb",
       "title": "Danish startup FlatPay joins the club of European fintech unicorns to track",
       "url": "https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/",
@@ -479,19 +583,6 @@
       "published": "2025-11-17T06:56:44.000Z",
       "summary_90w": "",
       "raw": "The PM sent Shabana Mahmood to run the Home Office precisely so that she would be radical.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "55e077cb24d972d64cdd11557556d06112c4c5dd",
-      "title": "Chile's presidential race heads to a polarizing runoff after Sunday vote",
-      "url": "https://www.npr.org/2025/11/17/g-s1-98075/chiles-presidential-race-runoff",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-11-17T06:12:07.000Z",
-      "summary_90w": "",
-      "raw": "A closely fought first-round vote on Sunday has set up a showdown between a member of the Communist Party and an ultraconservative veteran politician, sharply polarizing the country.",
       "topics": [
         "World"
       ]
@@ -861,19 +952,6 @@
       ]
     },
     {
-      "id": "c4ca83511d674d12661d1642085add5f96448674",
-      "title": "How Haaland fired Norway to the World Cup",
-      "url": "https://www.bbc.com/sport/football/articles/cpv18vznj78o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-16T21:52:35.000Z",
-      "summary_90w": "",
-      "raw": "Generational goalgetter Erling Haaland will get a crack at his first major tournament next summer, after leading Norway to the World Cup.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5e582bb4908105c3eb15ed7ad7b45a71b0338078",
       "title": "From unknown teen to world number one - Littler's rise in his own words",
       "url": "https://www.bbc.com/sport/darts/articles/ckg1kr15433o?at_medium=RSS&at_campaign=rss",
@@ -910,19 +988,6 @@
       "raw": "Apple is getting serious about succession planning, according to a new report.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "2467d485d88aa2caaf33ed8ca90a1d74a9e57b52",
-      "title": "Roman Abramovich makes claim of ‘conspiracy’ against Jersey government",
-      "url": "https://www.theguardian.com/world/2025/nov/16/roman-abramovich-makes-claim-of-conspiracy-against-jersey-government",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-16T19:30:39.000Z",
-      "summary_90w": "",
-      "raw": "Move threatens to throw open parts of secretive legal battle on Channel island about ex-Chelsea owner’s wealth\nThe former Chelsea owner Roman Abramovich is making a claim of “conspiracy” against the government of Jersey after the crown dependency launched a criminal investigation into allegations of corruption and money laundering in connection with the original source of the oligarch’s wealth.\nThe latest move threatens to throw open parts of a secretive legal battle on the Channel island about the tycoon’s rise to become one of the world’s richest people, which emerged in September after a Switzerland federal criminal court ordered the release of a cache of Swiss banking records requested by the Jersey attorney general.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1056,19 +1121,6 @@
       ]
     },
     {
-      "id": "9b40d1bfceacef6eb61fedf25a4a022e7ef0b6f8",
-      "title": "The Asus Falcata is an ambitious split ergo gaming keyboard that falls short",
-      "url": "https://www.theverge.com/tech/821355/asus-falcata-review-hall-effect-switches-split-ergo-gaming-keyboard",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-16T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Each half is compact, and they fit together for easy travel.\t\n\nHall effect gaming keyboards aren't uncommon. But Asus' ROG Falcata is the only one that's also a split ergonomic keyboard, aimed at alleviating wrist, hand, or arm pain. For the luxury of having it all, you'll pay $419.99, enough to buy a nice Hall effect keyboard and a split ergonomic one. \nIt'd be worth it if the Falcata truly represented the best of both worlds, but I'm split. As a Hall effect board, it succeeds, offering a wealth of customization options, including the ability to let you adjust each key's actuation point by as little as a hundredth of a millimeter at a time. But if you're buying it for ergonomics, like me, then maybe n …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "f6183c8b1385ffe20178549fcf04cb7e9c0f99e6",
       "title": "At least 120 hurt in gen Z protests over corruption and drug violence in Mexico",
       "url": "https://www.theguardian.com/world/2025/nov/16/gen-z-protests-against-mexico-president-turn-violent-amid-anger-over-mayors-death",
@@ -1092,19 +1144,6 @@
       "raw": "The agreement comes amid a period of growing geopolitical tensions on the Korean Peninsula.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "17a562c2bc3c3224c099e2d792409b8b4e385f39",
-      "title": "How soapy micro dramas became Hollywood&#8217;s next big bet",
-      "url": "https://www.theverge.com/column/821345/micro-dramas-how-hollywood",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-16T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Hollywood trends and streaming culture, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nOnce upon a time (read: a few years ago), there were a pair of upstart streaming services called Quibi and Go90 that were supposed to appeal to phone-addicted millennials. These platforms were supposed to compete with Netflix and Amazon by offering up short-form videos designed to be watched on the go. Both services were touted as being the future of entertainm …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1233,19 +1272,6 @@
       "published": "2025-11-15T21:07:41.000Z",
       "summary_90w": "",
       "raw": "A federal jury in California ruled Friday that Apple must pay medical device maker Masimo $634 million for infringing a patent on blood oxygen monitoring technology.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "5360c5618be7acd3494d854661525f1e356eed3f",
-      "title": "Tim Cook could step down as Apple CEO next year",
-      "url": "https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-15T19:31:45.000Z",
-      "summary_90w": "",
-      "raw": "Wave goodbye.\t\n\nAccording to the Financial Times, Tim Cook could step down as Apple CEO as early as next year. And the board has started to seriously work out a succession plan. FT says that John Ternus, Apple’s senior vice-president of hardware engineering, is considered the frontrunner for the position.\nCook, who turned 65 recently, has been CEO for 14 years and overseen both incredible growth and his fair share of controversies. He’s also largely seen as responsible for Apple’s shift to outsourcing manufacturing, which has enabled it to operate at much larger scales than it did traditionally. \nRumors of Cook’s stepping down follow the retirement of Apple COO Jeff Williams, whose last day at the company was Friday. As part of that departure, there has been some shuffling of responsibilities at the executive level, including expanded roles for Services chief Eddy Cue, head of software engineering Craig Federighi, and Ternus. \nRegardless of who winds up taking over as CEO, it’s unlikely to be someone from outside Apple. Tim Cook has previously said there is a strong preference for an internal candidate and that the company has “very detailed succession plans.”",
       "topics": [
         "Technology"
       ]
@@ -1391,6 +1417,19 @@
       "raw": "Leaked documents reveal how much OpenAI paid Microsoft under a revenue-share agreement. They also indicate inference costs.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "62cf7539bd5bab067616f97ee08ae7f70e40da24",
+      "title": "Renée Zellweger stars as the iconic Bridget Jones",
+      "url": "https://www.bbc.co.uk/iplayer/episode/b007cdz8?at_mid=2P393jit57&at_campaign=Bridget_Joness_Diary&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b007cdz8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Bridget_Joness_Diary&at_bbc_team=BBC",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-15T00:15:16.000Z",
+      "summary_90w": "",
+      "raw": "Romantic comedy. A neurotic thirtysomething resolves to take control of her life at last.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1602,19 +1641,6 @@
       ]
     },
     {
-      "id": "907cce45be25a9e9994dbd79c38aaa07adb0be79",
-      "title": "German court rules Google must pay €572M for violating antitrust rules in price comparison sector",
-      "url": "https://techcrunch.com/2025/11/14/german-court-rules-google-must-pay-e572m-for-violating-antitrust-rules-in-price-comparison-sector/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-14T15:40:13.000Z",
-      "summary_90w": "",
-      "raw": "A German court has found that Google has abused its dominant market position in the price comparison sector, ruling that the company must pay a total of €572 million ($665.6 million) in damages to two German price comparison companies.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "e09b28d9a6eeb91fd4084928aa1101a32757c4ca",
       "title": "Guardian’s former Gaza correspondent named young journalist of the year in UK awards",
       "url": "https://www.theguardian.com/media/2025/nov/14/gaza-correspondent-young-journalist-of-the-year-media-freedom-awards",
@@ -1781,19 +1807,6 @@
       "raw": "Ever gotten a text saying you forgot to pay a nonexistent road toll or need to pick up a mystery package? Google's going after the scammers behind those messages.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "818122aebc5e8b101d48d8859d2d86e6d198555a",
-      "title": "Explore the manosphere with three young men's stories",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002m7j5/men-of-the-manosphere?at_mid=5f7Y7hmZf6&at_campaign=Men_of_the_Manosphere&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002m7j5&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Men_of_the_Manosphere&at_bbc_team=BBC",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-12T06:00:00.000Z",
-      "summary_90w": "",
-      "raw": "James Blake enters the manosphere, joining men seeking status, wealth and relationships.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -2130,19 +2143,6 @@
       "published": "2025-04-30T14:04:28.000Z",
       "summary_90w": "",
       "raw": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "14cbc6ad9d374bd9108d15171745f258a9096f74",
-      "title": "Scotland’s trailblazing girl bands ignored by the industry",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m00265qy/since-yesterday-the-untold-story-of-scotlands-girl-bands?at_mid=XtXu9G8H4S&at_campaign=Since_Yesterday_The_Untold_Story_of_Scotlands_Girl_Bands&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00265qy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Since_Yesterday_The_Untold_Story_of_Scotlands_Girl_Bands&at_bbc_team=BBC",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2024-12-17T23:30:44.000Z",
-      "summary_90w": "",
-      "raw": "The story of the Scottish girl bands who challenged a male-dominated industry.",
       "topics": [
         "World"
       ]
