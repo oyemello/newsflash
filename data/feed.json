@@ -1,7 +1,137 @@
 {
-  "version": "1763490082051",
-  "generatedAt": "2025-11-18T18:21:22.051Z",
+  "version": "1763492029215",
+  "generatedAt": "2025-11-18T18:53:49.215Z",
   "items": [
+    {
+      "id": "fb680b02adc9d243b97227c23870671bb952bd19",
+      "title": "Travel warning as snow and ice move in across country",
+      "url": "https://www.bbc.com/news/articles/cm276jn0y11o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-18T18:39:53.000Z",
+      "summary_90w": "",
+      "raw": "A number of snow and ice warning are coming into effect as a deep cold front moves over Scotland.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9d84e57484255f463b1d4f855e6bc4e26db6be68",
+      "title": "Apple&#8217;s custom Wi-Fi chip gives the iPhone 17 a notable boost, according to speed tests",
+      "url": "https://www.theverge.com/news/823198/ookla-speedtest-iphone-17-apple-custom-n1-networking-chip",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-18T18:37:35.000Z",
+      "summary_90w": "",
+      "raw": "Ookla has found that Apple’s custom N1 networking chip that integrates the Wi-Fi 7, Bluetooth 6, and Thread radios in the iPhone 17 family “delivers a clear step-change in real-world Wi-Fi performance” when compared to the Broadcom chip used in the iPhone 16 models. In North America, the iPhone 17 family also outperformed flagship Android phones when it came to Wi-Fi download speeds during the same time period.\nOn paper, the N1 chip’s Wi-Fi capabilities appear “virtually identical to its Broadcom-based predecessor” in the iPhone 16, according to Ookla. The N1 is also limited to 160MHz channels and doesn’t take full advantage of Wi-Fi 7’s faster 320MHz channels, but for real world users that limitation didn’t have a significant impact.\nUsing Speedtest Intelligence data gathered during the six-week period after Apple’s latest smartphones were released, Ookla found that the median download and upload speeds of the iPhone 17 family were both up to 40 percent higher than the iPhone 16 family around the world. The N1’s 10th-percentile speeds were even faster at 60 percent higher than the iPhone 16, implying the new chip’s performance improvements are even more noticeable in “challenging Wi-Fi conditions.”\nThe iPhone 17 family outperformed flagship Android devices like the Pixel 10 family and the Galaxy S25 family in North America, where Wi-Fi 7 devices can use up to three 320 MHz channels, and the N1 should be at a disadvantage. The iPhone 17 family had the highest median and 90th percentile Wi-Fi download speeds of 416.14 Mbps and 976.39 Mbps, respectively. That could change as the number of 320MHz-capable Wi-Fi 7 routers increases in North America, but it reinforces the findings that the N1 can “deliver more consistent performance in non-ideal Wi-Fi conditions.”",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "163a0742be25e41715e9332a0377682e9a503456",
+      "title": "A massive Cloudflare outage brought down X, ChatGPT, and even Downdetector",
+      "url": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-18T18:30:54.000Z",
+      "summary_90w": "",
+      "raw": "Cloudflare, a networking company that provides DDoS protection and internet content delivery services for many companies around the globe, is recovering after a major outage that took down sites across the web. Users weren’t able to access X, ChatGPT, and even the outage-tracking site DownDetector on Tuesday morning, with some sites displaying an error message that said, “Please unblock challenges.cloudflare.com to proceed.” \nThe disruption, which started at around 6:20AM ET, is linked to a “configuration file that is automatically generated to manage threat traffic,” Cloudflare spokesperson Jackie Dutton tells The Verge. “The file grew beyond an expected size of entries and triggered a crash in the software system that handles traffic for a number of Cloudflare’s services.” Dutton added that “there is no evidence” of an attack or other malicious activity.\nCloudflare posted an update to its status page at 9:42AM ET, saying: “A fix has been implemented and we believe the incident is now resolved. We are continuing to monitor for errors to ensure all services are back to normal.”\nCloudflare CTO Dane Knecht wrote in a post on X that the service “failed” its customers and the broader internet, adding that “a latent bug in a service underpinning our bot mitigation capability started to crash after a routine configuration change we made… This was not an attack.”\n\n\nI won’t mince words: earlier today we failed our customers and the broader Internet when a problem in @Cloudflare  network impacted large amounts of traffic that rely on us. The sites, businesses, and organizations that rely on Cloudflare depend on us being available and I…\n— Dane Knecht 🦭 (@dok2001) November 18, 2025\n\n\nOther online services, including Indeed, Grindr, Uber, Canva, Spotify, NJ Transit, League of Legends, and Archive of Our Own, experienced issues during the outage, while digital outlets like Axios, The Information, and Politico also went down.\nThe Cloudflare outage comes less than a month after a huge Amazon Web Services crash took down Fortnite, Alexa, Snapchat, and other services, which was followed by issues at Microsoft Azure that brought Xbox offline for hours.\nUpdate, November 18th: Added an update from Cloudflare.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f8fe748bf856ed8ecc585e40ef0ab109623cbb2f",
+      "title": "Delays to my rapist's trial left me terrified, survivor tells BBC",
+      "url": "https://www.bbc.com/news/articles/cz0xkxv29xro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-18T18:30:27.000Z",
+      "summary_90w": "",
+      "raw": "Morwenna Loughman says delays deepened her trauma, as new research finds a third of trials were postponed last year.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "27b24526ffb738e03fdbd6f35f234fdf4c348a09",
+      "title": "The Google Boss And The Massive AI Gamble",
+      "url": "https://www.bbc.co.uk/sounds/play/p0mhdbrt?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-18T18:28:00.000Z",
+      "summary_90w": "",
+      "raw": "Google boss gives BBC a warning about the economic risks of the AI bubble.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d7e8d7205684c0d3111e3c1ca7cbdc7bf71ac6bb",
+      "title": "Trump defends Mohammed bin Salman over killing of Jamal Khashoggi, claiming Saudi crown prince ‘knew nothing about it’ and ‘things happen’ - live",
+      "url": "https://www.theguardian.com/world/live/2025/nov/18/donald-trump-mbs-saudi-arabia-meeting-f35-jets-latest",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-18T18:25:54.000Z",
+      "summary_90w": "",
+      "raw": "President blasts ABC News as fake news during Oval Office meeting with Saudi crown prince\n\nTrump says US will sell F-35 stealth jets to Saudis as Prince Mohammed visits\n\n\nA reminder that Donald Trump’s family has a strong personal interest in Saudi Arabia. In September, London real estate developer Dar Global announced that it plans to launch Trump Plaza in the Red Sea city of Jeddah.\nIt’s Dar Global’s second collaboration with the Trump Organization, the collection of companies controlled by the US president’s children, in the kingdom. Last year, the two companies announced the launch of Trump Tower Jeddah.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "62826eed66e625c0168e110a27878c37d502b7d8",
+      "title": "Trump administration shares new moves to dismantle more of the Education Department",
+      "url": "https://www.npr.org/2025/11/18/nx-s1-5607221/education-department-trump",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-11-18T18:25:50.000Z",
+      "summary_90w": "",
+      "raw": "Some of the responsibilities the administration aims to move were explicitly assigned to the U.S. Education Department by Congress, raising questions about the legality of these changes.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "dc6b06ee03b664ba1a5398103cc585de554fe795",
+      "title": "Meta is not a monopolist, judge rules",
+      "url": "https://www.theverge.com/news/823191/meta-ftc-antitrust-trial-ruling",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-18T18:25:01.000Z",
+      "summary_90w": "",
+      "raw": "Meta won a landmark antitrust battle with the Federal Trade Commission on Tuesday after a federal judge ruled it has not monopolized the social media market at the center of the case.\nUS District Court Judge James Boasberg wrote that Meta had not unfairly cornered a market on “personal social networking,” a category that includes a narrow subset of social media apps including Facebook, Instagram, and Snapchat. The decision, which can be appealed by the FTC, means Meta will not immediately face demands to undo acquisitions of Instagram and WhatsApp.\nBoasberg noted that he’d warned the FTC that it faced an “uphill battle” in defining the market at issue and proving Meta held an illegal monopoly in it. Ultimately, he ruled, it failed to prove that Meta didn’t face substantial competition from other kinds of social media platforms, particularly after the rapid rise of TikTok — which Meta cited as a major factor in its defense. “The landscape that existed only five years ago when the Federal Trade Commission brought this antitrust suit has changed markedly,” Boasberg wrote. “While it once might have made sense to partition apps into separate markets of social networking and social media, that wall has since broken down.”\nThe FTC argued that Meta had maintained illegal monopoly power in the narrow sector of the social media market by gobbling up nascent competitors Instagram and WhatsApp it feared could threaten its dominance. But throughout the trial, the FTC was dogged by questions about whether it could claim Meta still had that illegal monopoly in the face of a greatly-changed social media landscape. Boasberg said the government had to prove current or imminent illegal monopolization, not just past dominance.\n“With apps surging and receding, chasing one craze and moving on from others, and adding new features with each passing year, the FTC has understandably struggled to fix the boundaries of Meta’s product market,” Boasberg wrote. “Even so, it continues to insist that Meta competes with the same old rivals it has for the last decade, that the company holds a monopoly among that small set, and that it maintained that monopoly through anticompetitive acquisitions. Whether or not Meta enjoyed monopoly power in the past, though, the agency must show that it continues to hold such power now. The Court’s verdict today determines that the FTC has not done so.”\nThis story is developing.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "442c2aa3f42631f9aa2975587ce212d743839137",
+      "title": "Trump defends Saudi crown prince over question about killing of Khashoggi",
+      "url": "https://www.npr.org/2025/11/18/nx-s1-5612504/trump-saudi-arabia-mbs-khashoggi",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-11-18T18:19:17.000Z",
+      "summary_90w": "",
+      "raw": "President Trump lashed out a reporter in the Oval Office who was asking about allegations of the crown prince's role in the killing of Washington Post journalist Jamal Khashoggi.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1e592e6114179b9acadad9948f3a67791806e321",
+      "title": "EU confirms it wants UK to pay into its budget in exchange for closer ties",
+      "url": "https://www.theguardian.com/world/2025/nov/18/eu-uk-pay-into-budget-closer-ties",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-18T18:17:22.000Z",
+      "summary_90w": "",
+      "raw": "‘Politically realistic’ for UK to make financial contribution so it can access European single market, Irish minister says\nThe UK must pay into the EU budget for future participation in the European single market, it has been confirmed, in what could become a major test for the post-Brexit reset.\nIreland’s Europe minister, Thomas Byrne, said EU member states had decided the UK should make a financial contribution for closer ties: “Ireland wants to see Britain getting the benefit of closer engagement with the European Union.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "25d5c18d659d260138849b440603fd7ff73b195d",
       "title": "The whole country is against you when you play in Australia - Finn ",
@@ -30,39 +160,26 @@
     },
     {
       "id": "832ee19274d54619eab30bcb1d7d96ff3cdd94e8",
-      "title": "Two Ukrainian men believed to be working with Russia identified as suspects in Polish rail sabotage attacks – Europe live",
+      "title": "Two Ukrainian men believed to be working with Russia identified as suspects in Polish rail sabotage attacks – as it happened",
       "url": "https://www.theguardian.com/world/live/2025/nov/18/poland-russia-ukraine-rail-sabotage-incidents-zelenskyy-macron-merz-starmer-europe-live-news",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-11-18T18:04:56.000Z",
       "summary_90w": "",
-      "raw": "Donald Tusk warns Polish parliament of an ‘escalation’ of Russian intelligence activities ‘across the whole of Europe’\nPoland’s prime minister Donald Tusk has just told lawmakers that the authorities investigating the rail sabotage incidents over the weekend identified two main suspects.\nHe says the suspects are Ukrainian men, who crossed into Poland from Belarus this autumn, and are believed to have been working for Russian intelligence services.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d7e8d7205684c0d3111e3c1ca7cbdc7bf71ac6bb",
-      "title": "Saudi crown prince Mohammed bin Salman pledges almost $1tn in US investments during meeting with Trump - live updates",
-      "url": "https://www.theguardian.com/world/live/2025/nov/18/donald-trump-mbs-saudi-arabia-meeting-f35-jets-latest",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-18T18:04:11.000Z",
-      "summary_90w": "",
-      "raw": "President set to sell F-35 stealth jets to the kingdom in crown prince’s first US visit since 2018 killing of regime critic Jamal Khashoggi\n\nTrump says US will sell F-35 stealth jets to Saudis as Prince Mohammed visits\n\n\nA reminder that Donald Trump’s family has a strong personal interest in Saudi Arabia. In September, London real estate developer Dar Global announced that it plans to launch Trump Plaza in the Red Sea city of Jeddah.\nIt’s Dar Global’s second collaboration with the Trump Organization, the collection of companies controlled by the US president’s children, in the kingdom. Last year, the two companies announced the launch of Trump Tower Jeddah.\n Continue reading...",
+      "raw": "Donald Tusk warns Polish parliament of an ‘escalation’ of Russian intelligence activities ‘across the whole of Europe’. This live blog is closed\nPoland’s prime minister Donald Tusk has just told lawmakers that the authorities investigating the rail sabotage incidents over the weekend identified two main suspects.\nHe says the suspects are Ukrainian men, who crossed into Poland from Belarus this autumn, and are believed to have been working for Russian intelligence services.\n Continue reading...",
       "topics": [
         "World"
       ]
     },
     {
       "id": "d99ebc583069c797eaf6f2372c7a0b976dc5388b",
-      "title": "Senator Warren presses Trump admin on potential AI bailout plans",
+      "title": "Sen. Warren presses Trump admin on potential AI bailout plans",
       "url": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout",
       "source_id": "verge-tech",
       "source_name": "The Verge",
       "published": "2025-11-18T18:00:00.000Z",
       "summary_90w": "",
-      "raw": "Senator Elizabeth Warren (D-MA) is pressing the Trump administration for more information on potential plans to “prop up” major AI companies with money from taxpayers. In a letter to David Sacks, the White House special advisor for AI and Crypto, and Michael Kratsios, the director of the Office of Science and Technology Policy, Senator Warren writes that President Donald Trump’s “close ties” with AI executives and donors “raise concerns that the Administration will bail out AI executives and shareholders while leaving taxpayers to foot the bill.”\nWarren, who is a ranking member on the Senate Committee on Banking, Housing, and Urban Affairs, points to a recent interview with OpenAI CFO Sarah Friar, who suggested the government could “backstop” the company’s investments in AI, before walking back the statement. However, Warren notes that OpenAI wrote a letter to Kratsios in October, requesting that the Trump administration expand the government-funded Advanced Manufacturing Investment Credit (AMIC) — which is supposed to go toward semiconductor manufacturers — to support AI server production and data centers.\nOpenAI CEO Sam Altman said last week that the company does “not have or want government guarantees for OpenAI datacenters,” adding that “taxpayers should not bail out companies that make bad business decisions.” Despite the billions that AI companies like OpenAI and Anthropic are pouring into the technology, they’re seeing far less in return, raising questions about what might happen to these startups if AI demand doesn’t pan out. Meanwhile, tech executives have spent months attempting to flatter President Donald Trump at White House dinners and with donations, with Amazon, Apple, Google, and Meta pitching in to build a White House ballroom. Warren and other lawmakers have characterized some of these contributions as potential bribes.\n\n“OpenAI’s actions suggest that it may be pursuing a deliberate strategy to entangle itself with the federal government.”\n\n\nEarlier this month, Sacks pushed back on concerns that the government will back up AI startups, saying “there will be no federal bailout for AI.”\nWarren, however, expresses skepticism. “While Mr. Altman has claimed that the company is not looking for a ‘bail out,’ OpenAI’s actions suggest that it may be pursuing a deliberate strategy to entangle itself with the federal government and the broader economy so the government has no choice but to step in with public funds,” Warren writes. “We have seen this before: take on enough debt, make enough risky bets, and then demand a taxpayer bailout when those bets go south so the economy does not crash.”\nSenator Warren is asking Sacks and Kratsios if the Trump administration has any plans or proposals to provide a backstop for OpenAI and other firms. She’s also seeking information about what kind of government assistance the administration plans to give OpenAI and other companies, as well as whether they think AMIC should apply to AI buildout. Sacks and Kratsios have until December 1st, 2025, to reply.",
+      "raw": "Sen. Elizabeth Warren (D-MA) is pressing the Trump administration for more information on potential plans to “prop up” major AI companies with money from taxpayers. In a letter to David Sacks, the White House special advisor for AI and Crypto, and Michael Kratsios, the director of the Office of Science and Technology Policy, Sen.Warren writes that President Donald Trump’s “close ties” with AI executives and donors “raise concerns that the Administration will bail out AI executives and shareholders while leaving taxpayers to foot the bill.”\nWarren, who is a ranking member on the Senate Committee on Banking, Housing, and Urban Affairs, points to a recent interview with OpenAI CFO Sarah Friar, who suggested the government could “backstop” the company’s investments in AI, before walking back the statement. However, Warren notes that OpenAI wrote a letter to Kratsios in October, requesting that the Trump administration expand the government-funded Advanced Manufacturing Investment Credit (AMIC) — which is supposed to go toward semiconductor manufacturers — to support AI server production and data centers.\nOpenAI CEO Sam Altman said last week that the company does “not have or want government guarantees for OpenAI datacenters,” adding that “taxpayers should not bail out companies that make bad business decisions.” Despite the billions that AI companies like OpenAI and Anthropic are pouring into the technology, they’re seeing far less in return, raising questions about what might happen to these startups if AI demand doesn’t pan out. Meanwhile, tech executives have spent months attempting to flatter President Donald Trump at White House dinners and with donations, with Amazon, Apple, Google, and Meta pitching in to build a White House ballroom. Warren and other lawmakers have characterized some of these contributions as potential bribes.\n\n“OpenAI’s actions suggest that it may be pursuing a deliberate strategy to entangle itself with the federal government.”\n\n\nEarlier this month, Sacks pushed back on concerns that the government will back up AI startups, saying “there will be no federal bailout for AI.”\nWarren, however, expresses skepticism. “While Mr. Altman has claimed that the company is not looking for a ‘bail out,’ OpenAI’s actions suggest that it may be pursuing a deliberate strategy to entangle itself with the federal government and the broader economy so the government has no choice but to step in with public funds,” Warren writes. “We have seen this before: take on enough debt, make enough risky bets, and then demand a taxpayer bailout when those bets go south so the economy does not crash.”\nSen. Warren is asking Sacks and Kratsios if the Trump administration has any plans or proposals to provide a backstop for OpenAI and other firms. She’s also seeking information about what kind of government assistance the administration plans to give OpenAI and other companies, as well as whether they think AMIC should apply to AI buildout. Sacks and Kratsios have until December 1st, 2025, to reply.",
       "topics": [
         "Technology"
       ]
@@ -315,19 +432,6 @@
       ]
     },
     {
-      "id": "fb680b02adc9d243b97227c23870671bb952bd19",
-      "title": "Travel warning as snow and ice move in across country",
-      "url": "https://www.bbc.com/news/articles/cm276jn0y11o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-18T16:24:32.000Z",
-      "summary_90w": "",
-      "raw": "A number of snow and ice warning are coming into effect as a deep cold front moves over Scotland.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5be0c4d0c46950b1ae7f4a38ff6e238dd33f2e67",
       "title": "Palestine Action activist hit officer with hammer during defence firm break-in, jury told",
       "url": "https://www.bbc.com/news/articles/c79727zeqyvo?at_medium=RSS&at_campaign=rss",
@@ -393,19 +497,6 @@
       ]
     },
     {
-      "id": "a745203ab410b841fb478943cb0792f1b1793a24",
-      "title": "Stellan Skarsgård starrer Sentimental Value leads nominations for European film awards",
-      "url": "https://www.theguardian.com/film/2025/nov/18/stellan-skarsgard-sentimental-value-leads-nominations-european-film-awards-joachim-trier-sirat",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-18T16:04:59.000Z",
-      "summary_90w": "",
-      "raw": "Director Joachim Trier’s family drama has five nominations, including best actor for Skarsgård, while Oliver Laxe’s techno thriller Sirāt has four nominations\nNorwegian director Joachim Trier is leading the race for a triumph at the European film awards, with five nominations in key categories for his family drama Sentimental Value.\nThe Cannes Grand Prix winner is nominated for best European film, best screenplay and best director, with further best actor and best actress nominations for Stellan Skarsgård and Renate Reinsve.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "bd7da79ec1034587d423713eea530958b749edff",
       "title": "Microsoft is turning Windows into an &#8216;agentic OS,&#8217; starting with the taskbar",
       "url": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration",
@@ -427,19 +518,6 @@
       "published": "2025-11-18T16:00:00.000Z",
       "summary_90w": "",
       "raw": "Antigravity should report on its work plan, and produce evidence of what it’s done along the way.\t\n\nAlongside today’s announcement of Gemini 3 Pro, Google has revealed Antigravity, a development tool that uses Gemini 3 Pro, along with other third-party models. Google says that Antigravity, which supports multiple agents and gives them direct access to the editor, terminal, and browser, is designed for an “agent-first future.”\nOne of the key components of Antigravity is how it reports on its own work. As it completes tasks, it will produce what Google calls Artifacts: task lists, plans, screenshots, and browser recordings that are intended to verify both the work it’s done and what it will do. Antigravity will also report on its actions and external tool use along the way, but Google says that Artifacts are “easier for users to verify” than full lists of a models’ actions and tool calls.\nAntigravity’s other big change is that it offers two main usage views. The default Editor view offers a familiar Integrated Development Environment (IDE) experience, similar to rivals like Cursor and GitHub Copilot, with an agent in a side panel. The new Manager view is instead designed for controlling multiple agents at once, allowing each to work more autonomously. Google compares it to “mission control for spawning, orchestrating, and observing multiple agents across multiple workspaces in parallel.”\nGoogle has introduced more ways to give feedback to AI agents as they work, with the ability to leave comments on specific Artifacts for an agent to take into account without breaking up its work to do so. The company also says that agents in Antigravity will be able to “learn from past work,” retaining specific snippets of code or the steps required to carry out certain tasks.\n\nIn this demo, Antigravity builds a basic flight tracker app, tests it, and reports on that test with a browser recording.\n\nAntigravity is available in a public preview now, compatible with Windows, macOS, and Linux. It’s free to use, with what Google calls “generous rate limits” for Gemini 3 Pro, though it also supports Claude Sonnet 4.5 and OpenAI’s GPT-OSS. Google says rate limits refresh every five hours, and that only “a very small fraction of power users” will ever hit the limits.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "ddc290df8bb6cf6873d99b7aaa0458dfba897c76",
-      "title": "Google is launching Gemini 3, its &#8216;most intelligent&#8217; AI model yet",
-      "url": "https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-18T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Google is beginning to launch Gemini 3 today, a new series of models the company says is its “most intelligent” and “factually accurate” AI systems yet. They’re also a chance for Google to leap ahead of OpenAI following the rocky launch of GPT-5, potentially putting the company at the forefront of consumer-focused AI models.\nFor the first time, Google is giving everyone access to its new flagship AI model — Gemini 3 Pro — in the Gemini app on day one. It’s also rolling out Gemini 3 Pro to subscribers inside Search. Tulsee Doshi, Google DeepMind’s senior director and head of product, says the new model will bring the company closer to making information “universally accessible and useful” as its search engine continues to evolve.\n“I think the one really big step in that direction is to step out of the paradigm of just text responses and to give you a much richer, more complete view of what you can actually see.”\nGemini 3 Pro is “natively multimodal,” meaning it can process text, images, and audio all at once, rather than handling them separately. As an example, Google says Gemini 3 Pro could be used to translate photos of recipes and then transform them into a cookbook, or it could create interactive flashcards based on a series of video lectures.\nYou’ll spot some of these improvements across Google’s suite of products, including the Gemini app, where you can build more “full-featured” programs inside the built-in workspace, Canvas. The upgraded AI model will also enable “generative interfaces,” a tool Google is testing in Gemini Labs that allows Gemini 3 Pro to create a visual, magazine-style format with pictures you can browse through, or a dynamic layout with a custom user interface tailored to your prompt.\nGemini 3 Pro in AI Mode — the AI-powered Google Search feature — will similarly present you with visual elements, like images, tables, grids, and simulations based on your query. It’s also capable of performing more searches using an upgraded version of Google’s “query fan-out technique,” which now not only breaks down questions into bits it can search for on your behalf, but is better at understanding intent to help “find new content that it may have previously missed,” according to Google’s announcement.\nGoogle is also not so subtly jabbing at OpenAI, describing Gemini 3 Pro as less prone to the type of empty flattery espoused by ChatGPT. Doshi says you’ll see “noticeable” changes to Gemini 3 Pro’s responses, which Google describes as offering a “smart, concise and direct, trading cliche and flattery for genuine insight — telling you what you need to hear, not just what you want to hear.” The company says it also shows “reduced sycophancy,” an issue OpenAI had to address with ChatGPT earlier this year.\nAlong with these improvements, Gemini 3 Pro comes with better reasoning and agentic capabilities, allowing it to complete more complex tasks and “reliably plan ahead over longer horizons,” according to Google. The AI model is powering an experimental Gemini Agent feature that can perform tasks on your behalf inside the Gemini app, such as reviewing and organizing emails, or researching and booking travel.\nGemini 3 Pro now sits at the top of LMArena’s leaderboard, a popular platform used for benchmarking AI models. A Deep Think mode enhances the model’s reasoning capabilities even further, though it’s currently only available to safety testers.\nGemini 3 Pro is available inside the Gemini app for everyone starting today, while Google AI Pro and Ultra subscribers in the US can try out Gemini 3 Pro inside AI Mode by selecting “Thinking” from the model dropdown. Gemini Agent is rolling out first to AI Ultra subscribers.",
       "topics": [
         "Technology"
       ]
@@ -479,19 +557,6 @@
       "published": "2025-11-18T16:00:00.000Z",
       "summary_90w": "",
       "raw": "Microsoft is adding even more AI features to Outlook, Word, Excel, and PowerPoint. While the software maker has been adding plenty of features to its paid Microsoft 365 Copilot over the past year, a range of free additions are coming to its Office apps in early 2026 that don’t require the $30 per month, per the user Microsoft 365 Copilot license.\nMicrosoft first introduced the free version of Copilot Chat into Microsoft 365 apps in September, and it’s now improving how this chatbot works in Outlook. Copilot Chat will soon be able to view content across an entire Outlook inbox, including calendar entries and meetings. This will allow you to use Copilot to triage an inbox or schedule and prepare for meetings, all without a paid Microsoft 365 Copilot license. It goes far beyond the existing integration that’s limited to just individual email threads.\nAgent Mode, which originally launched to paid Microsoft 365 Copilot subscribers in September, is also coming to Word, Excel, and PowerPoint for all Microsoft 365 subscribers. Agent Mode in Excel and Word can generate complex spreadsheets and documents with just a prompt, and you’ll be able to choose between Anthropic and OpenAI reasoning models in Excel.\nAgent Mode in PowerPoint can be used to update existing decks with a business’s branded template, or create new slides, rewrite and format text, and add images.\nMicrosoft says it’s aiming to preview these free AI additions to Microsoft 365 subscribers by March 2026.\nMicrosoft’s move to bring Agent Mode to Microsoft 365 business plans and not charge extra follows a similar change earlier this year when it bundled its AI-powered Copilot features into Office apps for consumer Microsoft 365 plans. Microsoft also bundled its sales, service, and finance Copilots into the main Microsoft 365 Copilot subscription in October.\nMicrosoft is also now planning to launch Microsoft 365 Copilot Business next month, aimed at small and midsize businesses. It’s priced at $21 per month instead of $30, and will be available for businesses with fewer than 300 users.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "301fe53186792b9906dbe07003d1122787fe3137",
-      "title": "The Analogue 3D is the perfect console for N64 collectors",
-      "url": "https://www.theverge.com/games/822849/analogue-3d-review-n64",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-18T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "I've developed a sixth sense for old video game cartridges. I can spot them at flea markets and thrift stores, spy them hidden behind stacks in used book stores. It happened after I first bought an Analogue Pocket, when the hunt for new and interesting Game Boy games became as important as actually playing them. Now my attention has turned to the Nintendo 64. Analogue's long-delayed take on the console - dubbed the Analogue 3D - might just be the most premium way there is to play N64 games, making it ideal for collectors.\nAfter playing with the Analogue 3D over the last week, I've found a new appreciation for Nintendo's oft-neglected consol …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -601,19 +666,6 @@
       ]
     },
     {
-      "id": "b28c35a79ed202adb6004949d1d0a4706eb9e167",
-      "title": "Microsoft&#8217;s new Anthropic partnership brings Claude AI models to Azure",
-      "url": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-18T15:20:17.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft is announcing a strategic partnership with Anthropic today that will bring the AI startup’s models to Microsoft Foundry for the first time. As part of the deal, Anthropic is also committing to purchasing $30 billion of Azure compute capacity and “to contract additional compute capacity up to one gigawatt.”\nMicrosoft Foundry customers will now be able to access Anthropic’s frontier Claude models including Claude Sonnet 4.5, Claude Opus 4.1, and Claude Haiku 4.5. Despite these models coming to Microsoft’s AI servers, Amazon will still remain Anthropic’s primary cloud provider and training partner.\n\nNvidia and Anthropic are also partnering today as part of this deal, to optimize Anthropic’s models for the best performance on future Nvidia architectures. Anthropic is committing to up to one gigawatt of compute capacity using Nvidia Blackwell and Vera Rubin systems.\nAs part of these partnerships, Nvidia is investing up to $10 billion in Anthropic, with Microsoft also investing $5 billion.\nMicrosoft’s deal with Anthropic comes just weeks after its OpenAI partner completed its for-profit restructuring and struck a new deal with Microsoft. The new deal with OpenAI extends Microsoft’s IP rights to models from OpenAI through 2032 and also includes post-AGI (artificial general intelligence) models. The potential for a declaration of AGI had been a sticking point in Microsoft’s OpenAI deal, but the pair have now agreed the milestone would be verified by an independent expert panel.\nMicrosoft and OpenAI have also relaxed the exclusive parts of their partnership even more, allowing OpenAI to collaborate with third parties and release open weight models. Microsoft also no longer has the right of first refusal to be OpenAI’s compute provider.\nAll of these OpenAI partnership changes have allowed Microsoft to pursue this deal with Anthropic. Microsoft has been increasingly embracing Anthropic’s models across its Copilot services in recent months. In fact, Microsoft has been favoring Anthropic’s Claude 4 over GPT-5 in its new auto AI model selector in Visual Studio Code. Microsoft also brought Anthropic’s Claude Sonnet 4 and Claude Opus 4.1 to Microsoft 365 Copilot users recently.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "59e9e15f74f9369ebe72eee074ac7b0fd4d95235",
       "title": "Net migration 20% lower than first thought as more British nationals left UK",
       "url": "https://www.bbc.com/news/articles/cm2emzjre62o?at_medium=RSS&at_campaign=rss",
@@ -666,9 +718,9 @@
       ]
     },
     {
-      "id": "243c4b33cd673ef864a27bed20dac1e647a2ae04",
-      "title": "Agentio secures $40 million from Forerunner as it scales its creator marketplace beyond YouTube",
-      "url": "https://techcrunch.com/2025/11/18/agentio-secures-40-million-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/",
+      "id": "526f82a67b1dcd7d53bdb367672d3a64d7b00467",
+      "title": "Agentio secures $40M from Forerunner as it scales its creator marketplace beyond YouTube",
+      "url": "https://techcrunch.com/2025/11/18/agentio-secures-40m-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "published": "2025-11-18T14:00:00.000Z",
@@ -693,7 +745,7 @@
     },
     {
       "id": "94cbc5fb977f7ed7232b0e876adcfd6504a6e14f",
-      "title": "Creator Tayla Cannon recieves $1.1 million investment from Slow Ventures’ creator fund to build PT software",
+      "title": "Creator Tayla Cannon receives $1.1 million investment from Slow Ventures’ creator fund to build PT software",
       "url": "https://techcrunch.com/2025/11/18/pt-software-rebuildr-recieves-1-1-million-investment-from-slow-ventures-creator-fund/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -783,19 +835,6 @@
       ]
     },
     {
-      "id": "1de2fa2a0139137556e8a8a4d79f51c2a860f96d",
-      "title": "Stranger Things star to make her West End debut",
-      "url": "https://www.bbc.com/news/articles/c620p5vp740o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-18T13:32:05.000Z",
-      "summary_90w": "",
-      "raw": "The US actress will swap the screen for the stage when she takes on the leading lady role of Juliet.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "3d100c779ae2fb9413fc8710b08e7399f2bbb507",
       "title": "A 'breakthrough' drug to prevent HIV, an 'unprecedented' rollout",
       "url": "https://www.npr.org/sections/goats-and-soda/2025/11/18/g-s1-98178/hiv-prevention-drug-lenacapavir",
@@ -829,7 +868,7 @@
       "source_name": "TechCrunch",
       "published": "2025-11-18T13:00:00.000Z",
       "summary_90w": "",
-      "raw": "Intuit said its tools, such as TurboTax, Credit Karma, QuickBooks and Mailchimp, will be accessible through ChatGPT, allowing users to ask questions and complete tasks such as estimating tax refunds, reviewing credit options, or managing business finances.",
+      "raw": "Intuit said its tools, such as TurboTax, Credit Karma, QuickBooks, and Mailchimp, will be accessible through ChatGPT, allowing users to ask questions and complete tasks such as estimating tax refunds, reviewing credit options, or managing business finances.",
       "topics": [
         "Technology"
       ]
@@ -933,7 +972,7 @@
       "source_name": "TechCrunch",
       "published": "2025-11-18T12:00:00.000Z",
       "summary_90w": "",
-      "raw": "Starting Tuesday, users can voluntarily undergo the age-check process to secure access to communication features.",
+      "raw": "The move comes amid multiple lawsuits, including from the attorneys general of Texas and Louisiana, against Roblox over child safety concerns. The lawsuits were filed following reports that Roblox was exposing young users to dangerous risks, such as grooming and explicit content.",
       "topics": [
         "Technology"
       ]
@@ -999,32 +1038,6 @@
       "published": "2025-11-18T10:02:10.000Z",
       "summary_90w": "",
       "raw": "TotalEnergies denies responsibility for the actions of local security forces involved in dozens of killings.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b87ed98f420a924da49508e10508d07671531756",
-      "title": "Communities are reducing wildfire risk. Will their insurance bills go down?",
-      "url": "https://www.npr.org/2025/11/13/nx-s1-5570994/wildfires-home-insurance-california",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-11-18T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Insurance companies are dropping customers as the cost of disasters goes up. Some communities in California are working to reduce their risk, but so far, insurance companies often aren't factoring that in.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "af3bfbdc139a59bac20ed491dcba1239adc39719",
-      "title": "How 'defund Planned Parenthood' came to threaten primary care in rural Maine",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/11/18/nx-s1-5611457/maine-family-planning-trump-budget-medicaid-abortion",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-11-18T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Abortion is supported by 3 out of 4 Mainers, but a popular network of clinics that provides it alongside primary care has been shut out of Medicaid by the Trump administration, which also targeted Planned Parenthood.",
       "topics": [
         "World"
       ]
@@ -1326,19 +1339,6 @@
       "raw": "The Corporation for Public Broadcasting agreed Monday to fulfill a $36 million, multi-year contract with NPR that it had yanked after pressure from the Trump White House.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "e7084af7367033dd8912fee80bf340844ac137c2",
-      "title": "Will the (latest) asylum system reforms work?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0mh7c8q?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-17T23:52:00.000Z",
-      "summary_90w": "",
-      "raw": "The Home Secretary announces an overhaul of the asylum system, but will it work?",
-      "topics": [
-        "World"
       ]
     },
     {
