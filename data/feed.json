@@ -1,7 +1,163 @@
 {
-  "version": "1763468790856",
-  "generatedAt": "2025-11-18T12:26:30.856Z",
+  "version": "1763471414987",
+  "generatedAt": "2025-11-18T13:10:14.987Z",
   "items": [
+    {
+      "id": "409157c99d4e52e30be2ac82649fd528a9ac4685",
+      "title": "Intuit signs $100M+ deal with OpenAI to bring its apps to ChatGPT",
+      "url": "https://techcrunch.com/2025/11/18/intuit-signs-100m-deal-with-openai-to-bring-its-apps-to-chatgpt/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-18T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Intuit said its tools, such as TurboTax, Credit Karma, QuickBooks and Mailchimp, will be accessible through ChatGPT, allowing users to ask questions and complete tasks such as estimating tax refunds, reviewing credit options, or managing business finances.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "5cb187a9f71222b2f1520c8b28fcb4a21a52edbf",
+      "title": "Steam Machine and Steam Frame: your questions answered",
+      "url": "https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-18T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Valve is making a game console that might take on Sony and Microsoft. It's also making a gaming headset to compete with Meta. These are big, ambitious, and messy efforts, and we have lots of questions. So do you! \nWe've gotten a lot of questions about Valve's huge 2026 hardware push and entry into the console wars, and we're compiling the answers we've got so far. Some of them are direct answers to your subscriber questions in our AMA; thank you for paying our salaries!\nSo, let's start with…\nWhat is a Steam Machine?\nThe Steam Machine is a specific living room gaming PC coming out in early 2026. It's not your typical Windows PC. The 6-inc …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "96655bba42ef0061dff52919eddae31052f662d0",
+      "title": "Talking to Windows&#8217; Copilot AI makes a computer feel incompetent",
+      "url": "https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-18T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "It's not hard to understand the AI future Microsoft is betting billions on - a world where computers understand what you're saying and do things for you. It's right there in the ads for the latest Copilot PCs, where people cheerfully talk to their laptops and they talk back, answering questions in natural language and even doing things for them. The tagline is straightforward: \"The computer you can talk to.\" \n\"You should be able to talk to your PC, have it understand you, and then be able to have magic happen from that,\" Microsoft's Yusuf Mehdi told us in October. \"The PC should be able to act on your behalf.\" \nAnd that has nothing on Micr …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "18b326e89f7ce5b3a9c5f9eb6d1c673c969f0217",
+      "title": "Zigbee&#8217;s next big update lets you add smart home devices without a hub",
+      "url": "https://www.theverge.com/news/822450/zigbee-4-0-suzi-smart-home-wireless-mesh-network-ble",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-18T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The Connectivity Standards Alliance has released Zigbee 4.0, an updated version of its wireless mesh networking standard with better security, improved battery life, and batch setup of new devices like smart lights, switches, and plugs. It’s also announcing a new feature called Suzi, which is short for Sub-GHz and Zigbee. \nWhile Zigbee smart home devices typically operate on the 2.4GHz band, which can experience signal loss caused by obstacles like thick walls, Suzi-branded devices will be able to work on the European 800 MHz and North American 900 MHz frequency bands. That way, the group says they’ll offer coverage for smart devices installed outside and farther away from a home, without the need for additional hardware to extend the networks.\nSuzi is similar to other branded features that have been added to the 802.15.4-based spec over the years, like Zigbee Smart Energy usage monitoring gear, and the low-power / low-maintenance Zigbee Green Power devices that harvest energy from sources like light or heat instead of using batteries.\nAs companies like Ikea have been making the transition to Matter over Thread, which also operates on the 2.4GHz band, the advantages of Suzi will help keep the Zigbee protocol competitive, and not just in the home. “Suzi is a strong fit for commercial and industrial use-cases, which introduce challenging environments such as thick walls, multiple levels, and large deployments,” Genie Peshkova, chair of the Zigbee Product Marketing Group, explained to The Verge in an email.\nThe list of improvements coming with Zigbee 4.0 includes a simplified certification process, increased information exchange between devices, better security, and improved battery life for devices with communications that can be limited to set schedules.\nA new feature called Batch Commissioning will streamline large-scale installations by allowing multiple smart devices to be set up simultaneously. An electrician could install Zigbee-compatible light bulbs throughout a new house long before there’s even power, and when a hub is later installed and running, they can be activated at once instead of having to add them to the network individually. \nZigbee Direct, a previously optional feature added two years ago, is now standard in 4.0. It allows smartphones to directly connect, control, and even add nearby Zigbee devices to a network using Bluetooth Low Energy without a hub.\nZigbee 4.0 is fully backwards compatible with Zigbee 3.0 and Smart Energy devices, and devices with “sufficient operational resources” can potentially be upgraded over-the-air once certified, according to Peshkova. But exactly which devices will be eligible to take full advantage of the improvements isn’t yet known. The Suzi certification program is scheduled to start sometime in the first half of 2026.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "26a4873eba470554f1c97cc15cedf183837a4537",
+      "title": "Saudi leader to discuss these deals with Trump. And, House votes on Epstein files today",
+      "url": "https://www.npr.org/2025/11/18/g-s1-98226/up-first-newsletter-trump-saudi-arabia-prince-epstein-files-redistricting",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-11-18T12:59:40.000Z",
+      "summary_90w": "",
+      "raw": "President Trump welcomes Saudi Arabia's crown prince to the White House to discuss trade and security deals. And, the House votes today on whether to force the release of long-awaited Epstein files.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6e438f94eb0171ab9bed3aefe25db31dc874a381",
+      "title": "Internet infrastructure firm Cloudflare hit by outage",
+      "url": "https://www.bbc.com/news/articles/c629pny4gl7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-18T12:53:39.000Z",
+      "summary_90w": "",
+      "raw": "The company says it is working to understand the full impact of a problem which potentially \"impacts multiple customers.\"",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f9352837152e6ab49f08764b4529024ebe25aec8",
+      "title": "La Voix to miss Strictly Blackpool specials due to injury",
+      "url": "https://www.bbc.com/news/articles/cn7e02402dlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-18T12:52:19.000Z",
+      "summary_90w": "",
+      "raw": "The drag performer will miss this weekend's shows in order to rest, producers have confirmed.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8309d63df5a109a8ad1d456a1f05ad56a1bc2525",
+      "title": "US to sell F-35s to Saudi Arabia, Trump says ahead of crown prince's visit",
+      "url": "https://www.bbc.com/news/articles/c7512rkvg7ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-18T12:50:24.000Z",
+      "summary_90w": "",
+      "raw": "Trump will welcome Saudi Crown Prince Mohammed bin Salman to the White House for the first time since Jamal Khashoggi's murder.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "832ee19274d54619eab30bcb1d7d96ff3cdd94e8",
+      "title": "Two Ukrainian men believed to be working with Russia identified as suspects in Polish rail sabotage attacks – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/nov/18/poland-russia-ukraine-rail-sabotage-incidents-zelenskyy-macron-merz-starmer-europe-live-news",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-18T12:46:43.000Z",
+      "summary_90w": "",
+      "raw": "Donald Tusk tells parliament that C-4 explosives were used also used in the attacks at the weekend\nPoland’s prime minister Donald Tusk has just told lawmakers that the authorities investigating the rail sabotage incidents over the weekend identified two main suspects.\nHe says the suspects are both Ukrainian men, who crossed into Poland from Belarus this autumn, and are believed to had been working with Russian intelligence services.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "10a31ca0c9c5475abd1f2338c55dc4b9ad70aa38",
+      "title": "At least 94 Palestinians died in Israeli prisons in two years, human rights group says",
+      "url": "https://www.bbc.com/news/articles/crreg2l7kezo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-18T12:45:31.000Z",
+      "summary_90w": "",
+      "raw": "A new report by Physicians for Human Rights Israel (PHRI) alleges \"systematic killings and cover-ups\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9f91c0d8399be122271b805913e83eb38a439114",
+      "title": "When is the Epstein files vote - and why does Trump now say he wants them released?",
+      "url": "https://www.bbc.com/news/articles/cq50nvq8znvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-18T12:38:40.000Z",
+      "summary_90w": "",
+      "raw": "The measure is expected to reach the House floor on Tuesday, but faces other procedural and legal hurdles afterwards.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8890b82e3b8dc11318522c042f53ced3c793a059",
+      "title": "China spy risk on LinkedIn, MPs and peers warned",
+      "url": "https://www.bbc.com/news/articles/c4gpnz05kr8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-18T12:35:40.000Z",
+      "summary_90w": "",
+      "raw": "Security services have issued a new \"espionage alert\" to members of the House of Commons and Lords.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "e965c296d8502512c289d53c3d6cf033c5078182",
       "title": "Brazil creates new Indigenous territories during protest-hit COP30",
@@ -17,26 +173,39 @@
     },
     {
       "id": "59e9e15f74f9369ebe72eee074ac7b0fd4d95235",
-      "title": "Net migration 20% lower than first reported as more citizens left UK",
+      "title": "Net migration 20% lower than first thought as more British nationals left UK",
       "url": "https://www.bbc.com/news/articles/cm2emzjre62o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-11-18T12:20:51.000Z",
       "summary_90w": "",
-      "raw": "The figures also reveal migration peaked 38,000 higher that previously thought in the year to March 2023.",
+      "raw": "The figures also reveal migration peaked 38,000 higher than previously reported in the year to March 2023.",
       "topics": [
         "World"
       ]
     },
     {
-      "id": "8890b82e3b8dc11318522c042f53ced3c793a059",
-      "title": "MI5 warns MPs and peers over risk of Chinese espionage",
-      "url": "https://www.bbc.com/news/articles/c4gpnz05kr8o?at_medium=RSS&at_campaign=rss",
+      "id": "627e858c33fab080a3b5b4a84d351d74ebaafc7c",
+      "title": "New ticketing laws will ban resales above face value. So how much will fans save?",
+      "url": "https://www.bbc.com/news/articles/cj6nlr4wj09o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-11-18T12:18:38.000Z",
+      "published": "2025-11-18T12:17:02.000Z",
       "summary_90w": "",
-      "raw": "Security services have issued a new \"espionage alert\" to members of the House of Commons and Lords.",
+      "raw": "A proposed law will make it illegal to resell tickets for events such as concerts above face value.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "081f32b1bde60ef28851a3a856a0599cde911eea",
+      "title": "Trump says US will sell F-35 stealth jets to Saudis as Prince Mohammed visits",
+      "url": "https://www.theguardian.com/us-news/2025/nov/18/trump-says-us-will-sell-f-35-stealth-jets-to-saudis-as-prince-mohammed-visits",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-18T12:16:49.000Z",
+      "summary_90w": "",
+      "raw": "Kingdom’s de facto ruler to arrive on first White House trip since killing of journalist Jamal Khashoggi in 2018\nDonald Trump is to welcome Saudi Arabia’s de facto ruler, Mohammed bin Salman to Washington on Tuesday, in a red-carpet visit expected to result in the sale of highly advanced US F-35 fighter jets to the Gulf monarchy.\nThe crown prince’s arrival in Washington will be his first White House visit since the 2018 killing of the Washington Post journalist and critic of the kingdom Jamal Khashoggi. The CIA later determined Khashoggi’s murder was approved by the crown prince, leading to global condemnation.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -55,16 +224,16 @@
       ]
     },
     {
-      "id": "6e438f94eb0171ab9bed3aefe25db31dc874a381",
-      "title": "Internet infrastructure firm Cloudflare hit by outage",
-      "url": "https://www.bbc.com/news/articles/c629pny4gl7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-11-18T12:13:53.000Z",
+      "id": "6af96d2d08ac6696a2a72fc5f307695d1f396bb4",
+      "title": "Wagner Moura to lead Ibsen update in unique festival collaboration",
+      "url": "https://www.theguardian.com/stage/2025/nov/18/wagner-moura-to-lead-ibsen-update-in-unique-festival-collaboration",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-18T12:11:59.000Z",
       "summary_90w": "",
-      "raw": "The company says it is working to understand the full impact of a problem which potentially \"impacts multiple customers.\"",
+      "raw": "Brazilian actor will star in The Trial: Enemy of the People, which examines modern political and environmental conflicts\nThe award-winning Brazilian actor Wagner Moura is to star in a new play being staged at three European festivals next year, in the first joint production since their foundation two years after the second world war.\nMoura, who is being tipped for an Oscar nomination for the Secret Agent, will take the lead role in a new production updating the Henrik Ibsen play An Enemy of the People to examine modern political and environmental conflicts.\n Continue reading...",
       "topics": [
-        "Technology"
+        "World"
       ]
     },
     {
@@ -110,7 +279,7 @@
       "id": "4e35321654f324e6a6b2d42f762f156eb2067618",
       "title": "Ex-Harvard president Larry Summers steps back from public role after Epstein email release",
       "url": "https://www.bbc.com/news/articles/cddr199d3z0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-18T11:33:38.000Z",
       "summary_90w": "",
@@ -172,27 +341,14 @@
       ]
     },
     {
-      "id": "832ee19274d54619eab30bcb1d7d96ff3cdd94e8",
-      "title": "Poland says ‘everything indicates’ Russia was behind rail sabotage incidents – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/nov/18/poland-russia-ukraine-rail-sabotage-incidents-zelenskyy-macron-merz-starmer-europe-live-news",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-18T11:04:03.000Z",
-      "summary_90w": "",
-      "raw": "Security spokesperson says the incident at the weekend was a terrorist attack ‘initiated by special services from the East’\nHeads up: Poland’s prime minister Donald Tusk will address the Polish parliament around 1pm local time (midday UK) to give lawmakers an update on the latest on the rail sabotage incidents over the weekend.\nI will bring you all the key lines here.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "2b67df3f2c2f2d6c71c759d2fe6759446439a5fd",
-      "title": "The Congo basin may be the world’s most important rainforest – why is it the least researched?",
+      "title": "The rainforest the world forgot: the Congo basin is the second largest on Earth, so why is it being neglected?",
       "url": "https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-11-18T11:00:50.000Z",
       "summary_90w": "",
-      "raw": "It is the second-largest tropical forest on Earth, and one of the most vital carbon sinks, but is losing out when it comes to climate policy and funding\nIn October 2023, leaders, scientists and policymakers from three of the world’s great rainforest regions – the Amazon, the Congo, and the Borneo-Mekong basins – assembled in Brazzaville, capital of the Republic of Congo. They were there to discuss one urgent question: how to save the planet’s last great tropical forests from accelerating destruction.\nFor those present, the question was existential. But to their dismay, almost no one noticed. “There was very little acknowledgment that this was happening, outside of the Congo basin region,” says Prof Simon Lewis, a lecturer at the University of Leeds and University College London, and co-chair of the Congo Basin Science Initiative (CBSI).\n Continue reading...",
+      "raw": "It is one of the world’s most vital carbon sinks, but this tropical rainforest is losing out when it comes to climate policy and funding\nIn October 2023, leaders, scientists and policymakers from three of the world’s great rainforest regions – the Amazon, the Congo, and the Borneo-Mekong basins – assembled in Brazzaville, capital of the Republic of Congo. They were there to discuss one urgent question: how to save the planet’s last great tropical forests from accelerating destruction.\nFor those present, the question was existential. But to their dismay, almost no one noticed. “There was very little acknowledgment that this was happening, outside of the Congo basin region,” says Prof Simon Lewis, a lecturer at the University of Leeds and University College London, and co-chair of the Congo Basin Science Initiative (CBSI).\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -224,19 +380,6 @@
       ]
     },
     {
-      "id": "386eaa859e5a5aeffaa302e273dd450403448ec7",
-      "title": "Reselling tickets above face value to be banned by government",
-      "url": "https://www.bbc.com/news/articles/c77z2l3yzl8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-18T10:09:43.000Z",
-      "summary_90w": "",
-      "raw": "Ministers say they will tackle sites offering music, theatre and sport tickets at above face value.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ceb5e0926d9a277d0626a77f10fcda410b5b5b18",
       "title": "French energy giant Total faces war crimes allegations over Mozambique massacre",
       "url": "https://www.bbc.com/news/articles/c4gw119ynlxo?at_medium=RSS&at_campaign=rss",
@@ -258,6 +401,19 @@
       "published": "2025-11-18T10:00:00.000Z",
       "summary_90w": "",
       "raw": "President Trump has pushed back against releasing the files, but shifted course over the weekend after it became clear the measure was likely to pass the House.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b87ed98f420a924da49508e10508d07671531756",
+      "title": "Communities are reducing wildfire risk. Will their insurance bills go down?",
+      "url": "https://www.npr.org/2025/11/13/nx-s1-5570994/wildfires-home-insurance-california",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-11-18T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Insurance companies are dropping customers as the cost of disasters goes up. Some communities in California are working to reduce their risk, but so far, insurance companies often aren't factoring that in.",
       "topics": [
         "World"
       ]
@@ -630,7 +786,7 @@
       "id": "ccde9f7474ad2886112907ccf38cb4e5b081bdb7",
       "title": "Trump's plan for Gaza backed by UN Security Council",
       "url": "https://www.bbc.com/news/articles/c0rpkgq4wllo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-18T02:03:30.000Z",
       "summary_90w": "",
@@ -786,13 +942,13 @@
       "id": "f16a544cb8a64d3525fc8cc10e7fc9fa0b86f338",
       "title": "CPB agrees to revive a $36 million deal with NPR killed after Trump's pressure",
       "url": "https://www.npr.org/2025/11/17/nx-s1-5611103/npr-trump-cpb-lawsuit",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2025-11-18T00:12:56.000Z",
       "summary_90w": "",
       "raw": "The Corporation for Public Broadcasting agreed Monday to fulfill a $36 million, multi-year contract with NPR that it had yanked after pressure from the Trump White House.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -804,19 +960,6 @@
       "published": "2025-11-18T00:05:46.000Z",
       "summary_90w": "",
       "raw": "The resolution, which includes references to an independent Palestine, was passed by a vote of 13-0 with China and Russia abstaining \nThe UN security council has endorsed proposals put forward by Donald Trump for a lasting peace in Gaza, including the deployment of an international stabilisation force and a possible path to a sovereign Palestinian state.\nThe resolution, passed by a vote of 13-0 with abstentions by China and Russia, charted “a new course in the Middle East for Israelis and Palestinians and all the people of the region alike”, the US envoy to the UN, Mike Waltz, told the council chamber.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cd0829862f93b09a9e2d4765f60fbff3a0238ed0",
-      "title": "UK bank customer protection rises to £120,000",
-      "url": "https://www.bbc.com/news/articles/c867z63l06vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-18T00:01:40.000Z",
-      "summary_90w": "",
-      "raw": "Customers will see a significant increase in the amount of money protected if their bank collapses.",
       "topics": [
         "World"
       ]
@@ -845,19 +988,6 @@
       "raw": "Google filed a motion to dismiss a defamation lawsuit brought by anti-corporate diversity activist Robby Starbuck, who claimed Google’s AI falsely associated him with sexual assault allegations and a white nationalist.\nStarbuck’s claims against Google came after he filed a similar lawsuit against Meta, whose AI he claimed falsely asserted that he’d participated in the January 6th riot at the US Capitol. But Meta settled that lawsuit in August and even hired Starbuck as an adviser to help address “ideological and political bias” in its AI chatbot, The Wall Street Journal reported. The outlet noted last month that so far, no US court had awarded damages for defamation by an AI chatbot.\nStarbuck is seeking $15 million in damages from Google. But the company says in its filing that his claims simply represent his “misuse of developer tools to induce hallucinations.” Starbuck doesn’t identify what prompts he used to generate the outputs at issue, according to Google, or any actual person who was misled by the alleged claims. Starbuck did not immediately respond to a request for comment.\nGoogle, of course, could eventually choose a similar route to Meta to resolve the claims. But at least for now, it’s choosing to fight them in court.\nView Link",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "7d19b6d95def8b9cf460d7161bb129f00205c7ea",
-      "title": "The U.N. Security Council approves a U.S. plan for a Gaza stabilization force",
-      "url": "https://www.npr.org/2025/11/17/g-s1-98183/un-us-gaza-international-stabilization-force",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2025-11-17T23:10:11.000Z",
-      "summary_90w": "",
-      "raw": "The plan authorizes a security force in the devastated territory and envisions a possible path to an independent Palestinian state. Russia, which had circulated a rival resolution, abstained along with China on the 13-0 vote.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -897,19 +1027,6 @@
       "raw": "Editor’s note: Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the best early Black Friday deals you can already get.\nA foldable phone isn’t for the faint of heart. They’re generally heavier, pricier, and have less capable cameras than a standard slab-style phone. They’re also still not as durable as regular smartphones, though they’re not nearly as fragile as they once were. In fact, thanks to Google, we finally have a foldable phone we can take with us to the beach.\nThere are basically two kinds of foldables at the moment — the kind that fold like books and the ones that fold clamshell style, like your old flip phone. Here’s how I think of it: a book-style foldable is like a phone plus a tablet, and a flip-style foldable is a phone plus a smartwatch. The book foldables provide an outer screen for all your regular phone needs, and then a tablet-like inner screen when you want, well, more screen. Flip phones come with a smaller secondary display on the outer panel that’s useful for checking information quickly. When you need to do regular phone stuff, you unfold it.\nSo while they all fit in one category of folding tech, they’re suited to two very different kinds of people — someone who wants even more phone with their phone and someone who wants to be fully immersed a little less. Whichever category you fit into, you’d be wise to get the manufacturer’s extended warranty with your purchase; fixes can be expensive, and you won’t be able to walk into just any phone repair shop to get them. If you don’t opt for the warranty, you’ll want to be sure you can comfortably afford to replace your phone in the event of a sudden sand-related catastrophe. Death can come swiftly to a folding screen.\nIf I haven’t scared you off by this point, then you’re probably the kind of person who will have a heck of a good time with a foldable. I’ve used every phone under the sun, and folding phones are some of my favorite gadgets. Run four apps at once! Prop it up like a tiny laptop! Hold it like a camcorder when you shoot video! There are tons of possibilities, and the thrill you get when you fold your phone shut never fully wears off.\nBest book-style foldable\nGoogle Pixel Pro 10 Fold\n\n\nScore: 8\n\nProsCons\n\n\nFull dust resistance! On a foldable!\nQi2 support with built-in magnets\n\nHeavy and chunky\nCameras aren’t as good as the other 10 Pro phones’\nPricier than a regular phone\n\n\n\nWhere to Buy:\n\n $1799 $1699.99 at Best Buy (256GB)\n $1799 at Amazon (256GB)\n $1799 at Google (256GB)\n\nScreen: 8-inch, 2076p, 120Hz OLED inner screen; 6.4-inch, 1080p, 120Hz OLED cover screen / Processor: Google Tensor G5 / Cameras: 48-megapixel f/1.7 main with OIS; 10.8-megapixel 5x telephoto with OIS; 10.5-megapixel ultrawide; 10-megapixel selfie (cover screen); 10-megapixel inner selfie camera / Battery: 5,015mAh / Charging: 30W wired, 15W wireless (Qi2) / Weather resistance: IP68\nDurability has long been the North Star of the foldable category, and the Pixel 10 Pro Fold marks a real milestone in that journey. With an IP68 rating, it’s the first foldable to offer full water and dust resistance. That means you can take the $1,799 device on a hike or to the beach without worrying that a stray grain of sand will absolutely destroy it. Add in Qi2 support with built-in magnets for accessories and wireless charging — along with Google’s more powerful Tensor G5 chip — and you have the most well-rounded foldable available.\nThe Pixel 10 Pro Fold isn’t without its shortcomings, though. It offers all-day battery life with minimal use of the inner display; however, if you spend most of your time using the inner screen, your battery will likely be in the red by bedtime. Also, while we love the device’s improved durability, its cameras fall short of Google’s other 10 Pro models, especially in low light. The foldable is a bit heavier and thicker than the Galaxy Z Fold 7, too, which is a fair trade for greater peace of mind.\nRead our full Pixel 10 Pro Fold review.\nBest flip-style foldable\nSamsung Galaxy Z Flip 7\n\n\nScore: 8\n\nProsCons\n\n\nSamsung finally adopted the big cover screen\nAll-day battery\nReliable camera\n\nMore susceptible to dust than your average phone\nStill too hard to run full apps on the cover screen\n\n\n\nWhere to Buy:\n\n $1099.99 $899.99 at Amazon (256GB)\n $1099.99 $899.99 at Best Buy (256GB)\n $1219.99 $1019.99 at Amazon (512GB)\n\nScreen: 6.9-inch, 1080p, 120Hz OLED inner screen; 4.1-inch, 948p, OLED cover screen / Processor: Samsung Exynos 2500 / Cameras: 50-megapixel f/1.8 main with OIS; 12-megapixel ultrawide; 10-megapixel selfie (inner screen) / Battery: 4,300mAh / Charging: 25W wired, 15W wireless, 4.5W reverse wireless / Weather-resistance rating: IP48\nThe latest Galaxy Z Flip may not be as fun as the newest Razr Ultra, but it does offer a few new tricks. Samsung ditched the old file-folder cover screen in favor of a glorious, 4.1-inch edge-to-edge panel that wraps around the cameras. The extra real estate means you have more room to quickly respond to messages or perform any task that doesn’t require you to open your phone (and risk getting lost in a digital rabbit hole).\nIn addition to the larger cover screen, the Flip 7 offers a couple of other thoughtful updates. It’s thinner than its predecessor and features a bigger 4,300mAh battery, which is a step up from the 4,000mAh battery found in the last-gen Flip 6. The camera system remains unchanged from last year’s model, too, though that’s not necessarily a bad thing. The 50-megapixel main shooter still produces great images, and you get all the versatility the flip form factor has to offer, including the ability to easily take selfies using the rear camera.\nDespite some welcome changes, the Flip 7 carries the same IP48 rating as last year’s model, which means long-term durability against fine dust particles remains a concern. However, Samsung offers a great warranty and repair program, along with seven years of OS and security updates. The Flip 7 isn’t perfect, but it’s the most powerful and polished version yet — just don’t drop it while lounging on the beach.\nRead our full Galaxy Z Flip 7 review.\nThe most fun foldable\nMotorola Razr Ultra (2025)\n\n\nScore: 7\n\nProsCons\n\n\nOne of the best-looking phones you can buy\nGreat battery life\nOuter screen is useful in unexpected ways\n\nAI button is wasted real estate \nLong-term durability is still a question mark\nCamera processing is occasionally weird\n\n\n\nWhere to Buy:\n\n $1299.99 $899.99 at Best Buy (512GB)\n $1299.99 $999.99 at Amazon (512GB)\n $1299.99 $1099.99 at Motorola (512GB)\n\nScreen: 7-inch 1224p OLED 165Hz inner screen; 4-inch 1080p OLED 165Hz outer screen / Processor: Qualcomm Snapdragon 8 Elite / Cameras: 50-megapixel f/1.8 main with OIS; 50-megapixel f/2.0 ultrawide; 50-megapixel f/2.0 selfie / Battery: 4,700mAh / Charging: 68W wired, 30W wireless / Weather-resistance rating: IP48\nThe Razr Ultra is the newest and most advanced member of Motorola’s foldable lineup. Compared to the Razr Plus, it boasts a higher-resolution inner screen, Qualcomm’s most powerful mobile processor, double the storage space, and an upgraded selfie camera. The device is also one of the best-looking phones you can buy — the gold-bronze chassis and wooden back panel lend the Ultra a real elegance. When every phone tends to look the same — even in the foldable market — the Razr Ultra stands out in a crowd, which only adds to its charm.\nBeyond its appearance, the Ultra is just plain fun to use. The 4-inch outer screen covers almost the entire front of the phone, making it perfect for checking notifications, responding to messages, and taking quick actions such as hailing an Uber. The titanium hinge is also an upgrade over the stainless steel found in the Razr Plus. While the Ultra is enjoyable, it can’t overcome the gripes we’ve had with previous Motorola foldables, like inconsistent camera processing. Meanwhile, Motorola is only promising three OS upgrades and four years of security updates, which is on the shorter side considering the $1,300 retail price.\nRead our full Razr Ultra (2025) review.\nThe best battery life in a foldable\nOppo Find N5\n\n\nScore: 8\n\nProsCons\n\n\nIt’s really, really thin\nExcellent battery life\nThe crease is almost invisible\n\nFoldables are still fragile\nIt’s not launching in the US or Europe\n\n\n\nWhere to Buy:\n\n $2499 $1999 at Oppo (512GB)\n\nScreen: 8.12-inch, 2248p, 120Hz OLED inner screen; 6.62-inch, 1140p, 120Hz OLED outer screen size/ Processor: Qualcomm Snapdragon 8 Elite Cameras: 50-megapixel f/1.9 main with OIS, 50-megapixel 3x telephoto with OIS, 8-megapixel ultrawide, 8-megapixel selfie cameras (inner and outer) / Battery: 5,600mAh / Charging: 80W wired, 50W wireless / Weather-resistance rating: IPX8/IPX9\nLet’s get the bad news out of the way first: if you live in the US or Europe, you can’t buy the Oppo Find N5. That rules out, well, a lot of us. But if you live in China, Singapore, or any of the other Asian countries Oppo included in its so-called “global” release, then you’re in luck: you can pick up one of the world’s thinnest book-style folding phones, and the rest of us are all very jealous of you.\nThe Find N5 isn’t all about thinness, either. Its Qualcomm Snapdragon 8 Elite chipset is highly capable, the phone is fully water-resistant, and battery life is excellent. It utilizes silicon-carbon battery technology to accommodate a large (by foldable standards) 5,600mAh battery, which easily holds up after a long day of heavy use. What’s even more impressive is that, like the aforementioned Z Fold 7, the Find N5 is still barely thicker than a standard slab-style phone and only slightly heavier. That matters when you’re using the phone via the cover screen for long periods of time or stashing it in the side pocket of your yoga pants. When a foldable is only about as heavy and bulky as a regular phone, using the inner screen feels like getting away with something fantastic — not a benefit you have to make many other sacrifices for. Oppo delivers this in spades, and I just wish more of us could… find it.\nRead our full Oppo Find N5 review.\nOther foldables to consider\nThe latest Huawei Mate XTs gets an honorable mention for its sheer wow factor alone. It’s Huawei’s second trifold phone and features some minor upgrades over the original, which we found to be a great foldable that’s far too expensive. The second-gen Mate XTs is cheaper than the original at 17,999 yuan (about $2,520) and adds several new features, including stylus support, an upgraded Kirin 9020 chipset, and an improved 40-megapixel ultrawide.\nThe Motorola Razr Plus 2025 is relatively new to the scene, replacing last year’s model. Although the two devices look identical, there are a few notable changes. The biggest difference is that the $799 Razr Plus 2025 now features a titanium hinge, rather than stainless steel, promising better durability and a less noticeable crease when the device is open. Additionally, the Razr Plus 2025 offers IP48 dust and water resistance, whereas last year’s model featured an IPX8 rating. While we haven’t tested the newest model, it appears to be a solid alternative to the Ultra.\nThe standard Motorola Razr 2025 is a more affordable entry point into the world of foldables, starting at $699. The Razr 2025 offers improved performance, battery life, and durability — the kind of bumps we expect year after year. It boasts a smaller cover screen compared to the Razr Plus and Ultra, but still offers a spacious 6.9-inch internal display. We haven’t tested the Razr 2025 yet, but its relatively budget-friendly price is a good option for jumping into the foldable market.\nThe Pixel 9 Pro Fold is an impressive sophomore effort from Google, offering an ideal form factor that’s a joy to use. When folded, the outer screen matches the dimensions of a regular phone, and the inner screen can get nice and bright outdoors. The whole package is also light enough that it sometimes doesn’t feel like you’re holding a foldable, though it does suffer from a slightly downgraded camera system compared to its slab-style siblings. There’s also no formal dust resistance, so long-term durability remains a concern. Read our review.\nThe Galaxy Z Fold 7 is an excellent alternative to the Pixel 10 Pro Fold. The slim, lightweight foldable is just 8.9mm thick when folded shut, which is nearly as slim as standard slab-style devices. It has a spacious inner display that’s great for multitasking, and the battery can last a full day with moderate use. That being said, the Z Fold 7 has a starting price of $1,999 and doesn’t offer full dust and water resistance, making the hinge more susceptible to damage. Read our review.\nWhat’s coming next\nSamsung has been teasing a trifold device for months, and the company says it’s still on track to launch later this year. In fact, it recently showed off a prototype version of the hardware. Instead of folding in an accordion-style like the Huawei Mate XTs, Samsung’s trifold will seemingly feature a middle portion and two sides that fold inward. Beyond that, Samsung has yet to share details, such as what the trifold will be called or how much it will cost. Considering the Z Fold 7 has a starting price of $1,999, we’re bracing ourselves for the announcement.\nUpdate, November 17th: Adjusted pricing / availability. Brandon Russell also contributed to this post.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "49d4fb2a9b3c4f0d33d309cca20a9d407b9353fe",
-      "title": "Unprecedented plan for asylum system sees government walk tightrope",
-      "url": "https://www.bbc.com/news/articles/c3vngkp1ykko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-17T22:50:56.000Z",
-      "summary_90w": "",
-      "raw": "Home Secretary Shabana Mahmood's plan is unprecedented and marks an enormous change in policy, writes Dominic Casciani.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -966,19 +1083,6 @@
     },
     {
       "id": "0235125823c7faf4aecee35d722a186c688c173c",
-      "title": "Making films 'is who I am': Tom Cruise on his first Oscar",
-      "url": "https://www.bbc.com/news/articles/cq83l2l132lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-17T22:01:30.000Z",
-      "summary_90w": "",
-      "raw": "The Mission: Impossible star received the honorary prize after being nominated four times for an Academy Award.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0235125823c7faf4aecee35d722a186c688c173c",
       "title": "Tom Cruise on his first Oscar: Making films 'is who I am'",
       "url": "https://www.bbc.com/news/articles/cq83l2l132lo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
@@ -998,7 +1102,7 @@
       "source_name": "The Verge",
       "published": "2025-11-17T22:00:56.000Z",
       "summary_90w": "",
-      "raw": "An illustration from Google’s new AI weather model. | Image: Google\t\n\nGoogle debuted a new and improved AI weather model today that will be incorporated into popular products like Search, Gemini, and Pixel phones. \nThe company’s AI-enhanced forecasts have proven themselves to be quite accurate so far. AI weather models have also been able to make predictions faster and more efficiently than conventional physics-based models. Until now, Google’s work in this area has been mostly experimental. Now, it’s making those predictions a selling point for Google products and services. \n\n“We’re taking it out of the lab and really putting it into the hands of users”\n\n\n“We’re taking it out of the lab and really putting it into the hands of users in more ways than we have before and sort of shedding off the experimental kind of designation because we have confidence that our forecasts are really quite effective and quite useful,” Peter Battaglia, senior director of research and sustainability at Google DeepMind, said in a briefing with reporters.  \nThe new AI model, WeatherNext 2, can generate forecasts eight times faster than Google’s previous model, and is also more accurate in predicting 99.9 percent of variables like temperature or wind. WeatherNext 2 can pump out hundreds of potential outcomes from a particular starting point. It takes less than a minute using one of Google’s TPU chips to make a prediction, which the company says would typically take several hours to accomplish using physics-based models on a supercomputer. \nThose conventional models are computationally intensive because they’re essentially attempting to recreate the complicated physics of the atmosphere to produce forecasts. AI models, in contrast, try to discern patterns out of historical weather data in order to predict future outcomes. \nGoogle was able to streamline its process by using a strategy it calls a Functional Generative Network (FGN) in WeatherNext 2. Older AI weather models still required repeated processing to generate one forecast. FGN is more efficient because it incorporates noise — or targeted randomness — into the model each time it’s provided an input so that WeatherNext 2 can generate many different possible outcomes in a single step. \nThe advancements allow WeatherNext 2 to make predictions up to 15 days in advance and generate hourly forecasts. Google’s banking on that appealing to enterprise customers as well as individual consumers. \n“We found that energy, agriculture, transportation, logistics, and customers in many other industries are quite interested in these one-hour steps. It helps them make more precise decisions relating to things that affect their business,” Akib Uddin, a product manager at Google Research, said on the call.  \nAside from adding WeatherNext 2 to Maps, Search, Gemini, and Pixel Weather, Google is also offering an early access program for customers interested in custom modeling. The forecast data is also available in Google Earth Engine for geospatial analysis and BigQuery for large-scale data analysis. \nGoogle has competition, of course, when it comes to figuring out how to make generative AI useful in weather forecasting. The European Center for Medium-Range Weather Forecasts, Nvidia, Huawei, and other companies are similarly developing their own AI weather models.",
+      "raw": "An illustration from Google’s new AI weather model. | Image: Google\t\n\nGoogle debuted a new and improved AI weather model today that will be incorporated into popular products like Search, Gemini, and Pixel phones. \nThe company’s AI-enhanced forecasts have proven themselves to be quite accurate so far. AI weather models have also been able to make predictions faster and more efficiently than conventional physics-based models. Until now, Google’s work in this area has been mostly experimental. Now, it’s making those predictions a selling point for Google products and services. \n\n“We’re taking it out of the lab and really putting it into the hands of users”\n\n\n“We’re taking it out of the lab and really putting it into the hands of users in more ways than we have before and sort of shedding off the experimental kind of designation because we have confidence that our forecasts are really quite effective and quite useful,” Peter Battaglia, senior director of research and sustainability at Google DeepMind, said in a briefing with reporters.  \nThe new AI model, WeatherNext 2, can generate forecasts eight times faster than Google’s previous model, and is also more accurate in predicting 99.9 percent of variables like temperature or wind. WeatherNext 2 can pump out hundreds of potential outcomes from a particular starting point. It takes less than a minute using one of Google’s TPU chips to make a prediction, which the company says would typically take several hours to accomplish using physics-based models on a supercomputer. \nThose conventional models are computationally intensive because they’re essentially attempting to re-create the complicated physics of the atmosphere to produce forecasts. AI models, in contrast, try to discern patterns out of historical weather data in order to predict future outcomes. \nGoogle was able to streamline its process by using a strategy it calls a Functional Generative Network (FGN) in WeatherNext 2. Older AI weather models still required repeated processing to generate one forecast. FGN is more efficient because it incorporates noise — or targeted randomness — into the model each time it’s provided an input so that WeatherNext 2 can generate many different possible outcomes in a single step. \nThe advancements allow WeatherNext 2 to make predictions up to 15 days in advance and generate hourly forecasts. Google’s banking on that appealing to enterprise customers as well as individual consumers. \n“We found that energy, agriculture, transportation, logistics, and customers in many other industries are quite interested in these one-hour steps. It helps them make more precise decisions relating to things that affect their business,” Akib Uddin, a product manager at Google Research, said on the call.  \nAside from adding WeatherNext 2 to Maps, Search, Gemini, and Pixel Weather, Google is also offering an early access program for customers interested in custom modeling. The forecast data is also available in Google Earth Engine for geospatial analysis and BigQuery for large-scale data analysis. \nGoogle has competition, of course, when it comes to figuring out how to make generative AI useful in weather forecasting. The European Center for Medium-Range Weather Forecasts, Nvidia, Huawei, and other companies are similarly developing their own AI weather models.",
       "topics": [
         "Technology"
       ]
@@ -1012,19 +1116,6 @@
       "published": "2025-11-17T21:20:00.000Z",
       "summary_90w": "",
       "raw": "Garmins aren’t just multisport behemoths anymore. | Illustration by Will Joel / The Verge\t\n\nEditor’s note: Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the best early Black Friday deals you can already get.\nFew brands are as synonymous with outdoor sports as Garmin. You’ll find these fitness trackers and smartwatches on dozens of wrists at any 5K, marathon, or Ironman. You’ll also find Garmin devotees among divers, thru-hikers, golfers, kiteboarders — you name it. But these devices aren’t just for athletes. The company’s made significant strides in its lifestyle offerings, so regardless of your fitness level, there’s a Garmin for everyone.\nIf you’re coming from a more traditional smartwatch, Garmin’s core strengths lie in fitness, GPS, adventuring, and durability. These are hardy devices that are meant to withstand the elements and last weeks on a single charge. Several models come with offline maps, advanced navigational features, and more training metrics than any other platform. Garmin devices tend to be on the pricier side, and the company announced in March that it would begin putting its newest features behind a paywall. That’s a bummer given Garmin spent years publicly stating it had no intention of charging its users extra.\nGarmins aren’t too shabby on smarts, either. While more fitness-focused than anything from Apple, Google, or Samsung, there’s enough to get you the basics like notifications and then some. For example, most Garmins have fall detection and safety features, and several Garmins released since 2023 have an FDA-cleared EKG feature. (You’ll need a phone on hand, however, as only one Garmin model has cellular connectivity.) Many Garmin devices also support offline music playback and come with a small third-party app ecosystem.\nThere are a lot of Garmin watches to choose from. No, seriously, there are six major lineups, and each has a multitude of models. But no worries — I test several Garmins every year and can help point you in the right direction.\nThe best Garmin for runners\nGarmin Forerunner 265 / 265S\nGarmin’s midrange Forerunner watch has an OLED display, a week’s worth of battery life, and dual-frequency GPS for better accuracy.\n\n\nScore: 9\n\nProsCons\n\n\nMore intuitive menu navigation\nMultiband GPS\nLong battery life — even with AOD enabled\nAdds helpful training features\nOh, oh, it’s OLED, you know\n\nIt’s $100 more than the 255\nOLED displays don’t cost $100\n\n\n\nWhere to Buy:\n\n $449.99 $299.99 at Amazon\n $449.99 $299.99 at Best Buy\n $449.99 $299.99 at Garmin\n\nSizes: 42mm w/ 18mm straps; 46mm w/ 22mm straps / Weight: 39g (42mm); 47g (46mm) / Battery life: Up to 15 days (42mm); 13 days (46mm) in smartwatch mode / Display type: OLED touchscreen / GPS: All-systems GNSS and dual-frequency GPS / Connectivity: Bluetooth, Ant Plus, Wi-Fi / Water resistance: 5ATM / Music storage: 8GB\nGarmin has many running watches, and a lot of them are great. But the Forerunner 265 or 265S (if you have petite wrists) strikes an excellent balance between price, feature set, and battery life. Its vibrant OLED display also impressed us. We got about a week on a single charge with always-on display enabled, and up to 15 days with that setting turned off. \nThe 265 has dual-frequency GPS (also known as multi-band), which gets you get much more accurate maps in challenging environments like cities and dense forests because you can access both the L1 and L5 satellite frequencies. You don’t lose a whole lot of battery life with dual-frequency GPS enabled. I wore it during a half marathon with that and the AOD enabled, and I still had over 80 percent battery by the time I got home. This is also an excellent price, as the majority of multi-band GPS watches cost well over $600.\nMy main complaint is that $450 (outside of a deal, at least), while not bad for Garmin, is still a lot when you consider that’s the same price as smarter smartwatches with great running features. Some runners won’t care. But if you’re on a budget — or you’re new to running and feel iffy about spending that much — then consider the Forerunner 165 series. It starts at $249.99 (add another $50 for onboard music) and does almost everything the 265 series does. The main things you’re missing are dual-frequency GPS and a few more niche sport profiles. But if you’re mostly sticking to running, gym equipment, cycling, swimming, and hiking, you’re covered.\nGarmin Forerunner 165 Music\nThe Garmin Forerunner 165 Music gets you in-depth training metrics but leaves out some of the more advanced features in exchange for a more palatable price.\n\nWhere to Buy:\n\n $299.99 $249.99 at Amazon\n $299.99 $249.99 at Garmin\n $300 $249.99 at REI\n\nNeither has all of Garmin’s training features, but it’s got what you’ll need to run anything from a 5K to a full marathon. That includes a Race Predictor, which gives you an estimate of what your best time would be based on your actual training. You can also use PacePro to figure out your pacing strategy for a race. You also get Garmin’s Training Readiness feature to help gauge load and recovery, Garmin Coach plans, and a host of running form metrics. It also supports offline music and safety features like fall detection. The only thing they lack is advanced mapping. (They still have trackback, point-to-point navigation, and real-time breadcrumb trail support, however.)\nOn the other hand, if your budget allows, you could also consider the Forerunner 570 and Forerunner 970, which were released in June and cost $549.99 and $749.99, respectively. Both models have a built-in speaker and microphone, OLED screen, skin temperature sensors, flashlight, and built-in EKG reader with atrial fibrillation detection. They also give you a daily evening report with suggestions on how much sleep you should get, plus a digest of your upcoming events, workouts, and the weather. You also get access to Garmin Coach, a free multipart workout program, which allows you to upload your course and receive notifications when you’ve hit certain distance benchmarks. \nWhile both smartwatches have a lot in common, they do have some key differences, the main being that the 970 has maps. The Forerunner 570 comes in 42mm and 47mm sizes, and Garmin says its battery lasts up to 10 or 11 days based on which model you pick  (with the always-on display off.) The Forerunner 970 only comes in a 47mm size, and Garmin says it can last up to 15 days per charge. The Forerunner 970 also includes three exclusive metrics: running tolerance, running economy, and speed step loss. \nThese three tools will give you a weekly maximum mileage recommendation (with the option to adjust it up or down), and assess running efficiency. The running economy and step speed loss features require Garmin’s $169.99 HRM 600 heart rate monitor.\nThe Forerunner 570 is a definite step up from the Forerunner 265, but not a big enough leap to recommend it to everyone instead of that model, especially because it doesn’t offer offline maps. The Forerunner 970 may be overkill for all but the most avid runners, but it’s good to see Garmin continually adding features to the top of its line.\nRead my full Garmin Forerunner 265S review.\nThe best Garmin for endurance sports\nGarmin Epix Pro Sapphire Edition (42mm)\nThe Garmin Epix Pro comes in three sizes, includes a handy flashlight, and has multiband GPS. Plus, it lasts over a week on a single charge.\n\n\nScore: 8\n\nProsCons\n\n\nNow comes in multiple sizes\nHands-free flashlight is SO handy\nGreat battery life\nMultiband GPS\nUpgraded heart rate sensor\nStarting price hasn’t changed\n\nAOD zaps battery life to three to four days\nLots of incremental changes\nIt’s a Garmin review, so once again, the app\n\n\n\nWhere to Buy:\n\n $999.99 $549.99 at Amazon\n $999.99 $549.99 at Garmin\n $999.99 $549.99 at Target\n\nSizes: 42mm w/ 20mm straps; 47mm w/ 22mm straps; 51mm w/ 26mm straps / Weight: 42mm: 63g stainless steel, 58g titanium; 47mm: 78g stainless steel, 70g titanium; 51mm: 98g stainless steel, 88g titanium / Battery life: 42mm: up to 10 days (4 with AOD); 47mm: up to 16 days (6 with AOD); 51mm: up to 31 days (11 with AOD) / Display type: OLED / GPS: All-systems GNSS and dual-frequency GPS / Connectivity: Bluetooth, Ant Plus, Wi-Fi / Water resistance: 10ATM / Music storage: Up to 32GB\nThe Epix Pro will get you most fitness features Garmin had to offer, plus topographical maps, turn-by-turn navigation, and more training metrics than even a seasoned triathlete would know what to do with.\nThe Pro is more size-inclusive than the standard second-gen Epix, which only comes in 47mm. You can get the Pro in that size, too, but it also comes in 42mm and 51mm. This was a major complaint I had with the second-gen Epix, and you love to see companies actually take this sort of thing seriously. The best part is that the Pro models start at the same price as the regular Epix did. You’ll have to pay $100 extra for materials like titanium and sapphire crystal, but that’s also true of the standard Epix.\nGarmin Fenix 8\nThe Garmin Fenix 8 adds smart features like the ability to take calls on the wrist, and an on-board voice assistant.\n\n\nScore: 7\n\nProsCons\n\n\nSmartens up Garmin’s flagship multisport watch\nExcellent battery and fitness tracking\nOffers MIP and OLED display options\nCondenses the Fenix and Epix lines into one\n\nThe starting price is $350 more than the Fenix 7!\nSmart features are less helpful without LTE\n\n\n\nWhere to Buy:\n\n $999.99 $749.99 at Garmin\n $1000 $749.99 at REI\n $999.99 $749.99 at Amazon\n\nThat said, it muddies the waters if you’re trying to pick between the Epix Pro, Fenix 7, Fenix 7 Pro, and now, the Fenix 8. The main difference is that the Epix watches all have OLED displays. One reason I prefer OLED screens is that they’re much easier to read indoors — where most of us spend the majority of our time. The Fenix 7 series’ memory-in-pixel displays (plus solar charging if you opt for it) allow for weeks and weeks of charge, but the smallest Epix Pro can get around 10 days with normal usage. The 47mm and 51mm Pro models can go longer between charges due to bigger batteries, but I felt that the 42mm has enough juice to satisfy most use cases. Garmin also has so many battery-saving modes and options that I highly doubt this will ever be an issue.\nNot helping matters is the fact that the Fenix 8 lets you choose between an OLED and an MIP display. You also get smart features like an onboard voice assistant, the ability to take calls from the wrist, and the Garmin Messenger app. The main problem is that the starting price is now $350 more (barring any deals) than the standard Fenix 7 and right about on par with the Epix Pro. My personal feeling is that the Fenix 8’s smart features are just okay and that you’re really not missing much by not having them. We also often see discounts on older models, so I would put on my bargain-hunting hat for a discounted Epix Pro or Fenix 7 Pro while inventory is still available.\nBut really, the winning feature of the Epix Pro is the hands-free flashlight. It’s so useful in my day-to-day life, and all you have to do is double-press a button. It’s as bright as your smartphone, comes with a red light option if you want something easier on the eyes, and can act as a strobe in an emergency situation. The Fenix 7 Pro and 8 watches also have a flashlight, so a lot of this is going to come down to personal preference for the display, price, and whether you care about smart features.\nWe haven’t had a chance to get our hands on it yet, but Garmin also recently announced the Fenix 8 Pro. The watch, which starts at $1,199.99, is available in 47mm and 51mm sizes with either an OLED or MicroLED display. All models feature LTE and satellite connectivity, which costs $7.99 a month and allows you to send text and voice messages through the Garmin Messenger app when your phone is unavailable. The expanded connectivity also enables LiveTrack location sharing and access to real-time weather forecasts, as well as SOS requests, which get routed to  Garmin’s Response Center and emergency services in the event of an emergency.\nGarmin Fenix 7S Pro\nLike the Garmin Epix Pro, the Fenix 7 Pro line has an updated optical heart rate sensor for improved accuracy. It also has excellent battery life, a slightly brighter MIP display, solar charging, and the option of upgrading to sapphire crystal.\n\n\nScore: 8\n\nProsCons\n\n\nHands-free flashlight\nLong battery life\nMultiband GPS\nUpgraded heart rate monitor\n\nThe improved MIP display is still not the easiest to read in dim lighting\nToo similar to the standard Fenix 7\n\n\n\nWhere to Buy:\n\n $899.99 $449.99 at Amazon\n $899.99 $449.99 at Garmin\n\nIf you’re set on getting the most battery life possible, I recommend the Fenix 7 Pro over the standard 7 for a few reasons. Its MIP display is slightly brighter, all sizes have the flashlight, and, like the Epix Pro, it has an updated sensor array. I also recommend it over the MIP versions of the Fenix 8 because it comes in more sizes, and costs around $300 less. Especially since the Fenix 8’s smart features are a bit half-baked.\nRead my full Epix Pro review.\nThe best Garmin for those on a budget\nGarmin Vivomove Sport\nGarmin’s entry-level hybrid smartwatch looks like a Swatch at first glance. However, it sports a hidden OLED display that delivers notifications without sacrificing fitness tracking.\n\n\nScore: 8\n\nProsCons\n\n\nAesthetically pleasing and accurate tracking\nGood for smaller wrists\nAffordable price\nThe hidden OLED is cool\n\nThe Garmin app is overly complicated\nBattery life is shorter than other hybrids\n\n\n\nWhere to Buy:\n\n $179.99 $164.98 at Amazon\n $179.99 at Garmin\n\nSizes: 40mm w/ 20mm straps / Weight: 19g / Battery life: Up to 5 days / Display type: “Hidden” OLED touchscreen / GPS: Tethered GPS / Connectivity: Bluetooth, Ant Plus / Water resistance: 5ATM / Music storage: N/A\nWhat I love most about the Vivomove Sport is that it doesn’t look like what most people expect from a Garmin. It’s a hybrid smartwatch, which means it looks like a regular watch but can track fitness and deliver notifications. Garmin’s hybrids are also unique in that they all use an OLED display that stays hidden until you need it.\nThis is best suited for a casually active person who wants style and value in a lightweight package. Think wellness, more so than fitness. It gets you continuous heart rate monitoring and blood oxygen level monitoring, and can even provide abnormal heart rate alerts. You also get access to more in-depth metrics like respiration rate, fitness age, stress, and Body Battery, which is Garmin’s tool for visualizing how well-rested you are. For smart features, you get all the basics, like notifications, alarms, and timers.\nThe Sport isn’t quite as full-featured as some other Garmin watches you’ll find on this list. For instance, you’re giving up built-in GPS in favor of tethered GPS through your phone. There are no contactless payments, nor is there a microphone or speaker for taking calls on the wrist. But this is a budget pick, and you get a lot, considering this is an entry-level gadget that could pass for a Swatch at a glance.\nI don’t love that the battery life is short for a hybrid, at around three to four days. Even so, that’s still much better than what you’ll get on a recent Apple Watch or Android watch running Wear OS 5 or 6. If you’re willing to spend about $100 more, the $269.99 Vivomove Trend has more chic materials, gets you more screen real estate, and wireless Qi charging. Otherwise, this is a great lifestyle wearable that can serve as a classier alternative to your typical fitness band.\nGarmin Lily 2\nThe Garmin Lily 2 is a simple yet chic hybrid analog smartwatch that delivers basic fitness tracking, notifications, and up to five days of battery life.\n\nWhere to Buy:\n\n $249.99 $199.99 at Amazon\n $249.99 $199.99 at Best Buy\n $249.99 $199.99 at Garmin\n\nIf you prefer something newer to the Sport that’s also stylish, the Garmin Lily 2 is another good option, especially if you’ve got particularly small wrists or prefer something extremely lightweight. The swipe and tap gestures are still a little fiddly to use — which was also the case with the first-gen model — but the fresh design is a fun way to lightly monitor your fitness without bogging yourself down with notifications. Garmin also offers the Lily 2 Active, which adds a physical button, GPS, and support for more sports tracking for a starting price of $299.99.\nRead my full Garmin Vivomove Sport review.\nThe best Garmin to replace a Fitbit\nGarmin Venu Sq 2\nThe Garmin Venu Sq 2 is a great replacement for a Fitbit smartwatch. Not only do they look similar, but the Venu Sq 2 has way more fitness features, long battery life, and no subscription.\n\n\nScore: 8\n\nProsCons\n\n\nBright display\nLong battery life\nTons of training and health features\n\nCluttered app\nProprietary USB-A charger\n\n\n\nWhere to Buy:\n\n $249.99 $149 at Amazon\n $249.99 $149.99 at Garmin\n\nSizes: 40mm w/ 20mm straps / Weight: 38g / Battery life: Up to 11 days / Display type: OLED touchscreen / GPS: All-systems GNSS / Connectivity: Bluetooth, Ant Plus / Water resistance: 5ATM / Music storage: 4GB (for Music Edition)\nIf you were disappointed by the Fitbit Sense 2 and Versa 4, the Venu Sq 2 is the next best thing (and, in some ways, better).\nAt a glance, the Venu Sq 2 could easily be mistaken for an Apple Watch. On the wrist, you’ll notice it’s made of plastic, but it still looks quite chic and extremely lightweight. The screen is bright, easy to read, and looks better than any Versa or Sense ever did.\nThe feature set is also great for the price, with built-in GPS, a ton of watch faces, emergency safety features, and contactless payments. If you pay $50 more for the Music Edition, you’ll also get enough storage to hold about 500 songs, but we wouldn’t recommend it. This watch doesn’t have cellular connectivity and, therefore, isn’t truly standalone. You’ll most likely be carrying your phone with you anyway.\nAs for health features, the Venu Sq 2 basically has everything you’d get on a Versa or Sense smartwatch but with Garmin’s treasure trove of metrics as well. That includes heart rate tracking, blood oxygen tracking, intensity minutes (how much moderate exercise you get in a week), stress tracking, hydration tracking, respiratory rate, period tracking, and Garmin’s recovery feature, Body Battery. As far as fitness goes, you also get access to Garmin Coach, which provides free 5K, 10K, and half marathon training plans. You love to see it.\nAnother big leg-up Garmin has over Fitbit? None of these features or metrics are locked behind a paywall, even if Garmin’s AI-powered insights and a few other expanded features are only available as part of Garmin Connect Plus ($6.99 a month / $69.99 annually).\nRead my full Garmin Venu Sq 2 review.\nThe best Garmin smartwatch\nGarmin Venu 3S\nThe Garmin Venu 3S adds a heart rate sensor, a wheelchair mode, and much-improved sleep tracking and nap detection. \n\n\nScore: 7\n\nProsCons\n\n\nGood battery life\nBetter sleep tracking and nap detection\nEKG and AFib features\nCan take calls and use your phone’s voice assistant\nAudio meditation sessions done well\n\nPricey compared to other lifestyle smartwatches\nLimited third-party app ecosystem\nNo LTE capability\n\n\n\nWhere to Buy:\n\n $449.99 $349.99 at Amazon\n $449.99 $349.99 at Walmart\n $449.99 $349.99 at Best Buy\n\nSizes: 41mm w/ 18mm straps; 45mm w/ 22mm straps / Weight: 40g for the 3S; 47g for the 3 / Battery life: Up to 10 days for 3S; 14 days for 3 / Display type: OLED touchscreen / GPS: GPS, GLONASS, GALILEO / Connectivity: Bluetooth, Ant Plus, Wi-Fi / Water resistance: 5ATM / Music storage: 8GB\nGarmin has shored up the smarts in its watches over the past several years, and the Venu 3 series is one of the smartest (and most affordable) of the bunch.\nThe Venu 3 series comes in two sizes: 41mm and 45mm. Like the Venu 2 Plus, it has a microphone and speaker. You can take calls directly from the wrist and issue commands to your phone’s digital assistant via Bluetooth. It’s not the same as having Siri, Bixby, Amazon Alexa, or Google Assistant built directly into the watch, but it’s a clever workaround that works well for hands-free control. It also supports safety features like fall detection and live tracking, as well as contactless payments.\nLike other OLED Garmins, the display is both vibrant and easy to read. As for health and fitness, you get a nice mix of basic and more advanced features and metrics. It has a heart rate sensor that enables FDA-cleared EKG and AFib detection features. Overall, it leans a bit more on the wellness and health side of things, with intensity minutes, blood oxygen monitoring, sleep tracking, period tracking, abnormal heart rate alerts, and stress tracking. As for training, you still get built-in GPS, VO2 Max, heart rate zones, respiration rate, and downloadable training plans via Garmin Coach.\nThe Venu 3 and 3S have a sleep coach that factors in metrics like heart rate variability and recent activity to determine your sleep needs. It also adds nap detection, a feature that’s been long overdue for the Garmin platform, and audio-guided meditation sessions. From an accessibility standpoint, this also adds a wheelchair mode.\nTechnically, the Fenix 8 is slightly smarter in that it has an onboard voice assistant. However, it is also more than double the price and not what I’d consider a good value for the average athlete. It’s more for people who spend hours upon hours training every week.\nThis is the Garmin for you if you want the platform’s in-depth training without sacrificing the productivity of a smartwatch. The main features it’s lacking are cellular options and a robust third-party app ecosystem. That said, it’s got Spotify, Amazon Music, and Deezer for offline listening. It’s also a good option if you’re fed up with MIP displays and want a smarter Garmin rather than a full-on smartwatch.\nHowever, it is worth noting that Garmin recently launched the Garmin Venu 4. The new model is available in two sizes, 41mm and 45mm, both of which are available from Amazon, Best Buy, and Garmin for $549.99. The smartwatch features more advanced wellness features than the Venu 3, including the ability to log your caffeine and alcohol intake, providing insights into how they may be impacting your sleep. Garmin’s Fitness Coach can also create a personalized workout regimen from a pool of 25 exercises, which are based on your prior performance, recovery level, and recent sleep patterns.\nRead my full Garmin Venu 3S review.\nUpdate, November 17th: Adjusted pricing and availability. Brandt Ranj also contributed to this post.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "aa15cd1750d3f9d1fc41e797a1fbaef0f7e0d572",
-      "title": "Google Calendar can finally block off time without faking a meeting",
-      "url": "https://www.theverge.com/news/822492/google-calendar-tasks-busy-time-block",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-17T21:15:23.000Z",
-      "summary_90w": "",
-      "raw": "The latest feature update for Google Calendar allows you to block off time for tasks and mark yourself as busy, all in one place, expanding the existing Tasks feature in Calendar. It’s something Workspace users have been specifically requesting and effectively allows tasks to function like meetings, including options to set (and adjust) a specific block of time, turn on “do not disturb,” and automatically reject meeting requests. You can also add a deadline, but only the date — there’s currently no option for a deadline time.\nDepending on how you use your calendar, this might be what you’ve been hoping Tasks would become all along. It has had a slew of changes over the past several years, from launching as its own app back in 2018 to getting some much-needed updates recently, like integrated reminders from Google Keep and the addition of completion dates. The change is coming to all Workspace customers, individual subscribers, and personal Gmail accounts. It started rolling out to Rapid Release domains on November 6th, but could take until mid-December to appear on your account.\nIf you’re the kind of person who uses a planner or is used to using Outlook’s similar feature, this update could help you keep track of what you’re working on and let other people know when to let you focus at the same time. However, unlike the existing “Focus Time” feature, the updated version of the “Tasks” feature lets you assign time to a specific task. \nYou can try it out by going into your Google Calendar and selecting “Task” from the options that pop up when you select an empty block on your calendar.",
       "topics": [
         "Technology"
       ]
@@ -1053,19 +1144,6 @@
       "raw": "Officials at Nasa say the sun is at the peak of its 11-year cycle, known as \"solar maximum\", which could lead to more severe geomagnetic storms.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "df1c6ab36f724ac7c18ab15e79dd8cefbbb0d6d3",
-      "title": "NetChoice sues Virginia to block its one-hour social media limit for kids",
-      "url": "https://www.theverge.com/news/822475/netchoice-virginia-lawsuit-social-media-time-limit-law",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-17T20:49:08.000Z",
-      "summary_90w": "",
-      "raw": "The tech industry trade group NetChoice is suing Virginia over a new law that will restrict minors from using social media for more than one hour per day. The lawsuit, filed on Monday, asks the court to block the law over claims it violates the First Amendment by putting “unlawful barriers on how and when all Virginians can access free speech online.”\nVirginia Governor Glenn Youngkin signed the social media bill (SB 854) into law in May, and it’s set to go into effect on January 1st, 2026. Under the law, social media platforms will have to prevent kids under 16 from using the sites for more than one hour every day unless they receive permission from a parent.\nIn addition to restricting access to legal speech, NetChoice alleges that Virginia’s incoming law will require platforms to verify user ages in ways that would pose privacy and security risks. The law requires platforms to use “commercially reasonable methods,” which it says include a screen that prompts the user to enter a birth date. However, NetChoice argues that Virginia could go beyond this requirement, citing a post from Governor Youngkin on X, stating “platforms must verify age,” potentially referring to stricter methods, like having users submit a government ID or other personal information.\nWe’ve already seen the risks of this data collection, as Discord revealed last month that around 70,000 users may have had their government IDs exposed during a customer service data breach related to age-related appeals.\nNetChoice, which is backed by tech giants like Meta, Google, Amazon, Reddit, and Discord, alleges that the law puts a burden on minors’ ability to engage or consume speech online. “The First Amendment prohibits the government from placing these types of restrictions on accessing lawful and valuable speech, just in the same way that the government can’t tell you how long you could spend reading a book, watching a television program, or consuming a documentary,” Paul Taske, the codirector of the Netchoice Litigation Center, tells The Verge.\nNetChoice has filed — and won — lawsuits against several other states that have enacted laws requiring social media platforms to implement age verification requirements, though Virginia appears to be the first to impose a strict time limit for minors. Virginia — like numerous other states — also requires porn sites in the state to verify the ages of their users. \n“Virginia must leave the parenting decisions where they belong: with parents,” Taske says. “By asserting that authority for itself, Virginia not only violates its citizens’ rights to free speech but also exposes them to increased risk of privacy and security breaches.”",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1105,19 +1183,6 @@
       "raw": "Jim O’Callaghan says he will closely monitor changes proposed by Britain amid concerns over impact\nAttempts to toughen up asylum rules in the UK could have significant implications for relations with Ireland, Dublin’s justice minister has said, amid concerns that this could increase migration flows to Ireland.\nMore than 80% of people who use irregular routes to Ireland originate from Great Britain, travelling to Belfast by plane or boat and then by road to Dublin to make asylum claims, the justice department has said.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "ca00ece9c0026a1bcb49282f8aeb66abf5a1af2b",
-      "title": "Bose’s noise-canceling QuietComfort Headphones are more than 50 percent off",
-      "url": "https://www.theverge.com/gadgets/822365/bose-noise-canceling-quietcomfort-headphones-amazon-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-17T20:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The current discount drops the price of Bose’s entry-level headphones by a whopping $180. | Image: Bose\t\n\nTraveling during the holidays can be chaotic and loud, but a quality pair of over-ear headphones can provide much-needed peace and quiet on your journey. Fortunately, you can currently snag Bose’s QuietComfort Headphones on sale at Amazon for an all-time low of $169.99 ($180 off) in select colors. That’s more than 50 percent off the MSRP, and handily beats their previous low of $199.99.\nBose QuietComfort Headphones\n\nWhere to Buy:\n\n $359 $169.99 at Amazon\n $359 $199 at Best Buy\n $359 $199 at Bose\n\nThe QC Headphones are a great option in the company’s broader lineup of headphones and earbuds, which also includes the pricier QC Ultra Headphones, QC Ultra Earbuds, and entry-level QC Earbuds. The standard QC Headphones preserve the lightweight design of the last-gen QuietComfort 45 and include Bose’s terrific noise cancellation, so you can block out your snoring seat neighbor on the plane.\nThe QC Headphones allow you to quickly toggle between blocking out the outside world and letting ambient noise in, which is a nice feature when you need to hear a boarding call. Additionally, they support multipoint connectivity, allowing them to be paired with two devices simultaneously. They also offer up to 24 hours of battery life, so you’ll be able to get through a long travel day when an outlet isn’t nearby. And when you do make it to your destination, they fold up neatly, making it easier to store them in your bag.\nAlthough we haven’t reviewed this specific model, Bose headphones consistently offer some of the best comfort around, along with top-tier ANC. If you’re looking for the best of the best, though, the QC Ultra Headphones are one of our favorite pairs for travel — and you can grab the first-gen model for just $298 ($131 off) at Amazon right now, which is the lowest price we’ve seen in months. The step-up headphones offer more immersive spatial audio, a feature that can fine-tune the audio and noise cancellation to your ears, and sensors to pause / resume music when you take the headphones off or put them on.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1207,19 +1272,6 @@
       "published": "2025-11-17T18:04:01.000Z",
       "summary_90w": "",
       "raw": "Israel says South Africa had previously agreed to receive the 153 Palestinians who arrived last week.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c224dd0ca34ee18459bc1b5382a0453ba547f266",
-      "title": "Two long-lost organ pieces by JS Bach performed for first time in 300 years",
-      "url": "https://www.theguardian.com/music/2025/nov/17/lost-js-bach-organ-compositions-performed-for-first-time-in-300-years",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-17T18:03:28.000Z",
-      "summary_90w": "",
-      "raw": "Archive director in Germany says ‘missing piece of puzzle’ now in place to verify authorship after decades of research\nTwo long-lost organ pieces by Johann Sebastian Bach have been performed in Germany, roughly 320 years after the composer wrote them as a teenage music teacher.\nEntitled Chaconne in D minor BWV 1178 and Chaconne in G minor BWV 1179, the pieces were added to the official catalogue of Bach’s works on Monday and played in public for the first time in three centuries inside Leipzig’s St Thomas Church, where Bach is buried.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1355,19 +1407,6 @@
       ]
     },
     {
-      "id": "11a2fcdf4bdec42f4e2a1b2e4f3480c7d3e9c7bb",
-      "title": "UN to vote on Gaza stabilisation force plan that references Palestinian state",
-      "url": "https://www.theguardian.com/world/2025/nov/17/un-to-vote-on-gaza-stabilisation-force-plan-palestinian-state",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-17T14:39:18.000Z",
-      "summary_90w": "",
-      "raw": "Netanyahu faces pressure from far-right ministers after Saudi insistence on ‘credible pathway’ to statehood\nThe UN security council is to vote on Monday on a US-drafted resolution to set up an international stabilisation force (ISF) in Gaza that includes a late and highly tentative addition on a future Palestinian state, added under pressure from Arab states.\nA rival motion has meanwhile been tabled by Russia and China, setting up the possibility that both motions could be vetoed by one or more of the five permanent members of the security council.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8e5bf90e211afc7c004d5add32e7ba89c6e7f009",
       "title": "Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus",
       "url": "https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/",
@@ -1467,19 +1506,6 @@
       "published": "2025-11-17T13:00:00.000Z",
       "summary_90w": "",
       "raw": "Bone AI, a South Korean startup, is combining AI and manufacturing to build next-gen defense robotics and challenge the region’s industry giants.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "74c99320aeffed9b2fa2c1b7a69742a0c64544d8",
-      "title": "Sakana AI raises $135M Series B at a $2.65B valuation to continue building AI models for Japan",
-      "url": "https://techcrunch.com/2025/11/17/sakana-ai-raises-135m-series-b-at-a-2-65b-valuation-to-continue-building-ai-models-for-japan/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-17T11:52:07.000Z",
-      "summary_90w": "",
-      "raw": "Sakana AI raised about $135M at a $2.65B post-money valuation in one of Japan’s largest fundraises this year.",
       "topics": [
         "Technology"
       ]
