@@ -1,7 +1,150 @@
 {
-  "version": "1763481406001",
-  "generatedAt": "2025-11-18T15:56:46.001Z",
+  "version": "1763482755085",
+  "generatedAt": "2025-11-18T16:19:15.085Z",
   "items": [
+    {
+      "id": "f337ca4f763de8f3a8c90a786a1651c9f5709ea4",
+      "title": "Hank Green’s Focus Friend is Google Play’s app of the year",
+      "url": "https://techcrunch.com/2025/11/18/hank-greens-focus-friend-is-google-plays-app-of-the-year/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-18T16:05:06.000Z",
+      "summary_90w": "",
+      "raw": "In a year that again saw AI assistants and tools climb the app store charts over and over, it's interesting to see a timer that helps you disconnect from your tech winning Google's highest app award.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a745203ab410b841fb478943cb0792f1b1793a24",
+      "title": "Stellan Skarsgård starrer Sentimental Value leads nominations for European film awards",
+      "url": "https://www.theguardian.com/film/2025/nov/18/stellan-skarsgard-sentimental-value-leads-nominations-european-film-awards-joachim-trier-sirat",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-18T16:04:59.000Z",
+      "summary_90w": "",
+      "raw": "Director Joachim Trier’s family drama has five nominations, including best actor for Skarsgård, while Oliver Laxe’s techno thriller Sirāt has four nominations\nNorwegian director Joachim Trier is leading the race for a triumph at the European film awards, with five nominations in key categories for his family drama Sentimental Value.\nThe Cannes Grand Prix winner is nominated for best European film, best screenplay and best director, with further best actor and best actress nominations for Stellan Skarsgård and Renate Reinsve.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d7e8d7205684c0d3111e3c1ca7cbdc7bf71ac6bb",
+      "title": "Donald Trump to host Saudi crown prince Mohammed bin Salman at White House - live updates",
+      "url": "https://www.theguardian.com/world/live/2025/nov/18/donald-trump-mbs-saudi-arabia-meeting-f35-jets-latest",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-18T16:01:39.000Z",
+      "summary_90w": "",
+      "raw": "President set to sell F-35 stealth jets to the kingdom in crown prince’s first US visit since 2018 killing of regime critic Jamal Khashoggi\n\nTrump says US will sell F-35 stealth jets to Saudis as Prince Mohammed visits\n\n\nA senior official in Mohammed bin Salman’s entourage, who is expected to travel with the crown prince on this first trip back to the US in seven years, has previously been accused by US prosecutors of playing a central role in a conspiracy to infiltrate Twitter and identify users who were posting critically about the Saudi regime.\nBader al-Asaker, who has headed Prince Mohammed’s private office since before he became crown prince, has never been formally charged by the US government for his role in the 2014-15 scheme, but was accused in court in 2022 by a US government lawyer as having led the campaign to find a “mole” who would be able to extract sensitive information from the social media company, which is now known as X.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bd7da79ec1034587d423713eea530958b749edff",
+      "title": "Microsoft is turning Windows into an &#8216;agentic OS,&#8217; starting with the taskbar",
+      "url": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-18T16:00:34.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is trying to transform Windows into a “canvas for AI,” with new AI agents integrated into the Windows 11 taskbar. These new taskbar capabilities are designed to make AI agents feel like an assistant in Windows that can go off and control your PC and do tasks for you at the click of a button. It’s part of a broader overhaul of Windows to turn the operating system into an “agentic OS.”\n“This is all about us wanting to make sure that every user can get the superpowers of AI,” says Navjot Virk, corporate vice president of Windows experiences, in an interview with The Verge.\nMicrosoft is integrating a variety of AI agents directly into the Windows 11 taskbar, including its own Microsoft 365 Copilot and third-party options. “This integration isn’t just about adding agents; it’s about making them part of the OS experience,” says Windows chief Pavan Davuluri.\nAgents will be able to do things like research data in the background while you work on something else, or access files and folders on your PC to automate a boring and time-consuming admin task you have to do at work. Once you ask an AI agent to go do some tasks for you, the agent will shift into the taskbar and run in the background. “You can hover on the taskbar icon at any time to see what the agent is doing,” explains Virk.\nThe AI agent integration is part of the new Ask Copilot feature in the taskbar, which combines the existing local file search with Copilot capabilities. “Not only do you get lightning-fast search for files and settings, you can now start a conversation with Microsoft 365 Copilot and also launch AI agents directly from the taskbar,” explains Virk.\nMicrosoft has even added new taskbar capabilities to these agents so you can glance at them to see the status of whatever they’re working on in the background. A floating window will also appear to interact with agents or Microsoft 365 Copilot, instead of a full app. \nIf an agent needs attention or completes a task, it will notify you and update its state on the taskbar. There are badges on the AI agent taskbar icons that show you visually that an agent is progressing with a task: a yellow exclamation point when it needs help, or a green tick for when it has completed something.\nIf you don’t want AI agents on the taskbar, you don’t have to enable this feature. “These experiences are designed to be opt-in, we want customers to have full control over when and how they engage with Copilot and these agents,” says Virk.\nDevelopers will ultimately think up a lot of use cases for these agents, and Microsoft is doing a lot of the platform-level work to make them possible. AI agent capabilities are being embedded into core parts of Windows thanks to Model Context Protocol (MCP). “Essentially what they do is give us a standardized framework that allows these agents to discover tools and discover other agents through a secure managed on-device registry,” says Davuluri. “It also gives us, the Windows team, the ability to provide tools in an agentic framework for these agents to go and consume.”\n\nAI agents will also have their own workspace, separate to your Windows 11 desktop. “It’s a contained policy-controlled auditable execution environment,” says Davuluri. “It gives us a place where the agents can operate with software in an analogous fashion to what people do.” Agent workspace is like a sandbox for AI agents, where each agent operates using its own Windows account. This is all in the name of security, and probably because AI models aren’t always accurate so you’ll want that activity separate to your main Windows session.\nWhile agents in the taskbar is a big new AI addition to Windows 11, it’s not the only way Microsoft is reimagining the operating system into what it calls an “agentic OS.” Microsoft is also bringing Copilot into File Explorer as part of this work. “What we want to do is make it even more convenient to get highly contextual and deeper Copilot help in Windows surfaces that you already use a lot, like the File Explorer,” says Virk. \nCopilot integration in File Explorer lets Windows 11 users summarize a document in one click, answer questions about files, or draft emails based on the content of a document.\nClick to Do is also being improved on Copilot Plus PCs, allowing you to convert any table you see on the web or anywhere else on your PC into an Excel document. You can then freely manipulate the data and add new columns. While Click To Do uses local AI models on a Copilot Plus PC, once that data is in Excel you can modify it using cloud-powered AI models through Copilot and Agent Mode.\nThis hybrid mix of local AI (Copilot Plus PC) and cloud-powered AI (Copilot) seems to be where Microsoft is heading with its Windows AI features. A new writing assistance feature is entering preview that lets you rewrite and compose in any text box in Windows 11, and it even has offline support on Copilot Plus PCs.\nOutlook is also getting AI-generated summaries, and Word is getting automatic alt-text for images in Office documents. Microsoft is also working on a new “fluid dictation” feature for Windows that turns speech into text with correct grammar and punctuation.\nThis hybrid mix of AI is even more apparent in Microsoft’s Windows 365 service. These cloud PCs — that can be accessed through Windows 11, a web browser, or mobile apps — include Copilot Plus features and also have access to the main cloud-powered Copilot features.\nIf you’re not interested in the AI additions to Windows, Microsoft also has some IT-focused additions at its Ignite conference this week. Hardware-accelerated BitLocker is on the way next year, and will require next-generation Windows devices that are built on unannounced chips. “Hardware acceleration of BitLock requires the capability in the silicon platform,” says Davuluri. “As and when those capabilities are available, the OS will be able to unlock them for users.”\nSysmon functionality is also being integrated into Windows in early 2026. It will make security events available in the event log and make it easier for security teams to manage Windows systems. Microsoft is also launching Windows Hello’s visual refresh and new passkey manager integration, which works with Microsoft Password Manager in Edge, 1Password, and Bitwarden.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "59d9193d21d16d0dbf1dd40307ca07f187411c63",
+      "title": "Google Antigravity is an ‘agent-first’ coding tool built for Gemini 3",
+      "url": "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-18T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Antigravity should report on its work plan, and produce evidence of what it’s done along the way.\t\n\nAlongside today’s announcement of Gemini 3 Pro, Google has revealed Antigravity, a development tool that uses Gemini 3 Pro, along with other third-party models. Google says that Antigravity, which supports multiple agents and gives them direct access to the editor, terminal, and browser, is designed for an “agent-first future.”\nOne of the key components of Antigravity is how it reports on its own work. As it completes tasks, it will produce what Google calls Artifacts: task lists, plans, screenshots, and browser recordings that are intended to verify both the work it’s done and what it will do. Antigravity will also report on its actions and external tool use along the way, but Google says that Artifacts are “easier for users to verify” than full lists of a models’ actions and tool calls.\nAntigravity’s other big change is that it offers two main usage views. The default Editor view offers a familiar Integrated Development Environment (IDE) experience, similar to rivals like Cursor and GitHub Copilot, with an agent in a side panel. The new Manager view is instead designed for controlling multiple agents at once, allowing each to work more autonomously. Google compares it to “mission control for spawning, orchestrating, and observing multiple agents across multiple workspaces in parallel.”\nGoogle has introduced more ways to give feedback to AI agents as they work, with the ability to leave comments on specific Artifacts for an agent to take into account without breaking up its work to do so. The company also says that agents in Antigravity will be able to “learn from past work,” retaining specific snippets of code or the steps required to carry out certain tasks.\n\nIn this demo, Antigravity builds a basic flight tracker app, tests it, and reports on that test with a browser recording.\n\nAntigravity is available in a public preview now, compatible with Windows, macOS, and Linux. It’s free to use, with what Google calls “generous rate limits” for Gemini 3 Pro, though it also supports Claude Sonnet 4.5 and OpenAI’s GPT-OSS. Google says rate limits refresh every five hours, and that only “a very small fraction of power users” will ever hit the limits.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ddc290df8bb6cf6873d99b7aaa0458dfba897c76",
+      "title": "Google is launching Gemini 3, its &#8216;most intelligent&#8217; AI model yet",
+      "url": "https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-18T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Google is beginning to launch Gemini 3 today, a new series of models the company says is its “most intelligent” and “factually accurate” AI systems yet. They’re also a chance for Google to leap ahead of OpenAI following the rocky launch of GPT-5, potentially putting the company at the forefront of consumer-focused AI models.\nFor the first time, Google is giving everyone access to its new flagship AI model — Gemini 3 Pro — in the Gemini app on day one. It’s also rolling out Gemini 3 Pro to subscribers inside Search. Tulsee Doshi, Google DeepMind’s senior director and head of product, says the new model will bring the company closer to making information “universally accessible and useful” as its search engine continues to evolve.\n“I think the one really big step in that direction is to step out of the paradigm of just text responses and to give you a much richer, more complete view of what you can actually see.”\nGemini 3 Pro is “natively multimodal,” meaning it can process text, images, and audio all at once, rather than handling them separately. As an example, Google says Gemini 3 Pro could be used to translate photos of recipes and then transform them into a cookbook, or it could create interactive flashcards based on a series of video lectures.\nYou’ll spot some of these improvements across Google’s suite of products, including the Gemini app, where you can build more “full-featured” programs inside the built-in workspace, Canvas. The upgraded AI model will also enable “generative interfaces,” a tool Google is testing in Gemini Labs that allows Gemini 3 Pro to create a visual, magazine-style format with pictures you can browse through, or a dynamic layout with a custom user interface tailored to your prompt.\nGemini 3 Pro in AI Mode — the AI-powered Google Search feature — will similarly present you with visual elements, like images, tables, grids, and simulations based on your query. It’s also capable of performing more searches using an upgraded version of Google’s “query fan-out technique,” which now not only breaks down questions into bits it can search for on your behalf, but is better at understanding intent to help “find new content that it may have previously missed,” according to Google’s announcement.\nGoogle is also not so subtly jabbing at OpenAI, describing Gemini 3 Pro as less prone to the type of empty flattery espoused by ChatGPT. Doshi says you’ll see “noticeable” changes to Gemini 3 Pro’s responses, which Google describes as offering a “smart, concise and direct, trading cliche and flattery for genuine insight — telling you what you need to hear, not just what you want to hear.” The company says it also shows “reduced sycophany,” an issue OpenAI had to address with ChatGPT earlier this year.\nAlong with these improvements, Gemini 3 Pro comes with better reasoning and agentic capabilities, allowing it to complete more complex tasks and “reliably plan ahead over longer horizons,” according to Google. The AI model is powering an experimental Gemini Agent feature that can perform tasks on your behalf inside the Gemini app, such as reviewing and organizing emails, or researching and booking travel.\nGemini 3 Pro now sits at the top of LMArena’s leaderboard, a popular platform used for benchmarking AI models. A Deep Think mode enhances the model’s reasoning capabilities even further, though it’s currently only available to safety testers.\nGemini 3 Pro is available inside the Gemini app for everyone starting today, while Google AI Pro and Ultra subscribers in the US can try out Gemini Agent in the Gemini app, along with Gemini 3 Pro inside AI Mode by selecting “Thinking” from the model dropdown.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "0b4a1dd39039522a9bbeca76dafafe352cf7ede7",
+      "title": "Google launches Gemini 3 with new coding app and record benchmark scores",
+      "url": "https://techcrunch.com/2025/11/18/google-launches-gemini-3-with-new-coding-app-and-record-benchmark-scores/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-18T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Google released Gemini 3, its latest and most advanced foundation model, to be made immediately available through the Gemini app and AI search interface.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b439a8a1a6d316c63210370cf3258acfc0a1e888",
+      "title": "Microsoft Agent 365 lets businesses manage AI agents like they do people",
+      "url": "https://www.theverge.com/news/822035/microsoft-agent-365-businesses-control-security",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-18T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is racing towards building an AI “agent factory” that lets businesses build and manage their own AI agents. While Microsoft was founded on the idea of being a software factory, it’s quickly being transformed into an era where AI agents will increasingly take on more human work. Now, Microsoft is launching Agent 365 as a way for businesses to manage AI agents in the same way they do humans.\n“Agents are already changing how people work, and IDC predicts there will be 1.3 billion agents by 2028,” says Jared Spataro, chief marketing officer of AI at work at Microsoft. “Agent 365 is the control plane for agents, extending the infrastructure you trust to manage your people to agents.”\nAgent 365 will help businesses deploy and organize AI agents securely, to ensure these new AI coworkers don’t do anything unexpected. Agent 365 is effectively a framework that has dashboards to show how AI agents are operating, with telemetry and alerts. It allows businesses to register AI agents with Microsoft Entra registry, limit what they have access to, ensure they can integrate with Microsoft 365 apps, and protect against external and internal security threats.\nIt will also embrace a broader ecosystem of AI agents from companies like Adobe, Nvidia, ServiceNow, Workday, and more. The dashboards inside Agent 365 will let admins see connections between agents, people, and data, as well as monitor how AI agents are behaving in real time.\nMicrosoft is making Agent 365 available through Frontier, the company’s early-access program for AI features. This early rollout is designed for IT admins to test scenarios for adopting and managing AI agents.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1168eafbd7fa6620652baa1c500b7300342f1847",
+      "title": "Microsoft’s Office apps are getting even more free AI features",
+      "url": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-18T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is adding even more AI features to Outlook, Word, Excel, and PowerPoint. While the software maker has been adding plenty of features to its paid Microsoft 365 Copilot over the past year, a range of free additions are coming to its Office apps in early 2026 that don’t require the $30 per month, per the user Microsoft 365 Copilot license.\nMicrosoft first introduced the free version of Copilot Chat into Microsoft 365 apps in September, and it’s now improving how this chatbot works in Outlook. Copilot Chat will soon be able to view content across an entire Outlook inbox, including calendar entries and meetings. This will allow you to use Copilot to triage an inbox or schedule and prepare for meetings, all without a paid Microsoft 365 Copilot license. It goes far beyond the existing integration that’s limited to just individual email threads.\nAgent Mode, which originally launched to paid Microsoft 365 Copilot subscribers in September, is also coming to Word, Excel, and PowerPoint for all Microsoft 365 subscribers. Agent Mode in Excel and Word can generate complex spreadsheets and documents with just a prompt, and you’ll be able to choose between Anthropic and OpenAI reasoning models in Excel.\nAgent Mode in PowerPoint can be used to update existing decks with a business’s branded template, or create new slides, rewrite and format text, and add images.\nMicrosoft says it’s aiming to preview these free AI additions to Microsoft 365 subscribers by March 2026.\nMicrosoft’s move to bring Agent Mode to Microsoft 365 business plans and not charge extra follows a similar change earlier this year when it bundled its AI-powered Copilot features into Office apps for consumer Microsoft 365 plans. Microsoft also bundled its sales, service, and finance Copilots into the main Microsoft 365 Copilot subscription in October.\nMicrosoft is also now planning to launch",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "301fe53186792b9906dbe07003d1122787fe3137",
+      "title": "The Analogue 3D is the perfect console for N64 collectors",
+      "url": "https://www.theverge.com/games/822849/analogue-3d-review-n64",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-18T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "I've developed a sixth sense for old video game cartridges. I can spot them at flea markets and thrift stores, spy them hidden behind stacks in used book stores. It happened after I first bought an Analogue Pocket, when the hunt for new and interesting Game Boy games became as important as actually playing them. Now my attention has turned to the Nintendo 64. Analogue's long-delayed take on the console - dubbed the Analogue 3D - might just be the most premium way there is to play N64 games, making it ideal for collectors.\nAfter playing with the Analogue 3D over the last week, I've found a new appreciation for Nintendo's oft-neglected consol …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "832ee19274d54619eab30bcb1d7d96ff3cdd94e8",
+      "title": "Two Ukrainian men believed to be working with Russia identified as suspects in Polish rail sabotage attacks – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/nov/18/poland-russia-ukraine-rail-sabotage-incidents-zelenskyy-macron-merz-starmer-europe-live-news",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-18T15:53:12.000Z",
+      "summary_90w": "",
+      "raw": "Donald Tusk warns Polish parliament of an ‘escalation’ of Russian intelligence activities ‘across the whole of Europe’\nPoland’s prime minister Donald Tusk has just told lawmakers that the authorities investigating the rail sabotage incidents over the weekend identified two main suspects.\nHe says the suspects are Ukrainian men, who crossed into Poland from Belarus this autumn, and are believed to have been working for Russian intelligence services.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "591436756f565c71927c36f6b1ef7972bd9bd0b4",
       "title": "Two Ukrainians working for Russia behind rail sabotage, Polish PM says",
@@ -55,19 +198,6 @@
       ]
     },
     {
-      "id": "d7e8d7205684c0d3111e3c1ca7cbdc7bf71ac6bb",
-      "title": "Donald Trump to host Saudi crown prince Mohammed bin Salman at White House - live updates",
-      "url": "https://www.theguardian.com/world/live/2025/nov/18/donald-trump-mbs-saudi-arabia-meeting-f35-jets-latest",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-18T15:34:21.000Z",
-      "summary_90w": "",
-      "raw": "President set to sell F-35 stealth jets to the kingdom in crown prince’s first US visit since 2018 killing of regime critic Jamal Khashoggi\n\nTrump says US will sell F-35 stealth jets to Saudis as Prince Mohammed visits\n\n\nPer our earlier post, Donald Trump is set to roll out the red carpet for crown prince Mohammed bin Salman in about an hour, with the Saudi de facto ruler seeking to further rehabilitate his global image after the 2018 killing of US-based journalist Jamal Khashoggi and deepen ties with Washington.\nMaking his first White House visit in more than seven years, the crown prince will be greeted with a lavish display of pomp and ceremony presided over by Trump.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "4b9d11e90374717c19724e15ce08e6997ba7c26e",
       "title": "Cloudflare blames massive internet outage on ‘latent bug’",
       "url": "https://techcrunch.com/2025/11/18/cloudflare-blames-massive-internet-outage-on-latent-bug/",
@@ -78,6 +208,19 @@
       "raw": "An outage at internet infrastructure giant Cloudflare took down several big websites and services, including ChatGPT, Claude, Spotify, and X.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "fb680b02adc9d243b97227c23870671bb952bd19",
+      "title": "Travel warning as snow and ice move in across country",
+      "url": "https://www.bbc.com/news/articles/cm276jn0y11o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-18T15:25:13.000Z",
+      "summary_90w": "",
+      "raw": "A number of snow and ice warning are coming into effect as a deep cold front moves over Scotland.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -104,19 +247,6 @@
       "raw": "Microsoft is announcing a strategic partnership with Anthropic today that will bring the AI startup’s models to Microsoft Foundry for the first time. As part of the deal, Anthropic is also committing to purchasing $30 billion of Azure compute capacity and “to contract additional compute capacity up to one gigawatt.”\nMicrosoft Foundry customers will now be able to access Anthropic’s frontier Claude models including Claude Sonnet 4.5, Claude Opus 4.1, and Claude Haiku 4.5. Despite these models coming to Microsoft’s AI servers, Amazon will still remain Anthropic’s primary cloud provider and training partner.\n\nNvidia and Anthropic are also partnering today as part of this deal, to optimize Anthropic’s models for the best performance on future Nvidia architectures. Anthropic is committing to up to one gigawatt of compute capacity using Nvidia Blackwell and Vera Rubin systems.\nAs part of these partnerships, Nvidia is investing up to $10 billion in Anthropic, with Microsoft also investing $5 billion.\nMicrosoft’s deal with Anthropic comes just weeks after its OpenAI partner completed its for-profit restructuring and struck a new deal with Microsoft. The new deal with OpenAI extends Microsoft’s IP rights to models from OpenAI through 2032 and also includes post-AGI (artificial general intelligence) models. The potential for a declaration of AGI had been a sticking point in Microsoft’s OpenAI deal, but the pair have now agreed the milestone would be verified by an independent expert panel.\nMicrosoft and OpenAI have also relaxed the exclusive parts of their partnership even more, allowing OpenAI to collaborate with third parties and release open weight models. Microsoft also no longer has the right of first refusal to be OpenAI’s compute provider.\nAll of these OpenAI partnership changes have allowed Microsoft to pursue this deal with Anthropic. Microsoft has been increasingly embracing Anthropic’s models across its Copilot services in recent months. In fact, Microsoft has been favoring Anthropic’s Claude 4 over GPT-5 in its new auto AI model selector in Visual Studio Code. Microsoft also brought Anthropic’s Claude Sonnet 4 and Claude Opus 4.1 to Microsoft 365 Copilot users recently.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "832ee19274d54619eab30bcb1d7d96ff3cdd94e8",
-      "title": "Two Ukrainian men believed to be working with Russia identified as suspects in Polish rail sabotage attacks – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/nov/18/poland-russia-ukraine-rail-sabotage-incidents-zelenskyy-macron-merz-starmer-europe-live-news",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-18T15:10:49.000Z",
-      "summary_90w": "",
-      "raw": "Donald Tusk warns Polish parliament of an ‘escalation’ of Russian intelligence activities ‘across the whole of Europe’\nPoland’s prime minister Donald Tusk has just told lawmakers that the authorities investigating the rail sabotage incidents over the weekend identified two main suspects.\nHe says the suspects are Ukrainian men, who crossed into Poland from Belarus this autumn, and are believed to have been working for Russian intelligence services.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -315,19 +445,6 @@
       ]
     },
     {
-      "id": "c7652d6267378df09d52728baf01c3681b85aec7",
-      "title": "Wyze’s budget-friendly smart lock gets a Wi-Fi upgrade without a price increase",
-      "url": "https://www.theverge.com/news/822276/wyze-lock-bolt-v2-wifi-bluetooth-smart-door-lock",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-18T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Wyze Lock Bolt v2 has an improved fingerprint reader and a new glass touchpad. | Image: Wyze\t\n\nWyze has announced a new version of its electronic door lock that features Wi-Fi, allowing it to be controlled remotely from anywhere using a mobile app or voice commands through Amazon Alexa or Google Assistant.\nThe original Wyze Lock Bolt is currently featured in our smart lock buyer’s guide as the “best budget smart(ish) lock,” but with only Bluetooth connectivity, its functionality is limited. With the addition of Wi-Fi, the new Wyze Lock Bolt v2 offers more flexibility and peace of mind as you can ensure it’s locked while away from home or monitor who’s coming and going. It’s priced the same as the original at $79.98, too, and is now available through the company’s online store.\nThe Wyze Lock Bolt v2 carries forward an integrated fingerprint reader, which the company says can identify users and open the door in about half a second, while biometric data is stored locally on the device for added security. The keypad buttons on the original have been replaced with an illuminated touchpad covered in a scratch- and smudge-resistant layer of tempered glass. The lock can store up to 50 unique access codes and create single-use passcodes for guests that expire after a preset amount of time, and you can obscure the codes by tapping a series of extra digits before and after the correct one.\nBattery life maxes out at up to eight months, slightly less than Wyze’s original Lock Bolt, which can operate for up to a year. There’s a USB-C emergency port that can be used to temporarily power the lock and gain entry should the batteries die while you’re away, and Wyze includes the option to use a physical key to unlock it if you don’t have a power bank and USB cable handy.\nThere’s a customizable alarm that will sound if someone attempts to tamper with the Lock Bolt v2 or if there have been too many unsuccessful attempts to unlock it. If you also own a Wyze video doorbell, you can integrate the two devices and unlock your door directly from the doorbell’s livestream.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "d81392fb58449dbcc39a97ce3af34c96243ce194",
       "title": "Zap Energy ramps up the pressure in its latest fusion device",
       "url": "https://techcrunch.com/2025/11/18/zap-energy-ramps-up-the-pressure-in-its-latest-fusion-device/",
@@ -349,19 +466,6 @@
       "published": "2025-11-18T14:00:00.000Z",
       "summary_90w": "",
       "raw": "This is not a large-scale public launch, nor a commercial one. But it brings the Amazon-owned company one step closer to competing with Waymo.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "413301cf172739e965ad62b6fd5a728420650904",
-      "title": "Zoox will let public riders use its robotaxis in San Francisco",
-      "url": "https://www.theverge.com/news/822096/zoox-robotaxi-sf-waitlist-rides",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-18T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Zoox is getting closer to a full launch of its robotaxi service in San Francisco. Last month, the Amazon-owned company started allowing select riders to hail its toaster-shaped, four-passenger vehicles for the first time. And today, Zoox is finally inviting members off its public waitlist, which it calls “Zoox Explorers,” to do the same. \nThe gradual launch of the company’s robotaxi service is notable, because Zoox is one of the few companies to offer rides in a fully driverless, purpose-built autonomous vehicle that lacks a steering wheel, pedals, sideview mirrors, or other controls typically associated with human driven vehicles. And while its service in Las Vegas is limited to just a handful of pickup and dropoff locations, Zoox said its vehicles will offer more dynamic, “point-to-point” travel within its designated service area in San Francisco. \nThe experience sounds like it will be similar to Waymo: customers are able to hail a ride anywhere within Zoox’s service area, which includes most of the SoMa, Mission, and Design District neighborhoods. As a point-to-point service, riders can select their own destination, enter a street address, drop a pin, or select from a list of suggested points of interest. Walking directions to their final destination will be provided if needed. \nZoox has a fleet of “about 50 robotaxis” across both San Francisco and Las Vegas, said spokesperson Marisa Wiggam, who also declined to disclose the number of people on its waitlist. Interested customers can join the waitlist through the company’s app. \nThe rides will be free, as Zoox is only allowed to operate its vehicles for demonstration purposes, according to the National Highway Traffic Safety Administration. Since the vehicles don’t comply with federal safety requirements around traditional controls, Zoox had to obtain an exemption from the government for these demonstration rides. It’s unclear when the company will be allowed to start charging riders for trips.",
       "topics": [
         "Technology"
       ]
@@ -458,32 +562,6 @@
       ]
     },
     {
-      "id": "f59e40464189ce66a4d29612e06c3767684e189b",
-      "title": "Sony is taking $100 off its PS5 consoles for Black Friday",
-      "url": "https://www.theverge.com/news/822851/sony-ps5-playstation-black-friday-deals",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-18T13:30:10.000Z",
-      "summary_90w": "",
-      "raw": "Sony is cutting the price of its PS5 consoles by $100 for Black Friday. Deals include a PS5 Digital Edition 825GB Fortnite bundle for $399.99 and a 1TB PS5 Fortnite bundle for $449.99 — both ship with exclusive Fortnite in-game content and 1,000 V-Bucks.\nWhile the Fortnite bundles shave $100 off the regular price of the PS5 and PS5 Digital Edition, Sony is also taking $100 off other PS5 console options, including the PS5 Pro. These deals will be available “in select regions” from Sony’s PlayStation direct store.\nSony also has deals on PS5 accessories and controllers for Black Friday. The PlayStation VR2 will get a temporary price cut by $100, and there are $20 or $30 discounts on headsets, earbuds, and controllers. If you sign up to PlayStation Plus during Sony’s Black Fridays promotions you’ll also get 33 percent off a 12-month subscription.\nHundreds of PS4 and PS5 games will also be discounted during the Black Friday period, with savings of up to 75 percent on some titles.\nSony’s temporary PS5 price cuts come just months after price increases. All PS5 models were bumped by $50 in August, after price hikes also hit PS5 consoles in the UK, Europe, Australia, and New Zealand earlier this year.\nSony’s PlayStation Black Friday deals start on November 21st, with the console cuts available for an unspecified “limited time.” The promotions on PlayStation accessories also begin on November 21st, and finish on December 18th.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "163a0742be25e41715e9332a0377682e9a503456",
-      "title": "A massive Cloudflare outage brought down X, ChatGPT, and even Downdetector",
-      "url": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-18T13:29:21.000Z",
-      "summary_90w": "",
-      "raw": "Cloudflare, a networking company that provides DDoS protection and internet content delivery services for many companies around the globe, is recovering after a major outage that took down sites across the web. Users weren’t able to access X, ChatGPT, and even the outage-tracking site DownDetector on Tuesday morning, with some sites displaying an error message that said, “Please unblock challenges.cloudflare.com to proceed.” \nCloudflare posted an update to its status page at 9:42AM ET, saying: “A fix has been implemented and we believe the incident is now resolved. We are continuing to monitor for errors to ensure all services are back to normal.”\nIn a statement to The Verge, Cloudflare spokesperson Jackie Dutton says the company noticed a “spike in unusual traffic” to one of its services starting at 6:20AM ET, causing “some traffic passing through Cloudflare’s network to experience errors.” Dutton adds, “We do not yet know the cause of the spike in unusual traffic. We are all hands on deck to make sure all traffic is served without errors.” The company is also planning to investigate the cause of the unusual spike in traffic.\nOther online services, including Indeed, Grindr, Uber, Canva, Spotify, NJ Transit, League of Legends, and Archive of Our Own, experienced issues during the outage, while digital outlets like Axios, The Information, and Politico also went down.\nThe Cloudflare outage comes less than a month after a huge Amazon Web Services crash took down Fortnite, Alexa, Snapchat, and other services, which was followed by issues at Microsoft Azure that brought Xbox offline for hours.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "cef7ae29b0138f4417c3b4e249d0060772bcf9f9",
       "title": "Eleven countries added to methanol poisoning warning list",
       "url": "https://www.bbc.com/news/articles/c14p3gd4p7po?at_medium=RSS&at_campaign=rss",
@@ -505,32 +583,6 @@
       "published": "2025-11-18T13:00:00.000Z",
       "summary_90w": "",
       "raw": "Intuit said its tools, such as TurboTax, Credit Karma, QuickBooks and Mailchimp, will be accessible through ChatGPT, allowing users to ask questions and complete tasks such as estimating tax refunds, reviewing credit options, or managing business finances.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "5cb187a9f71222b2f1520c8b28fcb4a21a52edbf",
-      "title": "Steam Machine and Steam Frame: your questions answered",
-      "url": "https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-18T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Valve is making a game console that might take on Sony and Microsoft. It's also making a gaming headset to compete with Meta. These are big, ambitious, and messy efforts, and we have lots of questions. So do you! \nWe've gotten a lot of questions about Valve's huge 2026 hardware push and entry into the console wars, and we're compiling the answers we've got so far. Some of them are direct answers to your subscriber questions in our AMA; thank you for paying our salaries!\nSo, let's start with…\nWhat is a Steam Machine?\nThe Steam Machine is a specific living room gaming PC coming out in early 2026. It's not your typical Windows PC. The 6-inc …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "96655bba42ef0061dff52919eddae31052f662d0",
-      "title": "Talking to Windows&#8217; Copilot AI makes a computer feel incompetent",
-      "url": "https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-18T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "It's not hard to understand the AI future Microsoft is betting billions on - a world where computers understand what you're saying and do things for you. It's right there in the ads for the latest Copilot PCs, where people cheerfully talk to their laptops and they talk back, answering questions in natural language and even doing things for them. The tagline is straightforward: \"The computer you can talk to.\" \n\"You should be able to talk to your PC, have it understand you, and then be able to have magic happen from that,\" Microsoft's Yusuf Mehdi told us in October. \"The PC should be able to act on your behalf.\" \nAnd that has nothing on Micr …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -578,7 +630,7 @@
       "id": "10a31ca0c9c5475abd1f2338c55dc4b9ad70aa38",
       "title": "At least 94 Palestinians died in Israeli prisons in two years, human rights group says",
       "url": "https://www.bbc.com/news/articles/crreg2l7kezo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-18T12:45:31.000Z",
       "summary_90w": "",
@@ -1251,19 +1303,6 @@
       ]
     },
     {
-      "id": "c6438bdfc0158ba2d9beada74530257fbfcea54c",
-      "title": "Families of IRA victims in England told new Troubles bill could revive path to justice",
-      "url": "https://www.theguardian.com/uk-news/2025/nov/17/families-ira-victims-troubles-bill-justice",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-17T22:30:16.000Z",
-      "summary_90w": "",
-      "raw": "Security minister Dan Jarvis says scrapping immunity scheme would give relatives a renewed chance for answers\nThe families of more than 70 people killed by the IRA and other paramilitaries in unsolved attacks on English soil can once again hope for justice under the new Northern Ireland Troubles bill, the UK government has claimed.\nAs MPs in the House of Commons prepared to debate the bill for the first time on Tuesday, the Home Office said there remained 77 unsolved killings, including 39 British armed forces personnel in English towns and cities, from the time of the Troubles. It said more than 1,000 people were injured in the attacks.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "dfe88824d5f4b0b2ded719ddb9a2dd3316efe9fa",
       "title": "US judge says government 'missteps' may have tainted Comey case",
       "url": "https://www.bbc.com/news/articles/cj0el0vg8mno?at_medium=RSS&at_campaign=rss",
@@ -1329,19 +1368,6 @@
       ]
     },
     {
-      "id": "d092aa7d6a35bfc7d57360b40ead6256d23849b7",
-      "title": "Ford turns to Amazon to give used cars sales a boost",
-      "url": "https://techcrunch.com/2025/11/17/ford-turns-to-amazon-to-give-used-cars-sales-a-boost/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-17T20:37:42.000Z",
-      "summary_90w": "",
-      "raw": "Amazon Autos, which kicked off last year with Hyundai, initially started with new cars. The deal with Ford pushes it into used car territory.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "28333feb99466c6083b3aa72afa5145b9a375cd9",
       "title": "Ukraine to get up to 100 French-made Rafale fighter jets",
       "url": "https://www.bbc.com/news/articles/cwy170jkekdo?at_medium=RSS&at_campaign=rss",
@@ -1352,19 +1378,6 @@
       "raw": "President Volodymyr Zelensky hails a \"historic\" deal aimed at boosting Ukraine's defences against deadly Russian air attacks.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "0f15a8196f76b236b099b51ebc207934f527f99d",
-      "title": "Ramp hits $32B valuation, just 3 months after hitting $22.5B ",
-      "url": "https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-17T19:31:47.000Z",
-      "summary_90w": "",
-      "raw": "In 2025 alone, Ramp has leapt from being worth $13 billion to $32 billion with new rounds every few months.",
-      "topics": [
-        "Technology"
       ]
     },
     {
