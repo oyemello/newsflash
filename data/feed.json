@@ -1,16 +1,55 @@
 {
-  "version": "1763638270741",
-  "generatedAt": "2025-11-20T11:31:10.741Z",
+  "version": "1763638809466",
+  "generatedAt": "2025-11-20T11:40:09.466Z",
   "items": [
+    {
+      "id": "97550586fb5e46854f1f626acfcd7c5c1f79fea1",
+      "title": "Why an AI 'godfather' is leaving Meta after 12 years",
+      "url": "https://www.bbc.com/news/articles/cdx4x47w8p1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-11-20T11:35:57.000Z",
+      "summary_90w": "",
+      "raw": "One of the pioneers in the current AI boom has had disagreements with fellow engineers over the future of AI.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "c198c738f2aa69f5591625294d6ade5f78602c1a",
       "title": "Rapist ex-Met officer David Carrick given another life sentence for further sex offences",
       "url": "https://www.bbc.com/news/articles/cy0y075nyw8o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-11-20T11:20:57.000Z",
+      "published": "2025-11-20T11:30:25.000Z",
       "summary_90w": "",
       "raw": "David Carrick had already been serving 36 life sentences with a minimum of 32 years.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "acfae32c53fb666fb496183238124291b6331c32",
+      "title": "Ukraine’s PM hosts US army secretary after American and Russian officials draft plan to end war – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/nov/20/ukraine-russia-peace-plan-european-union-donald-trump-vladimir-putin-kaja-kallas-europe-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-20T11:24:37.000Z",
+      "summary_90w": "",
+      "raw": "The draft plan, reportedly developed by Trump envoy Steve Witkoff and Kremlin adviser Kirill Dmitriev, would force draconian measures on Ukraine\nIn the last hour, Ukraine said it had received from Russia the remains of 1,000 people that Moscow said were killed Ukrainian soldiers, in the latest repatriation – a rare area of cooperation between the warring sides, AFP reported.\n“Today, repatriation measures took place. 1000 bodies, claimed by the Russian side to belong to Ukrainian servicemen, were returned to Ukraine,” Kyiv’s Coordination Headquarters for the Treatment of Prisoners of War said on social media.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ce285c1a3d8caeeeae856e54d55614aad98c54db",
+      "title": "‘We can no longer predict the seasons’: why Indonesia’s coal mindset has to change",
+      "url": "https://www.theguardian.com/environment/2025/nov/20/indonesia-coal-mindset-climate-crisis-cop30",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-20T11:21:23.000Z",
+      "summary_90w": "",
+      "raw": "It’s a climate-vulnerable nation, while also being the world’s sixth-largest greenhouse-gas emitter. Global investment in climate action is vital\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -26,19 +65,6 @@
       "raw": "Last year Qualcomm promised that games would “just work” on its Snapdragon X Elite laptops, but in my testing I found that was far from the case. Now, a year on, Windows on Arm is a lot more ready for gaming, thanks to emulator improvements, driver updates, a new Snapdragon Control Panel, and Qualcomm’s work on anti-cheat compatibility.\nQualcomm is releasing its Snapdragon Control Panel this week, which automatically detects games you’ve installed on a Snapdragon X Elite laptop and then optimizes them. It’s very similar to the apps that AMD and Nvidia use for their own GPUs, with settings for frame rate caps, anti-aliasing, texture filtering, and much more.\nThe Snapdragon Control Panel also allows you to install the latest Adreno GPU drivers, which are optimized for the latest games to improve stability and performance. Qualcomm says it has made fixes and improvements for more than 100 games since launch last year, with continued bug fixes for stability and performance.\nAlongside the Snapdragon Control Panel release, both Microsoft and Qualcomm have also made some significant changes to help PC gaming on Windows on Arm. Microsoft’s Prism emulator now supports x86 Advanced Vector Extensions (AVX), which are required by many games and creative apps. Qualcomm’s latest Snapdragon X2 Elite chips also support AVX2 emulation, and existing Snapdragon X series devices “will also receive the update in coming weeks.”\nMicrosoft has also updated its Xbox app on Windows on Arm recently to add the ability to download ARM64 compatible games. When Copilot Plus PCs launched last year, the Xbox app was simply a portal to Xbox Cloud Gaming. It didn’t have library or store options, so you couldn’t use it to install games from PC Game Pass. That’s all changed now.\nQualcomm has also been working with Epic Games to get Fortnite running on Windows on Arm, with full kernel-level anti-cheat support. You’ll need the latest Adreno GPU driver to get Fortnite running, and Qualcomm says it’s also working with other anti-cheat providers like Tencent’s Anti-Cheat Expert, Roblox’s Hyperion, Denuvo, InProtect GameGuard, Uncheater, and BattleEye to enable more multiplayer games on Windows on Arm.\nFortnite’s arrival on Windows on Arm comes just as the game debuts on the Xbox PC store. It’s the first time Epic Games has released Fortnite on another PC store or launcher, and it’s part of a deal to bring Fortnite Crew to Xbox Game Pass Ultimate subscribers.\nAll of these improvements are a much better start for gaming on Windows on Arm than the launch last year, but performance and compatibility is still far from perfect. You can check to see if your favorite game runs natively, via emulation, or not at all right here.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "acfae32c53fb666fb496183238124291b6331c32",
-      "title": "Ukraine’s PM hosts US army secretary after American and Russian officials draft plan to end war – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/nov/20/ukraine-russia-peace-plan-european-union-donald-trump-vladimir-putin-kaja-kallas-europe-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-20T11:07:21.000Z",
-      "summary_90w": "",
-      "raw": "The draft plan, reportedly developed by Trump envoy Steve Witkoff and Kremlin adviser Kirill Dmitriev, would force draconian measures on Ukraine\nIn the last hour, Ukraine said it had received from Russia the remains of 1,000 people that Moscow said were killed Ukrainian soldiers, in the latest repatriation – a rare area of cooperation between the warring sides, AFP reported.\n“Today, repatriation measures took place. 1000 bodies, claimed by the Russian side to belong to Ukrainian servicemen, were returned to Ukraine,” Kyiv’s Coordination Headquarters for the Treatment of Prisoners of War said on social media.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -81,14 +107,14 @@
       ]
     },
     {
-      "id": "ce285c1a3d8caeeeae856e54d55614aad98c54db",
-      "title": "‘We can no longer predict the seasons’: Why Indonesia’s coal mindset has to change",
-      "url": "https://www.theguardian.com/environment/2025/nov/20/indonesia-coal-mindset-climate-crisis-cop30",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-20T10:43:22.000Z",
+      "id": "0ed2430f429078cc1cd6300f8059c1e8f4cbc41d",
+      "title": "Proposal for flexible four-day working week for Scottish teachers",
+      "url": "https://www.bbc.com/news/articles/cn8v855v95jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-20T10:46:49.000Z",
       "summary_90w": "",
-      "raw": "It’s a climate-vulnerable nation, while also being the world’s sixth-largest greenhouse-gas emitter. Global investment in climate action is vital\n Continue reading...",
+      "raw": "Two teaching unions are holding strike ballots over how long teachers should spend in the classroom.",
       "topics": [
         "World"
       ]
@@ -224,19 +250,6 @@
       ]
     },
     {
-      "id": "6917ad05b91b9db06ad565f9cbcd5d5b71881afe",
-      "title": "Deaves given Wales debut as All Blacks make 12 changes",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cew4w52kp0xo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-20T09:05:48.000Z",
-      "summary_90w": "",
-      "raw": "Uncapped Ospreys flanker Harri Deaves will make his first Wales start against New Zealand on Saturday.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "250b583ea109afdcd90760f94e13c8047c79c98d",
       "title": "Coalition to help Labor rush through new nature laws if environmental protections dropped",
       "url": "https://www.theguardian.com/australia-news/2025/nov/20/coalition-to-help-labor-rush-through-new-nature-laws-if-environmental-protections-dropped",
@@ -245,19 +258,6 @@
       "published": "2025-11-20T09:00:02.000Z",
       "summary_90w": "",
       "raw": "Sussan Ley’s offer allows a clear path to pass laws to rewrite Environmental Protection and Biodiversity Conservation Act in final sitting week\n\nGet our breaking news email, free app or daily news podcast\n\nThe Coalition has offered to help Labor rush through new nature laws if it agrees to gut environment protection, challenging Labor to side with business interests over green groups to implement the long-awaited changes.\nEnvironmental lawyers are urging the government against further weakening already flawed laws at the “behest of industry”.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "11fcec2968a77df4dbd7366f52d879ec3d1b834a",
-      "title": "Are you not being entertained? The decline of the open-play goal",
-      "url": "https://www.bbc.com/sport/football/articles/cm272n4d3e2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-20T08:49:55.000Z",
-      "summary_90w": "",
-      "raw": "Open-play goals have been on the decline this season and BBC Sport takes a closer look at the trend.",
       "topics": [
         "World"
       ]
@@ -356,6 +356,19 @@
     {
       "id": "3ed26c03e43769118df879f463ddeec5158e6a1c",
       "title": "How Norris and Piastri's strengths stack up in F1 title fight",
+      "url": "https://www.bbc.com/sport/formula1/articles/cwy1ygzdx03o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-20T07:28:43.000Z",
+      "summary_90w": "",
+      "raw": "Damon Hill, 1996 F1 World Champion, looks at who is best placed going into the final three races of the season, with a battle between McLaren team-mates.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3ed26c03e43769118df879f463ddeec5158e6a1c",
+      "title": "Lando Norris or Oscar Piastri - who will win F1 title?",
       "url": "https://www.bbc.com/sport/formula1/articles/cwy1ygzdx03o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -2143,19 +2156,6 @@
       "published": "2025-11-12T00:10:41.000Z",
       "summary_90w": "",
       "raw": "A new law will allow authorised testers to assess AI models for their ability to generate abuse material",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "cd06ad024511a2271ebc04c466d94300ec29b9b6",
-      "title": "Man dances for 144 hours to break video game marathon record",
-      "url": "https://www.bbc.com/news/articles/cy8vwjp4jxyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-11-11T17:19:37.000Z",
-      "summary_90w": "",
-      "raw": "Szabolcs Csépe played Dance Dance Revolution for six days to secure his place in the record books.",
       "topics": [
         "Technology"
       ]
