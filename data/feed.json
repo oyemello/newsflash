@@ -1,16 +1,42 @@
 {
-  "version": "1763637271390",
-  "generatedAt": "2025-11-20T11:14:31.390Z",
+  "version": "1763638270741",
+  "generatedAt": "2025-11-20T11:31:10.741Z",
   "items": [
     {
       "id": "c198c738f2aa69f5591625294d6ade5f78602c1a",
-      "title": "Rapist ex-Met officer given extra life sentence",
+      "title": "Rapist ex-Met officer David Carrick given another life sentence for further sex offences",
       "url": "https://www.bbc.com/news/articles/cy0y075nyw8o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-11-20T11:07:10.000Z",
+      "published": "2025-11-20T11:20:57.000Z",
       "summary_90w": "",
       "raw": "David Carrick had already been serving 36 life sentences with a minimum of 32 years.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "61f3b899de5749f16f52fa5f8317cf0684d7ce3c",
+      "title": "Windows on Arm is now ready for gaming thanks to some big changes",
+      "url": "https://www.theverge.com/news/824783/windows-on-arm-snapdragon-control-panel-gaming-driver-compatibility-improvements",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-20T11:12:26.000Z",
+      "summary_90w": "",
+      "raw": "Last year Qualcomm promised that games would “just work” on its Snapdragon X Elite laptops, but in my testing I found that was far from the case. Now, a year on, Windows on Arm is a lot more ready for gaming, thanks to emulator improvements, driver updates, a new Snapdragon Control Panel, and Qualcomm’s work on anti-cheat compatibility.\nQualcomm is releasing its Snapdragon Control Panel this week, which automatically detects games you’ve installed on a Snapdragon X Elite laptop and then optimizes them. It’s very similar to the apps that AMD and Nvidia use for their own GPUs, with settings for frame rate caps, anti-aliasing, texture filtering, and much more.\nThe Snapdragon Control Panel also allows you to install the latest Adreno GPU drivers, which are optimized for the latest games to improve stability and performance. Qualcomm says it has made fixes and improvements for more than 100 games since launch last year, with continued bug fixes for stability and performance.\nAlongside the Snapdragon Control Panel release, both Microsoft and Qualcomm have also made some significant changes to help PC gaming on Windows on Arm. Microsoft’s Prism emulator now supports x86 Advanced Vector Extensions (AVX), which are required by many games and creative apps. Qualcomm’s latest Snapdragon X2 Elite chips also support AVX2 emulation, and existing Snapdragon X series devices “will also receive the update in coming weeks.”\nMicrosoft has also updated its Xbox app on Windows on Arm recently to add the ability to download ARM64 compatible games. When Copilot Plus PCs launched last year, the Xbox app was simply a portal to Xbox Cloud Gaming. It didn’t have library or store options, so you couldn’t use it to install games from PC Game Pass. That’s all changed now.\nQualcomm has also been working with Epic Games to get Fortnite running on Windows on Arm, with full kernel-level anti-cheat support. You’ll need the latest Adreno GPU driver to get Fortnite running, and Qualcomm says it’s also working with other anti-cheat providers like Tencent’s Anti-Cheat Expert, Roblox’s Hyperion, Denuvo, InProtect GameGuard, Uncheater, and BattleEye to enable more multiplayer games on Windows on Arm.\nFortnite’s arrival on Windows on Arm comes just as the game debuts on the Xbox PC store. It’s the first time Epic Games has released Fortnite on another PC store or launcher, and it’s part of a deal to bring Fortnite Crew to Xbox Game Pass Ultimate subscribers.\nAll of these improvements are a much better start for gaming on Windows on Arm than the launch last year, but performance and compatibility is still far from perfect. You can check to see if your favorite game runs natively, via emulation, or not at all right here.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "acfae32c53fb666fb496183238124291b6331c32",
+      "title": "Ukraine’s PM hosts US army secretary after American and Russian officials draft plan to end war – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/nov/20/ukraine-russia-peace-plan-european-union-donald-trump-vladimir-putin-kaja-kallas-europe-live-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-20T11:07:21.000Z",
+      "summary_90w": "",
+      "raw": "The draft plan, reportedly developed by Trump envoy Steve Witkoff and Kremlin adviser Kirill Dmitriev, would force draconian measures on Ukraine\nIn the last hour, Ukraine said it had received from Russia the remains of 1,000 people that Moscow said were killed Ukrainian soldiers, in the latest repatriation – a rare area of cooperation between the warring sides, AFP reported.\n“Today, repatriation measures took place. 1000 bodies, claimed by the Russian side to belong to Ukrainian servicemen, were returned to Ukraine,” Kyiv’s Coordination Headquarters for the Treatment of Prisoners of War said on social media.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -81,19 +107,6 @@
       ]
     },
     {
-      "id": "acfae32c53fb666fb496183238124291b6331c32",
-      "title": "Ukraine’s PM hosts US army secretary after American and Russian officials draft plan to end war – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/nov/20/ukraine-russia-peace-plan-european-union-donald-trump-vladimir-putin-kaja-kallas-europe-live-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-20T10:18:50.000Z",
-      "summary_90w": "",
-      "raw": "The draft plan, reportedly developed by Trump envoy Steve Witkoff and Kremlin adviser Kirill Dmitriev, would force draconian measures on Ukraine\nUkrainian prime minister Yulia Svyrydenko has met with US army secretary Daniel P. Driscoll, saying the pair had a chance “to assess the situation on the ground and to witness first-hand the consequences of Russian aggression.”\n“While Russia continues killing innocent civilians, destroying homes, and targeting critical infrastructure, the strategy of pressure on Russia is proving effective. It is crucial to further strengthen energy and financial sanctions against the aggressor state,” she said.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7952b8bca27c4073e1eec1e60f27b42beda429ba",
       "title": "Eating just a handful of plastic can be fatal for marine animals, a study finds",
       "url": "https://www.npr.org/2025/11/20/nx-s1-5611148/plastic-pollution-ocean-animals-seabirds-turtles-research",
@@ -114,7 +127,20 @@
       "source_name": "BBC News",
       "published": "2025-11-20T10:12:36.000Z",
       "summary_90w": "",
-      "raw": "Ari Gisell instigated the carjacking that killed three surfers in Mexico last April, a court has heard.",
+      "raw": "Ari Gisell told her boyfriend she liked the tyres on their car, instigating the carjacking that killed three surfers in Mexico last year.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f8541340e3ccd95fa27370c4e89bfc0f4b89a72a",
+      "title": "Woman jailed for 20 years over murder of Australian surfer brothers in Mexico",
+      "url": "https://www.bbc.com/news/articles/c8jrjr4wrr2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-20T10:12:36.000Z",
+      "summary_90w": "",
+      "raw": "Ari Gisell told her boyfriend she liked the tyres on their car, instigating the carjacking that killed three surfers in Mexico last year.",
       "topics": [
         "World"
       ]
@@ -329,7 +355,7 @@
     },
     {
       "id": "3ed26c03e43769118df879f463ddeec5158e6a1c",
-      "title": "'Mental somersaulting' and 'sheer speed' - rating F1's title rivals",
+      "title": "How Norris and Piastri's strengths stack up in F1 title fight",
       "url": "https://www.bbc.com/sport/formula1/articles/cwy1ygzdx03o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -1147,19 +1173,6 @@
       ]
     },
     {
-      "id": "7ec2ed537b27e5b3d9153a687b37e66c2ba226a7",
-      "title": "Russian spy ship pointed lasers at RAF pilots tracking it, says defence secretary",
-      "url": "https://www.bbc.com/news/articles/cx24028k7edo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-19T19:07:00.000Z",
-      "summary_90w": "",
-      "raw": "John Healey says he has updated the Navy's rules for tracking the vessel after the \"dangerous\" move.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1c87f895c628a7d9727eb21d4a084cca68e4d1d5",
       "title": "Dozens go on trial over North Macedonia nightclub fire that killed 63",
       "url": "https://www.bbc.com/news/articles/cp3x3909rqvo?at_medium=RSS&at_campaign=rss",
@@ -1326,19 +1339,6 @@
       "raw": "Exclusive: André Corrêa do Lago says rise of clean energy must be acknowledged and rich countries need to do more\n\nCop30: click here for full Guardian coverage of climate talks in Brazil\n\nOil-producing countries need to acknowledge the rise of clean energy, and rich countries will have to provide more assurances on finance if the chasm between negotiating nations at Cop30 is to be bridged, the president of the summit has said.\nAndré Corrêa do Lago, the veteran Brazilian climate diplomat in charge of the talks, said: “Developing countries are looking at developed countries as countries that could be much more generous in supporting them to be more sustainable. They could offer more finance, and technology.”\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "949cb65d5cbda2dc6de9059fe39f44c789f3c479",
-      "title": "The Verge’s 2025 holiday gift guide for tinkerers",
-      "url": "https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-19T16:17:53.000Z",
-      "summary_90w": "",
-      "raw": "As AI tools continue to rise in popularity, it's easy to forget the satisfaction of using something that doesn't need an update or a prompt to help you get things done. I'm talking about tools. They're simple and rugged, and they don't make things needlessly complicated. And now that the holidays are approaching, these tools can help you tackle projects you didn't finish over the summer (or, let's be real, two summers ago).\nIf you're shopping for someone who would rather read a repair manual than scroll through a social media feed, you're in the right place. We've rounded up options ranging from a long-lasting cast-iron skillet to a versati …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
