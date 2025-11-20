@@ -1,16 +1,146 @@
 {
-  "version": "1763650366330",
-  "generatedAt": "2025-11-20T14:52:46.330Z",
+  "version": "1763651778633",
+  "generatedAt": "2025-11-20T15:16:18.633Z",
   "items": [
+    {
+      "id": "179f4e07da389cdbe2deae45cc8460606d6b6e6d",
+      "title": "AirPods&#8217; best features come to Android and Linux with free app",
+      "url": "https://www.theverge.com/news/824953/librepods-apple-airpods-wireless-headphones-android-linux",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-20T15:08:34.000Z",
+      "summary_90w": "",
+      "raw": "You no longer need an iPhone to get the most out of AirPods. Apple’s AirPods provide a basic listening experience when paired to non-Apple devices, but the free LibrePods app, developed by Kavish Devar, unlocks features like ear detection, head gestures, and customizations on Android and Linux devices, as spotted by Android Authority.\nLibrePods was created by reverse engineering the AirPods’ proprietary protocols, and it works by making the wireless headphones think they’re connected to an Apple device so they share device status info that’s typically only made accessible to Apple’s various operating systems. Other features LibrePods unlock includes conversational awareness that will lower the volume while you’re speaking, switching between noise control modes, accurate battery level info, customizations like accessibility settings and renaming your headphones, hearing aid mode, and multi-device connectivity.\nDevar says LibrePods should work with all AirPods models and while you’ll get full functionality when using it with the AirPods Max and the most recent versions of the AirPods Pro, the AirPods Pro 3’s heart rate monitoring isn’t supported.\nHowever, getting LibrePods up and running on your Android phone isn’t as easy as just installing the app. Devar says that “due to a bug in the Android Bluetooth stack” LibrePods will currently only work on rooted Android phones that have the Xposed framework installed. If you have a OnePlus or Oppo device running ColorOS or OxygenOS 16 you can install and use LibrePods without rooting, but you won’t have access to some features like customizing the transparency mode until you do.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f5ab514279697a6b28b9914065b0929eb07c0c72",
+      "title": "ChatGPT Atlas adds Arc-like vertical tabs",
+      "url": "https://www.theverge.com/news/825036/openai-chatgpt-atlas-arc-vertical-tabs-update",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-20T15:04:02.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI is updating ChatGPT Atlas with vertical tabs that make it look a bit like the Arc browser. Now, instead of opening a new tab at the top of the AI-powered browser, you can change your tab style to access them within a left-hand sidebar.\nSimilar to Arc, you can resize the sidebar on ChatGPT Atlas, as well as reorder your tabs. The new sidebar still isn’t as full-featured as Arc’s, however, and the address bar remains at the top of your screen. You can try out vertical tabs on ChatGPT Atlas by right-clicking inside the address bar, hovering over “Tab Style,” and then choosing “Vertical Tabs.”\n\n\nNew ChatGPT Atlas release out! Just hit \"update\" in the top right. https://t.co/mJ6IJW0YKu\n– extensions import\n– icloud passkeys\n– new downloads ui\n– setting to use control + tab to cycle to most recently used tab\n– select multiple tabs at once (shift + click)\n– ability to set… pic.twitter.com/jWoNPHcx7V\n— Adam Fry (@adamhfry) November 19, 2025\n\n\nAlong with this change, you can now set Google as your default search engine, which makes sense since using the browser sometimes feels like Googling with extra steps. Otherwise, ChatGPT Atlas will present you with around 10 relevant sources it found across the web, with a link to Google Search results in the top-right corner of the screen.\nSome other updates include the ability to select and drag multiple tabs by holding down Command or Shift and clicking. You can also import your extensions from your existing browser when downloading Atlas, though this feature isn’t yet available for existing users. There’s an improved downloads interface as well, in addition to support for iCloud keychain passkeys.\nChatGPT Atlas launched on macOS last month, becoming the newest addition to AI-enabled browsing experiences alongside Perplexity’s Comet and Google’s Gemini extension in Chrome. With ChatGPT Atlas, you can either enter a URL or type in a question that will be answered by ChatGPT. You can view the full list of changes on OpenAI’s website.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "fb6f2dc58c6a07152dd45541dd9250a6dd5467fc",
+      "title": "Another fire breaks out at aluminum plant that supplies Ford",
+      "url": "https://techcrunch.com/2025/11/20/another-fire-breaks-out-at-aluminum-plant-that-supplies-ford/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-20T15:01:33.000Z",
+      "summary_90w": "",
+      "raw": "It's the second major fire -- and the third overall -- in the last few months at the Novelis plant in Oswego, NY.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "22bbe754091dc0f81024df1ae432f6881c102616",
       "title": "Nigerian separatist leader convicted on terrorism charges",
       "url": "https://www.bbc.com/news/articles/cj3z38e6v45o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2025-11-20T14:45:41.000Z",
+      "published": "2025-11-20T15:00:37.000Z",
       "summary_90w": "",
       "raw": "Nnamdi Kanu is found guilty of inciting violence as part of his campaign for a separate state in south-east Nigeria.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4d149da3bfeb1cdb580823913fae121eb0661541",
+      "title": "As its voice dectation app takes off, Wispr secures $25M from Notable Capital",
+      "url": "https://techcrunch.com/2025/11/20/as-its-voice-dectation-app-takes-off-wispr-secures-25m-from-notable-capital/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-20T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Voice AI company Wispr is raising $25 million in funding merely months after its $30 million Series A.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "5ce6f01f54c81c7367aff788d1ecd9300472cbb4",
+      "title": "Google Gemini is getting better at identifying AI fakes",
+      "url": "https://www.theverge.com/news/824786/google-gemini-synthid-ai-image-detection",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-20T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Google is making it easier for Gemini users to detect at least some AI-generated content. From today, you’ll be able to use the Gemini app to determine if an image was either created or edited by a Google AI tool, simply by asking Gemini “Is this AI-generated?”\nWhile the initial launch is limited to images, Google says verification of video and audio will come “soon,” and it also intends to expand the functionality beyond the Gemini app, including into Search.\nThe more important expansion will come further down the line, when Google extends verification to support industry-wide C2PA content credentials. The initial image verification is based only on SynthID, Google’s own invisible AI watermarking, but an expansion to C2PA would make it possible to detect the source of content generated by a wider variety of AI tools and creative software, including OpenAI’s Sora. \nGoogle also announced that images generated by its Nano Banana Pro model, also revealed today, will have C2PA metadata embedded. It’s the second bit of good news for C2PA this week, after TikTok confirmed it would use C2PA metadata as part of its own invisible watermarking for AI-generated content.\nManual content verification in Gemini is a useful step, but C2PA credentials, and other watermarks like SynthID won’t be truly useful until social media platforms get better at flagging AI-generated content automatically, rather than putting the onus on users to confirm for themselves.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "afd3f78912ca66cea1008da176abd0a0dbce97cd",
+      "title": "Google releases Nano Banana Pro, its latest image generation model",
+      "url": "https://techcrunch.com/2025/11/20/google-releases-nano-banana-pro-its-latest-image-generation-model/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-20T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Google is upgrading its image generation model with new editing chops, higher resolutions, more accurate text rendering, and the ability to search the web.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "758a37d3ae44f71cecf1ba9eca5fe37cbc0ae6de",
+      "title": "Google&#8217;s Nano Banana AI image model goes Pro and is free to try",
+      "url": "https://www.theverge.com/news/824785/google-nano-banana-pro-try-free-examples-prices",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-20T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Nano Banana Pro can blend up to 14 images into a single output. | Image: Google\t\n\nGoogle just took the wraps off Nano Banana Pro (Gemini 3 Pro Image), its improved image generation and editing model built on Gemini 3 Pro that promises to “turn your visions into studio-quality designs with unprecedented control, flawless text rendering, and enhanced world knowledge.” That’s a step up from those hyperrealistic 3D figurines that caused the original image model to go viral in September, shortly after its launch. \nBest of all, it’s free to try globally starting today inside the Gemini app by selecting “Create image” with the “Thinking” model.\nYou can easily generate an image and change the lighting with Nano Banana Pro.\t\nGoogle says that Nano Banana Pro can help create context-rich infographics and diagrams that can help visualize real-time information like weather or sports. And its ability to render legible text directly on the image — as a short tagline or long paragraph — makes it suitable for generating posters or invitations in a variety of language translations. It also supports blending multiple elements into a single composition, using up to 14 images and up to five people.\n\nNano Banana Pro can render text properly. It’s only available in Search AI Mode in the US, however.\n\nAnd because the model excels at editing, Nano Banana Pro also promises new advanced creative controls. As such, you can select and locally edit any part of an image, adjust camera angles, add bokeh, change focus, color grade, or change lighting from day to night. Resolutions up to 4K are supported across a variety of aspect ratios.\n\nNano Banana Pro can “beautify this slide.”\n\nNotably, images created or edited with the Nano Banana Pro model will have C2PA metadata embedded. That should — eventually — make it easier to spot generative AI or deepfakes in search results and social media feeds, once the industry gets its act together. TikTok said this week that it would also use C2PA metadata to invisibly watermark AI-generated content.\nUsers of the free Nano Banana Pro tier will be limited to a quota, that expands for Google AI Plus, Pro, and Ultra subscribers. It’s also available for AI Mode in Search in the US if you subscribe to Google AI Pro or Ultra, or globally to users of the NotebookLM research assistant.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "642cf57fabcaf37b8ba6a1c6a018b90c180a3639",
+      "title": "Waymo enters 3 more cities: Minneapolis, New Orleans and Tampa",
+      "url": "https://techcrunch.com/2025/11/20/waymo-enters-3-more-cities-minneapolis-new-orleans-and-tampa/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-11-20T14:57:08.000Z",
+      "summary_90w": "",
+      "raw": "The new cities will see Waymo tackle harsh winter weather and narrow streets.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "98b26e2a5d6223a6e747f66cc47d79a85d56799b",
+      "title": "Cop30 live: ‘We need to think about how to live without fossil fuels’ Brazilian president Lula tells summit",
+      "url": "https://www.theguardian.com/environment/live/2025/nov/20/cop30-live-news-updates-belem-brazil-president-lula",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-20T14:54:36.000Z",
+      "summary_90w": "",
+      "raw": "Brazilian president underlines need to reduce emissions as Turkey set to host next year’s summit\nGuteress has told delegates that “communities on the frontlines are watching too” as he reminds them of flooded homes, failed harvests and lost livelihoods.\n“Please engage in good faith to reach ambitious compromise,” he pleaded. “1.5c must be your only red line. This is the hour for leadership. Be bold. Follow the science. Put people before profit and please keep your eyes on the finish line.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e4f1a32ed74d211786570ea120b84350fae6dbd2",
+      "title": "Almost one million young people still not in work or education, figures show",
+      "url": "https://www.bbc.com/news/articles/c62920440m2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-20T14:50:44.000Z",
+      "summary_90w": "",
+      "raw": "Whilst the figure has dropped slightly, it still equates to one-in-eight young people in the UK, according to the Office for National Statistics.",
       "topics": [
         "World"
       ]
@@ -78,19 +208,6 @@
       "raw": "I’ve seen enough of this kind of thing.\t\n\nThe details are fuzzy, but I think my husband and I downloaded the YouTube Kids app to our TV sometime in 2022, when between one and three members of the household came down with the flu at the same time. Like countless parents of toddlers before us, we needed something, anything, that would buy us a moment to vomit in peace. It worked, but it was the start of a fraught relationship - one that I have finally put to an end years later by banishing YouTube Kids from every screen in our house it has ever darkened.\nWe initially let our son, Lennox, roam free through the app, trusting in the content filters and the broad categorization of \"appro …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "98b26e2a5d6223a6e747f66cc47d79a85d56799b",
-      "title": "Cop30 live: ‘We need to think about how to live without fossil fuels’ Brazilian president Lula tells summit",
-      "url": "https://www.theguardian.com/environment/live/2025/nov/20/cop30-live-news-updates-belem-brazil-president-lula",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-20T14:23:20.000Z",
-      "summary_90w": "",
-      "raw": "Brazilian president underlines need to reduce emissions as Turkey set to host next year’s summit\nGuteress has told delegates that “communities on the frontlines are watching too” as he reminds them of flooded homes, failed harvests and lost livelihoods.\n“Please engage in good faith to reach ambitious compromise,” he pleaded. “1.5c must be your only red line. This is the hour for leadership. Be bold. Follow the science. Put people before profit and please keep your eyes on the finish line.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -244,7 +361,7 @@
       "source_name": "The Verge",
       "published": "2025-11-20T13:30:00.000Z",
       "summary_90w": "",
-      "raw": "After one of the biggest telecom hacks in US history, the Federal Communications Commission (FCC) moved to enforce strict standards on carriers' cybersecurity measures. On Thursday, the agency is set to vote to roll back those requirements, arguing they were an unnecessary overstep of its authority.\nThe China-linked Salt Typhoon hack revealed last year impacted telecom companies including AT&T, Verizon, T-Mobile and Lumen Technologies, The Wall Street Journal reported. The issue was so bad that US officials urged consumers in late 2024 to only communicate via encrypted apps, fearing adversaries may still be lurking in their carriers' networ …\nRead the full story at The Verge.",
+      "raw": "After one of the biggest telecom hacks in US history, the Federal Communications Commission (FCC) moved to enforce strict standards on carriers' cybersecurity measures. On Thursday, the agency is set to vote to roll back those requirements, arguing they were an unnecessary overstep of its authority.\nThe China-linked Salt Typhoon hack revealed last year impacted telecom companies including AT&T, Verizon, T-Mobile, and Lumen Technologies, The Wall Street Journal reported. The issue was so bad that US officials urged consumers in late 2024 to only communicate via encrypted apps, fearing adversaries may still be lurking in their carriers' netwo …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -601,19 +718,6 @@
       ]
     },
     {
-      "id": "61f3b899de5749f16f52fa5f8317cf0684d7ce3c",
-      "title": "Windows on Arm is now ready for gaming thanks to some big changes",
-      "url": "https://www.theverge.com/news/824783/windows-on-arm-snapdragon-control-panel-gaming-driver-compatibility-improvements",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-20T11:12:26.000Z",
-      "summary_90w": "",
-      "raw": "Last year Qualcomm promised that games would “just work” on its Snapdragon X Elite laptops, but in my testing I found that was far from the case. Now, a year on, Windows on Arm is a lot more ready for gaming, thanks to emulator improvements, driver updates, a new Snapdragon Control Panel, and Qualcomm’s work on anti-cheat compatibility.\nQualcomm is releasing its Snapdragon Control Panel this week, which automatically detects games you’ve installed on a Snapdragon X Elite laptop and then optimizes them. It’s very similar to the apps that AMD and Nvidia use for their own GPUs, with settings for frame rate caps, anti-aliasing, texture filtering, and much more.\nThe Snapdragon Control Panel also allows you to install the latest Adreno GPU drivers, which are optimized for the latest games to improve stability and performance. Qualcomm says it has made fixes and improvements for more than 100 games since launch last year, with continued bug fixes for stability and performance.\nAlongside the Snapdragon Control Panel release, both Microsoft and Qualcomm have also made some significant changes to help PC gaming on Windows on Arm. Microsoft’s Prism emulator now supports x86 Advanced Vector Extensions (AVX), which are required by many games and creative apps. Qualcomm’s latest Snapdragon X2 Elite chips also support AVX2 emulation, and existing Snapdragon X series devices “will also receive the update in coming weeks.”\nMicrosoft has also updated its Xbox app on Windows on Arm recently to add the ability to download ARM64 compatible games. When Copilot Plus PCs launched last year, the Xbox app was simply a portal to Xbox Cloud Gaming. It didn’t have library or store options, so you couldn’t use it to install games from PC Game Pass. That’s all changed now.\nQualcomm has also been working with Epic Games to get Fortnite running on Windows on Arm, with full kernel-level anti-cheat support. You’ll need the latest Adreno GPU driver to get Fortnite running, and Qualcomm says it’s also working with other anti-cheat providers like Tencent’s Anti-Cheat Expert, Roblox’s Hyperion, Denuvo, InProtect GameGuard, Uncheater, and BattleEye to enable more multiplayer games on Windows on Arm.\nFortnite’s arrival on Windows on Arm comes just as the game debuts on the Xbox PC store. It’s the first time Epic Games has released Fortnite on another PC store or launcher, and it’s part of a deal to bring Fortnite Crew to Xbox Game Pass Ultimate subscribers.\nAll of these improvements are a much better start for gaming on Windows on Arm than the launch last year, but performance and compatibility is still far from perfect. You can check to see if your favorite game runs natively, via emulation, or not at all right here.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "7764c4916a5bd1c1c3499b51b11507090f4282bb",
       "title": "How bravery of two women led to 'monster' Met officer's conviction for more sex crimes",
       "url": "https://www.bbc.com/news/articles/cgkzlr25mkro?at_medium=RSS&at_campaign=rss",
@@ -887,6 +991,19 @@
       ]
     },
     {
+      "id": "8f251a48a596e67629adb88cd49320b2537776db",
+      "title": "Beyond Ultra-Processed Foods: Can Farmers Fix Our Health and the Planet?",
+      "url": "https://www.bbc.co.uk/sounds/play/m002mbys?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-20T06:00:00.000Z",
+      "summary_90w": "",
+      "raw": "James Rebanks on how to build a secure, sustainable and healthy food system.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "bb09cfc413fa68e754e92b555406ba38a0b5d869",
       "title": "Alice Guo, Chinese national who ran huge scam centre while Philippines mayor, sentenced to life in prison",
       "url": "https://www.theguardian.com/world/2025/nov/20/alice-guo-chinese-national-who-ran-huge-scam-centre-while-philippines-mayor-sentenced-to-life-in-prison",
@@ -994,7 +1111,7 @@
       "id": "db38a096284b90452f7141158928151cd2fa18aa",
       "title": "Paris court blocks auction of earliest-known calculator",
       "url": "https://www.bbc.com/news/articles/c2kpkq90ygno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-20T02:03:14.000Z",
       "summary_90w": "",
@@ -1131,45 +1248,6 @@
       "raw": "The home secretary told MPs on Monday around 700 Albanian families were \"living in taxpayer-funded accommodation having failed their asylum claims\".",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "861bf41ef5f3ebd3eb49582e7cd8bf34884e4d0e",
-      "title": "Here’s the Trump executive order that would ban state AI laws",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-19T23:03:28.000Z",
-      "summary_90w": "",
-      "raw": "President Donald Trump is considering signing an executive order as soon as Friday that would give the federal government unilateral power over regulating artificial intelligence, including the creation of an \"AI Litigation Task Force\" overseen by the attorney general, \"whose sole responsibility shall be to challenge State AI laws.\" \nAccording to a draft of the order obtained by The Verge, the Task Force would be able to sue states whose laws are deemed to obstruct the growth of the AI industry, citing California's recent laws on AI safety and \"catastrophic risk\" and a Colorado law that prevents \"algorithmic discrimination.\" The task force  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "3174c4d991a9d2a9495c9d389a23024232f8941b",
-      "title": "The best iPhones",
-      "url": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-19T23:00:00.000Z",
-      "summary_90w": "",
-      "raw": "New iPhones for the AI era. | ﻿Image: Cath Virginia / The Verge\t\n\nEditor’s note: Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the best early Black Friday deals you can already get.\nIf you’ve been holding off on getting a new iPhone, now’s the perfect time to size up your options. Apple’s 2025 iPhone lineup is now available, which includes the iPhone 17, 17 Pro, 17 Pro Max, and a brand-new model, the ultra-thin iPhone Air. These new phones offer a number of new features over their predecessors, such as upgraded cameras, faster chips, better battery life, and even better screens — Apple Intelligence, however, is still a work in progress.\nAlongside the new hardware, Apple also launched iOS 26 (yes, the numbering system has changed and we’re jumping from iOS 18), which includes a new Liquid Glass user interface, live translation, wallpapers in messages, and more. The software marks Apple’s biggest visual redesign since iOS 7, and despite some very polarizing reactions, we think it looks fine.\nIf your current iPhone is humming along, there’s no need to rush out and get a new one. But if you’re questioning whether it’s the year to replace your iPhone that’s a few generations old, then I think the answer is an easy yes. There are real gains to be had this time around, especially in the basic iPhone 17, which features a higher-refresh-rate display than last year’s model for smoother-looking animations, plus double the base storage to 256GB — all without raising the price, despite the current tariff situation.\nThe best iPhone for most people\nApple iPhone 17\n\n\nScore: 8\n\nProsCons\n\n\nAlways-on display makes it vastly more useful\nHigh refresh rate makes using the phone smoother\nThe cameras are solid\nBattery lasts well through the day\nThe price isn’t going up\nNo redesign, but the green is nice\n\nZoom capabilities are weak compared to the Pro\nGets hot during heavy gaming sessions\nApple Intelligence is still somewhere between useless and MIA\n\n\n\nWhere to Buy:\n\n $799 at Apple (256GB)\n $829.99 at Best Buy (256GB)\n $999 at Apple (512GB)\n\nScreen: 6.3-inch 2622 x 1206 OLED, 120Hz refresh rate / Processor: A19 / Cameras: 48-megapixel f/1.6 main with sensor-shift IS; 48-megapixel ultrawide; 18-megapixel selfie / Battery: Not advertised / Charging: 40W wired, 25W wireless MagSafe / Qi2 / Weather-resistance rating: IP68\nThe iPhone 17 marks a turning point for the standard model. After years with a lower-quality screen, the cheapest model finally got two major upgrades for 2025: an always-on display and a high-refresh-rate panel. These features make it feel meaningfully better than the iPhone 16 and prior models in everyday use, bringing it closer than ever to the Pro models. And at the same $799 starting price as the previous generation, this year’s update is a no-brainer.\nWhile the iPhone 17’s 48-megapixel main camera is carried over from last year, the ultrawide camera has been changed from a 12-megapixel sensor to a 48-megapixel sensor, and it delivers sharper and more vibrant photos. The device features an 18-megapixel Center Stage selfie camera, which is also in the Air and 17 Pro. Your selfies may not look materially better, but the front camera’s square sensor elevates the user experience, making it possible to take horizontal selfies while holding the device vertically (no need to rotate the phone).\nApple also gives you double the storage — 256GB versus 128GB in the base iPhone 16 — and improved battery life. The standard 17 still lacks a proper telephoto camera, and the A19 chip is slower than the A19 Pro found in the Pro models. Still, it’s a big step up in almost every way, even if it looks basically the same as every iPhone from the past six years.\nRead our full iPhone 17 review.\nThe best high-end iPhone\niPhone 17 Pro\n\n\nScore: 8\n\nProsCons\n\n\nSolid battery life\nBrighter screen outdoors\nCenter Stage camera\nFaster charging\nDoesn’t get blazing hot\nOrange\n\nWhat’s up with Siri?\nHeavier than last year\n\n\n\nWhere to Buy:\n\n $1099 at Apple (256GB)\n $1099.99 at Best Buy (256GB)\n $1299 at Apple (512GB)\n\nScreen: 6.3-inch 2622 x 1206 OLED, 120Hz refresh rate / Processor: A19 Pro / Cameras: 48-megapixel f/1.78 with sensor-shift IS; 48-megapixel 8x telephoto with OIS; 48-megapixel ultrawide; 18-megapixel selfie / Battery: Not advertised / Charging: 40W wired, 25W MagSafe / Qi2 / Weather-resistance rating: IP68\nThe iPhone 17 Pro introduces a bold redesign and a number of notable upgrades, including the lineup’s most advanced camera setup yet. It also features rounded edges, and similar to last year, it’s on equal footing with the 17 Pro Max in terms of performance. The biggest differences are that the Pro Max offers a larger display, a larger battery, and up to 2TB of storage.\nWhereas the iPhone 17 is for most people, the 17 Pro is geared more toward creators. The device has three 48-megapixel cameras, including a 48-megapixel telephoto, and it offers several pro features aimed at those who want to take the best possible photos and videos. Some of those features include Genlock support, which lets videographers sync up timecodes across multiple cameras, and support for ProRes RAW recording. It also sports the upgraded Center Stage selfie camera found in other 2025 iPhone models.\nDespite the additions and improvements, there’s little here that makes the 17 Pro an absolute must-upgrade. However, it comes in an irresistible orange, which is apparently the new “it” color.\nRead our full iPhone 17 Pro review.\nThe iPhone with the best battery life\niPhone 17 Pro Max\n\n\nScore: 8\n\nProsCons\n\n\nSolid battery life\nBrighter screen outdoors\nCenter Stage camera\nFaster charging\nDoesn’t get blazing hot\nOrange\n\nWhat’s up with Siri?\nHeavier than last year\n\n\n\nWhere to Buy:\n\n $1199 at Apple (256GB)\n $1199.99 at Best Buy (256GB)\n $1399 at Apple (512GB)\n\nScreen: 6.9-inch 2868 x 1320 OLED, 120Hz refresh rate / Processor: A19 Pro / Cameras: 48-megapixel f/1.78 with sensor-shift IS; 48-megapixel 8x telephoto with OIS; 48-megapixel ultrawide; 18-megapixel selfie / Battery: Not advertised / Charging: 40W wired, 25W MagSafe / Qi2 / Weather-resistance rating: IP68\nThe iPhone 17 Pro Max’s redesign isn’t just about looks. Apple hollowed out the device’s aluminum frame to fit in the biggest battery yet in an iPhone. Apple says the device offers up 39 hours of video playback, which is 12 more hours than last year’s iPhone 16 Plus, our previous battery champ. The device can easily push through a full day and then some, though your mileage will vary depending on how often you play mobile games, watch videos, and doomscroll on social media.\nThere are other benefits to going with the 17 Pro Max. It has the largest display among the latest iPhone lineup — 6.9 inches — and offers up to 2TB of storage, giving creators more room than ever for storing their media. If you want the most iPhone you can possibly get, including the longest battery life, then the 17 Pro Max is the way to go.\nRead our full iPhone 17 Pro Max review.\nThe best iPhone for people who hate bulky phones\niPhone Air\n\n\nScore: 7\n\nProsCons\n\n\nEasier to carry thanks to its slim profile\nRemarkably light and more pleasant to use for long periods of time\n\nBattery drains quicker than a standard phone\nNo ultrawide camera\n\n\n\nWhere to Buy:\n\n $999 at Apple (256GB)\n $999.99 at Best Buy (256GB)\n $1199 at Apple (512GB)\n\nScreen: 6.5-inch 2736 x 1260 OLED, 120Hz refresh rate / Processor: A19 Pro / Cameras: 48-megapixel f/1.6 main with sensor-shift IS; 18-megapixel selfie / Battery: Not advertised / Charging: 30W wired, 20W MagSafe / Qi2 / Weather-resistance rating: IP68\nThe iPhone Air is Apple’s biggest redesign since the iPhone X was released in 2017. It’s shockingly thin and light, at 5.6mm and 165 grams, respectively. Thanks to its titanium frame and Ceramic Shield 2 display, it’s more durable than you might expect, too. The device feels deceptively small, despite having a 6.5-inch display. You really have to see and feel the phone yourself to get the appeal.\nBut the thinner design comes with a few substantial compromises compared to the other models available this year. One of the biggest is that the Air features a single 48-megapixel camera on the back. That’s not to say the device’s camera is bad. But it’s a far less versatile system than even the far more affordable iPhone 17, which has a dual-camera setup. The second compromise is on battery life, which is just okay. It’s not terrible, but it’s not great, either.\nAt $999, you’re paying a lot for middling battery life and camera performance. Those who primarily care about design, though, may be more forgiving about those shortcomings.\nRead our full iPhone Air review.\nThe best inexpensive-ish iPhone\niPhone 16E\n\n\nScore: 7\n\nProsCons\n\n\nReliable performance\nGood, if limited, camera system\nIt’s the cheapest new iPhone you can buy\n\nNo MagSafe\n$599 feels like $100 too much\nNo ultrawide\n\n\n\nWhere to Buy:\n\n $599 at Apple (128GB)\n $599.99 at Best Buy (128GB)\n $599.99 at Verizon (128GB)\n\nScreen: 6.1-inch Super Retina XDR / Processor: A18 Cameras: 48MP Fusion with 1x and 2x optical zoom, 12-megapixel selfie / Battery: Not advertised / Charging: 20-watt wired, 7.5W Qi, no MagSafe/ Weather-resistance rating: IP68\nThis recommendation comes with a heavy sigh. Yes, the 16E is the cheapest new iPhone Apple sells. Yes, it’s a good phone. It has a capable camera, reliable performance, full water resistance, wireless charging, and will be supported with software updates for years to come. But its $599 price tag starts to feel like too much when you consider what it’s missing. \nThere’s no MagSafe, which you can kind of add by way of a MagSafe case, but it’s a bummer not to have it built in when it has basically become a standard iPhone feature. There’s no ultrawide camera, no Dynamic Island housing timely information, no camera control button (not a huge loss, honestly), and no Ultra Wideband for precise object tracking. It does support Apple Intelligence, but that doesn’t feel like much of a consolation, given that it’s very much still a work-in-progress.\nThe 16E will most likely receive more years of software support than a previous-gen model like the iPhone 14 or 15. And sure, Apple Intelligence might turn into something useful someday. The 16E is a good choice if you want the path of least resistance to blue bubbles and FaceTime at your fingertips. But if you’d like MagSafe, a more advanced camera, and some of the other bells and whistles that got lost on the way to the 16E, then it’s not a bad idea to look at one of the older iPhones.\nRead my full Apple iPhone 16E review.\nWhat’s coming next\nApple’s latest iPhone lineup is available now, but there are already reports about what’s next. One report suggests Apple is readying a book-style foldable iPhone for 2026, which allegedly looks like two iPhone Air models put side by side. Apple is reportedly still working to flatten the crease that appears when the phone is unfolded, but has otherwise settled on a design. Looking ahead to 2027, a report claims Apple is planning a redesigned “all-screen” iPhone to celebrate the device’s 20th anniversary. These upcoming releases are allegedly part of Apple’s three-year plan — starting with the new iPhone Air — that’s aimed at refreshing its smartphone lineup.\nUpdate, November 19th: Updated to reflect current pricing / availability. Brandon Russell contributed to this article.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "457ec1e3ea3a63e4b217cf13cd2fe071ab8c4f0f",
-      "title": "Netflix signs a three-year deal to stream MLB live events and games",
-      "url": "https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-19T22:53:46.000Z",
-      "summary_90w": "",
-      "raw": "Today, Major League Baseball announced new media rights deals with ESPN, NBCUniversal, and Netflix that run for the next three seasons. The Netflix deal brings live MLB games to its platform and continues to grow its library of sports programming in an arrangement that Front Office Sports reports is worth about $50 million per year.\nNetflix will stream a single game on Opening Night of each season, the Home Run Derby, and one “special event game” each year. In 2026, that will cover the “Field of Dreams” game broadcast from Dyersville, Iowa, on August 13th, 2026, between the Minnesota Twins and Philadelphia Phillies.\nThe games signed up by all three networks cover a media deal that MLB previously had with ESPN alone, and on NBC’s end, gives it the Sunday Night Baseball game, as well as draft coverage and other games for its networks. According to the league, “Some Sunday night games will stream on Peacock and simulcast on NBCSN during weeks there is overlap with previously negotiated media rights deals on NBC,” while Peacock will also carry MLB’s Sunday Leadoff games that start around noon and simulcast on the newly relaunched NBC Sports Network.\nAnd for ESPN, it has a 30-game broadcast package each season that will be exclusive to its channels and the ESPN app, 150 out-of-market games streaming (one per day) in the ESPN app, and the ability to sell MLB Network and some in-market games via the ESPN app.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1459,19 +1537,6 @@
       ]
     },
     {
-      "id": "3814e1f226bba9806532f798b8048434539fafee",
-      "title": "Bluesky announces moderation changes focused on better tracking, improved transparency",
-      "url": "https://techcrunch.com/2025/11/19/bluesky-announces-moderation-changes-focused-on-better-tracking-improved-transparency/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-19T17:53:24.000Z",
-      "summary_90w": "",
-      "raw": "Bluesky is making moderation changes, including the addition of new reporting categories, strikes, and more clarity when communicating with users about violations.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "e9e901da5de37d685e25dcbbcf9e4bb7a39b4061",
       "title": "Instagram to start closing Australian teen accounts ahead of social media ban",
       "url": "https://www.bbc.com/news/articles/cz919xyx7weo?at_medium=RSS&at_campaign=rss",
@@ -1482,45 +1547,6 @@
       "raw": "Under-sixteens will be banned from major social media plaforms from 10 December.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "dbd6b6344375273ad6d5c8cbdad33a1f4465f78f",
-      "title": "Amazon’s Prime Video is getting AI-generated Video Recaps for some TV shows",
-      "url": "https://techcrunch.com/2025/11/19/amazons-prime-video-is-getting-ai-generated-video-recaps-for-some-tv-shows/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-19T17:30:00.000Z",
-      "summary_90w": "",
-      "raw": "According to Amazon, the feature \"utilizes generative AI to create theatrical-quality season recaps with synchronized narration, dialogue, and music.\"",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0e4fc126600f672fe4d582623b9011119259e2d6",
-      "title": "US, UK, and Australia sanction Russian ‘bulletproof’ web host used in ransomware attacks",
-      "url": "https://techcrunch.com/2025/11/19/us-uk-and-australia-sanction-russian-bulletproof-web-host-used-in-ransomware-attacks/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-19T17:24:35.000Z",
-      "summary_90w": "",
-      "raw": "The newly imposed sanctions target Russian-based web host Media Land, which officials say are linked to LockBit and BlackSuit ransomware attacks.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "d320a9b2dda9be6dabfca582306014f8738a871d",
-      "title": "YC-backed Poly relaunches as a cloud-hosted file storage with AI search",
-      "url": "https://techcrunch.com/2025/11/19/yc-backed-poly-relaunches-as-a-cloud-hosted-file-storage-with-ai-search/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-11-19T17:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Poly's cloud-based file storage system with AI-powered search lets you search through text, images, audio, and video.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -2000,19 +2026,6 @@
       "published": "2025-11-17T20:57:29.000Z",
       "summary_90w": "",
       "raw": "Officials at Nasa say the sun is at the peak of its 11-year cycle, known as \"solar maximum\", which could lead to more severe geomagnetic storms.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "90e599aab5a2078f4ae308eafdc12a4fe7a2ae32",
-      "title": "Will Trump delay releasing the Epstein Files?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0mhn68x?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-17T19:06:00.000Z",
-      "summary_90w": "",
-      "raw": "Donald Trump has urged House Republicans to vote to release the Epstein Files.",
       "topics": [
         "World"
       ]
