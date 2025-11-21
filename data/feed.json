@@ -1,7 +1,20 @@
 {
-  "version": "1763700121161",
-  "generatedAt": "2025-11-21T04:42:01.161Z",
+  "version": "1763700946828",
+  "generatedAt": "2025-11-21T04:55:46.828Z",
   "items": [
+    {
+      "id": "69b8001ac2713443ba3adbc99ab962cb7a2ed5be",
+      "title": "Australia news live: Twitch added to under-16s social media ban; Tropical Cyclone Fina forecast to cross NT coast by Saturday morning",
+      "url": "https://www.theguardian.com/australia-news/live/2025/nov/21/australia-news-live-mark-dreyfus-republic-anthony-albanese-g20-south-africa-eu-trade-deal-nt-cyclone-darwin-airlines-powerbank-ban-nsw-politics-leadership-kellie-sloane-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-21T04:44:41.000Z",
+      "summary_90w": "",
+      "raw": "Follow today’s news live\n\nWieambilla police shooting: coroner delivers findings into Train family killings of three people on remote Queensland property\n\nGet our breaking news email, free app or daily news podcast\n\nGovernment urging those in Fina’s path to stay up-to-date and heed warnings\nKristy McBain, the federal minister for emergency management, said officials are urging people to “prioritise their safety” and heed cyclone warnings and advice.\nWe’ve been working really closely with the Northern Territory government on the pre-deployment of assets, but it is really important that people listen to those warnings and they’ll be continually updated. … But these things are a little bit unpredictable at this stage. So we’re just asking people to be aware.\nFina is forecast to further intensify to a severe tropical cyclone during Sunday afternoon in the southern Timor Sea. There continues to remain a chance that it could reach category 3 intensity earlier, during late Friday or early Saturday as it moves into the Van Diemen Gulf.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "d56fbd20863c0b22780c61fb83e4667dca2651bb",
       "title": "Mexico's Fatima Bosch, who walked out on organisers, crowned Miss Universe",
@@ -11,19 +24,6 @@
       "published": "2025-11-21T04:33:09.000Z",
       "summary_90w": "",
       "raw": "She made headlines when she walked out of a pre-pageant event after being told off by an organiser.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "69b8001ac2713443ba3adbc99ab962cb7a2ed5be",
-      "title": "Australia news live: Twitch added to under-16s social media ban; Tropical Cyclone Fina forecast to cross NT coast by Saturday morning",
-      "url": "https://www.theguardian.com/australia-news/live/2025/nov/21/australia-news-live-mark-dreyfus-republic-anthony-albanese-g20-south-africa-eu-trade-deal-nt-cyclone-darwin-airlines-powerbank-ban-nsw-politics-leadership-kellie-sloane-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-21T04:29:30.000Z",
-      "summary_90w": "",
-      "raw": "Follow today’s news live\n\nWieambilla police shooting: coroner delivers findings into Train family killings of three people on remote Queensland property\n\nGet our breaking news email, free app or daily news podcast\n\nGovernment urging those in Fina’s path to stay up-to-date and heed warnings\nKristy McBain, the federal minister for emergency management, said officials are urging people to “prioritise their safety” and heed cyclone warnings and advice.\nWe’ve been working really closely with the Northern Territory government on the pre-deployment of assets, but it is really important that people listen to those warnings and they’ll be continually updated. … But these things are a little bit unpredictable at this stage. So we’re just asking people to be aware.\nFina is forecast to further intensify to a severe tropical cyclone during Sunday afternoon in the southern Timor Sea. There continues to remain a chance that it could reach category 3 intensity earlier, during late Friday or early Saturday as it moves into the Van Diemen Gulf.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -916,13 +916,13 @@
       "id": "b595fc98404da58d1b262949ad96651e1e422ecf",
       "title": "Vinted blocks 'sickening' sexually explicit ads ",
       "url": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2025-11-20T18:10:50.000Z",
       "summary_90w": "",
       "raw": "The online marketplace removed adverts which included a video a user said depicted a pornographic scene.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -1183,19 +1183,6 @@
       "raw": "Curastory’s founder and CEO, Tiffany Kelly, has resigned from the role and replaced herself with Dave Dickman, former CEO of the influencer marketing platform Tagger.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "0a9095f8adc95e5234098bab7534d9dd2edf7117",
-      "title": "Woman who drove round bend at 85mph admits killing three men",
-      "url": "https://www.bbc.com/news/articles/cd676x8wvwpo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-20T16:16:23.000Z",
-      "summary_90w": "",
-      "raw": "Connor Page, Lewis Soden and Reece Williams were all killed in the crash outside the village of Dunmore near Falkirk last year.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1794,19 +1781,6 @@
       "raw": "One of the world's most popular gaming platforms has faced criticism for its child safety record.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "4d4aea2937cfafcd9d6d68fdc00082bff89350a3",
-      "title": "On the front line of Europe's standoff with Russia's sanction-busting shadow fleet",
-      "url": "https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-19T00:23:14.000Z",
-      "summary_90w": "",
-      "raw": "With Europe imposing sanctions on Moscow, there has been a growing network of vessels sailing without a valid flag from Russia through European waters.",
-      "topics": [
-        "World"
       ]
     },
     {
