@@ -1,7 +1,59 @@
 {
-  "version": "1763983931965",
-  "generatedAt": "2025-11-24T11:32:11.965Z",
+  "version": "1763984526688",
+  "generatedAt": "2025-11-24T11:42:06.688Z",
   "items": [
+    {
+      "id": "f975e421be1931d0434d4c8cb745b332f6a4bc8b",
+      "title": "Five dead in suicide bombing in Pakistan",
+      "url": "https://www.bbc.com/news/articles/ckgkv47xqn5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-11-24T11:33:00.000Z",
+      "summary_90w": "",
+      "raw": "Authorities have described the attack as a \"foiled terrorist plot\", noting that the attackers were gunned down at the gate.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2096cac3ae2565d3887095b8d90f30fa7a30bdcd",
+      "title": "Ukraine working with US on ‘compromises that strengthen us’, says Zelenskyy – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/nov/24/ukraine-russia-war-peace-talks-europe-us-trump-germany-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-24T11:32:33.000Z",
+      "summary_90w": "",
+      "raw": "US and Ukraine say they have ‘updated framework’ for peace plan after weekend talks in Geneva\n\nUS and Ukraine promise ‘updated’ peace framework after criticism of pro-Russian points in original plan\n\nRussian air defences downed a Ukrainian drone en route to Moscow on Monday, the city’s mayor said as reported by Reuters, forcing three airports that serve the capital to temporarily restrict all incoming and outgoing flights.\nMoscow mayor Sergei Sobyanin said in a statement that emergency services were working at the scene of the downed drone.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7b975fd59b11c70efed6528f126cca36bdbac07d",
+      "title": "US reportedly to launch new phase of operations against Venezuela – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/24/us-politics-trump-venezuela-marjorie-tayor-greene-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-11-24T11:32:22.000Z",
+      "summary_90w": "",
+      "raw": "Trump administration labels Maduro as member of foreign terrorist organization and could impose fresh sanctions on country\nTrump has been escalating pressure on Venezuelan President Nicolás Maduro, and has now labelled him and government allies as members of a foreign terrorist organization.\nThat designation is another step towards criminalizing Maduro – analysts say it could pressure Maduro into stepping down with the threat of military force.\nThe US and Ukraine say they have made progress in talks on ending the war with Russia, with Marco Rubio announcing amendments to a “refined” draft agreement.\nHowever Donald Trump has lashed out at Ukraine’s leadership, saying Kyiv has shown “zero gratitude”.\nHis administration has also designated Venezuela’s president, Nicolás Maduro, as a member of a foreign terrorist organisation, which could allow for the hit of new sanctions. Reports also emerged on the weekend that the US military could be set to move into a new phase of operations in the Caribbean this week. More on this soon.\nThe resignation of Maga loyalist turned rebel Marjorie Taylor Greene is a warning sign to Trump, analysts say. The Georgian congresswoman had once been one of Trump’s most vocal allies but she announced an exit on Friday, following a public spat over the Epstein files, saying she refused to be a “battered wife”.\nAnd Trump’s so-called “department of government efficiency” (Doge) – famously run by Elon Musk for a few months – has disbanded with eight months left on its mandate, ending a highly-publicised initiative that had been a symbol of Trump’s pledge to slash the government’s size but which critics say delivered few measurable savings.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "43a0d0a323267aa7ce5a80fd7afd90006dcbd995",
+      "title": "Microsoft is speeding up and decluttering File Explorer in Windows 11",
+      "url": "https://www.theverge.com/news/827414/microsoft-file-explorer-windows-11-preload-context-menu-declutter",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-24T11:20:06.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is making some changes to the File Explorer in Windows 11 that will make it less cluttered and launch faster. The latest Dev preview builds of Windows 11 include File Explorer preloading “to help improve File Explorer launch performance,” and changes to the context menu to reduce the amount of space less commonly used actions take up.\nThe preloading of File Explorer should hopefully mean Microsoft’s file and folder management tool launches faster on systems where performance is constrained. On modern PCs it’s nearly instant, but I’ve certainly witnessed it load slower on less powerful devices like Windows handhelds and tablets. \nYou’ll be able to disable the File Explorer preloading so it’s not always running in the background. After all, most PCs will not need to preload File Explorer. It’s similar to the work Microsoft did with its Office apps earlier this year, to improve the startup speed of Word with a scheduled task that runs silently when you boot your PC to make Office apps open quickly.\nThe File Explorer context menu changes will be welcome ones across fast and sluggish PCs. Microsoft is reducing the clutter in the context menu by moving actions that are rarely used into sub menus. There’s a new manage file flyout that includes compressing files into a ZIP, copy as a path, set as desktop background, and rotate right or left.\nCloud file options have also been moved into a separate cloud provider flyout, where you’ll also find Send to My Phone. The changes mean the context menu looks a lot cleaner now, and it should be easier to find frequently used actions.\nAll of these changes are being tested in the latest Dev preview builds of Windows 11, so they should roll out to all Windows 11 users in early 2026.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "e2a1a8c6b789438334b4ed124379df623d4696c9",
       "title": "What can nervous businesses expect from the Budget?",
@@ -24,19 +76,6 @@
       "published": "2025-11-24T11:03:00.000Z",
       "summary_90w": "",
       "raw": "Oliver, 3, now appears to be developing normally after taking part in a trial to treat Hunter syndrome that almost didn't get off the ground.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "2096cac3ae2565d3887095b8d90f30fa7a30bdcd",
-      "title": "Ukraine working with US on ‘compromises that strengthen us’, says Zelenskyy – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/nov/24/ukraine-russia-war-peace-talks-europe-us-trump-germany-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-24T11:01:46.000Z",
-      "summary_90w": "",
-      "raw": "US and Ukraine say they have ‘updated framework’ for peace plan after weekend talks in Geneva\n\nUS and Ukraine promise ‘updated’ peace framework after criticism of pro-Russian points in original plan\n\nRussian air defences downed a Ukrainian drone en route to Moscow on Monday, the city’s mayor said as reported by Reuters, forcing three airports that serve the capital to temporarily restrict all incoming and outgoing flights.\nMoscow mayor Sergei Sobyanin said in a statement that emergency services were working at the scene of the downed drone.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -427,19 +466,6 @@
       "published": "2025-11-24T07:11:01.000Z",
       "summary_90w": "",
       "raw": "President Trump's administration is set to ramp up pressure on Venezuelan President Nicolás Maduro designating Cartel de los Soles as a terrorist organization. But the entity is not a cartel per se.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f975e421be1931d0434d4c8cb745b332f6a4bc8b",
-      "title": "Five dead in suicide bombing in Pakistan",
-      "url": "https://www.bbc.com/news/articles/ckgkv47xqn5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-11-24T07:00:24.000Z",
-      "summary_90w": "",
-      "raw": "Authorities have described the attack as a \"foiled terrorist plot\", noting that the attackers were gunned down at the gate.",
       "topics": [
         "World"
       ]
@@ -1316,19 +1342,6 @@
       ]
     },
     {
-      "id": "f933865d64dbec468a04eefa68d618710c8eb1a4",
-      "title": "Jair Bolsonaro arrested after tampering with ankle tag ‘out of curiosity’",
-      "url": "https://www.theguardian.com/world/2025/nov/22/far-right-former-president-jair-bolsonaro-arrested-in-brazil",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-11-22T21:16:16.000Z",
-      "summary_90w": "",
-      "raw": "Brazilian ex-president says he used soldering iron on device and is now in custody over fears he was going to abscond\nBrazil’s former far-right president Jair Bolsonaro has claimed he tried to damage his electronic ankle monitor “out of curiosity” after he was arrested at his villa owing to suspicions he was poised to abscond.\nIn a video released by the supreme court, Bolsonaro – who was recently sentenced to 27 years in prison for masterminding a military coup – can be heard admitting to a security official that he had used a soldering iron to tamper with the black tag.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "0f38f7539bbff886cbc9f5dc4a30087c0b7cdd21",
       "title": "Israeli strikes across Gaza kill 22 Palestinians, medical and civil defence officials say",
       "url": "https://www.bbc.com/news/articles/c20879zzqn8o?at_medium=RSS&at_campaign=rss",
@@ -1339,19 +1352,6 @@
       "raw": "Israel says it struck targets in Gaza after an \"armed terrorist\" crossed the so-called yellow line and fired at soldiers.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "6a9b94134ad082f77a1043c5b383945a541d3eda",
-      "title": "Sony’s entire DualSense lineup is $20 off, including the limited edition models",
-      "url": "https://www.theverge.com/gadgets/826320/ps5-dualsense-wireless-controller-black-friday-deal-sale-2025",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-22T18:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Black Friday isn’t here quite yet, but that hasn’t stopped Sony from kicking off an excellent holiday promo, which runs through December 18th. The ongoing sale spans everything from PlayStation 5 consoles to Sony’s latest accessories — including Sony’s standard DualSense Wireless Controller, which is now matching its all-time low of $54.99 ($20 off) in multiple colors at Amazon, Best Buy, and Target.\nAlthough the aforementioned deal price applies to Sony’s base models — including the go-to black and white variants — you can also pick up limited edition models inspired by Astro Bot (Walmart / Best Buy), God of War (Amazon / Walmart), and Ghost of Yōtei (Walmart / Best Buy) for around $64 (also $20 off). The controllers start at a higher price than the vanilla models, but recognize that you’re still getting them for $10 less than a regular DualSense normally costs.\nSony DualSense Wireless Controller\n\nWhere to Buy:\n\n $74.99 $54.99 at Amazon\n $74.99 $54.99 at Best Buy\n $74.99 $54.99 at Target\n\n\nAstro Bot “Joyful” DualSense Wireless Controller\n\nWhere to Buy:\n\n $84.99 $64.99 at PlayStation\n $84.88 $64 at Walmart\n $84.99 $64.99 at Best Buy\n\nThe DualSense will look familiar to longtime PlayStation fans, but it has significant technical features that set it apart from Sony’s earlier DualShock gamepads. A good example is the wireless controller’s haptic vibrations, which can make gameplay feel more immersive. Feeling a slight rumble on alternating sides of the controller as a character walks through sand is an example of what’s possible. The triggers have variable tension, too, which, in some games, requires you to push down with more force during certain sequences. It’s a terrific feature, and something we wish more developers would adopt.\nAs for table-stakes features, the DualSense features some nice textured grips and a built-in microphone, which lets you chat with other players online without a headset. You also have the option to plug a wired headset (or headphones) into the controller’s 3.5mm audio jack. It charges via USB-C — no surprise there — and can last up to eight hours or so, which should be enough to get you through most gaming sessions. It isn’t compatible with other consoles, but you can use it with a Mac or PC via Bluetooth or by plugging in with a USB-C cable.\nRead our full DualSense Wireless Controller review.",
-      "topics": [
-        "Technology"
       ]
     },
     {
