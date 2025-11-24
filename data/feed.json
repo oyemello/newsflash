@@ -1,7 +1,20 @@
 {
-  "version": "1764027793572",
-  "generatedAt": "2025-11-24T23:43:13.572Z",
+  "version": "1764028288383",
+  "generatedAt": "2025-11-24T23:51:28.383Z",
   "items": [
+    {
+      "id": "efa69d54d87a843c116a36c52929c76f11611ded",
+      "title": "ChatGPT shopping research builds you a buyer&#8217;s guide using AI",
+      "url": "https://www.theverge.com/news/828326/chatgpt-shopping-research-chatgpt-buyers-guide",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-24T23:40:38.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI is making it easier to plan out holiday shopping with ChatGPT’s latest feature called “shopping research.” Any shopping question in ChatGPT will trigger this new feature, which is rolling out to all ChatGPT users on free and paid plans on mobile and web, with “nearly unlimited usage” available during the holiday shopping season.\nNow, if you ask ChatGPT for “best TVs in bright lighting,” for example, as the company’s announcement video shows, the response will end with a button asking if you want to do additional research. This is where the “personal shopper” aspect comes in, although the blog post notes that “shopping research might make mistakes about product details like price and availability, and we encourage you to visit the merchant site for the most accurate details.” \nUsers refine their choices by selecting their preferences during a series of questions that can be filtered based on price, intended use, and desired features, similar to the dropdown menus on most retail websites. The products it pulls up can be purchased on retailers’ websites, but OpenAI said it plans to roll out Instant Checkout, which will allow direct purchasing inside ChatGPT with participating merchants.\nOpenAI is not alone in trying to encourage shopping within its products. Google also recently released new AI-powered shopping features in its AI Mode, and the AI agent in Perplexity’s Comet browser will shop on your behalf, much to Amazon’s chagrin. (The trend is something The Verge’s Nilay Patel has termed “The DoorDash problem.”)\nAccording to OpenAI, it’s built on a version of GPT‑5 mini that has been refined for shopping tasks, with product recommendations from “quality sources” on the internet containing “up-to-date information like price, availability, reviews, specs, and images.” They can also take into account previous conversations with ChatGPT and user “memory” if that is turned on, along with buttons to show “more like this” or “not interested” on specific items.\nPro users will see proactively recommended products packaged in “buyer’s guides” based on their past chatlogs with Pulse. “For example, if you’ve been discussing e-bikes, a future Pulse card could suggest useful accessories for you,” OpenAI wrote.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "38dd357e99f39ed60ae4ef0ba7c664564f7a0a3f",
       "title": "Australia politics live: Labor’s offer to get Greens to back nature laws overhaul revealed",
@@ -335,7 +348,7 @@
       "source_name": "The Verge",
       "published": "2025-11-24T20:26:24.000Z",
       "summary_90w": "",
-      "raw": "The US Consumer Protection Safety Commission issued a stark warning about Rad Power Bikes’ e-bike batteries Monday, linking them to dozens of fires and saying they “pose a risk of serious injury and death.”\nThe batteries can “unexpectedly ignite and explode,” especially when water or debris leaks in to cells or the harness, the agency says. CPSC says there have been 31 fires, including 12 reports of property damage totaling $734,500, some of which occurred when the battery was not charging and the bike was in storage or not in use. No injuries were reported as a result of the fires. \nThe following models are included in the CPSC warning: RadWagon 4, RadCity HS 4, RadRover High Step 5, RadCity Step Thru 3, RadRover Step Thru 1, RadRunner 2, RadRunner 1, RadRunner Plus, and RadExpand 5. According to the agency, the battery model number (HL-RP-S1304 or RP-1304) is printed on a label on the back or rear of the battery. All the batteries were manufactured in China. \nRad Power Bikes has “refused to agree to an acceptable recall,” CPSC says in its statement. “Given its financial situation, Rad Power Bikes has indicated to CPSC that it is unable to offer replacement batteries or refunds to all consumers.”\nThe Seattle-based company, which is one of the leading sellers of e-bikes in North America, has fallen on hard times recently, in the wake of the post-covid bike boom. Rad Power Bikes is currently facing “significant financial challenges” that could lead to its imminent closure without a cash infusion, GeekWire reported earlier this month. \nPoorly made e-bike batteries have been implicated in numerous deadly fires across the US and the UK in recent years. In New York City alone, where tens of thousands of delivery workers ride around on e-bikes every day, dozens of people have been killed in fires linked to faulty lithium-ion batteries. \nBut while Rad Power Bikes hasn’t been implicated in any fires that have resulted in injury or fatality, the company was aware that the perception of faulty batteries could certainly hurt its business. Last year, Rad Power Bikes introduced new batteries with thermal resistant technology designed to prevent fires. The company injects an epoxy resin into the battery cells, which prevents a chemical reaction in the battery that can cause it to heat up to the point of exploding, also known as a thermal runaway.\nRad Power Bikes has taken other safety steps, too, including shifting to the 21,700 cells (21mm in diameter and 70mm in length) from the 18,650 cells for its batteries and complying with UL safety certification for both its bikes and batteries. \nReached for comment, Rad Power Bikes director of brand marketing and communications Kelsey Wolf said the company “strongly disagrees” with CPSC’s characterization of its batteries as defective or unsafe. Independent tests have confirmed that Rad’s batteries conform to the industry’s safety standards, she said, noting that CSPC does not dispute these findings. \n“The incident rate associated with the batteries in the CPSC’s notice is a fraction of one percent,” Wolf said in a statement. “While that number is low, we know even one incident is one too many, and we are heartbroken by any report involving our products.”\nShe said that Rad Power Bikes is committed to working with CPSC to address its concerns. The company pitched “multiple good-faith solutions,” including offering its customers an opportunity to upgrade to the new thermal resistant batteries at a discount — but CPSC rejected this solution.\n“The significant cost of the all-or-nothing demand would force Rad to shut its doors immediately, leaving no way to support our riders or our employees,” Wolf said.",
+      "raw": "The US Consumer Protection Safety Commission issued a stark warning about some of Rad Power Bikes’ e-bike batteries Monday, linking them to dozens of fires and saying they “pose a risk of serious injury and death.”\nThe batteries can “unexpectedly ignite and explode,” especially when water or debris leaks in to cells or the harness, the agency says. CPSC says there have been 31 fires, including 12 reports of property damage totaling $734,500, some of which occurred when the battery was not charging and the bike was in storage or not in use. No injuries were reported as a result of the fires. \nThe following models are included in the CPSC warning: RadWagon 4, RadCity HS 4, RadRover High Step 5, RadCity Step Thru 3, RadRover Step Thru 1, RadRunner 2, RadRunner 1, RadRunner Plus, and RadExpand 5. According to the agency, the battery model number (HL-RP-S1304 or RP-1304) is printed on a label on the back or rear of the battery. All the batteries were manufactured in China. \nRad Power Bikes has “refused to agree to an acceptable recall,” CPSC says in its statement. “Given its financial situation, Rad Power Bikes has indicated to CPSC that it is unable to offer replacement batteries or refunds to all consumers.”\nThe Seattle-based company, which is one of the leading sellers of e-bikes in North America, has fallen on hard times recently, in the wake of the post-covid bike boom. Rad Power Bikes is currently facing “significant financial challenges” that could lead to its imminent closure without a cash infusion, GeekWire reported earlier this month. \nPoorly made e-bike batteries have been implicated in numerous deadly fires across the US and the UK in recent years. In New York City alone, where tens of thousands of delivery workers ride around on e-bikes every day, dozens of people have been killed in fires linked to faulty lithium-ion batteries. \nBut while Rad Power Bikes hasn’t been implicated in any fires that have resulted in injury or fatality, the company was aware that the perception of faulty batteries could certainly hurt its business. Last year, Rad Power Bikes introduced new batteries with thermal resistant technology designed to prevent fires. The company injects an epoxy resin into the battery cells, which prevents a chemical reaction in the battery that can cause it to heat up to the point of exploding, also known as a thermal runaway.\nRad Power Bikes has taken other safety steps, too, including shifting to the 21,700 cells (21mm in diameter and 70mm in length) from the 18,650 cells for its batteries and complying with UL safety certification for both its bikes and batteries. \nReached for comment, Rad Power Bikes director of brand marketing and communications Kelsey Wolf said the company “strongly disagrees” with CPSC’s characterization of its batteries as defective or unsafe. Independent tests have confirmed that Rad’s batteries conform to the industry’s safety standards, she said, noting that CSPC does not dispute these findings. \n“The incident rate associated with the batteries in the CPSC’s notice is a fraction of one percent,” Wolf said in a statement. “While that number is low, we know even one incident is one too many, and we are heartbroken by any report involving our products.”\nShe said that Rad Power Bikes is committed to working with CPSC to address its concerns. The company pitched “multiple good-faith solutions,” including offering its customers an opportunity to upgrade to the new thermal resistant batteries at a discount — but CPSC rejected this solution.\n“The significant cost of the all-or-nothing demand would force Rad to shut its doors immediately, leaving no way to support our riders or our employees,” Wolf said.",
       "topics": [
         "Technology"
       ]
@@ -455,19 +468,6 @@
       "raw": "Army secretary Daniel Driscoll presented a Russian wishlist, highlighting differences with the administration\nThe US army secretary, Daniel Driscoll, was an unlikely envoy for the Trump administration’s newest proposal to end the Russian invasion of Ukraine – but his ties to JD Vance have put a close ally of the Eurosceptic vice-president on the frontlines of Donald Trump’s latest push to end the war.\nBefore his trip to Kyiv last week, Driscoll was not known for his role as a negotiator or statesman, and his early efforts at selling the deal to European policymakers were described as turbulent.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "604c4b445820f9bc19f3ed19b444d18791948ee5",
-      "title": "The Steam Deck LCD is 20 percent off for Black Friday",
-      "url": "https://www.theverge.com/gadgets/827910/steam-deck-lcd-black-friday-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-24T19:35:43.000Z",
-      "summary_90w": "",
-      "raw": "All eyes have been on Valve’s new hardware coming out in 2026, including the Steam Frame headset, the Steam Machine console, and the Steam Controller. But for those who are shopping for someone who wants a fantastic gaming handheld for the holidays, the Steam Deck LCD with 256GB of storage is $319.20 — 20 percent off — through December 1st at Steam.\nSteam Deck (LCD)\n\nWhere to Buy:\n\n $399 $319.2 at Steam (256GB)\n\nThis isn’t the first time we’ve seen this discount, but we’ll always celebrate a Steam Deck discount. For those who don’t know, the handheld can be connected to a TV using a USB-C hub, turning it into a console that’s fun to play from the couch with a Bluetooth controller. A surprising number of games on the Steam platform work fine on the Steam Deck, though some of the most popular online multiplayer games aren’t supported due to Valve’s SteamOS not supporting certain anti-cheat software.\nOne last quick note: Valve’s commitment to improve the SteamOS software is impressive. A lot of the complaints you’ll see in Sean Hollister’s review below have since been patched by updates.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1212,14 +1212,14 @@
       ]
     },
     {
-      "id": "1e9cf18605b3a124872c28118b3f1d09e3638f4e",
-      "title": "What foods make you happiest? It's not what you think",
-      "url": "https://www.npr.org/2025/11/24/nx-s1-5615440/food-mood-mental-health",
+      "id": "362a24b47ee9c3f83188aae981e423f1633bebdd",
+      "title": "Virginia's tough rules for felons to regain their voting rights could soon be changing",
+      "url": "https://www.npr.org/2025/11/24/nx-s1-5607029/virginia-felony-conviction-voting-rights",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-11-24T10:00:00.000Z",
       "summary_90w": "",
-      "raw": "As you prepare for your holiday feast, here's something to consider. Research suggests there are certain foods that can help boost our moods and make us happier in the long-run.",
+      "raw": "Virginia is one of just a few states where only the governor can restore voting rights for people with felony convictions. But Virginia's rules may soon be changing.",
       "topics": [
         "World"
       ]
