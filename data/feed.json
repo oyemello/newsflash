@@ -1,7 +1,20 @@
 {
-  "version": "1764199971902",
-  "generatedAt": "2025-11-26T23:32:51.902Z",
+  "version": "1764200509944",
+  "generatedAt": "2025-11-26T23:41:49.944Z",
   "items": [
+    {
+      "id": "8eec5e343542b2d4ebe1769926dc08a0e09d72f2",
+      "title": "This $1,400 Steam Machine alternative houses a tiny desktop GPU",
+      "url": "https://www.theverge.com/games/831106/minisforum-g1-pro-mini-pc-price-release-date",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-11-26T23:35:15.000Z",
+      "summary_90w": "",
+      "raw": "What if Valve’s Steam Machine were a 3.8-liter tower instead of a 3.8-liter cube, with a desktop-grade Nvidia RTX 5060 GPU instead of an AMD RX 7600 — plus a more powerful CPU and many faster ports? Well, it’d cost you nearly $1,500 and be called the Minisforum AtomMan G1 Pro. \nMinisforum is one of the only companies shipping such powerful discrete GPUs in mini-PCs, and its earlier AtomMan G7 PT is the closest thing anyone’s sold to Valve’s own spec. But the new G1 Pro might be a better competitor now it’s got an integrated power supply (like Valve) and even beefier components. \nThe most surprising feature is a full but lilliputian desktop graphics card — look how cute it is in the render below! — that fits into the top of the chassis. (Minisforum doesn’t claim it’s upgradable, just FYI, but does boast that it offers the full 145W of power you’d get in other desktop 5060 cards.) \nAnd, in “Beast Mode,” Minisforum says it can drive the AMD Ryzen 9 8945HX CPU at 100W while that GPU stays at 145W. You also get not one but two M.2 2280 slots for NVMe SSD storage,  two SO-DIMM slots for up to 96GB of DDR5 RAM, and five display outputs (2x DP2.1, 1x DP 1.4, and 2x HDMI 2.1) for up to four displays at once. \nIt’s on sale now with 32GB and 1TB for $1,440, shipping mid January — which is honestly starting to look like a decent deal now that RAM prices are out of control. There’s also a bring-your-own-RAM-and-storage barebones version for $1,040, though it’s not available to order yet.\nValve still isn’t talking price yet, but I’d hope it’s more affordable than this one. Even so, Valve says it put a lot of work into cooling, noise, and wireless connectivity, and Linux drivers are still more mature on the AMD GPU side of things if you’re considering a Bazzite or SteamOS install. GamersNexus’ new video does include Linux benchmarks for desktop RTX 5060, maybe check those out?",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "088976433e6d9546a04f736438e84c8354759f80",
       "title": "Australia politics live: PM hails ‘landmark day’ as Labor strikes deal with Greens to overhaul environmental protection laws",
@@ -218,7 +231,7 @@
       "source_name": "TechCrunch",
       "published": "2025-11-26T21:00:00.000Z",
       "summary_90w": "",
-      "raw": "Ten years ago, raising €1 million in Copenhagen was enough to make waves in the region’s tech scene. Today, the Nordics are turning out billion-dollar companies like Lovable — which hit $200M in revenue just 12 months after launching.  Dennis Green-Lieber, founder of AI-powered customer intelligence platform Propane, has had a front-row seat to that shift over the […]",
+      "raw": "Ten years ago, raising €1 million in Copenhagen was enough to make waves in the region’s tech scene. Today, the Nordics are turning out billion-dollar companies like Lovable — which hit $200 million in revenue just 12 months after launching.  Dennis Green-Lieber, founder of AI-powered customer intelligence platform Propane, has had a front-row seat to that shift over […]",
       "topics": [
         "Technology"
       ]
@@ -752,19 +765,6 @@
       "published": "2025-11-26T16:44:08.000Z",
       "summary_90w": "",
       "raw": "MyHair AI examines photos of the scalp to help diagnose hair loss and suggest scientifically validated clinics and treatments.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "b6a6c66a49761344276b89ab72ff93ad3f055646",
-      "title": "You can play classic Nintendo games on these custom SNES-inspired Nike sneakers",
-      "url": "https://www.theverge.com/news/829880/gustavo-bonzanini-nike-air-max-90-sneaker-super-nintendo",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-11-26T16:43:35.000Z",
-      "summary_90w": "",
-      "raw": "The AIR SNES sneakers double as a functional retro console. | Image: Gustavo Bonzanini\t\n\nTo celebrate the 35th anniversary of the Super Nintendo’s launch in Japan (where it was called the Super Famicom) designer Gustavo Bonzanini created an homage that blends ‘90s fashion and technology. The AIR SNES are a heavily customized version of the Nike Air Max 90 inspired by other gaming-themed sneakers like Bull Airs’ ShoeBoys, but Bonzanini’s creation doubles as a functional retro console.\nGiven the size of the Super Nintendo, and the chunky cartridges it used, Bonzanini decided against trying to trim down and shrink the console’s electronics to fit inside a shoe that was still wearable. They instead opted to go the emulation route and used a compact Raspberry Pi Zero W. It has more than enough processing power to play 16-bit SNES games using the RetroPie emulator that Bonzanini customized to match the look and feel of the sneaker.\nBut you won’t find the microcomputer hidden away in the sole of the Air Max 90. All of the electronics, including a battery with enough capacity for up to 30 minutes of gameplay, can be found inside the sneaker’s tongue. The Raspberry Pi Zero W includes an integrated Mini HDMI port, but to “make the design feel like it could exist in 1990,” Bonzanini added a small analog converter so the AIR SNES connects to a TV using retro RCA cables.\nThe sneakers even work with an original SNES gamepad, but to keep the cable wrangling to a minimum Bonzanini upgraded the controller using an 8BitDo Mod Kit so it connects to the Raspberry Pi wirelessly over Bluetooth. Given the ever-growing popularity of retro gaming nostalgia and sneaker culture there’s little doubt Bonzanini could sell as many pairs of AIR SNES as they could make. But unfortunately they’re just a one-off creation with no plans to commercialize the design.",
       "topics": [
         "Technology"
       ]
