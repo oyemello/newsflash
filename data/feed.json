@@ -1,6 +1,6 @@
 {
-  "version": "1764437585916",
-  "generatedAt": "2025-11-29T17:33:05.916Z",
+  "version": "1764438184877",
+  "generatedAt": "2025-11-29T17:43:04.877Z",
   "items": [
     {
       "id": "fd915bb57a056f4025b9d52019c1c84a24d42b80",
@@ -8,9 +8,35 @@
       "url": "https://www.bbc.com/news/articles/c74xe49q7vlo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-11-29T17:21:32.000Z",
+      "published": "2025-11-29T17:37:21.000Z",
       "summary_90w": "",
       "raw": "Sir Tom won an Oscar and a Golden Globe for the screenplay for Shakespeare In Love.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "24a47dd801e2b0226c1600c652795dc4f72ef458",
+      "title": "Flooding in southern Asia leaves 600 dead",
+      "url": "https://www.bbc.com/news/articles/c5y9ejley9do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-29T17:33:40.000Z",
+      "summary_90w": "",
+      "raw": "The region is hit by some of the worst floods in years, with millions affected in Indonesia, Malaysia, Thailand and Sri Lanka.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "18730bff39d0810f6b184c6421d7e50899e2d680",
+      "title": "Pointless Wales humiliated as 11-try South Africa hand them record home defeat",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/c30jd4vlr22o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-29T17:18:10.000Z",
+      "summary_90w": "",
+      "raw": "World champions South Africa humiliate woeful Wales by inflicting a record home 73-0 defeat on their hosts.",
       "topics": [
         "World"
       ]
@@ -63,19 +89,6 @@
       "published": "2025-11-29T16:43:24.000Z",
       "summary_90w": "",
       "raw": "The US cannot legally close another country's airspace, but Trump's comments could deter airlines from operating in Venezuela.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "24a47dd801e2b0226c1600c652795dc4f72ef458",
-      "title": "Flooding in southern Asia leaves hundreds dead",
-      "url": "https://www.bbc.com/news/articles/c5y9ejley9do?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-29T16:42:32.000Z",
-      "summary_90w": "",
-      "raw": "The region is hit by some of the worst floods in years, with millions affected in Indonesia, Malaysia, Thailand and Sri Lanka.",
       "topics": [
         "World"
       ]
@@ -396,7 +409,7 @@
       "id": "c6d98ac73814eb52769aed74071a90635b367565",
       "title": "Russian strikes cause power outages for more than 600,000 in Ukraine",
       "url": "https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-29T12:32:03.000Z",
       "summary_90w": "",
