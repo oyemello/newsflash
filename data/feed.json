@@ -1,12 +1,12 @@
 {
-  "version": "1764414797164",
-  "generatedAt": "2025-11-29T11:13:17.164Z",
+  "version": "1764415769370",
+  "generatedAt": "2025-11-29T11:29:29.370Z",
   "items": [
     {
       "id": "edb94c03b1dd890bdcc76daed2f894ff47decc2a",
       "title": "Australian prime minister becomes first to wed in office",
       "url": "https://www.bbc.com/news/articles/ce865kpdzz8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-11-29T11:02:47.000Z",
       "summary_90w": "",
@@ -50,6 +50,19 @@
       "published": "2025-11-29T11:00:00.000Z",
       "summary_90w": "",
       "raw": "Meteorologists are surprised that the weather model that did the best job forecasting hurricanes this year was a new one, introduced by Google. AI may be the beginning of a new era of forecasting.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "eef1857581800f113c3a6c38d4e4299036aaf812",
+      "title": "Man charged with attempted murder of police officers",
+      "url": "https://www.bbc.com/news/articles/cn98335r178o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-29T10:59:28.000Z",
+      "summary_90w": "",
+      "raw": "A 21-year-old man has been charged with a number of offences which include attempted murder.",
       "topics": [
         "World"
       ]
@@ -640,19 +653,6 @@
       ]
     },
     {
-      "id": "a3b89f1414206e7655674e669c4cff4f1d5bcfa2",
-      "title": "The Papers: 'Reeves on brink' and 'Chancer of the Exchequer'",
-      "url": "https://www.bbc.com/news/articles/cn7kgejn5vno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-29T00:01:49.000Z",
-      "summary_90w": "",
-      "raw": "The fallout over the Budget continues to dominate the front pages of Saturday's papers.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "45a98df022bb841aba2186b756c72e20a8efbd21",
       "title": "Trump to pardon ex-Honduras leader serving drug trafficking sentence in US",
       "url": "https://www.theguardian.com/us-news/2025/nov/28/trump-pardon-honduras-hernandez-drugs",
@@ -760,7 +760,7 @@
       "id": "ff04a948f0db4c0ae105030362e5af5b2ee874a7",
       "title": "UN panel says Israel operating 'de facto policy of torture'",
       "url": "https://www.bbc.com/news/articles/ckglrdg6kz7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-11-28T19:40:55.000Z",
       "summary_90w": "",
