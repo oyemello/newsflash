@@ -1,6 +1,6 @@
 {
-  "version": "1764586747456",
-  "generatedAt": "2025-12-01T10:59:07.456Z",
+  "version": "1764587725542",
+  "generatedAt": "2025-12-01T11:15:25.542Z",
   "items": [
     {
       "id": "7f79acdbc1049b0388dd0466552879b775272422",
@@ -8,7 +8,7 @@
       "url": "https://www.bbc.com/news/articles/c997ng7zx3xo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-12-01T10:54:16.000Z",
+      "published": "2025-12-01T11:07:56.000Z",
       "summary_90w": "",
       "raw": "Anthony Williams is accused of the attempted murders of 13 people.",
       "topics": [
@@ -21,9 +21,74 @@
       "url": "https://www.bbc.com/news/articles/cewjkv8jylko?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-12-01T10:42:40.000Z",
+      "published": "2025-12-01T11:03:33.000Z",
       "summary_90w": "",
       "raw": "The Chancellor chose not to share some information on tax receipts in an unusual press conference, given before the Budget.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8bd558a1d8554c863b5f239b7ca609cd44c48b8c",
+      "title": "Weather warnings issued as month's worth of rain could fall in 24 hours",
+      "url": "https://www.bbc.com/weather/articles/crrkdylz9rxo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-01T11:02:15.000Z",
+      "summary_90w": "",
+      "raw": "Parts of the UK could see a month's worth of rainfall in just one day.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f5ea0039777948a18900c9ed7810ac9f27439d29",
+      "title": "Virgin Media fined £24m for leaving vulnerable customers 'at risk of harm'",
+      "url": "https://www.bbc.com/news/articles/ce8qv9319zlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2025-12-01T11:00:15.000Z",
+      "summary_90w": "",
+      "raw": "Ofcom has fined Virgin Media after an investigation found it had left thousands of vulnerable telecare customers at risk.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "06e1015a82fbbc18868b8209dcc591212763d545",
+      "title": "Honduras election on a knife edge as Trump-backed man slightly ahead",
+      "url": "https://www.bbc.com/news/articles/cx2dgp8mvmno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-12-01T10:56:03.000Z",
+      "summary_90w": "",
+      "raw": "The US president is threatening to cut aid to Honduras if his favoured right-wing presidential candidate does not win.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "fcb22e89c6601331d6b364b3687a048bc9f47642",
+      "title": "Death toll passes 1,000 in devastating floods across Indonesia, Sri Lanka, Malaysia and Thailand – latest updates",
+      "url": "https://www.theguardian.com/world/live/2025/dec/01/death-toll-floods-indonesia-sri-lanka-malaysia-thailand-latest-updates-news-live",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-12-01T10:45:22.000Z",
+      "summary_90w": "",
+      "raw": "Hundreds remain missing in Indonesia and Sri Lanka as rescue efforts continue after Cyclone Ditwah\n\nHow cyclones and monsoon rains combined to devastate parts of Asia – visual guide\n\nThis interactive shows how warm seas contribute to cyclone frequency and strength:\nThe climate crisis has affected storm patterns, including the duration and intensity of the annual monsoon season, leading to heavier rainfall, flash flooding and stronger wind gusts. The Guardian’s Europe environment correspondent, Ajit Niranjan, has written this useful explainer on the impacts, human causes and affects of flooding generally, and outlines what effective adaptation/management looks like. Here is an extract from the piece:\nThe burning of fossil fuels has heated the planet, increasing the risk of extreme rains that lead to floods around the world, particularly in Europe, most of Asia, central and eastern North America, and parts of South America, Africa and Australia. A well-established rule of physics is that warm air can hold more moisture – about 7% for every 1C – though whether it does so or not depends on how much water is available. When heavy rain does fall, clouds can unleash far more water.\nPerhaps surprisingly, a lack of water can also worsen floods, by drying out the ground. Hard, caked soil does not absorb water so it runs off and pools in lower-lying regions, allowing water levels to rise much faster than otherwise.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5779305183cb63e5011cb25513bd1ed17d0442c5",
+      "title": "Zelenskyy meets with Macron, as US negotiators Steve Witkoff and Jared Kushner head to Moscow – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/dec/01/zelenskyy-macron-us-ukraine-russia-steve-witkoff-jared-kushner-moscow-europe-live-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-12-01T10:42:55.000Z",
+      "summary_90w": "",
+      "raw": "Ukrainian president embarks on busy week of diplomacy as US ups pressure to end war\nOver the past week, there has been a flurry of diplomatic activity to end Russia’s war in Ukraine. \nAs Kyiv battles to minimise Vladimir Putin’s maximalist demands, including the cessation of territories in the east, the Guardian’s Russian affairs reporter, Pjotr Sauer, explains why despite some advances, the agreement to a peace deal still appears unlikely.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -37,19 +102,6 @@
       "published": "2025-12-01T10:40:28.000Z",
       "summary_90w": "",
       "raw": "Concern over media reports that the US military carried out a second strike killing survivors on a suspected drug boat prompts a bipartisan inquiry.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fcb22e89c6601331d6b364b3687a048bc9f47642",
-      "title": "Death toll passes 1,000 in devastating floods across Indonesia, Sri Lanka, Malaysia and Thailand – latest updates",
-      "url": "https://www.theguardian.com/world/live/2025/dec/01/death-toll-floods-indonesia-sri-lanka-malaysia-thailand-latest-updates-news-live",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-12-01T10:28:42.000Z",
-      "summary_90w": "",
-      "raw": "Hundreds remain missing in Indonesia and Sri Lanka as rescue efforts continue after Cyclone Ditwah\n\nHow cyclones and monsoon rains combined to devastate parts of Asia – visual guide\n\nThe climate crisis has affected storm patterns, including the duration and intensity of the annual monsoon season, leading to heavier rainfall, flash flooding and stronger wind gusts. The Guardian’s Europe environment correspondent, Ajit Niranjan, has written this useful explainer on the impacts, causes and affects of flooding generally, and outlines what effective adaptation/management looks like. Here is an extract from the piece:\nThe burning of fossil fuels has heated the planet, increasing the risk of extreme rains that lead to floods around the world, particularly in Europe, most of Asia, central and eastern North America, and parts of South America, Africa and Australia. A well-established rule of physics is that warm air can hold more moisture – about 7% for every 1C – though whether it does so or not depends on how much water is available. When heavy rain does fall, clouds can unleash far more water.\nPerhaps surprisingly, a lack of water can also worsen floods, by drying out the ground. Hard, caked soil does not absorb water so it runs off and pools in lower-lying regions, allowing water levels to rise much faster than otherwise.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -117,32 +169,6 @@
       "raw": "Netflix has removed the ability to cast shows and movies from phones to TVs, unless subscribers are using older casting devices. An updated help page on Netflix’s website, first reported by Android Authority, says that the streaming service “no longer supports casting shows from a mobile device to most TVs and TV-streaming devices,” and instead directs users to navigate Netflix using the remote that came with their TV hardware.\nThe change seems to have rolled out in the last few weeks, with one user on Reddit reporting that casting support was removed on November 10th “with zero warning.” My colleague Dom Preston also found that while he was able to cast to a TV from an older version of the Netflix app, the casting option was no longer available after the app was updated.\nCasting support is still available on older Chromecast devices or TVs that support Google Cast natively, according to Netflix’s support page, but only for subscribers on pricier ad-free plans, which start from $17.99 per month. Netflix users with an ad-supported subscription ($7.99 per month) will be unable to cast from their phones even if they own legacy Chromecast devices.\nThe casting changes announced on Netflix’s support page do not explain why the feature has been removed. It follows a similar move in 2019 when Netflix removed AirPlay support, citing a desire to “ensure our standard of quality for viewing is being met.” We have reached out to Netflix for comment.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "8bd558a1d8554c863b5f239b7ca609cd44c48b8c",
-      "title": "Weather warnings issued as month's worth of rain could fall in 24 hours",
-      "url": "https://www.bbc.com/weather/articles/crrkdylz9rxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-01T10:12:20.000Z",
-      "summary_90w": "",
-      "raw": "Parts of the UK could see a month's worth of rainfall in just one day.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "5779305183cb63e5011cb25513bd1ed17d0442c5",
-      "title": "Zelenskyy meets with Macron, as US negotiators Steve Witkoff and Jared Kushner head to Moscow – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/dec/01/zelenskyy-macron-us-ukraine-russia-steve-witkoff-jared-kushner-moscow-europe-live-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-12-01T10:11:46.000Z",
-      "summary_90w": "",
-      "raw": "Ukrainian president embarks on busy week of diplomacy as US ups pressure to end war\nHere’s the hug!\nUkraine’s Volodymyr Zelenskyy has just arrived at the Élysée Palace, welcomed by Macron with a big, big hug.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -302,19 +328,6 @@
       ]
     },
     {
-      "id": "f5ea0039777948a18900c9ed7810ac9f27439d29",
-      "title": "Virgin Media fined £24m for leaving vulnerable customers 'at risk of harm'",
-      "url": "https://www.bbc.com/news/articles/ce8qv9319zlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2025-12-01T08:59:04.000Z",
-      "summary_90w": "",
-      "raw": "Ofcom has fined Virgin Media after an investigation found it had left thousands of vulnerable telecare customers at risk.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "de054583d662eb856f943d29f069a21afc23262d",
       "title": "Australia could miss clean energy target as solar and wind investment slumps, investors warn",
       "url": "https://www.theguardian.com/environment/2025/dec/01/australia-could-miss-clean-energy-target-as-solar-and-wind-investment-slumps-investors-warn",
@@ -354,6 +367,19 @@
       ]
     },
     {
+      "id": "bc87da2bac8239bea97b8f31c3deee045ee2d48c",
+      "title": "'Raise hell' - the fastest bowler you might not have heard of",
+      "url": "https://www.bbc.com/sport/cricket/articles/cx25xrvv0k4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-01T07:53:15.000Z",
+      "summary_90w": "",
+      "raw": "The story of Duncan Spencer, the \"frighteningly fast\" bowler who could have played for England or Australia.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "910475c3a36709286775a80c6e20d15f9469bcdd",
       "title": "Australia’s drug regulator issues mental health warning for weight-loss drugs including Ozempic",
       "url": "https://www.theguardian.com/australia-news/2025/dec/01/mental-health-warning-issued-for-weight-loss-drugs-including-ozempic-in-australia",
@@ -388,32 +414,6 @@
       "published": "2025-12-01T06:52:10.000Z",
       "summary_90w": "",
       "raw": "This blog is now closed\n\nAustralia tracking Chinese navy flotilla in Philippine Sea as Marles announces major defence overhaul\n\nGet our breaking news email, free app or daily news podcast\n\nIs McLaren costing Oscar Piastri the F1 title, department asked at Senate estimates\nIt’s a strong start to Senate estimates this morning, with Nationals senator Matt Canavan asking the department of infrastructure secretary, Jim Betts, about the F1 results from Qatar overnight.\nIt’s been a bit of a frustrating night for some Australians … you deal with transport and cars, so do you think McLaren is biased against Oscar Piastri and costing him the world championship?\nI definitely think he’s copped some raw decision [making] this year.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "06e1015a82fbbc18868b8209dcc591212763d545",
-      "title": "Early Honduras election results show Trump-backed man ahead",
-      "url": "https://www.bbc.com/news/articles/cx2dgp8mvmno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-12-01T06:39:23.000Z",
-      "summary_90w": "",
-      "raw": "The US president is threatening to cut aid to Honduras if his favoured right-wing presidential candidate does not win.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "536b7cfc6c7894371f899830d014d85b34a58784",
-      "title": "'Arsenal deserve to be clear - but who's best placed to challenge?'",
-      "url": "https://www.bbc.com/sport/football/articles/cq60y8z159vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-01T06:26:06.000Z",
-      "summary_90w": "",
-      "raw": "MOTD pundit Alan Shearer explains where Chelsea and the rest of the chasing pack need to improve if they are going to challenge Premier League leaders Arsenal.",
       "topics": [
         "World"
       ]
@@ -640,19 +640,6 @@
       ]
     },
     {
-      "id": "07798e23d209a7bd8e769a44c4d6af12e60d74ea",
-      "title": "The Papers: Reeves 'denies lies' and 'must face sleaze probe'",
-      "url": "https://www.bbc.com/news/articles/c8xd471z1vlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-01T01:12:52.000Z",
-      "summary_90w": "",
-      "raw": "The fallout from last week's Budget continues to dominate the papers.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "88bac077f7284d6c5e54bfbb4376863bd51fbbda",
       "title": "Thousands in Philippines protest corruption, demand return of stolen funds",
       "url": "https://www.npr.org/2025/11/30/nx-s1-5626219/philippines-protest-corruption-stolen-funds",
@@ -806,6 +793,19 @@
       "raw": "James Cameron’s movies are often at the cutting edge of visual effects technology, but that doesn't make him a fan of generative AI.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "e7608ff08b0b8cbfe3b4a9f6fc33da60bd2716db",
+      "title": "How Pope Leo transformed from 'quiet man' to vocal peace messenger on first foreign trip",
+      "url": "https://www.bbc.com/news/articles/cvgrwedyr0eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-11-30T22:41:04.000Z",
+      "summary_90w": "",
+      "raw": "We are learning a little more about how Pope Leo intends to carry out his duties, writes Religion Editor Aleem Maqbool.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -999,19 +999,6 @@
       "published": "2025-11-30T18:20:51.000Z",
       "summary_90w": "",
       "raw": "Marco Rubio, Steve Witkoff and Jared Kushner meet Kyiv delegation amid more deadly Russian attacks in Ukraine\nUkrainian negotiators have met US officials in Florida to thrash out details of Washington’s proposed framework to end Russia’s war in Ukraine, as Kyiv faces pressure on military and political fronts.\nThe secretary of state, Marco Rubio; the special envoy, Steve Witkoff; and Jared Kushner, Donald Trump’s son-in-law; sat down with a Ukrainian delegation on Sunday before planned US talks this week in Moscow with Vladimir Putin.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "61930ccc5c10a862127913bfc186478e1ffcc398",
-      "title": "Is this the start of Liverpool's life without Salah?",
-      "url": "https://www.bbc.com/sport/football/articles/c62dzdy9ez8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-11-30T18:09:45.000Z",
-      "summary_90w": "",
-      "raw": "Is this the start of Liverpool's life without Mohamed Salah after he was dropped for the 2-0 win at West Ham, asks chief football writer Phil McNulty.",
       "topics": [
         "World"
       ]
