@@ -1,6 +1,6 @@
 {
-  "version": "1764711776516",
-  "generatedAt": "2025-12-02T21:42:56.516Z",
+  "version": "1764712290123",
+  "generatedAt": "2025-12-02T21:51:30.123Z",
   "items": [
     {
       "id": "84dd309cec1ede60fd558ba4160dd4b14a2243a8",
@@ -16,6 +16,19 @@
       ]
     },
     {
+      "id": "a9bec49ef56e197912ac3e5f6cc554ec75cf2deb",
+      "title": "Australia news live: Google confirms YouTube to comply with under-16s social media ban but says law ‘fundamentally misunderstands’ how children use internet",
+      "url": "https://www.theguardian.com/australia-news/live/2025/dec/03/australia-news-live-bruce-lehrmann-defamation-appeal-brittany-higgins-lisa-wilkinson-network-ten-senate-estimates-social-media-ban-esafety-commissioner-albanese-sussan-ley-labor-coalition-nsw-vic-qld-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-12-02T21:45:00.000Z",
+      "summary_90w": "",
+      "raw": "Meanwhile Guardian Australia report on Roblox gaming platform raised at Senate estimates. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nMore on the eSafety commissioner’s letter to a US lawmaker\nJulie Inman Grant told senators that Australians expect companies providing services into Australia to abide by Australian laws. She also pointed out that since the Wakeley church stabbing case that X challenged in the court and eSafety ended up dropping, the agency had accepted geo-blocking Australian users from seeing the posts as compliance with Australian law.\nSo the conclusion is nothing that we do here with the Online Safety Act affects anything that an American platform will serve to Americans. So no, it does not impinge upon Americans’ freedom of speech.\nI am just in the process of sending that to the chairman right now. I think out of respect for him – when he sent me his letter, he sent it concurrently, it appears, to Sky News – I prefer to send it official to official.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "48f1d273bba0cf45c0e324f0e5c0548ad312f31c",
       "title": "National Guard shooting suspect charged with murder",
       "url": "https://www.bbc.com/news/articles/cwyl70z3940o?at_medium=RSS&at_campaign=rss",
@@ -24,19 +37,6 @@
       "published": "2025-12-02T21:30:33.000Z",
       "summary_90w": "",
       "raw": "According to a criminal complaint, Rahmanullah Lakanwal shouted \"Allahu Akbar\" as he fired and was reloading when a Guard member shot him.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a9bec49ef56e197912ac3e5f6cc554ec75cf2deb",
-      "title": "Australia news live: eSafety chief rejects US claim she is a ‘zealot for global takedowns’; union asks for investigation into ANZ job cuts",
-      "url": "https://www.theguardian.com/australia-news/live/2025/dec/03/australia-news-live-bruce-lehrmann-defamation-appeal-brittany-higgins-lisa-wilkinson-network-ten-senate-estimates-social-media-ban-esafety-commissioner-albanese-sussan-ley-labor-coalition-nsw-vic-qld-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-12-02T21:27:19.000Z",
-      "summary_90w": "",
-      "raw": "Meanwhile Guardian Australia report on Roblox gaming platform raised at Senate estimates. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nMore on the eSafety commissioner’s letter to a US lawmaker\nJulie Inman Grant told senators that Australians expect companies providing services into Australia to abide by Australian laws. She also pointed out that since the Wakeley church stabbing case that X challenged in the court and eSafety ended up dropping, the agency had accepted geo-blocking Australian users from seeing the posts as compliance with Australian law.\nSo the conclusion is nothing that we do here with the Online Safety Act affects anything that an American platform will serve to Americans. So no, it does not impinge upon Americans’ freedom of speech.\nI am just in the process of sending that to the chairman right now. I think out of respect for him – when he sent me his letter, he sent it concurrently, it appears, to Sky News – I prefer to send it official to official.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -140,7 +140,7 @@
       "source_name": "The Verge",
       "published": "2025-12-02T20:32:46.000Z",
       "summary_90w": "",
-      "raw": "If you’ve been short on storage on your PC, the latest Helldivers 2 beta update might help. The developers said Tuesday they’ve managed to cut down the PC file size for Helldivers 2 by about 85 percent, freeing up enough space for at least one or two more large games. \nIn a post on the game’s Steam page, the developers explained that they’ve been working on slimming down the game while also adding new content:\n“The longer term goal has always been to bring the PC installation size much closer in line with the console versions. We are happy to report that, thanks to our partners at Nixxes, we have reached that goal much sooner than expected. By completely de-duplicating our data, we were able to reduce the PC installation size from ~154GB to ~23GB, for a total saving of ~131GB.”\nThe reduction in file size should have a “minimal” impact on load times, “seconds at most,” the developers said. The original file size was significantly larger because the developers were duplicating game asset data to improve load times on mechanical HDDs, which they estimate about 11 percent of Helldivers 2 players are currently using. \nHowever, as the post on the update explains, the developers now know that load times in Helldivers 2 are mainly due to level generation, not loading game assets, so duplicating asset data was offering minimal benefit and impacting a small percentage of players (while making the file size larger for everyone). \nAnyone with the PC version of Helldivers 2 can opt-in for the technical public beta on Steam to get the “slim” version of the game, which will eventually become the default version after the developers iron out any remaining issues that come up in beta testing.",
+      "raw": "If you’ve been short on storage on your PC, the latest Helldivers 2 beta update might help. The developers said Tuesday they’ve managed to cut down the PC file size for Helldivers 2 by about 85 percent, freeing up enough space for at least one or two more large games. \nIn a post on the game’s Steam page, the developers explained that they’ve been working on slimming down the game while also adding new content:\n“The longer term goal has always been to bring the PC installation size much closer in line with the console versions. We are happy to report that, thanks to our partners at Nixxes, we have reached that goal much sooner than expected. By completely de-duplicating our data, we were able to reduce the PC installation size from ~154GB to ~23GB, for a total saving of ~131GB.”\nThe reduction in file size should have a “minimal” impact on load times, “seconds at most,” the developers said. The original file size was significantly larger because the developers were duplicating game asset data to improve load times on mechanical HDDs, which they estimate about 11 percent of Helldivers 2 players are currently using. \nHowever, as the post on the update explains, the developers now know that load times in Helldivers 2 are mainly due to level generation, not loading game assets, so duplicating asset data was offering minimal benefit and impacting a small percentage of players (while making the file size larger for everyone). \nAnyone with the PC version of Helldivers 2 can opt in for the technical public beta on Steam to get the “slim” version of the game, which will eventually become the default version after the developers iron out any remaining issues that come up in beta testing.",
       "topics": [
         "Technology"
       ]
