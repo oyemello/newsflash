@@ -1,6 +1,6 @@
 {
-  "version": "1764773965879",
-  "generatedAt": "2025-12-03T14:59:25.879Z",
+  "version": "1764775091908",
+  "generatedAt": "2025-12-03T15:18:11.908Z",
   "items": [
     {
       "id": "a2a0a419a7f537612b4816704a656104bb67b939",
@@ -8,9 +8,74 @@
       "url": "https://www.bbc.com/news/articles/cp34nyenqpko?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-12-03T14:54:20.000Z",
+      "published": "2025-12-03T15:11:06.000Z",
       "summary_90w": "",
       "raw": "Among the injured is a boy, 8, who has been taken to hospital with a \"non-serious\" head injury.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0f66639d1d4be3a6040c9f2415590ac9b606c875",
+      "title": "King Charles welcomes German president on first state visit in 27 years",
+      "url": "https://www.bbc.com/news/articles/c9d9jwvqyx8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-03T15:06:28.000Z",
+      "summary_90w": "",
+      "raw": "Germany's president will receive a ceremonial welcome from the King and a state banquet in Windsor Castle.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6680c38d6b155849239cfbeeb55168fefe1d349e",
+      "title": "Salford Red Devils wound up by High Court over debts",
+      "url": "https://www.bbc.com/sport/rugby-league/articles/cm2wvenzkrmo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-03T15:02:23.000Z",
+      "summary_90w": "",
+      "raw": "Troubled former Super League club Salford Red Devils are wound up by the High Court.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d6d9c8172b313f94296ef632d5a5ddd082590af4",
+      "title": "Amazon says Alexa Plus can find that movie scene you&#8217;re thinking about",
+      "url": "https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-12-03T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Amazon has launched a new AI-powered feature for Fire TV that lets you jump to specific moments of a movie by describing the scene to Alexa Plus. The feature, which was previously announced during Amazon’s hardware event in September, works with Prime Video and builds on the X-Ray feature that provides information about the content you’re watching.\n“Our number one mission at Fire TV is getting you to what you want to watch — fast,” Amazon says in its announcement. “Just describe a movie scene like you would to a friend, and Alexa Plus will jump directly to that specific moment — no more searching required.”\nThe Alexa Plus feature “works with thousands of Prime Video movies by understanding scene descriptions, character names, and famous quotes,” according to Amazon. Users can skip to a scene by mentioning details about characters, actors, locations, and more, such as asking to find “the card scene in Love Actually,” or “where Joshua asks, ‘shall we play a game?’” in WarGames. \nThe feature is designed to make it easier and faster to locate and watch scenes compared to manually fast-forwarding through movies, giving Fire TV users fewer reasons to search for the same content on other platforms like YouTube. Amazon says the feature utilizes a variety of AI models, including Amazon Nova and Anthropic Claude, and can identify movies without the title being included in the descriptions.\nThe Fire TV feature is currently limited to indexed scenes in select movies that have been purchased or rented from Prime Video, or are available to stream via a Prime membership subscription. Amazon says that the feature will soon be expanded to include more scenes and TV shows.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e8d03d8c9112233071b24cde5295a44804a17312",
+      "title": "Anyone want to buy a car that drives itself?",
+      "url": "https://www.theverge.com/transportation/837014/autonomous-vehicle-privately-owned-who-wants",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-12-03T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Earlier this year, a mysterious new company called Tensor announced itself to the world by claiming it would be the first to sell fully autonomous vehicles to customers at scale. The news didn't make much of a splash. No one had ever heard of Tensor, so it was the kind of announcement easy to dismiss as vaporware. But the idea was not unfamiliar. In fact, some of the world's biggest companies are interested in selling driverless cars to individual customers. After all, if you can already hail a fully autonomous vehicle, why not own one too?\nBut it won't be easy. The technological and legal hurdles are immense. Today's robotaxis are restrict …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "aad5b7d3114d9f97247c81a6e83ef153a4aad87e",
+      "title": "Nato ‘ready to do what it takes’ to protect Europe, as Russia denies rejecting Ukraine peace plan – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/dec/03/nato-vladimir-putin-russia-rejects-ukraine-peace-deal-volodymyr-zelenskyy-europe-live-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-12-03T14:55:40.000Z",
+      "summary_90w": "",
+      "raw": "Mark Rutte’s response comes after Vladimir Putin’s comment that Russia was ‘ready’ for war with Europe\nEuropean Commission president Ursula von der Leyen is now briefing the media after the commission’s weekly meeting, presenting the bloc’s plan to help fund Ukraine’s continuing fight against Russia.\nI will bring you the key lines here.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -29,14 +94,27 @@
       ]
     },
     {
-      "id": "aad5b7d3114d9f97247c81a6e83ef153a4aad87e",
-      "title": "EU pushes ahead with plan to use frozen Russian assets for Ukraine as Moscow denies rejecting US peace plan - Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/dec/03/nato-vladimir-putin-russia-rejects-ukraine-peace-deal-volodymyr-zelenskyy-europe-live-latest-news-updates",
+      "id": "96f9e91f54ea84dd08322a9ad0bd7d1f7aa01a26",
+      "title": "Which areas is Russia demanding as its price for peace in Ukraine? – visual explainer",
+      "url": "https://www.theguardian.com/world/ng-interactive/2025/dec/03/which-areas-is-russia-demanding-as-its-price-for-peace-in-ukraine-visual-explainer",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-12-03T14:42:52.000Z",
+      "published": "2025-12-03T14:46:58.000Z",
       "summary_90w": "",
-      "raw": "Kremlin says Putin did not reject peace plan but found some parts of the deal ‘unacceptable’\nEuropean Commission president Ursula von der Leyen is now briefing the media after the commission’s weekly meeting, presenting the bloc’s plan to help fund Ukraine’s continuing fight against Russia.\nI will bring you the key lines here.\n Continue reading...",
+      "raw": "Moscow is demanding Kyiv accept its ‘annexation’ of areas it occupies. After the latest round of talks between envoys of Putin and Trump ended without progress, we look at the territory Russia is seeking to absorb\nSources: Center for Strategic and International Studies, Institute for the Study of War, Yale Humanitarian Research Lab Ukraine Conflict Observatory, OpenStreetMap. Picture credits: Invasion trucks – Gettty; Sevastopol – Reuters; Yalta – Dennis Cox / Alamy; Donetsk steelworks – Alexander Ermochenko / Reuters.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b6bc986e3fdfab2616b9f79199e2a0c1a0a571ad",
+      "title": "HSBC appoints interim chair Brendan Nelson to permanent role",
+      "url": "https://www.theguardian.com/business/2025/dec/03/hsbc-appoints-interim-chair-brendan-nelson-to-permanent-role",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-12-03T14:42:20.000Z",
+      "summary_90w": "",
+      "raw": "Questions raised about permanency of 76-year-old’s appointment and ‘leadership stability at critical juncture for bank’\n\nBusiness live – latest updates\n\nHSBC has appointed the former KPMG partner Brendan Nelson as its chair after a prolonged search process that left one of the world’s biggest banks without a permanent executive in the top role for months.\nThe decision to appoint Nelson, who has been serving as interim chair, came as a surprise, after a protracted hunt for a permanent successor for Mark Tucker which involved courting external candidates including the former chancellor George Osborne and the head of Goldman Sachs’s Asia-Pacific division, Kevin Sneader.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -198,19 +276,6 @@
       ]
     },
     {
-      "id": "0f66639d1d4be3a6040c9f2415590ac9b606c875",
-      "title": "King Charles welcomes German president on first state visit in 27 years",
-      "url": "https://www.bbc.com/news/articles/c9d9jwvqyx8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-03T13:54:46.000Z",
-      "summary_90w": "",
-      "raw": "Germany's president will receive a ceremonial welcome from the King and a state banquet in Windsor Castle.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "78044eb6abc7949c036da458a78102b6775697d1",
       "title": "Production halted at Chinese factory making 'childlike' sex dolls",
       "url": "https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS&at_campaign=rss",
@@ -245,6 +310,19 @@
       "published": "2025-12-03T13:41:08.000Z",
       "summary_90w": "",
       "raw": "Option of EU loan based on common borrowing also proposed in concession to concerns raised by Belgium\n\nEurope live – latest updates\n\nThe European Commission will move ahead with a controversial proposal to fund Ukraine with a loan based on Russia’s frozen assets, it has announced.\nBut in a concession to concerns raised by Belgium, which hosts most of the assets, the EU executive has also proposed another option: an EU loan based on common borrowing.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f224add0862c19e3dc359fdd1e85dcf415a572e8",
+      "title": "A draw with a winner? The routes to northern glory at 2027 World Cup",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/c30j8d4rmv3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-03T13:38:20.000Z",
+      "summary_90w": "",
+      "raw": "Has the 2027 World Cup draw handed an advantage to northern hemisphere sides chasing glory?",
       "topics": [
         "World"
       ]
@@ -364,19 +442,6 @@
       "raw": "The new round, which opens on December 10, will enable consumers to buy the company's shares at its Series C valuation of $1.3 billion.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "6680c38d6b155849239cfbeeb55168fefe1d349e",
-      "title": "Salford Red Devils wound up by High Court over debts",
-      "url": "https://www.bbc.com/sport/rugby-league/articles/cm2wvenzkrmo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-03T12:39:38.000Z",
-      "summary_90w": "",
-      "raw": "Troubled former Super League club Salford Red Devils are wound up by the High Court.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -523,19 +588,6 @@
       ]
     },
     {
-      "id": "f1bede74695ce8588e55d8e231dbc6cf20cd6a9f",
-      "title": "Airbus cuts plane delivery target amid A320 fuselage problem",
-      "url": "https://www.theguardian.com/business/2025/dec/03/airbus-cuts-plane-delivery-target-amid-a320-fuselage-problem",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-12-03T11:50:27.000Z",
-      "summary_90w": "",
-      "raw": "Output reduction to ‘around 790’ planes comes after French firm issued recall over software glitch affecting 6,000 jets\n\nBusiness live – latest updates\n\nAirbus has cut its plane delivery target for this year after it identified a problem with the fuselage panels on its bestselling A320 family of aircraft that has forced it to inspect hundreds of jets.\nThe world’s largest plane manufacturer said it would now deliver “around 790” commercial aircraft this year, a drop of 30 from its previous target of 820 planes.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "11fc4e508a874dc5c5c9f283283fe665ad5b8c19",
       "title": "Nike, Superdry and Lacoste ads banned over misleading green claims",
       "url": "https://www.bbc.com/news/articles/ckgm79djr9yo?at_medium=RSS&at_campaign=rss",
@@ -563,7 +615,7 @@
     },
     {
       "id": "ae666c72675af550253a2bc5c97127109a860b45",
-      "title": "'Only win will do in biggest Test of Bazball era'",
+      "title": "'England must not slam into sixth gear and hope for the best'",
       "url": "https://www.bbc.com/sport/cricket/articles/cly0rv97933o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -655,19 +707,6 @@
     {
       "id": "ceb6a91dd7cd986155bb964743c66594d503cee2",
       "title": "England and Wales in same 2027 Rugby World Cup group",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c898pvndy7go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-03T10:02:03.000Z",
-      "summary_90w": "",
-      "raw": "England and Wales are paired up in the pool stages at the 2027 Rugby World Cup, with Scotland and Ireland also drawn together.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ceb6a91dd7cd986155bb964743c66594d503cee2",
-      "title": "England and Wales in same 2027 World Cup group",
       "url": "https://www.bbc.com/sport/rugby-union/articles/c898pvndy7go?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -1186,32 +1225,6 @@
       ]
     },
     {
-      "id": "89e63883dabf6c9e58a6aa6f7c29f69205ecdd14",
-      "title": "Amazon’s bet that AI benchmarks don’t matter",
-      "url": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-12-02T22:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Rohit Prasad, Amazon's SVP of AGI.\t\n\nThis is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week.\nAmazon's AI chief has a message for the model benchmark obsessives: Stop looking at the leaderboards.\n\"I want real-world utility. None of these benchmarks are real,\" Rohit Prasad, Amazon's SVP of AGI, told me ahead of today's announcements at AWS re:Invent in Las Vegas. \"The only way to do real benchmarking is if everyone conforms to the same training data and the evals are completely held out. That's not what's happening. The evals are frankly getting noisy, and they're not showing the real power …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "6118befb7023e5e7d84c228c9419f0943bdf01a8",
-      "title": "Silicon Valley is rallying behind a guy who sucks",
-      "url": "https://www.theverge.com/column/836932/david-sacks-new-york-times-white-house",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-12-02T21:47:52.000Z",
-      "summary_90w": "",
-      "raw": "Hello and welcome to Regulator, a newsletter for Verge subscribers that covers the political intrigue and power struggles between Big Tech and Big Government. Subscribe here for a weekly dispatch of tech oligarchs fighting regular oligarchs.\nPrior to last week, only highly specialized political insiders knew the extent of David Sacks' influence in the Trump White House: tech policy hawks, lobbyists, reporters, and right-wing operatives infuriated that the billionaire venture capitalist was turning Donald Trump toward artificial intelligence and against the interests of the MAGA base. A deeply reported New York Times article published on Sun …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "093f426f89dfb7ea5fbe430058c5f7a76f088e64",
       "title": "Trump calls Somali immigrants ‘garbage’ as US reportedly targets Minnesota community",
       "url": "https://www.theguardian.com/us-news/2025/dec/02/trump-somali-immigrants-minnesota",
@@ -1313,19 +1326,6 @@
       "raw": "Bryan Johnson livestreamed his shrooms trip -- which included both Grimes and Marc Benioff -- as part of his controversial longevity research.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "a532571f30b325447918520cb3113d29f70322b0",
-      "title": "Families on rooftops, homes buried by mud: Asia floods show water is overtaking wind as main threat",
-      "url": "https://www.theguardian.com/world/2025/dec/02/global-heating-and-other-human-activity-are-making-asias-floods-more-lethal",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-12-02T19:19:02.000Z",
-      "summary_90w": "",
-      "raw": "Much improved response systems are struggling to cope with ever more powerful and destructive storms\n\nDeath toll from Indonesia floods passes 700 as 1 million evacuated\n\nFamilies stranded on their rooftops. Homes buried by fast-flowing mud. Jagged brown craters scarring lush green hillsides.\nThe scenes are the result of a series of cyclones and storms in a heavy monsoon season that have struck Asia with torrential rains, gutting essential infrastructure and reshaping landscapes. The violent weather has killed at least 1,200 people in the past week and forced a million to flee without knowing whether their homes will still be standing when they go back.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
