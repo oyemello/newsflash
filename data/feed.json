@@ -1,18 +1,31 @@
 {
-  "version": "1764885207527",
-  "generatedAt": "2025-12-04T21:53:27.527Z",
+  "version": "1764886422942",
+  "generatedAt": "2025-12-04T22:13:42.942Z",
   "items": [
     {
-      "id": "497946c4dc8bea631498e39846c1ec26d5af6339",
-      "title": "Former 'Morning Edition' host on his newest venture — a local newspaper",
-      "url": "https://www.npr.org/2025/12/04/nx-s1-5629171/former-morning-edition-host-on-his-newest-venture-a-local-newspaper",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-12-04T21:38:17.000Z",
+      "id": "94ae7fd6b1c2f4b76a8ef3deb6207cc2aa59abe8",
+      "title": "'Not becoming of a president': Somali-Americans respond to Trump's 'garbage' remarks",
+      "url": "https://www.bbc.com/news/articles/c8dy1613j2ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-04T21:57:55.000Z",
       "summary_90w": "",
-      "raw": "NPR's Mary Louise Kelly speaks with former NPR host David Greene who is set to take over LNP, the Pennsylvania newspaper where he was once an intern.",
+      "raw": "Somali-Americans tell of their heightened fear after the US president intensified his criticism of the community.",
       "topics": [
-        "Business"
+        "World"
+      ]
+    },
+    {
+      "id": "e13ed127152485c4f867a8a1f4ab74715371ca5b",
+      "title": "Pentagon’s Signalgate report finds Pete Hegseth violated military policies",
+      "url": "https://www.theverge.com/news/838582/signalgate-pentagon-oig-report-pete-hegseth",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-12-04T21:55:09.000Z",
+      "summary_90w": "",
+      "raw": "It has been months since a group of Trump administration officials put together a Signal group chat to discuss classified military intelligence ahead of a military strike in Yemen while inadvertently adding a journalist, and now the Pentagon’s inspector general has released its report on the mess. The results of Steven Stebbins’ eight-month-long investigation found that Defense Secretary Pete Hegseth did not comply with DoD policies by “using a nonapproved commercially available messaging application to send nonpublic DoD information.” \nIt also said that he risked potential compromise of “sensitive DoD information” as a result, but only recommended a review of classification procedures, and said that another report recommended “corrective actions” that, if implemented and adhered to, would comply with the department’s requirements.\nThe 84-page report, available in full here, shows that Hegseth himself responded to the investigation with a statement in July that said he’d shared “nonspecific general details” about the strike, and declined interview requests.\nThe investigation also had to rely on reporting from the journalist added to the chat, The Atlantic editor in chief Jeffrey Goldberg, as its auto-delete function only made it possible for them to retrieve some of the discussions.\nWe requested that the DoD provide a copy of the Secretary’s communications on Signal on or about\nMarch 15, 2025. The DoD provided a partial copy of messages from the Secretary’s personal cell phone,\nincluding some messages that The Atlantic previously reported, but other messages had auto-deleted because\nof chat settings. Therefore, we had to rely in part on the transcript of the chat The Atlantic posted publicly (“Houthi PC Small Group”) for a full record.\nIn a tweet posted Wednesday evening, Hegseth claimed the report showed “No classified information. Total exoneration.” However, Armed Services Committee member Sen. Mark Kelly of Arizona told reporters today that “It said he was in violation of some DOD regulations…so whether that’s breaking the law, you got to figure that out.”",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -21,9 +34,35 @@
       "url": "https://www.theguardian.com/australia-news/live/2025/dec/05/australia-news-live-skydivers-strike-aukus-review-anika-wells-travel-social-media-age-ban-coalition-labor-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-12-04T21:36:39.000Z",
+      "published": "2025-12-04T21:52:46.000Z",
       "summary_90w": "",
       "raw": "Temperatures expected to exceed 40C in parts of New South Wales’ east. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nThe Victorian government’s controversial “adult time for violent crime” bill has passed parliament without amendment.\nThe bill, which will move serious crimes committed by children as young as 14 from the children’s court to adult courts, passed at about 6pm on Thursday with the support of the Coalition.\nI’m pleased these laws can now be put in place as soon as possible to protect Victorians. There are no easy solutions to youth crime, and the best approach is always to stop crime before it starts. But we absolutely need serious consequences for violent youth crime to protect the community now.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7af7477c008bd34fa529e2950dfe47a5698e5ab5",
+      "title": "Alert sent for Nevada earthquake that did not happen",
+      "url": "https://www.bbc.com/news/articles/cnv21vnyy9lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-04T21:50:38.000Z",
+      "summary_90w": "",
+      "raw": "An erroneous alert warning of a major Nevada earthquake reached as far as California before being withdrawn.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3e8109a83d5faac8080fcc5ef335306407438b82",
+      "title": "Prominent anti-Hamas militia leader Yasser Abu Shabab killed in Gaza",
+      "url": "https://www.bbc.com/news/articles/cz0nd088e09o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-12-04T21:45:33.000Z",
+      "summary_90w": "",
+      "raw": "His Popular Forces group says Abu Shabab was shot while attempting to resolve a family dispute and not killed by Hamas.",
       "topics": [
         "World"
       ]
@@ -692,19 +731,6 @@
       ]
     },
     {
-      "id": "e964c9da881c406ae1ba95dc725496b4280a6fd0",
-      "title": "Spotify wants to be the next big video service",
-      "url": "https://www.theverge.com/column/837829/spotify-video-service",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-12-04T16:30:00.000Z",
-      "summary_90w": "",
-      "raw": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.\nGet ready for a lot more video content on Spotify. Sometime later this month, the service will start incorporating music videos into its app, and give US-based subscribers the ability to easily switch back and forth between audio and video versions of many popular songs.\nAnd Spotify isn't stopping there. \"We're not just building features; we're creating a best-in-class video experience to rival the biggest players, like YouTube or TikTok,\" the company declared in a recent job l …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "910494835da2e8f7fbf30a9449d5d5cbe18ceab8",
       "title": "Tanzanian activist blocked from Instagram after mobilising election protests",
       "url": "https://www.bbc.com/news/articles/cwyv7ggqpjpo?at_medium=RSS&at_campaign=rss",
@@ -719,7 +745,7 @@
     },
     {
       "id": "bfc0c5b5fa8010f2f78baa0c2ac63806e10d4ef5",
-      "title": "Horror film character? 'I don't waste energy on that' - Verstappen in-depth on F1 title race",
+      "title": "Horror movie character? 'I don't waste my time on that' - Verstappen in-depth on title race",
       "url": "https://www.bbc.com/sport/formula1/articles/cx2pe1ky9j4o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -780,19 +806,6 @@
       "raw": "While TikTok is already known for its recommendation algorithm, which is able to target users with highly personalized content, the addition of a Nearby Feed gives it the ability to display even more relevant content to its users.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "285b98434be61c8637f1b287a12cfe1c9ceeb661",
-      "title": "NHS must take elderly infections more seriously, Chris Whitty warns",
-      "url": "https://www.bbc.com/news/articles/c1kpvxewg93o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-04T16:14:31.000Z",
-      "summary_90w": "",
-      "raw": "England's chief medical officer says doctors do not appreciate risk of heart attack and stroke, as flu cases rise.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1264,19 +1277,6 @@
       ]
     },
     {
-      "id": "94ae7fd6b1c2f4b76a8ef3deb6207cc2aa59abe8",
-      "title": "'Not becoming of a president': Somali-Americans respond to Trump's 'garbage' remarks",
-      "url": "https://www.bbc.com/news/articles/c8dy1613j2ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-04T05:22:42.000Z",
-      "summary_90w": "",
-      "raw": "Somali-Americans tell of their heightened fear after the US president intensified his criticism of the community.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "767b72be96b840a36d8c502b277f681fc08c5a1c",
       "title": "Ghana’s Ibrahim Mahama first African to top annual art power list",
       "url": "https://www.theguardian.com/artanddesign/2025/dec/04/ibrahim-mahama-ghana-tops-artreview-power-list",
@@ -1680,19 +1680,6 @@
       ]
     },
     {
-      "id": "be61fbf32241b3222b9060419dc2d6a9351afe3c",
-      "title": "Was it a coup or was it a 'sham'? Behind Guinea-Bissau's military takeover",
-      "url": "https://www.bbc.com/news/articles/c1m8nm22785o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-12-03T10:44:00.000Z",
-      "summary_90w": "",
-      "raw": "The military has taken over but some say the overthrow of the president was not what it seemed.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "63e686e32c93a4094ad8de70e9ac9022855371ee",
       "title": "India scraps order to pre-install state-run cyber safety app on smartphones",
       "url": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss",
@@ -1740,19 +1727,6 @@
       "published": "2025-12-03T02:56:42.000Z",
       "summary_90w": "",
       "raw": "Former vice-president Salvador Nasralla has a small lead over his rival, the conservative former mayor of Tegucigalpa, Nasry Asfura.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "636bd098736e95c6427f697b9ce40a8b571c5de8",
-      "title": "Cyclone catastrophe in Sri Lanka awakens volunteer spirit",
-      "url": "https://www.bbc.com/news/articles/c058n10727po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-12-03T00:34:05.000Z",
-      "summary_90w": "",
-      "raw": "Fishing boats deliver relief supplies to flooded suburbs as community kitchens churn out food aid.",
       "topics": [
         "World"
       ]
@@ -1872,6 +1846,19 @@
       "raw": "It will be able to monitor changes in brain function just minutes after weapon use, scientists say.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "788c904daa9d02454d4cde853b864167c65c4ffa",
+      "title": "Fox News faces critical test in 2nd case over false 2020 election claims",
+      "url": "https://www.npr.org/2025/12/02/nx-s1-5627506/fox-news-smartmatic-lawsuit-election-claims-trial",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2025-12-02T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The allegations in the multibillion-dollar case sound familiar: A voting-tech company accuses Fox News of defamation for false claims it broadcast about rigged votes in the 2020 presidential election.",
+      "topics": [
+        "Business"
       ]
     },
     {
