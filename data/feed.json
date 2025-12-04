@@ -1,7 +1,124 @@
 {
-  "version": "1764856352002",
-  "generatedAt": "2025-12-04T13:52:32.002Z",
+  "version": "1764857843017",
+  "generatedAt": "2025-12-04T14:17:23.017Z",
   "items": [
+    {
+      "id": "1dee75b114dce09c5a7b059cc120261dbe351cd5",
+      "title": "Nvidia’s new RTX 50-series GPU driver restores PhysX support for popular games",
+      "url": "https://www.theverge.com/news/838043/nvidia-rtx-50-series-physx-support-driver",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-12-04T14:11:16.000Z",
+      "summary_90w": "",
+      "raw": "Nvidia launched its first RTX 50-series graphics cards earlier this year without support for PhysX, the GPU-accelerated technology that let games realistically simulate shattering glass, moving liquids, smoke, fog, and more. Now, Nvidia is bringing back PhysX support for the RTX 50-series GPUs for top-played games like Borderlands 2, Mirror’s Edge, and Batman: Arkham City.\n“We heard the feedback from the community, and with the launch of our new driver today, we are adding custom support for GeForce gamers’ most played PhysX-accelerated games, enabling full performance on GeForce RTX 50 Series GPUs, in line with our existing PhysX support on prior-generation GPUs,” says Nvidia.\nPhysX was a big part of games like Borderlands 2 and Mirror’s Edge, and it originally didn’t ship with Nvidia’s latest GPUs because the RTX 50-series dropped support for 32-bit CUDA support. That prevented these older games using PhysX from being GPU-accelerated on the latest Nvidia GPUs. Some titles like Borderlands 2 dropped below 60fps, because the games were relying on a CPU to deliver PhysX effects.\nNvidia has now created “custom support” for top-played PhysX-accelerated games, but not all games are supported yet. Here’s the current list:\nAlice: Madness Returns\nAssassin’s Creed IV: Black Flag\nBatman: Arkham City\nBatman: Arkham Origins\nBorderlands 2\nMafia II\nMetro 2033\nMetro: Last Light\nMirror’s Edge\nNvidia says it’s also planning to support Batman: Arkham Asylum “in the first part of 2026,” but there’s no word on any additional games. PhysX was always limited to a handful of titles anyway, but Resetera forum members have been tracking more than 40 games that have been affected by the removal of PhysX support on RTX 50-series GPUs. Unfortunately, it seems unlikely that Nvidia will fully support all of these older PhysX games.\nYou can download Nvidia’s new Game Ready driver (591.44) over at Nvidia’s website or through the Nvidia app.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "de6622ec4e378bd3a735fd643f84af3ab6a3424b",
+      "title": "Yahoo is using AI to recap football games in real time",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-12-04T14:05:16.000Z",
+      "summary_90w": "",
+      "raw": "It's about to be week 14 of the NFL season, and stakes and storylines abound across the league. In a new section of the Yahoo Sports app, Yahoo is hoping it can use AI to capture them all automatically. The company is launching a new feature called Game Breakdowns, which attempt to generate a snapshot of what's interesting about a game - before, during, or after it's been played.\nGame Breakdowns, which for now are in beta and only for users who pay for Yahoo's Fantasy Plus subscription, consist of three things. The first is a summary of the game, intended to capture both its most interesting stats and its biggest stories - not just typical  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f5a6298cbdb0739c31cb02e0f72861aeb0ce364d",
+      "title": "EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp",
+      "url": "https://techcrunch.com/2025/12/04/eu-investigating-meta-over-policy-change-that-bans-rival-ai-chatbots-from-whatsapp/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-12-04T14:02:28.000Z",
+      "summary_90w": "",
+      "raw": "The European Commission is is launching an antitrust investigation into Meta's move to ban other AI companies from using WhatsApp's business tools to offer their own AI chatbots to users.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "89d96e00d0e8efaa007665bdd0e49cb443dfaf4a",
+      "title": "Labor urged to target gas exporters and bring in east coast reserve ‘right now’ as it weighs scheme’s design",
+      "url": "https://www.theguardian.com/business/2025/dec/04/labor-urged-to-target-gas-exporters-and-bring-in-east-coast-reserve-right-now-as-it-weighs-schemes-design",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-12-04T14:00:24.000Z",
+      "summary_90w": "",
+      "raw": "Australian Workers’ Union calls for ‘simple, workable’ model that applies to existing projects, not just future ones\n\nGet our breaking news email, free app or daily news podcast\n\nBlue-collar workers and manufacturers want the Albanese government to stare down the gas giants as it designs a new gas reservation scheme, warning the industry’s preferred approach would fail to quickly contain prices.\nThe federal government is expected to unveil plans for an east coast gas reserve as soon as next week after a six-month review of the gas market.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9ba611905e1d20cdf0d480aa9c8ce5ce5b07b777",
+      "title": "‘Day by day I lose weight’: asylum seekers on Nauru get $115 a week, but a bag of grapes costs $20",
+      "url": "https://www.theguardian.com/world/2025/dec/04/nauru-australia-offshore-processing-asylum-seekers-conditions-hunger-declining-health",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-12-04T14:00:23.000Z",
+      "summary_90w": "",
+      "raw": "Prohibited from working, people sent to the island by Australia say they are struggling to survive because food is so expensive\n\nGet our breaking news email, free app or daily news podcast\n\nAsylum seekers sent to Nauru by Australia say they are going hungry on the island, prohibited from working to support themselves and given insufficient money to buy enough food.\nOthers say they fear the Nauru government will deport them to their home countries, from where they say they have fled persecution and violence.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "492fb2a5e6a0ef0ed4603f31cac8ab9e16f4207a",
+      "title": "HyperVerse promoter ‘Bitcoin Rodney’ accuses Australian Sam Lee in US court of duping him with ‘elaborate deception’",
+      "url": "https://www.theguardian.com/technology/2025/dec/04/hyperverse-bitcoin-rodney-us-court-australian-sam-lee-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-12-04T14:00:23.000Z",
+      "summary_90w": "",
+      "raw": "Rodney Burton says in Maryland district court memorandum he acted in good faith when promoting scheme that allegedly defrauded investors of US$1.89bn, but Lee calls claims ‘baseless’\nA key promoter of an alleged global $3bn Ponzi scheme claims in newly filed US court documents he was trapped by an “elaborate” fraud orchestrated by Australian Sam Lee, and should be released from custody.\nRodney Burton – known as Bitcoin Rodney – was charged in the US in early 2024 for his alleged part in the HyperVerse scheme, which swept the globe from 2020 and allegedly defrauded investors of US$1.89bn (A$2.9bn at current rates).\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bc66412b9d6bd7bc61b66e7297d59e3fad76b620",
+      "title": "AI finds its way into Apple’s top apps of the year",
+      "url": "https://techcrunch.com/2025/12/04/ai-finds-its-way-into-apples-top-apps-of-the-year/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-12-04T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Although Apple has continued to avoid naming a dedicated AI app or AI chatbot as its app of the year, AI was showcased among this year's winners.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c5c79512b3043f9dc4c8fa41c50102575967c310",
+      "title": "Root hits historic century but second Test finely balanced after day one",
+      "url": "https://www.bbc.com/sport/cricket/videos/c0mpry2jgevo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-04T13:53:55.000Z",
+      "summary_90w": "",
+      "raw": "Joe Root scores his first century in Australia and finishes unbeaten on 135 as England close on 325-9 at stumps on day one of the second Ashes Test against Australia in Brisbane.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7c184ddbd9988dfba989f276105feb540c43f6c3",
+      "title": "Wider use of facial recognition could see biggest change in policing since DNA, minister says",
+      "url": "https://www.bbc.com/news/articles/c3r7pwpgeweo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-04T13:53:15.000Z",
+      "summary_90w": "",
+      "raw": "The Home Office hopes a new public consultation will lead to new laws expanding the use of the technology by more police forces.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "47fe030f3b0162cefe1c54a6f0818df822404646",
       "title": "Household bills will rise to fund £28bn investment in energy network",
@@ -24,19 +141,6 @@
       "published": "2025-12-04T13:39:03.000Z",
       "summary_90w": "",
       "raw": "Joe Root ends his long wait for a Test century in Australia by reaching three figures on day one of the second Ashes Test in Brisbane.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7c184ddbd9988dfba989f276105feb540c43f6c3",
-      "title": "Wider use of facial recognition could see biggest change in policing since DNA, minister says",
-      "url": "https://www.bbc.com/news/articles/c3r7pwpgeweo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-04T13:34:29.000Z",
-      "summary_90w": "",
-      "raw": "The Home Office hopes a new public consultation will lead to new laws expanding the use of the technology by more police forces.",
       "topics": [
         "World"
       ]
@@ -101,7 +205,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-12-04T13:25:30.000Z",
       "summary_90w": "",
-      "raw": "Meeting comes two days after Witkoff and Jared Kushner held five hours of talks with Vladimir Putin in Moscow\n\nAnalysis: the Ukraine peace deal has stumbled yet again over an inevitable obstacle: Putin\n\nThe US special envoy Steve Witkoff will meet Ukraine’s national security council chief, Rustem Umerov, in Miami on Thursday, as Washington steps up its diplomatic push to secure a pathway to peace in Ukraine.\nWitkoff, accompanied by Donald Trump’s son-in-law Jared Kushner, spent nearly five hours in talks with Vladimir Putin at the Kremlin on Tuesday. Moscow later said the meeting had not brought the sides any closer to a peace agreement.\n Continue reading...",
+      "raw": "Meeting comes two days after Witkoff and Jared Kushner held five hours of talks with Vladimir Putin in Moscow\n\nAnalysis: Ukraine peace deal has stumbled yet again\n\nThe US special envoy Steve Witkoff will meet Ukraine’s national security council chief, Rustem Umerov, in Miami on Thursday as Washington steps up its diplomatic push to secure a pathway to peace in Ukraine.\nWitkoff, accompanied by Donald Trump’s son-in-law Jared Kushner, spent nearly five hours in talks with Vladimir Putin at the Kremlin on Tuesday. Moscow later said the meeting had not brought the sides any closer to a peace agreement.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -198,19 +302,6 @@
       ]
     },
     {
-      "id": "06bd4abb9717c4fb7c89a54f8ceefe6e37334a03",
-      "title": "Root hits century as England start second Ashes Test by posting 325-9",
-      "url": "https://www.bbc.com/sport/cricket/articles/c3e05wgdp2vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-04T12:05:24.000Z",
-      "summary_90w": "",
-      "raw": "Joe Root finally makes a century in Australia to keep England afloat on a riveting first day of the second Ashes Test in Brisbane.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "9bf72c48e508b178a15eb6a9e9af5ab5a642b66f",
       "title": "Killing of survivors sparks outrage – but entire US ‘drug boat’ war is legally shaky",
       "url": "https://www.theguardian.com/us-news/2025/dec/04/venezuela-boat-strikes-legality-hegseth",
@@ -289,19 +380,6 @@
       ]
     },
     {
-      "id": "bd6ecac178fa01ba45f1766c086514db003871b3",
-      "title": "'England's finest' - Root hits first century in Australia ",
-      "url": "https://www.bbc.com/sport/cricket/videos/c8r3e4y4pvxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-04T11:11:25.000Z",
-      "summary_90w": "",
-      "raw": "Joe Root hits his 40th career Test century, and his first in Australia, as England move on to 256-7 on day one of the second Ashes Test in Brisbane.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "c5d0a3a4e77ce01411fa76012f3b9d4986e09078",
       "title": "Porn site fined £1m over age checks has never responded to Ofcom",
       "url": "https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss",
@@ -323,6 +401,19 @@
       "published": "2025-12-04T11:02:24.000Z",
       "summary_90w": "",
       "raw": "The remains of agricultural worker Suthisak Rintalak were recovered by Hamas and Palestinian Islamic Jihad in northern Gaza.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "747d4f7c73d5eb9be1f90f2f6a0b0ea2f8f87cb9",
+      "title": "Newcastle want to be 'top club in world' by 2030",
+      "url": "https://www.bbc.com/sport/football/articles/cvgj8j1gv0go?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-04T11:00:25.000Z",
+      "summary_90w": "",
+      "raw": "Newcastle United \"in the debate about being the top club in the world\" according to new CEO David Hopkinson.",
       "topics": [
         "World"
       ]
@@ -388,19 +479,6 @@
       "published": "2025-12-04T10:43:40.000Z",
       "summary_90w": "",
       "raw": "Kyle Sieniawski, from Pontypridd, died last month, after being diagnosed with motor neurone disease in January.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9124676bdd3c082ec4c0787cc581d81d45c6f7de",
-      "title": "What is happening to gas and electricity prices?",
-      "url": "https://www.bbc.com/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-04T10:42:56.000Z",
-      "summary_90w": "",
-      "raw": "Customers will pay for investment in Britain's energy networks, but should save from other changes.",
       "topics": [
         "World"
       ]
@@ -648,32 +726,6 @@
       "published": "2025-12-04T07:00:08.000Z",
       "summary_90w": "",
       "raw": "Government once seen as progressive on migration says aid cuts to blame for excluding countries ‘not experiencing war’\nThe Ugandan government has stopped granting asylum and refugee status to people from Eritrea, Somalia and Ethiopia, citing severe funding shortfalls for the significant policy shift.\nHillary Onek, Uganda’s minister for refugees, announced that the government would no longer grant the status to new arrivals from countries “not experiencing war”.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1dda3c64874f2327b950c69e9f766cc3c6ee908d",
-      "title": "‘Giant Esky’: Australia’s first indoor snow resort planned for western Sydney gets Chinese backing",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/04/giant-esky-australias-first-indoor-snow-resort-planned-for-western-sydney-gets-chinese-backing",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-12-04T06:58:38.000Z",
-      "summary_90w": "",
-      "raw": "Resort to be located on the banks of Penrith’s Nepean River, 15km from Western Sydney airport, with plans for a 300-metre Olympic-class ski run\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA $700m project to build Australia’s first indoor ski resort has secured the backing of a leading Chinese operator.\nWinter Sports World’s managing director, Peter Magnisalis, signed a memorandum of understanding in the Chinese city of Guangzhou on Thursday with BonSki Group, the world’s biggest indoor ski operator.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fdca81fbb43fdf1fc4b15a963aed12cb0935278b",
-      "title": "Sydney drivers stuck in busy tunnel for up to four hours amid fears of ‘shotcrete’ roof collapse",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/04/sydney-drivers-stuck-in-busy-tunnel-for-up-to-four-hours-amid-fears-of-shockcrete-roof-collapse",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-12-04T06:34:20.000Z",
-      "summary_90w": "",
-      "raw": "After an earlier closure on Thursday the M4 tunnel reopened one westbound lane between Haberfield and North Strathfield on Thursday\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nDrivers have been left stranded for up to four hours in Sydney’s M4 motorway tunnel within the WestConnex, after fears of a concrete roof collapse which saw the closure of all westbound lanes.\nAbout 6am on Thursday morning, Transport for NSW advised the tunnel was closed westbound between Haberfield and North Strathfield due to “emergency roadworks”.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1173,32 +1225,6 @@
       ]
     },
     {
-      "id": "950944676d2392188a1d27a8340f3bb1cffa5864",
-      "title": "Reddit&#8217;s CEO says r/popular &#8216;sucks,&#8217; and it&#8217;s going away",
-      "url": "https://www.theverge.com/news/837780/reddit-r-popular-community-going-away-steve-huffman",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-12-03T21:20:20.000Z",
-      "summary_90w": "",
-      "raw": "Reddit CEO Steve Huffman. | Photo: Getty Images\t\n\nReddit is “moving away” from r/popular, the default feed for new users, and plans to replace it with “better, more relevant and personalized feeds,” according to CEO Steve Huffman (aka Spez). Huffman also notes that r/popular “sucks.”\n“For a long while, we were known as the ‘front page of the internet,’ but we’ve outgrown a singular front page for everyone,” Huffman says. “You have different interests than I do, and your Reddit should look different from mine. And from your neighbor’s, or your coworker’s, or your best friend’s.”\nRegarding r/popular, he says that “in theory, it’s what’s most popular on Reddit, but it’s actually what is liked by the most active users on Reddit—which is not the same thing. Having it as a default feed gives the false impression of a singular Reddit culture, one that is neither representative of Reddit nor appealing to new users (or anyone at all, IMO).” So, in the “near future,” Reddit is going to “stop showing it to new users, and unless you read it regularly, we’ll remove it from the core group of feeds in the app.”\nThe changes to r/popular will start showing up to some users as early as this week, spokesperson Tim Rathschmidt tells The Verge. Reddit originally made r/popular the default for logged-out users in 2017.\nHuffman didn’t go into detail on what the improved feeds might look like, and Rathschmidt says that the company is “still in early-stage testing and don’t have more to share at the moment.” However, Huffman did reply to a post asking for the return of News feed filters by saying that he’s “fully aligned here” and that “when I talk about more personalized and relevant feeds, this sort of functionality is what I’m referring to.”\nReddit is also in the process of changing its policies for moderators to prevent users from overseeing a large number of high-traffic communities, seemingly to reduce the number of so-called “powermods.” As announced in September, beginning March 31st, 2026, users will only be able to moderate up to five communities that have over 100K weekly visitors. The company says that the change will impact “less than 0.1% of active mods.”\n“Distinct communities require distinct leaders,” Huffman says. “A situation where someone moderates an unlimited number of massive communities is not that, which is why we’re making a few changes.”",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "b3f61e0c67c53f68099e0e91b20f15378754f76a",
-      "title": "Trump embraces gas guzzlers and air pollution by weakening fuel economy standards",
-      "url": "https://www.theverge.com/news/837575/trump-rollback-fuel-economy-standards",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-12-03T21:19:09.000Z",
-      "summary_90w": "",
-      "raw": "Motorists drive on Interstate 210 during the morning commute on December 03, 2025 in Pasadena, California.\t\n\nPresident Donald Trump announced a new plan that lets carmakers pollute more by making less fuel efficient vehicles. The National Highway Traffic Safety Administration (NHTSA) said today that it’ll roll back fuel economy rules finalized last year by the Biden administration for model year 2022-2031 vehicles.\nThe Trump administration has eliminated incentives for EV purchases, stymied energy efficiency policies, and gutted pollution regulations in general. The president wants the US to produce more oil and gas, and says that his agenda will boost business for American automakers. Critics contend that Americans will ultimately pay for these measures with higher fuel costs, as well as health risks and climate disasters stemming from tailpipe emissions.\n“Slashing fuel economy standards will increase costs for drivers and threaten the progress made in reducing dangerous air pollution and preventing adverse health outcomes for children, older adults, and communities who live near busy roads,” Darien Davis, government affairs advocate on climate change and clean energy at the League of Conservation Voters, said in a statement emailed to The Verge.\n\n“Slashing fuel economy standards will increase costs for drivers”\n\n\nNHTSA proposed a federal fuel economy standard of around 34.5 miles per gallon of gas by 2031.  That’s far lower than the bar Biden set last year of reaching an average of roughly 50.4 miles per gallon by 2031. \nThe agency previously estimated that the higher standards set in 2024 would collectively save Americans $23 billion in fuel costs over the years, or about $600 for each passenger car and light truck owner over the lifetime of their vehicle. The rules were expected to cut down gasoline use by 70 billion gallons through 2050. That would avoid 710 million metric tons of planet-heating carbon dioxide pollution, equivalent to taking more than 165.6 million gas-guzzling passenger vehicles off the road for a year. Trump claimed without evidence that his latest action would shave $1,000 off the price of a car, while clean energy advocates expect the rollback to lead to higher fuel costs.\nAutomakers would likely have had to sell more EVs in order to meet the higher Biden-era standards for fleetwide fuel economy. Trump’s Transportation Secretary Sean Duffy accused the Biden administration in June of illegally using Corporate Average Fuel Economy (CAFE) standards to mandate EV sales. In July, Republicans eliminated fines for carmakers failing to meet CAFE standards in the giant spending bill they passed in July and sunsetted tax credits for EVs. “America Now Effectively Has No Fuel Economy Rules,” reads a July headline from Kelley Blue Book. \nGM had paid $128.2 million in CAFE penalties for 2016 and 2017, Reuters reports. Stellantis, which owns Chrysler, has paid more than $590 million in penalties since 2016. Leadership for both companies joined the president in the Oval Office today as he announced the new CAFE standards. \n“We’ve just freed you up, so you’re going to have a good day, you’re going to have a good number of years,” Trump said to auto industry leaders during the announcement. \n“Today is a victory of common sense and affordability,” Ford CEO Jim Farley later responded. \nThe US Department of Transportation is expected to post the proposal for public comment before finalizing standards next year.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "2e50c6c38ed873836e98dbe451b2dcfe25ad86c6",
       "title": "Trump administration rolls back fuel economy standards, again",
       "url": "https://techcrunch.com/2025/12/03/trump-administration-rolls-back-fuel-economy-standards-again/",
@@ -1355,19 +1381,6 @@
       ]
     },
     {
-      "id": "2c22de1ba7db13203ee5be6b8a50469d17226bea",
-      "title": "Anthropic hires lawyers as it preps for IPO",
-      "url": "https://techcrunch.com/2025/12/03/anthropic-hires-lawyers-as-it-preps-for-ipo/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-12-03T17:42:37.000Z",
-      "summary_90w": "",
-      "raw": "It has brought on law firm Wilson Sonsini to help kick off the process, and the company is tackling an internal checklist to prepare it for what could be one of the largest IPOs ever.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "49ff19e007be3c64630f530355d83c3765489f15",
       "title": "Trump says he is pardoning Democratic congressman in bribery case ",
       "url": "https://www.bbc.com/news/articles/c62v9z7z1z2o?at_medium=RSS&at_campaign=rss",
@@ -1378,19 +1391,6 @@
       "raw": "Trump says he will issue a \"full and unconditional\" pardon of the Texas representative and his wife.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "8b3bb69f7e01ba53f6edc8f7d48902a08266876a",
-      "title": "AWS doubles down on custom LLMs with features meant to simplify model creation",
-      "url": "https://techcrunch.com/2025/12/03/aws-doubles-down-on-custom-llms-with-features-meant-to-simplify-model-creation/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-12-03T16:30:00.000Z",
-      "summary_90w": "",
-      "raw": "AWS is launching more capabilities in both Amazon Bedrock and Amazon SageMaker AI to make building custom models easier.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1532,19 +1532,6 @@
       "published": "2025-12-03T12:58:20.000Z",
       "summary_90w": "",
       "raw": "A two-year investigation details disturbing accounts of rape, sexual violence, murders and environmental destruction.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8bfe9e379353a70edb42844779ffe12f93dccb95",
-      "title": "Malaysia Airlines flight MH370 search to resume 11 years after jet went missing",
-      "url": "https://www.theguardian.com/world/2025/dec/03/search-for-malaysia-airline-flight-mh370-to-resume-over-11-years-after-plane-went-missing",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-12-03T12:34:28.000Z",
-      "summary_90w": "",
-      "raw": "Malaysian transport ministry says robotics company Ocean Infinity will restart search operation on 30 December\nThe search for the missing Malaysia Airlines flight MH370 will resume this month, the Malaysian transport ministry has said, more than a decade after the plane disappeared in one of aviation’s greatest mysteries.\nIn a statement on Wednesday, the transport ministry confirmed that the marine robotics company Ocean Infinity, based in the UK and US, would resume a search of the seabed from 30 December, over a period of 55 days, with operations conducted intermittently.\n Continue reading...",
       "topics": [
         "World"
       ]
