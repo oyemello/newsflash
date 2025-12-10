@@ -1,7 +1,20 @@
 {
-  "version": "1765395816416",
-  "generatedAt": "2025-12-10T19:43:36.416Z",
+  "version": "1765396309441",
+  "generatedAt": "2025-12-10T19:51:49.441Z",
   "items": [
+    {
+      "id": "a2783c99a088e8d5221c3bdc0c8b3eb348ebd322",
+      "title": "I couldn&#8217;t fix it with iFixit’s AI FixBot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/841252/ifixit-fixbot-hands-on-ai-chatbot",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-12-10T19:44:24.000Z",
+      "summary_90w": "",
+      "raw": "My classic Sony CRT television won't power on. My living room is chilly because my Mitsubishi heat pump isn't putting out enough hot air. I want my Japanese N64 to play US games, too, but I've been too busy to pop the hood. What if I had an AI companion to talk me through?\niFixit just released a voice-and-text chatbot to do just that, one that can supposedly help you figure out repairs just by talking to it - FixBot will ask you questions, and you can share images, too. iFixit claims it \"thinks out loud with you, the way a master technician would, until the diagnosis clicks into place.\"\nHaving tried it, I would definitely not trust iFixit' …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "1f03d2323a1eb27e1e213ffba8207415f0f8cb4e",
       "title": "Overview Energy wants to beam energy from space to existing solar farms",
@@ -562,19 +575,6 @@
       ]
     },
     {
-      "id": "d2754bc867972dc784e70ac2776369bde5529cc1",
-      "title": "Chatbots are struggling with suicide hotline numbers",
-      "url": "https://www.theverge.com/report/841610/ai-chatbot-suicide-safety-failure",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-12-10T16:32:15.000Z",
-      "summary_90w": "",
-      "raw": "Last week, I told multiple AI chatbots I was struggling, considering self-harm, and in need of someone to talk to. Fortunately, I didn't feel this way, nor did I need someone to talk to, but of the millions of people turning to AI with mental health challenges, some are struggling and need support. Chatbot companies like OpenAI, Character.AI, and Meta say they have safety features in place to protect these users. I wanted to test how reliable they actually are. \nMy findings were disappointing. Commonly, online platforms like Google, Facebook, Instagram, and TikTok signpost suicide and crisis resources like hotlines for potentially vulnerabl …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "d0a0af3cc4b2b7d80a11025a6ec3c23c0b2a0777",
       "title": "Amazon changes how copyright protection is applied to Kindle Direct’s self-published e-books",
       "url": "https://techcrunch.com/2025/12/10/amazon-changes-how-copyright-protection-is-applied-to-kindle-directs-self-published-ebooks/",
@@ -1095,16 +1095,29 @@
       ]
     },
     {
-      "id": "9a6d3cc3c271a2c64beba891cee68a1dd0a13553",
-      "title": "Trump's SAVE tool is looking for noncitizen voters. But it's flagging U.S. citizens too",
-      "url": "https://www.npr.org/2025/12/10/nx-s1-5588384/save-voting-data-us-citizens",
+      "id": "fdcaf7c3be80167366dd4be47d6a44cef936a1a3",
+      "title": "How Trump is remaking one agency to aid his deportation push",
+      "url": "https://www.npr.org/2025/12/10/nx-s1-5611495/trump-citizenship-immigration-services-changes",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-12-10T10:00:00.000Z",
       "summary_90w": "",
-      "raw": "Anthony Nel, of Texas, became a U.S. citizen as a teen. But a flaw in a Trump administration citizenship tool flagged him as a potential noncitizen, which led to his voter registration being canceled.",
+      "raw": "The Trump administration's changes to U.S. Citizenship and Immigration Services are taking an axe to the agency's traditional mission of ensuring people lawfully immigrate and stay in the U.S.",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "9a6d3cc3c271a2c64beba891cee68a1dd0a13553",
+      "title": "Trump's SAVE tool is looking for noncitizen voters. But it's flagging U.S. citizens too",
+      "url": "https://www.npr.org/2025/12/10/nx-s1-5588384/save-voting-data-us-citizens",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2025-12-10T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Anthony Nel, of Texas, became a U.S. citizen as a teen. But a flaw in a Trump administration citizenship tool flagged him as a potential noncitizen, which led to his voter registration being canceled.",
+      "topics": [
+        "Technology"
       ]
     },
     {
