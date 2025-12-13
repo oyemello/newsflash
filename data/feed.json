@@ -1,6 +1,6 @@
 {
-  "version": "1765613932532",
-  "generatedAt": "2025-12-13T08:18:52.532Z",
+  "version": "1765615385212",
+  "generatedAt": "2025-12-13T08:43:05.212Z",
   "items": [
     {
       "id": "80adb96b2e804680a6facc3d17bf5f6fa9e396aa",
@@ -435,7 +435,7 @@
       "id": "29d24e4cce1f64777cdfbb8eb74693aa45a720ff",
       "title": "Ukraine's health supplies hit in series of Russian strikes on medical warehouses",
       "url": "https://www.bbc.com/news/articles/cqlkk9qk7vyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-12-13T00:05:21.000Z",
       "summary_90w": "",
@@ -799,7 +799,7 @@
       "id": "6a38c79dcf39677b24f0c6acc14c746f2199c0c5",
       "title": "Nobel laureate Narges Mohammadi arrested in Iran, supporters say",
       "url": "https://www.bbc.com/news/articles/cly559exm87o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-12-12T18:21:44.000Z",
       "summary_90w": "",
@@ -1511,6 +1511,19 @@
       ]
     },
     {
+      "id": "d289fa0d43afd491e4653020ad616c3ee1f60a99",
+      "title": "Is Flu Different This Winter?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0mn1242?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-11T19:02:00.000Z",
+      "summary_90w": "",
+      "raw": "The number of people in hospital with flu doubles in a week.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "099bab7f277b9efdc166f833764a83e2c404238c",
       "title": "Eurovision winner Nemo to return trophy in protest at Israel taking part in 2026",
       "url": "https://www.theguardian.com/tv-and-radio/2025/dec/11/nemo-eurovision-winner-2024-hand-back-trophy-protest-israel-taking-part-2025",
@@ -2119,6 +2132,19 @@
       "raw": "The app, which was criticised at launch for its $11.99 (£9) a month fee, will close on 31 December.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "53515fb374304cbca7057778293272f5385247e1",
+      "title": "BBC News app",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-04-30T14:04:28.000Z",
+      "summary_90w": "",
+      "raw": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "topics": [
+        "World"
       ]
     }
   ]
