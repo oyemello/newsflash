@@ -1,7 +1,72 @@
 {
-  "version": "1766080737301",
-  "generatedAt": "2025-12-18T17:58:57.301Z",
+  "version": "1766082147438",
+  "generatedAt": "2025-12-18T18:22:27.438Z",
   "items": [
+    {
+      "id": "22ea4ef59e23b39e63706bb83d134218c71b25cc",
+      "title": "UK to name Christian Turner as new ambassador to US",
+      "url": "https://www.bbc.com/news/articles/ckgmpnr4ex2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-18T18:13:31.000Z",
+      "summary_90w": "",
+      "raw": "Turner has spent a nearly 30-year career working across Whitehall and the Foreign Office.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e716dd27cd230f6d5c360da6e986cff7926dc377",
+      "title": "These 21-year-old dropouts raised $2M to build Givefront, a fintech for nonprofits",
+      "url": "https://techcrunch.com/2025/12/18/these-21-year-old-dropouts-raised-2m-to-build-givefront-a-fintech-for-nonprofits/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-12-18T18:04:42.000Z",
+      "summary_90w": "",
+      "raw": "YC-backed Givefront is building a fintech designed specifically for nonprofits, including food banks, churches, and homeowner associations.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "70a796f8c4a1717c7ce9c941c31081a641fe08d7",
+      "title": "Riot Games found a motherboard security flaw that helps PC cheaters",
+      "url": "https://www.theverge.com/news/847539/riot-games-motherboard-security-flaw-pc-cheaters-anti-cheat",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-12-18T18:01:51.000Z",
+      "summary_90w": "",
+      "raw": "Riot Games says a security flaw in many recent motherboards could be exploited by cheaters undetected, and now companies including Asrock, Asus, Gigabyte, and MSI have released BIOS updates to address the issue. According to Riot, \"had this issue gone unnoticed, it would have completely nullified all existing DMA detection and prevention tech currently on the market - including that of other gaming companies - due to the nature of this class of cheats running in a privileged area that anti-cheats typically do not run.\"\nAs a result, Riot's Vanguard anti-cheat software may prompt you to update your system to a patched BIOS so that you can pla …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6a545745b640bd1a6665caf80596ddaf9123b049",
+      "title": "Ukraine may need to cut drone production if no deal reached on frozen Russian assets, says Zelenskyy – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/dec/18/eu-frozen-russian-assets-ukraine-war-europe-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-12-18T17:59:16.000Z",
+      "summary_90w": "",
+      "raw": "Ukrainian president says case for transfer of assets to fund war effort is ‘morally clear and just’ \nGermany’s chancellor Friedrich Merz confirms his support for the EU’s reparations loan, saying he sees “no better option.”\nHe diplomatically acknowledges Belgium’s concerns, and says he hopes “we can address them together” to “send a signal of strength and resolve … towards Russia.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "25b300a2247315ee7c6b333fc26040f67b991fd1",
+      "title": "Elections face further delays over councils shake-up",
+      "url": "https://www.bbc.com/news/articles/cdd5p7y1999o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-18T17:57:53.000Z",
+      "summary_90w": "",
+      "raw": "The prospect of further suspensions to local polls has triggered a blame game between the parties.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "8bc2616ff410d5dd786f8f5a7c49b378336eb5b8",
       "title": "Fact-checking White House plaques targeting former US presidents",
@@ -11,6 +76,19 @@
       "published": "2025-12-18T17:49:40.000Z",
       "summary_90w": "",
       "raw": "New plaques have appeared under the portraits of former US presidents at the White House.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "338a3f3b7aa2067008e5f2c880f6b3e01770190c",
+      "title": "Covid denier jailed for three years after urging armed revolt ",
+      "url": "https://www.bbc.com/news/articles/cy072n5w4wdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-18T17:43:44.000Z",
+      "summary_90w": "",
+      "raw": "Paul Martin called on people to attack the UK's infrastructure during the pandemic, the Old Bailey heard.",
       "topics": [
         "World"
       ]
@@ -42,19 +120,6 @@
       ]
     },
     {
-      "id": "6a545745b640bd1a6665caf80596ddaf9123b049",
-      "title": "Ukraine may need to cut drone production if no deal reached on frozen Russian assets, says Zelenskyy – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/dec/18/eu-frozen-russian-assets-ukraine-war-europe-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-12-18T17:37:14.000Z",
-      "summary_90w": "",
-      "raw": "Ukrainian president says case for transfer of assets to fund war effort is ‘morally clear and just’ \nGermany’s chancellor Friedrich Merz confirms his support for the EU’s reparations loan, saying he sees “no better option.”\nHe diplomatically acknowledges Belgium’s concerns, and says he hopes “we can address them together” to “send a signal of strength and resolve … towards Russia.”\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7893bfb36bce53270df82a46d5c2278d0ec46610",
       "title": "Children hurt in Manchester Arena bombing to get £20m in payouts",
       "url": "https://www.bbc.com/news/articles/czj0wjper44o?at_medium=RSS&at_campaign=rss",
@@ -71,7 +136,7 @@
       "id": "5c9679a1ac247a221215faae89b1b2b9ff9098ff",
       "title": "Trump Media to merge with fusion energy firm in $6bn deal",
       "url": "https://www.bbc.com/news/articles/cp9kv9lld38o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-12-18T17:32:16.000Z",
       "summary_90w": "",
@@ -94,19 +159,6 @@
       ]
     },
     {
-      "id": "25b300a2247315ee7c6b333fc26040f67b991fd1",
-      "title": "Elections face further delays over councils shake-up",
-      "url": "https://www.bbc.com/news/articles/cdd5p7y1999o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-18T17:12:21.000Z",
-      "summary_90w": "",
-      "raw": "The prospect of further suspensions to local polls has triggered a blame game between the parties.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b0a34a9025df3205f029a18fb8a7157790e58163",
       "title": "Trump Media is merging with fusion power company TAE Technologies in $6B+ deal",
       "url": "https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/",
@@ -117,6 +169,19 @@
       "raw": "The merger would broaden Trump Media’s holdings into the nascent fusion power space while data centers clamor for more electricity amid the ongoing AI boom.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "c15863b9599d47647b6209985783ceaf4e9e2215",
+      "title": "Kenyan debutant Munyua shocks De Decker at Worlds",
+      "url": "https://www.bbc.com/sport/darts/articles/cwyvdygp0v7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-18T17:02:52.000Z",
+      "summary_90w": "",
+      "raw": "Kenyan David Munyua causes a huge shock on his PDC World Championship debut, coming back from two sets behind to beat world number 18 Mike de Decker.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -212,7 +277,7 @@
     },
     {
       "id": "1cb89e1b4a17469dc9244057d467446efd73d120",
-      "title": "iRobot’s bankruptcy isn’t the end — it’s a reboot, says its CEO",
+      "title": "iRobot’s bankruptcy isn’t the end — it’s a reboot, says CEO",
       "url": "https://www.theverge.com/report/847340/irobot-bankruptcy-reset-interview-ceo-gary-cohen",
       "source_id": "verge-tech",
       "source_name": "The Verge",
@@ -238,7 +303,7 @@
     },
     {
       "id": "5eae1ac87ffb4ad9223736acffe19e89020a8900",
-      "title": "TDK Ventures, Accel set to back India’s EtherealX in reusable launch vehicle push: sources",
+      "title": "TDK Ventures, Accel set to back India’s EtherealX in reusable launch vehicle push: Sources",
       "url": "https://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -458,6 +523,19 @@
       ]
     },
     {
+      "id": "7b0d880bacbe575409a23658f7859060499aa81a",
+      "title": "Worst start in Old Firm history - how does Celtic manager Nancy compare?",
+      "url": "https://www.bbc.com/sport/articles/c0q59jwqgk2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-18T14:48:17.000Z",
+      "summary_90w": "",
+      "raw": "Wilfried Nancy is the first Old Firm boss to lose his opening four matches - can he recover Celtic's season and survive?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "da033e904a91e9ae2a6b063f3134dabf6dff9e4c",
       "title": "‘Why isn’t everyone talking about Domhnall Gleeson?’ Irish actor wins first Hollywood award",
       "url": "https://www.theguardian.com/film/2025/dec/18/why-isnt-everyone-talking-about-domhnall-gleeson-irish-actor-wins-first-hollywood-award",
@@ -498,7 +576,7 @@
     },
     {
       "id": "2877070d2dd3b8cfff55382f9b5581730c03adff",
-      "title": "German prosecutors file lawsuit against Greensill bosses over role in bank’s collapse",
+      "title": "German prosecutors bring charges against Greensill officials over role in bank’s collapse",
       "url": "https://www.theguardian.com/business/2025/dec/18/greensill-germany-bremen-banking-finances-law",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
@@ -595,7 +673,7 @@
       "source_name": "TechCrunch",
       "published": "2025-12-18T14:00:00.000Z",
       "summary_90w": "",
-      "raw": "Amazon said that the feature uses the Ring doorbell's video descriptions to determine who the person in front the camera is based on their uniform, actions, and what they are holding.",
+      "raw": "Amazon said that the feature uses the Ring doorbell's video descriptions to determine who the person in front of the camera is based on their uniform, actions, and what they are holding.",
       "topics": [
         "Technology"
       ]
@@ -627,16 +705,16 @@
       ]
     },
     {
-      "id": "c55d905ab5ddf6ae2c24e8a717860a5c81f0c46e",
-      "title": "The best gifts for dads that have everything (but deserve more)",
-      "url": "https://www.theverge.com/gadgets/780847/best-dad-gift-ideas",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-12-18T13:38:04.000Z",
+      "id": "577f2c5da4182d26ea16378bd7c13e8f9675357e",
+      "title": "Spurs open to selling forward Johnson",
+      "url": "https://www.bbc.com/sport/football/articles/cpq4xg898j3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-18T13:33:12.000Z",
       "summary_90w": "",
-      "raw": "What do you get the man who says he has everything? It's a tough question - and one you have a limited amount of time to answer, given the holidays are nearly upon us. You could try dropping subtle hints or asking friends and family for suggestions, but they might save their best ideas for themselves. Fortunately, if you're struggling to come up with something, we have more than a few ideas. \nWith the help of Verge staffers, we've compiled suggestions for dads of every make and model. We've collected great ideas for music-loving dads, whiskey aficionados, and anyone looking to top off all of their gadgets at once. \nBioLite Site Lights\nIf d …\n\nRead the full story at The Verge.",
+      "raw": "Tottenham's Europa League final match-winner Brennan Johnson is facing an uncertain future at the club amid growing Premier League interest in the attacker.",
       "topics": [
-        "Technology"
+        "World"
       ]
     },
     {
@@ -778,19 +856,6 @@
       "published": "2025-12-18T12:23:08.000Z",
       "summary_90w": "",
       "raw": "DR Congo's government say the announced withdrawal is intended to distract the US mediation team.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "62af2432d38c70efe78b3dc179102959b14ddb6c",
-      "title": "How will the interest rate cut affect my mortgage and savings?",
-      "url": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-18T12:14:47.000Z",
-      "summary_90w": "",
-      "raw": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
       "topics": [
         "World"
       ]
@@ -1095,19 +1160,6 @@
       ]
     },
     {
-      "id": "13f8ae3b63db5e23f3b9ff58dc9e069e1f54f789",
-      "title": "Police turned me from victim to offender after I reported assault at school",
-      "url": "https://www.bbc.com/news/articles/c3enzk2dwl9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-18T06:06:28.000Z",
-      "summary_90w": "",
-      "raw": "Theo Rose was \"misled\" by police into accepting a sanction for violence he didn't admit, review finds.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "98445e87854f37620b86dcdb4169b8048374323c",
       "title": "Morocco accused of ‘horrific’ abuse of detained gen Z protesters",
       "url": "https://www.theguardian.com/global-development/2025/dec/18/morocco-genz212-protests-police-mass-arrests-beatings-detentions-rights",
@@ -1212,23 +1264,10 @@
       ]
     },
     {
-      "id": "70299c1187930f8d184454c7e2a0d0d5482f550c",
-      "title": "Don't feel awkward - How to handle festive fallouts with neighbours",
-      "url": "https://www.bbc.com/news/articles/cq8dg0gyplvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-18T00:11:03.000Z",
-      "summary_90w": "",
-      "raw": "Neighbourly tensions often rise during the festive season. Here's how to deal with fallouts without a row.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ebb857d7557568640ecc75dcc5e2c9c02fddd27c",
       "title": "In this secret missile factory, Ukraine is ramping up its domestic arms industry",
       "url": "https://www.bbc.com/news/articles/c1dz6wgn2w9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-12-18T00:00:22.000Z",
       "summary_90w": "",
@@ -1467,19 +1506,6 @@
       "published": "2025-12-17T18:06:29.000Z",
       "summary_90w": "",
       "raw": "DeSantis has spent 27 years at Amazon, including eight years as an SVP for AWS, the cloud provider that powers about one-third of the internet.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "aa09d3c9756de55801016b8d916b644650aa5f82",
-      "title": "Rad Power Bikes files for bankruptcy and is looking to sell the business",
-      "url": "https://techcrunch.com/2025/12/17/rad-power-bikes-files-for-bankruptcy-and-is-looking-to-sell-the-business/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-12-17T17:28:50.000Z",
-      "summary_90w": "",
-      "raw": "It's the latest e-bike company to seek bankruptcy protection after pandemic-era excitement for the category wore off.",
       "topics": [
         "Technology"
       ]
