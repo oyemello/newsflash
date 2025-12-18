@@ -1,6 +1,6 @@
 {
-  "version": "1766100901304",
-  "generatedAt": "2025-12-18T23:35:01.304Z",
+  "version": "1766101557878",
+  "generatedAt": "2025-12-18T23:45:57.878Z",
   "items": [
     {
       "id": "da5e5ea3e4aa6937adab08edf88ae16ea863708f",
@@ -30,7 +30,7 @@
     },
     {
       "id": "b5dd4170c7206d52979cd6b5e94d72b142ea83a3",
-      "title": "The TikTok sale is finally happening",
+      "title": "The TikTok US sale is finally happening",
       "url": "https://www.theverge.com/news/847858/tiktok-sale-deal-memo-january-close",
       "source_id": "verge-tech",
       "source_name": "The Verge",
@@ -1615,16 +1615,29 @@
       ]
     },
     {
-      "id": "61e1c13dec9f5c809d1802cbe4493ed1f121f7e2",
-      "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns",
+      "id": "dd45f8f5e7f239a8f8f614cabad6b82f05747d49",
+      "title": "Is the viral cheese pull saving chain restaurants?",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5598332/chain-restaurants-viral-cheese-pull-social-media",
       "source_id": "npr-business",
       "source_name": "NPR Topics: Business",
       "published": "2025-12-17T10:00:00.000Z",
       "summary_90w": "",
-      "raw": "A new program at the Department of Energy is pushing the development of nearly a dozen new reactor designs at breakneck speed.",
+      "raw": "For restaurants, going viral is appetizing. But at what cost?",
       "topics": [
         "Business"
+      ]
+    },
+    {
+      "id": "61e1c13dec9f5c809d1802cbe4493ed1f121f7e2",
+      "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2025-12-17T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "A new program at the Department of Energy is pushing the development of nearly a dozen new reactor designs at breakneck speed.",
+      "topics": [
+        "Technology"
       ]
     },
     {
