@@ -1,10 +1,23 @@
 {
-  "version": "1766129871151",
-  "generatedAt": "2025-12-19T07:37:51.151Z",
+  "version": "1766130756802",
+  "generatedAt": "2025-12-19T07:52:36.802Z",
   "items": [
     {
+      "id": "16c5ca3e8d8f06badab539821dd812a182b1d0d6",
+      "title": "Ukraine war live: Zelenskyy says EU agreement to loan €90bn to Kyiv ‘truly strengthens our resilience’",
+      "url": "https://www.theguardian.com/world/live/2025/dec/19/ukraine-war-live-zelenskyy-european-union-agreement-90bn-loan-deal-kyiv",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-12-19T07:31:45.000Z",
+      "summary_90w": "",
+      "raw": "Ukrainian president expresses gratitude to European leaders for loan plan despite their failure to take up proposal to use frozen Russian funds \n\nEU leaders agree €90bn loan for Ukraine but without use of frozen Russian assets\n\nHungarian prime minister Viktor Orbán agreed not to block the huge EU-backed loan to Ukraine as long as his country, Slovakia and the Czech Republic were excluded from the guarantees for the debt.\nThe deal will not affect the financial obligations of those three countries, which did not want to contribute to the financing of Ukraine, a text on the EU agreement said.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "cfdd8b9d253e0900a4a63d8ee5de971cc4b1ce7f",
-      "title": "TikTok owner signs agreements to avoid US ban",
+      "title": "TikTok owner signs deal to avoid US ban",
       "url": "https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -24,19 +37,6 @@
       "published": "2025-12-19T07:24:46.000Z",
       "summary_90w": "",
       "raw": "Homeland Security Secretary Kristi Noem said in a post on the social platform X that, at Trump's direction, she is ordering the United States Citizenship and Immigration Services to pause the program.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "16c5ca3e8d8f06badab539821dd812a182b1d0d6",
-      "title": "Ukraine war live: Zelenskyy says EU agreement to loan €90bn to Kyiv ‘truly strengthens our resilience’",
-      "url": "https://www.theguardian.com/world/live/2025/dec/19/ukraine-war-live-zelenskyy-european-union-agreement-90bn-loan-deal-kyiv",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-12-19T07:23:02.000Z",
-      "summary_90w": "",
-      "raw": "Ukrainian president expresses gratitude to European leaders for loan plan despite their failure to take up proposal to use frozen Russian funds \n\nEU leaders agree €90bn loan for Ukraine but without use of frozen Russian assets\n\nHungarian prime minister Viktor Orbán agreed not to block the huge EU-backed loan to Ukraine as long as his country, Slovakia and the Czech Republic were excluded from the guarantees for the debt.\nThe deal will not affect the financial obligations of those three countries, which did not want to contribute to the financing of Ukraine, a text on the EU agreement said.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1654,16 +1654,29 @@
       ]
     },
     {
-      "id": "61e1c13dec9f5c809d1802cbe4493ed1f121f7e2",
-      "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns",
+      "id": "dd45f8f5e7f239a8f8f614cabad6b82f05747d49",
+      "title": "Is the viral cheese pull saving chain restaurants?",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5598332/chain-restaurants-viral-cheese-pull-social-media",
       "source_id": "npr-business",
       "source_name": "NPR Topics: Business",
       "published": "2025-12-17T10:00:00.000Z",
       "summary_90w": "",
-      "raw": "A new program at the Department of Energy is pushing the development of nearly a dozen new reactor designs at breakneck speed.",
+      "raw": "For restaurants, going viral is appetizing. But at what cost?",
       "topics": [
         "Business"
+      ]
+    },
+    {
+      "id": "61e1c13dec9f5c809d1802cbe4493ed1f121f7e2",
+      "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2025-12-17T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "A new program at the Department of Energy is pushing the development of nearly a dozen new reactor designs at breakneck speed.",
+      "topics": [
+        "Technology"
       ]
     },
     {
