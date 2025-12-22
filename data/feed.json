@@ -1,7 +1,59 @@
 {
-  "version": "1766418937707",
-  "generatedAt": "2025-12-22T15:55:37.707Z",
+  "version": "1766420333223",
+  "generatedAt": "2025-12-22T16:18:53.223Z",
   "items": [
+    {
+      "id": "2d40f3dba1d3724d783ad0cf0d29a38cf38f4e5f",
+      "title": "Chipwrecked",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/848988/nvidia-chip-loans-coreweave-gpu-debt-ai-neocloud",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-12-22T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The AI data center build-out, as it currently stands, is dependent on two things: Nvidia chips and borrowed money. Perhaps it was inevitable that people would begin using Nvidia chips to borrow money. As the craze has gone on, I have begun to worry about the weaknesses of the AI data center boom; looking deeper into the financial part of this world, I have not been reassured.\nNvidia has plowed plenty of money into the AI space, with more than 70 investments in AI companies just this year, according to PitchBook data. Among the billions it's splashed out, there's one important category: neoclouds, as exemplified by CoreWeave, the publicly tr …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4bd0ab3eeb8b2d44b021372c3d531b8523e17918",
+      "title": "A comprehensive list of 2025 tech layoffs",
+      "url": "https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2025-12-22T15:57:49.000Z",
+      "summary_90w": "",
+      "raw": "A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2025.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9ff31cd3366eaba29688fa432909e605689fd2a8",
+      "title": "How could Man Utd replace injured Fernandes?",
+      "url": "https://www.bbc.com/sport/football/articles/c1dz1exq616o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-22T15:56:54.000Z",
+      "summary_90w": "",
+      "raw": "Manchester United are still evaluating the extent of Bruno Fernandes' injury, but who are the contenders to replace him if he is ruled out?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7a9255e007707f83b84ca870255ee031814f0452",
+      "title": "Canal boats swallowed by giant hole as major incident declared",
+      "url": "https://www.bbc.com/news/articles/c2lvq0yk9dko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-22T15:53:54.000Z",
+      "summary_90w": "",
+      "raw": "Two boats have been left at the bottom of the cavity, where water has drained away.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "2f5edbec15bda80fe09f112969992e1d9562d949",
       "title": "New Trump envoy says he will serve to make Greenland part of US",
@@ -23,7 +75,7 @@
       "source_name": "BBC News",
       "published": "2025-12-22T15:44:37.000Z",
       "summary_90w": "",
-      "raw": "The famous couple turned up at the Leicestershire restaurant while visiting the area to see a show.",
+      "raw": "The famous couple turned up at the restaurant in Leicestershire while visiting the area to see a show.",
       "topics": [
         "World"
       ]
@@ -146,19 +198,6 @@
       ]
     },
     {
-      "id": "7a9255e007707f83b84ca870255ee031814f0452",
-      "title": "Canal boats swallowed by giant hole as major incident declared",
-      "url": "https://www.bbc.com/news/articles/c2lvq0yk9dko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-22T14:36:22.000Z",
-      "summary_90w": "",
-      "raw": "Two boats have been left at the bottom of the cavity, where water has drained away.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7533030647509bee33a3c2a4edf30a88a1d59ded",
       "title": "Gold and silver hit records as investors hunt for safety",
       "url": "https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS&at_campaign=rss",
@@ -214,13 +253,13 @@
       "id": "6c4f1e1c1b2f71d6df1bc8102e7ce8ae8fc68591",
       "title": "Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026",
       "url": "https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2025-12-22T14:08:48.000Z",
       "summary_90w": "",
       "raw": "Baidu's Apollo Go robotaxis have already accrued millions of driverless rides in cities worldwide.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -406,6 +445,19 @@
       ]
     },
     {
+      "id": "d3c0331e12143483104e3cc9c38f37853fa4b31e",
+      "title": "'Year of octopus' declared after warmer seas leads to record UK numbers",
+      "url": "https://www.bbc.com/news/articles/c709gz3k9k9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-22T12:49:25.000Z",
+      "summary_90w": "",
+      "raw": "The Wildlife Trusts say its is 'flabbergasted' by the sighting of the highest number of octopuses since 1950",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "c12f68fcf170a406be27c74c214917ef3db48074",
       "title": "Bondi gunmen 'meticulously' planned attack for months, police allege",
       "url": "https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss",
@@ -478,20 +530,20 @@
       "source_name": "BBC News",
       "published": "2025-12-22T11:27:54.000Z",
       "summary_90w": "",
-      "raw": "A Republican and a Democrat who have led calls for transparency accuse the justice department of failing to meet legal obligations.",
+      "raw": "A Republican and a Democrat who have led calls for transparency say the justice department failed to meet legal obligations.",
       "topics": [
         "World"
       ]
     },
     {
       "id": "d1d5185e27f4d8b7b9589126eddfde8a6cb473b4",
-      "title": "US lawmakers threaten legal action against attorney general over unreleased Epstein material",
+      "title": "US lawmakers threaten legal action over unreleased Epstein files",
       "url": "https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-12-22T11:27:54.000Z",
       "summary_90w": "",
-      "raw": "A Republican and a Democrat who have led calls for transparency accuse the justice department of failing to meet legal obligations.",
+      "raw": "A Republican and a Democrat who have led calls for transparency say the justice department failed to meet legal obligations.",
       "topics": [
         "World"
       ]
@@ -531,19 +583,6 @@
       "published": "2025-12-22T10:51:54.000Z",
       "summary_90w": "",
       "raw": "Heavy rain and mountain snow forecast for northern and central parts, with river and flooding likely in Los Angeles\nAfter prolonged heavy rainfall and devastating flooding across the Pacific north-west in the past few weeks, further flood watches have been issued across California through this week.\nWith 50-75mm (2-3in) of rainfall already reported across northern California this weekend, a series of atmospheric rivers will continue to bring periods of heavy rain and mountain snow across the northern and central parts of the state, with flood watches extending until Friday.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "595bf6162040c7d6667b38045e61916937bf74da",
-      "title": "New Salford team granted Championship status",
-      "url": "https://www.bbc.com/sport/rugby-league/articles/clyd8n213pmo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-22T10:21:42.000Z",
-      "summary_90w": "",
-      "raw": "The Rugby Football League gives a new Salford team Championship membership for 2026, three weeks after the old club was wound up.",
       "topics": [
         "World"
       ]
@@ -1199,19 +1238,6 @@
       ]
     },
     {
-      "id": "e0c2c33dc4a762e1be059901c72f2f47d36b15b0",
-      "title": "The best thing I bought this year: The Nintendo Switch 2",
-      "url": "https://www.theverge.com/gadgets/845477/nintendo-switch-2-game-system-favorite",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-12-21T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "I waited for the Nintendo Switch 2 for a long time. Rumors of an allegedly-real-but-never-released Switch Pro swirled around for years as I watched fewer and fewer AAA third-party games make their way to Nintendo’s little console that could. There were always enough first-party titles and indie games to tide me over, but I watched with some envy as games like Elden Ring took the world by storm, knowing I’d have to wait until Nintendo’s next generation hardware arrived to add them to my Switch library. Now, finally, it’s here.\nThe Switch 2’s core strength for me boils down to it being a better version of the original Switch. Its 7.9-inch 120Hz 1080P screen looks sharp — yes, an OLED display would have been nicer, but I’m not complaining — and its ability to output at up to 4K, or up to 120Hz at lower resolutions, is a welcome improvement. It can play most original Nintendo Switch games, some of which have been updated through free or paid patches to run at a higher frame rate or resolution.\nThe only native Switch 2 game I’ve played so far is Mario Kart World, which I picked up as part of a bundle with the system. My most-played game is the original Switch title The Legend of Zelda: Tears of the Kingdom, which runs at 4K and 60 frames per second if you get the Switch 2 edition for $10 (it’s a free download if you have an active Nintendo Switch Online subscription). That subscription also allows me to play a growing number of GameCube games available as Nintendo Classics, including titles I didn’t get to play when I was a kid. \nI specifically put off playing games from my backlog, including titles going back several years, until I could play them on a larger display in handheld mode, and I don’t regret my decision. Putting dozens of hours into Octopath Traveler while chilling on the couch with the big-screen handheld was a heck of a lot of fun. Nintendo and third-party developers have also been pretty generous with releasing free demos of Nintendo Switch 2 titles, including Donkey Kong Bananza and Final Fantasy VII Remake Intergrade, so it’s possible to sample bigger titles before deciding to pick them up. \nMy only real complaint with the Nintendo Switch 2 is its 256GB of internal storage, which isn’t enough for folks like me who’ve built up a large digital library of Switch games. Adding more requires you to pop in a microSD Express card, which can be twice the price of than the regular microSD cards used by the original Switch. My hope is that if a hardware revision comes down the line it’ll include an OLED display and at least 512GB of storage. By that time microSD Express cards will have hopefully become more affordable.\nThe console’s $449.99 starting price came as a shock to many, but it seems fair given its tech specs, and an escalating tariff situation that delayed the Switch 2’s preorder timing in North America and compelled Nintendo to raise the price of the original Nintendo Switch. Nintendo recently announced that it “will shift our primary development focus to Nintendo Switch 2 and expand our business around this new platform.” I’ll continue to look forward to exclusive titles making their way to my new console of choice, along with ports of third-party games that I haven’t gotten around to yet. \nNintendo Switch 2\n\nWhere to Buy:\n\n $449.99 at Best Buy\n $449 at Amazon\n $449.99 at Target",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "d33120f708dd5065d8ade9202c37747f108a58a7",
       "title": "The Ellisons add TikTok's U.S. business to their entertainment empire",
       "url": "https://www.npr.org/2025/12/21/nx-s1-5649856/the-ellisons-add-tiktoks-u-s-business-to-their-entertainment-empire",
@@ -1636,19 +1662,6 @@
       "published": "2025-12-19T21:50:50.000Z",
       "summary_90w": "",
       "raw": "The decision brings to a close a years-long court battle that irked Musk so much he moved Tesla's incorporation from Delaware to Texas.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "239b9bf61f7c25a7752a939ced0acb7099b53863",
-      "title": "Anonymous messaging app NGL was acquired by ‘EarnPhone’ startup Mode Mobile",
-      "url": "https://techcrunch.com/2025/12/19/anonymous-messaging-app-ngl-was-acquired-by-earnphone-startup-mode-mobile/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2025-12-19T20:34:47.000Z",
-      "summary_90w": "",
-      "raw": "Given NGL's track record of dubious growth hacking, this partnership with Mode Mobile seems like a good match.",
       "topics": [
         "Technology"
       ]
