@@ -1,6 +1,6 @@
 {
-  "version": "1766489659705",
-  "generatedAt": "2025-12-23T11:34:19.705Z",
+  "version": "1766490327916",
+  "generatedAt": "2025-12-23T11:45:27.916Z",
   "items": [
     {
       "id": "3b31e767f235dd075421b8858de3d2c7cb8a7716",
@@ -8,9 +8,22 @@
       "url": "https://www.bbc.com/news/articles/cdrnvvyy8kzo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-12-23T11:15:16.000Z",
+      "published": "2025-12-23T11:39:26.000Z",
       "summary_90w": "",
       "raw": "Ex-councillor Philip Young is one of six men accused of more than 60 offences against Joanne Young.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b0f6e5099a5cecf9316b342891181e968f253762",
+      "title": "Boaters stranded for Christmas after canal collapse",
+      "url": "https://www.bbc.com/news/articles/cj013m3q0mlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-23T11:31:07.000Z",
+      "summary_90w": "",
+      "raw": "One couple say they had decorated the boat for Christmas but would now spend it in a hotel.",
       "topics": [
         "World"
       ]
@@ -37,19 +50,6 @@
       "published": "2025-12-23T11:00:00.000Z",
       "summary_90w": "",
       "raw": "Budget shortfalls and nearly $1 trillion in looming federal Medicaid cuts have prompted states to rein in spending on a widely embraced autism therapy, pinching families who depend on the services.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b0f6e5099a5cecf9316b342891181e968f253762",
-      "title": "Boaters stranded for Christmas after canal collapse",
-      "url": "https://www.bbc.com/news/articles/cj013m3q0mlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-23T10:49:20.000Z",
-      "summary_90w": "",
-      "raw": "One couple say they had decorated the boat for Christmas but would now spend it in a hotel.",
       "topics": [
         "World"
       ]
@@ -414,6 +414,19 @@
       "published": "2025-12-23T06:35:04.000Z",
       "summary_90w": "",
       "raw": "Decade-long jail term for Gregory John Walker who threw molotov cocktail into Arthur Haines’ friend’s house\nWarning: this article contains names and images of Indigenous Australians who have died\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA moment of fury has transformed into a decade-long jail term for an arsonist whose actions killed a young teen enjoying his first sleepover with friends.\nArthur Haines was asleep on the top floor of a friend’s house before a visit to Sydney’s Royal Easter Show in April 1998.\nFor information and support in Australia call 13YARN on 13 92 76 for a crisis support line for Indigenous Australians; or call Lifeline on 13 11 14, Mensline on 1300 789 978 and Beyond Blue on 1300 22 4636\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "cb4e4ef5068578a3a34af1006bc089c067007f91",
+      "title": "Can rugby star's stolen caps be found after 40 years?",
+      "url": "https://www.bbc.com/news/articles/c0r9dv1480jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-23T06:32:16.000Z",
+      "summary_90w": "",
+      "raw": "Ken Goodall's haul of Irish international caps were taken from his home in Londonderry in 1987.",
       "topics": [
         "World"
       ]
@@ -786,7 +799,7 @@
       "id": "f977c24d7e1c0649f41459ebd2178067559bea36",
       "title": "Ros Atkins on… the oil tanker being pursued by the US",
       "url": "https://www.bbc.com/news/videos/ce3w4x2v0xko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-12-22T21:27:01.000Z",
       "summary_90w": "",
