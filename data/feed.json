@@ -1,7 +1,20 @@
 {
-  "version": "1766849696944",
-  "generatedAt": "2025-12-27T15:34:56.944Z",
+  "version": "1766850352932",
+  "generatedAt": "2025-12-27T15:45:52.932Z",
   "items": [
+    {
+      "id": "d8a7e1a58f3d0c6dd49f0526d872db732470fc3b",
+      "title": "Our top global photo stories from 2025: Fearless women, solo polar bear, healing soups",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/12/27/g-s1-102502/best-global-photo-stories-from-2025",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-12-27T15:32:50.000Z",
+      "summary_90w": "",
+      "raw": "These stunning photos include a polar bear in a Chinese zoo, a teen in Zambia facing an uncertain future, Mongolian kids watching TV in a tent, a chef prepping a bowl of good-for-you soup.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "04a80b74849a849417cc3c3acf038b212da2d153",
       "title": "New York blanketed in snowfall, sparking travel chaos",
@@ -19,7 +32,7 @@
       "id": "04829efc71322734166a2708e3ab07bf73ac9a48",
       "title": "Nine arrested in Italy for allegedly raising millions for Hamas",
       "url": "https://www.bbc.com/news/articles/cqxq59np394o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-12-27T15:25:18.000Z",
       "summary_90w": "",
@@ -479,19 +492,6 @@
       "published": "2025-12-27T00:39:40.000Z",
       "summary_90w": "",
       "raw": "Habit stacking and the language to avoid - five ways to make realistic resolutions you stick to this year.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e00a7c3bb3a73d63e3dad278a9cad766289d7892",
-      "title": "Is texting behind the wheel of a self-driving Tesla crazy?",
-      "url": "https://www.bbc.com/news/articles/c783qd14zl7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-27T00:30:14.000Z",
-      "summary_90w": "",
-      "raw": "Elon Musk says Tesla's automated software will allow its passengers to text in certain conditions.",
       "topics": [
         "World"
       ]
@@ -1007,13 +1007,13 @@
       "id": "36af587d7e45573b1f62552ea9410f85cce93bf5",
       "title": "Marijuana rescheduling would bring some immediate changes, but others will take time",
       "url": "https://www.npr.org/2025/12/26/nx-s1-5652027/marijuana-reclassified-trump-executive-order",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2025-12-26T10:01:00.000Z",
       "summary_90w": "",
       "raw": "President Trump set the process in motion to ease federal restrictions on marijuana. But his order doesn't automatically revoke laws targeting marijuana, which remains illegal to transport over state lines.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
