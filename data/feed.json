@@ -1,6 +1,6 @@
 {
-  "version": "1766821451294",
-  "generatedAt": "2025-12-27T07:44:11.294Z",
+  "version": "1766821900684",
+  "generatedAt": "2025-12-27T07:51:40.684Z",
   "items": [
     {
       "id": "1b117efe3399bc248f56daad0bf03e55c332dbee",
@@ -8,9 +8,22 @@
       "url": "https://www.bbc.com/news/articles/c62dyp9pgd2o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-12-27T07:24:36.000Z",
+      "published": "2025-12-27T07:47:34.000Z",
       "summary_90w": "",
       "raw": "The paid 12-month course is aimed at under-25s, with plans for the scheme to grow to 1,000 young people a year.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6c616e838d63199f84cedcb5447fb79cd00a9d7d",
+      "title": "Thailand and Cambodia sign new ceasefire agreement to end border fighting",
+      "url": "https://www.npr.org/2025/12/27/g-s1-103785/thailand-cambodia-new-ceasefire-agreement",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2025-12-27T07:44:10.000Z",
+      "summary_90w": "",
+      "raw": "In addition to ending fighting, the agreement calls for no further military movements by either side and no violations of either side's airspace for military purposes.",
       "topics": [
         "World"
       ]
@@ -968,13 +981,13 @@
       "id": "ac84f650316ed32577e505f73653538dabd92b75",
       "title": "Why do airline computer systems fail? What the industry can learn from meltdowns",
       "url": "https://www.npr.org/2025/12/26/nx-s1-5656218/airline-computer-systems-meltdowns",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2025-12-26T10:00:00.000Z",
       "summary_90w": "",
       "raw": "Alaska Airlines is the latest airline to ground its planes because of an IT meltdown. We talked to industry leaders about why these systems fail, and what airlines can learn from past disruptions.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
