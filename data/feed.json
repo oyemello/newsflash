@@ -1,7 +1,85 @@
 {
-  "version": "1767118920929",
-  "generatedAt": "2025-12-30T18:22:00.929Z",
+  "version": "1767120964552",
+  "generatedAt": "2025-12-30T18:56:04.552Z",
   "items": [
+    {
+      "id": "f634e7f8d11252e8a4d82ff208fe6597d3b1c9da",
+      "title": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
+      "url": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2025-12-30T18:32:27.000Z",
+      "summary_90w": "",
+      "raw": "Two former employees at cybersecurity firms - one of whom was a ransomware negotiator - have pleaded guilty to carrying out a series of ransomware attacks in 2023. The Department of Justice announced the guilty pleas on Tuesday, saying 40-year-old Ryan Goldberg and 36-year-old Kevin Martin extorted $1.2 million in Bitcoin from a medical device company and targeted several others.\nGoldberg, Martin, and an unnamed co-conspirator were indicted for the attacks in October, which involved using ALPHV / BlackCat ransomware to encrypt and steal data from their victims. As reported by the Chicago Sun-Times, Martin and the third conspirator worked as …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d2b63200608a064abf45b8bf391f047b5d6c52b8",
+      "title": "George Clooney, wife Amal and their twins awarded French citizenship",
+      "url": "https://www.bbc.com/news/articles/c0q4ezpepdvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-30T18:31:58.000Z",
+      "summary_90w": "",
+      "raw": "The Hollywood actor and his wife, Amal, purchased their home in the south of France in 2021.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e131aa5247596065726f8b71f73f561398e3c765",
+      "title": "Russia says it has moved its nuclear-capable Oreshnik missiles into Belarus – as it happened",
+      "url": "https://www.theguardian.com/world/live/2025/dec/30/ukraine-russia-war-zelenskyy-putin-us-trump-eu-latest-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-12-30T18:25:16.000Z",
+      "summary_90w": "",
+      "raw": "This live blog is now closed. For the latest, read our full report:\n\nRussia claims to have moved nuclear-capable missile system into Belarus\n\nGermany’s chancellor, Friedrich Merz, has echoed Donald Tusk’s optimistic tone regarding talks on ending the war in Ukraine.\nHe posted to X to confirm there had been “another round of consultations” with “European and Canadian partners”. It is not clear who was in the meeting.\nPeace is on the horizon, there is no doubt that things have happened that give grounds for hope that this war can end, and quite quickly, but it is still a hope, far from 100% certain.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "62706353c7248db4129ab58241feea6a2eee329d",
+      "title": "Mum and children who died in Boxing Day fire named",
+      "url": "https://www.bbc.com/news/articles/cvg13333lvko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-30T18:23:55.000Z",
+      "summary_90w": "",
+      "raw": "Fionnghuala Shearman and her daughter Eve and son Ohner died in the house fire on Boxing Day.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8832502aea628c8e86177ce73428a294da9eae74",
+      "title": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port",
+      "url": "https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2025-12-30T18:22:57.000Z",
+      "summary_90w": "",
+      "raw": "The UAE and Saudi have been allies in the war against the Houthis, but infighting between the rival factions they support has caused a rift between them.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ee22a51865b29a1d464b6a03b983a676fe898a7d",
+      "title": "Russia claims to have moved nuclear-capable missile system into Belarus",
+      "url": "https://www.theguardian.com/world/2025/dec/30/russia-claims-moved-nuclear-capable-missile-system-belarus",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2025-12-30T18:15:50.000Z",
+      "summary_90w": "",
+      "raw": "Assertion comes after the Kremlin accused Ukraine of attacking Vladimir Putin’s palace in Novgorod\n\nDid Ukraine target Putin’s residence or is Russian claim a ploy to sway Trump?\n\nRussia said its latest nuclear-capable missile system has been deployed in Belarus, a day after Moscow claimed that Ukraine had carried out a large-scale drone attack on Vladimir Putin’s residence.\nFootage released by Russia’s ministry of defence showed the new Oreshnik missile trundling through a snowy forest. Soldiers were seen disguising combat vehicles with green netting and raising a flag at an airbase in eastern Belarus, close to the Russian border.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "a1231b677c1fc6a89690a1495df83ce3ba520634",
       "title": "Channel tunnel train services suspended after power outage",
@@ -10,20 +88,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-12-30T18:13:42.000Z",
       "summary_90w": "",
-      "raw": "Engineers still struggling to restore full service on Tuesday evening as car passengers face seven-hour delays\n\nBusiness live – latest updates\n\nA power outage in the Channel tunnel has disrupted thousands of journeys ahead of the New Year celebrations, with all passenger and vehicle trains suspended for several hours while engineers raced to repair the fault.\nAs Eurostar foot passenger departures for the continent were first delayed, then cancelled, the halls of St Pancras international station in London filled with stranded travellers awaiting updates. At Folkestone, tailbacks formed as drivers hoping to catch the shuttle faced seven-hour delays.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e131aa5247596065726f8b71f73f561398e3c765",
-      "title": "Ukraine war live: Russia says it has moved its nuclear-capable Oreshnik missiles into Belarus",
-      "url": "https://www.theguardian.com/world/live/2025/dec/30/ukraine-russia-war-zelenskyy-putin-us-trump-eu-latest-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-12-30T18:11:57.000Z",
-      "summary_90w": "",
-      "raw": "Move could feasibly allow Russian missiles to reach European targets faster from Belarus, its neighbouring ally that also shares a border with Nato countries Poland, Lithuania and Latvia\nGermany’s chancellor, Friedrich Merz, has echoed Donald Tusk’s optimistic tone regarding talks on ending the war in Ukraine.\nHe posted to X to confirm there had been “another round of consultations” with “European and Canadian partners”. It is not clear who was in the meeting.\nPeace is on the horizon, there is no doubt that things have happened that give grounds for hope that this war can end, and quite quickly, but it is still a hope, far from 100% certain.\n Continue reading...",
+      "raw": "Engineers still struggling to restore full service on Tuesday evening as car passengers face seven-hour delays\n\nBusiness live – latest updates\n\nA power outage in the Channel tunnel has disrupted thousands of journeys ahead of the new year celebrations, with all passenger and vehicle trains suspended for several hours while engineers raced to repair the fault.\nAs Eurostar foot passenger departures for the continent were first delayed, then cancelled, the halls of St Pancras International station in London filled with stranded travellers awaiting updates. At Folkestone in Kent, tailbacks formed as drivers hoping to catch the shuttle faced seven-hour delays.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -37,19 +102,6 @@
       "published": "2025-12-30T18:07:14.000Z",
       "summary_90w": "",
       "raw": "Five people are treated by paramedics after they were assaulted in a hospital in Merseyside.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "62706353c7248db4129ab58241feea6a2eee329d",
-      "title": "Mum and children who died in Boxing Day fire named",
-      "url": "https://www.bbc.com/news/articles/cvg13333lvko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-30T18:04:03.000Z",
-      "summary_90w": "",
-      "raw": "Fionnghuala Shearman and her daughter Eve and son Ohner died in the house fire on Boxing Day.",
       "topics": [
         "World"
       ]
@@ -69,13 +121,13 @@
     },
     {
       "id": "ba4f1c34d2c6727ea7fba3204a90aa592aa99954",
-      "title": "Eurostar disruption: Channel tunnel partially reopens but ‘significant’ delays ongoing – business live",
+      "title": "Eurostar disruption: Channel tunnel partially reopens but ‘significant’ delays ongoing – as it happened",
       "url": "https://www.theguardian.com/business/live/2025/dec/30/global-stock-markets-best-year-since-2019-us-dollar-trade-war-octopus-energy-ftse-pound-business-live-news-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-12-30T18:01:25.000Z",
       "summary_90w": "",
-      "raw": "Eurostar ‘strongly advise’ passengers to postpone journeys after problem with overhead power supply in Channel tunnel and a failed Le Shuttle train\n\nFull story: Eurostar cancels all trains to and from London after Channel tunnel power cut\n\nTell us: have you been affected by the Channel Tunnel rail disruption?\n\n\n\nEuropean stocks have hit a record high today, ending a strong year on the front foot.\nThe pan-European Stoxx 600 index has risen by over 0.2% this morning to 590.65 points, a new peak.\nThe Euro area and UK economies proved more resilient in 2025 than we anticipated. US tariffs weighed on exports and real GDP growth in Q2 and Q3, but domestic demand has generally been more robust than we anticipated.\nAs a result, Euro area and UK GDP growth, while still underperforming the US this year, have turned out higher than in our forecast at the end of 2024.\n Continue reading...",
+      "raw": "Eurostar ‘strongly advise’ passengers to postpone journeys after problem with overhead power supply in Channel tunnel and a failed Le Shuttle train\n\nFull story: Channel tunnel train services suspended after power outage\n\nTell us: have you been affected by the Channel Tunnel rail disruption?\n\nEuropean stocks have hit a record high today, ending a strong year on the front foot.\nThe pan-European Stoxx 600 index has risen by over 0.2% this morning to 590.65 points, a new peak.\nThe Euro area and UK economies proved more resilient in 2025 than we anticipated. US tariffs weighed on exports and real GDP growth in Q2 and Q3, but domestic demand has generally been more robust than we anticipated.\nAs a result, Euro area and UK GDP growth, while still underperforming the US this year, have turned out higher than in our forecast at the end of 2024.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -107,6 +159,19 @@
       ]
     },
     {
+      "id": "e995cd0ada5a87d21d43c079bb551e68bcfa6443",
+      "title": "Pensioner 'carried on roof of car' and killed in crash",
+      "url": "https://www.bbc.com/news/articles/c0r9rdjr21do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-30T17:57:37.000Z",
+      "summary_90w": "",
+      "raw": "Kent Police is urging people to contact them if they have information about the crash in Gillingham.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "891cf64681092c7fb8e95a9bca78d2d378914f4c",
       "title": "Iran to listen to protesters’ ‘legitimate demands’ after widespread dissent",
       "url": "https://www.theguardian.com/world/2025/dec/30/iran-protesters-demands-widespread-dissent-currency-living-standards",
@@ -127,7 +192,7 @@
       "source_name": "The Verge",
       "published": "2025-12-30T17:52:38.000Z",
       "summary_90w": "",
-      "raw": "Folding OLED displays are still most commonly found on premium smartphones and laptops, but One-Netbook is bringing the tech to a new gaming device. Its new OneXSugar Wallet is reminiscent of the company's folding OneXSugar Sugar 1 handheld that launched earlier this year. But instead of two screens, the Wallet handheld unfolds to reveal just one big 8.01-inch OLED screen with a 4:3 aspect ratio, as spotted by Retro Handhelds.\nThe OneXSugar Wallet was announced on China's Weibo yesterday, but with few details about its features and capabilities. That folding OLED screen has a resolution of 2,480×1,860 pixels, and the handheld will be powere …\nRead the full story at The Verge.",
+      "raw": "Folding OLED displays are still most commonly found on premium smartphones and laptops, but One-Netbook is bringing the tech to a new gaming device. Its new OneXSugar Wallet is reminiscent of the company's folding OneXSugar Sugar 1 handheld that launched earlier this year. But instead of two screens, the Wallet handheld unfolds to reveal just one big 8.01-inch OLED screen with a 4:3 aspect ratio, as spotted by Retro Handhelds.\nThe OneXSugar Wallet was announced on China's Weibo yesterday, but with few details about its features and capabilities. That folding OLED screen has a resolution of 2480 x 1860 pixels, and the handheld will be powere …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -205,7 +270,7 @@
       "source_name": "World news | The Guardian",
       "published": "2025-12-30T16:49:57.000Z",
       "summary_90w": "",
-      "raw": "The attack was aimed at what Riyadh called a shipment of weapons for separatists from the UAE\nThe United Arab Emirates has said it will withdraw its remaining forces in Yemen after Saudi Arabia bombed what it said was a shipment of weapons for separatists which had arrived from the UAE.\nThe Emirati defence ministry announced the decision on Tuesday afternoon, citing “recent developments and their potential repercussions on the safety and effectiveness of counter-terrorism operations”, without saying when the withdrawal might happen.\n Continue reading...",
+      "raw": "Attack was aimed at what Riyadh called a shipment of weapons for separatists backed by UAE\nThe United Arab Emirates has said it will withdraw its remaining forces in Yemen after tensions with Saudi Arabia escalated over a sweeping offensive by UAE-backed separatists.\nThe Emirati defence ministry announced the withdrawal on Tuesday, hours after Saudi Arabia bombed what it said was a shipment of weapons for Yemeni separatists that had arrived from the UAE.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -354,19 +419,6 @@
       ]
     },
     {
-      "id": "8b71686ff3f893f45222a431cb1c2ad873aa35e3",
-      "title": "Cecilia Giménez, famed for ‘Monkey Christ’ mural mishap, dies at 94",
-      "url": "https://www.theguardian.com/world/2025/dec/30/cecilia-gimenez-monkey-christ-mural-dies-spain",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2025-12-30T15:22:54.000Z",
-      "summary_90w": "",
-      "raw": "Spanish woman’s attempted restoration of church artwork was widely mocked but became lucrative tourist attraction\nCecilia Giménez, the woman who achieved unwanted international fame for her botched “Monkey Christ” restoration of a 19th-century mural in Borja, north-east Spain, has died aged 94.\nIn 2012, Giménez, an amateur artist, decided to restore Ecce Homo, a mural by a local artist, Elías García Martínez, that hung in the Santuario de Misericordia church in Borja. However, her talent as an artist was not equal to her good intentions and she produced what was described as the worst restoration in history.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8a17197742e4eaf1ce567cdd60840d892805bf56",
       "title": "Israeli president’s office denies Trump’s claim Netanyahu pardon is ‘on its way’",
       "url": "https://www.theguardian.com/world/2025/dec/30/israeli-president-office-trump-claim-netanyahu-pardon",
@@ -440,19 +492,6 @@
       "published": "2025-12-30T14:14:18.000Z",
       "summary_90w": "",
       "raw": "Record label Ador says it has dropped NewJeans member Danielle Marsh while the return of Minji remains uncertain.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8832502aea628c8e86177ce73428a294da9eae74",
-      "title": "Saudi Arabia backs call for UAE to leave Yemen after strike on separatist-held port",
-      "url": "https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2025-12-30T14:08:40.000Z",
-      "summary_90w": "",
-      "raw": "The UAE denies Saudi claims it sent a shipment of weapons to separatists and pushed them to launch offensives against the Yemeni government.",
       "topics": [
         "World"
       ]
@@ -591,7 +630,7 @@
       "id": "c62727fa234c3aeac2f63ed8bc3d7c3e893bfc05",
       "title": "French right pushes for national tribute to film star Brigitte Bardot",
       "url": "https://www.bbc.com/news/articles/cp848g51zd3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-12-30T11:20:27.000Z",
       "summary_90w": "",
@@ -1030,19 +1069,6 @@
       ]
     },
     {
-      "id": "a4562a1cf062e74acbce1159bd2120ccb35efb4b",
-      "title": "Photographing the hidden world of slime mould",
-      "url": "https://www.bbc.com/news/articles/c9d9409p76qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-30T00:51:36.000Z",
-      "summary_90w": "",
-      "raw": "Meet Barry Webb and his award-winning images of the tiny world of slime mould.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "07996524879bf2850ceb343f77c4c273efc1bb7f",
       "title": "Anthony Joshua’s camp confirm two of his close friends died in Nigeria car crash",
       "url": "https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria",
@@ -1300,19 +1326,6 @@
       "raw": "Trump alleged that US forces hit ‘very hard’ in what would mark his team’s first land strike on Venezuela if confirmed\nDonald Trump has claimed that US forces struck a “big facility” in Venezuela last week – but the president did not specify what it was, or where, and the White House has not commented further.\n“We just knocked out – I don’t know if you read or you saw – they have a big plant, or a big facility, where the ships come from. Two nights ago, we knocked that out. So we hit them very hard,” Trump told Republican donor and New York supermarket owner John Catsimatidis on Friday.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "83c482ff988e72c2056b195f2e6d3bd9e2c1c841",
-      "title": "Turn your PC into a Super Nintendo with Epilogue&#8217;s new USB dock",
-      "url": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2025-12-29T17:22:05.000Z",
-      "summary_90w": "",
-      "raw": "After announcing and teasing its design well over a year ago, Epilogue's new SN Operator will finally be available for preorder starting tomorrow. Like the company's GB Operator that debuted in early 2021, the SN Operator is a standalone USB cartridge slot that lets you play and archive old Nintendo console games on PCs, Macs, or handhelds like the Steam Deck using their original carts. But where the GB Operator was built for Game Boy, Game Boy Color, and GBA games, the SN Operator instead supports any Super Nintendo and Super Famicom game.\nPreorders for the SN Operator will open at 12PM ET on December 30th for $59.99. That's $10 more expen …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
