@@ -1,6 +1,6 @@
 {
-  "version": "1767120964552",
-  "generatedAt": "2025-12-30T18:56:04.552Z",
+  "version": "1767122103693",
+  "generatedAt": "2025-12-30T19:15:03.693Z",
   "items": [
     {
       "id": "f634e7f8d11252e8a4d82ff208fe6597d3b1c9da",
@@ -82,13 +82,13 @@
     },
     {
       "id": "a1231b677c1fc6a89690a1495df83ce3ba520634",
-      "title": "Channel tunnel train services suspended after power outage",
+      "title": "Channel tunnel power outage disrupts thousands of journeys",
       "url": "https://www.theguardian.com/business/2025/dec/30/eurostar-trains-cancelled-delayed-channel-tunnel-le-shuttle",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2025-12-30T18:13:42.000Z",
       "summary_90w": "",
-      "raw": "Engineers still struggling to restore full service on Tuesday evening as car passengers face seven-hour delays\n\nBusiness live – latest updates\n\nA power outage in the Channel tunnel has disrupted thousands of journeys ahead of the new year celebrations, with all passenger and vehicle trains suspended for several hours while engineers raced to repair the fault.\nAs Eurostar foot passenger departures for the continent were first delayed, then cancelled, the halls of St Pancras International station in London filled with stranded travellers awaiting updates. At Folkestone in Kent, tailbacks formed as drivers hoping to catch the shuttle faced seven-hour delays.\n Continue reading...",
+      "raw": "Engineers still struggling to restore full rail service on Tuesday evening as car passengers face seven-hour delays\nA power outage in the Channel tunnel has disrupted thousands of journeys ahead of the new year celebrations, with all passenger and vehicle trains suspended for several hours while engineers raced to repair the fault.\nAs Eurostar foot passenger departures for the continent were first delayed, then cancelled, the halls of St Pancras International station in London filled with stranded travellers awaiting updates. At Folkestone in Kent, tailbacks formed as drivers hoping to catch the shuttle faced seven-hour delays.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -102,19 +102,6 @@
       "published": "2025-12-30T18:07:14.000Z",
       "summary_90w": "",
       "raw": "Five people are treated by paramedics after they were assaulted in a hospital in Merseyside.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e99260a6ccba9b4247bb02acefa870f3ec79f9d1",
-      "title": "Family home devastated after toy catches fire on Christmas Day",
-      "url": "https://www.bbc.com/news/articles/c0q5q4z8777o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-30T18:03:44.000Z",
-      "summary_90w": "",
-      "raw": "A mother says her two children are traumatised and warns of the dangers of rechargeable batteries.",
       "topics": [
         "World"
       ]
@@ -147,13 +134,26 @@
     },
     {
       "id": "bc89023124cf0aec9e4cab47ab7b155f625b6e44",
-      "title": "Eurostar disruption to continue after power outage in Channel Tunnel ",
+      "title": "Eurostar warns of ongoing delays after services resume",
       "url": "https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-12-30T17:58:16.000Z",
       "summary_90w": "",
-      "raw": "Some Eurostar services will resume with severe delays and possible cancellations after services were suspended due to a power supply problem.",
+      "raw": "Passengers detail how they have been left stranded and looking for other routes after power issues in the Channel Tunnel.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bc89023124cf0aec9e4cab47ab7b155f625b6e44",
+      "title": "Eurostar warns of ongoing delays after services resume, as thousands travel for New Year",
+      "url": "https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-30T17:58:16.000Z",
+      "summary_90w": "",
+      "raw": "Passengers detail how they have been left stranded and looking for other routes after power issues in the Channel Tunnel.",
       "topics": [
         "World"
       ]
