@@ -1,6 +1,6 @@
 {
-  "version": "1767095169042",
-  "generatedAt": "2025-12-30T11:46:09.042Z",
+  "version": "1767095621301",
+  "generatedAt": "2025-12-30T11:53:41.301Z",
   "items": [
     {
       "id": "e131aa5247596065726f8b71f73f561398e3c765",
@@ -8,9 +8,22 @@
       "url": "https://www.theguardian.com/world/live/2025/dec/30/ukraine-russia-war-zelenskyy-putin-us-trump-eu-latest-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2025-12-30T11:23:10.000Z",
+      "published": "2025-12-30T11:44:58.000Z",
       "summary_90w": "",
-      "raw": "Ukraine’s foreign minister Andrii Sybiha responds to claims by Moscow of a strike on home in Russia’s Novgorod region\nAccording to reports, Polish prime minister Donald Tusk was due to kick off a meeting on Ukraine at 10:00 GMT with other European leaders. It is not clear who the attendees were but we will bring you the latest as soon as we have it.\nIn a social media post on Monday, Tusk, one of Ukraine’s staunchest allies, said that he had “nighttime talks” with other European leaders on the war.\n Continue reading...",
+      "raw": "Ukraine’s foreign minister Andrii Sybiha responds to claims by Moscow of a strike on home in Russia’s Novgorod region\nThe Kremlin said on Monday that Ukraine should withdraw its troops from the part of Donbas that it still controls if it wanted peace and that if Kyiv did not reach a deal then it would lose more territory.\nMoscow controls about 75% of the Donetsk region, and about 99% of the neighbouring Luhansk (known collectively as Donbas).\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "05426f83275fba6c5466669f81a11918f9097219",
+      "title": "Ukraine denies drone attack on Putin's residence",
+      "url": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-30T11:43:26.000Z",
+      "summary_90w": "",
+      "raw": "Russia has accused Ukraine of targeting a presidential residence, which President Zelensky called \"typical Russian lies\".",
       "topics": [
         "World"
       ]
@@ -58,7 +71,7 @@
       "id": "4d59e85d2cfb1a92bc2739a382ab70852e094697",
       "title": "Turkey detains 357 suspected IS members in nationwide raids",
       "url": "https://www.bbc.com/news/articles/c4g5gq19n9zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2025-12-30T10:38:53.000Z",
       "summary_90w": "",
@@ -458,19 +471,6 @@
       ]
     },
     {
-      "id": "05426f83275fba6c5466669f81a11918f9097219",
-      "title": "Ukraine denies drone attack on Putin's residence",
-      "url": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-30T01:21:23.000Z",
-      "summary_90w": "",
-      "raw": "Russia has accused Ukraine of targeting a presidential residence, which President Zelensky called \"typical Russian lies\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "6fcc182b80c644d21ce672c90e23d20fd536b99f",
       "title": "Great white sharks face extinction in Mediterranean, say researchers",
       "url": "https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss",
@@ -487,7 +487,7 @@
       "id": "ea990fe7eaa75670613db122ecf7c8d96ba06e84",
       "title": "The fight over Christian nationalism in a small Tennessee town",
       "url": "https://www.bbc.com/news/articles/c997j105941o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2025-12-30T01:08:49.000Z",
       "summary_90w": "",
@@ -1264,29 +1264,16 @@
       ]
     },
     {
-      "id": "ed2a176893e9130fa421e3193e12b2ce8d73284f",
-      "title": "A 'very aesthetic person,' President Trump says being a builder is his second job",
-      "url": "https://www.npr.org/2025/12/29/nx-s1-5645066/president-trump-says-being-a-builder-is-his-second-job",
+      "id": "34a8cca14f9db656efacd53612c240e08c8d693d",
+      "title": "Electric vehicles had a bumpy road in 2025 — and one pleasant surprise",
+      "url": "https://www.npr.org/2025/12/29/nx-s1-5638592/electric-vehicles-2025",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2025-12-29T10:00:00.000Z",
       "summary_90w": "",
-      "raw": "President Trump was a builder before he took office, but he has continued it as a hobby in the White House.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "34a8cca14f9db656efacd53612c240e08c8d693d",
-      "title": "Electric vehicles had a bumpy road in 2025 — and one pleasant surprise",
-      "url": "https://www.npr.org/2025/12/29/nx-s1-5638592/electric-vehicles-2025",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2025-12-29T10:00:00.000Z",
-      "summary_90w": "",
       "raw": "A suite of pro-EV federal policies have been reversed. Well-known vehicles have been discontinued. Sales plummeted. But interest is holding steady.",
       "topics": [
-        "Business"
+        "World"
       ]
     },
     {
