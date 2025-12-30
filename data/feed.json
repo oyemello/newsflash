@@ -1,10 +1,10 @@
 {
-  "version": "1767134300920",
-  "generatedAt": "2025-12-30T22:38:20.920Z",
+  "version": "1767135338087",
+  "generatedAt": "2025-12-30T22:55:38.087Z",
   "items": [
     {
       "id": "f5c367ce27316877e08e31ff22a08ea18dc41a6b",
-      "title": "Match of the Day",
+      "title": "Match of the Day: Watch Premier League highlights, with leaders Arsenal in action",
       "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -17,11 +17,11 @@
     },
     {
       "id": "9aee62b7a8fc838e7f2b14d02b06543a3735655f",
-      "title": "Israel to bar 37 aid groups from working in Gaza",
+      "title": "Israel to bar 37 aid groups from Gaza",
       "url": "https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2025-12-30T22:21:52.000Z",
+      "published": "2025-12-30T22:36:43.000Z",
       "summary_90w": "",
       "raw": "The move was criticised by foreign ministers from from 10 countries including the UK, who said the new rules were \"restrictive\" and \"unacceptable\".",
       "topics": [
@@ -146,6 +146,19 @@
       ]
     },
     {
+      "id": "f889fdcff3c09c4d587b5d8e9b2518e0d1fd25b3",
+      "title": "More artists cancel Kennedy Center shows after Trump name change",
+      "url": "https://www.bbc.com/news/articles/c0r4wwplnd1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-30T18:46:44.000Z",
+      "summary_90w": "",
+      "raw": "A jazz group cancels their New Year’s Eve shows at the Washington arts institution, days after a Christmas Eve concert was called off.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "f634e7f8d11252e8a4d82ff208fe6597d3b1c9da",
       "title": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
       "url": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
@@ -237,19 +250,6 @@
       ]
     },
     {
-      "id": "e99260a6ccba9b4247bb02acefa870f3ec79f9d1",
-      "title": "Family home devastated after toy catches fire on Christmas Day",
-      "url": "https://www.bbc.com/news/articles/c0q5q4z8777o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2025-12-30T18:03:44.000Z",
-      "summary_90w": "",
-      "raw": "A mother says her two children are traumatised and warns of the dangers of rechargeable batteries.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ba4f1c34d2c6727ea7fba3204a90aa592aa99954",
       "title": "Eurostar disruption: Channel tunnel partially reopens but ‘significant’ delays ongoing – as it happened",
       "url": "https://www.theguardian.com/business/live/2025/dec/30/global-stock-markets-best-year-since-2019-us-dollar-trade-war-octopus-energy-ftse-pound-business-live-news-updates",
@@ -331,13 +331,13 @@
       "id": "33c7ab89126fb37500a93b471305b1600557cfcb",
       "title": "Meta buys Chinese-founded AI start-up Manus",
       "url": "https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2025-12-30T17:30:36.000Z",
       "summary_90w": "",
       "raw": "The tech giant wants to build into its own AI tools which do complex things with minimal interaction.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
