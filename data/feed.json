@@ -1,6 +1,6 @@
 {
-  "version": "1767338450213",
-  "generatedAt": "2026-01-02T07:20:50.213Z",
+  "version": "1767339930761",
+  "generatedAt": "2026-01-02T07:45:30.761Z",
   "items": [
     {
       "id": "a5f87cc9147f9301aba3be21dc2495543b35a47a",
@@ -75,7 +75,7 @@
       "source_name": "World news | The Guardian",
       "published": "2026-01-02T05:11:31.000Z",
       "summary_90w": "",
-      "raw": "Blaze that swept through crowded New Year’s Eve bar in Crans-Montana also injured 115 people\n\nLe Constellation bar fire in Switzerland: what we know so far\n\nSwiss investigators are racing to identify the victims of a fire that tore through a crowded bar, killing about 40 people and injuring 115 who were celebrating at a New Year’s Eve party in the Alpine ski resort of Crans-Montana.\nPresident, Guy Parmelin, has said the country will hold five days of mourning, describing the blaze as one of the most traumatic events in Switzerland’s history. “It was a drama of an unknown scale,” he said, paying tribute to the many “young lives that were lost and interrupted”.\n Continue reading...",
+      "raw": "Blaze that swept through crowded New Year’s Eve bar in Crans-Montana also injured 115 people\n\nLe Constellation bar fire in Switzerland: what we know so far\n\nSwiss investigators are racing to identify the victims of a fire that tore through a crowded bar, killing about 40 people and injuring 115 who were celebrating at a New Year’s Eve party in the Alpine ski resort of Crans-Montana.\nPresident Guy Parmelin has said the country will hold five days of mourning, describing the blaze as one of the most traumatic events in Switzerland’s history. “It was a drama of an unknown scale,” he said, paying tribute to the many “young lives that were lost and interrupted”.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -393,6 +393,19 @@
       ]
     },
     {
+      "id": "74e848cc767cd9ab97c54bf42a5ddf9b1bc36a02",
+      "title": "'We are not happy' - Man City fall behind Arsenal in title race",
+      "url": "https://www.bbc.com/sport/football/articles/cm248l1j7jno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-01T23:33:23.000Z",
+      "summary_90w": "",
+      "raw": "Pep Guardiola questioned whether it was only a two-horse Premier League title race, but his Manchester City side can ill-afford many slip-ups in their quest to hunt down leaders Arsenal.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "94636680e0f40dbda212d5b018e4228fb19caf5c",
       "title": "Usman Khawaja announces retirement from international cricket after SCG Ashes Test",
       "url": "https://www.theguardian.com/sport/2026/jan/02/usman-khawaja-announces-retirement-from-international-cricket",
@@ -591,7 +604,7 @@
       "id": "c987b008cf3bcc7bfad37943ead1ded31a14fd93",
       "title": "Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?",
       "url": "https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-01-01T20:11:45.000Z",
       "summary_90w": "",
@@ -1038,19 +1051,6 @@
       "published": "2026-01-01T00:17:12.000Z",
       "summary_90w": "",
       "raw": "The BBC's Russia editor speaks to people in the country as the war in Ukraine nears a fourth year.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b34b327fb9a4641c359792ff32ba8cb41b190f20",
-      "title": "How the 'postcode lottery' of parenting really impacts young children",
-      "url": "https://www.bbc.com/news/articles/cjdr42ez3d2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-01T00:02:18.000Z",
-      "summary_90w": "",
-      "raw": "BBC Radio 4's Today will follow six parents for five years, chronicling the ups and downs of looking after a young child in modern Britain.",
       "topics": [
         "World"
       ]
@@ -1688,6 +1688,19 @@
       "published": "2025-12-27T22:12:00.000Z",
       "summary_90w": "",
       "raw": "An epic, big-screen spectacle that explores the life and music of Elvis Presley",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0588ecdbb0fb14ecf40104658bf43802b0e0fc6f",
+      "title": "Swashbuckling Puss embarks on a brave quest",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002nzvn?at_mid=7iCYilTXXa&at_campaign=Puss_in_Boots_The_Last_Wish&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002nzvn&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Puss_in_Boots_The_Last_Wish&at_bbc_team=BBC&at_creation=Film",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-12-26T16:53:25.000Z",
+      "summary_90w": "",
+      "raw": "Puss must beat a host of fairy-tale characters to the magical map of the Wishing Star.",
       "topics": [
         "World"
       ]
