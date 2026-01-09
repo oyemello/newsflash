@@ -1,6 +1,6 @@
 {
-  "version": "1767987972734",
-  "generatedAt": "2026-01-09T19:46:12.734Z",
+  "version": "1767988385560",
+  "generatedAt": "2026-01-09T19:53:05.560Z",
   "items": [
     {
       "id": "6ec28cd4a8ebfb1f8395fcf0fb9638f0d5ee9d0f",
@@ -8,7 +8,7 @@
       "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-01-09T19:37:08.000Z",
+      "published": "2026-01-09T19:44:59.000Z",
       "summary_90w": "",
       "raw": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.",
       "topics": [
@@ -30,13 +30,26 @@
     },
     {
       "id": "04f3abe9249a3fa3269a99bb3594f72ff8811395",
-      "title": "EU reaches long-sought South America trade deal ",
+      "title": "EU reaches South America trade deal after 25 years of talks ",
       "url": "https://www.bbc.com/news/articles/ceqzj49gny4o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-01-09T19:35:38.000Z",
       "summary_90w": "",
       "raw": "Some farmers in Europe opposed the deal, but the EU Commission said it had listened to their concerns.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "814570c04b8fecf62173e3a598f2735c6badf23c",
+      "title": "Victorian premier declares state of disaster in 18 areas as bushfire crisis continues",
+      "url": "https://www.theguardian.com/australia-news/2026/jan/09/ten-properties-in-ruffy-destroyed-including-firefighters-home-as-fire-hits-victorian-town-like-a-bomb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-01-09T19:31:31.000Z",
+      "summary_90w": "",
+      "raw": "A man, woman and child remain unaccounted for, authorities say, but forecasters say conditions eased across the state on Friday night\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nVictorian premier Jacinta Allan has declared a state of disaster in 18 local government areas as the state battles an escalating bushfire crisis that has destroyed at least 10 homes, prompted evacuations and razed more than 50,000 hectares of bushland.\nShe said the declaration in the early hours of Saturday was in response to danger to life or property in the affected areas and “sends a clear message to those who have been advised to leave: if you can, you must”.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -49,22 +62,9 @@
       "source_name": "The Verge",
       "published": "2026-01-09T19:13:32.000Z",
       "summary_90w": "",
-      "raw": "The launch of an AI image editing feature on xAI’s Grok has caused chaos on X after it was used to generate a flood of non-consensual sexualized deepfakes. As Hayden Field wrote, “screenshots show Grok complying with requests to put real women in lingerie and make them spread their legs, and to put small children in bikinis.”\nUK Prime Minister Keir Starmer called the deepfakes “disgusting,” saying, “X need[s] to get their act together and get this material down. And we will take action on this because it’s simply not tolerable.” X has slightly restricted the feature by requiring a paid subscription to generate images by tagging Grok on X, but the AI image editor remains freely available otherwise. \nNo, Grok hasn’t paywalled its deepfake image feature\n\t\t\t\nUK Prime Minister says ‘we will take action’ on Grok’s disgusting deepfakes\n\t\t\t\nEurope demands X retain documents amid Grok’s undressing spree.\n\t\t\t\nX’s deepfake machine is infuriating policymakers around the globe\n\t\t\t\nGrok is undressing children — can the law stop it?\n\t\t\t\nGrok is undressing anyone, including minors",
+      "raw": "The launch of an AI image editing feature on xAI’s Grok has caused chaos on X after it was used to generate a flood of nonconsensual sexualized deepfakes. As Hayden Field wrote, “screenshots show Grok complying with requests to put real women in lingerie and make them spread their legs, and to put small children in bikinis.”\nUK Prime Minister Keir Starmer called the deepfakes “disgusting,” saying, “X need[s] to get their act together and get this material down. And we will take action on this because it’s simply not tolerable.” X has slightly restricted the feature by requiring a paid subscription to generate images by tagging Grok on X, but the AI image editor remains freely available otherwise. \nNo, Grok hasn’t paywalled its deepfake image feature\n\t\t\t\nUK Prime Minister says ‘we will take action’ on Grok’s disgusting deepfakes\n\t\t\t\nEurope demands X retain documents amid Grok’s undressing spree.\n\t\t\t\nX’s deepfake machine is infuriating policymakers around the globe\n\t\t\t\nGrok is undressing children — can the law stop it?\n\t\t\t\nGrok is undressing anyone, including minors",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "814570c04b8fecf62173e3a598f2735c6badf23c",
-      "title": "Victorian premier declares state of disaster in 18 areas as bushfire crisis continues",
-      "url": "https://www.theguardian.com/australia-news/2026/jan/09/ten-properties-in-ruffy-destroyed-including-firefighters-home-as-fire-hits-victorian-town-like-a-bomb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-01-09T18:58:16.000Z",
-      "summary_90w": "",
-      "raw": "A man, woman and child remain unaccounted for, authorities say, but forecasters say conditions eased across the state on Friday night\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nVictorian premier Jacinta Allan has declared a state of disaster in 18 local government areas as the state battles an escalating bushfire crisis that has destroyed at least 10 homes, prompted evacuations and razed more than 50,000 hectares of bushland.\nShe said the declaration in the early hours of Saturday was in response to danger to life or property in the affected areas and “sends a clear message to those who have been advised to leave: if you can, you must”.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -218,7 +218,7 @@
       "source_name": "World news | The Guardian",
       "published": "2026-01-09T17:53:44.000Z",
       "summary_90w": "",
-      "raw": "Ayatollah Ali Khamenei calls protesters ‘vandals’ and ‘saboteurs’ and blames the US for instigating the unrest\nIran’s supreme leader has vowed that authorities will “not back down” in the face of a rapidly growing protest movement, setting the stage for an intensified violent crackdown on the second day of a nationwide internet shutdown.\nProtests have raged in cities and towns across the country in recent days, posing a threat to the authority of the regime, which has been significantly weakened since the last large protest movement in the country in 2022. Another round of demonstrations was called for Friday night.\n Continue reading...",
+      "raw": "Ayatollah Ali Khamenei calls protesters ‘vandals’ and ‘saboteurs’ and blames US for instigating the unrest\nIran’s supreme leader has vowed that authorities will not back down in the face of a rapidly growing protest movement, setting the stage for an intensified violent crackdown on the second day of a nationwide internet shutdown.\nProtests have raged in cities and towns across the country in recent days, posing a threat to the authority of the regime, which has been significantly weakened since the last large protest movement in the country in 2022. Another round of demonstrations was called for Friday night.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -401,6 +401,19 @@
       "published": "2026-01-09T16:41:07.000Z",
       "summary_90w": "",
       "raw": "Military opens window for civilians to leave as Kurdish groups turn down demand their fighters withdraw from city  \nSyria’s army says it will renew attacks against a Kurdish-majority district of Aleppo where clashes have raged this week, after Kurdish groups rejected Damascus’s ceasefire terms that demanded their fighters withdraw from the city.\nThe army said it would target military sites used by Kurdish fighters in the Sheikh Maqsoud district, announcing the opening of a humanitarian corridor from 4pm (1300 GMT) to 6pm on Friday for civilians to leave.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1358c5b53fc5256af10df857df7685702a02efb6",
+      "title": "The Week: How Does Starmer Handle Trump, Grok and What's Going On In Iran?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0mt4qyc?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-09T16:41:00.000Z",
+      "summary_90w": "",
+      "raw": "Anti-government protests in Iran enter their thirteenth day.",
       "topics": [
         "World"
       ]
@@ -765,19 +778,6 @@
       "published": "2026-01-09T12:39:11.000Z",
       "summary_90w": "",
       "raw": "Protests over the killing of Renee Good took place in Houston, Cincinnati, Washington DC and Philadelphia.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d3e142b1d7e22f7d3f49a8acd508bb41ebd35603",
-      "title": "Gabby Logan pays tribute to her 'warrior' dad Terry Yorath",
-      "url": "https://www.bbc.com/news/articles/cdxj2pnj757o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-09T12:35:40.000Z",
-      "summary_90w": "",
-      "raw": "The presenter describes her dad as a \"generous man\" who instilled a \"lifelong love of sport\" in her.",
       "topics": [
         "World"
       ]
