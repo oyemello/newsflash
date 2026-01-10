@@ -1,16 +1,55 @@
 {
-  "version": "1768081924151",
-  "generatedAt": "2026-01-10T21:52:04.151Z",
+  "version": "1768083327585",
+  "generatedAt": "2026-01-10T22:15:27.585Z",
   "items": [
     {
-      "id": "c819cfbb9d46c449c629888d754aef3aed239d9e",
-      "title": "These smart home devices impressed me at CES 2026",
-      "url": "https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon",
+      "id": "51767738adabd2540a6afdaea04c5e09941ea0e4",
+      "title": "SpaceX gets FCC approval to launch 7,500 more Starlink satellites",
+      "url": "https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-01-10T22:11:21.000Z",
+      "summary_90w": "",
+      "raw": "The Federal Communications Commission has given SpaceX approval to launch another 7,500 of its second generation Starlink satellites.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "340f72ce59ddd4ba878eb6e3657022e3ce4eba2e",
+      "title": "US launches new retaliatory strikes against ISIS in Syria after deadly ambush",
+      "url": "https://www.npr.org/2026/01/10/nx-s1-5673346/us-syria-isis-retaliatory-strikes",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-01-10T22:03:25.000Z",
+      "summary_90w": "",
+      "raw": "The U.S. has launched another round of strikes against the Islamic State in Syria. This follows last month's ambush that killed two U.S. soldiers and an American civilian interpreter.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f840cb6637cab5ec6ef31aba5c8d38da015a0e2a",
+      "title": "6 killed in Mississippi shooting rampage, authorities say",
+      "url": "https://www.npr.org/2026/01/10/g-s1-105419/mississippi-shooting-clay-county",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-01-10T21:58:45.000Z",
+      "summary_90w": "",
+      "raw": "The alleged gunman, 24, has been charged with murder after the Friday shootings in northeast Mississippi. The victims include his father, uncle, brother and a 7-year-old relative, authorities said.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8b376acc32f8016a386857136e1334dea16474e2",
+      "title": "Musk says he&#8217;s going to open-source the new X algorithm next week",
+      "url": "https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm",
       "source_id": "verge-tech",
       "source_name": "The Verge",
-      "published": "2026-01-10T21:30:17.000Z",
+      "published": "2026-01-10T21:57:35.000Z",
       "summary_90w": "",
-      "raw": "A giant version of Lockin’s wirelessly charged V7 smart lock was a showstopper on the CES show floor.\t\n\nI picked Aqara's Smart Lock U400 and Roborock's Saros Rover robot vacuum as the overall best smart home gadgets from CES 2026, but there were gazillions of other great gadgets on the show floor. \nIt was a banner year for smart home products, but the big trends I saw weren't about new product categories; they were about bringing better features and lower prices to smart home staples such as smart lighting, smart locks, cameras, and TVs. \n\nThis is what I expected the launch of the interoperability protocol Matter would bring. Once companies could stop spending time and money on working on integrating with half a dozen platforms, they could fo …\nRead the full story at The Verge.",
+      "raw": "In 2023, what was then still called Twitter, open-sourced at least portions of the code that decided what it served up in your feed. But that GitHub repository is hopelessly out of date, with the vast majority of the files appearing to be from the initial upload three years ago. Elon Musk says that in seven days, he will open-source X's new algorithm and finally give people a peek behind the curtain and possibly a technical explanation as to why your feed is 90 percent rage bait.\nElon has always made promises to open-source parts of X, and has followed through to at least some degree, including Grok-1 in 2024. But xAI is now on Grok-3, and  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -21,11 +60,24 @@
       "url": "https://www.bbc.com/news/articles/cly9597r4qpo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-01-10T21:25:40.000Z",
+      "published": "2026-01-10T21:57:17.000Z",
       "summary_90w": "",
       "raw": "US President Donald Trump ordered \"large-scale strikes\" on Islamic State group targets in Syria on Saturday, US Central Command announced.",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "c819cfbb9d46c449c629888d754aef3aed239d9e",
+      "title": "These are the smart home gadgets that impressed me at CES 2026",
+      "url": "https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-01-10T21:30:17.000Z",
+      "summary_90w": "",
+      "raw": "A giant version of Lockin’s wirelessly charged V7 smart lock was a showstopper on the CES show floor.\t\n\nI picked Aqara's Smart Lock U400 and Roborock's Saros Rover robot vacuum as the overall best smart home gadgets from CES 2026, but there were gazillions of other great gadgets on the show floor. \nIt was a banner year for smart home products, but the big trends I saw weren't about new product categories; they were about bringing better features and lower prices to smart home staples such as smart lighting, smart locks, cameras, and TVs. \n\nThis is what I expected the launch of the interoperability protocol Matter would bring. Once companies could stop spending time and money on working on integrating with half a dozen platforms, they could fo …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -62,7 +114,7 @@
       "source_name": "BBC News",
       "published": "2026-01-10T21:08:14.000Z",
       "summary_90w": "",
-      "raw": "Yellow warnings for snow, rain, and ice are also in place across Northern Ireland, Scotland, and the north of England.",
+      "raw": "A Met Office yellow warning for snow and ice in Scotland, which begins at 03:00 on Sunday, has been upgraded to amber.",
       "topics": [
         "World"
       ]
@@ -88,7 +140,7 @@
       "source_name": "BBC News",
       "published": "2026-01-10T21:04:47.000Z",
       "summary_90w": "",
-      "raw": "Filming for the third series of the dating programme spin-off has been postponed and ITV has not said when it will resume.",
+      "raw": "Filming in South Africa for the third series of Love Island: All Stars has been postponed. ITV has not said when it will resume.",
       "topics": [
         "World"
       ]
@@ -442,19 +494,6 @@
       "raw": "The pair join other US celebrities reconnecting with their African heritage and taking up citizenship.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "316c1a9f109f2f25919150440dfc018e4355b26d",
-      "title": "A charity speedrunning event has turned into a perfect showcase for smaller games",
-      "url": "https://www.theverge.com/games/859891/awesome-games-done-quick-2026-indie-games-small-saga",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-01-10T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Games Done Quick, the biannual charity speedrunning event currently going on right now, not only helps organizations like the Prevent Cancer Foundation and Doctors Without Borders - it helps indie games get noticed, too. Indie game developers face an incredible uphill battle not only getting their projects funded, completed, and launched, but discovered as well. Events like GDQ can be a boon to developers, exposing tens of thousands of viewers to little-known games like Bat to the Heavens, Small Saga, and more.\n\"It was extremely exciting,\" said Ceroro, developer of Bat to the Heavens, a platformer in which the character must ascend to the h …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -913,19 +952,6 @@
       ]
     },
     {
-      "id": "c3ebc2b2a909cf9b0e2b2c0eb0dbbced0ccc11da",
-      "title": "RFK Jr. cast doubt on a key vaccine. This country can't wait to get it",
-      "url": "https://www.npr.org/sections/goats-and-soda/2026/01/09/g-s1-105242/rfk-jr-hepatitis-b-vaccine-ghana",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-01-09T20:59:08.000Z",
-      "summary_90w": "",
-      "raw": "The U.S. is cutting the Hepatitis B vaccine from its recommended list. But here's a place where the medical establishment — and a rapper — are eager to obtain it.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "2002976df229e87eb4ec303271f46a19887a7f2e",
       "title": "Trump claims he has cancelled second wave of attacks on Venezuela",
       "url": "https://www.theguardian.com/world/2026/jan/09/trump-venezuela-leadership-meeting-opposition-machado",
@@ -934,19 +960,6 @@
       "published": "2026-01-09T20:49:02.000Z",
       "summary_90w": "",
       "raw": "US president does not elaborate on alleged plan for fresh strikes but says large naval presence in region will remain\n\nUS politics live – latest updates\n\nDonald Trump has claimed that he cancelled a second wave of attacks on Venezuela because it was cooperating with the US on oil infrastructure and had released political prisoners.\nThe US president said he had cancelled planned military action in recognition that the authorities in Caracas had released “large numbers” of prisoners and were “seeking peace”.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "84027baa91b798aed21730ff55e92285da0a3d02",
-      "title": "U.S. Figure Skating Championships will determine who's going to the Olympics",
-      "url": "https://www.npr.org/2026/01/09/nx-s1-5671286/figure-skating-championships",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-01-09T20:23:34.000Z",
-      "summary_90w": "",
-      "raw": "This week's championship in St. Louis has already seen record-setting performances in the women's event and multiple competitors looking to punch their third Olympic ticket.",
       "topics": [
         "World"
       ]
@@ -1428,19 +1441,6 @@
       "published": "2026-01-08T18:11:14.000Z",
       "summary_90w": "",
       "raw": "OpenAI is acquiring the team behind executive coaching AI tool Convogo in an all-stock deal, adding to the firm's M&A spree.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "7f6936639e6684296294a46b9fcef485ef11ca48",
-      "title": "Anduril’s Palmer Luckey thinks the future of tech is in the past",
-      "url": "https://techcrunch.com/2026/01/08/andurils-palmer-luckey-thinks-the-future-of-tech-is-in-the-past/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-01-08T18:05:00.000Z",
-      "summary_90w": "",
-      "raw": "Luckey, who initially made his fortune in VR and now runs the defense contractor Anduril, and Ohanian both seemed to agree: Stuff was better in the old days.",
       "topics": [
         "Technology"
       ]
