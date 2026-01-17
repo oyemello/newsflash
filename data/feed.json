@@ -1,7 +1,59 @@
 {
-  "version": "1768611561131",
-  "generatedAt": "2026-01-17T00:59:21.131Z",
+  "version": "1768618180891",
+  "generatedAt": "2026-01-17T02:49:40.891Z",
   "items": [
+    {
+      "id": "6294a66da66a3990772973e06af9df088a2459c4",
+      "title": "Justice Department opens investigation into Minnesota governor and Minneapolis mayor",
+      "url": "https://www.npr.org/2026/01/16/nx-s1-5680368/justice-department-minnesota-tim-walz-jacob-frey-investigation",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-01-17T02:22:59.000Z",
+      "summary_90w": "",
+      "raw": "Federal prosecutors are investigating Gov. Tim Walz and Mayor Jacob Frey.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "944d6cbca37857b6438cb412bf54177b34a23451",
+      "title": "A faceless hacker stole my therapy notes – now my deepest secrets are online forever",
+      "url": "https://www.bbc.com/news/articles/c62nzxqw45eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-17T02:15:51.000Z",
+      "summary_90w": "",
+      "raw": "Meri-Tuuli Auer told her counsellor things about her life she didn't want her closest family to know.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8789332916c0a509afc18891d34d4b8415b13d32",
+      "title": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
+      "url": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-01-17T01:44:20.000Z",
+      "summary_90w": "",
+      "raw": "It comes as fresh details emerged in the death of a Minneapolis woman shot last week by an ICE agent in the city.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d5be6be7e7b212268e19d59757051d76360be6ef",
+      "title": "The Papers: 'Spy Jenrick' and 'Badenoch says Britain not broken'",
+      "url": "https://www.bbc.com/news/articles/cjw1709n20qo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-17T01:22:23.000Z",
+      "summary_90w": "",
+      "raw": "Former Conservative shadow minister Robert Jenrick's defection to Reform UK after his sacking by Kemi Badenoch continues to lead the papers.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "dfcad2da3e6adce7fbd970e77e145293a78abf05",
       "title": "No sign of new protests in Iran as a hard-line cleric calls for executions",
@@ -11,19 +63,6 @@
       "published": "2026-01-17T00:44:18.000Z",
       "summary_90w": "",
       "raw": "A Iran returns to an uneasy calm after protests led to a violent crackdown, a senior cleric is calling for the death penalty for detained demonstrators. His sermon Friday also threatened U.S. President Trump.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8789332916c0a509afc18891d34d4b8415b13d32",
-      "title": "US justice department investigates Minnesota Democrats over alleged obstruction of ICE",
-      "url": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-01-17T00:44:08.000Z",
-      "summary_90w": "",
-      "raw": "It comes as fresh details emerged in the death of a Minneapolis woman shot last week by an ICE agent in the city.",
       "topics": [
         "World"
       ]
@@ -42,10 +81,36 @@
       ]
     },
     {
+      "id": "81d301e7c2b8531bc1ff6c1c6e432b50c01076d2",
+      "title": "The mysterious singer with millions of streams - but who (or what) is she?",
+      "url": "https://www.bbc.com/news/articles/cq6v83gq66eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-17T00:43:18.000Z",
+      "summary_90w": "",
+      "raw": "She has millions of Spotify listeners, but fans don't know what to believe about whether she's real.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b242747a3a265ade1e1b1761a4f37eac4645fbae",
+      "title": "Is fibre the new protein? The surprising health benefits of the latest wellness trend",
+      "url": "https://www.bbc.com/news/articles/c1lze6n0e6mo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-17T00:34:11.000Z",
+      "summary_90w": "",
+      "raw": "Fibre is making a comeback and this is a wellbeing trend nutritionists are getting excited about.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "042f73fee4266835c64adf5031059f516aa7e16c",
       "title": "Under fire from the sea, families in Odesa try to escape Russian barrage",
       "url": "https://www.bbc.com/news/articles/cnvg70v1z0ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-01-17T00:14:00.000Z",
       "summary_90w": "",
@@ -58,7 +123,7 @@
       "id": "fab5b642daf2d85f5eae1efc5a0ea6e774bad14c",
       "title": "Paracetamol is safe in pregnancy, says study refuting Trump autism claims",
       "url": "https://www.bbc.com/news/articles/c74vdgkw1kzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-01-17T00:13:47.000Z",
       "summary_90w": "",
@@ -120,6 +185,19 @@
       ]
     },
     {
+      "id": "2b77f7326e4b016b352f435187dfc222729fd694",
+      "title": "A hotline to report vapers and caning if you're caught: Singapore's e-cigarette crackdown",
+      "url": "https://www.bbc.com/news/articles/c3387lrz5g4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-16T23:16:35.000Z",
+      "summary_90w": "",
+      "raw": "The city-state wants to stamp out e-cigarettes with harsh penalties including caning and fines.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "fcd139fbef012432f79a1fac4fc73e9991459282",
       "title": "Blair and Rubio among names on Gaza 'Board of Peace'",
       "url": "https://www.bbc.com/news/articles/c07xv92vrz2o?at_medium=RSS&at_campaign=rss",
@@ -153,7 +231,7 @@
       "source_name": "The Verge",
       "published": "2026-01-16T22:36:55.000Z",
       "summary_90w": "",
-      "raw": "Google is appealing a federal court's decision ruling it an illegal online search monopolist. The company filed a notice to appeal on Friday, requesting a pause on the court-ordered remedies meant to restore competition to the online search market. \n\"As we have long said, the Court's August 2024 ruling ignored the reality that people use Google because they want to, not because they're forced to,\" Google's vice president of regulatory affairs Lee-Anne Mulholland said in a blog post. \"The decision failed to account for the rapid pace of innovation and intense competition we face from established players and well-funded start-ups. And it disc …\nRead the full story at The Verge.",
+      "raw": "Google is appealing a federal court's decision ruling it an illegal online search monopolist. The company filed a notice to appeal on Friday, requesting a pause on the court-ordered remedies meant to restore competition to the online search market. \n\"As we have long said, the Court's August 2024 ruling ignored the reality that people use Google because they want to, not because they're forced to,\" Google's vice president of regulatory affairs, Lee-Anne Mulholland, said in a blog post. \"The decision failed to account for the rapid pace of innovation and intense competition we face from established players and well-funded start-ups. And it di …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -214,7 +292,7 @@
       "id": "fef7e4801922e744dd46c234ae970e0ec74e8543",
       "title": "Why is there so much international interest in Greenland?",
       "url": "https://www.bbc.com/news/videos/cd9ey81441jo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-01-16T21:28:27.000Z",
       "summary_90w": "",
@@ -848,19 +926,6 @@
       ]
     },
     {
-      "id": "200f728113308c7a4df5e470cdb042d195da2a95",
-      "title": "Wife killer who manipulated child jailed for life",
-      "url": "https://www.bbc.com/news/articles/cm2xn9np82vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-16T15:26:40.000Z",
-      "summary_90w": "",
-      "raw": "Robert Rhodes is jailed for life after his child revealed his plot to kill his wife in their home.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "95a2637dd0786292d2e4d5fbf61f423d9ee9a262",
       "title": "Is the snow and ice set to return again this January?",
       "url": "https://www.bbc.com/weather/articles/c78em3ge7plo?at_medium=RSS&at_campaign=rss",
@@ -897,19 +962,6 @@
       "raw": "Italy has launched two investigations into Microsoft's Activision Blizzard, alleging the company has engaged in \"misleading and aggressive\" sales practices for two of its most popular smartphone games.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "ec84445eab69e6ddb266ca7d4e1bdc547010a412",
-      "title": "Police defend spending £16k on private jet to extradite influencer HSTikkyTokky",
-      "url": "https://www.bbc.com/news/articles/c3r140redx9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-16T15:02:13.000Z",
-      "summary_90w": "",
-      "raw": "Surrey Police says all other options had been considered and were \"unfortunately not viable\".",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1137,13 +1189,13 @@
       "id": "2f8be221cb8930bdc2598ad6ab222a5dafa73888",
       "title": "Canada agrees to cut tariff on Chinese EVs in return for lower tariffs on Canadian farm products",
       "url": "https://www.npr.org/2026/01/16/nx-s1-5679469/canada-cut-tariff-chinese-evs-canadian-farm-products",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-01-16T11:00:59.000Z",
       "summary_90w": "",
       "raw": "Breaking with the United States, Canada has agreed to cut its 100% tariff on Chinese electric cars in return for lower tariffs on Canadian farm products, Prime Minister Mark Carney said Friday.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -1163,13 +1215,13 @@
       "id": "3d1eaec3d2d45381f7d7172608613bb269900b71",
       "title": "Use film-style age ratings to limit teens' social media, say Lib Dems",
       "url": "https://www.bbc.com/news/articles/c8e5149egl2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2026-01-16T10:30:37.000Z",
       "summary_90w": "",
       "raw": "The Conservatives want to see ban of all under-16s from social media, but the Lib Dems say that would be a \"blunt instrument\".",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -1316,19 +1368,6 @@
       ]
     },
     {
-      "id": "c46d1688073a9a6128c4768747f4c12fa58aa5f4",
-      "title": "TV doctor says ADHD and OCD diagnoses have 'changed my life'",
-      "url": "https://www.bbc.com/news/articles/cwy8ekez554o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-16T06:17:08.000Z",
-      "summary_90w": "",
-      "raw": "Love Island star Dr Alex George is calling for improved waiting times for neurodivergent assessments.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "3067884e0577b7fc8dc860fc7f014bd86b19eebc",
       "title": "Christian and Muslim faith leaders express ‘deep concerns’ about Labor bill’s impact on free speech – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/jan/16/hate-speech-legislation-political-reaction-anthony-albanese-labor-sussan-ley-coalition-greens-adelaide-festival-writers-week-backlash-sydney-protest-ban-ntwnfb",
@@ -1433,19 +1472,6 @@
       ]
     },
     {
-      "id": "c20eec336566a4a06cd649c259e5b983dcc50935",
-      "title": "I didn't give up, I let go. How I came to terms with not having children",
-      "url": "https://www.bbc.com/news/articles/cvgj8x7e12ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-16T01:01:50.000Z",
-      "summary_90w": "",
-      "raw": "After a decade of trying for a baby, Caroline and her husband decided they needed to build a different future.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "88dc3d0e84af51766e1254d43d751cbea9233aa1",
       "title": "AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp",
       "url": "https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/",
@@ -1488,7 +1514,7 @@
       "id": "c0bcef4f55f3d249a3997041ca8d2550e336e474",
       "title": "Landscape beneath Antarctica's icy surface revealed in unprecedented detail",
       "url": "https://www.bbc.com/news/articles/c9qpx2qqeq7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-01-16T00:00:21.000Z",
       "summary_90w": "",
@@ -1550,19 +1576,6 @@
       ]
     },
     {
-      "id": "9f5d9486d02033164d7994d56b66baa553949f2a",
-      "title": "Weekly quiz: Which place has England’s worst potholes?",
-      "url": "https://www.bbc.com/news/articles/cn401prgx4jo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-15T19:21:41.000Z",
-      "summary_90w": "",
-      "raw": "How much attention did you pay to what happened in the world over the past seven days?",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8b757062b514d5a42e548f586fa802e300ebe45e",
       "title": "G7 threatens more sanctions for Iran amid ’high level of reported deaths and injuries’ - as it happened",
       "url": "https://www.theguardian.com/world/live/2026/jan/15/trump-iran-protests-usa-response-airspace-killings-live-updates",
@@ -1610,6 +1623,19 @@
       "published": "2026-01-15T14:00:21.000Z",
       "summary_90w": "",
       "raw": "Calls for clear guardrails and consumer education before wider rollout of OpenAI’s health advice platform\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA 60-year-old man with no history of mental illness presented at a hospital emergency department insisting that his neighbour was poisoning him. Over the next 24 hours he had worsening hallucinations, and tried to escape the hospital.\nDoctors eventually discovered the man was on a daily diet of sodium bromide, an inorganic salt mainly used for industrial and laboratory purposes including cleaning and water treatment.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e91c4fe6ab9f22d4edabf7addfc7f1c958ca67af",
+      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
+      "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-15T13:57:49.000Z",
+      "summary_90w": "",
+      "raw": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing.",
       "topics": [
         "World"
       ]
