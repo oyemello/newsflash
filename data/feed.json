@@ -1,7 +1,85 @@
 {
-  "version": "1768774540067",
-  "generatedAt": "2026-01-18T22:15:40.067Z",
+  "version": "1768775904431",
+  "generatedAt": "2026-01-18T22:38:24.431Z",
   "items": [
+    {
+      "id": "f5c367ce27316877e08e31ff22a08ea18dc41a6b",
+      "title": "Watch: Match of the Day",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-18T23:20:31.000Z",
+      "summary_90w": "",
+      "raw": "Kelly Cates presents highlights of Aston Villa v Everton and Wolves v Newcastle United.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3b5235bf4b7ad2ae04153c5cd884ea2dc27bdd2f",
+      "title": "Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
+      "url": "https://www.bbc.com/news/articles/c4gwk37ewvwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-18T22:25:31.000Z",
+      "summary_90w": "",
+      "raw": "President Ahmed al-Sharaa said the deal would allow the Syrian state to reassert control over most areas.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "58dec94453b64fe5fee32dfbf04b089ae21a3160",
+      "title": "Do phone sleep trackers work?",
+      "url": "https://www.npr.org/2026/01/18/nx-s1-5678909/do-phone-sleep-trackers-work",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2026-01-18T22:22:46.000Z",
+      "summary_90w": "",
+      "raw": "Are sleep trackers on your phone helping you get a full night's rest? NPR's Life Kit investigates.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "dfb0102beeb08ee8e684d2877014207e5363fa4f",
+      "title": "Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT",
+      "url": "https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-01-18T22:15:17.000Z",
+      "summary_90w": "",
+      "raw": "Sequoia Capital is reportedly joining a blockbuster funding round for Anthropic, the AI startup behind Claude, according to the Financial Times. It’s a move sure to turn heads in Silicon Valley. Why? Because venture capital firms have historically avoided backing competing companies in the same sector, preferring to place their bets on a single winner. […]",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d1720e8ad6b12f9dd09a6bb32a6335e5f995d311",
+      "title": "Andrew Rosindell quits Tories and defects to Reform UK",
+      "url": "https://www.bbc.com/news/articles/c98jn1wywdyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-18T22:12:58.000Z",
+      "summary_90w": "",
+      "raw": "His defection comes days after former shadow justice minister Robert Jenrick joined Reform.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "fa441d6f053253004ed21997a79d0631f69ae2a6",
+      "title": "Australia news live: government still to consider Trump’s ‘board of peace’ invite; PM says One Nation’s popularity surge ‘a worry’",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jan/19/federal-parliament-returns-gun-control-measures-hate-speech-laws-anthony-albanese-labor-sussan-ley-coalition-greens-trump-board-for-peace-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-01-18T22:11:24.000Z",
+      "summary_90w": "",
+      "raw": "Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\n\nMarles ‘confident about the future of Nato’ despite Trump pressure\nContinuing his media rounds, the deputy PM, Richard Marles, is pressed on the government’s response to Donald Trump’s tariffs on some European nations, in a bid to take over Greenland.\nNato has played a very important role and continues to be very strong. I’ve been to the last two Nato meetings representing Australia, and there is a definite sense of unity when you’re at Nato meetings. So I feel confident about the future of Nato.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "613f512b9095ec9ebf5d5a46a0924c7570ead933",
       "title": "Five dead after high-speed trains collide in Spain",
@@ -17,7 +95,7 @@
     },
     {
       "id": "761ff91d83ac979620771479f1381428d0f04941",
-      "title": "Senegal walk off pitch in Afcon final over controversial penalty",
+      "title": "'Not a good look' - Senegal walk off pitch over penalty in Afcon final",
       "url": "https://www.bbc.com/sport/football/articles/c70ljednyl6o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -29,34 +107,8 @@
       ]
     },
     {
-      "id": "fa441d6f053253004ed21997a79d0631f69ae2a6",
-      "title": "Australia news live: growing One Nation support reflects ‘licence for an alternative’, Joyce says; Marles ‘welcomes’ Trump’s ‘board of peace’ invitation",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jan/19/federal-parliament-returns-gun-control-measures-hate-speech-laws-anthony-albanese-labor-sussan-ley-coalition-greens-trump-board-for-peace-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-01-18T21:58:16.000Z",
-      "summary_90w": "",
-      "raw": "Deputy prime minister remains coy over whether Australia will join US-backed postwar Gaza panel. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\n\nMarles ‘confident about the future of Nato’ despite Trump pressure\nContinuing his media rounds, the deputy PM, Richard Marles, is pressed on the government’s response to Donald Trump’s tariffs on some European nations, in a bid to take over Greenland.\nNato has played a very important role and continues to be very strong. I’ve been to the last two Nato meetings representing Australia, and there is a definite sense of unity when you’re at Nato meetings. So I feel confident about the future of Nato.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d1720e8ad6b12f9dd09a6bb32a6335e5f995d311",
-      "title": "Andrew Rosindell quits Tories and defects to Reform UK",
-      "url": "https://www.bbc.com/news/articles/c98jn1wywdyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-18T21:50:16.000Z",
-      "summary_90w": "",
-      "raw": "His defection comes days after former shadow justice minister Robert Jenrick joined Reform.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "9fd7acffa8bf576cb25ef1300af926f539d5dd24",
-      "title": "High-speed train crash in southern Spain leaves 10 reportedly dead",
+      "title": "High-speed train crash in southern Spain leaves 10 dead, police report",
       "url": "https://www.theguardian.com/world/2026/jan/18/high-speed-train-crash-in-adamuz-cordoba-southern-spain",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
@@ -188,7 +240,7 @@
       "id": "d1f242720c6dd7045043e91c5aa60b83a01957c2",
       "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
       "url": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-01-18T20:29:08.000Z",
       "summary_90w": "",
@@ -219,19 +271,6 @@
       "published": "2026-01-18T20:12:49.000Z",
       "summary_90w": "",
       "raw": "UK prime minister holds phone call with US president as European leaders scramble to protect Danish territory\nKeir Starmer has told Donald Trump he is wrong to threaten tariffs against Nato allies to try to secure Greenland, as part of a flurry of diplomatic calls intended to tackle the crisis.\nThe UK prime minister spoke to the US president on Sunday, as well as to Mette Frederiksen, the Danish PM, whose country’s territory includes Greenland; Ursula von der Leyen, the president of the European Commission; and Mark Rutte, the Nato secretary general.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "74e61809376095baa1d9417672cc97645acdc99c",
-      "title": "Barry secures deserved win for Everton against Villa",
-      "url": "https://www.bbc.com/sport/football/videos/c62r5xexrw9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-18T20:00:36.000Z",
-      "summary_90w": "",
-      "raw": "Everton's Thierno Barry capitalises on a mistake by Aston Villa's Emi Martinez for a 1-0 win to The Toffees, which stops Villa going second in the Premier League.",
       "topics": [
         "World"
       ]
@@ -323,19 +362,6 @@
       "published": "2026-01-18T18:10:58.000Z",
       "summary_90w": "",
       "raw": "President issues warning amid speculation Donald Trump plans to assassinate or remove supreme leader\nIran’s president, Masoud Pezeshkian, warned on Sunday that any attack on the country’s supreme leader, Ayatollah Ali Khamenei, would be a declaration of war.\nIn an apparent response to speculation that Donald Trump is considering an attempt to assassinate or remove Khamenei, Pezeshkian said in a post on X: “An attack on the great leader of our country is tantamount to a full-scale war with the Iranian nation.”\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3b5235bf4b7ad2ae04153c5cd884ea2dc27bdd2f",
-      "title": "Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
-      "url": "https://www.bbc.com/news/articles/c4gwk37ewvwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-18T17:49:13.000Z",
-      "summary_90w": "",
-      "raw": "President Ahmed al-Sharaa said the deal would allow the Syrian state to reassert control over most areas.",
       "topics": [
         "World"
       ]
@@ -1472,19 +1498,6 @@
       ]
     },
     {
-      "id": "9c737dd5617228a2dd03a750b879bd7dd0e6166d",
-      "title": "How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East",
-      "url": "https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-01-16T17:15:00.000Z",
-      "summary_90w": "",
-      "raw": "The phishing campaign targeted users on WhatsApp, including an Iranian-British activist, and stole the credentials of a Lebanese cabinet minister and at least one journalist.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "62665cf65db1c88f787a0c2ec99bdf728f8bdb32",
       "title": "December board game update",
       "url": "https://www.npr.org/2026/01/16/nx-s1-5680094/december-planet-money-board-game-update-sasquatch",
@@ -1870,19 +1883,6 @@
       "published": "2026-01-13T13:09:19.000Z",
       "summary_90w": "",
       "raw": "Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "00f8fe4123194641fa15ce550ad270558b5865b5",
-      "title": "Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry",
-      "url": "https://www.npr.org/2026/01/13/nx-s1-5675781/pentagon-musks-grok-ai-chatbot-global-outcry",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2026-01-13T06:36:38.000Z",
-      "summary_90w": "",
-      "raw": "Defense Secretary Pete Hegseth said Monday that Elon Musk's artificial intelligence chatbot Grok will join Google's generative AI engine in operating inside the Pentagon network, as part of a broader push to feed as much of the military's data as possible into the developing technology.",
       "topics": [
         "Technology"
       ]
