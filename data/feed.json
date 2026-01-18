@@ -1,6 +1,6 @@
 {
-  "version": "1768758419579",
-  "generatedAt": "2026-01-18T17:46:59.579Z",
+  "version": "1768758849080",
+  "generatedAt": "2026-01-18T17:54:09.080Z",
   "items": [
     {
       "id": "e248e0cb721d51bb2ddcd12a39a1046429047333",
@@ -75,7 +75,7 @@
       "source_name": "The Verge",
       "published": "2026-01-18T16:46:15.000Z",
       "summary_90w": "",
-      "raw": "Microsoft released its first security update of 2026 for Windows 11 on January 13th. Just four days later, it was forced to release an emergency out-of-band update to fix some pretty serious bugs, the first one introduced. The security patch was stopping some systems from shutting down or hibernating properly, and also preventing some users from logging in via remote desktop. This is just the latest buggy update that has forced Microsoft to issue an out-of-band update, something that used to be pretty rare, but seems to be becoming increasingly common.\nAccording to the changelog:\nMicrosoft has identified issues upon installing the January …\n\nRead the full story at The Verge.",
+      "raw": "Microsoft released its first security update of 2026 for Windows 11 on January 13th. Just four days later, it was forced to release an emergency out-of-band update to fix some pretty serious bugs, the first one introduced. \nThe security patch was stopping some systems from shutting down or hibernating properly, and also preventing some users from logging in via remote desktop. The impact of the shutdown bug was limited to machines still running Windows 11 23H2, and only those running either the Enterprise of IoT editions. Still, this is just the latest buggy update that has forced Microsoft to issue an out-of-band update, something that use …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
