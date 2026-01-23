@@ -1,6 +1,6 @@
 {
-  "version": "1769211484761",
-  "generatedAt": "2026-01-23T23:38:04.761Z",
+  "version": "1769212515166",
+  "generatedAt": "2026-01-23T23:55:15.166Z",
   "items": [
     {
       "id": "b00536ef645c49457c9e771f66ff8e11d820bd22",
@@ -8,9 +8,22 @@
       "url": "https://www.bbc.com/news/articles/c0r44l05q52o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2026-01-23T23:27:25.000Z",
+      "published": "2026-01-23T23:41:39.000Z",
       "summary_90w": "",
       "raw": "The National Weather Service warns the winter blast \"will pose a life-threatening risk of hypothermia\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "492ef1d9f5759ba85e5c385cf5632032497be986",
+      "title": "Hundreds of Minnesota businesses close to protest ICE presence",
+      "url": "https://www.bbc.com/news/articles/c1dk67g4q91o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-23T23:38:06.000Z",
+      "summary_90w": "",
+      "raw": "Thousands of people have joined widespread protests against the weeks-long immigration crackdown in the state.",
       "topics": [
         "World"
       ]
@@ -362,19 +375,6 @@
       "published": "2026-01-23T19:18:56.000Z",
       "summary_90w": "",
       "raw": "Forecasters say the storm will dump heavy snow, sleet and freezing rain from the Southern Rockies into New England through Monday.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "492ef1d9f5759ba85e5c385cf5632032497be986",
-      "title": "Minnesota holds economic strike to protest ICE presence",
-      "url": "https://www.bbc.com/news/articles/c1dk67g4q91o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-23T19:13:47.000Z",
-      "summary_90w": "",
-      "raw": "Organisers called on businesses to close for the day in protest at immigration enforcement activity.",
       "topics": [
         "World"
       ]
@@ -1758,14 +1758,14 @@
       ]
     },
     {
-      "id": "624a188c1ae13601aee84287395e7bb46a449256",
-      "title": "1 year into Trump's new term, an agency that protects your finances is 'hanging by a thread'",
-      "url": "https://www.npr.org/2026/01/21/nx-s1-5683060/cfpb-consumer-watchdog-agency-trump-second-term",
+      "id": "36670dfb6b8fec705f968b5394893959754f9ab6",
+      "title": "It's showdown time for the Fed's independence at the Supreme Court",
+      "url": "https://www.npr.org/2026/01/21/nx-s1-5674893/supreme-court-federal-reserve-lisa-cook",
       "source_id": "npr-business",
       "source_name": "NPR Topics: Business",
       "published": "2026-01-21T10:00:00.000Z",
       "summary_90w": "",
-      "raw": "The Trump administration has ordered work stoppages and layoffs and has tried cutting off funding to effectively dismantle the Consumer Financial Protection Bureau.",
+      "raw": "At issue are President Trump's efforts to break with 112 years of law and precedent by firing Lisa Cook, a member of the Federal Reserve's governing board.",
       "topics": [
         "Business"
       ]
