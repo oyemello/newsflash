@@ -1,7 +1,46 @@
 {
-  "version": "1769198008641",
-  "generatedAt": "2026-01-23T19:53:28.641Z",
+  "version": "1769199547100",
+  "generatedAt": "2026-01-23T20:19:07.100Z",
   "items": [
+    {
+      "id": "350ab43ea46a57438e49bbb34ea7924c8451b234",
+      "title": "Researchers say Russian government hackers were behind attempted Poland power outage",
+      "url": "https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-01-23T20:17:24.000Z",
+      "summary_90w": "",
+      "raw": "Security researchers have attributed the attempted use of destructive \"wiper\" malware across Poland's energy infrastructure in late December to a Russian-backed hacking group known for causing power outages in neighboring Ukraine.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4515980322aa5c5786393914b0c875bad4c288e7",
+      "title": "How did Davos turn into a tech conference?",
+      "url": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-01-23T20:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The World Economic Forum’s annual meeting in Davos felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade. AI dominated the conversation in a way that overshadowed traditional topics like climate change and global poverty, and the CEOs weren’t holding back. There was public criticism of trade policy, warnings about AI […]",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3ea0a40a3d747211c582a285d6e06334fcf0c11f",
+      "title": "Meta is stopping teens from chatting with its AI characters",
+      "url": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-01-23T19:50:59.000Z",
+      "summary_90w": "",
+      "raw": "Meta is \"temporarily pausing\" the ability for teens to chat with its AI characters as it develops a \"new version\" of the characters that will offer a \"better experience.\" The company made the announcement in an update to a blog post from October where the company had detailed more parental controls for teen AI use. The change blocking teens from accessing the characters will go into effect \"starting in the coming weeks.\"\n\"Since we announced our plans to build parental controls for AI characters in October, we started developing a new iteration of AI characters generally (i.e. for both adults and teens),\" spokesperson Sophie Vogel tells The  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "11c25857015b43043e5acac00197caa1418ba583",
       "title": "At Davos, U.S. allies question a fraying world order",
@@ -19,11 +58,24 @@
       "id": "1d10d28a2ebc72d48202918a61feeb569fc531ae",
       "title": "Danish PM in Greenland for 'show of support' after Trump threats",
       "url": "https://www.bbc.com/news/articles/c78ejd0xmp0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-01-23T19:25:27.000Z",
       "summary_90w": "",
       "raw": "Mette Frederiksen visits the territory after weeks of tension over the US president's warnings that he could take control of it.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "659a03fc5deacce525d3c8967b00f2d19ca4db48",
+      "title": "Post Office and Fujitsu accused of delaying £4m legal claim",
+      "url": "https://www.bbc.com/news/articles/cgk82743gz1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-23T19:25:13.000Z",
+      "summary_90w": "",
+      "raw": "Lee Castleton is taking legal action against his former employer over the Horizon IT scandal.",
       "topics": [
         "World"
       ]
@@ -37,6 +89,19 @@
       "published": "2026-01-23T19:18:56.000Z",
       "summary_90w": "",
       "raw": "Forecasters say the storm will dump heavy snow, sleet and freezing rain from the Southern Rockies into New England through Monday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "492ef1d9f5759ba85e5c385cf5632032497be986",
+      "title": "Minnesota holds economic strike to protest ICE presence",
+      "url": "https://www.bbc.com/news/articles/c1dk67g4q91o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-23T19:13:47.000Z",
+      "summary_90w": "",
+      "raw": "Organisers called on businesses to close for the day in protest at immigration enforcement activity.",
       "topics": [
         "World"
       ]
@@ -342,7 +407,7 @@
     },
     {
       "id": "054198646b98ccd029e5619624c79dc1c7f3ace5",
-      "title": "England's Jess Carter says Euro 2025 abuse made her not want to leave hotel",
+      "title": "Euros abuse made me not want to leave hotel - Carter",
       "url": "https://www.bbc.com/sport/football/articles/cd0y353v2x5o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -355,7 +420,7 @@
     },
     {
       "id": "054198646b98ccd029e5619624c79dc1c7f3ace5",
-      "title": "Euros abuse made me not want to leave hotel - Carter",
+      "title": "Euros abuse made me not want to leave hotel, says England's Jess Carter",
       "url": "https://www.bbc.com/sport/football/articles/cd0y353v2x5o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -653,19 +718,6 @@
       ]
     },
     {
-      "id": "6079875fded36d19ce0f34168303122babca1e3d",
-      "title": "Iran eyewitness tells of escape as live fire hit protesters",
-      "url": "https://www.bbc.com/news/articles/c9dvvzzpwylo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-23T15:33:01.000Z",
-      "summary_90w": "",
-      "raw": "An Iranian who got out of the country describes scenes of chaos as security forces opened fire in her home town.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "3035578825605193d676051ea3bbdca4228580c6",
       "title": "OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources",
       "url": "https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/",
@@ -687,19 +739,6 @@
       "published": "2026-01-23T15:20:10.000Z",
       "summary_90w": "",
       "raw": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news just a little sad. Sony's new joint venture with TCL isn't the end of Sony TVs - and it might even be good news - but it's certainly the end of an era. \nOn this episode of The Vergecast, Nilay and David discuss the Sony / TCL deal, Sony's legacy in televisions, and what it all might mean for anyone shopping for a new set. The deal isn't done, and we don't know all that much about it yet, …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0f939cc59b5faea64992e0c9b3bbb269ce2caf63",
-      "title": "Anbernic’s next wireless controller adds a screen and heart rate monitoring",
-      "url": "https://www.theverge.com/tech/866600/anbernic-rg-g01-smart-wireless-gaming-controller-heart-rate-sensor-display",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-01-23T15:11:26.000Z",
-      "summary_90w": "",
-      "raw": "The RG G01’s screen is potentially far more useful than its pulse sensor. | Screenshot: YouTube\t\n\nAnbernic has announced its second wireless controller through a teaser video on YouTube highlighting its features. The company's first gamepad, the RG P01, offered features like Hall effect triggers and joysticks for just $18. Pricing for the new Anbernic RG G01 hasn't been revealed, but it may be more expensive due to several upgrades, including a curved color display on the front and a heart rate sensor.\nThe RG G01 won't be the first controller with a built-in screen. Companies like Turtle Beach already offer them. While a display adds to the cost, it lets gamers adjust settings, program macros that automatically trigger a series of butto …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -765,6 +804,19 @@
       "published": "2026-01-23T14:28:05.000Z",
       "summary_90w": "",
       "raw": "With statues of a lion and white tiger, the watch is modelled off the private zoo owned by Anant Ambani.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2162d7e4a8a0b4d0a6345e902ace551ba8c3a7f3",
+      "title": "Cameron Norrie's Australian Open exit underlines how Britain is punching below weight",
+      "url": "https://www.bbc.com/sport/tennis/articles/c0kee020dk6o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-23T14:23:03.000Z",
+      "summary_90w": "",
+      "raw": "Britain is one of the richest tennis nations in the world but once again its singles players have not reached the second week at a Grand Slam.",
       "topics": [
         "World"
       ]
@@ -1459,19 +1511,6 @@
       ]
     },
     {
-      "id": "d5a28b99d8a646789ca19541375c9d88a334e960",
-      "title": "Are AI agents ready for the workplace? A new benchmark raises doubts",
-      "url": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-01-22T21:42:18.000Z",
-      "summary_90w": "",
-      "raw": "New research looks at how leading AI models hold up doing actual white-collar work tasks, drawn from consulting, investment banking, and law. Most models failed.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "c8702b2b3f85cafc782f189b6764aa2d11b645e4",
       "title": "Could Trump's new Board of Peace sideline the struggling UN?",
       "url": "https://www.bbc.com/news/articles/cn8jj228g2vo?at_medium=RSS&at_campaign=rss",
@@ -1485,16 +1524,16 @@
       ]
     },
     {
-      "id": "4a88d3499816cf39631968a7e41c6e1a54c4b54f",
-      "title": "Microsoft 365 hit by outage, preventing access to emails and files",
-      "url": "https://techcrunch.com/2026/01/22/microsoft-365-hit-by-outage-preventing-access-to-emails-and-files/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-01-22T21:31:10.000Z",
+      "id": "d37cc9d4f475c11d3ded3d1e94c05eb372c282d1",
+      "title": "Board of Peace, Zelensky and Musk - What happened before Trump left Davos?",
+      "url": "https://www.bbc.com/news/videos/c78vvvn4qnlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-01-22T21:19:43.000Z",
       "summary_90w": "",
-      "raw": "An hours-long outage is preventing Microsoft's enterprise customers from accessing their inboxes, files, and video meetings.",
+      "raw": "The US president held a charter-signing ceremony for his \"new international oversight body\", though several key allies were not present.",
       "topics": [
-        "Technology"
+        "World"
       ]
     },
     {
