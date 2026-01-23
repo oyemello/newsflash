@@ -1,6 +1,6 @@
 {
-  "version": "1769158593152",
-  "generatedAt": "2026-01-23T08:56:33.152Z",
+  "version": "1769160310275",
+  "generatedAt": "2026-01-23T09:25:10.275Z",
   "items": [
     {
       "id": "ab76234ef7fda7c2987b1c07d9516d9f2080752e",
@@ -8,9 +8,48 @@
       "url": "https://www.bbc.com/news/articles/cn9zznx8qdno?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-01-23T08:42:15.000Z",
+      "published": "2026-01-23T09:18:30.000Z",
       "summary_90w": "",
       "raw": "Trump ordered the withdrawal a year ago, accusing the UN agency of failing to adopt reforms and mishandling the pandemic.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8aac76fa2e56bb02c34fe60c52152e6b15249504",
+      "title": "Trump's claim about Nato troops in Afghanistan is disappointing, minister says",
+      "url": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-23T09:14:29.000Z",
+      "summary_90w": "",
+      "raw": "The US president said allied troops had \"stayed a little back\" during the war in Afghanistan.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "855e1c0e5de3da86d41c913e1fa732bea9fb90bf",
+      "title": "Heathrow scraps 100ml liquid container limit",
+      "url": "https://www.bbc.com/news/articles/c1evvx89559o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-23T09:08:37.000Z",
+      "summary_90w": "",
+      "raw": "Heathrow says it has become the biggest airport to scrap the 100ml limit on liquid containers.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c543f87649ff4ef07953934fe95162469dfb9084",
+      "title": "Ukraine, Russia and US set for rare trilateral talks amid hopes for a breakthrough - Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/jan/23/ukraine-war-russia-us-trilateral-talks-latest-updates-news",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-01-23T09:01:39.000Z",
+      "summary_90w": "",
+      "raw": "With talks of a confrontation over Greenland receding, attention turns back to ending the four-year war between Ukraine and Russia\nWith a (temporary?) pause on the Greenland crisis, the attention shifts back to Ukraine after Volodymyr Zelenskyy’s talks with Donald Trump in Davos, and the US delegation’s late talks with Vladimir Putin at the Kremlin last night, which was described by Russian aide Yuri Ushakov as “useful in every aspect.”\nLet’s see if they can lead to a genuine breakthrough.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -76,19 +115,6 @@
       "published": "2026-01-23T08:19:04.000Z",
       "summary_90w": "",
       "raw": "A BBC investigation uncovers how criminals are operating huge illegal rubbish tips across the country.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8aac76fa2e56bb02c34fe60c52152e6b15249504",
-      "title": "Trump's claim about Nato troops in Afghanistan is disappointing, minister says",
-      "url": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-23T08:14:16.000Z",
-      "summary_90w": "",
-      "raw": "The US president said allied troops had \"stayed a little back\" during the war in Afghanistan.",
       "topics": [
         "World"
       ]
@@ -331,7 +357,7 @@
       "id": "86153112ca817230dc219e4d8054023fb4e5aede",
       "title": "Trump withdraws Canada's invite to  'Board of Peace'",
       "url": "https://www.bbc.com/news/articles/cn7jjp8gl0jo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-01-23T05:16:46.000Z",
       "summary_90w": "",
@@ -686,7 +712,7 @@
       "source_name": "BBC News",
       "published": "2026-01-22T23:54:47.000Z",
       "summary_90w": "",
-      "raw": "Nottingham Forest's hopes of a top-eight finish in the Europa League - and a straight route to the last 16 - are hanging by a thread after 55 costly seconds lead to defeat by Sporting Braga.",
+      "raw": "Nottingham Forest's hopes of a top-eight finish in the Europa League - and a straight route to the last 16 - are hanging by a thread.",
       "topics": [
         "World"
       ]
@@ -695,7 +721,7 @@
       "id": "2d1f312349fa82ec14d4de38d5498e5d21795747",
       "title": "ICE detains five-year-old and father in Minnesota, lawyer says",
       "url": "https://www.bbc.com/news/articles/cwyrrqwxpz7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-01-22T23:54:22.000Z",
       "summary_90w": "",
@@ -739,19 +765,6 @@
       "published": "2026-01-22T23:23:32.000Z",
       "summary_90w": "",
       "raw": "Political spats brewing since the tragedy last month have overshadowed a national day of mourning.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d924b4161bb8cfea42735b7a951fce6791028a17",
-      "title": "Six injured after knife attack at Kurdish demonstration in Antwerp",
-      "url": "https://www.theguardian.com/world/2026/jan/22/six-injured-after-knife-attack-at-kurdish-demonstration-in-antwerp-belgium",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-01-22T22:59:44.000Z",
-      "summary_90w": "",
-      "raw": "Incident outside Opera House that left two people in critical condition is not being investigated as terrorism, police say\nSix people have been injured after a knife attack at a demonstration in Belgium on Thursday evening, police said.\nTwo of the victims were in a critical condition in hospital after the incident in the port city of Antwerp near the Operaplein (Opera Square), police spokesperson Wouter Bruyns said.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -916,7 +929,7 @@
       "id": "c8702b2b3f85cafc782f189b6764aa2d11b645e4",
       "title": "Could Trump's new Board of Peace sideline the struggling UN?",
       "url": "https://www.bbc.com/news/articles/cn8jj228g2vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-01-22T21:40:18.000Z",
       "summary_90w": "",
