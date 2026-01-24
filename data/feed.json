@@ -1,12 +1,25 @@
 {
-  "version": "1769268995054",
-  "generatedAt": "2026-01-24T15:36:35.054Z",
+  "version": "1769270003663",
+  "generatedAt": "2026-01-24T15:53:23.663Z",
   "items": [
+    {
+      "id": "29fc4e5f8e88a265d3a499425daf9e276b855d1d",
+      "title": "Trump threatens Canada with 100% tariffs over China trade deal",
+      "url": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-24T15:40:30.000Z",
+      "summary_90w": "",
+      "raw": "Trump made the threat in a social media post as tensions rise between the US and its northern neighbour.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "27b802bf5773b20e2498260711bbe63a93798a04",
       "title": "Two days of peace talks end as Russia continues Ukraine attacks",
       "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-01-24T15:33:06.000Z",
       "summary_90w": "",
@@ -94,19 +107,6 @@
       ]
     },
     {
-      "id": "27b802bf5773b20e2498260711bbe63a93798a04",
-      "title": "Ukraine condemns 'brutal' Russian strikes as second day of peace talks ends",
-      "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-24T14:19:27.000Z",
-      "summary_90w": "",
-      "raw": "One person died and 35 were injured as trilateral discussions in Abu Dhabi entered a second day.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7fd86d461924fd51b64a4c5d622e8c9f6c483a64",
       "title": "China places highest-ranking general under investigation",
       "url": "https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss",
@@ -147,9 +147,22 @@
     },
     {
       "id": "06800c6aace83dbfbd50b9add0b76111eff80ff4",
-      "title": "How Soviet urban planning is helping Russia freeze Ukraine",
+      "title": "How Soviet urban planning helped Russia leave millions freezing in Ukraine",
       "url": "https://www.bbc.com/news/articles/c338jpk8r1vo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-24T13:56:13.000Z",
+      "summary_90w": "",
+      "raw": "Thousands of people are affected when heating plants are targeted by Russian forces.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "06800c6aace83dbfbd50b9add0b76111eff80ff4",
+      "title": "How Soviet urban planning is helping Russia freeze Ukraine",
+      "url": "https://www.bbc.com/news/articles/c338jpk8r1vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-01-24T13:56:13.000Z",
       "summary_90w": "",
@@ -817,19 +830,6 @@
       "published": "2026-01-23T22:10:38.000Z",
       "summary_90w": "",
       "raw": "Minnesota residents took to the streets of downtown Minneapolis to protest the federal government's immigration campaign in the state, after weeks of sustained resistance in their communities. Businesses across the region closed in solidarity.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9bd34e5602cd7a00d10dc086e54cf91d6211e340",
-      "title": "'He should apologise': Anger of veterans and relatives at Trump Nato remarks ",
-      "url": "https://www.bbc.com/news/articles/c20gzjnv9l5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-23T22:10:03.000Z",
-      "summary_90w": "",
-      "raw": "A total of 457 British service personnel were killed fighting in Afghanistan.",
       "topics": [
         "World"
       ]
@@ -1667,14 +1667,14 @@
       ]
     },
     {
-      "id": "624a188c1ae13601aee84287395e7bb46a449256",
-      "title": "1 year into Trump's new term, an agency that protects your finances is 'hanging by a thread'",
-      "url": "https://www.npr.org/2026/01/21/nx-s1-5683060/cfpb-consumer-watchdog-agency-trump-second-term",
+      "id": "36670dfb6b8fec705f968b5394893959754f9ab6",
+      "title": "It's showdown time for the Fed's independence at the Supreme Court",
+      "url": "https://www.npr.org/2026/01/21/nx-s1-5674893/supreme-court-federal-reserve-lisa-cook",
       "source_id": "npr-business",
       "source_name": "NPR Topics: Business",
       "published": "2026-01-21T10:00:00.000Z",
       "summary_90w": "",
-      "raw": "The Trump administration has ordered work stoppages and layoffs and has tried cutting off funding to effectively dismantle the Consumer Financial Protection Bureau.",
+      "raw": "At issue are President Trump's efforts to break with 112 years of law and precedent by firing Lisa Cook, a member of the Federal Reserve's governing board.",
       "topics": [
         "Business"
       ]
