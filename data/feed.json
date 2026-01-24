@@ -1,6 +1,6 @@
 {
-  "version": "1769265453314",
-  "generatedAt": "2026-01-24T14:37:33.314Z",
+  "version": "1769266532466",
+  "generatedAt": "2026-01-24T14:55:32.466Z",
   "items": [
     {
       "id": "5213e61e559864d6700c8a9c82c431b2ac30898b",
@@ -45,7 +45,7 @@
       "id": "7fd86d461924fd51b64a4c5d622e8c9f6c483a64",
       "title": "China places highest-ranking general under investigation",
       "url": "https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-01-24T14:14:44.000Z",
       "summary_90w": "",
@@ -185,6 +185,19 @@
       ]
     },
     {
+      "id": "84b11b15c8381af5e12d75aadade2a893ab9a0ec",
+      "title": "Why 3 Catholic cardinals released a statement critical of Trump's foreign policy",
+      "url": "https://www.npr.org/2026/01/24/nx-s1-5686372/why-these-catholic-cardinals-released-a-statement-critical-of-the-trumps-foreign-policy",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-01-24T12:28:11.000Z",
+      "summary_90w": "",
+      "raw": "Cardinal Blase Cupich of Chicago tells NPR's Scott Simon why he and two other Catholic cardinals released a statement critical of the Trump administration's foreign policy.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "0952ddfa859ec5303c65e1ccbd21c05ceb75c30b",
       "title": "Labour wants to shake up the police - but will that solve 'everyday crime epidemic'?",
       "url": "https://www.bbc.com/news/articles/c2k98jw3xnxo?at_medium=RSS&at_campaign=rss",
@@ -206,19 +219,6 @@
       "published": "2026-01-24T11:25:14.000Z",
       "summary_90w": "",
       "raw": "After three weeks, the latest series of The Traitors came to its dramatic climax in Friday's finale.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "12b1040e633ffdc5b52095a9c6dda9731a1b16fa",
-      "title": "Man shot in 'targeted' city centre attack",
-      "url": "https://www.bbc.com/news/articles/c4g3qpkq9w0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-24T11:05:42.000Z",
-      "summary_90w": "",
-      "raw": "The victim was shot in the leg in the city's gay village at about 05:00 GMT, police say.",
       "topics": [
         "World"
       ]
@@ -1007,13 +1007,13 @@
       "id": "ddd6e0b01a4b9ef99eec8dfbb875ed3b814e81cd",
       "title": "Gladys West, mathematician whose work paved the way for GPS, dies at 95",
       "url": "https://www.npr.org/2026/01/23/nx-s1-5685027/gladys-west-gps-mathematician",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2026-01-23T18:38:48.000Z",
       "summary_90w": "",
       "raw": "A self-described \"little farm girl\" in the Jim Crow Era, Gladys West's complex and pioneering work for the U.S. Navy helped to improve billions of lives — and keep us from getting lost.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
