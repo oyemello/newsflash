@@ -1,7 +1,20 @@
 {
-  "version": "1769267711867",
-  "generatedAt": "2026-01-24T15:15:11.867Z",
+  "version": "1769268995054",
+  "generatedAt": "2026-01-24T15:36:35.054Z",
   "items": [
+    {
+      "id": "27b802bf5773b20e2498260711bbe63a93798a04",
+      "title": "Two days of peace talks end as Russia continues Ukraine attacks",
+      "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-01-24T15:33:06.000Z",
+      "summary_90w": "",
+      "raw": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "6ad50c0796ec0709fb5eef61aea5808ae9dbe665",
       "title": "Trump threatens Canada with 100% tariff over possible deal with China",
@@ -136,7 +149,7 @@
       "id": "06800c6aace83dbfbd50b9add0b76111eff80ff4",
       "title": "How Soviet urban planning is helping Russia freeze Ukraine",
       "url": "https://www.bbc.com/news/articles/c338jpk8r1vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-01-24T13:56:13.000Z",
       "summary_90w": "",
@@ -258,19 +271,6 @@
       "published": "2026-01-24T12:27:09.000Z",
       "summary_90w": "",
       "raw": "The home secretary is promising the biggest policing reform in centuries, but she faces a fight, writes Laura Kuenssberg.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c57ab570c7ae96716a2c7ecacf565492dcac3896",
-      "title": "The Traitors stars serve up drama in nail-biting final",
-      "url": "https://www.bbc.com/news/articles/c301jg2dlmdo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-24T11:25:14.000Z",
-      "summary_90w": "",
-      "raw": "After three weeks, the latest series of The Traitors came to its dramatic climax in Friday's finale.",
       "topics": [
         "World"
       ]
@@ -401,6 +401,19 @@
       "published": "2026-01-24T07:38:18.000Z",
       "summary_90w": "",
       "raw": "Janet and Theresa were just five and seven when their mum was killed at their family home.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "96d7df48cc0d83dd01bd17b247c4e481d8084276",
+      "title": "Watch: Claudia Winkleman's most iconic moments in The Traitors",
+      "url": "https://www.bbc.com/news/videos/clynz2ldzxeo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-24T07:10:04.000Z",
+      "summary_90w": "",
+      "raw": "Claudia Winkleman hosts the ultimate reality game of trust and treachery on The Traitors, here are her best moments.",
       "topics": [
         "World"
       ]
@@ -832,19 +845,6 @@
       "raw": "TikTok finally closed a deal meant to bring it into compliance with the law that should have banned it a year ago, and the lawmakers who passed that law still don't seem to know what's going on.\nThe company announced Tuesday that its US service is now part of the separate TikTok USDS Joint Venture LLC, with parent company ByteDance holding just a 19.9 percent stake in that new entity. The rest is owned by Oracle and investment firms Silver Lake and MGX, as well as smaller investors including Michael Dell's family investment firm. Oracle will store US data and the joint venture will \"retrain, test, and update the content recommendation algor …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "36fcd5e50158a50660f5f1bbc3a776a3de0a9280",
-      "title": "Chris Mason: Starmer's strongest rebuke yet for Trump",
-      "url": "https://www.bbc.com/news/articles/c9dvnlvzjw7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-23T22:04:12.000Z",
-      "summary_90w": "",
-      "raw": "This past week could mark a turning point in the relationship between the UK prime minister and the US president.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1667,14 +1667,14 @@
       ]
     },
     {
-      "id": "36670dfb6b8fec705f968b5394893959754f9ab6",
-      "title": "It's showdown time for the Fed's independence at the Supreme Court",
-      "url": "https://www.npr.org/2026/01/21/nx-s1-5674893/supreme-court-federal-reserve-lisa-cook",
+      "id": "624a188c1ae13601aee84287395e7bb46a449256",
+      "title": "1 year into Trump's new term, an agency that protects your finances is 'hanging by a thread'",
+      "url": "https://www.npr.org/2026/01/21/nx-s1-5683060/cfpb-consumer-watchdog-agency-trump-second-term",
       "source_id": "npr-business",
       "source_name": "NPR Topics: Business",
       "published": "2026-01-21T10:00:00.000Z",
       "summary_90w": "",
-      "raw": "At issue are President Trump's efforts to break with 112 years of law and precedent by firing Lisa Cook, a member of the Federal Reserve's governing board.",
+      "raw": "The Trump administration has ordered work stoppages and layoffs and has tried cutting off funding to effectively dismantle the Consumer Financial Protection Bureau.",
       "topics": [
         "Business"
       ]
