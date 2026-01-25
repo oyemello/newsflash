@@ -1,6 +1,6 @@
 {
-  "version": "1769370680335",
-  "generatedAt": "2026-01-25T19:51:20.335Z",
+  "version": "1769372268478",
+  "generatedAt": "2026-01-25T20:17:48.478Z",
   "items": [
     {
       "id": "387cb1bbf089578016fd16a7d320fe5c0ec3d4aa",
@@ -8,9 +8,48 @@
       "url": "https://www.bbc.com/sport/articles/c2lgrw7v5w7o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-01-25T19:05:12.000Z",
+      "published": "2026-01-25T20:01:09.000Z",
       "summary_90w": "",
       "raw": "Matheus Cunha scores a dramatic late winner for Manchester United as they beat Premier League leaders Arsenal in a thrilling match at Emirates Stadium.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4888cd2be7bb07409be72d24a7f63b902f6a9283",
+      "title": "Villa 'extraordinary' in first win at Newcastle since infamous 2005 trip",
+      "url": "https://www.bbc.com/sport/football/articles/cvgp08we081o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-25T20:00:57.000Z",
+      "summary_90w": "",
+      "raw": "Aston Villa produce 'extraordinary' performance as they claim their first win at Newcastle since the infamous 2005 encounter",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3589e1d0d3b96988ef839a19ff70a5269b63e0cf",
+      "title": "Videos and eyewitnesses refute federal account of Minneapolis shooting",
+      "url": "https://www.npr.org/2026/01/25/nx-s1-5687875/minneapolis-shooting-minnesota-ice-alex-pretti-dhs-investigation",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-01-25T20:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Trump officials have called the victim a \"domestic terrorist.\" State officials warn such unfounded accusations threaten the integrity of the federal investigation.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "457975d00b91d2c5739dfed952ce1bdc87bf12fc",
+      "title": "Protests and anger after man shot dead by immigration agents",
+      "url": "https://www.bbc.com/news/articles/cn0ke0pkn3wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-25T19:58:12.000Z",
+      "summary_90w": "",
+      "raw": "Federal and state authorities have offered conflicting versions of what happened in the moments leading to the shooting.",
       "topics": [
         "World"
       ]
@@ -42,19 +81,6 @@
       ]
     },
     {
-      "id": "4888cd2be7bb07409be72d24a7f63b902f6a9283",
-      "title": "Villa 'extraordinary' in first win at Newcastle since infamous 2005 trip",
-      "url": "https://www.bbc.com/sport/football/articles/cvgp08we081o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-25T18:54:22.000Z",
-      "summary_90w": "",
-      "raw": "Aston Villa produce 'extraordinary' performance as they claim their first win at Newcastle since the infamous 2005 encounter",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "825007742c1435d7e090498b42cecf521c84f892",
       "title": "Andy Burnham 'disappointed' after bid to become MP blocked",
       "url": "https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss",
@@ -63,6 +89,19 @@
       "published": "2026-01-25T18:51:10.000Z",
       "summary_90w": "",
       "raw": "The Greater Manchester mayor is seen as a potential leadership challenger to Sir Keir Starmer.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "856d956abb349a7dff5148c0fc90de0877b18645",
+      "title": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
+      "url": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-25T18:48:27.000Z",
+      "summary_90w": "",
+      "raw": "The worst flooding in a generation hits Mozambique with teams from Brazil, South Africa and the UK helping with the rescue.",
       "topics": [
         "World"
       ]
@@ -102,19 +141,6 @@
       "published": "2026-01-25T17:41:21.000Z",
       "summary_90w": "",
       "raw": "In a show of brute power, No 10 has scuppered Burnham’s attempted run from Manchester to Westminster.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "457975d00b91d2c5739dfed952ce1bdc87bf12fc",
-      "title": "Protests and anger after man shot dead by immigration agents",
-      "url": "https://www.bbc.com/news/articles/cn0ke0pkn3wo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-25T17:30:55.000Z",
-      "summary_90w": "",
-      "raw": "Federal and state authorities have offered conflicting versions of what happened in the moments leading to the shooting.",
       "topics": [
         "World"
       ]
@@ -435,7 +461,7 @@
       "id": "f45628278b590e3e781dd195eb3fc86c45b307f6",
       "title": "Party backed by generals set for landslide as 'sham' Myanmar election ends",
       "url": "https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-01-25T13:05:23.000Z",
       "summary_90w": "",
@@ -817,19 +843,6 @@
       "published": "2026-01-24T22:36:11.000Z",
       "summary_90w": "",
       "raw": "A long-running fight over how to calculate and repay state funding debts to public HBCUs is flaring across the South, and Emily Siner and Camellia Burris tell the story in their podcast 'The Debt' from Nashville Public Radio and The Tennessee Lookout.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "40d2f432ab04513e941fcbd37cb3279986feb166",
-      "title": "Photos: Massive winter storm sweeps across the U.S.",
-      "url": "https://www.npr.org/2026/01/24/nx-s1-5685163/photos-massive-winter-storm-sweeps-u-s",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-01-24T22:35:48.000Z",
-      "summary_90w": "",
-      "raw": "A look at the extreme winter storm impacting two-thirds of the U.S.",
       "topics": [
         "World"
       ]
