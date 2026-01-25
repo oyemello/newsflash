@@ -1,7 +1,33 @@
 {
-  "version": "1769357893279",
-  "generatedAt": "2026-01-25T16:18:13.279Z",
+  "version": "1769359589715",
+  "generatedAt": "2026-01-25T16:46:29.715Z",
   "items": [
+    {
+      "id": "e0af9ea66e3b95691d0f2afb3e977a1df68087f2",
+      "title": "What is Bending Spoons? Everything to know about Eventbrite’s acquirer",
+      "url": "https://techcrunch.com/2026/01/25/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-01-25T16:25:19.000Z",
+      "summary_90w": "",
+      "raw": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ba21a3d1025f4c0d84e04d4068a09efd2a75ec9a",
+      "title": "Watch: Winter storm grips US as millions face power outages and disruption",
+      "url": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-25T16:22:56.000Z",
+      "summary_90w": "",
+      "raw": "A powerful winter storm swept across the country, with heavy snow, ice and dangerously low temperatures affecting millions.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "9678628d82e0239ecc4a8c9b21a26a1de218d5e0",
       "title": "Google says it’s fixed Gmail issues with spam and misclassification",
@@ -173,7 +199,7 @@
     },
     {
       "id": "1b5a5cf1aa893a9312dcecfaedc953b7a6051649",
-      "title": "How parents uncovered super hospital's infected water scandal",
+      "title": "The parents who uncovered hospital's infected water scandal",
       "url": "https://www.bbc.com/news/articles/cdxje77782jo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -458,19 +484,6 @@
       ]
     },
     {
-      "id": "f0ce062040a586eb7986fc8e20ccff2ee5668bb9",
-      "title": "I jumped out of a plane at 5,000ft - what happened next changed my life forever",
-      "url": "https://www.bbc.com/news/articles/cy8pplr3v18o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-25T07:25:16.000Z",
-      "summary_90w": "",
-      "raw": "A veteran recalls how his life changed during a training session which went went badly wrong.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "53da9565589689e63e77a3f705147921ce3db587",
       "title": "Watch: Federal and state officials give conflicting accounts on killing",
       "url": "https://www.bbc.com/news/videos/cgqegq0kj02o?at_medium=RSS&at_campaign=rss",
@@ -663,6 +676,19 @@
       "raw": "The FBI went to Microsoft last year with a warrant, asking them to hand over keys to unlock encrypted data stored on three laptops as part of an investigation into potential fraud involving the COVID unemployment assistance program in Guam - and Microsoft complied. \nTypically, companies resist handing over encryption keys to authorities. Most famously, Apple refused to grant the FBI access to a phone used by the San Bernardino shooters in 2016. The FBI eventually found a third-party to hack their way into the phone, but ultimately withdrew its case. Most of the major tech companies, including Google and Facebook backed Apple in its battle w …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "5cc831be5b0cf2fb316ec51c0a14b0bc843bc002",
+      "title": "Billions owed: 'The Debt' podcast covers the South's long fight to repay public HBCUs",
+      "url": "https://www.npr.org/2026/01/24/nx-s1-5684069/billions-owed-the-debt-podcast-covers-the-souths-long-fight-to-repay-public-hbcus",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-01-24T22:36:11.000Z",
+      "summary_90w": "",
+      "raw": "A long-running fight over how to calculate and repay state funding debts to public HBCUs is flaring across the South, and Emily Siner and Camellia Burris tell the story in their podcast 'The Debt' from Nashville Public Radio and The Tennessee Lookout.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -864,13 +890,13 @@
       "id": "b33653ac55ca27c7ccce26a84fe3dfc18d965854",
       "title": "Trump threatens Canada with 100% tariffs over its new trade deal with China",
       "url": "https://www.npr.org/2026/01/24/nx-s1-5687236/canada-china-tariffs-trump",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-01-24T16:53:17.000Z",
       "summary_90w": "",
       "raw": "The announcement is a reversal for Trump, who initially initially praised the agreement with China as something Canadian Prime Minister Mark Carney \"should be doing.\"",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -1485,32 +1511,6 @@
       ]
     },
     {
-      "id": "44b19b449080dc9346c41f955c462c8756999832",
-      "title": "Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: Reports",
-      "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-01-23T15:54:09.000Z",
-      "summary_90w": "",
-      "raw": "The FBI served Microsoft a warrant requesting encryption recovery keys to decrypt the hard drives of people involved in an alleged fraud case in Guam.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "52e2c43ad45f35f8c1162e1c4c25ee5ef86d1be3",
-      "title": "Could trilateral talks yield a breakthrough in Ukraine-Russia war?",
-      "url": "https://www.bbc.com/news/videos/c20dlr9kn37o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-01-23T14:54:36.000Z",
-      "summary_90w": "",
-      "raw": "It's the first time representatives from Kyiv, Moscow and Washington have come together since the full-scale invasion of Ukraine in 2022.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "aac6f6867fbae65aa6d045a4c5404f35ac19bfc3",
       "title": "Leaked video shows Venezuela regime’s desperate struggle to control message",
       "url": "https://www.theguardian.com/world/2026/jan/23/venezuela-leaked-video-delcy-rodriguez-maduro",
@@ -1784,14 +1784,14 @@
       ]
     },
     {
-      "id": "0c3335664e7fad5eb7ef24688c1d990bf0cf0a7d",
-      "title": "Trump administration claims offshore wind poses a threat. But it won't say how.",
-      "url": "https://www.npr.org/2026/01/21/nx-s1-5678635/trump-offshore-wind-national-security-climate-change",
+      "id": "36670dfb6b8fec705f968b5394893959754f9ab6",
+      "title": "It's showdown time for the Fed's independence at the Supreme Court",
+      "url": "https://www.npr.org/2026/01/21/nx-s1-5674893/supreme-court-federal-reserve-lisa-cook",
       "source_id": "npr-business",
       "source_name": "NPR Topics: Business",
       "published": "2026-01-21T10:00:00.000Z",
       "summary_90w": "",
-      "raw": "The Interior Department said pausing construction of offshore wind farms would allow the government agencies to work with project developers to mitigate potential risks. But wind companies say the administration isn't sharing information about newly-discovered threats.",
+      "raw": "At issue are President Trump's efforts to break with 112 years of law and precedent by firing Lisa Cook, a member of the Federal Reserve's governing board.",
       "topics": [
         "Business"
       ]
