@@ -1,7 +1,20 @@
 {
-  "version": "1769455540203",
-  "generatedAt": "2026-01-26T19:25:40.203Z",
+  "version": "1769456807451",
+  "generatedAt": "2026-01-26T19:46:47.451Z",
   "items": [
+    {
+      "id": "f8ad549990928dd301079781a82f90b9d4958ae5",
+      "title": "Apple’s luxe AirPods Max have dropped to one of their lowest prices ever",
+      "url": "https://www.theverge.com/gadgets/868017/apple-airpods-max-usb-c-best-buy-flash-deal-sale",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-01-26T19:38:39.000Z",
+      "summary_90w": "",
+      "raw": "All colors are on sale right now, including the attractive blue shade.\t\n\nIf you prefer over-ear headphones to earbuds and own an iPhone or another Apple device, the AirPods Max with USB-C are worth a look, especially now that you can buy them at Best Buy as part of a flash deal for $429.99 ($120 off) through tomorrow, January 27th. That’s $30 shy of their lowest price to date, and a notable deal given these over-ears don’t often drop below $449.99 outside of big sales events.\nAirPods Max (USB-C)\n\nWhere to Buy:\n\n $549.99 $429.99 at Best Buy\n $549 $449.99 at Walmart\n $549 $449.99 at Amazon\n\nThe AirPods Max stand out thanks to their premium design, which uses premium materials like aluminum, steel, and fabric that feel more high-end than plastic rivals from Sony and Bose. They’re also one of the few pairs of over-ear headphones designed to work seamlessly with Apple gadgets, thanks to features like automatic device switching and hands-free Siri access. Additionally, they can tap into Apple’s Find My network and the company’s nifty audio sharing feature, which lets two pairs of AirPods or Beats headphones listen from a single iPhone or iPad.\nIn terms of audio, the AirPods Max deliver well-balanced, natural sound with support for 24-bit / 48kHz lossless audio playback over USB-C, so you can listen to compatible songs with better detail and clarity. They also continue to deliver top-tier noise cancellation, support ultra-low latency audio, and feature a clear transparency mode, making them a great all-around option for Apple users.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "d99506c79f3d4227d9a8c7c6cd71250c0fb4254f",
       "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
@@ -544,19 +557,6 @@
       "published": "2026-01-26T16:00:00.000Z",
       "summary_90w": "",
       "raw": "Maia comes equipped with over 100 billion transistors, delivering over 10 petaflops in 4-bit precision and approximately 5 petaflops of 8-bit performance — a substantial increase over its predecessor.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "cacbd1cf98e2510875a16200dac80f173af4607f",
-      "title": "Microsoft’s latest AI chip goes head-to-head with Amazon and Google",
-      "url": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-01-26T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft is announcing a successor to its first in-house AI chip today, the Maia 200. Built on TSMC's 3nm process, Microsoft says its Maia 200 AI accelerator \"delivers 3 times the FP4 performance of the third generation Amazon Trainium, and FP8 performance above Google's seventh generation TPU.\"\nEach Maia 200 chip has more than 100 billion transistors, which are all designed to handle large-scale AI workloads. \"Maia 200 can effortlessly run today's largest models, with plenty of headroom for even bigger models in the future,\" says Scott Guthrie, executive vice president of Microsoft's Cloud and AI division.\nMicrosoft will use Maia 200 to  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
