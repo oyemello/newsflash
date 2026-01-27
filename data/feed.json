@@ -1,7 +1,20 @@
 {
-  "version": "1769542963878",
-  "generatedAt": "2026-01-27T19:42:43.878Z",
+  "version": "1769543924452",
+  "generatedAt": "2026-01-27T19:58:44.452Z",
   "items": [
+    {
+      "id": "806163198dad0bc7ebe3ce57bae46a88a6b966c9",
+      "title": "British Army officer dies after incident during fire training",
+      "url": "https://www.bbc.com/news/articles/cly9p153kv9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-27T19:43:23.000Z",
+      "summary_90w": "",
+      "raw": "The 25-year-old died on Sunday after the incident at an army training site in Northumberland.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "fa8150a99e490c687c7bff665bf56921950f3d17",
       "title": "TikTok joins Snap to settle social media addiction lawsuit",
@@ -26,19 +39,6 @@
       "raw": "Razer’s new browser-based customization tool is now available in beta. | Image: Razer\t\n\nRazer has announced the beta release of a new online customization tool compatible with several versions of its Huntsman V3 Pro keyboards at launch. Razer Synapse Web isn't a full replacement for the company's Synapse 4 desktop app. It's instead designed to be a streamlined alternative accessible through a browser for situations where you're not able, or don't have the time, to download and install Razer's desktop software.\nRazer Synapse Web is now available for testing but is only compatible with Chromium-based browsers including Google Chrome, Opera, Brave, and Microsoft Edge. It currently supports the Razer Huntsman V3 Pro 8KHz, Huntsman …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "806163198dad0bc7ebe3ce57bae46a88a6b966c9",
-      "title": "British Army officer dies after incident during fire training",
-      "url": "https://www.bbc.com/news/articles/cly9p153kv9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-27T19:25:04.000Z",
-      "summary_90w": "",
-      "raw": "The 25-year-old died on Sunday after the incident at an army training site in Northumberland.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -823,7 +823,7 @@
     },
     {
       "id": "c613bbc940e9e9db316370d126e068ddc9c8c305",
-      "title": "China’s Moonshot releases a new open-source model Kimi K2.5 and a coding agent",
+      "title": "China’s Moonshot releases a new open source model Kimi K2.5 and a coding agent",
       "url": "https://techcrunch.com/2026/01/27/chinas-moonshot-releases-a-new-open-source-model-kimi-k2-5-and-a-coding-agent/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
