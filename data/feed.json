@@ -1,16 +1,68 @@
 {
-  "version": "1769796251935",
-  "generatedAt": "2026-01-30T18:04:11.935Z",
+  "version": "1769798752987",
+  "generatedAt": "2026-01-30T18:45:52.987Z",
   "items": [
     {
+      "id": "fe13501c5d56fc6ae76b6112e02e79a83db05d94",
+      "title": "Voices from Iran: women defy fear in the face of brutal crackdown",
+      "url": "https://www.npr.org/2026/01/30/nx-s1-5688912/iran-women-crackdown",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-01-30T18:28:49.000Z",
+      "summary_90w": "",
+      "raw": "Amid Iran's deadly crackdown, three women share their stories of resistance, fear and an unyielding hope for freedom.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "93a8ce5ac912d81161507f1efa412406dbf52742",
+      "title": "Tim Cook is destroying his own legacy",
+      "url": "https://www.theverge.com/podcast/870717/tim-cook-melania-minneapolis-tiktok-vergecast",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-01-30T18:09:24.000Z",
+      "summary_90w": "",
+      "raw": "What responsibility do you have to speak up about bad things happening in the world? Does that responsibility change when speaking up might affect your business? What about if you're a sports creator, or the moderator of a deeply NSFW subreddit? What about if you're just a little ol' phone website? Ultimately, everyone has to make those decisions for themselves. But decisions have consequences.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast, David and Nilay start by talking about The Verge's …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "0ed379ccce4d4e56ec3d5abdd49c4e9977a041e1",
+      "title": "Mali lawmaker jailed in Ivory Coast for insulting president",
+      "url": "https://www.bbc.com/news/articles/c74vgxp0zr4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-01-30T18:09:20.000Z",
+      "summary_90w": "",
+      "raw": "Prosecutors say Mamadou Hawa Gassama described Alassane Ouattara as a \"tyrant\" and \"an enemy of Mali\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7b31a424a804e6958ee42656a083e2e5900b3fcf",
+      "title": "Mexico’s president says Trump’s tariffs on Cuba’s oil suppliers could trigger humanitarian crisis",
+      "url": "https://www.theguardian.com/world/2026/jan/30/mexico-sheinbaum-trump-tariffs-cuba-oil-crisis",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-01-30T18:08:10.000Z",
+      "summary_90w": "",
+      "raw": "Island country only has oil enough to last 15-20 days, and 12-hour blackouts have become commonplace\nMexico’s president, Claudia Sheinbaum, has warned that Donald Trump’s move to slap new tariffs on countries sending oil to Cuba could trigger a humanitarian crisis on the island, which is already suffering from chronic fuel shortages and regular blackouts.\nThe US president signed an executive order on Thursday declaring a national emergency and laying the groundwork for such tariffs, ratcheting up the pressure to topple the communist government in Havana.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "cc5812ff66d34f2ce06fdbdc8d5c5fcc5d0daba8",
-      "title": "Anthropic brings agentic plugins to Cowork",
+      "title": "Anthropic brings agentic plug-ins to Cowork",
       "url": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "published": "2026-01-30T18:00:00.000Z",
       "summary_90w": "",
-      "raw": "Anthropic has extended its plugin system to operate within Cowork, the newly launched agentic platform.",
+      "raw": "The company says you can use plug-ins to \"tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets more consistent outcomes.\"",
       "topics": [
         "Technology"
       ]
@@ -43,7 +95,7 @@
     },
     {
       "id": "6102bdda1b2137e9a5aae98e1b4d25035d088fa1",
-      "title": "Fire halts Euston rail services to several cities across the UK",
+      "title": "Some lines reopen after fire delays Euston rail services to several UK cities",
       "url": "https://www.bbc.com/news/articles/cd7zl3nj1j1o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -56,7 +108,7 @@
     },
     {
       "id": "e8647c00c80566dafd8f72280ca4854e2fd79485",
-      "title": "Former CNN host Don Lemon arrested after anti-ICE protests at Minnesota church ",
+      "title": "Former CNN host Don Lemon arrested after anti-ICE protest at Minnesota church ",
       "url": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -91,6 +143,19 @@
       "raw": "Protesters at the intersection of 26th and Nicollett after federal and local law enforcement left the scene of a fatal shooting by federal officers in Minneapolis, Minnesota. Reports say that 37-year-old Alex Pretti was the victim of the fatal shooting by federal officers, who was at the scene as an observer. The incident was captured on video by bystanders. (Photo by Steven Garcia/The Verge) | Photo by Steven Garcia / The Verge\t\n\nThe Trump administration has flooded Minneapolis and other parts of Minnesota with federal agents as part of its immigration crackdown, Operation Metro Surge — detaining children, intimidating protestors and community organizers, and killing multiple people.\nMinnesotans have responded with mass community-level resistance, including mutual aid and tracking ICE operations, despite threats and surveillance — including through systems built by tech companies like Clearview AI and Palantir. Backlash to the crackdown spread online after the January 24th killing of Alex Pretti, including among hobbyist communities and typically apolitical influencers.\n\n\n\t\t\t\t\t\nDon Lemon has been arrested for covering an anti-ICE protest\n\t\t\t\nParenting in ICE-occupied Minneapolis\n\t\t\t\nI grew up with Alex Pretti\n\t\t\t\nIt doesn’t matter if Alex Pretti had a gun\n\t\t\t\nWhy won’t anyone stop ICE from masking?\n\t\t\t\nThe day of the second killing\n\t\t\t\nHow much can a city take?\n\t\t\t\nMinnesota wants to win a war of attrition\n\t\t\t\nInfluencer content is fuel for an internet-obsessed administration",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "e40812178b943e0751785b88a1d289cfa802d33b",
+      "title": "Snow Moon: How to see the last full moon of winter",
+      "url": "https://www.bbc.com/weather/articles/cvgm4m2wn9po?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-01-30T17:25:46.000Z",
+      "summary_90w": "",
+      "raw": "The full Moon in February is known as the Snow Moon.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -497,19 +562,6 @@
       ]
     },
     {
-      "id": "6444afcbcdd13749b413331359e0b86b4fa021b8",
-      "title": "The lonely promise of cute robots",
-      "url": "https://www.theverge.com/column/870438/optimizer-mirumi-loneliness-social-companion-robots",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-01-30T15:33:24.000Z",
-      "summary_90w": "",
-      "raw": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Optimizer arrives in our subscribers' inboxes at 10AM ET. Opt in for Optimizer here.\nUnboxing Mirumi is like traveling back in time. It's late 2025 when it arrives on my doorstep in a box that looks like a shopping bag. Inside sits a fluffy pink robot with an owlish face and surprisingly strong slothlike arms. It's soft to the touch, and then suddenly, I'm transported back to Tokyo, Japan, in 2011. I'm a lowly editorial assistant at an Englis …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "b58e35d4c563ebd427f1364a9daeb47acc8e5549",
       "title": "‘Deeply ideological’: the rationale behind Iran’s insistence on uranium enrichment",
       "url": "https://www.theguardian.com/world/2026/jan/30/rationale-behind-iran-uranium-enrichment-nuclear-ambitions",
@@ -796,14 +848,14 @@
       ]
     },
     {
-      "id": "49544ea7ca447789bc7183f03ecd5e73001aceb4",
-      "title": "Saudi dissident awarded £3m damages threatens enforcement action if he is not paid",
-      "url": "https://www.theguardian.com/world/2026/jan/30/saudi-dissident-awarded-3m-damages-threatens-enforcement-action-if-he-is-not-paid",
+      "id": "c00bee2046851040b2ee6e988f6248b158d82211",
+      "title": "Settler-only IDF units functioning as ‘vigilante militias’ in West Bank",
+      "url": "https://www.theguardian.com/world/2026/jan/30/settler-only-idf-units-functioning-as-vigilante-militias-in-west-bank",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2026-01-30T12:00:22.000Z",
       "summary_90w": "",
-      "raw": "London-based satirist hails ‘amazing’ ruling that found Gulf state targeted and attacked him for his criticism\nA London-based Saudi dissident who a judge decided should receive more than £3m in damages from the kingdom for assault and the hacking of his phone has insisted that it must pay up or face enforcement action.\nMr Justice Saini ruled that the Saudi government infected the phone of Ghanem al-Masarir with Pegasus spyware and, while surveillance was continuing, in 2018, its agents attacked him outside Harrods in central London.\n Continue reading...",
+      "raw": "Exclusive: ‘Regional defence’ settler units are escalating violent displacement of Palestinians, Israeli reservists and activists say\nIsrael’s army has become a vehicle for violent settlers to escalate their campaign against Palestinians across the occupied West Bank, with reserve units drawn from settlements functioning as vigilante militias, according to Israeli soldiers and activists, and the United Nations.\nHagmar, or regional defence units, were set up across the West Bank from October 2023, as conscripts and the standing army deployed there prepared to move to Gaza.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -900,19 +952,6 @@
       ]
     },
     {
-      "id": "2dbaec881cfc79df2fa4dec06a8246c4889bd1f2",
-      "title": "Maya Jama and Ruben Dias' Cheshire home targeted by burglars",
-      "url": "https://www.bbc.com/news/articles/c2d7y9k2el3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-30T10:40:10.000Z",
-      "summary_90w": "",
-      "raw": "Jama was in South Africa filming Love Island and Dias was watching his team Manchester City play.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "bc25dbde31d26de2bc87b9f856ff608618a8348d",
       "title": "'She's done a great job' - Donald Trump praises Melania's film",
       "url": "https://www.bbc.com/news/videos/cvgnqgl57p2o?at_medium=RSS&at_campaign=rss",
@@ -921,19 +960,6 @@
       "published": "2026-01-30T10:35:16.000Z",
       "summary_90w": "",
       "raw": "US First Lady Melania Trump and her husband President Donald Trump have walked the black carpet at the premier of her new documentary.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7e43453f8b0fd1fbca1079e5676359b2111d9251",
-      "title": "Worried families in India urge return of crew on ship seized by Iran",
-      "url": "https://www.bbc.com/news/articles/cdrenj55gdvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-01-30T10:22:47.000Z",
-      "summary_90w": "",
-      "raw": "Iran seized the oil tanker with 18 crew members, including 16 Indians, in December alleging it had illegal diesel.",
       "topics": [
         "World"
       ]
@@ -960,19 +986,6 @@
       "published": "2026-01-30T10:19:51.000Z",
       "summary_90w": "",
       "raw": "WA police say both Mosman Park children had ‘significant health challenges’ and had been in contact with care services\n\nGet our breaking news email, free app or daily news podcast\n\nTwo parents and their teenage children have been found dead in the affluent Perth suburb of Mosman Park in a suspected murder-suicide, Western Australian police say.\nAt 8.15am on Friday, emergency services received a distressed call from a person known to the family who had gone to the home on Mott Close, in the city’s south-west.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "006495b573dee1f055151166555d13ff06424583",
-      "title": "U.S. life expectancy is going up. Think how many more news quizzes you can do!",
-      "url": "https://www.npr.org/2026/01/30/g-s1-107732/baking-show-ye-springsteen-patriots-milan-npr-news-quiz",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-01-30T10:02:00.000Z",
-      "summary_90w": "",
-      "raw": "When the news gets too heavy, the quiz is forced to turn to pop culture questions — so there are a lot this week. Let's see how you do!",
       "topics": [
         "World"
       ]
@@ -1142,19 +1155,6 @@
       "published": "2026-01-30T01:54:35.000Z",
       "summary_90w": "",
       "raw": "Workers share how toxic managers have affected them and their lives. Here's what to do if you have one.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7df9e23ddd496f142054f6ccb0ec6ea2fcd1ed58",
-      "title": "Republicans and Democrats reach funding package deal, US president says",
-      "url": "https://www.bbc.com/news/articles/cn9zp0nyvxdo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-01-30T01:48:09.000Z",
-      "summary_90w": "",
-      "raw": "Funding for DHS will continue at its current amount for two weeks while both sides work out a new deal to fund the agency, according to US media reports.",
       "topics": [
         "World"
       ]
@@ -1394,19 +1394,6 @@
       ]
     },
     {
-      "id": "65e5d1d9e5f064eb9ffbb196e11ee4116f84bc00",
-      "title": "Trump orders immediate reopening of commercial airspace over Venezuela",
-      "url": "https://www.theguardian.com/world/2026/jan/29/trump-reopens-commercial-airspace-venezuela",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-01-29T19:13:12.000Z",
-      "summary_90w": "",
-      "raw": "Order allows direct flights from US to Venezuela, as major oil companies already on ground to assess potential operations\nDonald Trump has ordered the immediate reopening of commercial airspace over Venezuela, weeks after US military forces toppled the dictator Nicolás Maduro.\nSpeaking at the White House during his cabinet’s first meeting of the year, Trump said he had just concluded a telephone conversation with Venezuela’s acting president (and former vice-president), Delcy Rodríguez, in which he informed her of the decision to restore flight access.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "bb776bf77823a825082cc84831da7b0f1a96ecc9",
       "title": "Medicare Advantage insurers face new curbs on overcharges in Trump plan",
       "url": "https://www.npr.org/2026/01/29/nx-s1-5691896/medicare-advantage-health-insurance-trump-oz-cms-upcoding",
@@ -1495,19 +1482,6 @@
       "raw": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "0bdbc7374b7533ebf27f5f19b4392adc36f263a3",
-      "title": "France moves to abolish concept of marital duty to have sex",
-      "url": "https://www.bbc.com/news/articles/cgjwxdz45ywo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-01-29T16:00:41.000Z",
-      "summary_90w": "",
-      "raw": "The proposed bill would enshrine in law the end of so-called \"conjugal rights\" – the notion that marriage means a duty to have sex.",
-      "topics": [
-        "World"
       ]
     },
     {
