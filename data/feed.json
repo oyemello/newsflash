@@ -1,6 +1,6 @@
 {
-  "version": "1769802910248",
-  "generatedAt": "2026-01-30T19:55:10.248Z",
+  "version": "1769804520466",
+  "generatedAt": "2026-01-30T20:22:00.466Z",
   "items": [
     {
       "id": "4b810bbd0e0fa4ac925df23c1d4db9584a33c629",
@@ -8,9 +8,35 @@
       "url": "https://www.bbc.com/news/articles/c2lgqd2n9w2o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-01-30T19:42:01.000Z",
+      "published": "2026-01-30T20:06:20.000Z",
       "summary_90w": "",
       "raw": "The emails were published by the US Department of Justice as part of a release running to three million pages.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "940a95f2482ce93b1ed709851cd1e64bbc0e99fb",
+      "title": "Unmentioned but present, Trump is a common denominator in Asia-Europe ties",
+      "url": "https://www.npr.org/2026/01/30/g-s1-108011/unmentioned-but-present-trump-is-a-common-denominator-in-asia-europe-ties",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-01-30T19:55:36.000Z",
+      "summary_90w": "",
+      "raw": "Trump was not the only factor behind the agreements, but his shaking up of the global order is worrying friends and foes and driving them closer.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4c0f8f8bf2b969868d2b11aaa1f14d0063c5d30e",
+      "title": "Alex Pretti shooting by federal agents in Minneapolis prompts DOJ civil rights probe",
+      "url": "https://www.npr.org/2026/01/30/nx-s1-5694313/alex-pretti-shooting-doj-civil-rights-investigation",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-01-30T19:54:04.000Z",
+      "summary_90w": "",
+      "raw": "Alex Pretti's shooting death by federal agents in Minneapolis has prompted a DOJ civil rights probe. Renee Macklin Good's death by federal agents has not.",
       "topics": [
         "World"
       ]
@@ -212,7 +238,7 @@
     },
     {
       "id": "7b31a424a804e6958ee42656a083e2e5900b3fcf",
-      "title": "Mexico’s president says Trump’s tariffs on Cuba’s oil suppliers could trigger humanitarian crisis",
+      "title": "Mexico president says Trump tariffs on Cuba’s oil suppliers could trigger humanitarian crisis",
       "url": "https://www.theguardian.com/world/2026/jan/30/mexico-sheinbaum-trump-tariffs-cuba-oil-crisis",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
@@ -641,13 +667,13 @@
     },
     {
       "id": "678b214aba100c056bcd68653cd2a969667154b9",
-      "title": "Feds arrest 4, including Don Lemon and Minnesota journalist over church protest",
+      "title": "Feds arrest Don Lemon, Minnesota journalist and two others over church protest",
       "url": "https://www.npr.org/2026/01/30/nx-s1-5693756/don-lemon-arrest-cnn-minneapolis",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2026-01-30T15:36:06.000Z",
       "summary_90w": "",
-      "raw": "Lemon was taken into custody by federal agents in Los Angeles, where he was covering the Grammy awards, his attorney, Abbe Lowell, said in a statement posted on social media.",
+      "raw": "Lemon was arrested by U.S. agents days after covering an anti-ICE protest at a St. Paul church. U.S. Attorney General Pam Bondi called the protest a \"coordinated attack.\"",
       "topics": [
         "World"
       ]
@@ -916,26 +942,13 @@
       "id": "b238436f498f2c29c21cda7ccde03c23e2baffc5",
       "title": "Trump taps Kevin Warsh to lead the Federal Reserve",
       "url": "https://www.npr.org/2026/01/30/nx-s1-5645091/trump-kevin-warsh-federal-reserve-chair",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-01-30T12:02:15.000Z",
       "summary_90w": "",
       "raw": "Trump plans to nominate Kevin Warsh to be the next chair of the Federal Reserve, when Jerome Powell's term expires in May. The president has been pushing the central bank to slash interest rates.",
       "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cdd18b0c49969133b778b9e56e6497b9c48710d4",
-      "title": "Are you on a high-deductible health plan? What do you wish you knew?",
-      "url": "https://www.npr.org/2026/01/30/nx-s1-5693214/hsa-high-deductible-health-plan-insurance",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-01-30T12:00:00.000Z",
-      "summary_90w": "",
-      "raw": "People with ACA health insurance just saw prices surge and many switched to plans with high deductibles and health savings accounts. If that's you, what do you wish you knew about how your plan works?",
-      "topics": [
-        "World"
+        "Business"
       ]
     },
     {
