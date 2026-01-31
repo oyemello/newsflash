@@ -1,6 +1,6 @@
 {
-  "version": "1769890708832",
-  "generatedAt": "2026-01-31T20:18:28.832Z",
+  "version": "1769892314551",
+  "generatedAt": "2026-01-31T20:45:14.551Z",
   "items": [
     {
       "id": "3dc40c7a82cad7df3552b36cac92a29beca2a59d",
@@ -8,9 +8,22 @@
       "url": "https://www.bbc.com/news/articles/c9wx02zw85qo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-01-31T19:47:31.000Z",
+      "published": "2026-01-31T20:27:11.000Z",
       "summary_90w": "",
       "raw": "He joined Tony Blair's government in 2004, holding prominent roles in politics until his death.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "acb7fed304ee2fd04b959c09d4b6001004086886",
+      "title": "Milan protesters call for U.S. ICE agents to leave Italy as Winter Games approach",
+      "url": "https://www.npr.org/2026/01/31/nx-s1-5695197/as-winter-olympics-milan-protesters-call-for-ice-agents-to-leave-italy",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-01-31T20:04:38.000Z",
+      "summary_90w": "",
+      "raw": "An ICE unit from the US Department of Homeland Security is playing a role providing security at the Winter Games.  At past Olympics, their involvement would have been unremarkable. But after the violence in Minneapolis, many Italians protesting in Milan say ICE agents are no longer welcome.",
       "topics": [
         "World"
       ]
@@ -609,19 +622,6 @@
       "published": "2026-01-31T06:00:52.000Z",
       "summary_90w": "",
       "raw": "Revelation that subsidiary of Capgemini is to help trace and expel migrants in US provokes outrage in France\nFrench lawmakers have demanded an explanation after one of the country’s biggest tech companies signed a multimillion dollar contract to help the US enforcement agency ICE trace and expel migrants.\nThe revelation that a subsidiary of Capgemini, a multinational digital services firm listed on the Paris stock exchange, had agreed to provide “skip tracing” – a technique for locating targeted people – with big bonuses if successful, has provoked outrage in France.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a4b13f8f3a7a0e23716e50a484b6e25de0e2181d",
-      "title": "DHS keeps making false claims about people. It's part of a broader pattern",
-      "url": "https://www.npr.org/2026/01/31/nx-s1-5690124/ice-alex-pretti-immigration-unproven-claims-dhs-enforcement-arrests",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-01-31T05:16:59.000Z",
-      "summary_90w": "",
-      "raw": "Trump administration officials have falsely linked Alex Pretti and Renee Macklin Good to domestic terrorism. It's part of a larger pattern by the Department of Homeland Security.",
       "topics": [
         "World"
       ]
