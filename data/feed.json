@@ -1,6 +1,6 @@
 {
-  "version": "1769941176411",
-  "generatedAt": "2026-02-01T10:19:36.411Z",
+  "version": "1769943089721",
+  "generatedAt": "2026-02-01T10:51:29.721Z",
   "items": [
     {
       "id": "64c9343e132e15421afbfa27da5ea6250ce267ad",
@@ -8,9 +8,48 @@
       "url": "https://www.bbc.com/news/articles/c9qpr7y718do?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-02-01T10:14:26.000Z",
+      "published": "2026-02-01T10:41:15.000Z",
       "summary_90w": "",
       "raw": "Southampton General Hospital is asking visitors to stay away and has cancelled outpatient appointments.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1760a54605f98c120dd2e8f90b77ec583a3335c2",
+      "title": "Boxer's hairpiece punched off during fight",
+      "url": "https://www.bbc.com/sport/boxing/articles/c394mnex8kyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-01T10:32:25.000Z",
+      "summary_90w": "",
+      "raw": "In an unusual moment on the undercard of a title fight between Shakur Stevenson and Teofimo Lopez, American Jarrell Miller threw his toupee into the crowd after it was dislodged late in the second round.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8885dadaf37bdfe0afac727941e66ad407da9b1e",
+      "title": "Iran's supreme leader warns any US attack would spark 'regional war'",
+      "url": "https://www.npr.org/2026/02/01/nx-s1-5695698/iran-khamenei-us-attack-warns-regional-war",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-02-01T10:23:56.000Z",
+      "summary_90w": "",
+      "raw": "Iran's supreme leader warned Sunday that any attack by the United States would spark a \"regional war\" in the Mideast, further escalating tensions as President Donald Trump has threatened to militarily strike the Islamic Republic.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0e60b2c28c61d10fe7e08985fff4129d880fd6a6",
+      "title": "Preparations begin for reopening of Gaza’s Rafah crossing, officials say",
+      "url": "https://www.theguardian.com/world/2026/feb/01/preparations-begin-for-reopening-of-gaza-rafah-crossing-officials-say",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-02-01T10:13:53.000Z",
+      "summary_90w": "",
+      "raw": "Approximately 20,000 Palestinians expected to leave territory for urgent medical care abroad\nPreparations to reopen Gaza’s main border crossing into Rafah began on Sunday though it was uncertain if any Palestinians would pass through it before the day’s end, officials have said.\nBefore the war, the Rafah border crossing with Egypt was the only direct exit point for most Palestinians in Gaza to reach the outside world as well as a key entry point for aid. It has been largely shut since May 2024.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -23,7 +62,7 @@
       "source_name": "BBC News",
       "published": "2026-02-01T10:08:55.000Z",
       "summary_90w": "",
-      "raw": "The Pakistani military says 18 civilians and 15 security forces were killed and its response killed more than 90 attackers.",
+      "raw": "The Pakistani military says 31 civilians and 17 security forces were killed and its response killed 145 attackers.",
       "topics": [
         "World"
       ]
@@ -50,6 +89,19 @@
       "published": "2026-02-01T10:00:00.000Z",
       "summary_90w": "",
       "raw": "The number of immigration agents in Minnesota may be reduced, but they'll leave leave behind a changed community, including many U.S. citizens questioned and detained in recent weeks.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "40b9b84153676d2b3065ffa08c4b12f05851d4dc",
+      "title": "'My ketamine addiction put me in a Japanese prison'",
+      "url": "https://www.bbc.com/news/articles/cly5xy73jp8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-01T09:53:14.000Z",
+      "summary_90w": "",
+      "raw": "Izabel Rose hoped a month in Japan would help her quit the drug - it did, but not in the way she expected.",
       "topics": [
         "World"
       ]
@@ -614,19 +666,6 @@
       ]
     },
     {
-      "id": "3aed1c55075c6ce82e1d822d31a6f1446389d399",
-      "title": "'Sanford and Son' co-star Demond Wilson dies at 79",
-      "url": "https://www.npr.org/2026/01/31/nx-s1-5695232/demond-wilson-obituary-sanford-and-son",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-01-31T20:49:32.000Z",
-      "summary_90w": "",
-      "raw": "The actor was best known for playing Lamont Sanford, opposite Redd Foxx's Fred Sanford in the hit 1970s sitcom. Wilson died Friday from complications related to cancer, his publicist said.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e0ccbdd0e5e6f3e75c7a69de615c4ba597e7aee5",
       "title": "“No more Minnesota nice, Minneapolis will strike”",
       "url": "https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest",
@@ -770,19 +809,6 @@
       ]
     },
     {
-      "id": "34cd8d18453e9b6692e1f51f6d201f2f47b6fb47",
-      "title": "King surprises Parkrun joggers for second year in a row",
-      "url": "https://www.bbc.com/news/articles/c62vx7yx71ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-31T15:07:33.000Z",
-      "summary_90w": "",
-      "raw": "This is the second time the monarch has surprised joggers at a Parkrun on the royal estate.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "fb3d97ae8c815a2de738534db2a161dc991d54bb",
       "title": "Latest Epstein revelations dig even deeper hole for Andrew",
       "url": "https://www.bbc.com/news/articles/c20z4ze349jo?at_medium=RSS&at_campaign=rss",
@@ -832,19 +858,6 @@
       "raw": "It's no secret that Cassette Boy is inspired by the classics. It's a top-down adventure game in the vein of a retro Legend of Zelda, while your home base is a small town like in an older Pokémon game, complete with a mom who is constantly wishing you well. The game's blocky 3D graphics evoke Minecraft, and you save at campfires that reset the world, like a FromSoft game. Everything in Cassette Boy even has a green tint that reminds me of playing games on my original Game Boy. But despite all of the clear influences, it still feels unique: underneath that charming exterior, Cassette Boy is a game filled with clever puzzles that forced me to u …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "1d76f69d1c48fcfc8e1d326bb0bbb497adb19ada",
-      "title": "Zack Polanski is having fun. But can the Green leader become a serious player?",
-      "url": "https://www.bbc.com/news/articles/c4gv81124j1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-31T13:41:45.000Z",
-      "summary_90w": "",
-      "raw": "The Greens' new leader has generated a lot of excitement. Can he translate the buzz into electoral success?",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1274,19 +1287,6 @@
       "raw": "Self-driving truck startup Waabi’s billion-dollar fundraise isn’t just about trucks.   The deal, for $750 million up front plus another $250 million from Uber tied to deployment milestones, marks a major expansion into robotaxis for the company founded by former Uber AI chief Raquel Urtasun. It also feels like another chip from Uber on the autonomous vehicle roulette table. With more […]",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "479a05c1d5f051ee2cfe28398238f534b3aa9820",
-      "title": "Trump says he believes Iran wants to make deal as he extols size of US ‘armada’",
-      "url": "https://www.theguardian.com/us-news/2026/jan/30/donald-trump-iran-end-nuclear-programme-killing-protesters-face-us-military",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-01-30T18:38:13.000Z",
-      "summary_90w": "",
-      "raw": "US president declines to say whether he plans Venezuela-like operation, after Tehran signalled it was ready for talks\n\nKilling Khamenei? Hitting military sites? It is unclear what a US attack on Iran would achieve\n\nDonald Trump has said he believes Tehran wants to make a deal to head off a regional conflict, as he claimed the US “armada” near Iran was bigger than the taskforce deployed to topple Venezuela’s leader.\n“We have a large armada, flotilla, call it whatever you want, heading toward Iran right now, even larger than what we had in Venezuela,” the US president told reporters on Friday.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
