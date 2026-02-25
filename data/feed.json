@@ -1,16 +1,354 @@
 {
-  "version": "1772038248024",
-  "generatedAt": "2026-02-25T16:50:48.024Z",
+  "version": "1772045742483",
+  "generatedAt": "2026-02-25T18:55:42.483Z",
   "items": [
     {
-      "id": "dacfdcbf76102152f9565ecf99be87b0df872465",
-      "title": "Mitchell ruled out in England Six Nations blow",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cd9gy00zyxgo?at_medium=RSS&at_campaign=rss",
+      "id": "12dbba79c9e2c0d3f26e90104b050010f1719fa7",
+      "title": "Met apologises to Commons Speaker for sharing Mandelson tip-off",
+      "url": "https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-02-25T16:38:51.000Z",
+      "published": "2026-02-25T18:41:29.000Z",
       "summary_90w": "",
-      "raw": "England's first-choice scrum-half Alex Mitchell is ruled out of the remainder of their Six Nations campaign with a hamstring injury.",
+      "raw": "Sir Lindsay Hoyle tells MPs he was acting \"in good faith as is my duty and responsibility\" as he felt information was \"relevant\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d8352fa89bb6a31e56154c813da7c8c9bb31f18d",
+      "title": "Waymo to begin testing in Chicago and Charlotte",
+      "url": "https://techcrunch.com/2026/02/25/waymo-to-begin-testing-in-chicago-and-charlotte/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-02-25T18:33:52.000Z",
+      "summary_90w": "",
+      "raw": "Waymo this week will begin mapping and collecting data in Chicago and Charlotte. The move comes as Waymo announces it is currently operating its robotaxis fully autonomously in 10 US cities.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ffb5b0c25b76fdc8a6b5a8922fa6b9ac2508db3e",
+      "title": "Kalshi says it fined a MrBeast editor and a politician for insider trading",
+      "url": "https://www.theverge.com/policy/884570/kalshi-insider-trading-mrbeast-fines",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-02-25T18:20:36.000Z",
+      "summary_90w": "",
+      "raw": "Kalshi, the prediction betting market, has disclosed its first fines for insider trading, as reported earlier by The Wall Street Journal. In addition to handing down a $20,000 fine to a MrBeast editor, Kalshi also charged a California gubernatorial candidate over $2,000 after a video on X \"appeared to show him trading on his own candidacy.\"\nIn a notice on Wednesday, Kalshi claims MrBeast editor Artem Kaptur traded about $4,000 on YouTube streaming markets, violating its insider trading rules. \"Our surveillance systems flagged his near-perfect trading success on markets with low odds, which were statistically anomalous,\" Bobby DeNault, legal …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "71914588109e49b5cf72460eb45addb405ca83b7",
+      "title": "Yungblud festival goes international, but not everyone's convinced",
+      "url": "https://www.bbc.com/news/articles/cz9qje5dwx8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-25T18:16:36.000Z",
+      "summary_90w": "",
+      "raw": "The third instalment is taking place in the Czech Republic after being held in Milton Keynes.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6c6af07e5b35a8886a6f3bda265fca2056d98222",
+      "title": "British public want deeper economic ties with EU, business secretary says",
+      "url": "https://www.theguardian.com/politics/2026/feb/25/british-public-want-deeper-economic-ties-eu-business-secretary-says",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-02-25T18:11:16.000Z",
+      "summary_90w": "",
+      "raw": "Peter Kyle signs cooperation deal on competition and says there is little nostalgia for pre-Brexit past\nThe British public are “not nostalgic” for the pre-Brexit past but are pragmatic and want to move forward and “deepen” ties with the EU on trade and the economy, the business secretary, Peter Kyle, has said.\nSigning an agreement in Brussels to cooperate closely on competition issues, Kyle said he thought the deal was “a real vindication of the reset and the relationships that have emerged between the EU and the UK” since Labour came to power.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4e216a15f9438c7339d00451b8c0024841073da4",
+      "title": "Gemini can now automate some multi-step tasks on Android",
+      "url": "https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-02-25T18:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Gemini on Android will be able to automate tasks involving rideshare requests, or grocery or food delivery, says Google.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7b4749e8d526f6eea4e71fa5055add589d2d0ca2",
+      "title": "Gemini is getting its first agentic capabilities",
+      "url": "https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-02-25T18:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Gemini can now prep a rideshare or grocery order, though you’ll have to submit the order yourself. | Image: Google\t\n\nGoogle's Gemini AI is getting one step closer to being more like an actual assistant. Starting with some Pixel 10 phones and the Samsung Galaxy S26 series, Gemini will be able to hail an Uber or put together a DoorDash order on its own.\nIt's called task automation, and it starts with a prompt to Gemini - something like \"Get me an Uber to the Palace of Fine Arts.\" Gemini then launches the app in a virtual window on your device and goes through the process step-by-step. You can watch it all happen, with options to stop the automation or take control if necessary, or just let it run in the background while Gemini does its thing. The assistant  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "bb735a1ea2af86ee734a06a40e85dff21456d80b",
+      "title": "I’m super impressed with the Galaxy S26 Ultra’s new Privacy Display",
+      "url": "https://www.theverge.com/tech/884337/samsung-galaxy-s26-ultra-privacy-display-price",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-02-25T18:00:00.000Z",
+      "summary_90w": "",
+      "raw": "It’s kind of a Galaxy S26 Plus Plus.\t\n\nMaybe it's a reflection of just how slow hardware innovation has been, but the Galaxy S26 Ultra's new Privacy Display, which limits the screen's viewing angle to keep any would-be peepers away, left me totally impressed.\nIt's not a brand-new technology - we've seen it before in laptops - and it was leaked thoroughly before Samsung's announcement. But seeing it work on the S26 Ultra for the first time was cooler than I expected, especially given that hardware thrills are hard to get these days. \nIt's not just one of those special screen protectors; you can turn it on or off. There are two sets of pixels in the display: one that projects the …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "0def25425e4c3d4520eecea7e2ac66e6987aadfc",
+      "title": "Samsung’s still chasing the AirPods with its new Galaxy Buds 4 and Buds 4 Pro",
+      "url": "https://www.theverge.com/tech/884434/samsung-galaxy-buds-4-pro-unpacked-2026-announcement",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-02-25T18:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The Buds 4 and Buds 4 Pro (pictured) bring an updated look and some iterative changes.\t\n\nThe next Galaxy Buds have been announced, and Samsung again mimics Apple in design, ecosystem functionality, and pricing. The Galaxy Buds 4 and Galaxy Buds 4 Pro keep the AirPods-esque design of the Buds 3, but now have a flat metal surface along the stem's exterior. \nThe regular buds use a single 11mm dynamic speaker and do not have silicone ear tips, while the Buds 4 Pro have a selection of silicone ear tips and a two-way design (meaning a woofer for lower frequencies and a tweeter for the high end), just like the Buds 3 Pro. There's a 5.5mm planar tweeter and a new 11mm \"super wide woofer\" with an effective area nearly 20 percent larger  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ab84cd297775b08f9b2bce84fde5c899224870d0",
+      "title": "The Galaxy S26 and S26 Plus are more of the same for more money",
+      "url": "https://www.theverge.com/tech/884239/samsung-galaxy-s26-plus-price-specs-gemini",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-02-25T18:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The S26 Plus (left) and S26 (right) are mostly software updates.\t\n\nThere's a cool new hardware feature debuting at Samsung's annual Unpacked event - but you won't find it on the Galaxy S26 or S26 Plus. While the Ultra model gets a new Privacy Display and avoids a price hike, Samsung's base models are largely software updates that cost more than the outgoing models.\nDon't get me wrong, some of those software updates are pretty neat. You can apply Audio Eraser to third-party apps to make voices easier to hear and filter out background noise. Google's Gemini AI will start doing agentic things - like booking an Uber for you - which is a step toward fulfilling the promise of an assistant that actually assists.  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "fae15c7d45279a2dec7040a5ef01edc92949af51",
+      "title": "German chancellor warns of trade imbalance with China during first Beijing trip",
+      "url": "https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-02-25T17:50:37.000Z",
+      "summary_90w": "",
+      "raw": "German business groups urged Merz to send a clear signal to China on competition and export controls.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6f0e972449a3e06f9ac64a212cc450ac2f412f6f",
+      "title": "Berlin film festival organisers to hold crisis talks amid Gaza rows",
+      "url": "https://www.theguardian.com/world/2026/feb/25/berlin-film-festival-managers-to-meet-for-talks-amid-gaza-rows",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-02-25T17:40:35.000Z",
+      "summary_90w": "",
+      "raw": "Emergency meeting called to discuss festival’s ‘future direction’ after series of controversies\nThe organisation that manages the Berlin film festival is to meet for talks amid reports that its American director faces dismissal after a series of rows over Gaza.\nIn a statement on Wednesday, the office of Germany’s federal government commissioner for culture and media said the emergency meeting on Thursday had been called to debate the “future direction of the Berlinale”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a818cf229ccc3cd7d8870538236a906a4936f140",
+      "title": "OpenAI COO says ads will be ‘an iterative process’",
+      "url": "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-02-25T17:37:37.000Z",
+      "summary_90w": "",
+      "raw": "COO Brad Lightcap noted that ads can add to the product experience of users if they are done right. He urged to give OpenAI a few months to see how the company fares in rolling out the product.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c47e39b459e788077b80dc2579b90f4539c86d69",
+      "title": "Brazilian politician brothers convicted of ordering murder of Rio city councillor",
+      "url": "https://www.theguardian.com/world/2026/feb/25/brazil-politician-brothers-convicted-murder",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-02-25T17:29:52.000Z",
+      "summary_90w": "",
+      "raw": "João Francisco Inácio Brazão and Domingos Inácio Brazão sentenced for murder of Marielle Franco, a gay Black woman and rising political star \nTwo influential Brazilian politician brothers have been convicted by Brazil’s supreme court of ordering the murder of Marielle Franco, the Rio de Janeiro city councillor, nearly eight years ago.\nJoão Francisco Inácio Brazão, the former congressman known as Chiquinho, and the former adviser to Rio’s court of auditors Domingos Inácio Brazão were sentenced to 76 years and three months in prison for the murders of Franco, 38, and her driver, Anderson Gomes, 39.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "fe5cec8d002fccfb032eb52c3a67c29e5c86ba84",
+      "title": "Iceland to hold referendum on EU accession talks in next few months, PM says – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/feb/25/ukraine-russia-zelenskyy-putin-orban-eu-hungary-sanctions-germany-china-merz-jinping-continues-europe-latest-news",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-02-25T17:24:34.000Z",
+      "summary_90w": "",
+      "raw": "This live blog is now closed\nPresident Volodymyr Zelenskyy said that Ukraine was looking to repair the Druzhba oil pipeline but “it was not so fast,” Reuters reported.\nShipments of Russian oil to Hungary and Slovakia have been cut off since 27 January, when Kyiv says a Russian strike hit pipeline equipment in western Ukraine.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "29869b35c3e9a72e0a1bf6a51182187bd79f1eb7",
+      "title": "Man accused of driving wife to suicide claims she lied about abuse, jury told",
+      "url": "https://www.bbc.com/news/articles/ckgly01vjmlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-25T17:24:07.000Z",
+      "summary_90w": "",
+      "raw": "Christopher Trybus, 43, is charged with manslaughter, coercive control and two counts of rape.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5a63b02100535e5f5960cf895110988f4721996c",
+      "title": "US to offer passport services to citizens in illegal West Bank settlements",
+      "url": "https://www.theguardian.com/world/2026/feb/25/us-passport-services-citizens-israel-west-bank-palestine",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-02-25T17:22:01.000Z",
+      "summary_90w": "",
+      "raw": "Israel welcomes move described by Palestinian Authority as undermining possibility of an independent state\nThe US will provide on-site consular services in two Israeli settlements in the occupied West Bank for the first time, breaking with previous policy, in a move that has been criticised by Palestinian officials as “a clear violation of international law”.\nIn a post on X, the US embassy in Jerusalem said that as part of an initiative to mark the 250th anniversary of US independence, it would provide Americans with routine passport services in the West Bank settlement of Efrat on Friday “for one day only”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b0eaa6b50b5d708ab91a2adb200fd0b28d9f8029",
+      "title": "Sperm swim more quickly in summer, study finds",
+      "url": "https://www.bbc.com/news/articles/crl45x52ejgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-25T17:18:08.000Z",
+      "summary_90w": "",
+      "raw": "Understanding the seasonal patterns of sperm could improve fertility treatments, by optimising the timing of treatment, the reasearchers say.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9b8ed9afbe0e80f3bc2f3f24df1be7cf89587ca1",
+      "title": "Diageo slashes dividend and vows to address Guinness shortage in London",
+      "url": "https://www.theguardian.com/business/2026/feb/25/diageo-slashes-dividend-and-vows-to-address-guinness-capacity-constraints-in-london",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-02-25T17:16:24.000Z",
+      "summary_90w": "",
+      "raw": "Drinks maker reduces sales and profit forecast for second time in four months amid weak demand in US and China  \nDiageo has slashed its dividend and cut its annual sales and profit forecast for the second time in four months, as the maker of Guinness warned of capacity constraints affecting drinkers of “the black stuff” in London pubs.\nThe world’s largest spirits maker – which owns brands including Smirnoff vodka, Johnnie Walker whisky and Don Julio tequila – lost more than £5bn of its market value on Wednesday as it reported weak demand in the US and China in the first results released under the new chief executive, Sir Dave Lewis.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "605bd7fabba62e0f52247add8d739ed5adbc379f",
+      "title": "John Lewis pulls out of housebuilding business",
+      "url": "https://www.bbc.com/news/articles/crl45dp1gg5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-25T17:14:49.000Z",
+      "summary_90w": "",
+      "raw": "The retailer began expanding into housebuilding in 2020 but it is scrapping those plans to focus on retail instead.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0f8081a0df5e013888ef1a9847700f5a1725f53e",
+      "title": "Sri Lanka collapse against New Zealand to exit T20 World Cup",
+      "url": "https://www.bbc.com/sport/cricket/articles/c3v7zwxdw4zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-25T17:09:57.000Z",
+      "summary_90w": "",
+      "raw": "Co-hosts Sri Lanka are out of the T20 World Cup after collapsing to a 61-run defeat by New Zealand in Colombo.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6dd01efd0c23c00344462f378253657e2cb66ebc",
+      "title": "Broadcasting racial slur by Baftas guest with Tourette's was 'serious mistake', BBC says",
+      "url": "https://www.bbc.com/news/articles/crrxjzrexr1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-25T17:06:37.000Z",
+      "summary_90w": "",
+      "raw": "The BBC's director general tells its Executive Complaints Unit to complete a fast-tracked investigation.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "dede0d1ca8c7b290e49fded7c910f2abbcee8cf4",
+      "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
+      "url": "https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-25T17:00:49.000Z",
+      "summary_90w": "",
+      "raw": "Culiacán in northern Mexico has seen a surge in violence as rival factions of the Sinaloa cartel battle for control.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7d68ae7052e0a7bc7ca9db387883a4c3512c631b",
+      "title": "Live: Samsung unveils new Galaxy phones",
+      "url": "https://www.theverge.com/tech/881355/live-blog-samsung-galaxy-unpacked-2026",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-02-25T17:00:00.000Z",
+      "summary_90w": "",
+      "raw": "We're here in San Francisco, where Samsung is set to unveil its new Galaxy S26 series phones and probably some accessories to go with them starting at 1PM ET. Keep in mind this isn't Samsung's foldy phone event, which usually occurs in the summer.\nOne of the things we're most curious about is whether the RAMageddon has impacted prices for these phones. And, of course, whether there are any new AI features to discuss. Stick around for the news and banter.\n\n(function(n){function c(t,i){n[e](h,function(n){var r,u;if(n&&(r=n[n.message?\"message\":\"data\"]+\"\",r&&r.substr&&r.substr(0,3)===\"nc:\")&&(u=r.split(\":\"),u[1]===i))switch(u[2]){case\"h\":t.style.height=u[3]+\"px\";return;case\"scrolltotop\":t.scrollIntoView();return}},!1)}for(var t,u,f,i,s,e=n.addEventListener?\"addEventListener\":\"attachEvent\",h=e===\"attachEvent\"?\"onmessage\":\"message\",o=n.document.querySelectorAll(\".live-center-embed\"),r=0;r<o.length;r++)(t=o[r],t.getAttribute(\"data-rendered\"))||(u=t.getAttribute(\"data-src\"),u&&(t.setAttribute(\"data-rendered\",\"true\"),f=n.ncVizCounter||1e3,n.ncVizCounter=f+1,i=f+\"\",s=\"nc-frame-c-\"+i,t.innerHTML='\n\n',c(t.firstChild,i)))})(window);\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8f16745848fdfe919e795fb6343b7f9477ebc2a1",
+      "title": "Samsung Unpacked 2026: live updates from the Galaxy S26 announcement event",
+      "url": "https://www.theverge.com/tech/883932/samsung-unpacked-2026-live-updates-galaxy-s26-announcement",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-02-25T17:00:00.000Z",
+      "summary_90w": "",
+      "raw": "On Wednesday, February 25th, Samsung will hold an event in San Francisco where it’s expected to reveal the Galaxy S26, S26 Plus, and S26 Ultra phones, among other things.\nBased on leaks and Samsung’s own ads, we’re expecting at least one of the phones to come with a display that can black out sensitive content based on viewing angle, which is genuinely cool and useful. They might also finally have Qi2! We are also, alas, anticipating a whole lot of questionable AI photo- and video-editing features. Samsung truly is a land of contrasts.\nSamsung Unpacked starts at 1PM ET / 10AM PT. It’s streaming live on YouTube (embedded below), and we’ll be live blogging here. Stay tuned.\n\n\n\n\t\t\t\t\t\nGemini is getting its first agentic capabilities\n\t\t\t\nThe Galaxy S26 and S26 Plus are more of the same for more money\n\t\t\t\nI’m super impressed with the Galaxy S26 Ultra’s new Privacy Display\n\t\t\t\nSamsung’s still chasing the AirPods with its new Galaxy Buds 4 and Buds 4 Pro\n\t\t\t\nYou can still get $30 in Samsung credit when you reserve a Galaxy S26 phone\n\t\t\t\nSamsung is on slop watch at Unpacked\n\t\t\t\nSamsung is adding Perplexity to Galaxy AI\n\t\t\t\nSamsung is slopping AI ads all over its social channels\n\t\t\t\nSamsung’s Galaxy S26 lineup might look familiar.\n\t\t\t\nSamsung Galaxy S26 battery pack leak points to Qi2 charging support",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "5907027421b971bcded77b139d57d5062b5facce",
+      "title": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
+      "url": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-02-25T16:54:46.000Z",
+      "summary_90w": "",
+      "raw": "Peter Steinberger talks about the creation of his viral AI agent OpenClaw and how being more \"playful\" makes for a better way to learn AI coding.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "175b34a683d4bc92a20bfd161f85e20f1067da93",
+      "title": "Swiss bar fire victims to get solidarity payout",
+      "url": "https://www.bbc.com/news/articles/c1e9d6pd9ejo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-25T16:51:53.000Z",
+      "summary_90w": "",
+      "raw": "The so-called solidarity contribution will go to each of the 115 injured and the families of the 41 who died.",
       "topics": [
         "World"
       ]
@@ -42,45 +380,6 @@
       ]
     },
     {
-      "id": "29d59de43a402de6a80a9f0df2ba7bf5ee1b3d0f",
-      "title": "Man arrested after 'axe carried into mosque'",
-      "url": "https://www.bbc.com/news/articles/cwy895lz221o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-25T16:30:14.000Z",
-      "summary_90w": "",
-      "raw": "Manchester Central Mosque said the \"swift actions of its volunteers\" had \"contained the situation\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "29869b35c3e9a72e0a1bf6a51182187bd79f1eb7",
-      "title": "Man accused of driving wife to suicide claims she lied about abuse, jury told",
-      "url": "https://www.bbc.com/news/articles/ckgly01vjmlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-25T16:29:51.000Z",
-      "summary_90w": "",
-      "raw": "Christopher Trybus, 43, is charged with manslaughter, coercive control and two counts of rape.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fe5cec8d002fccfb032eb52c3a67c29e5c86ba84",
-      "title": "Iceland to hold referendum on EU accession talks in next few months, PM says – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/feb/25/ukraine-russia-zelenskyy-putin-orban-eu-hungary-sanctions-germany-china-merz-jinping-continues-europe-latest-news",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-02-25T16:29:12.000Z",
-      "summary_90w": "",
-      "raw": "Date for referendum on opening talks to join the EU yet to be decided but will be ‘in the coming months’, says Kristrún Frostadóttir\nPresident Volodymyr Zelenskyy said that Ukraine was looking to repair the Druzhba oil pipeline but “it was not so fast,” Reuters reported.\nShipments of Russian oil to Hungary and Slovakia have been cut off since 27 January, when Kyiv says a Russian strike hit pipeline equipment in western Ukraine.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1d28ac82f1f0434b8a5caedab78cd67b4d20319c",
       "title": "Life sentence for man who shook girlfriend's five-month-old baby to death",
       "url": "https://www.bbc.com/news/articles/cm2x1nxv5epo?at_medium=RSS&at_campaign=rss",
@@ -104,6 +403,19 @@
       "raw": "Spotify's \"Mix\" feature now has an option called \"Smart Reorder\" that can automatically sort users' playlists based on beats per minute (BPM) and key, organizing songs for the best flow from one track to the next. It builds on the existing Mix feature in Spotify and, along with transitions between songs, which were introduced in August, users can now effectively have an automated DJ mix their Spotify playlists for them. \nThe \"Smart Reorder\" option, announced on Wednesday, is available now in the Spotify app for Premium subscribers. To try it out, open a playlist and tap the \"Mix\" button then \"Edit.\" The \"Smart Reorder\" button should be at t …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "4f5919ba10e8fbe77eb14e35d0805928ea3283ee",
+      "title": "Spain declassifies files on 1981 attempted coup in effort to dispel conspiracy theories",
+      "url": "https://www.bbc.com/news/articles/ce8w42e152xo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-25T16:13:16.000Z",
+      "summary_90w": "",
+      "raw": "For years, conspiracists suggested former King Juan Carlos may have had some involvement in the coup attempt.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -134,13 +446,13 @@
     },
     {
       "id": "337ab818b00773f99d904c40ba7f8e2677129429",
-      "title": "About 12% of U.S. teens turn to AI for emotional support or advice",
+      "title": "About 12% of US teens turn to AI for emotional support or advice",
       "url": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "published": "2026-02-25T15:52:03.000Z",
       "summary_90w": "",
-      "raw": "General purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
+      "raw": "General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
       "topics": [
         "Technology"
       ]
@@ -149,7 +461,7 @@
       "id": "81b5040b4164cbba1ceb971ac68bd71f41460278",
       "title": "Watch: Moment a sinkhole in Omaha traps cars and drivers",
       "url": "https://www.bbc.com/news/videos/c2k8nvy77jqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-02-25T15:50:09.000Z",
       "summary_90w": "",
@@ -263,19 +575,6 @@
       ]
     },
     {
-      "id": "914425f156ee5deebe3b9b14ffc225c64e0c689d",
-      "title": "Uefa rejects Benfica appeal over Prestianni ban",
-      "url": "https://www.bbc.com/sport/football/articles/clygxwzvy1eo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-25T15:16:56.000Z",
-      "summary_90w": "",
-      "raw": "Gianluca Prestianni will miss the second leg of Benfica's Champions League tie against Real Madrid after Uefa reject the club's appeal against his suspension.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e875985aabb798cf7e691c72fdfdc05c3630eda5",
       "title": "Trump keeps world waiting on his plans for Iran after State of the Union",
       "url": "https://www.bbc.com/news/articles/cge821xwyz8o?at_medium=RSS&at_campaign=rss",
@@ -284,32 +583,6 @@
       "published": "2026-02-25T15:16:33.000Z",
       "summary_90w": "",
       "raw": "The next round of talks between the US and Iran in Geneva on Thursday could be decisive in the president's decision-making.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9b8ed9afbe0e80f3bc2f3f24df1be7cf89587ca1",
-      "title": "Diageo slashes dividend and vows to address Guinness capacity constraints in London",
-      "url": "https://www.theguardian.com/business/2026/feb/25/diageo-slashes-dividend-and-vows-to-address-guinness-capacity-constraints-in-london",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-02-25T15:14:06.000Z",
-      "summary_90w": "",
-      "raw": "Drinks maker cuts annual sale and profit forecast for second time in four months amid weak demand in US and China\nDiageo has slashed its dividend and cut its annual sales and profit forecast for the second time in four months, as the maker of Guinness warned of capacity constraints affecting drinkers of “the black stuff” in London pubs.\nThe world’s largest spirits maker – which owns brands including Smirnoff vodka, Johnnie Walker whisky and Don Julio tequila – reported weak demand in the US and China in the first results released under the new chief executive, Sir Dave Lewis.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cb5bb068b2c3a471b4d9b04ee5148bda746fb3ee",
-      "title": "Germany accused of ditching climate targets as it scraps renewables mandate",
-      "url": "https://www.theguardian.com/environment/2026/feb/25/germany-accused-ditching-climate-targets-scraps-renewables-mandate",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-02-25T15:11:02.000Z",
-      "summary_90w": "",
-      "raw": "Coalition government agrees to remove parts of controversial law and allow homes to rely on fossil fuels \nGermany’s coalition government has been accused of abandoning its climate targets after agreeing to scrap parts of a contentious heating law mandating the use of renewables in favour of a draft law allowing homeowners to rely on fossil fuels.\nWhile the previous law required most newly installed heating systems to use at least 65% renewable energy, often with a heat pump, the amended legislation will allow households to keep using oil and gas.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -328,19 +601,6 @@
       ]
     },
     {
-      "id": "e1083e219ca4f88322d6ebd36df46a130c1099ec",
-      "title": "We played Resident Evil Requiem, ask us anything",
-      "url": "https://www.theverge.com/entertainment/884295/resident-evil-requiem-ask-me-anything",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-02-25T15:05:00.000Z",
-      "summary_90w": "",
-      "raw": "One of the first blockbuster games of the year is almost here - and it's a creepy one. Resident Evil Requiem launches on February 27th, and it's the first all-new RE game since Village in 2021. It's also a fascinating experience, one that combines the guns-blazing action of Resident Evil 4 with the first-person terror that originated with Resident Evil 7. In a lot of ways, it's the best of both worlds, as our review explains.\nAnd we're here to talk about it.\nMy colleague Jay Peters and I have been playing the game ahead of launch and will be answering questions from Verge subscribers right here. So if you're curious about how the dual char …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "d77ee6444276b7c482e39ec2d5b7687a40521b69",
       "title": "3 days left: Save up to $680 on your TechCrunch Disrupt 2026 ticket",
       "url": "https://techcrunch.com/2026/02/25/3-days-left-save-up-to-680-on-your-techcrunch-disrupt-2026-ticket/",
@@ -349,32 +609,6 @@
       "published": "2026-02-25T15:00:00.000Z",
       "summary_90w": "",
       "raw": "Just 3 days left to save up to $680 on your TechCrunch Disrupt 2026 ticket. Offer ends on Friday, February 27 at 11:59 p.m. PT. Don't miss unparalleled, curated networking and valuable insights from 250+ tech leaders, and discover 300+ breakout innovations. Register now.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "ee089dd8b3243a6a362db183b910305b0bec233f",
-      "title": "Resident Evil Requiem is still scary as hell on the Switch 2",
-      "url": "https://www.theverge.com/games/883965/resident-evil-requiem-nintendo-switch-2-performance",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-02-25T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "It took me a while to recover from the first big scare in Resident Evil Requiem. There I was, hunched over with a screen inches from my face and headphones in my ears, when a gigantic woman began chasing me through a dimly lit hallway intent on, well, eating me. It was a heart-racing sequence, and when I finally got to a save room I had to put the game down for a few minutes. It was an early indication that Requiem was a great game, and further evidence that the Switch 2 is becoming a welcome home for third-party titles.\nSince Nintendo's latest console launched last June, there have been few chances to see how it directly stacks up to other …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "444d44d89a9a41b5d7a54e8cb521bdde959f9486",
-      "title": "Resident Evil Requiem is the best of both terrifying worlds",
-      "url": "https://www.theverge.com/entertainment/883947/resident-evil-requiem-review-ps5-xbox-switch-2",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-02-25T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Resident Evil has always been a strange creature: Like many of its most notable monsters, it has shifted and evolved into various forms. From its blocky days of tank-controlled Z-list actors to first-person fright fests, the franchise's identity is not so much tied to genre as theme: zombies, viruses, very ugly monsters. Now, with Requiem, we have its first proper chimera, mixing the first-person horror of the latest installments with the fan-favorite action of Resident Evil 4.\nAlong with this are two playable characters that embody these two very different styles, with beloved Leon S. Kennedy returning as a middle-aged action hero alongsid …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -393,19 +627,6 @@
       ]
     },
     {
-      "id": "e7cbd6b015937816e6becf9af0cec2abf6b7a4d5",
-      "title": "Xiaomi&#8217;s magnetic power bank is incredibly thin",
-      "url": "https://www.theverge.com/tech/884330/xiaomi-ultra-thin-magnetic-magsafe-power-bank-5000-qi2",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-02-25T14:39:44.000Z",
-      "summary_90w": "",
-      "raw": "It’s not the fastest or most capacious magnetic power bank, but it’s one of the thinnest you’ll find. | Image: Xiaomi\t\n\nIt was originally teased to be announced at Mobile World Congress 2026 in Barcelona, Spain, this weekend, but Xiaomi has already shared all the details for its new super slim wireless power bank on its Australian website. The Xiaomi UltraThin Magnetic Power Bank 5000 features a 5,000mAh battery, as the name implies, and is just 6mm thick. That's thinner than the 7.9mm thick iPhone 17, and even thinner than the 7.6mm MagSafe battery Apple created for the iPhone Air.\nA 10,000mAh battery is typically a better investment for traveling as it guarantees you can fully recharge a dead smartphone with enough power left over to share with other devic …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "172be96a631dda0ff5616cc35b08cb2b48ca19b2",
       "title": "Greetings from Jordan's Wadi Rum desert, where patches of green emerge after winter rains",
       "url": "https://www.npr.org/2026/02/25/g-s1-111181/jordan-wadi-rum",
@@ -414,19 +635,6 @@
       "published": "2026-02-25T14:38:32.000Z",
       "summary_90w": "",
       "raw": "Wadi Rum's otherworldly landscape is where Star Wars movies and The Martian were filmed. In late winter, plants emerge in this desert — but some are toxic to camels, so their herders must protect them.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "599ea62cb7e74f3cfb55b734b8d4ff35baadd498",
-      "title": "Ineos said to be in talks to sell parts of business to tackle rising debt",
-      "url": "https://www.theguardian.com/business/2026/feb/25/ineos-in-talks-to-sell-parts-of-business-rising-debt-jim-ratcliffe-report",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-02-25T14:30:24.000Z",
-      "summary_90w": "",
-      "raw": "Talks reportedly focused on assets of owner Jim Ratcliffe’s vinyls business Inovyn as group scrambles to cut costs\nThe chemicals empire owned by the billionaire Jim Ratcliffe is in talks to sell parts of the business in the hope of raising hundreds of millions of pounds to tackle its rising debts, according to a report.\nThe talks are at an early stage but have focused on selling assets from Ratcliffe’s vinyls business, Ineos Inovyn, the Financial Times said, citing people familiar with the matter.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -445,32 +653,6 @@
       ]
     },
     {
-      "id": "12dbba79c9e2c0d3f26e90104b050010f1719fa7",
-      "title": "Commons Speaker passed Mandelson flight risk information to police ahead of arrest",
-      "url": "https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-25T14:25:04.000Z",
-      "summary_90w": "",
-      "raw": "Sir Lindsay Hoyle tells MPs he was acting \"in good faith as is my duty and responsibility\" as he felt information was \"relevant\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "5942e16ec1a76f9bdf9e7464e4c9c3c98d0b4874",
-      "title": "Does Anthropic think Claude is alive? Define ‘alive’",
-      "url": "https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-02-25T14:24:30.000Z",
-      "summary_90w": "",
-      "raw": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive in some way, shape, or form. \n\"Alive\" is obviously a loaded term; the more frequently used word is \"conscious.\" If you ask Anthropic if the company thinks Claude is alive, the company will flatly deny it, but stop short of saying the models aren't conscious.\nKyle Fish, who leads model welfare research at Anthropic, told The Verge, \"No, we don't think Claude is 'alive' like humans or any other biological organisms. Asking whether they're 'aliv …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "63ad32c96268e888bec7825b578d5ca9a578877d",
       "title": "Two charged with murder of Australian grandfather after 'mistaken identity' kidnapping",
       "url": "https://www.bbc.com/news/articles/cm21zdxzr0ko?at_medium=RSS&at_campaign=rss",
@@ -481,19 +663,6 @@
       "raw": "Chris Baghsarian, 85, was taken from his home and murdered, in what authorities believe was a case of mistaken identity.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "d9127ebec999bf2bcf185559d32c744c0b1186f2",
-      "title": "Apple brings age verification to UK users in iOS 26.4 beta",
-      "url": "https://www.theverge.com/tech/884306/apple-age-verification-uk-users-ios-26-4-beta",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-02-25T14:10:58.000Z",
-      "summary_90w": "",
-      "raw": "Apple is bringing age verification to the UK, as the latest iOS 26.4 beta prompts users to verify that they're over 18 following installation. As shown in screenshots posted to Reddit, Apple says users who don't confirm their age \"will not be able to download and purchase apps or make in-app purchases.\"\nIn one of the screenshots, Apple notes that it may automatically confirm that users are over 18 using the payment method connected to their account, or the age of their account. Otherwise, Apple may ask users to scan their credit cards to confirm their age. One Reddit user says that they were also given the option to scan their ID.\n\n\n\n\n\nThe  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -582,20 +751,7 @@
       "source_name": "TechCrunch",
       "published": "2026-02-25T14:00:00.000Z",
       "summary_90w": "",
-      "raw": "Harper is an AI-native insurance brokerage that just raised a $45 million combined Series A and seed, after a member of YC's Winter 2025 cohort.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "c631d4d9ef9bf65502d8979fcf7876ec5ab25cb5",
-      "title": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
-      "url": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-02-25T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "That Brief option sounds great for people like me who find cheerful chatbots to be creepy or unsettling. | Image: Amazon\t\n\nAmazon is giving you more control over how Alexa behaves during conversations and responses. Three \"personality style\" presets are launching today for Alexa Plus users in the US that allow you to make the AI-powered voice assistant more concise, cheerful, or relaxed, depending on your personal preferences.\n\"Alexa's personality is one of the things customers tell us they love most about Alexa,\" Amazon said in its press release. \"That familiar voice and personality have become a part of so many customers' daily lives, but here's what we've learned from customers since launching Alexa Plus: everyone has their own communication style and prefer …\nRead the full story at The Verge.",
+      "raw": "Harper is an AI-native insurance brokerage that just raised a $45 million combined Series A and seed, after being a member of YC's Winter 2025 cohort.",
       "topics": [
         "Technology"
       ]
@@ -609,19 +765,6 @@
       "published": "2026-02-25T13:56:08.000Z",
       "summary_90w": "",
       "raw": "Laurence des Carrs submitted her resignation to President Emmanel Macron, who said it was \"an act of responsibility\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ea6de4400f2dc61de6df20a52af9a388be6ccd01",
-      "title": "Harry and Meghan visit refugee camp as part of Middle East trip",
-      "url": "https://www.bbc.com/news/articles/c5ykqg09k6yo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-25T13:39:18.000Z",
-      "summary_90w": "",
-      "raw": "The Duke and Duchess of Sussex's trip to Jordan is their first international tour as a couple since August 2024.",
       "topics": [
         "World"
       ]
@@ -682,13 +825,13 @@
       "id": "ceacd8e1899615e27f0ee208477ccc632337213a",
       "title": "Not even potholes will hold up self-driving cars, UK firm predicts",
       "url": "https://www.bbc.com/news/articles/cx2drw12z51o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2026-02-25T12:27:26.000Z",
       "summary_90w": "",
       "raw": "Wayve says it's confident all cars will one day be autonomous, as it announced more than a £1bn in additional investment.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -712,20 +855,7 @@
       "source_name": "World news | The Guardian",
       "published": "2026-02-25T12:19:00.000Z",
       "summary_90w": "",
-      "raw": "Tommy Schaefer released early from 18-year sentence for 2014 murder of Sheila von Wiese-Mack during luxury holiday\nIndonesia has freed and deported a US man after he spent 11 years in prison for the premeditated murder of his then girlfriend’s mother on the tourist island of Bali.\nTommy Schaefer was sentenced to 18 years in prison for the 2014 murder of Sheila von Wiese-Mack, the mother of Heather Mack, during a luxury holiday in a case that became known as the Bali suitcase murder.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "265e2a2276b6662c207209efc52e27099c5b6dd4",
-      "title": "Phil Collins, Pink and Shakira nominated for Rock & Roll Hall of Fame",
-      "url": "https://www.bbc.com/news/articles/c0rj0nlqwk2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-25T12:10:20.000Z",
-      "summary_90w": "",
-      "raw": "Jeff Buckley, Lauryn Hill, Pink, Shakira and Mariah Carey are also among the 17 nominees this year.",
+      "raw": "Tommy Schaefer released early from sentence for murder of Sheila von Wiese-Mack and will face US federal charges\nIndonesia has freed and deported a US man after he spent 11 years in prison for the premeditated murder of his then girlfriend’s mother on the tourist island of Bali, and he will now faces federal charges in the US.\nTommy Schaefer was sentenced to 18 years in prison in Bali for the 2014 murder of Sheila von Wiese-Mack, the mother of Heather Mack, during a luxury holiday, in a case that became known as the Bali suitcase murder. Prosecutors allege the couple were trying to gain access to a $1.5m (£1.1m) trust fund.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -751,20 +881,7 @@
       "source_name": "World news | The Guardian",
       "published": "2026-02-25T12:00:37.000Z",
       "summary_90w": "",
-      "raw": "The artist, who was controversially revoked and then reinstated by his government, is planning a ‘nurturing experience’ to bring people together\nAustralia’s presentation at the Venice Biennale in May will be a “nurturing experience” designed to bring people together – in the aftermath one of the most turbulent and divisive periods in the country’s 72-year history at the prestigious international art festival.\nArtist Khaled Sabsabi and curator Michael Dagostino, who were controversially dumped and then reinstated as Australia’s representatives, will present not one but two major works at the Venice Biennale in May – both informed by Sabsabi’s practice as a Sufi Muslim and exploring “spirituality, migration, and the vastness of shared humanity”.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "bd45d53a635c64335ed115ca57af38f909902c1e",
-      "title": "Tourette's campaigner says BBC 'should have worked harder' to stop his slur being aired",
-      "url": "https://www.bbc.com/news/articles/cg4g2ldegdwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-25T11:18:48.000Z",
-      "summary_90w": "",
-      "raw": "John Davidson, who tics due to his condition, shouted a racial slur while two black actors were on stage.",
+      "raw": "The artist, who was controversially revoked and then reinstated by his government, is planning a ‘nurturing experience’ to bring people together\nAustralia’s presentation at the Venice Biennale in May will be a “nurturing experience” designed to bring people together – in the aftermath of one of the most turbulent and divisive periods in the country’s 72-year history at the prestigious international art festival.\nArtist Khaled Sabsabi and curator Michael Dagostino, who were controversially dumped and then reinstated as Australia’s representatives, will present not one but two major works at the Venice Biennale in May – both informed by Sabsabi’s practice as a Sufi Muslim and exploring “spirituality, migration, and the vastness of shared humanity”.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -817,19 +934,6 @@
       "published": "2026-02-25T10:25:23.000Z",
       "summary_90w": "",
       "raw": "End of government subsidies drives electricity costs up by 19% in the month and leaves power bills nearly a third higher than they were a year earlier\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe Reserve Bank governor has denied inflation is “taking off” after new data showed price rises had persisted into 2026 and boosted bets on two more interest rate hikes.\nAnnual inflation stayed at a high 3.8% in January, as the end of government subsidies drove electricity costs up by 19% in the month and left power bills nearly a third higher than they were a year earlier.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cbeb8cff9810e65f0894765efa5a42ec53c8bb09",
-      "title": "'Exceptionally rare' Roman lead blocks found on farmland",
-      "url": "https://www.bbc.com/news/articles/c8xy52wndx1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-25T10:13:54.000Z",
-      "summary_90w": "",
-      "raw": "The objects, which were used to produce tools and weapons, were found on grazing land in west Wales.",
       "topics": [
         "World"
       ]
@@ -908,6 +1012,19 @@
       "published": "2026-02-25T10:00:00.000Z",
       "summary_90w": "",
       "raw": "The Supreme Court struck down President Trump's signature tariffs. But the president has other tariff tools, and consumers shouldn't expect cheaper prices anytime soon, economists say.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9124676bdd3c082ec4c0787cc581d81d45c6f7de",
+      "title": "What is happening to gas and electricity prices?",
+      "url": "https://www.bbc.com/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-25T09:50:06.000Z",
+      "summary_90w": "",
+      "raw": "Typical household bills will fall by 7% when the new energy cap takes effect on 1 April 2026.",
       "topics": [
         "World"
       ]
@@ -1004,19 +1121,6 @@
       ]
     },
     {
-      "id": "25c7445da6c7a4b54c78aca1e2dbcca5e5a45913",
-      "title": "Will walk-in GP clinics deliver one million extra appointments in Scotland?",
-      "url": "https://www.bbc.com/news/articles/c0j58w0yg68o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-25T06:18:38.000Z",
-      "summary_90w": "",
-      "raw": "The first of 16 new walk-in clinics across Scotland is now open but it is not clear when a target of them delivering one million appointments will be hit.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "bcd2b4a4f5e4af2fc5d53803e9cd68d917f28ed1",
       "title": "Japan to deploy missiles on island near Taiwan by 2031",
       "url": "https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&at_campaign=rss",
@@ -1038,19 +1142,6 @@
       "published": "2026-02-25T05:57:14.000Z",
       "summary_90w": "",
       "raw": "BBC's Will Grant visits Puerto Vallarta, a popular coastal resort town, to see the damage.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fae15c7d45279a2dec7040a5ef01edc92949af51",
-      "title": "German chancellor lands in Beijing for inaugural China trip",
-      "url": "https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-02-25T05:53:48.000Z",
-      "summary_90w": "",
-      "raw": "Friedrich Merz said it would be a mistake to \"decouple\" Germany from China shortly before boarding a plane to Beijing.",
       "topics": [
         "World"
       ]
@@ -1290,32 +1381,6 @@
       ]
     },
     {
-      "id": "2cd3491c2f8048808019cc71485e65fe302f738e",
-      "title": "Snoop Dogg's surreal Swansea visit heralds late drama",
-      "url": "https://www.bbc.com/sport/football/articles/ckg1jely4n8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-24T23:12:34.000Z",
-      "summary_90w": "",
-      "raw": "The difference between Swansea v Preston and other second-tier matches was that one of the Welsh club's co-owners happens to be a hip-hop legend.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e28bbc6b727a11e389aecdeba34c6130ee42a77d",
-      "title": "Uber engineers built an AI version of their boss",
-      "url": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-02-24T23:09:28.000Z",
-      "summary_90w": "",
-      "raw": "Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "378429b247601c4089e1c6bfbceb3135cef11825",
       "title": "US threatens Anthropic with deadline in dispute on AI safeguards",
       "url": "https://www.bbc.com/news/articles/cjrq1vwe73po?at_medium=RSS&at_campaign=rss",
@@ -1337,45 +1402,6 @@
       "published": "2026-02-24T22:43:26.000Z",
       "summary_90w": "",
       "raw": "Users were unhappy about plans for age verification to require facial or ID scans.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "3018e44285852f0b1a614d6623f875e2c60a9257",
-      "title": "Stripe is reportedly eyeing deal to buy some or all of PayPal",
-      "url": "https://techcrunch.com/2026/02/24/stripe-is-reportedly-eyeing-deal-to-buy-some-or-all-of-paypal/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-02-24T22:35:30.000Z",
-      "summary_90w": "",
-      "raw": "Stripe might be looking to buy PayPal, or parts of it, per early reports.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "207c226dce5ddc8d27abf72bdf4b0b7a6292bc7b",
-      "title": "Former L3Harris Trenchant boss jailed for selling hacking tools to Russian broker",
-      "url": "https://techcrunch.com/2026/02/24/former-l3harris-trenchant-boss-jailed-for-selling-hacking-tools-to-russian-broker/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-02-24T21:50:23.000Z",
-      "summary_90w": "",
-      "raw": "Peter Williams, the former head of U.S. hacking tools maker L3Harris Trenchant, was sentenced to seven years in prison for stealing and selling his former company’s hacking and surveillance tools to a Russian firm.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "a1eadcd17a7aa20f1a7373f2b3aeaf82f0a36a87",
-      "title": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
-      "url": "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-02-24T21:32:22.000Z",
-      "summary_90w": "",
-      "raw": "Form Energy's iron-air batteries will store wind and solar power to keep the data center running 24/7.",
       "topics": [
         "Technology"
       ]
@@ -1441,19 +1467,6 @@
       "published": "2026-02-24T17:18:58.000Z",
       "summary_90w": "",
       "raw": "Mexico’s president says there is ‘no risk’ for those visiting for Fifa games after military killed drug lord ‘El Mencho’\n\nViolence in Mexico after military kills notorious drug cartel boss – a visual guide\n\nMexico’s president, Claudia Sheinbaum, has said that there is “no risk” for visitors coming to Fifa World Cup games scheduled to be held in the country, after the death of a top cartel boss triggered a wave of retaliatory violence from gunmen who blocked roads and attacked security forces across the country.\nThe Mexican military attempted to detain “El Mencho”, the leader of the Jalisco New Generation Cartel, in a dawn raid on Sunday, leading to a firefight in which he was fatally wounded, before dying while being airlifted to hospital.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c681d38bb6b84d83aaf6a1e3b5e8f2cedf0e6ca8",
-      "title": "Armed police flood Iran’s universities to crush student protests",
-      "url": "https://www.theguardian.com/world/2026/feb/24/iran-armed-police-flood-universities-to-crush-student-protests",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-02-24T16:06:53.000Z",
-      "summary_90w": "",
-      "raw": "Campus clashes provide uneasy backdrop to third round of talks on nuclear programme in Geneva\nPlainclothes police and security forces, many of them armed, have tried to flood Iran’s remaining open universities in an attempt to crush a fourth day of student protests against the supreme leader, Ali Khamenei.\nRunning battles were reported on some campuses, with videos showing fistfights between the Basji state-backed militia and students at the University of Science and Technology in Tehran. Pick-up trucks with machine-guns were photographed parked outside the University of Tehran, with demonstrations also in Mashhad.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1636,19 +1649,6 @@
       "published": "2026-02-24T03:19:30.000Z",
       "summary_90w": "",
       "raw": "Violence has erupted across several states in Mexico after cartel leader El Mencho was killed on Sunday.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "513cd715655e1c3fdaecd869a4285e3542efeafa",
-      "title": "Mexican drug cartel boss ‘El Mencho’ tracked through romantic partner",
-      "url": "https://www.theguardian.com/world/2026/feb/23/el-mencho-mexican-drug-cartel-boss-killing-violence",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-02-24T00:25:30.000Z",
-      "summary_90w": "",
-      "raw": "Killing of Jalisco New Generation Cartel leader sparks wave of violence across western Mexico\n\nAnalysis: Mexico faces uphill battle to appease kingpin Trump\n\nWho was El Mencho?\n\nMexican authorities tracked down and killed “El Mencho”, one of the world’s most wanted drug traffickers, by following a romantic partner to his safe house near a picturesque mountain town, the country’s defence secretary has revealed.\nIn a press conference, officials provided the first details about the operation that led to the death of the leader of Mexico’s most powerful organised crime group, the Jalisco New Generation Cartel (CJNG).\n Continue reading...",
       "topics": [
         "World"
       ]
