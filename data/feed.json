@@ -1,6 +1,6 @@
 {
-  "version": "1772060557375",
-  "generatedAt": "2026-02-25T23:02:37.375Z",
+  "version": "1772062159701",
+  "generatedAt": "2026-02-25T23:29:19.701Z",
   "items": [
     {
       "id": "db461a943315007be97d1479fffd72395815c1af",
@@ -8,11 +8,37 @@
       "url": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-02-25T22:48:01.000Z",
+      "published": "2026-02-25T23:23:13.000Z",
       "summary_90w": "",
-      "raw": "Six other passengers were wounded in the incident, which took place near an island on Cuba's northern coast.",
+      "raw": "The identities of those on board - including six others who were wounded - is unclear.",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "a683068c795de390fc13a6b315719487b57355b4",
+      "title": "The market for tariff refunds",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5723910/the-market-for-tariff-refunds",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2026-02-25T23:22:25.000Z",
+      "summary_90w": "",
+      "raw": "Well before the Supreme Court struck down many of President Trump's tariffs, Wall Street had been literally betting on it. Firms created a market to sell companies' claims on refunds, if they happen.",
+      "topics": [
+        "Business"
+      ]
+    },
+    {
+      "id": "cda5c59add52779b1576770f42ec68445de549bf",
+      "title": "New York sues Valve, alleging its loot boxes are ‘quintessential gambling’",
+      "url": "https://www.theverge.com/games/884978/valve-lawsuit-loot-boxes-new-york-attorney-general-lawsuit",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-02-25T23:22:18.000Z",
+      "summary_90w": "",
+      "raw": "New York Attorney General Letitia James is suing Valve for \"illegally promoting gambling\" through the loot box systems it has built for video games like Counter-Strike 2, Team Fortress 2, and Dota 2, according to a press release. The attorney general seeks to \"permanently stop Valve from promoting gambling features in its games, disgorge all ill-gotten gains, and pay fines for violating New York's laws.\"\n\"This loot box model that Valve has developed - charging an individual for a chance to win something of value based on luck alone - is quintessential gambling, prohibited under New York's Constitution and Penal Law,\" the lawsuit says. Valve …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -21,9 +47,61 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/feb/26/dfat-middle-east-evacuation-syria-isis-families-wives-children-anthony-albanese-angus-taylor-budget-cost-of-living-capital-gains-tax-reform-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-02-25T22:45:40.000Z",
+      "published": "2026-02-25T23:09:09.000Z",
       "summary_90w": "",
       "raw": "Embassies in Tel Aviv and Beirut remain open but Dfat warns situation is ‘unpredictable’. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nAdvocate for gambling reform reiterates calls for regulator and ban on ads\nReverend Tim Costello, the chief advocate for the Alliance for Gambling Reform, spoke to RN Breakfast this morning about efforts to combat gambling, including the rollout of BetStop, a self-exclusion register.\nWe are literally saturated. You know, sadly, gambling companies now even own our kids …\nRight at the moment, you have the farcical situation that under 16, you can’t be on social media, which I support. But they’re inundated with gambling ads online, on TV. 900,000 of young Australians gambled last year, even though it’s illegal now.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "17d0681b5e9bc6fbfa71f8aa7f2cc0d6efa55792",
+      "title": "Decades after being blocked from the Little League World Series, a Black team is honored",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5725385/decades-after-being-blocked-from-the-little-league-world-series-a-black-team-is-honored",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-02-25T23:08:16.000Z",
+      "summary_90w": "",
+      "raw": "A Black little league team that got invited to the 1963 Little League World Series but never got to go because of segregation is finally getting recognition.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2e3415eb32b2489ec652477fee1b507ad24b7041",
+      "title": "Supreme Court appears split in tax foreclosure case",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5726382/supreme-court-appears-split-in-tax-foreclosure-case",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-02-25T23:05:50.000Z",
+      "summary_90w": "",
+      "raw": "At issue is whether a county can seize homeowners' residence for unpaid property taxes and sell the house at auction for less than the homeowners would get if they put their home on the market themselves.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5607d5ea9b722dae834070bac4b7ab04554f48d2",
+      "title": "Nvidia has another record quarter amid record capex spends",
+      "url": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-02-25T23:04:42.000Z",
+      "summary_90w": "",
+      "raw": "\"The demand for tokens in the world has gone completely exponential,\" Nvidia CEO Jensen Huang said about the company's earnings.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "802a89ee22ce05d2902235fad9389461487207d9",
+      "title": "Public health advocates say more transparency needed in debate over illicit tobacco as industry links questioned",
+      "url": "https://www.theguardian.com/business/2026/feb/26/public-health-advocates-say-more-transparency-needed-in-debate-over-illicit-tobacco-as-industry-links-questioned",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-02-25T23:00:10.000Z",
+      "summary_90w": "",
+      "raw": "Former Australian Border Force officer Rohan Pike, who has been quoted extensively as an expert, also advises nicotine-industry-linked organisations\nA former Australian Border Force officer who has positioned himself before government inquiries as Australia’s “foremost law enforcement expert” on illicit tobacco also advises nicotine industry-linked organisations – leading public health advocates to argue more transparency is needed.\nRohan Pike, who spent more than two decades in law enforcement and now runs a consultancy, has become a prominent media commentator on the illicit tobacco trade, promoting policies that align with those supported by the tobacco industry.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -65,6 +143,19 @@
       "raw": "Scientists have created an AI version of a monkey brain that recognizes images without requiring the massive computing power of existing AI systems.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "e32bd01537905ac35bad176b4312f6abd8355ac3",
+      "title": "A New York City snowball fight gone wrong leaves Mayor Mamdani at odds with police",
+      "url": "https://www.bbc.com/news/articles/cwyxlgkj0k3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-25T22:16:46.000Z",
+      "summary_90w": "",
+      "raw": "The NYPD is looking for four people they say injured officers with snowballs, in behavior the commisioner called \"disgraceful\".",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -439,7 +530,7 @@
       "source_name": "TechCrunch",
       "published": "2026-02-25T19:08:04.000Z",
       "summary_90w": "",
-      "raw": "Kalshi fined the MrBeast editor, Artem Kaptur, for over $20,000.",
+      "raw": "Kalshi fined the MrBeast editor, Artem Kaptur, over $20,000.",
       "topics": [
         "Technology"
       ]
@@ -570,19 +661,6 @@
       "published": "2026-02-25T18:00:00.000Z",
       "summary_90w": "",
       "raw": "Gemini can now prep a rideshare or grocery order, though you’ll have to submit the order yourself. | Image: Google\t\n\nGoogle's Gemini AI is getting one step closer to being more like an actual assistant. Starting with some Pixel 10 phones and the Samsung Galaxy S26 series, Gemini will be able to hail an Uber or put together a DoorDash order on its own.\nIt's called task automation, and it starts with a prompt to Gemini - something like \"Get me an Uber to the Palace of Fine Arts.\" Gemini then launches the app in a virtual window on your device and goes through the process step-by-step. You can watch it all happen, with options to stop the automation or take control if necessary, or just let it run in the background while Gemini does its thing. The assistant  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "ab84cd297775b08f9b2bce84fde5c899224870d0",
-      "title": "Hands on: the Galaxy S26 and S26 Plus are more of the same for more money",
-      "url": "https://www.theverge.com/tech/884239/samsung-galaxy-s26-plus-price-specs-gemini",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-02-25T18:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The S26 Plus (left) and S26 (right) are mostly software updates.\t\n\nThere's a cool new hardware feature debuting at Samsung's annual Unpacked event - but you won't find it on the Galaxy S26 or S26 Plus. While the Ultra model gets a new Privacy Display and avoids a price hike, Samsung's base models are largely software updates that cost more than the outgoing models.\nDon't get me wrong, some of those software updates are pretty neat. You can apply Audio Eraser to third-party apps to make voices easier to hear and filter out background noise. Google's Gemini AI will start doing agentic things - like booking an Uber for you - which is a step toward fulfilling the promise of an assistant that actually assists.  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -952,19 +1030,6 @@
       ]
     },
     {
-      "id": "b4c6b44a77a7e2bd3106fed53a14fe801e536627",
-      "title": "US tells diplomats to lobby against foreign data sovereignty laws",
-      "url": "https://techcrunch.com/2026/02/25/us-tells-diplomats-to-lobby-against-foreign-data-sovereignty-laws/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-02-25T14:56:52.000Z",
-      "summary_90w": "",
-      "raw": "The Trump administration has ordered U.S. diplomats to lobby against countries' attempts to regulate how American tech companies handle foreigners' data.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "172be96a631dda0ff5616cc35b08cb2b48ca19b2",
       "title": "Greetings from Jordan's Wadi Rum desert, where patches of green emerge after winter rains",
       "url": "https://www.npr.org/2026/02/25/g-s1-111181/jordan-wadi-rum",
@@ -1108,45 +1173,6 @@
       ]
     },
     {
-      "id": "a07c779c470938e537387cc4cd2217556cf1b467",
-      "title": "Man who murdered nine-year-old girl as she played with hula hoop in street jailed",
-      "url": "https://www.bbc.com/news/articles/cx2lpwg366do?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-25T12:09:04.000Z",
-      "summary_90w": "",
-      "raw": "Lilia Valutyte, 9, was playing outside a shop in Boston when she was stabbed by Deividas Skebas.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ddb48d26ff40be071b76d71ba87dc3ab29477f44",
-      "title": "After a turbulent year, Australia’s Khaled Sabsabi will present two works at the Venice Biennale",
-      "url": "https://www.theguardian.com/artanddesign/2026/feb/25/khaled-sabsabi-australian-artist-venice-biennale-two-works",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-02-25T12:00:37.000Z",
-      "summary_90w": "",
-      "raw": "The artist, who was controversially revoked and then reinstated by his government, is planning a ‘nurturing experience’ to bring people together\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAustralia’s presentation at the Venice Biennale in May will be a “nurturing experience” designed to bring people together – in the aftermath of one of the most turbulent and divisive periods in the country’s 72-year history at the prestigious international art festival.\nArtist Khaled Sabsabi and curator Michael Dagostino, who were controversially dumped and then reinstated as Australia’s representatives, will present not one but two major works at the Venice Biennale in May – both informed by Sabsabi’s practice as a Sufi Muslim and exploring “spirituality, migration, and the vastness of shared humanity”.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "239ed3c59324df6ca2daf2c3a1600f4fd0258bb5",
-      "title": "When a horse whinnies, there's more than meets the ear",
-      "url": "https://www.npr.org/2026/02/25/nx-s1-5725288/horse-whinny-high-low-frequency-emotion",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-02-25T11:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A new study finds that horse whinnies are made of both a high and a low frequency, generated by different parts of the vocal tract. The two-tone sound may help horses convey more complex information.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b712b09b50f872ae71a605b10be122f4c7d7ce96",
       "title": "Gucci criticised for 'AI slop' images ahead of major fashion show",
       "url": "https://www.bbc.com/news/articles/cjwz6yzn5jqo?at_medium=RSS&at_campaign=rss",
@@ -1220,19 +1246,6 @@
       "published": "2026-02-25T10:00:09.000Z",
       "summary_90w": "",
       "raw": "Opposition campaigners claim top figures in regime use state wealth to fund lifestyles counter to those they preach\nMembers of Iran’s ruling elite have been accused of brazen hypocrisy by allegedly using the state’s wealth to help to fund their adult children’s lives in the west while presiding over growing economic misery and repression at home.\nOpposition campaigners made the accusation against some of the clerical regime’s most powerful figures as a military confrontation with the US appears increasingly likely. Donald Trump has deployed a vast armada in the Middle East and confirmed he is considering strikes.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8fed9bb288fb65cc5a70ea7628d5062e4b4c2e6f",
-      "title": "Hundreds of American nurses choose Canada over the U.S. under Trump",
-      "url": "https://www.npr.org/2026/02/25/nx-s1-5725354/nurses-emigrate-us-canada-trump",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-02-25T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "More than 1,000 American nurses have successfully applied for licensure in British Columbia since April, a massive increase over prior years.",
       "topics": [
         "World"
       ]
@@ -1716,19 +1729,6 @@
       "raw": "Memory chips (aka RAM) are in short supply, globally. Why and what does that mean for consumers",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "69d395857dddd225b8bebad160e2d127815d0529",
-      "title": "Trump excoriates Supreme Court justices after tariff loss",
-      "url": "https://www.npr.org/2026/02/21/g-s1-110961/supreme-court-tariffs",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-02-21T11:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The battle over the tariffs began on day one of the president's second term when he signed an executive order that let him impose a wide range of tariffs on virtually every U.S. trading partner.",
-      "topics": [
-        "Business"
       ]
     },
     {
