@@ -1,10 +1,88 @@
 {
-  "version": "1772227391248",
-  "generatedAt": "2026-02-27T21:23:11.248Z",
+  "version": "1772229192969",
+  "generatedAt": "2026-02-27T21:53:12.969Z",
   "items": [
     {
+      "id": "e23bafbf9ac49b5121915b2963e7f55a649a5000",
+      "title": "How Ghislaine Maxwell brought Bill Clinton into Epstein's orbit",
+      "url": "https://www.bbc.com/news/articles/cp85jdqdyq7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-02-27T21:48:24.000Z",
+      "summary_90w": "",
+      "raw": "Documents in the Epstein files reveal how Maxwell nurtured the connection between the two men after Clinton left the White House.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "20e4101e4f639546ea66649c89f6cf54cf6d44b5",
+      "title": "Warner Bros. Discovery agrees to $110 billion Paramount merger",
+      "url": "https://www.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-02-27T21:43:37.000Z",
+      "summary_90w": "",
+      "raw": "Warner Bros. Discovery and Paramount Skydance's merger agreement is now official. On Friday, the two companies announced plans to merge into a massive media company that will fold WBD's studio, linear channels, streaming service, and gaming segment into Paramount.\nThough WBD initially signed onto an $83 billion agreement to merge part of Warner Bros. with Netflix, Paramount persisted with a hostile takeover bid, followed by a series of offers. That persistence paid off, as WBD determined that Paramount's \"best and final\" offer is \"superior\" to Netflix's deal. On Thursday, Netflix declined to match Paramount's bid, calling it \"no longer fina …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e14f1c404674e51de73131a5d2c0ca4940b74cd4",
+      "title": "Trump orders government to stop using Anthropic in battle over AI use",
+      "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-02-27T21:40:38.000Z",
+      "summary_90w": "",
+      "raw": "The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "5a4efbfa00f37687397c6684cc38b58279d853a2",
+      "title": "Trump orders federal agencies to drop Anthropic’s AI",
+      "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-02-27T21:30:47.000Z",
+      "summary_90w": "",
+      "raw": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CEASE\" use of its products. At issue is Anthropic CEO Dario Amodei's refusal of an updated agreement with the US military agreeing to \"any lawful use\" of Anthropic's technology, as Defense Secretary Pete Hegseth mandated in a January memo, to the frustration of many tech workers across the industry.\nAs we explained earlier this week, that agreement would give the US military access to use the company's services for mass domestic surveillance and  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3eec03093fc5beed6bd649e25c8692347eabf5f2",
+      "title": "OpenAI vows safety policy changes after Canada school shooting",
+      "url": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-27T21:30:10.000Z",
+      "summary_90w": "",
+      "raw": "Canada's AI minister will meet CEO Sam Altman next week after the suspect's ChatGPT account was not flagged to police despite internal company concerns.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3eec03093fc5beed6bd649e25c8692347eabf5f2",
+      "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
+      "url": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-02-27T21:30:10.000Z",
+      "summary_90w": "",
+      "raw": "Canada's AI minister will meet CEO Sam Altman next week after the suspect's ChatGPT account was not flagged to police despite internal company concerns.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "6a4102d5b23ecfcb47a7f510757313d6de799ccb",
-      "title": "Pentagon puts Scouts \"on notice\" over DEI and girl-centered policies",
+      "title": "Pentagon puts Scouts 'on notice' over DEI and girl-centered policies",
       "url": "https://www.npr.org/2026/02/27/nx-s1-5729159/pentagon-scouts-hegseth-dei-deal",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
@@ -94,14 +172,14 @@
       ]
     },
     {
-      "id": "d802757c32a2d2ec0d9066b8318683dc1484b607",
-      "title": "OpenAI says it shares Anthropic's 'red lines' over military AI use",
-      "url": "https://www.npr.org/2026/02/27/nx-s1-5729118/anthropic-pentagon-openai-ai-weapons",
+      "id": "fc09441f434e1cc7a1cefee9ea53864ed56e1114",
+      "title": "President Trump bans Anthropic from use in government systems",
+      "url": "https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2026-02-27T20:03:04.000Z",
       "summary_90w": "",
-      "raw": "OpenAI's Sam Altman says he shares the \"red lines\" set by rival Anthropic restricting how the military uses AI models, amid Anthropic's escalating feud with the Pentagon.",
+      "raw": "Trump announced that Federal agencies would be cease using Anthropic's tools within six months.",
       "topics": [
         "World"
       ]
@@ -117,19 +195,6 @@
       "raw": "Sweden's prime minister said it was a serious but not unexpected incident - and a \"Russian way of acting that we recognise from other places\".",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "e14f1c404674e51de73131a5d2c0ca4940b74cd4",
-      "title": "Sam Altman backs rival Anthropic in fight with Pentagon",
-      "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-02-27T19:51:59.000Z",
-      "summary_90w": "",
-      "raw": "The OpenAI leader, and much of the tech industry, is throwing support behind Anthropic.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -439,7 +504,7 @@
       "source_name": "The Verge",
       "published": "2026-02-27T17:16:53.000Z",
       "summary_90w": "",
-      "raw": "WASHINGTON, DC - JANUARY 29: U.S. Secretary of War Pete Hegseth (C) speaks during a meeting of the Cabinet as U.S. President Donald Trump (L) and U.S. Commerce Secretary Howard Lutnick (R) listen in the Cabinet Room of the White House on January 29, 2026 in Washington, DC. President Trump is holding the meeting as the Senate plans to hold a vote on a spending package to avoid another government shutdown, however Democrats are holding out for a deal to consider funding for the Department of Homeland Security.  (Photo by Win McNamee/Getty Images) | Getty Images\t\n\nCan AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully autonomous lethal weapons. \nPentagon CTO Emil Michael is pushing for Anthropic to be designated a “supply chain risk” if it doesn’t comply, a label usually only given to national security threats. Anthropic’s rivals OpenAI and xAI have reportedly agreed to the new terms, but even after a White House meeting with Defense Secretary Pete Hegseth, Anthropic CEO Dario Amodei is still refusing to cross his company’s red line, stating that “threats do not change our position: we cannot in good conscience accede to their request.”\nFollow along here for the latest updates on the clash between AI companies and the Pentagon…\nWe don’t have to have unsupervised killer robots\n\t\t\t\nAnthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance\n\t\t\t\nPete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire\n\t\t\t\nInside Anthropic’s existential negotiations with the Pentagon",
+      "raw": "WASHINGTON, DC - JANUARY 29: U.S. Secretary of War Pete Hegseth (C) speaks during a meeting of the Cabinet as U.S. President Donald Trump (L) and U.S. Commerce Secretary Howard Lutnick (R) listen in the Cabinet Room of the White House on January 29, 2026 in Washington, DC. President Trump is holding the meeting as the Senate plans to hold a vote on a spending package to avoid another government shutdown, however Democrats are holding out for a deal to consider funding for the Department of Homeland Security.  (Photo by Win McNamee/Getty Images) | Getty Images\t\n\nCan AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully autonomous lethal weapons. \nPentagon CTO Emil Michael is pushing for Anthropic to be designated a “supply chain risk” if it doesn’t comply, a label usually only given to national security threats. Anthropic’s rivals OpenAI and xAI have reportedly agreed to the new terms, but even after a White House meeting with Defense Secretary Pete Hegseth, Anthropic CEO Dario Amodei is still refusing to cross his company’s red line, stating that “threats do not change our position: we cannot in good conscience accede to their request.”\nFollow along here for the latest updates on the clash between AI companies and the Pentagon…\nTrump orders federal agencies to drop Anthropic’s AI\n\t\t\t\nEven Ilya Sutskever weighed in on the Anthropic-Pentagon situation.\n\t\t\t\nWe don’t have to have unsupervised killer robots\n\t\t\t\nAnthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance\n\t\t\t\nPete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire\n\t\t\t\nInside Anthropic’s existential negotiations with the Pentagon",
       "topics": [
         "Technology"
       ]
@@ -595,7 +660,7 @@
       "source_name": "The Verge",
       "published": "2026-02-27T16:18:26.000Z",
       "summary_90w": "",
-      "raw": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers across the industry are looking at their own companies' government and military contracts  wondering what kind of future they're helping to build. \nWhile the Department of Defense has spent weeks negotiating with Anthropic over removing its guardrails, including allowing t …\nRead the full story at The Verge.",
+      "raw": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers across the industry are looking at their own companies' government and military contracts, wondering what kind of future they're helping to build. \nWhile the Department of Defense has spent weeks negotiating with Anthropic over removing its guardrails, including allowing t …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -609,32 +674,6 @@
       "published": "2026-02-27T16:15:58.000Z",
       "summary_90w": "",
       "raw": "The multi-million pound project in Aberdeen was meant to be the future of clean public transportation.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3eec03093fc5beed6bd649e25c8692347eabf5f2",
-      "title": "OpenAI vows safety policy changes after Canada school shooting",
-      "url": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-27T16:15:30.000Z",
-      "summary_90w": "",
-      "raw": "The tech firm has been criticised for not reporting the suspect's ChatGPT account to police despite it being flagged internally due to concerns over content.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3eec03093fc5beed6bd649e25c8692347eabf5f2",
-      "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
-      "url": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-02-27T16:15:30.000Z",
-      "summary_90w": "",
-      "raw": "The tech firm has been criticised for not reporting the suspect's ChatGPT account to police despite it being flagged internally due to concerns over content.",
       "topics": [
         "World"
       ]
@@ -679,19 +718,6 @@
       ]
     },
     {
-      "id": "22864c00784c98e354196575b21475fda4c41c3d",
-      "title": "The US military reportedly shot down a CBP drone with a laser",
-      "url": "https://www.theverge.com/policy/886021/us-military-cbp-drone-laser-texas",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-02-27T15:43:43.000Z",
-      "summary_90w": "",
-      "raw": "The US-Mexico border in Fort Hancock, Texas. | Photographer: Luke Sharrett/Bloomberg via Getty Images\t\n\nThe US military mistakenly shot down a drone belonging to Customs and Border Protection near the Mexican border in Fort Hancock, Texas, according to reports from Reuters and The New York Times. The Thursday incident reportedly led the Federal Aviation Administration to close the airspace where the military fired the anti-drone laser.\nThis marks the second time this month that officials closed airspace near the US-Mexico border due to an incident involving an anti-drone laser. On February 11th, officials closed airspace around the El Paso International Airport for hours after CBP fired an anti-drone laser without coordinating with the FAA, T …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "80d0cc78353c2781179a656f5de05b57df18f9a5",
       "title": "Henry Zeffman: Green victory shows insurgent parties are here to stay",
       "url": "https://www.bbc.com/news/articles/cn0egryw20yo?at_medium=RSS&at_campaign=rss",
@@ -702,19 +728,6 @@
       "raw": "The party's historic win in Gorton and Denton by-election is clearest sign yet of changing political landscape.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "2dc15fb127dc7a95d717ffb3116df80dca48d8bf",
-      "title": "Here&#8217;s your first look at Kratos in Amazon&#8217;s God of War show",
-      "url": "https://www.theverge.com/streaming/886008/amazon-god-of-war-kratos-image",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-02-27T15:19:14.000Z",
-      "summary_90w": "",
-      "raw": "Amazon has slowly been teasing out casting details for its live-action adaptation of God of War, and now we have our first look at the show. It's a single image but a notable one showing protagonist Kratos and his son Atreus. The characters are played by Ryan Hurst and Callum Vinson, respectively, and they look relatively close to their video game counterparts.\nThere aren't a lot of other details about the show just yet, but this is Amazon's official description:\nThe God of War series storyline follows father and son Kratos and Atreus as they embark on a journey to spread the ashes of their wife and mother, Faye. Through their adventures, …\n\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1469,19 +1482,6 @@
       "raw": "Warner Bros. says Paramount's sweetened bid to buy the whole company is \"superior\" to an $83 billion deal it struck with Netflix for just its streaming services, studios, and intellectual property.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "e23bafbf9ac49b5121915b2963e7f55a649a5000",
-      "title": "How Ghislaine Maxwell brought Bill Clinton into Epstein's orbit",
-      "url": "https://www.bbc.com/news/articles/cp85jdqdyq7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-02-26T22:14:56.000Z",
-      "summary_90w": "",
-      "raw": "Documents in the Epstein files reveal how Maxwell nurtured the connection between the two men after Clinton left the White House.",
-      "topics": [
-        "World"
       ]
     },
     {
