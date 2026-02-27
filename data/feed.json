@@ -1,7 +1,72 @@
 {
-  "version": "1772222161274",
-  "generatedAt": "2026-02-27T19:56:01.274Z",
+  "version": "1772223737015",
+  "generatedAt": "2026-02-27T20:22:17.015Z",
   "items": [
+    {
+      "id": "5039a5f300efd74f4d0da1e36b1b238dc13b103c",
+      "title": "I Swear director says Baftas 'let down' Tourette's campaigner",
+      "url": "https://www.bbc.com/news/articles/cpqw15xywdzo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-27T20:14:30.000Z",
+      "summary_90w": "",
+      "raw": "Kirk Jones says he initially thought a slur shouted during the ceremony was not broadcast.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5c79fa1cda93608a17e64be6b71721e30ad62380",
+      "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
+      "url": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-02-27T20:05:04.000Z",
+      "summary_90w": "",
+      "raw": "President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d802757c32a2d2ec0d9066b8318683dc1484b607",
+      "title": "OpenAI says it shares Anthropic's 'red lines' over military AI use",
+      "url": "https://www.npr.org/2026/02/27/nx-s1-5729118/anthropic-pentagon-openai-ai-weapons",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-02-27T20:03:04.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI's Sam Altman says he shares the \"red lines\" set by rival Anthropic restricting how the military uses AI models, amid Anthropic's escalating feud with the Pentagon.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b373fb7ad50d6717fd1b56ec97d0ce6d406258e2",
+      "title": "Drone jammed near French aircraft carrier was Russian, says Sweden",
+      "url": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-02-27T19:58:25.000Z",
+      "summary_90w": "",
+      "raw": "Sweden's prime minister said it was a serious but not unexpected incident - and a \"Russian way of acting that we recognise from other places\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e14f1c404674e51de73131a5d2c0ca4940b74cd4",
+      "title": "Sam Altman backs rival Anthropic in fight with Pentagon",
+      "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-02-27T19:51:59.000Z",
+      "summary_90w": "",
+      "raw": "The OpenAI leader, and much of the tech industry, is throwing support behind Anthropic.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "33a3c8ef173706a56ef01ead5310c781805f9faa",
       "title": "Starmer vows to fight on after historic Green by-election win",
@@ -16,19 +81,6 @@
       ]
     },
     {
-      "id": "5039a5f300efd74f4d0da1e36b1b238dc13b103c",
-      "title": "I Swear director says Baftas 'let down' Tourette's campaigner",
-      "url": "https://www.bbc.com/news/articles/cpqw15xywdzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-27T19:46:43.000Z",
-      "summary_90w": "",
-      "raw": "Kirk Jones says he initially thought a slur shouted during the ceremony was not broadcast.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7366ade181f62ee5e556fb1bb35eedc30c46303a",
       "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
       "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
@@ -36,9 +88,22 @@
       "source_name": "TechCrunch",
       "published": "2026-02-27T19:42:00.000Z",
       "summary_90w": "",
-      "raw": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with non-consensual nude images.",
+      "raw": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "2544ec3b67ffed3b0c14c3430dff9715d2cd79ce",
+      "title": "Two dead and 38 injured after tram derails in Milan",
+      "url": "https://www.theguardian.com/world/2026/feb/27/tram-derails-and-crashes-into-building-in-milan",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-02-27T19:40:38.000Z",
+      "summary_90w": "",
+      "raw": "Investigation under way after vehicle ploughs into building\nA tram derailed and crashed into a building in Milan on Friday, killing two people and injuring 38 others.\nOne of the dead was hit by the tram as it derailed while the second victim was a passenger, the city’s mayor, Giuseppe Sala, told reporters at the scene.\n Continue reading...",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -101,7 +166,7 @@
       "source_name": "World news | The Guardian",
       "published": "2026-02-27T18:59:00.000Z",
       "summary_90w": "",
-      "raw": "Exclusive: memo came after Mike Huckabee’s remarks about Israel sparked alarm inside White House\n\nSign up for the Breaking News US email to get newsletter alerts direct to your inbox\n\nThe US secretary of state Marco Rubio told ambassadors in the Middle East to stop making public comments that could inflame tensions and undermine Donald Trump’s pressure on Iran to relinquish its capacity to produce a nuclear weapon, according to a memo obtained by the Guardian.\n“Giving rising tensions in the region, Chiefs of Mission and embassies at addressee posts must refrain from public statements, interviews, or social media activity that could in any way inflame regional audiences, prejudice sensitive political issues, or complicate US relationships,” the cable said.\n Continue reading...",
+      "raw": "Exclusive: memo came after Mike Huckabee’s remarks about Israel sparked alarm inside White House\n\nSign up for the Breaking News US email to get newsletter alerts direct to your inbox\n\nThe US secretary of state Marco Rubio told ambassadors in the Middle East to stop making public comments that could inflame tensions and undermine Donald Trump’s pressure on Iran to relinquish its capacity to produce a nuclear weapon, according to a memo obtained by the Guardian.\n“Given rising tensions in the region, Chiefs of Mission and embassies at addressee posts must refrain from public statements, interviews, or social media activity that could in any way inflame regional audiences, prejudice sensitive political issues, or complicate US relationships,” the cable said.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -130,19 +195,6 @@
       "raw": "On Thursday morning, I attended a Q&A panel with four top Samsung smartphone executives. Until 2025, Samsung was the world's largest smartphone manufacturer, and by association, the world's largest maker of cameras. It's still the second largest after Apple.\nSamsung handed me the microphone first. I asked:\nWe see a divide in society between people who want AI to do impressive things with their photos and videos, and those who don't want AI to do anything with photos and videos because it's eroding our ability to believe that what we have seen is real, destroying the concept of photographic evidence.\nMetadata tools like C2PA have utterl …\n\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "5c79fa1cda93608a17e64be6b71721e30ad62380",
-      "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
-      "url": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-02-27T18:45:41.000Z",
-      "summary_90w": "",
-      "raw": "President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -583,19 +635,6 @@
       "published": "2026-02-27T15:38:15.000Z",
       "summary_90w": "",
       "raw": "The party's historic win in Gorton and Denton by-election is clearest sign yet of changing political landscape.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b373fb7ad50d6717fd1b56ec97d0ce6d406258e2",
-      "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
-      "url": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-02-27T15:29:37.000Z",
-      "summary_90w": "",
-      "raw": "Sweden's prime minister said it was a serious but not expected incident - and a \"Russian way of acting that we recognise from other places\".",
       "topics": [
         "World"
       ]
@@ -1082,19 +1121,6 @@
       ]
     },
     {
-      "id": "d50463ce291645bc68276b246d37d4efc3b15ace",
-      "title": "How a 3-week babysitting gig turned into a lifelong relationship for two women",
-      "url": "https://www.npr.org/2026/02/27/nx-s1-5724148/how-a-3-week-babysitting-gig-turned-into-a-lifelong-relationship-for-two-women",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-02-27T09:43:40.000Z",
-      "summary_90w": "",
-      "raw": "Margaret Tobin accepted a three-week babysitting gig in 1989 for a newborn named Audrey that turned into a life-long relationship. The two women talk about their life together.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e64d937b385de5c3b8faf0af122b06313ce1405f",
       "title": "'They seized everything': Yemen's Houthi rebels drive aid groups to the brink",
       "url": "https://www.bbc.com/news/articles/cj4z129dq8vo?at_medium=RSS&at_campaign=rss",
@@ -1259,19 +1285,6 @@
       "published": "2026-02-27T06:02:12.000Z",
       "summary_90w": "",
       "raw": "The disgraced financier was in talks to buy luxury abode Bin Ennakhi - but the purchase was never completed.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "12377ab54cc85034875dfcacbee2b1136487bd02",
-      "title": "Firefighters in Sicily rescue 400 rare library books from precipice after landslide",
-      "url": "https://www.theguardian.com/world/2026/feb/27/firefighters-sicily-rescue-400-rare-books-library-after-landslide",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-02-27T06:00:34.000Z",
-      "summary_90w": "",
-      "raw": "Landslide in Niscemi in January tore away entire slope of town and carved 4km chasm\nFirefighters in Sicily have rescued about 400 rare books from a library in Niscemi that hangs on the edge of a mudflow, after a devastating landslide in January tore away an entire slope of the town and carved a 4km chasm.\nThe library stands on the lip of the precipice gouged out by the landslide, with part of the building in effect hanging in mid-air. The recovery operation, which began on Monday, was preceded by a detailed study of floor plans and interior photographs to map the position of the books.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1797,19 +1810,6 @@
       ]
     },
     {
-      "id": "ca74a7d15aae76bd39c8eccb0fbd6ff4dc8ec8ce",
-      "title": "Tipped workers expect tax boon this year, but not a long-term fix",
-      "url": "https://www.npr.org/2026/02/25/nx-s1-5684227/trump-tax-tips-state-union",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-02-25T19:30:48.000Z",
-      "summary_90w": "",
-      "raw": "In his State of the Union address on Tuesday night, President Trump once again touted new tax benefits for tipped workers, who like many Americans are feeling the pinch of higher prices.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
       "id": "c47e39b459e788077b80dc2579b90f4539c86d69",
       "title": "Brazilian politician brothers convicted of ordering murder of Rio city councillor",
       "url": "https://www.theguardian.com/world/2026/feb/25/brazil-politician-brothers-convicted-murder",
@@ -2122,19 +2122,6 @@
       ]
     },
     {
-      "id": "b84809a29169a67f3fa296ce084c4a3034b26527",
-      "title": "NASA chief blasts Boeing, space agency for failed Starliner astronaut mission",
-      "url": "https://www.npr.org/2026/02/19/nx-s1-5719870/nasa-starliner-boeing-mishap-isaacman",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2026-02-20T01:17:42.000Z",
-      "summary_90w": "",
-      "raw": "NASA's Jared Isaacman slammed Boeing for failures with its Starliner spacecraft, which was deemed unsafe to return its crew of two astronauts from the International Space Station",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "ea93eb692865e6b04ea73168eda8f10b13b13082",
       "title": "How do you modernise mango farming?",
       "url": "https://www.bbc.com/news/articles/c86yl809ld6o?at_medium=RSS&at_campaign=rss",
@@ -2221,19 +2208,6 @@
       "published": "2026-02-18T11:58:27.000Z",
       "summary_90w": "",
       "raw": "Activision Blizzard UK Ltd said the ad for Call of Duty: Black Ops 7 was targeted at adults.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "630bc6f84c621b8cab9b550326b6a83ebe336efb",
-      "title": "'I do not trust them' - top streamers left concerned by Discord age checks",
-      "url": "https://www.bbc.com/news/articles/cn4g8ynpwl8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-02-18T01:47:12.000Z",
-      "summary_90w": "",
-      "raw": "The platform's plan to roll out global age checks has caused concern in streaming communities.",
       "topics": [
         "Technology"
       ]
