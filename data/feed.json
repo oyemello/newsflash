@@ -1,10 +1,88 @@
 {
-  "version": "1772826669522",
-  "generatedAt": "2026-03-06T19:51:09.522Z",
+  "version": "1772828657418",
+  "generatedAt": "2026-03-06T20:24:17.418Z",
   "items": [
     {
+      "id": "ce995493e2bddebb8ea6dc1b776576227289d2f7",
+      "title": "OSHA probing fatality at Rivian warehouse",
+      "url": "https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-03-06T20:23:08.000Z",
+      "summary_90w": "",
+      "raw": "A 61-year-old worker died on Thursday after reportedly getting stuck between a truck trailer and a loading dock.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "026aba721e2c1f2dd43767fb55ed34d196884c6d",
+      "title": "Oil surges to its highest price since 2023, and stocks drop after U.S. jobs report",
+      "url": "https://www.npr.org/2026/03/06/g-s1-112788/oil-prices-stocks-jobs-report",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-03-06T20:17:20.000Z",
+      "summary_90w": "",
+      "raw": "Stocks fell Friday on worries that the economy could become stuck in a worst-case scenario of stagnating growth and high inflation. Oil prices touched their highest levels since 2023 after surging again because of the Iran war.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ee61399e69670ca0f8d816688828b3456d8b57e8",
+      "title": "The Trump administration says it can’t process tariff refunds because of computer problems",
+      "url": "https://www.theverge.com/policy/890904/trump-administration-cbp-tariff-refunds-technology-issues",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-03-06T20:17:08.000Z",
+      "summary_90w": "",
+      "raw": "The US Customs and Border Protection says it currently can't comply with an order to process billions of dollars in refunds stemming from tariffs imposed by President Donald Trump. In a filing on Friday, CBP executive director Brandon Lord says the agency's digital import processing system is \"not well suited to a task of this scale,\" as reported earlier by CNBC. \nThe CBP's admission comes after the Supreme Court struck down the tariffs imposed by Trump under the International Emergency Economic Powers Act (IEEPA) last month. This week, the International Trade Court ruled that importers impacted by the tariffs are entitled to refunds with i …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "5648608b6f3f69df34b146a03c81987c8c74000c",
+      "title": "Middle East crisis live: Israel bombs Tehran and Beirut as White House says campaign may take four to six weeks",
+      "url": "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-06T20:03:56.000Z",
+      "summary_90w": "",
+      "raw": "Israel launched huge attacks on Iran and Lebanon overnight; Karoline Leavitt says Donald Trump will consider Iran to have surrendered once it no longer ‘poses a threat’ to the US\n\nTell us: how have you been affected by the latest events in the Middle East?\n\nIran and Lebanon were hit with a wave of intense Israeli strikes overnight.\nIsrael’s military said Friday morning it had begun “a broad-scale wave of strikes” on Tehran, Iran’s capital.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bbe9dbb70230a6a1d1388266ba81d3981815cb99",
+      "title": "Cyprus raises doubts about future of British bases on island after drone strike",
+      "url": "https://www.theguardian.com/world/2026/mar/06/cyprus-raises-doubts-about-future-of-british-bases-on-island-after-drone-strike",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-06T20:01:11.000Z",
+      "summary_90w": "",
+      "raw": "Foreign minister wants ‘conversation’ about closing UK military sites following British government not warning of impending attack on RAF Akrotiri \n\nMiddle East crisis – live updates\n\nCyprus’s foreign minister has said there are “questions” over the future presence of UK military bases on the island after the drone strike last Sunday.\nThe drone strike on RAF Akrotiri, suspected to have been launched by Hezbollah in Lebanon, caused minimal damage and did not result in casualties.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "93ded11e0e5575f3d7a798eb57eb94f8f053e461",
+      "title": "No lawsuits required: U.S. Customs is working on a system to refund tariffs",
+      "url": "https://www.npr.org/2026/03/06/nx-s1-5739361/tariff-refunds-customs-lawsuits-trade-court",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-03-06T19:54:40.000Z",
+      "summary_90w": "",
+      "raw": "U.S. Customs told the trade court it aims for a streamlined process in 45 days to return importers' money without requiring individual lawsuits.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "f7bb7d3291f681b46f186da824a2e83a6a08c3ff",
-      "title": "Microsoft, Google say Anthropic Claude remains available to non-defense customers",
+      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
       "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -29,14 +107,14 @@
       ]
     },
     {
-      "id": "5648608b6f3f69df34b146a03c81987c8c74000c",
-      "title": "Middle East crisis live: Israel bombs Tehran and Beirut as Trump says no deal with Iran ‘except unconditional surrender’",
-      "url": "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-06T19:38:41.000Z",
+      "id": "c8625b525be157d414564dc168c43c6aa64df468",
+      "title": "Mexico to deploy 100,000 security personnel for World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/ce8wjwyjndyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-06T19:24:59.000Z",
       "summary_90w": "",
-      "raw": "Israel launched huge attacks on Iran and Lebanon overnight\n\nTell us: how have you been affected by the latest events in the Middle East?\n\nIran and Lebanon were hit with a wave of intense Israeli strikes overnight.\nIsrael’s military said Friday morning it had begun “a broad-scale wave of strikes” on Tehran, Iran’s capital.\n Continue reading...",
+      "raw": "World Cup co-hosts Mexico plan to deploy nearly 100,000 security personnel to protect fans at this summer's tournament, amid ongoing cartel violence in the country.",
       "topics": [
         "World"
       ]
@@ -218,7 +296,7 @@
       "source_name": "World news | The Guardian",
       "published": "2026-03-06T18:27:24.000Z",
       "summary_90w": "",
-      "raw": "US president again calls on Iranian people to overthrow government or face ‘absolutely guaranteed death’\n\nMiddle East crisis – live updates\n\nDonald Trump has said only Iran’s “unconditional surrender” will bring an end to the joint US-Israeli offensive launched seven days ago, as the two powers’ warplanes carried out some of the heaviest bombardments so far in the spiralling conflict.\n“There will be no deal with Iran except UNCONDITIONAL SURRENDER,” Trump wrote on his Truth Social platform on Friday, when US strategic bombers were in action over Iran and intensive Israeli strikes in Lebanon forced more than a million people to flee their homes.\n Continue reading...",
+      "raw": "US president again calls on Iranian people to overthrow government or face ‘absolutely guaranteed death’\n\nMiddle East crisis – live updates\n\nDonald Trump has said only Iran’s “unconditional surrender” will bring an end to the offensive launched seven days ago, as the US and Israel carried out some of the heaviest bombardments so far in the conflict.\n“There will be no deal with Iran except UNCONDITIONAL SURRENDER,” Trump wrote on his Truth Social platform on Friday, when US strategic bombers were in action over Iran and intensive Israeli strikes in Lebanon forced more than a million people to flee their homes.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -257,7 +335,7 @@
       "source_name": "BBC News",
       "published": "2026-03-06T18:04:17.000Z",
       "summary_90w": "",
-      "raw": "Thheiba and Fidda were 22-years-old and were the remaining two females of a pride at the zoo, with one male lion named Qays remaining.",
+      "raw": "Thheiba and Fidda were 22 years old and were the remaining two females of a pride at Belfast zoo.",
       "topics": [
         "World"
       ]
@@ -679,19 +757,6 @@
       ]
     },
     {
-      "id": "f4abdded29c7719f532a3ebd03735ae9b0ad5f67",
-      "title": "Almost 150 injured at LFC parade before Doyle incident, report reveals",
-      "url": "https://www.bbc.com/news/articles/cewz7yrxw2jo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-06T14:45:47.000Z",
-      "summary_90w": "",
-      "raw": "A report into traffic and crowd management at the event last May calls for tighter rules on flares.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "2daadea4eb631cdd74360a5a3d7b99202685bc8f",
       "title": "Harry Styles gives pupils at old school 100 free tickets for show",
       "url": "https://www.bbc.com/news/articles/cly1j4x2djro?at_medium=RSS&at_campaign=rss",
@@ -874,19 +939,6 @@
       ]
     },
     {
-      "id": "de7f4b0fe1630569563e4776e3b3f7ed72f19fc4",
-      "title": "BP’s new boss will take home at least £11.7m this year, more than double her predecessor",
-      "url": "https://www.theguardian.com/business/2026/mar/06/bp-new-boss-will-earn-more-than-double-predecessor",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-06T13:27:55.000Z",
-      "summary_90w": "",
-      "raw": "Meg O’Neill will be first woman to serve as CEO of 117-year-oil firm when joining from Woodside Energy in April\nThe incoming chief executive of BP will take home at least £11.7m this year after joining the embattled oil company from a rival, more than double the pay packet earned by her predecessor.\nMeg O’Neill will join BP from the Australian oil company Woodside Energy in April as the company’s first external hire to its top job, and the first woman to serve as chief executive at the 117-year-old oil major.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "4087db37cb5c12e35aad0c5588c82dd068886836",
       "title": "Indonesia to ban social media and other online platforms for under 16s",
       "url": "https://www.bbc.com/news/articles/cvg50168ddgo?at_medium=RSS&at_campaign=rss",
@@ -921,32 +973,6 @@
       "published": "2026-03-06T13:00:00.000Z",
       "summary_90w": "",
       "raw": "Marathon is weird as hell - and I mean that in the best possible way. The latest game from Destiny studio Bungie mixes the slick gunplay the developer is known for with a dark, and frankly bizarre, sci-fi universe. It's part of the burgeoning \"extraction shooter\" subgenre, where teams of players are dropped into a hostile environment and tasked with getting the hell out. After just a few hours with the game, I'm eager to play more, both because the core action is so satisfying and to make sense of this mystifying universe. But as much as I'm enjoying Marathon right now, I'm also wary about its future because I have no idea how long it will l …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "86c0e4aa9555452bc59b02633823afed2baedee7",
-      "title": "Trump fires Kristi Noem. And, DOJ releases some missing Epstein files",
-      "url": "https://www.npr.org/2026/03/06/g-s1-112721/up-first-newsletter-kristi-noem-iran-beirut-trump-epstein-venezuela",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-03-06T12:14:47.000Z",
-      "summary_90w": "",
-      "raw": "President Trump has fired DHS Secretary Kristi Noem and named Sen. Markwayne Mullin as her replacement. And, the Justice Department released some missing Epstein files.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0aaf089765fe68079671a6ac21a9a92310eb5bd7",
-      "title": "Meet your new phone away from phone",
-      "url": "https://www.theverge.com/tech/889756/mwc-2026-unihertz-light-phone-clicks",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-03-06T12:00:00.000Z",
-      "summary_90w": "",
-      "raw": "BlackBerries are so back. | Photo: Allison Johnson / The Verge\t\n\nUnihertz's booth at MWC was a little out of the way, but those who did find it all seemed to want to pick up the Titan Elite 2. Sure, the cosmic orange color attracted attention, and the QWERTY keyboard reminded one showgoer of his old BlackBerry. But once I picked it up, I could see why it was so popular. It's slim, light, and pocketable, and the physical keys just beg to be pressed. I felt unencumbered, which I can't say about the phone I'm currently using. I didn't want to put it down, and based on the steady stream of visitors I saw at the booth, I wasn't alone.\nAs usual, MWC offered a bunch of odd and delightful ideas about phones that …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -1038,19 +1064,6 @@
       "published": "2026-03-06T11:12:07.000Z",
       "summary_90w": "",
       "raw": "Noem boosted deportations during her first year, but her controversies reportedly frustrated Trump.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9a3ac4a49718ef7fd967f5360cf86215278c38ab",
-      "title": "Taking the heat. Scientists explore sauna's health benefits",
-      "url": "https://www.npr.org/2026/03/06/nx-s1-5719268/sauna-heat-health-benefits-science",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-03-06T11:00:00.000Z",
-      "summary_90w": "",
-      "raw": "It's an age old practice that's having a moment right now. But is there anything to the health claims? Scientists say sauna is more than hot air.",
       "topics": [
         "World"
       ]
@@ -1443,19 +1456,6 @@
       "raw": "Businesses that paid more than 100-billion dollars in tariffs are waiting to find out when they'll get their money back, after the Supreme Court ruled those import taxes were illegal.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "3cdbf05bd32c0e87cb9e93df85d700cb7d5473b5",
-      "title": "Amazon is rolling out a redesigned Fire TV app",
-      "url": "https://techcrunch.com/2026/03/05/amazon-is-rolling-out-a-redesigned-fire-tv-app/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-03-05T20:45:38.000Z",
-      "summary_90w": "",
-      "raw": "With the updated Fire TV app, users can browse and discover content directly from their phone, manage their watchlist on the go, and play titles on their TV from the mobile app.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1862,19 +1862,6 @@
       ]
     },
     {
-      "id": "a72a1d7c5b8eeb54d095cff1bf7d702ae62c77bd",
-      "title": "The candy heir vs. chocolate skimpflation",
-      "url": "https://www.npr.org/sections/planet-money/2026/03/03/g-s1-111940/the-candy-heir-vs-chocolate-skimpflation",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-03-03T11:30:00.000Z",
-      "summary_90w": "",
-      "raw": "The grandson of the Reese's Peanut Butter Cups creator has launched a campaign against The Hershey Company, which owns the Reese's brand. He wants them to stop skimping on ingredients.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
       "id": "7596729f7e5157ae2ababf088912a0d5d3f7e4ec",
       "title": "Scientists make a pocket-sized AI brain with help from monkey neurons",
       "url": "https://www.npr.org/2026/03/03/nx-s1-5729433/ai-brain-monkey-neurons",
@@ -1911,19 +1898,6 @@
       "raw": "The incidents highlight the vulnerability of key technology infrastructure during military conflicts.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "5b872970da4c2f3ebc276a6e55914aa3541db8b0",
-      "title": "Oil prices surge, but no panic yet, as Iran war continues",
-      "url": "https://www.npr.org/2026/03/02/nx-s1-5732287/iran-war-oil-gasoline-prices",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-03-02T14:42:13.000Z",
-      "summary_90w": "",
-      "raw": "Global oil prices are in the high $70s as traffic through Strait of Hormuz comes to a halt. Some analysts have warned they could top $100 a barrel if the stoppage is prolonged.",
-      "topics": [
-        "Business"
       ]
     },
     {
