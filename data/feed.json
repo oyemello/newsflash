@@ -1,6 +1,6 @@
 {
-  "version": "1773047086243",
-  "generatedAt": "2026-03-09T09:04:46.243Z",
+  "version": "1773050391119",
+  "generatedAt": "2026-03-09T09:59:51.119Z",
   "items": [
     {
       "id": "1ace860480a92152b68075a03edb6c8c5bb08ab2",
@@ -8,9 +8,22 @@
       "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-03-09T08:57:06.000Z",
+      "published": "2026-03-09T09:55:59.000Z",
       "summary_90w": "",
       "raw": "Chancellor Rachel Reeves will join talks amid reports that oil reserves could be released to lower prices.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0feba24c17a5b4523161a8f7f6c841b3025a575e",
+      "title": "World shares tumble as Iran war pushes crude prices over $110 a barrel",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5742307/world-shares-tumble-iran-war",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-03-09T09:44:22.000Z",
+      "summary_90w": "",
+      "raw": "World shares tumbled on Monday, with Japan's benchmark Nikkei 225 index plunging more than 5%, after oil prices spiked at nearly $120 a barrel.",
       "topics": [
         "World"
       ]
@@ -21,9 +34,74 @@
       "url": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-03-09T08:41:35.000Z",
+      "published": "2026-03-09T09:22:18.000Z",
       "summary_90w": "",
       "raw": "Iran has named hardliner Mojtaba Khamenei as the country’s new supreme leader; Donald Trump says oil price spike ‘a small price to pay’ as markets tumble\n\nFull report: Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader\n\nTell us: how have you been affected by the latest events in the Middle East?\n\nDonald Trump has said a decision on when to end the war with Iran will be a “mutual” one he’ll make together with Benjamin Netanyahu, the Times of Israel has reported.\nIt said Trump also claimed in a brief telephone interview on Sunday that Iran would have destroyed Israel if he and Netanyahu had not been around. The US president said:\nIran was going to destroy Israel and everything else around it … We’ve worked together. We’ve destroyed a country that wanted to destroy Israel.\nI think it’s mutual … a little bit. We’ve been talking. I’ll make a decision at the right time, but everything’s going to be taken into account.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "36e27a8332e9213212289d6fadda3b040c92bfe7",
+      "title": "Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader",
+      "url": "https://www.theguardian.com/world/2026/mar/08/ali-khameneis-son-mojtaba-chosen-as-irans-new-supreme-leader",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-09T09:07:31.000Z",
+      "summary_90w": "",
+      "raw": "Move could lead to escalation of war as Donald Trump has already called Mojtaba Khamenei an ‘unacceptable’ choice\n\nMiddle East crisis - live updates\n\nMojtaba Khamenei, the second son of the late Iranian supreme leader Ayatollah Ali Khamenei, has been chosen as his successor, as the war enters its 10th day and fresh missile and drone strikes reverberate across the Middle East.\nAfter members of the clerical body responsible for selecting Iran’s highest authority announced the decision on Sunday, Iranian institutions and politicians, from the foreign ministry to lawmakers, issued statements expressing their allegiance. “We will obey the commander-in-chief until the last drop of our blood,” a statement from the defence council said.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "21ef4ba4d83120c548449604408aa0008f8798a6",
+      "title": "Come along with some geese as they migrate back from their southern winter havens",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5737528/canada-snow-geese-migration",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-03-09T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Geese's iconic \"V\" formations and trademark squawks can be seen and heard overhead as they go back and forth to the south through the year. But what does it take for such a long trip?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "46db31cd3cd572d037adf6d66db5ecdbbca8f62c",
+      "title": "Kids' willpower is no match for fast food and screens. Try this instead",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5736553/fast-food-screens-kids-health",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-03-09T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "For decades, parents were told to help children build willpower like a muscle, to resist things like junk food and too much time on their screens. But new research suggests a better strategy.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ec7c00276807a93139cb9b840703ed532e824d64",
+      "title": "Millions more people are in the path of rising seas than previously thought",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5741796/rising-seas-climate-change-study",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-03-09T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Oceans are rising as the climate changes, threatening coastal cities. A new study shows that much more of the world's population is vulnerable than earlier predictions had estimated.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2454c6072d294d2b5557b4f3c159081d9caded69",
+      "title": "The next redistricting battle might be who is counted in state legislative districts",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5613878/us-census-citizenship-question-redistricting",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-03-09T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "A Republican push to alter the census may lead to a radical shift in redistricting for state legislatures — drawing districts that don't take into account children and non-U.S. citizen adults.",
       "topics": [
         "World"
       ]
@@ -55,32 +133,6 @@
       ]
     },
     {
-      "id": "07fa5e04fc93ef5c64e1891d8d051d3edfc1e364",
-      "title": "Candace Owens takes on Erica Kirk in 'The Bride of Charlie'",
-      "url": "https://www.npr.org/2026/03/09/nx-s1-5727774/candace-owens-takes-on-erica-kirk-in-the-bride-of-charlie",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-03-09T08:27:30.000Z",
-      "summary_90w": "",
-      "raw": "NPR's Michel Martin speaks with Slate staff writer Molly Olmstead about \"The Bride of Charlie,\" a series by conservative pundit Candace Owens that takes on Erika Kirk, the widow of Charlie Kirk.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
-      "id": "c1a3cc8a4f8846350fd196cd75f5c34621ed63e7",
-      "title": "Iran war bottlenecks vital waterway raising fears of a global energy crisis",
-      "url": "https://www.npr.org/2026/03/09/nx-s1-5734345/iran-war-bottlenecks-vital-waterway-raising-fears-of-a-global-energy-crisis",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-03-09T08:26:01.000Z",
-      "summary_90w": "",
-      "raw": "War chokes the Strait of Hormuz, leaving hundreds of oil tankers and container ships stranded and raising alarms of a looming global energy shock and food shortages across the Gulf and beyond.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
       "id": "794d2073a96c6fc8890ab871f4d488158728ee34",
       "title": "Istanbul's ex-mayor to stand trial on corruption charges",
       "url": "https://www.bbc.com/news/articles/c204ymjnn80o?at_medium=RSS&at_campaign=rss",
@@ -91,19 +143,6 @@
       "raw": "Ekrem Imamoglu is seen as Turkish President Recep Tayyip Erdogan's main political rival.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "857919ea4059f61403013190789c944ca78f7fd2",
-      "title": "Judge rules Kari Lake unlawfully ran Voice of America, mass layoffs void",
-      "url": "https://www.npr.org/2026/03/09/nx-s1-5741735/judge-rules-kari-lake-unlawfully-ran-voice-of-america-mass-layoffs-void",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-03-09T08:23:23.000Z",
-      "summary_90w": "",
-      "raw": "A federal judge has ruled that Kari Lake does not have legal standing to oversee the Voice of America and its parent agency, and nullified her actions, including mass layoffs.",
-      "topics": [
-        "Business"
       ]
     },
     {
@@ -128,19 +167,6 @@
       "published": "2026-03-09T08:06:56.000Z",
       "summary_90w": "",
       "raw": "Greens senator sounds warning as Labor expected to announce possible defence measures to protect Gulf countries within days\n\nGet our breaking news email, free app or daily news podcast\n\nThe Greens say sending military support to Gulf countries would only serve Donald Trump’s interests in the growing Iran war, as international law experts warn assistance would mean Australia was legally part of the conflict.\nCabinet’s national security committee met on Monday to consider requests for Australia to provide help to countries feeling the brunt of Tehran’s missile attack, sparked by bombings ordered by the US president and Israel.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "36e27a8332e9213212289d6fadda3b040c92bfe7",
-      "title": "Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader",
-      "url": "https://www.theguardian.com/world/2026/mar/08/ali-khameneis-son-mojtaba-chosen-as-irans-new-supreme-leader",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-09T07:59:25.000Z",
-      "summary_90w": "",
-      "raw": "Move could lead to escalation of war as Donald Trump has already called Mojtaba Khamenei an ‘unacceptable’ choice\n\nMiddle East crisis - live updates\n\nMojtaba Khamenei, the second son of the late Iranian supreme leader Ayatollah Ali Khamenei, has been chosen as his successor, as the war entered its 10th day and fresh missile and drone strikes reverberated across the Middle East.\nMembers of the clerical body responsible for selecting Iran’s highest authority announced the decision on Sunday, calling on Iranians to rally behind him and preserve national unity.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -348,14 +374,14 @@
       "source_name": "World news | The Guardian",
       "published": "2026-03-09T05:00:41.000Z",
       "summary_90w": "",
-      "raw": "President of Antwerp court makes comments after anonymous judge warned country was turning into ‘a narco-state’\nInternational drug crime poses a danger to social stability in Belgium, a senior judge has said, after his colleague warned the country was evolving into “a narco-state” where mafia groups were forming “a parallel force” in society.\nBart Willocx, the president of the Antwerp court of appeal, said Belgium was vulnerable to criminality from drug smuggling through the city’s vast port, one of the main entry points into Europe for cocaine smugglers.\n Continue reading...",
+      "raw": "President of Antwerp court says international drug crime is posing danger to social stability in Belgium\nInternational drug crime poses a danger to social stability in Belgium, a senior judge has said, after his colleague warned the country was evolving into “a narco-state” where mafia groups were forming “a parallel force” in society.\nBart Willocx, the president of the Antwerp court of appeal, said Belgium was vulnerable to criminality from drug smuggling through the city’s vast port, one of the main entry points into Europe for cocaine smugglers.\n Continue reading...",
       "topics": [
         "World"
       ]
     },
     {
       "id": "d6f9a5a1995b3e24e667c3eb2e7794a9d0985c53",
-      "title": "Gambling crackdown in Romania as councils can ban betting shops and slot machines",
+      "title": "Gambling crackdown in Romania as councils can ban ‘toxic’ betting shops",
       "url": "https://www.theguardian.com/society/2026/mar/09/romania-gambling-decree-allowing-betting-shop-slot-machine-bans",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
@@ -556,7 +582,7 @@
       "source_name": "BBC News",
       "published": "2026-03-09T00:13:32.000Z",
       "summary_90w": "",
-      "raw": "A masked fan unplugged a VAR monitor in a German second division match as the referee was went to the pitchside screen to check a penalty award.",
+      "raw": "A masked fan unplugged a VAR monitor in a German second division match as the referee went to the pitchside screen to check a penalty award.",
       "topics": [
         "World"
       ]
@@ -653,19 +679,6 @@
       ]
     },
     {
-      "id": "b59ebfc0602157588583e2b1067768a7fa161364",
-      "title": "Georgia's special election to fill vacated House seat",
-      "url": "https://www.npr.org/2026/03/08/nx-s1-5737505/georgias-special-election-to-fill-vacated-house-seat",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-03-08T21:06:17.000Z",
-      "summary_90w": "",
-      "raw": "Voters in Northwest Georgia are choosing who should replace former Congresswoman Marjorie Taylor Greene as voting closes in a special election Tuesday. In a crowded race, the weight of Trump's endorsement will be tested.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7e2f3845762d5be1ba4aa51e0dc2628cd2c9e27d",
       "title": "Swiss reject right-wing plan to cut licence fee for public broadcaster",
       "url": "https://www.bbc.com/news/articles/c0q32322wq8o?at_medium=RSS&at_campaign=rss",
@@ -682,13 +695,13 @@
       "id": "d06eaf4213286b505bbdf918b6d94759468aebc3",
       "title": "OpenAI robotics leader resigns over concerns about Pentagon AI deal",
       "url": "https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-03-08T20:44:11.000Z",
       "summary_90w": "",
       "raw": "A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -718,19 +731,6 @@
       ]
     },
     {
-      "id": "2411412fb788059defe14c771caa32b28ad400b7",
-      "title": "Trump says he won't sign bills until Congress overhauls voting",
-      "url": "https://www.npr.org/2026/03/08/g-s1-112917/trump-says-he-wont-sign-bills-until-congress-overhauls-voting",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-03-08T19:48:23.000Z",
-      "summary_90w": "",
-      "raw": "President Trump is pushing the Senate to abandon the filibuster and pass SAVE American Act, a bill top Democrat calls 'Jim Crow 2.0'",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "85552c729bc9acc0cb813bcbe8ecc377e452cf31",
       "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
       "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
@@ -739,19 +739,6 @@
       "published": "2026-03-08T18:32:37.000Z",
       "summary_90w": "",
       "raw": "Police say they are investigating other motives after the blast caused minor damage to the embassy building.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "2d6d0c4952095fec6784af0b72ae6774e009dd9b",
-      "title": "Photos: Scenes from Jesse Jackson's homegoing services",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/03/08/g-s1-112915/photos-scenes-from-jesse-jacksons-homegoing-services",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-03-08T18:20:00.000Z",
-      "summary_90w": "",
-      "raw": "Thousands showed up in Chicago over the weekend to pay respects to the civil rights leader, who died last month at the age of 84.",
       "topics": [
         "World"
       ]
@@ -777,22 +764,9 @@
       "source_name": "The Verge",
       "published": "2026-03-08T17:51:15.000Z",
       "summary_90w": "",
-      "raw": "Fresh off launching the low-cost MacBook Neo, Apple is reportedly preparing at least three new products that will fit into its highest-end \"ultra\" lineup. According to Bloomberg's Mark Gruman, the next batch of releases may not bear the \"ultra\" name, like its Watch, but will all command price premiums over their mainline counterparts.\nThere's the oft-rumored foldable iPhone, which is expected to cost around $2,000, and a touchscreen MacBook Pro is supposedly slated for the fall. Those are pretty straightforward plays for the higher end of the market. More interesting are the next-gen AirPods, which are rumored to include cameras to feed vis …\nRead the full story at The Verge.",
+      "raw": "Fresh off launching the low-cost MacBook Neo, Apple is reportedly preparing at least three new products that will fit into its highest-end \"ultra\" lineup. According to Bloomberg's Mark Gurman, the next batch of releases may not bear the \"ultra\" name, like its Watch, but will all command price premiums over their mainline counterparts.\nThere's the oft-rumored foldable iPhone, which is expected to cost around $2,000, and a touchscreen MacBook Pro is supposedly slated for the fall. Those are pretty straightforward plays for the higher end of the market. More interesting are the next-gen AirPods, which are rumored to include cameras to feed vis …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "a8a06f0ba6453ce12aec28fc1f62d55795c1af78",
-      "title": "Five key takeaways from an annual briefing by China's foreign minister",
-      "url": "https://www.npr.org/2026/03/08/nx-s1-5741742/five-key-takeaways-from-an-annual-briefing-by-chinas-foreign-minister",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-03-08T17:42:46.000Z",
-      "summary_90w": "",
-      "raw": "Speaking at a political gathering in Beijing, China's foreign minister Wang Yi outlined his country's positions on the war in Iran and general relations with America.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -842,7 +816,7 @@
       "source_name": "The Verge",
       "published": "2026-03-08T16:00:00.000Z",
       "summary_90w": "",
-      "raw": "The opening notes of \"Kravitz\", which kicks off Mabe Fratti's 2024 record Sentir Que No Sabes, are lodged in my brain permanently. It's not a showy album, by any means. But there's something about the buzzing of her cello, plucked as you might an upright bass. The way they ring out before coming to an abrupt stop, fuzz still hanging in the air, set against a simple kick and snare sat firmly in the pocket. There's something industrial about the way it all comes together, like a jazzy \"Closer.\" \nThen come Fratti's paranoid lyrics in Spanish about ears in the ceiling and someone listening through the walls, and the slightly atonal horn blasts. …\nRead the full story at The Verge.",
+      "raw": "The opening notes of \"Kravitz,\" which kicks off Mabe Fratti's 2024 record Sentir Que No Sabes, are lodged in my brain permanently. It's not a showy album, by any means. But there's something about the buzzing of her cello, plucked as you might an upright bass. The way they ring out before coming to an abrupt stop, fuzz still hanging in the air, set against a simple kick and snare sat firmly in the pocket. There's something industrial about the way it all comes together, like a jazzy \"Closer.\" \nThen come Fratti's paranoid lyrics in Spanish about ears in the ceiling and someone listening through the walls, and the slightly atonal horn blasts. …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -851,7 +825,7 @@
       "id": "056bc069a10835e8bdf9696ced5bdebcdb7ef658",
       "title": "Unanswered questions as search for Nancy Guthrie enters a new month",
       "url": "https://www.bbc.com/news/articles/cp32lwy4077o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-03-08T15:03:16.000Z",
       "summary_90w": "",
@@ -868,7 +842,7 @@
       "source_name": "The Verge",
       "published": "2026-03-08T15:00:00.000Z",
       "summary_90w": "",
-      "raw": "There is so much art out there that it’s absolutely impossible to keep up. Whether it’s a slept-on post-punk album from the ‘80s, a new sci-fi novel, or a cult classic horror movie, we’re always finding new obsessions here at The Verge — and we want to share those obsessions with you. Sometimes that might be a new release, but often it’s going to be something a little older, something not necessarily plastered all over TikTok or sitting at the top of the charts on Spotify.\nWe’ve said it before, but the best way to find new music, a new show to binge, or a self-help book that isn’t pure trash is to skip the algorithm and get a recommendation from actual humans. And it just so happens that The Verge employs a number of those (humans, that is). So checkback regularly for new art to fall in love with, and tell us about your latest obsessions in the comments. Maybe your new favorite album will become one of our new favorites, too.\n\n\n\t\t\t\t\t\nListen to this: Mabe Fratti’s experimental cello pop\n\t\t\t\nYou need to listen to Laurie Spiegel’s masterpiece of early ambient music\n\t\t\t\nYou need to watch the intensely surreal cult classic Possession\n\t\t\t\nYou need to listen to the new Mandy, Indiana record: URGH\n\t\t\t\nYou need to listen to M83’s icy post-rock record Dead Cities, Red Seas & Lost Ghosts\n\t\t\t\nYou need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd\n\t\t\t\nYou need to read the subversive cosmic horror novella The Ballad of Black Tom\n\t\t\t\nYou need to listen to these Christmas deep cuts\n\t\t\t\nYou need to listen to Sudan Archives’ violin opus for the club\n\t\t\t\nYou need to watch the modern horror masterpiece His House\n\t\t\t\nYou need to read the treatise on spacing out, Bored and Brilliant\n\t\t\t\nYou need to listen to the searing noise pop album Forever in Your Heart\n\t\t\t\nYou need to listen to this compilation of ‘80s Spanish ambient and electronic music\n\t\t\t\nYou need to watch the found footage classic, Lake Mungo\n\t\t\t\nYou need to listen to the brutally oppressive I’ve Seen All I Need to See\n\t\t\t\nYou need to read the epic Argentinian horror novel Our Share of Night\n\t\t\t\nYou need to watch the bonkers Japanese fantasy horror film House",
+      "raw": "There is so much art out there that it’s absolutely impossible to keep up. Whether it’s a slept-on post-punk album from the ’80s, a new sci-fi novel, or a cult classic horror movie, we’re always finding new obsessions here at The Verge — and we want to share those obsessions with you. Sometimes that might be a new release, but often it’s going to be something a little older, something not necessarily plastered all over TikTok or sitting at the top of the charts on Spotify.\nWe’ve said it before, but the best way to find new music, a new show to binge, or a self-help book that isn’t pure trash is to skip the algorithm and get a recommendation from actual humans. And it just so happens that The Verge employs a number of those (humans, that is). So checkback regularly for new art to fall in love with, and tell us about your latest obsessions in the comments. Maybe your new favorite album will become one of our new favorites, too.\n\n\n\t\t\t\t\t\nListen to this: Mabe Fratti’s experimental cello pop\n\t\t\t\nYou need to listen to Laurie Spiegel’s masterpiece of early ambient music\n\t\t\t\nYou need to watch the intensely surreal cult classic Possession\n\t\t\t\nYou need to listen to the new Mandy, Indiana record: URGH\n\t\t\t\nYou need to listen to M83’s icy post-rock record Dead Cities, Red Seas & Lost Ghosts\n\t\t\t\nYou need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd\n\t\t\t\nYou need to read the subversive cosmic horror novella The Ballad of Black Tom\n\t\t\t\nYou need to listen to these Christmas deep cuts\n\t\t\t\nYou need to listen to Sudan Archives’ violin opus for the club\n\t\t\t\nYou need to watch the modern horror masterpiece His House\n\t\t\t\nYou need to read the treatise on spacing out, Bored and Brilliant\n\t\t\t\nYou need to listen to the searing noise pop album Forever in Your Heart\n\t\t\t\nYou need to listen to this compilation of ‘80s Spanish ambient and electronic music\n\t\t\t\nYou need to watch the found footage classic, Lake Mungo\n\t\t\t\nYou need to listen to the brutally oppressive I’ve Seen All I Need to See\n\t\t\t\nYou need to read the epic Argentinian horror novel Our Share of Night\n\t\t\t\nYou need to watch the bonkers Japanese fantasy horror film House",
       "topics": [
         "Technology"
       ]
@@ -1170,6 +1144,19 @@
       "raw": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "96a4af3492abd794b5928d8fe0eca299c14eb929",
+      "title": "Winter Paralympics daily guide: Six golds on offer on Monday",
+      "url": "https://www.bbc.com/sport/articles/czr0643d8gmo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-07T18:58:05.000Z",
+      "summary_90w": "",
+      "raw": "Your guide to what's happening and when and who to look out for at the 2026 Winter Paralympics in Milan-Cortina.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1641,6 +1628,19 @@
       ]
     },
     {
+      "id": "bf98ea03625222a38dbf11cf0928bf5130212707",
+      "title": "U.S. businesses that paid emergency tariffs are now trying to recover their funds",
+      "url": "https://www.npr.org/2026/03/05/nx-s1-5727741/u-s-businesses-that-paid-emergency-tariffs-are-now-trying-to-recover-their-funds",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2026-03-05T21:16:47.000Z",
+      "summary_90w": "",
+      "raw": "Businesses that paid more than 100-billion dollars in tariffs are waiting to find out when they'll get their money back, after the Supreme Court ruled those import taxes were illegal.",
+      "topics": [
+        "Business"
+      ]
+    },
+    {
       "id": "aa3664ca66f24f78a0b6945a426ccd47dc16c6cc",
       "title": "Three men deported by US file legal case against Eswatini over detention",
       "url": "https://www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention",
@@ -1677,6 +1677,19 @@
       "raw": "British former champion hits out at former colonial rulers\n\n‘I’m hoping countries unite and take Africa back’\n\nLewis Hamilton has called for a movement to “take Africa back”, claiming the continent is being “controlled” by European powers. On the eve of the new Formula One season in Melbourne, the seven-time champion outlined his ambition to compete in a grand prix on African soil.\nBut the 41-year-old, F1’s first black race driver, did not stop there. He suggested former colonial rulers still exerted undue power in the region and called for action to reverse that influence. “I’ve got roots from a few different places there, like Togo and Benin,” he said. “I’m really proud of that part of the world.\n Continue reading...",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "326e165187f0cd05dd642f3a003767a15a02622e",
+      "title": "Wall Street is betting on tariff refunds after Supreme Court ruling",
+      "url": "https://www.npr.org/2026/03/05/nx-s1-5736120/tariff-refunds-wall-street-trade",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2026-03-05T10:05:00.000Z",
+      "summary_90w": "",
+      "raw": "When the Supreme Court struck down many of President Trump's tariffs, it left importers wondering how long they'd have to wait to get their money back. Hedge funds are offering to help out.",
+      "topics": [
+        "Business"
       ]
     },
     {
