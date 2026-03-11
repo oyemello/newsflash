@@ -1,7 +1,332 @@
 {
-  "version": "1773237290967",
-  "generatedAt": "2026-03-11T13:54:50.967Z",
+  "version": "1773240236754",
+  "generatedAt": "2026-03-11T14:43:56.754Z",
   "items": [
+    {
+      "id": "abdc8d39caa14d484fd2d5afc106fbf40c1e9090",
+      "title": "Meta rolls out new scam detection tools to Facebook, WhatsApp, and Messenger",
+      "url": "https://techcrunch.com/2026/03/11/meta-rolls-out-new-scam-detection-tools-to-facebook-whatsapp-and-messenger/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-03-11T14:41:24.000Z",
+      "summary_90w": "",
+      "raw": "The tech giant says the new features are designed to alert users before they engage with something suspicious.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a9e87e54af956415a3f4e50cfe255d3481546fe2",
+      "title": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
+      "url": "https://www.bbc.com/news/articles/cvgj8veg0gno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-03-11T14:35:31.000Z",
+      "summary_90w": "",
+      "raw": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d568cd21463aeba0284c7da2f7b4aa5cb2f3b295",
+      "title": "How to Ding, Dong, Ditch Ring’s surveillance network",
+      "url": "https://www.theverge.com/tech/890910/best-ring-alternatives-privacy-focused-video-doorbell-local-storage-reolink-aqara-tapo-ecobee",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-03-11T14:31:27.000Z",
+      "summary_90w": "",
+      "raw": "There are lots of options for video doorbells that store footage locally — including these from Eufy, Reolink, SwitchBot, Tapo, and Aqara. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nRecently, Ring ran a Super Bowl ad for its Search Party feature showing how it uses AI to scan footage from Ring cameras and video doorbells to help find lost dogs. It sounds neighborly — until you consider that the same system could theoretically search footage for anything or anyone. \nCombined with longstanding concerns around Ring’s ties to law enforcement — including a recent proposed integration with law enforcement technology company Flock Safety —  the ad has prompted some users to look for alternatives to Ring. \nIf you are uncomfortable continuing to use your Ring cameras and are wondering what to do, we’ve rounded up all your options: From how to lock down your Ring hardware if you don’t want to or can’t swap it out, to doorbell cameras that don’t rely on cloud-processing — including those that store footage locally.\nWhy are people looking to ditch Ring?\nThe core concern is that Ring footage is processed and stored in the cloud. While Ring encrypts videos in transit and at rest, the company can access footage while it’s processed for features such as AI-powered video descriptions, video search, and Search Party. \nWhile Ring has said that it does not share data or video footage with ICE or any federal law enforcement agencies, and that only its users can share their footage with local law enforcement, many people are concerned about what might happen if Ring changes its policies. \nRing maintains that it is not conducting mass surveillance. However, Ring’s founder and CEO Jamie Siminoff continues to be vocal in his belief that more cameras and more AI can help solve crime. He was the one who brought back video sharing with law enforcement after his predecessor ended the company’s prior police-sharing feature.\nRing — like any cloud provider — can be compelled to provide footage in response to legal requests, but Ring’s cozy relationship with law enforcement is cause for concern for many users. Additionally, the recent case of Nancy Guthrie’s disappearance, in which Google retrieved supposedly lost Nest doorbell footage, illustrates how cloud video can persist longer than you might expect.\n\n“I do not trust Ring not to have a deal with Flock later down the line.”\n\n\nDistrust of Ring’s motives appears to be widespread, prompting an uptick of interest in its competition. Representatives for smart home security companies SimpliSafe and Reolink told me they saw a significant increase in web traffic and, in some cases, sales, in February following Ring’s Super Bowl ad. \nI also spoke to some users who have decided to switch. Tim Anderson, a former IT director in the Chicago suburbs, told me that it was the Search Party ad pushed him to reconsider Ring. “I didn’t get the cameras to be a dragnet for law enforcement; I got them to protect my property.” \nAnother longtime customer said he removed his Ring doorbell after hearing about the Flock integration (which Ring has since cancelled) and is now considering a system that gives him full local control like Reolink. “I do not trust Ring not to have a deal with Flock later down the line,” he told me.\nIf you’re similarly concerned about the direction Ring is moving, this article lays out the options you have for using a video doorbell or security cameras in your home without worrying about potentially feeding a surveillance network. \nHere, I go over how to opt out of Ring’s new features if you want to keep your hardware. Then I cover how to choose a new doorbell if you want to ditch Ring — including the difference between cloud versus local storage, what end-to-end encryption is, and the best options for each case. \nKeep Ring, but on your terms\nRemoving and replacing installed security cameras can be a hassle. If you want to keep your existing hardware but opt out of features that could potentially contribute to broader surveillance networks, here are some steps you can take to lock down your doorbell and other Ring cameras:\nAngle the camera to only catch your front door or property. If that’s not possible, enable privacy zones in the app to block out any “public” areas.\nOpt out of a cloud subscription. If you don’t pay for Ring’s subscription service, the Ring doorbell will not record video, but you’ll have to be quick to answer that alert on your phone if you want to see who is at the door.\nTurn off AI features. If you want the recorded video but don’t like the idea of the AI features, including the recently added facial recognition, turn them off in the Ring app settings under Ring AI Features.\nTurn off Search Party. This feature allows Ring’s AI to search the footage of your outdoor cameras for lost dogs and wildfires (currently). This is enabled by default. Go to the Control Center in the Ring app, select Search Party, and click through to disable.\nOpt out of Community Requests. This feature allows users to share footage with local law enforcement through Ring’s technology partner Axon. (Ring cancelled its planned Flock Safety integration.) Go to the Neighbors section of the Ring app, tap the settings icon, select Neighborhood Settings, then Feed Settings, toggle off Community Requests. You can also disable the Neighbors app integration entirely through the Control Center.\nEnable end-to-end encryption. Ring already encrypts footage in transit and at rest, but many of its features require access to your footage for processing. E2EE locks it down so that only you, not Ring, can access it. You can enable this on most Ring cameras, but you do lose access to several features, including rich notifications and person alerts. \nPick a doorbell that doesn’t process video in the cloud\nInternet-connected home security cameras store and process recorded footage in three ways: \nCloud first — Video is processed and stored on a company’s servers. Examples include Ring, Nest, Wyze, Arlo, and Blink. These systems typically require a subscription, and while most also offer local storage, it’s often deprecated in favor of cloud video.\nLocal first — Video is stored and processed locally on the device, a hub, or a local server. Examples include Eufy, Tapo, Reolink, and Aqara. Cloud storage may be available as a backup.\nHybrid — Video is processed locally and stored in the cloud with end-to-end encryption. Examples include Ecobee, Philips Hue, and cameras that support Apple HomeKit Secure Video. \nCloud first is the least private option. Alongside concerns about companies intentionally sharing your video are the worries about unintentionally doing so. \nWyze, Ring, and Anker-owned Eufy have suffered major security flaws in the past that exposed their users’ videos. While all three companies say they have resolved the issues, the concerns about the vulnerability of the cloud are real. \n\nIf you don’t want any cloud exposure, choose local storage. If you want cloud convenience with stronger protections, choose E2EE.\n\n\nIf you do choose to use the cloud to store your footage, look for companies that require two-factor authentication and offer a high level of encryption, ideally end-to-end, which is what the hybrid method uses. This ensures the company cannot access your videos.\nLocal storage is the most private, as in theory it never leaves your home. A big advantage here is that you don’t have to pay any subscription fees to store your video, though the base stations that most companies offer for expanded storage cost around $200, adding to the initial cost.\nOne downside of both local and hybrid systems is that local processing of footage to generate smart alerts for packages, people, etc., isn’t as effective as cloud-based solutions, which can leverage their servers’ greater computational power to analyze footage. But that may change. \nYou also can’t get “rich” notifications without the cloud, which includes a snapshot of what the camera saw. However, if all you want to know is who is at your front door, you might not miss these features.\nPut simply, if you don’t want any cloud exposure, choose local storage. If you want cloud convenience with stronger protections, choose an end-to-end encrypted system.\nBest doorbells with end-to-end encryption\nThe cloud isn’t inherently bad. If a service uses end-to-end encryption, no one but you can access your footage, no matter where it’s stored, so companies can’t be compelled to hand over footage to authorities. \nThese are the current options that support E2EE (in addition to Ring, as previously mentioned). One notable benefit of these over the local storage options mentioned later is a more polished app experience and easier setup, but you will have to pay to store your video in the cloud.\nApple’s HomeKit Secure Video (HKSV)\nAqara G4 Video Doorbell\n\nWhere to Buy:\n\n $119.99 $69.99 at Amazon\n $119.99 at Best Buy\n $119.99 at The Home Depot\n\nPower: Battery  or hardwired/ Video: 1080p  / Connectivity: Dual-band Wi-Fi / Smart alerts: Person, vehicle, packages, animals, facial recognition / Cloud storage: iCloud +, starting at $1 a month\nHomeKit Secure Video is Apple’s smart home video solution that processes footage from compatible cameras locally on your Apple TV or HomePod. This enables smart alerts for people, animals, vehicles, and packages, as well as facial recognition through the Apple Home app, where you can view livestreams and recorded video. It stores video in the cloud using E2EE. \nHKSV has some limitations: you need to be in Apple’s ecosystem and have an iCloud + subscription. Video resolution is limited to 1080p, and the smart alerts are unreliable. Another problem is that only three brands of doorbells support HomeKit Secure Video – Aqara, Logitech, and Belkin — and Belkin’s Wemo has been discontinued.\nIf you go this route, consider the Aqara G410, which I cover in the local storage section, or the older (and cheaper) Aqara G4. \nEcobee Smart Doorbell Camera\nEcobee Smart Doorbell Camera\n\nWhere to Buy:\n\n $159.99 $119.99 at Amazon\n $159.99 $119.99 at Best Buy\n $159.99 $119.99 at Ecobee\n\nPower: Hardwired / Video: 1080p / Connectivity: Dual-band Wi-Fi / Smart alerts: People and packages / Cloud storage: $5 a month or $50 a year\nThis doorbell from the smart thermostat maker uses end-to-end encryption to store footage in the cloud and offers free smart alerts processed on-device. It integrates neatly with the Ecobee thermostat, letting you use it as an intercom. Read my full review.\nPhilips Hue Secure Video Doorbell\nPhilips Hue Secure Video Doorbell\n\nWhere to Buy:\n\n $169.99 at Philips Hue\n $169.99 at Amazon\n\nPower: Hardwired / Video: 2K / Connectivity: Dual-band Wi-Fi, Zigbee / Smart alerts: People, animals, vehicles, and packages (with subscription) / Cloud storage: 24 hours free, $39.99 a year \nI haven’t tested the Hue doorbell yet, but on paper, it’s a solid, privacy-focused option that offers end-to-end encryption, 24 hours of free video history, and locally processed alerts. But you do have to pay for smart alerts. \nIt’s a good option if you’re in the Hue ecosystem — it connects to the Hue bridge via Zigbee, so your lights can turn on when it detects motion. \nBest doorbells with local storage\nIf you don’t want to store your video in anyone’s cloud, you have a few options. \nIf you are handy with tech and networking, you can set up your own network-attached storage system (NAS) — a local server connected to your router. This solution can also be used to stream live video via RTSP or ONVIF. We have a deep dive into this solution if you want to go that route.  \nA simpler option is to choose a video doorbell that offers local storage, meaning video is recorded and stored locally on a microSD card in the device or on a home base or base station. Popular options include Anker’s Eufy, TP-Link’s Tapo, Reolink, and Aqara. \nIf you have just one or two cameras, the microSD card route is easiest. Bear in mind, you will need to buy these separately in most cases. If you are looking to build out a larger security system, a hub lets you store video from multiple cameras in one place and offers more storage capacity.\nAnother benefit of a hub setup from an established security company is the ability to run local AI to provide “smart alerts” — notifications when the camera spots a person, package, animal, and vehicle — as well as more advanced features like facial recognition and video search.\nMost systems let you view locally stored footage on your smartphone, both when you’re on your local network and when you’re away from home, using a peer-to-peer connection between your phone and the device. This also means you should still get recordings if the internet goes down.\nI’ve been testing products from Eufy, Reolink, and Aqara for several years now, and one thing you will miss if you switch from a cloud-first brand like Ring is the app experience. While the user interfaces have improved significantly, they are still often obtuse and complicated to navigate. Eufy and Tapo have the cleanest apps, followed by Aqara, whereas Switchbot and Reolink’s are rougher around the edges. \nHere’s a rundown of the best video doorbells with local storage:\nBest overall\nTP-Link Tapo D225 Video Doorbell Camera\n\nWhere to Buy:\n\n $99.99 $84.99 at Amazon\n $99.99 $84.99 at Tapo\n\nPower: Battery or hardwired / Video: 2K / Connectivity: 2.4GHz Wi-Fi / Smart alerts: People, packages, pets, and vehicles / Optional cloud storage: $2.79 per month\nThis is a great budget option that ticks most boxes. It can record to a microSD card in the device or to Tapo’s H500 Hub and offers 24/7 recording when wired. Read my full review.\nBest for fully local control\nReolink Battery Doorbell\n\nWhere to Buy:\n\n $119.99 $107.99 at Amazon\n $119.99 $107.99 at Reolink\n\nPower: Battery or hardwired / Video: 2K video / Connectivity: Dual-band Wi-Fi / Smart alerts: Person, vehicle, packages / Optional cloud storage: Reolink Cloud $5.99 a month\nA good option for users looking to integrate cameras into an advanced local networking setup, Reolink supports local storage via microSD or Reolink’s Home Hub and works with FTP servers, Home Assistant, and NAS systems. It supports protocols such as RTSP and ONVIF. Read my review.\nBest for smart home set ups\nAqara G410 Smart Doorbell\n\nWhere to Buy:\n\n $129.99 at Amazon\n $129.99 at Aqara\n\nPower: Battery or hardwired / Video: 2K  / Connectivity: Dual-band Wi-Fi, Thread, Zigbee / Smart alerts: Person and motion (more with subscription) / Optional cloud storage: HomeKit Secure Video or Aqara’s HomeGuardian\nThis is a good choice if you want to use Apple’s HomeKit Secure Video or if you’re invested in Aqara’s smart home system, as it also acts as a Zigbee, Thread, and Matter smart home hub. \nAlong with HKSV, it has local storage via a microSD card housed in the included 95dB indoor chime/hub. It will also work with Aqara’s upcoming Home Station M410 and supports RTSP, so you can send its feed to a third-party client such as your NAS or Home Assistant. \nBest for smart alerts\nEufy Video Doorbell C30\n\nWhere to Buy:\n\n $64.99 $49.99 at Eufy\n $99.99 $79.99 at Amazon (C31)\n\nPower: Battery or hardwired / Video: 2K / Connectivity: Dual-band Wi-Fi / Smart alerts: Person and motion (vehicle, pet, and facial recognition with HomeBase) / Optional cloud storage: Eufy Cloud $3.99 a month\nEufy has one of the best apps and most robust smart alerts, including free local facial recognition. If you want more bells and whistles from your local cameras, this is the one to get. Eufy is also the only company that has a removable battery option — all the others listed require you to remove the doorbell to charge the battery (although you’ll need to bump up to the C31 model for $35 more).\nIt offers local storage via a microSD card and, when connected to the Eufy HomeBase 3, provides free vehicle and pet detection, facial recognition, and more storage. Eufy says all processing is local, except when you enable push notifications, which “temporarily” store images in the cloud. \nNote: Eufy had some major security issues in 2022, including that its video streams were not natively end-to-end encrypted, as it had previously stated. The company says it has fully rearchitected its systems and hired a third-party security researcher to audit them. Today, Eufy maintains that “Our security solutions have been designed to operate locally and, wherever possible, avoid using the cloud,” according to spokesperson Brett White.\nBest for video intercom\nSwitchBot Smart Video Doorbell\n\nWhere to Buy:\n\n $149.99 $119.99 at Switchbot\n $149.99 $124.99 at Amazon\n\nPower: Battery or hardwired / Video: 2K  / Connectivity: 2.4 GHz Wi-Fi / Smart alerts: Person and motion (vehicle and pet with subscription) / Optional cloud storage: $3.99 a month/ $34.99 a year  \nThe SwitchBot doorbell is a good solution for people who want an interior screen for viewing doorbell footage and don’t want to rely on cloud-based options like Amazon’s Echo Show or Google Nest smart displays. It comes with a separate small screen that serves as a hub, intercom, and chime, and can store up to 4GB of recorded video (upgradeable). \nSwitchbot just launched a $259.99 AI Hub with expandable storage up to a whopping 16TB that enables AI features such as on-device facial recognition.\nIt comes down to who you trust\nThere are a lot of options outside of Ring, and while I didn’t discuss them here, companies such as Google Nest, Arlo, and Blink (also Amazon-owned) all offer good cloud-first solutions and don’t have advertised relationships with law enforcement. You can read more about these in my guide to the Best Video Doorbells. \nOne thing to note when looking for the most privacy-focused video doorbell is that the local storage brands listed here are Chinese companies, while those that mostly use the cloud are based in the US or Europe. \nAmerican companies are subject to the US’s patchwork of privacy laws and regulatory scrutiny, whereas Chinese companies can be compelled to cooperate with the broad Chinese government access laws. Because of this, US lawmakers have called for investigations into several Chinese-owned companies, including TP-Link (which owns Tapo) and Anker (which owns Eufy). \nThis leaves you to weigh two different types of trust: trusting the technology or trusting the company behind it. My advice is to go with a company you trust.\nLong-term, the smart home standard Matter could enable more secure, local networking options that work across platforms without relying on cloud services. \nFor now, though, when it comes to choosing a video doorbell, you still have to decide which tradeoffs make you the most comfortable, if any.\nPhotos by Jennifer Pattison Tuohy / The Verge",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a32c1c263c865d1ba39806f09011d48e17c4fd1e",
+      "title": "You can’t replace the battery in Lego’s Smart Bricks — and many of its sensors aren’t available yet",
+      "url": "https://www.theverge.com/tech/892894/lego-smart-brick-battery-sensors-disposable",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-03-11T14:31:05.000Z",
+      "summary_90w": "",
+      "raw": "The first Lego Smart Brick sets, based on Star Wars, aren't quite what my kids and I hoped, and I suspect much of that's down to programming. But the Smart Bricks may also have some technical limitations out of the gate. The first sets don't ship with a number of their sensors enabled, including the sound-detecting microphone, the ambient light sensor, fine distance measurement, position, and orientation.\n\"There are more sensors that will be unlocked with future products,\" Lego Smart Brick sound designer Elysha Zaide explained on a recent livestream, citing ambient light, position, and orientation as missing out of the gate. It's possible t …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a48d51f2a1ad764fdd0d058e0b0347373efbf945",
+      "title": "Countries agree to record release of emergency oil reserves as prices surge",
+      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-03-11T14:30:40.000Z",
+      "summary_90w": "",
+      "raw": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "708259c3028baa5a49f42209d2de67673a6b700a",
+      "title": "Lucid Motors ships Apple CarPlay and Android Auto to Gravity SUV owners",
+      "url": "https://techcrunch.com/2026/03/11/lucid-motors-ships-apple-carplay-and-android-auto-to-gravity-suv-owners/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-03-11T14:29:35.000Z",
+      "summary_90w": "",
+      "raw": "The update comes after a rocky first few months of software problems on the electric SUV.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "55f14e77539c2b8aee17ad01c7683900328f106d",
+      "title": "UK government loses appeal over Kneecap terror charge",
+      "url": "https://www.bbc.com/news/articles/c5yjdpy7vvro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-11T14:28:03.000Z",
+      "summary_90w": "",
+      "raw": "Liam Óg Ó hAnnaidh, known as Mo Chara, had been accused of showing support for proscribed organisation Hezbollah following a gig in London in 2024.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4370aa14baf23ce9e5851404efed8da4a4882e14",
+      "title": "Godzilla Minus One, a very good movie, is $15 on 4K Blu-ray",
+      "url": "https://www.theverge.com/gadgets/893043/godzilla-minus-one-4k-bluray-apple-watch-pixel-10a-deal-sale",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-03-11T14:27:24.000Z",
+      "summary_90w": "",
+      "raw": "I love Godzilla Minus One. Granted, it’s only the second Godzilla movie that I’ve watched, the other being 1998’s terrible Godzilla featuring Matthew Broderick (the soundtrack has bangers, though). While I may not exactly be an expert, this is a good movie, whether you’re a first-time Godzilla viewer or a longtime kaiju fan. If you’ve been wanting to watch it for the first time, or just own it on physical media to watch whenever you want without a Netflix subscription, Gruv has a deal on its eBay storefront that knocks the 4K Blu-ray version down to $14.99 (it’s $23.60 at Amazon, for reference).\nAdditionally, Gruv is offering 15 percent off your order if you buy two or more movies included in this batch of its catalog, which includes hits like Twister, The Matrix Collection (four films, excluding The Animatrix), Pacific Rim, Oppenheimer, The Mummy Trilogy (three films), and a lot more. Typically, eBay is good at automatically applying discount codes to your cart at checkout, but paste in GRUVJAMARCH2026 if you’re experiencing issues.\nGodzilla Minus One\nThe 2023 film is presented here in glorious 4K, with visual effects so impressive that the film earned an Oscar at the 2024 Academy Awards. Get it for less at eBay with the code GRUVJAMARCH2026.\n\nWhere to Buy:\n\n $23.79 $14.99 at eBay (4K Blu-ray)\n\nSome other great Verge-approved deals\nDragon Age: The Veilguard is a fantastic RPG, and you can pick up the disc version for PS5 or Xbox Series X at Best Buy for just $7.99. The 2024 title was quick to be discounted following its launch, which — big shocker here — didn’t meet EA’s expectations and led to layoffs. This is the biggest discount we’ve seen, though, and the game is very much worth playing. It’s the first Dragon Age game to have launched in 10 years, following 2014’s Dragon Age: Inquisition. If you played that game back in the day, your avatar will make an in-game appearance. Turns out, reuniting can be emotional.\nWhile not a new deal, the $100 off discount happening on the Apple Watch Series 11 is still worth shouting about from time to time. Amazon has multiple color schemes of the 42mm configuration in stock that are selling at $299, including the jet black, rose gold, silver, and space grey aluminum case options. For those deciding between the Series 11 and the SE 3, only $60 separates these two models. However, the Series 11 is the better choice if you want day-long battery life, a brighter screen, ECG functionality, an ultra wideband chip, a depth gauge for diving, plus hypertension notifications — all of which the SE 3 lacks. Read our review, then perhaps head over to Woot where you can get a Solo Loop band for the Series 11 for as low as $14.99 (originally $50).\nThis is your last call to get a free $100 gift card when you buy the $499 Google Pixel 10A at Amazon. This promotion will end in the middle of the night on Thursday here on the East Coast. If you’re considering an upgrade from an older Pixel phone, the Pixel 10A might be a solid choice. It delivers iterative upgrades from the excellent Pixel 9A, but not in the areas you might expect. The 10A still features the Tensor G4 used in the 9A instead of having the same upgraded processor as the latest flagship model, as previous Pixel A-series phones have done. It also doesn’t have all of the Pixel 10’s AI features, nor does it support PixelSnap, rendering it incompatible with magnetized chargers. That free gift card sure is nice, though. Read our hands-on with the Pixel 10A.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4d5eae59e283da95008926013dc159eea751aee0",
+      "title": "Greetings from a Shanghai temple where you can ward off bad luck in the Year of the Horse",
+      "url": "https://www.npr.org/2026/03/11/g-s1-113159/year-of-the-horse-shanghai-jade-buddha-temple-tai-sui",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-03-11T14:27:08.000Z",
+      "summary_90w": "",
+      "raw": "According to Chinese mythology, those born in the Year of the Horse will clash with Tai Sui, a heavenly general. Luckily, there are ways to appease Tai Sui, including amulets at Shanghai's Jade Buddha Temple.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "79531f4dcac856e593d540227b2ac274e06f7bb6",
+      "title": "IEA orders largest ever release of stockpiled oil to reduce crude price",
+      "url": "https://www.theguardian.com/business/2026/mar/11/international-energy-agency-release-oil-stockpile-iran-war",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-11T14:24:47.000Z",
+      "summary_90w": "",
+      "raw": "Members agree unanimously to release about 400m barrels amid market volatility caused by Iran war\n\nBusiness live – latest updates\n\nMiddle East crisis live – latest updates\n\nThe International Energy Agency has ordered the largest release of government oil reserves in its history to help calm the oil price shock triggered by the US-Israeli attacks on Iran.\nThe world’s energy watchdog said its 32 members had agreed unanimously to release about 400m barrels of emergency crude, a third of the group’s total government stockpiles and more than double the IEA’s previous biggest release.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "eba5743238ea22687bb1f8b68ce6332c296fb6c5",
+      "title": "Countries agree to historic release of stockpiled oil to ease the global disruption",
+      "url": "https://www.npr.org/2026/03/11/nx-s1-5743816/iran-war-oil-reserves-iea",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-03-11T14:24:18.000Z",
+      "summary_90w": "",
+      "raw": "Members of the International Energy Agency have announced a coordinated release of 400 million barrels of stockpiled oil in an attempt to counter the disruption in oil trade triggered by the Iran war.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "81fe337f767992dd58e846a2b76cdc0530e82f08",
+      "title": "Middle East crisis live: three ships hit in strait of Hormuz as Iran calls vessels belonging to US or allies ‘legitimate targets’",
+      "url": "https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-11T14:20:56.000Z",
+      "summary_90w": "",
+      "raw": "Thai navy responds to attack on bulk carrier as Iran military reiterates that it ‘will not allow a single litre of oil’ through strait\n\nHow have you been affected by the latest Middle East events?\n\nOver in Senate question time, the foreign affairs minister, Penny Wong, has confirmed embassies in Abu Dhabi and Tel Aviv and the consulate in Dubai all physically closed in the last week.\n\r\n Wong said the government’s number one priority is to “keep Australians safe at home and abroad”. \n\r\n She continued: \n“The dangerous and destabilising attacks by Iran put civilian lives at risk, including Australian lives.”\n\r\n More than 3,200 Australians over 23 commercial flights have returned to Australia since the US and Israel attacked Iran, setting off a regional conflict and grounding thousands of international flights.\nWong criticised Nationals senators for “winding up people and stoking fear” to panic buy fuel.\n\r\n The senator said:\n“Petrol companies are telling us that fuel stock continues to arrive as expected and on time but there has been a large change in the pattern of demand and that is having an effect on the supply, particularly in regional communities. We have seen jerry cans coming off the shelves at Bunnings and lines at the pump.”\nOne of the two members of the Iranian women’s football teams provided with a humanitarian visa to stay in Australia has changed her mind and contacted the Iranian embassy, according to the country’s home affairs minister.\nIn Australia, people are able to change their mind, people are able to travel. So, we respect the context in which she has made that decision.\nUnfortunately, in making that decision, she had been advised by her teammates and coach to contact the Iranian embassy and get collected … As a result of that, it meant that the Iranian embassy now knew the location of where everybody was.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a7a26b0f9f2f2bed430171d6a3c7195c054a7c6a",
+      "title": "Mojtaba Khamenei was hurt in strike that killed his father, Iran’s Cyprus ambassador confirms",
+      "url": "https://www.theguardian.com/world/2026/mar/11/mojtaba-khamenei-was-hurt-in-strike-that-killed-his-father-irans-cyprus-ambassador-confirms",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-11T14:19:02.000Z",
+      "summary_90w": "",
+      "raw": "Alireza Salarian says Iran’s new supreme leader was lucky to survive strike that killed six of his family members\n\nMiddle East crisis – live updates\n\nIran’s new supreme leader, Mojtaba Khamenei, was injured in the 28 February attack that killed six of his family members, including his father, Tehran’s ambassador to Cyprus has confirmed.\nIn an interview conducted at his embassy compound in Nicosia, Alireza Salarian elaborated on the circumstances in which Khamenei, 56, was injured, saying he was lucky to survive the strike, which levelled the late ayatollah’s residence.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "27a0acd1272b9cc344a2991095c4044d6808b9c1",
+      "title": "EU and UK demand Israel stop surge in West Bank settler violence since Iran war",
+      "url": "https://www.bbc.com/news/articles/c620vwl97vyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-11T14:13:52.000Z",
+      "summary_90w": "",
+      "raw": "Six Palestinians have been killed during attacks by settlers in the West Bank since the start of Israel's war, the UN says.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8225f1eed05eac582e32640758769b1f39300ee8",
+      "title": "Argentina grants asylum to Brasília rioter in move that may sway Brazil vote",
+      "url": "https://www.theguardian.com/world/2026/mar/11/argentina-asylum-brasil-elections",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-11T14:11:07.000Z",
+      "summary_90w": "",
+      "raw": "Decision to shield pro-Bolsonaro truck driver sentenced for 8 January 2023 attack could inflame Brazil election politics\nArgentina has granted asylum to a Brazilian fugitive convicted for his role in 2023 pro-Bolsonaro riots – a decision that analysts say could reverberate in Brazil’s upcoming presidential election.\n\r\n A week after Luiz Inácio Lula da Silva, Brazil’s president, took office, hundreds of people ransacked Brazil’s congress building, presidential palace and supreme court on 8 January 2023, in an attempt to overturn former president Jair Bolsonaro’s electoral defeat. Investigators later concluded the attacks were the culmination of a broader plot aimed at staging a coup.\n\r\n Alongside Bolsonaro and members of his inner circle, who were convicted for their role in the plot, hundreds of rioters were given sentences of up to 17 years in prison for vandalism and insurrection. Dozens fled to Argentina after Javier Milei, a rightwing libertarian, took office in December 2023.\n\r\n In 2024, Brazil requested the extradition of 61 of its citizens. Argentine federal police arrested five of them, and in December, a federal judge ordered their extradition.\nBut this week, one of them – Joel Borges Correa, 47, was informed that Argentina’s refugee commission (Conare) – which operates under the security ministry – ruled that he should be granted asylum. \n\r\n Borges Correa had applied for asylum in 2024, one of 196 Brazilians who sought refugee status in Argentina that year, according to official data. In his testimony, he said he had gone to the government buildings carrying a Brazilian flag to protest against “Lula’s projects in favour of abortion and the legalisation of drugs” – policies that have not been enacted. He was arrested inside the Planalto presidential palace, the president’s official workplace, and later sentenced to 13 years and six months in prison.\n\r\n In April 2024, attempting to avoid arrest, Borges Correa cut off his ankle monitor and drove to the Argentine border with three other convicted fugitives. Conare concluded that Borges Correa faced discrimination and persecution because of his political opinions, which it said could be “inferred from his participation in the mobilisation on 8 January”, and that the “Brazilian state is the main persecuting agent”.\n\r\n “There is a very evident human rights issue, a matter of political persecution,” said Pedro Gradin, Borges Correa’s lawyer. “With asylum granted, he will regularise his immigration status. Now they must release him and remove his ankle monitor so that he can live his life like any other citizen.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bf9d4f1a49eec5fa27e3c200aa90758291061df0",
+      "title": "Snapchat told an Australian mother it would not delete her son’s account because his listed age was 25",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/11/social-media-ban-australia-snapchat-compliance",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-11T14:00:53.000Z",
+      "summary_90w": "",
+      "raw": "Parents have been told to report accounts missed in Australia’s under-16 social media ban – but eSafety is ‘concerned’ some platforms aren’t complying\n\nGet our breaking news email, free app or daily news podcast\n\nAn Australian mother who reported her 14-year-old’s Snapchat account has been rebuffed by the social media company, because his self-declared age was 25.\nParents of teens who have eluded the social media ban have been told to report their children’s accounts to the platforms to get them kicked off, but some platforms are not acting on it, Guardian Australia can reveal.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "692bcae4d3998008305e2cb3c6eca73739152ea5",
+      "title": "‘Naming them is not justice’: robodebt victims feel let down by findings of corruption watchdog",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/12/naming-them-is-not-justice-robodebt-victims-feel-let-down-by-findings-of-corruption-watchdog",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-11T14:00:52.000Z",
+      "summary_90w": "",
+      "raw": "Nacc report into unlawful scheme found two senior public servants engaged in corrupt conduct but declined to refer them for charges in what victims call a ‘massive letdown’\n\nGet our breaking news email, free app or daily news podcast\n\nThe mother of a robodebt victim who took his own life says she feels “sheer frustration” at the findings of a report on potential corruption related to the unlawful income averaging scheme.\nWednesday’s release of a 445-page report from the National Anti-Corruption Commission examined the actions of five former public servants and the former prime minister Scott Morrison. The report found two senior public officials to have engaged in corrupt conduct, but they will not be referred for charges.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5c840aeed561114808b33b534b6cc1be69158b32",
+      "title": "Payman, Thorpe and Faruqi demand Labor change parliamentary rules to counter ‘overt’ racism",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/11/independents-and-greens-demand-labor-change-parliamentary-rules-to-counter-overt-racism-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-11T14:00:52.000Z",
+      "summary_90w": "",
+      "raw": "Exclusive: independent and Greens senators ask president to set up inquiry and anti-racism training for politicians to prevent bigotry ‘corroding democracy’\n\nGet our breaking news email, free app or daily news podcast\n\nIncreasingly ugly abuse in federal parliament has prompted a group of independents and the Greens to call for an urgent intervention from Labor to change the rules, warning that allowing racism and bigotry to “fester” is corroding democracy.\nGuardian Australia can reveal independents, Fatima Payman and Lidia Thorpe, and the Greens’ Mehreen Faruqi are demanding Senate president Sue Lines take the problem seriously with a new inquiry and mandatory anti-racism training for politicians.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "340f2fce02a16d85daf55a39bd7efc7dac3652b6",
+      "title": "Australian governments subsidising fossil fuel use by more than $30,000 a minute, analysis finds",
+      "url": "https://www.theguardian.com/environment/2026/mar/11/australian-governments-subsidising-fossil-fuel-use-by-more-than-30000-a-minute-analysis-finds",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-11T14:00:51.000Z",
+      "summary_90w": "",
+      "raw": "Australia Institute data finds state and federal subsidies for coal, gas and oil products increased 10% in past year, growing at a faster pace than funding to NDIS\n\nSign up for climate and environment editor Adam Morton’s free Clear Air newsletter here\n\nAustralian federal and state government subsidies that encourage fossil fuel use and help drive the climate crisis will reach $16.3bn this year after leaping by nearly 10%, according to a new analysis.\nIt found federal and state governments will pay or forgo the equivalent of $31,020 each minute in 2025-26 to subsidise companies producing and using coal, gas and especially oil, mostly in the form of diesel.\nSign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a06192f76c760c28e42301f67f0a936ba22689c6",
+      "title": "Canopii looks to succeed where past indoor farms have not",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-03-11T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Canopii's robotic farms can autonomously grow 40,000 pounds of herbs and leafy greens a year while being the size of a basketball court.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8f0b99962a5701319db9249227152ff697c1d27c",
+      "title": "Former Apple engineer raises $5M for a note-taking pendant that only records your voice",
+      "url": "https://techcrunch.com/2026/03/11/former-apple-engineer-raises-5m-for-a-note-taking-pendant-that-only-records-your-voice/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-03-11T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Taya is trying to address privacy concerns around note-taking wearables with its device that can be worn as a pendant and records only the user's voice.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "55ec6420985081ae71dd4e678893c9035eab26ea",
+      "title": "I was interviewed by an AI bot for a job",
+      "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-03-11T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Millions of people are on the job hunt right now - and for many people, landing a job in the AI era feels more intimidating than ever. That's why the onset of AI avatars running your job interview via one-on-one video call, asking you questions, and analyzing how well you respond has generated a lot of discussion - and controversy. \nThere are a handful of companies behind the rise in AI-led interviews, like CodeSignal, Humanly, Eightfold, and more. The creators of these AI tools say the benefit is that it allows companies to hear from virtually everyone who applies for a certain role instead of just a small subset, at least when it comes to …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "83a9457f70587336d0d2df7f9d1ef22ce750dd99",
+      "title": "Tembo is a playful drum machine that thinks it&#8217;s a checkerboard",
+      "url": "https://www.theverge.com/gadgets/892973/tembo-playful-wooden-drum-machine",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-03-11T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Checkers? Go? | Image: Alon Daniel / Musical Beings\t\n\nTembo looks like a toy, but one of those bougie wooden toys you get on Crate & Kids, not some cheap plastic garbage. Despite its appearance, it is a fully functional drum machine and sampler. Rather than a bunch of buttons and a screen, you build beats on Tembo by placing what are essentially wooden checkers on a board. The point is to be approachable to would-be music makers of any age or skill level.\nThe core of Tembo is a pretty straightforward five-track step sequencer. Wooden tokens are held in place with magnets, and you just put them where you want the hit to land. There are eight sample packs built in, but you can also sample using  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "73446218445b97cb2adfc878de49f69a7b818aaf",
+      "title": "Boy, 16, arrested after girl is stabbed at school",
+      "url": "https://www.bbc.com/news/articles/c15x1wnd7yqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-11T13:59:04.000Z",
+      "summary_90w": "",
+      "raw": "Sources tell the BBC that pupils had to hide under their desks as the incident unfolded.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c228aaacac7804cc9ff4fded327d2d61c7ff34bd",
+      "title": "Glen Sannox ferry needs £3.2m repairs after one year in service",
+      "url": "https://www.bbc.com/news/articles/czx4e6zzlkdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-11T13:58:12.000Z",
+      "summary_90w": "",
+      "raw": "MSPs have been told the troubled CalMac vessel needs new propellors as part of multi-million pound repairs.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "4a65365e88d6866fbf9ac278ae2c4934a8bc7040",
       "title": "Framework raises RAM and storage prices again",
@@ -16,27 +341,14 @@
       ]
     },
     {
-      "id": "a48d51f2a1ad764fdd0d058e0b0347373efbf945",
-      "title": "Record release of emergency oil reserves planned as prices surge",
-      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
+      "id": "047fa75e96abaa682e73f31a1bfbb1b7d914b8ba",
+      "title": "Fuel tax hike plan to be kept under review over Iran, says PM",
+      "url": "https://www.bbc.com/news/articles/cvg593l3yd5o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-03-11T13:46:37.000Z",
+      "published": "2026-03-11T13:40:51.000Z",
       "summary_90w": "",
-      "raw": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "73446218445b97cb2adfc878de49f69a7b818aaf",
-      "title": "Boy, 16, arrested after girl is stabbed at school",
-      "url": "https://www.bbc.com/news/articles/c15x1wnd7yqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-11T13:44:35.000Z",
-      "summary_90w": "",
-      "raw": "Sources tell the BBC that pupils had to hide under their desks as the incident unfolded.",
+      "raw": "Fuel duty on petrol and diesel is due to rise from September, when a 5p cut is phased out.",
       "topics": [
         "World"
       ]
@@ -108,26 +420,13 @@
     },
     {
       "id": "ad6ebede9f7deba2034df1eabbb06f050c49f654",
-      "title": "Quentin Tarantino to stage 'swashbuckling comedy' in London theatre",
+      "title": "Quentin Tarantino to stage 'swashbuckling comedy' play in London",
       "url": "https://www.bbc.com/news/articles/crl47zd7y8eo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-03-11T13:23:44.000Z",
       "summary_90w": "",
       "raw": "The film-maker will write and direct The Popinjay Cavalier, \"a rambunctious comedy\" set in 1830s Europe.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "81fe337f767992dd58e846a2b76cdc0530e82f08",
-      "title": "Middle East crisis live: three ships hit in strait of Hormuz as Iran calls vessels belonging to US or allies ‘legitimate targets’",
-      "url": "https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-11T13:20:46.000Z",
-      "summary_90w": "",
-      "raw": "Thai navy responds to attack on bulk carrier as Iran military reiterates that it ‘will not allow a single litre of oil’ through strait\n\nHow have you been affected by the latest Middle East events?\n\nOver in Senate question time, the foreign affairs minister, Penny Wong, has confirmed embassies in Abu Dhabi and Tel Aviv and the consulate in Dubai all physically closed in the last week.\n\r\n Wong said the government’s number one priority is to “keep Australians safe at home and abroad”. \n\r\n She continued: \n“The dangerous and destabilising attacks by Iran put civilian lives at risk, including Australian lives.”\n\r\n More than 3,200 Australians over 23 commercial flights have returned to Australia since the US and Israel attacked Iran, setting off a regional conflict and grounding thousands of international flights.\nWong criticised Nationals senators for “winding up people and stoking fear” to panic buy fuel.\n\r\n The senator said:\n“Petrol companies are telling us that fuel stock continues to arrive as expected and on time but there has been a large change in the pattern of demand and that is having an effect on the supply, particularly in regional communities. We have seen jerry cans coming off the shelves at Bunnings and lines at the pump.”\nOne of the two members of the Iranian women’s football teams provided with a humanitarian visa to stay in Australia has changed her mind and contacted the Iranian embassy, according to the country’s home affairs minister.\nIn Australia, people are able to change their mind, people are able to travel. So, we respect the context in which she has made that decision.\nUnfortunately, in making that decision, she had been advised by her teammates and coach to contact the Iranian embassy and get collected … As a result of that, it meant that the Iranian embassy now knew the location of where everybody was.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -185,32 +484,6 @@
       ]
     },
     {
-      "id": "3e3a661f7a5a3f8ecc7a1bb75003812938db6dbf",
-      "title": "Intel announces Core Ultra 270K Plus and 250K Plus, its ‘fastest gaming desktop processors ever’",
-      "url": "https://www.theverge.com/tech/892838/intel-core-ultra-270k-plus-250k-plus-fastest-gaming-cpu-ever",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-03-11T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Intel hasn't made it easy to buy a flagship desktop chip. The company's 2022 and 2023 Raptor Lake chips ran hot, power-hungry, and had those infamous crashes, while 2024's Arrow Lake-based Core Ultra 9 285K had lackluster gaming performance that the company has tried to address with updates.\nNow, Intel claims it has finally surpassed both predecessors with \"Intel's fastest gaming desktop processors ever\": the Intel Core Ultra 7 270K Plus and 250K Plus, shipping March 26th. \nWhile we don't have every detail today, the company claims the 24-core, 5.5GHz turbo Core Ultra 7 270K Plus can beat both the Raptor Lake i9-14900K and the Arrow Lake U …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "53482495e81c7561332011cdc406909347df8ee1",
-      "title": "Lego Smart Brick review: my kids are not impressed",
-      "url": "https://www.theverge.com/tech/891863/lego-smart-brick-play-review-star-wars-first-sets-throne-room-x-wing-tie",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-03-11T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "I was about to be the coolest dad ever. I'd prepared the magic words: \"Do you want to help daddy test the new Lego Smart Bricks? I can pick you up from school early!\" It worked. My kids literally jumped for joy.\nWhen The Lego Group announced in January that a tiny computer brick would be the company's \"most significant evolution\" in nearly 50 years, even Lego fans were skeptical. Why buy bricks that make pew-pew sounds that kids should make with their own mouths? My first reaction was to explain that the Lego Smart Bricks have so much more potential than that: The bricks in these kid toys could lend their smarts to adult robots, too. \n\n\n …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "6d740f36c6ca6ee5e64a54a34c2c76358078217d",
       "title": "TikTok now lets Apple Music subscribers play full songs without leaving the app",
       "url": "https://techcrunch.com/2026/03/11/tiktok-now-lets-apple-music-subscribers-play-full-songs-without-leaving-the-app/",
@@ -219,19 +492,6 @@
       "published": "2026-03-11T13:00:00.000Z",
       "summary_90w": "",
       "raw": "TikTok, which is known for shaping music trends and viral songs, said the new feature is designed to make it easier to go from the moment of discovery to deeper listening.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "ae7de3d1ace0e9d13d952161f1fd7dfa62cf584f",
-      "title": "You can soon listen to Apple Music inside of TikTok — and artists get paid for it",
-      "url": "https://www.theverge.com/tech/892975/apple-music-tiktok-play-full-song-feature",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-03-11T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Apple Music subscribers are getting new music discovery tools on TikTok. | Image: Apple / TikTok\t\n\nApple Music subscribers will soon be able to listen to full-length music tracks on TikTok without having to leave the TikTok app. The platforms have teamed up to launch two new features - Play Full Song and Listening Party -  that allow users to connect their accounts and open an Apple Music player directly within TikTok. The features are rolling out worldwide over the coming weeks, according to Apple.\nTogether, Play Full Song and Listening Party aim to help Apple Music subscribers to discover new music on TikTok without jumping between platforms, and ensure that artists are fairly compensated. Because full-length song playback is built on  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -258,19 +518,6 @@
       "published": "2026-03-11T12:54:56.000Z",
       "summary_90w": "",
       "raw": "The non-hormonal daily pill could benefit 500,000 women for whom HRT is not suitable.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a7a26b0f9f2f2bed430171d6a3c7195c054a7c6a",
-      "title": "Mojtaba Khamenei was hurt in strike that killed his father, Iran’s Cyprus ambassador confirms",
-      "url": "https://www.theguardian.com/world/2026/mar/11/mojtaba-khamenei-was-hurt-in-strike-that-killed-his-father-irans-cyprus-ambassador-confirms",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-11T12:45:30.000Z",
-      "summary_90w": "",
-      "raw": "Alireza Salarian says Iran’s new supreme leader was lucky to survive strike that killed six of his family members\n\nMiddle East crisis – live updates\n\nIran’s new supreme leader, Mojtaba Khamenei, was injured in the 28 February attack that killed six of his family members, including his father, Tehran’s ambassador to Cyprus has confirmed.\nIn an interview conducted at his embassy compound in Nicosia, Alireza Salarian elaborated on the circumstances in which Khamenei, 56, was injured, saying he was lucky to survive the strike, which levelled the late ayatollah’s residence.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -338,45 +585,6 @@
       "raw": "Strong winds are likely across many parts of the UK on Thursday before turning colder with some wintry showers at the end of the week, as Simon King explains.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "79531f4dcac856e593d540227b2ac274e06f7bb6",
-      "title": "IEA poised to call for largest ever release of stockpiled oil to reduce crude price",
-      "url": "https://www.theguardian.com/business/2026/mar/11/international-energy-agency-release-oil-stockpile-iran-war",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-11T12:02:56.000Z",
-      "summary_90w": "",
-      "raw": "Members to be asked to release about 400m barrels amid supply shortages and market volatility caused by Iran war\n\nBusiness live – latest updates\n\nMiddle East crisis live – latest updates\n\nThe International Energy Agency is poised to call for the largest release of government oil reserves in its history to help calm the oil price shock triggered by the US-Israeli attacks on Iran.\nThe world’s energy watchdog is expected to call on its 32 members to release about 400m barrels of emergency crude, a third of the group’s total government stockpiles and more than double the IEA’s previous biggest release.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9d3cea9adf72bbb3cdd97ef908f2516125157ffe",
-      "title": "How Trump’s war on Iran stranded a million fliers — and plunged the Gulf’s favorite playground into chaos",
-      "url": "https://www.theverge.com/transportation/892358/iran-war-dubai-airport-travel-flight-cancel",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-03-11T12:00:00.000Z",
-      "summary_90w": "",
-      "raw": "It was a little after 1PM on Friday, February 28th, and Samantha Lujano was about to board her flight from Dubai to Colombo, Sri Lanka, when the drone attacks began. \nShe had already received her boarding pass and gone through customs. Her flight was at the gate and her bags were loaded. She was simply waiting for the gate agents to open the flight for boarding. So she opened TikTok and started scrolling. \nBut instead of relieving her boredom, the algorithm fed her anxiety. It showed her dozens of videos of explosions that purported to be from around the Persian Gulf - including a few in Dubai itself. She knew better than to believe everyt …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "a540491fd07e404779819bab8bf2019373ec9c17",
-      "title": "Nvidia’s head of autonomous driving opens up about his plan to beat Waymo and Tesla",
-      "url": "https://www.theverge.com/tech/892395/nvidia-autonomous-vehicle-xinzhou-wu-interview",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-03-11T12:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Nvidia is offering its DRIVE Hyperion platform to automakers who want to enable a range of autonomous features. | Image: Nvidia\t\n\nEvery six months or so, Nvidia's head of automotive, Xinzhou Wu, invites CEO Jensen Huang to go for a ride in a vehicle equipped with the company's hands-free autonomous driving system. But only when Wu has \"good confidence\" in the system's driving capabilities.\nRecently, the two went for a drive from Woodside, California, to downtown San Francisco in a Mercedes CLA sedan with MB.Drive Assist Pro, a hands-free driver-assist system partly designed by Nvidia that's similar to Tesla's Full Self-Driving. The mood was light, even if the traffic was pretty heavy. \n\"Let me know when you're in autonomous mode,\" Huang said to Wu, according to a vid …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -576,7 +784,7 @@
     },
     {
       "id": "9ea288c80df71b4007bd150efe50ce07cad2b65c",
-      "title": "U.S. attacks Iranian mine-laying vessels near Hormuz on Day 12 of war",
+      "title": "The U.S. attacks Iranian mine-laying vessels near the Strait of Hormuz",
       "url": "https://www.npr.org/2026/03/11/nx-s1-5744029/us-iran-war",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
@@ -692,19 +900,6 @@
       ]
     },
     {
-      "id": "00f3f559b04ae45b4096a5462f3188324a155c85",
-      "title": "Two protesters charged on first day of Queensland’s ‘from the river to the sea’ ban",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/11/two-protesters-arrested-on-first-day-of-queenslands-from-the-river-to-the-sea-ban-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-11T08:21:38.000Z",
-      "summary_90w": "",
-      "raw": "Alleged offences occurred after pro-Palestinian activists gathered outside state parliament within hours of new laws taking effect\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nTwo pro-Palestinian protesters have been charged with violating contentious new Queensland hate-speech laws, with one of them allegedly saying the banned phrase “from the river to the sea”.\nThe arrests occurred at a small protest march which started outside the state parliament building on Wednesday, just hours after the new laws, passed by parliament last week, went into effect.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8ebc92c395d6d068339efef7149b60d6ff27d7fe",
       "title": "2025 saw relatively fewer natural disasters. Will you get a break on home insurance?",
       "url": "https://www.npr.org/2026/03/09/nx-s1-5734455/home-insurance-risk-disasters-climate-change-extreme-weather",
@@ -713,19 +908,6 @@
       "published": "2026-03-11T08:19:16.000Z",
       "summary_90w": "",
       "raw": "Disaster costs fell in the U.S. in 2025. Still, it was the fourth time in five years that extreme weather inflicted more than $100 billion in annual losses. Industry experts say the growing financial toll will make insurers wary of rushing to cut rates.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b13bf025c2b983f22efdb14f710d0abb77658360",
-      "title": "‘Intended to divide’: Porsche-driving middleman behind string of antisemitic attacks in Sydney sentenced to five years’ jail",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/11/middleman-behind-string-of-antisemitic-attacks-in-sydney-sentenced-to-five-years-jail-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-11T08:13:46.000Z",
-      "summary_90w": "",
-      "raw": "The attacks, which included the firebombing of a childcare centre and torching of cars, were motivated by financial reward, magistrate finds\n\nGet our breaking news email, free app or daily news podcast\n\n\nA Porsche-driving middleman has been sentenced to five years’ jail for managing a series of antisemitic attacks designed to divide Australian Jewish and Arab communities.\nNicholas James Alexander admitted to orchestrating the firebombings and attacks across Sydney in January 2025.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -744,19 +926,6 @@
       ]
     },
     {
-      "id": "639820ab972bed68b72eea9473b5c562c94b2634",
-      "title": "NSW police visited home where foster children lived with convicted killer weeks before government removed her",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/11/foster-children-left-in-home-triple-killer-regina-arthurell-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-11T07:46:49.000Z",
-      "summary_90w": "",
-      "raw": "State government apologises after convicted murderer Regina Arthurell removed this week despite being warned of situation in December\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nNew South Wales police visited the home where a convicted triple killer was living with two foster children in February – nearly a month before the woman was removed from the address.\nThe revelation comes after the state government was forced to apologise for not acting until this week, despite a report warning them of the situation in December.\nAdditional reporting by AAP\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "cbda4a3079b9964f98617eda0c636a456958cf33",
       "title": "Trump will welcome Iran at World Cup, says Fifa president",
       "url": "https://www.bbc.com/sport/football/articles/ce3g4qq139ko?at_medium=RSS&at_campaign=rss",
@@ -765,32 +934,6 @@
       "published": "2026-03-11T07:46:33.000Z",
       "summary_90w": "",
       "raw": "US President Donald Trump has said Iran are \"welcome\" to take part in this summer's World Cup despite the countries being at war, according to Fifa president Gianni Infantino.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "288b735a6c5f755d71f04e1545103c8f531aaefb",
-      "title": "How Tottenham goalkeeper's horror night unfolded before 17th-minute substitution",
-      "url": "https://www.bbc.com/sport/football/articles/cly18g0lym4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-11T07:19:19.000Z",
-      "summary_90w": "",
-      "raw": "Tottenham replace goalkeeper Antonin Kinsky in the 17th minute after conceding three goals inside the opening quarter of an hour of the Champions League last-16 tie at Atletico Madrid.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c228aaacac7804cc9ff4fded327d2d61c7ff34bd",
-      "title": "Glen Sannox ferry needs £3.2m repairs after one year in service",
-      "url": "https://www.bbc.com/news/articles/czx4e6zzlkdo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-11T07:13:27.000Z",
-      "summary_90w": "",
-      "raw": "MSPs have been told the troubled CalMac vessel needs new propellors as part of multi-million pound repairs.",
       "topics": [
         "World"
       ]
@@ -817,19 +960,6 @@
       "published": "2026-03-11T06:44:16.000Z",
       "summary_90w": "",
       "raw": "Tuesday's win is the third-largest in UK National Lottery history, operator Allwyn says.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1c97aaa650aaf8fe2e93704a61d0d4805691f6a6",
-      "title": "ACCC calls emergency meeting with fuel suppliers – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/11/federal-politics-updates-iran-womens-football-team-asylum-anthony-albanese-tony-burke-labor-angus-taylor-coalition-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-11T06:34:07.000Z",
-      "summary_90w": "",
-      "raw": "This blog is now closed\n\nMember of Iranian football squad changes mind on asylum claim in Australia, minister confirms\n\nGet our breaking news email, free app or daily news podcast\n\n\n‘There are developments this morning’: Chalmers on Iranian football team\nWe’re getting a slightly bigger forward sizzle from the treasurer on how many people from the Iranian women’s football team have sought asylum in Australia.\nThere are developments this morning that I’m reluctant to go into because Tony Burke, the minister, will be up later this morning to give people a proper sense of that … It is a tribute to their bravery and to the work of the officials and the ministers that we’ve been able to issue those five visas already. As I understand it, there are more discussions this morning and Tony Burke will have more to say about that later in the day.\nWe’re seeing a lot of volatility play out on these global markets … We won’t be immune from that. We’re not complacent about it, but we’re also really well placed in Australia to deal with what’s coming at us from around the world.\nClearly, we had an inflation challenge in our economy already and this risks making it worse. That’s clear. And we’ve been upfront about that.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -921,19 +1051,6 @@
       "published": "2026-03-11T06:00:08.000Z",
       "summary_90w": "",
       "raw": "Aleksandr Suranovas, charged with carrying out an act of terrorism for Russia, speaks to the BBC.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "898f8e14e7cecb85a09c44f1412772efcd37691c",
-      "title": "Prosecutor says Rihanna, family were home when woman charged with attempted murder fired",
-      "url": "https://www.npr.org/2026/03/11/g-s1-113252/prosecutor-says-rihanna-family-were-home-when-woman-charged-with-attempted-murder-fired",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-03-11T05:50:41.000Z",
-      "summary_90w": "",
-      "raw": "Rihanna, her partner A$AP Rocky, their three children and her mother were all at home when a woman now charged with attempted murder is alleged to have fired at the property, a prosecutor said.",
       "topics": [
         "World"
       ]
@@ -1121,9 +1238,9 @@
       ]
     },
     {
-      "id": "9f48ad608ffda13a4a0a9d4b1fc055c72c0afb34",
+      "id": "78bd936438481e1990c2b377f883fe276a35cf86",
       "title": "Tech Life",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct6zq7?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2026-03-10T20:30:00.000Z",
@@ -1199,19 +1316,6 @@
       ]
     },
     {
-      "id": "5b9a1ef4d283a088140e1d861c4b158e16fc09ee",
-      "title": "Senate Democrats ramp up pressure campaign for public hearings on war with Iran",
-      "url": "https://www.npr.org/2026/03/10/g-s1-113167/democrats-iran-trump",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-03-10T19:46:07.000Z",
-      "summary_90w": "",
-      "raw": "Congressional Democrats are demanding transparency in the form of public hearings from Trump administration officials on the timeline and objectives of the war in Iran.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "af7c7dfa06f1a1e92bae7aa1cd5eafaee5a7a04b",
       "title": "Why air strikes on Tehran oil facilities are causing black rain",
       "url": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
@@ -1241,7 +1345,7 @@
       "id": "ab17bb9e4a93229500b866f84ce0e19f07418067",
       "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
       "url": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-03-10T19:35:29.000Z",
       "summary_90w": "",
@@ -1420,19 +1524,6 @@
       ]
     },
     {
-      "id": "fe5b51da974ddc1acfba1c60fc2d3a515227f44f",
-      "title": "AgentMail raises $6M to build an email service for AI agents",
-      "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-03-10T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "96a4af3492abd794b5928d8fe0eca299c14eb929",
       "title": "Winter Paralympics daily guide: Seven golds to be decided on Wednesday",
       "url": "https://www.bbc.com/sport/articles/czr0643d8gmo?at_medium=RSS&at_campaign=rss",
@@ -1456,45 +1547,6 @@
       "raw": "Eight people were killed by 18-year-old in Canada, who had described violent scenarios involving guns to ChatGPT\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nThe family of a child critically injured one of Canada’s worst mass shootings is suing OpenAI, arguing the technology company could have prevented the attack on a school last month.\nThe lawsuit comes days after the head of OpenAI said he would apologize to the families of a remote Canadian town after violence shattered the tight-knit community.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "56d083b81eb32df3e5a17caa10875a9f497fbf9d",
-      "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
-      "url": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-03-10T15:08:39.000Z",
-      "summary_90w": "",
-      "raw": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "3f603eb48678f0bbeeaaba7d83faea44d5b1e958",
-      "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
-      "url": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-03-10T14:58:29.000Z",
-      "summary_90w": "",
-      "raw": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "518d0f7eff12af1cfcf62c5aff45bf67927af39b",
-      "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
-      "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-03-10T14:34:24.000Z",
-      "summary_90w": "",
-      "raw": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1545,19 +1597,6 @@
       "published": "2026-03-10T10:13:40.000Z",
       "summary_90w": "",
       "raw": "Travel operators say Chinese and North Koreans can now buy tickets for services leaving this week\nPassenger train services between China and North Korea are to resume this week, six years after their suspension because of the Covid-19 pandemic, travel operators have said.\nTrain journeys between the two countries were halted in 2020 as strict border closures were imposed to prevent the virus spreading.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "37912dbd00653206f99c75f91575a201bb8121f2",
-      "title": "Fears for women’s rights in Chile as anti-abortion president set to take office",
-      "url": "https://www.theguardian.com/global-development/2026/mar/10/fears-womens-rights-chile-anti-abortion-president-jose-antonio-kast",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-10T10:00:24.000Z",
-      "summary_90w": "",
-      "raw": "José Antonio Kast, who voted against legalising divorce in 2004, has pushed for return to total abortion ban\nWomen’s rights activists in Chile are bracing as the most conservative president since the Pinochet dictatorship prepares to take office on Wednesday.\nJosé Antonio Kast, a 60-year-old ultra Catholic whose father was a member of the Nazi party, has consistently blocked progressive bids for women’s rights and equality across his three-decade career in politics.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1745,32 +1784,6 @@
       ]
     },
     {
-      "id": "4ed5e10e7bfae47b46c50d4bd11c99b75c6e8ce1",
-      "title": "Watch: Why the Iran war is pushing up oil prices ",
-      "url": "https://www.bbc.com/news/videos/cpv8342e3xvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-03-09T12:30:26.000Z",
-      "summary_90w": "",
-      "raw": "As turmoil continues in the Middle East, the price of crude oil rose to more than $100 a barrel on Monday.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "490b5f1b206f73d68aa3a302a8c82b4aeb3152ca",
-      "title": "Watch: Ukrainian anti-drone 'bullet' that could help defend Gulf",
-      "url": "https://www.bbc.com/news/videos/cpv83ndmezno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-03-09T10:15:06.000Z",
-      "summary_90w": "",
-      "raw": "The BBC's Diplomatic Correspondent, James Landale, is in Ukraine to see the latest anti-drone technology the country has to offer.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "0feba24c17a5b4523161a8f7f6c841b3025a575e",
       "title": "World shares tumble as Iran war pushes crude prices over $110 a barrel",
       "url": "https://www.npr.org/2026/03/09/nx-s1-5742307/world-shares-tumble-iran-war",
@@ -1883,19 +1896,6 @@
       "published": "2026-03-06T19:54:40.000Z",
       "summary_90w": "",
       "raw": "U.S. Customs told the trade court it aims for a streamlined process in 45 days to return importers' money without requiring individual lawsuits.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
-      "id": "c1d0cf73ddfd5d1d8b80cc5cf7918c4699f90226",
-      "title": "The U.S. unexpectedly loses 92,000 jobs, adding to worries about the economy",
-      "url": "https://www.npr.org/2026/03/06/nx-s1-5737603/jobs-labor-market-economy",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-03-06T14:05:12.000Z",
-      "summary_90w": "",
-      "raw": "The job market showed further signs of weakness last month as employers cut 92,000 jobs. The unemployment rate inched up to 4.4%, from 4.3% in January.",
       "topics": [
         "Business"
       ]
