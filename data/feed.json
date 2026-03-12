@@ -1,18 +1,44 @@
 {
-  "version": "1773315178199",
-  "generatedAt": "2026-03-12T11:32:58.199Z",
+  "version": "1773316382844",
+  "generatedAt": "2026-03-12T11:53:02.844Z",
   "items": [
+    {
+      "id": "fac49cac1c150c52b7180c88f7375fa5219d974f",
+      "title": "When startups become a family business",
+      "url": "https://techcrunch.com/2026/03/12/when-startups-become-a-family-business/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-03-12T11:38:00.000Z",
+      "summary_90w": "",
+      "raw": "This season on Build Mode, we’re diving into what it takes to build a world-class founding team. This week we’re exploring different kinds of co-founder dynamics and what it takes to build a startup with your family.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "072134c5489bd0fac49c1f12b1bb06752a924605",
       "title": "Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions",
       "url": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-03-12T11:22:35.000Z",
+      "published": "2026-03-12T11:36:21.000Z",
       "summary_90w": "",
       "raw": "The Lloyds Banking Group customers reported being able to view payments and charges from other sources.",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "35b6ba5c239fdd9dea038075a49aa60dc72f2b30",
+      "title": "Iran-linked cyber attack targets US medtech giant Stryker",
+      "url": "https://www.theverge.com/tech/893524/stryker-iran-us-medtech-cyberattack",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-03-12T11:28:53.000Z",
+      "summary_90w": "",
+      "raw": "This marks Iran’s first significant cyberattack against the US since the war started. | Image: Cath Virginia / The Verge, Getty Images\t\n\nUS medical equipment provider Stryker said its global networks were disrupted by a cyberattack on Wednesday, allegedly carried out by a hacking group linked to Iran. The attack impacted Stryker's internal Microsoft environment and deleted information from devices, with one employee telling NBC News that company phones stopped working, grinding work and communications to a standstill.\nIn an SEC filing disclosing the attack, Stryker says the \"full scope\" of the operational and financial impact on its business \"are not yet known,\" and that it's unable to provide a full restoration timeline. The situation was still ongoing as of 12:32AM ET on T …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -50,6 +76,19 @@
       "published": "2026-03-12T10:33:24.000Z",
       "summary_90w": "",
       "raw": "Forecasters say storms are becoming more intense in the region, partly due to global warming.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1b6f02212f9dc1132e3c6e3550a2706859870dba",
+      "title": "How the Iran war may affect your money and bills",
+      "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-12T10:32:35.000Z",
+      "summary_90w": "",
+      "raw": "The conflict in the Middle East could raise the cost of petrol, household energy bills and even food.",
       "topics": [
         "World"
       ]
@@ -110,13 +149,13 @@
       "id": "6b3b38adbbd36684cc98febd8cdd497b4b382dae",
       "title": "What role has cyber warfare played in Iran?",
       "url": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2026-03-12T10:20:08.000Z",
       "summary_90w": "",
       "raw": "Militaries are often cagey about their cyber activities. But the US has hinted at the role it has played.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -224,6 +263,32 @@
       ]
     },
     {
+      "id": "6ced7291675ea0151e552047c104f990c31c1c6f",
+      "title": "Jack Osbourne and wife name baby daughter after late dad Ozzy",
+      "url": "https://www.bbc.com/news/articles/cedzj38dln3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-12T09:46:21.000Z",
+      "summary_90w": "",
+      "raw": "Jack and wife Aree announce the birth of Ozzy Matilda Osbourne, eight months after his father's death.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "979215f6162e4759205f6b9d7e85ad541479a18e",
+      "title": "Water company to pay £45m after 'excessive' sewage spills",
+      "url": "https://www.bbc.com/news/articles/c2e4l9k9yd1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-12T09:43:39.000Z",
+      "summary_90w": "",
+      "raw": "The water supplier is set to pay a proposed £44.7m after \"serious and unacceptable\" sewage breaches.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "64e06ad8c8d6ced072738e8271b7bd76dc71dec8",
       "title": "What happens if Iran shuts the Strait of Hormuz?",
       "url": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&at_campaign=rss",
@@ -244,7 +309,7 @@
       "source_name": "World news | The Guardian",
       "published": "2026-03-12T09:30:32.000Z",
       "summary_90w": "",
-      "raw": "Protester alleges that Iranian handler ‘turned around and looked at us and then drew a line on his throat and pointed to us’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAustralian police investigated a complaint involving an Iranian regime-linked handler for the country’s football team after a group of activists alleged he threatened to kill them at a Women’s Asian Cup match last week.\nThe criminal investigation, confirmed by Queensland police, has led to renewed calls from the Iranian diaspora for tougher immigration screening processes to block people linked to Iran’s Islamic Revolutionary Guard Corps (IRGC) – a proscribed state sponsor of terrorism – from entering the country.\n Continue reading...",
+      "raw": "Protester alleges that Iranian handler ‘looked at us and then drew a line on his throat and pointed to us’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAustralian police investigated a complaint involving an Iranian regime-linked handler for the country’s football team after a group of activists alleged he threatened to kill them at a Women’s Asian Cup match last week.\nThe criminal investigation, confirmed by Queensland police, has led to renewed calls from the Iranian diaspora for tougher immigration screening processes to block people linked to Iran’s Islamic Revolutionary Guard Corps (IRGC) – a proscribed state sponsor of terrorism – from entering the country.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -757,23 +822,10 @@
       ]
     },
     {
-      "id": "88536c2a10a7fe5e00f214d3309b1c78dfce48a5",
-      "title": "US launches probe into trading partners including the EU, China and India",
-      "url": "https://www.bbc.com/news/articles/c15x1dxp3wpo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-12T01:14:31.000Z",
-      "summary_90w": "",
-      "raw": "The move comes weeks after the US Supreme Court struck down a key part of Trump's tariffs policies.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "4e7e4195097977023dae6ff7a680dc065b4382a8",
       "title": "Kanye West ordered to pay $140K in Malibu mansion renovation lawsuit",
       "url": "https://www.bbc.com/news/articles/c62g90w8dkko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-03-12T00:27:10.000Z",
       "summary_90w": "",
@@ -1264,19 +1316,6 @@
       ]
     },
     {
-      "id": "92eb6cc1073e5d900eb13dfe32df2702d050ad1c",
-      "title": "Poppi founder on TikTok, Super Bowl ads, and her return to Shark Tank",
-      "url": "https://techcrunch.com/video/poppi-founder-on-tiktok-super-bowl-ads-and-her-return-to-shark-tank/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-03-11T17:47:05.000Z",
-      "summary_90w": "",
-      "raw": "For years, venture capitalists have been skeptical of beverage startups, citing thin margins and brutal distribution as reasons most brands never break out. But a new wave of “functional soda” companies has been challenging that assumption, including Poppi, the prebiotic soda brand that grew from a kitchen experiment into a $1.95 billion acquisition by PepsiCo.  On this episode of […]",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "191ee7a441263c29e84828e2c23fbc1fef649f1a",
       "title": "Microsoft’s next Xbox, Project Helix, won&#8217;t reach alpha until 2027",
       "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
@@ -1352,19 +1391,6 @@
       "raw": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "ed18447cdb9d792b7e3a0f80d0c99f04ddda1a1c",
-      "title": "Alternative app store AltStore PAL is joining the fediverse",
-      "url": "https://www.theverge.com/tech/893085/altstore-pal-alternative-app-store-fediverse",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-03-11T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "AltStore PAL, the alternative iOS app store available in the European Union and Japan, is joining the social web. In a post on Wednesday, AltStore PAL announced that users across Mastodon, Threads, and Bluesky can now interact with apps that developers choose to federate on its explore.alt.store website.\nAny likes from the social web will appear on AltStore PAL, according to creator Riley Testut, who shared last October that \"you'll be able to comment on an app on Mastodon, like a news update on Threads, then open AltStore and view all these same interactions in-app.\" Users can also now sign into the AltStore PAL with their Mastodon or Blue …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
