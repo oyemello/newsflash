@@ -1,14 +1,27 @@
 {
-  "version": "1773526787894",
-  "generatedAt": "2026-03-14T22:19:47.894Z",
+  "version": "1773528633185",
+  "generatedAt": "2026-03-14T22:50:33.185Z",
   "items": [
+    {
+      "id": "f5c367ce27316877e08e31ff22a08ea18dc41a6b",
+      "title": "Match of the Day",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-15T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Kelly Cates presents highlights of five Premier League games, including Arsenal v Everton.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "f5f5ed7f46490924a4200300afdebb3beacca2a4",
       "title": "London's Burning actor John Alford dies in prison",
       "url": "https://www.bbc.com/news/articles/cd6zdg737gpo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-03-14T22:11:12.000Z",
+      "published": "2026-03-14T22:44:26.000Z",
       "summary_90w": "",
       "raw": "The 54-year-old former star of Grange Hill and London's Burning was found dead at HMP Bure in Norfolk.",
       "topics": [
@@ -16,14 +29,92 @@
       ]
     },
     {
-      "id": "282f8d3a2af8c0f70a46e30e16756b81e7759be2",
-      "title": "Rosenior says referee should focus on job, not Chelsea huddle",
-      "url": "https://www.bbc.com/sport/articles/c309eq98q5do?at_medium=RSS&at_campaign=rss",
+      "id": "379e1f2c5731aee3b6ede4040442da9371a47795",
+      "title": "France take title with last-gasp win over England in 94-point thriller",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cjwzel8y3elo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-03-14T22:10:46.000Z",
+      "published": "2026-03-14T22:33:43.000Z",
       "summary_90w": "",
-      "raw": "There was an unusual addition to Chelsea's huddle before their game against Newcastle at Stamford Bridge - referee Paul Tierney.",
+      "raw": "France claim a third Six Nations in the past five editions as Thomas Ramos' last-gasp kick decides a 94-point thriller against England in Paris.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "03e5abcce17c8bb9ef6e13b41473353c68a81be6",
+      "title": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
+      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-03-14T22:27:41.000Z",
+      "summary_90w": "",
+      "raw": "Tommy Thompson spent more than a decade in prison after refusing to disclose the whereabouts of 500 missing gold coins.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e5a06ca7cac56ba7371cc32104090d3fa4e81b44",
+      "title": "Australia news live: new laws to crack down on property underquoting in NSW; inflation could reach ‘high fours’, Chalmers says",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/15/federal-politics-jim-chalmers-anthony-albanese-labor-angus-taylor-matt-canavan-coalition-barnaby-joyce-one-nation-iran-womens-football-team-asylum-offers-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-14T22:25:19.000Z",
+      "summary_90w": "",
+      "raw": "Minns government introducing legislation to significantly increase penalties. Follow the day’s updates live\nThe Minns government will introduce legislation this week to crack down on real estate underquoting, significantly hiking penalties.\nMinister for Better Regulation and Fair Trading Anoulack Chanthivong said:\nWe are ensuring misconduct can no longer be written off as a cost of doing business.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "77dbf2510063438f0159e2257ecdda65b45cf711",
+      "title": "How history maker Dowman stole show for Arsenal",
+      "url": "https://www.bbc.com/sport/football/articles/cz6e5gg2egyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-14T22:21:48.000Z",
+      "summary_90w": "",
+      "raw": "Ever since he pulled on an Arsenal shirt, Max Dowman has been breaking records - and the 16-year-old played a key role in what could prove to be a vital win over Everton.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7b2addb226bcd321e840e5b86560a891786f3863",
+      "title": "Pentagon tightens controls over Stars and Stripes after calling it \"woke\"",
+      "url": "https://www.npr.org/2026/03/14/nx-s1-5748020/pentagon-tightens-controls-over-stars-and-stripes-after-calling-it-woke",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-03-14T22:18:02.000Z",
+      "summary_90w": "",
+      "raw": "The new rules for the independent military newspaper are the Defense Department's latest effort to put extraordinary restrictions on journalists covering the agency.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3932db2a9ca0024201dede8bc50e12d76d042751",
+      "title": "F1 cancels Bahrain & Saudi Arabia Grands Prix",
+      "url": "https://www.bbc.com/sport/formula1/articles/c5ykne3g305o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-14T22:17:26.000Z",
+      "summary_90w": "",
+      "raw": "The Bahrain and Saudi Arabian Grand Prix weekends are cancelled because of the ongoing conflict in the Middle East.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8b47d503d565126824327be7bff6cb6370a0b835",
+      "title": "F1 cancels Bahrain and Saudi Arabia GPs because of Middle East war",
+      "url": "https://www.theguardian.com/sport/2026/mar/14/formula-one-cancel-bahrain-saudi-arabia-grand-prix-war-middle-east",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-14T22:16:25.000Z",
+      "summary_90w": "",
+      "raw": "Bahrain circuit only 20 miles from targeted US base\n\nRaces unlikely to be replaced because of logistics\n\nFormula One has cancelled the Bahrain and Saudi Arabia grands prix because of the war in the Middle East.\nThe races were due to take place on 12 April in Bahrain and 19 April in Saudi Arabia but the sport was approaching the point at which a decision on cancellation needed to be made to prevent more freight being sent to Bahrain.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -52,19 +143,6 @@
       "raw": "In September, Donald Trump claimed that \"the United States is getting a tremendous fee\" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the range of $10 billion. The money is supposedly being paid by new investors, including Oracle and Silver Lake. Reports are that $2.5 billion was already paid to the Treasury when the deal closed on January 22nd. The rest will be paid out in installments.\nThis is the latest example of the Trump administration inserting itself into private business in unprecedented ways, including taking on a 10-percent stake in Intel last August,  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "e5a06ca7cac56ba7371cc32104090d3fa4e81b44",
-      "title": "Australia news live: new laws to crack down on property underquoting in NSW; inflation could reach ‘high fours’, Chalmers says",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/15/federal-politics-jim-chalmers-anthony-albanese-labor-angus-taylor-matt-canavan-coalition-barnaby-joyce-one-nation-iran-womens-football-team-asylum-offers-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-14T21:56:17.000Z",
-      "summary_90w": "",
-      "raw": "Minns government introducing legislation to significantly increase penalties. Follow the day’s updates live\nDefence to help with top end flood clean up\nThe federal minister for emergency management, Kristy McBain, says the government has approved a request from the Northern Territory for Australian Defence Force personnel to assist in the wake of serious flooding.\nWhat the government should be doing is getting a lot more information on where things are at and doing what they can to deliver things.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -117,19 +195,6 @@
       "raw": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "1f95369ba0b3619946fba4faa0b3555ca5b3828f",
-      "title": "'Shot at history passes Scotland by amid Irish ferocity'",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/czj1x43y0p3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-14T20:30:03.000Z",
-      "summary_90w": "",
-      "raw": "BBC Sport Scotland's chief sportswriter Tom English picks through Scotland's failed bid to clinch the Six Nations with defeat in Ireland again.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -224,19 +289,6 @@
       ]
     },
     {
-      "id": "03e5abcce17c8bb9ef6e13b41473353c68a81be6",
-      "title": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
-      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-03-14T17:51:28.000Z",
-      "summary_90w": "",
-      "raw": "Tommy Thompson spent more than a decade in prison after refusing to disclose the whereabouts of 500 missing gold coins.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "baa344c1beaf61beb372165e8fc5f97bdb572e90",
       "title": "Honda is killing its EVs — and any chance of competing in the future",
       "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
@@ -279,7 +331,7 @@
       "id": "46cf0c97d671ef141c9ee69a23f18e9bfd7158a2",
       "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
       "url": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-03-14T16:32:25.000Z",
       "summary_90w": "",
@@ -783,19 +835,6 @@
       ]
     },
     {
-      "id": "3ba72b3762efb678c25f327ce7c3485287d5e87e",
-      "title": "House GOP leadership silent as more members post anti-Muslim statements",
-      "url": "https://www.npr.org/2026/03/14/g-s1-113667/republicans-sharia-law-andy-ogles-mike-johnson",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-03-14T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A growing number of Republicans in Congress are embracing rhetoric against Muslims. Their remarks have faced little public pushback from leadership.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "6d247788f25142d0df707d150a3c010a3e1dda5f",
       "title": "Reframing Georgia O'Keeffe's legacy and protecting the land she loved",
       "url": "https://www.npr.org/2026/03/14/nx-s1-5745147/georgia-okeeffe-legacy-land-protection",
@@ -817,19 +856,6 @@
       "published": "2026-03-14T08:58:06.000Z",
       "summary_90w": "",
       "raw": "The fire that devastated a building on Union Street is the latest in a series of blazes to strike the city's historic sites.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a77900c9cabc9c4e71ef8367be743fd8c0147de4",
-      "title": "‘Could be the making of him’: Starmer’s allies praise stance on Trump and Iran",
-      "url": "https://www.theguardian.com/politics/2026/mar/14/starmer-trump-iran-middle-east-us-israel-conflict-britain",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-14T06:00:10.000Z",
-      "summary_90w": "",
-      "raw": "Refusal to kowtow to US president has won public backing – and left Badenoch and Farage playing catch-up\nIt is not often that Keir Starmer’s allies believe he has Nigel Farage and Kemi Badenoch on the run – but on Iran, they think he is on the right side of history and public opinion.\n“It could be the making of him,” said Emily Thornberry, the Labour chair of the foreign affairs committee, who was first out of the blocks to say she thought Donald Trump’s strikes on Iran were illegal. “You’ve not had a British prime minister say no to an American president since Vietnam. This is a big deal.”\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1394,9 +1420,9 @@
       ]
     },
     {
-      "id": "7c75e2d71d8efa74b2d2f617ed969673f92f93d9",
+      "id": "f4912db232d76d805ab6c2874639128f1f7723a5",
       "title": "Is Cuba Trump’s next target after Iran?",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8bz8?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-03-13T13:00:00.000Z",
@@ -1753,19 +1779,6 @@
       "published": "2026-03-11T15:55:15.000Z",
       "summary_90w": "",
       "raw": "The war in Iran is roiling jet fuel prices and airlines are beginning to hike prices, unsettling travelers far from the Middle East. If you're booking a flight soon, here are things to know.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
-      "id": "eba5743238ea22687bb1f8b68ce6332c296fb6c5",
-      "title": "Countries agree to a historic release of stockpiled oil to ease global disruption",
-      "url": "https://www.npr.org/2026/03/11/nx-s1-5743816/iran-war-oil-reserves-iea",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-03-11T14:24:18.000Z",
-      "summary_90w": "",
-      "raw": "Members of the International Energy Agency have announced a coordinated release of 400 million barrels of stockpiled oil in an attempt to counter the disruption in oil trade triggered by the Iran war.",
       "topics": [
         "Business"
       ]
