@@ -1,18 +1,31 @@
 {
-  "version": "1773679141020",
-  "generatedAt": "2026-03-16T16:39:01.020Z",
+  "version": "1773683101541",
+  "generatedAt": "2026-03-16T17:45:01.541Z",
   "items": [
     {
-      "id": "ed2baa67112212b37faa4d625a3b91d6160a03c4",
-      "title": "Car park firm NCP collapses with nearly 700 jobs at risk",
-      "url": "https://www.bbc.com/news/articles/c2e48zl4j7ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-16T16:28:19.000Z",
+      "id": "a953790f7bbf9f096e8369b18eedae9b7042ecf0",
+      "title": "Fuse raises $25M  to disrupt aging loan origination systems used by U.S. credit unions",
+      "url": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-03-16T17:43:27.000Z",
       "summary_90w": "",
-      "raw": "The car park operator says demand for parking has not recovered to pre-Covid levels, as its administrators look to sell the business.",
+      "raw": "The startup also announced a $5M 'rescue fund' to help credit unions ditch legacy software for its AI-native platform.",
       "topics": [
-        "World"
+        "Technology"
+      ]
+    },
+    {
+      "id": "1072952d9e7f5ad458f33cd9aafdfbc856fcdc47",
+      "title": "The dictionary sues OpenAI",
+      "url": "https://techcrunch.com/2026/03/16/the-dictionary-sues-openai/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-03-16T17:38:34.000Z",
+      "summary_90w": "",
+      "raw": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -21,11 +34,89 @@
       "url": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-03-16T16:11:39.000Z",
+      "published": "2026-03-16T17:34:32.000Z",
       "summary_90w": "",
-      "raw": "Italy, Germany, UK and Greece react cautiously after Trump threatens failure to do assist would be ‘very bad for the future of Nato’\n\nHow have you been affected by the latest Middle East events?\n\nContinued from previous post:\nJapan’s prime minister, Sanae Takaichi, has said she has no immediate plans to send her country’s maritime self-defence forces to help protect tanker traffic in the strait of Homuz.\nWe have not made any decisions whatsoever about dispatching escort ships. We are continuing to examine what Japan can do independently and what can be done ⁠within the legal framework.\nI would like to ⁠engage in solid discussions based on Japan’s views and position regarding the need for early de-escalation.\n Continue reading...",
+      "raw": "Iran war ‘not a matter for Nato’, says Germany’s Merz as European countries react cautiously to Trump’s calls for assistance\n\nEuropean countries reject Trump’s call for help to reopen strait of Hormuz\n\nHow have you been affected by the latest Middle East events?\n\nAre fuel price increases making you cut back? \n\nContinued from previous post:\nJapan’s prime minister, Sanae Takaichi, has said she has no immediate plans to send her country’s maritime self-defence forces to help protect tanker traffic in the strait of Homuz.\nWe have not made any decisions whatsoever about dispatching escort ships. We are continuing to examine what Japan can do independently and what can be done ⁠within the legal framework.\nI would like to ⁠engage in solid discussions based on Japan’s views and position regarding the need for early de-escalation.\n Continue reading...",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "be49e8aa12757cf08dd4ff6402a251da13ceb1f9",
+      "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
+      "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-16T17:34:13.000Z",
+      "summary_90w": "",
+      "raw": "European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war is not really an option.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "aa91e31c712d420a57f7afea78e5b4a430c6213a",
+      "title": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer",
+      "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-16T17:17:19.000Z",
+      "summary_90w": "",
+      "raw": "Wiles will continue to work \"virtually full time at the White House\" while undergoing treatment, the US president said.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ed2baa67112212b37faa4d625a3b91d6160a03c4",
+      "title": "Car park firm NCP collapses with nearly 700 jobs at risk",
+      "url": "https://www.bbc.com/news/articles/c2e48zl4j7ko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-16T17:13:28.000Z",
+      "summary_90w": "",
+      "raw": "The car park operator says demand for parking has not recovered to pre-Covid levels, as its administrators look to sell the business.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "169a4f752e61f04352fa686922e10de4210811bb",
+      "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-03-16T17:04:06.000Z",
+      "summary_90w": "",
+      "raw": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by Reuters. \nAccording to Britannica, OpenAI repeatedly copied its content without permission, stating, \"GPT-4 itself has 'memorized' much of Britannica's copyrighted content and will output near-verbatim copies of significant portions on demand. The memorized examples are unauthorized copies that [OpenAI] used to train their models, including GPT-4.\" \nThe lawsuit goes on  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7915fadb3a1c5c89ba252831b36a3d96079bec58",
+      "title": "BBC urges court to dismiss Trump Panorama lawsuit",
+      "url": "https://www.bbc.com/news/articles/c17845kz2yno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-16T17:02:23.000Z",
+      "summary_90w": "",
+      "raw": "The US president is suing for defamation over the way Panorama spliced together parts of a speech he made.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "eef2f49aff73bce208ff23b61f4acc1ffa1f4d92",
+      "title": "Amazon’s Fire TV Stick 4K Max and 4K Plus sticks are up to 50 percent off ",
+      "url": "https://www.theverge.com/gadgets/895340/fire-tv-stick-4k-max-plus-amazon-early-big-spring-sale-deal-sale",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-03-16T17:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Since Amazon rolled out its redesigned Fire TV OS, Amazon’s latest streaming sticks are even better than ever. And right now, both the Fire TV Stick 4K Max and Fire TV Stick 4K Plus are back at their best prices yet during Amazon’s early Big Spring Sale event. You can buy the Fire TV Stick 4K Max for $34.99 ($25 off) at Amazon, Best Buy, and Target, while the Fire TV Stick 4K Plus is down to $24.99 ($25 off) at the same retailers (Amazon, Best Buy, and Target).\nAmazon Fire TV Stick 4K Max (2023)\n\nWhere to Buy:\n\n $59.99 $34.99 at Amazon\n $59.99 $34.99 at Best Buy\n $59.99 $34.99 at Target\n\n\nAmazon Fire TV Stick 4K Plus\n\nWhere to Buy:\n\n $49.99 $24.99 at Target\n $49.99 $24.99 at Amazon\n $49.99 $24.99 at Best Buy\n\nThe updated Fire TV OS makes it easier to find something to watch no matter which model you choose. It pulls recommendations from your subscriptions and adds tabs across the top of your screen for categories like TV shows, news, sports, and live content, so you can quickly jump to what you want to watch. There’s also a redesigned apps row that lets you pin up to 20 favorites instead of just six, making it quicker to jump between services. You can also navigate with your voice thanks to support for Alexa Plus, which lets you issue specific commands like asking it to open ESPN on Sling TV, search for particular scenes or content, check sports scores, or control compatible smart home devices. You even use the remote to quickly view feeds from devices like Ring cameras. \nThe biggest differences between the two sticks mainly come down to hardware. As the higher-end option, the Fire TV Stick 4K Max comes with a few extra features. Both models support Dolby Vision and Dolby Atmos, but the Fire TV Stick 4K Max offers double the storage at 16GB along with support for Wi-Fi 6E instead of Wi-Fi 6 for faster connectivity. It also comes with Amazon’s Alexa Voice Remote Enhanced, which adds extra shortcuts like a button for quick access to live TV channel listings.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -143,19 +234,6 @@
       "raw": "While Amazon’s previous lineup of Echo speakers and smart displays was boring, frankly, its late 2025 hardware refresh brought better hardware, improved performance, and Alexa Plus to several models. If you feel like your room(s) could benefit from speakers to deliver tunes, audiobooks, or podcasts to more corners of your home, or screens to show recipes, photos, or videos, there are some great early Big Spring Sale deals that are worth checking out.\nIn terms of smart displays, Amazon’s Echo Show 11 is a great deal at $169.99 (was $219.99), while the smaller Echo Show 8 with an 8.7-inch screen is $139.99 (was $179.99). Our Jennifer Pattison Tuohy has used both, and considers their screens “light-years ahead” of the previous model, though the larger device has a 1080p screen while the smaller is at 720p resolution. Moving to speakers, the $189.99 (usually $219.99) Echo Studio gives the Apple HomePod 2 a run for its money, with room-filling sound and Atmos support. Even Amazon’s smaller, cheaper Echo Dot Max at $74.99 (was $99.99) is a solid value, thanks to its improved design and performance.\nHere are all of the deals in one place:\nEcho Show 11\nThe Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub, supporting Thread, Matter, and Zigbee smart home protocols.\n\nWhere to Buy:\n\n $219.99 $169.99 at Amazon\n $219.99 $169.99 at Best Buy\n\nEcho Show 8\nThe updated Echo Show 8 features an 8-inch display with 720p resolution, wider viewing angles, and higher contrast. It includes a 13MP camera, new stereo speakers, and supports Alexa Plus, while doubling as a smart home hub with support for Zigbee, Matter, and Thread.\n\nWhere to Buy:\n\n $179.99 $139.99 at Amazon\n $179.99 $139.99 at Best Buy\n\nAmazon Echo Studio (2025)\nThe latest Echo Studio is 40 percent smaller than its predecessor, but packs better sound. It’s the better choice compared to the Echo Dot Max if you intend to listen to a lot of spatial audio. Read our review.\n\nWhere to Buy:\n\n $219.99 at Amazon\n $219.99 at Best Buy\n $219.99 at The Home Depot\n\nEcho Dot Max\nThe Echo Dot Max features a flat design and a redesigned sound system, which delivers nearly three times the bass as its predecessor. It also offers improved conversation detection and better noise filtering, thanks to Amazon’s new AZ3 chip. Read our review.\n\nWhere to Buy:\n\n $99.99 $79.99 at Amazon\n $99.99 $79.99 at Best Buy\n $99.99 $79.99 at Target\n\nOther Verge-approved deals\nFor a limited time at Amazon, you can get deep savings with Samsung’s P9 256GB model for the Nintendo Switch 2. Normally around $50 or so, it’s down to $31.50. It’s a fantastic deal if you want to add more storage to your Switch 2 console. It beats the price of Samsung’s Mario-themed 256GB microSD Express card that was discounted to $39.99 (from $59.99) for Mario Day.\n$550 was the price to beat for the last-gen Apple Watch Ultra 2 smartwatch, and it’s now available for $499 for the first time at Amazon. Multiple color schemes of the one-size-only watch are available at this price, suiting those who either wish to blend in or stand out. While identical to the newer Ultra 3 that’s still $799 ($300 more!), there are some very minor differences internally between the two. The latest watch has a slightly bigger OLED screen, it supports Emergency SOS via satellite, it’s 5G-capable, and it offers slightly longer battery life (up to 42 hours versus 36 in the Ultra 2). Read our review of the Ultra 3, which compares it directly to its now-discounted predecessor.\nDragon Quest VII Reimagined is a fantastic remake and one of the most approachable games in the long-running RPG series. The physical version of the game just got its first discount across all platforms at Amazon, including on Xbox, Nintendo Switch 2, and the PlayStation 5. Originally $59.99, it’s $49.99 now. This updated version reworks the game, not just in terms of its adorable visuals, but with many quality-of-life features that should save you a lot of time and frustration as you play. Read our review.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "be49e8aa12757cf08dd4ff6402a251da13ceb1f9",
-      "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
-      "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-16T15:12:25.000Z",
-      "summary_90w": "",
-      "raw": "European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war isn't really an option.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -913,19 +991,6 @@
       ]
     },
     {
-      "id": "ed673989fac0600317436d2e29d7d2dcbb1c0911",
-      "title": "We'll never know how Dad's body became so decomposed",
-      "url": "https://www.bbc.com/news/articles/cwyxl65yz9yo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-16T01:33:15.000Z",
-      "summary_90w": "",
-      "raw": "Ronald Parkin's case prompts calls from his family for the government to regulate the funeral sector.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "bac79a76bc061adb820fe6b3ef07d69d00ba7c8d",
       "title": "Mr Nobody Against Putin wins the best documentary Oscar",
       "url": "https://www.theguardian.com/film/2026/mar/16/mr-nobody-against-putin-wins-the-best-documentary-oscar",
@@ -1007,7 +1072,7 @@
       "id": "0c888b92f97c30ec34520bb171a96bf097398f9a",
       "title": "'We will go wherever they hide': Rooting out IS in Somalia",
       "url": "https://www.bbc.com/news/articles/cj32d8e2m5eo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-03-16T00:05:40.000Z",
       "summary_90w": "",
@@ -1095,19 +1160,6 @@
       ]
     },
     {
-      "id": "bb3452af4a6fdcb0d940d66e0e00f643ecf2c973",
-      "title": "Aether OS is a computer in a browser built for the AT Protocol",
-      "url": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-03-15T19:35:57.000Z",
-      "summary_90w": "",
-      "raw": "Aether OS puts a full-fledged desktop in your browser that ties directly into the AT Protocol. That means it connects to your Bluesky account and other public records. It offers a pretty full suite of apps, 42 in total, covering text editing, task management, and social media. There's even a rudimentary tracker for making chiptunes, a DAW, and a video editor. \nOf course, part of the appeal is also the cyberpunk good looks that draw obvious inspiration from The Matrix. \nRight now, the project is in alpha, and there are a lot of rough edges. Documentation is also basically non-existent. So, if you get stuck trying to use an app, you're kind  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "c497238b39e355dc01158f47539f98b6b5a39e82",
       "title": "Israeli police kill two young Palestinian boys and their parents in West Bank",
       "url": "https://www.theguardian.com/world/2026/mar/15/israeli-police-kill-two-young-palestinian-boys-and-their-parents-in-west-bank",
@@ -1170,19 +1222,6 @@
       "raw": "Democrat says Congress ‘doing nothing’ may embolden president to attack countries such as Cuba and North Korea\nDemocratic US senator Cory Booker has criticized both his own political party as well as its Republican counterpart for being “feckless” in ceding congressional war powers to Donald Trump, saying that their decision could embolden the president to unilaterally attack Cuba, North Korea and other countries.\n“I’m going to be one of those Democrats [who] say I think both parties have been feckless in allowing the growth of the power of the presidency,” Booker said on Sunday on CNN’s State of the Union.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "32d0d5312cad9539ac36b70c569209c922c7d39b",
-      "title": "Sotomayor’s Wabi Sabi is the funnest record of 2026",
-      "url": "https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-03-15T16:45:00.000Z",
-      "summary_90w": "",
-      "raw": "Can’t. Stop. Dancing. | Image: Wonderwheel Recordings\t\n\nShout out to subscriber N_Gorski for today's pick. They popped into the comments on last week's recommendation to ask what I thought of the new Sotomayor record. Well, I hadn't actually heard it yet, but now I'm obsessed.\nThe group consists of siblings Raul and Paulina Sotomayor from Mexico City. Wabi Sabi is their first record since 2020's Origenes, and it is pure joy. You can look back through everything I've recommended over the last several months, and \"fun\" is not how you'd describe most of it. But that's what Wabi Sabi is - it's fun, chaotic, and dancey as hell.\nI was only familiar with Sotomayor before this because of a short docume …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1342,19 +1381,6 @@
       ]
     },
     {
-      "id": "d12ae233a66bb908d24296970d04e27c8a7e4763",
-      "title": "As people look for ways to make new friends, here are the apps promising to help",
-      "url": "https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-03-14T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "5c4f8e10601bc0f72649b6bebebd5623ea7e3ed3",
       "title": "Gazans urged to shelter as sandstorm turns skies orange",
       "url": "https://www.bbc.com/news/videos/cwy8rx3ryljo?at_medium=RSS&at_campaign=rss",
@@ -1368,21 +1394,8 @@
       ]
     },
     {
-      "id": "5d433d4709d9996bdd4227cda8efaa64eb3239ac",
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-      "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-03-14T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "7f5fc5ae013150e7ca9779982882aa5932bb729f",
-      "title": "Helpful or harmful? How to vet tax advice from social media",
+      "title": "Too good to be true? How to vet tax advice",
       "url": "https://www.npr.org/2026/03/14/nx-s1-5727676/helpful-or-harmful-how-to-vet-tax-advice-from-social-media",
       "source_id": "npr-business",
       "source_name": "NPR Topics: Business",
