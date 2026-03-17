@@ -1,7 +1,46 @@
 {
-  "version": "1773732186488",
-  "generatedAt": "2026-03-17T07:23:06.488Z",
+  "version": "1773734990777",
+  "generatedAt": "2026-03-17T08:09:50.777Z",
   "items": [
+    {
+      "id": "9fb0f37070c8a5230debcdefe714656ee71c58b0",
+      "title": "Hands on with Aqara’s new Matter-compatible camera",
+      "url": "https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-03-17T08:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The Aqara G350 is the first camera you can buy that has support for Matter.\t\n\nThe first Matter camera is here - sort of. Camera support came to the smart home standard last year, and Aqara's Camera Hub G350 is the first to support it. The G350, which was announced at CES, launched this week and is a pan-and-tilt indoor security camera with up to 4K video resolution. \nToday, the G350 only supports Matter on Samsung SmartThings, as none of the other platforms have added Matter 1.5 yet. I've only had the camera setup for a day, and it took several firmware updates before I could connect it as a Matter camera. So far, all it can do is stream a live feed, which is far less than what Samsung promises Matter cameras in Smar …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "22ba905346bf2f58eefe9d7dc02758b2975aa4d0",
+      "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
+      "url": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-17T07:56:11.000Z",
+      "summary_90w": "",
+      "raw": "It comes after the war in Iran caused mass disruption to flights across the Middle East and UAE.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "86f0ebaa110041f5a874caab6f7dedda2223bbaa",
+      "title": "Reeves vows to stop UK tech from 'drifting abroad'",
+      "url": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-17T07:19:27.000Z",
+      "summary_90w": "",
+      "raw": "The Chancellor tells the BBC she wants the \"pattern to end\" while also pledging closer ties with the EU",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "63e2c4f176f5de9af3e1252a66acee8cddab05e0",
       "title": "‘If we have to change tack, we will’: RBA hikes rates but not aiming to put Australia into recession, Bullock says",
@@ -63,6 +102,19 @@
       "published": "2026-03-17T06:47:42.000Z",
       "summary_90w": "",
       "raw": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0d6a9c267c61fb902de63fca418da017203141c8",
+      "title": "Woman not shortlisted for job as 'car is too old'",
+      "url": "https://www.bbc.com/news/articles/c4g7yd202ngo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-17T06:29:04.000Z",
+      "summary_90w": "",
+      "raw": "Alanah Thomspon French says her application was not progressed as her car was more than 10 years old.",
       "topics": [
         "World"
       ]
@@ -289,19 +341,6 @@
       ]
     },
     {
-      "id": "bfba194e3a9bee320ee693b4648874dd3766141d",
-      "title": "Trump seeks to delay meeting with Xi in China",
-      "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-17T02:48:45.000Z",
-      "summary_90w": "",
-      "raw": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "59b3ca7dfd94fce2425b64762ab3b2feef0d65a2",
       "title": "Trump says presidents 'should not have learning disabilities' as he mocks Newsom's dyslexia",
       "url": "https://www.bbc.com/news/articles/c4gjnwmm984o?at_medium=RSS&at_campaign=rss",
@@ -341,10 +380,23 @@
       ]
     },
     {
+      "id": "146a20832c950e8b7d8d6256f4129eaaeb306fbd",
+      "title": "Trump 'not happy' with UK response to Iran conflict",
+      "url": "https://www.bbc.com/news/articles/cp816jwg411o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-17T01:34:35.000Z",
+      "summary_90w": "",
+      "raw": "It comes after Sir Keir Starmer said the UK was working with allies on a plan to protect the Strait of Hormuz.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "d07dc1f4b46b4c41edc13880a1ff08a5262065d1",
       "title": "Utah bereavement author found guilty of fatally poisoning her husband",
       "url": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-03-17T01:14:04.000Z",
       "summary_90w": "",
@@ -510,32 +562,6 @@
       ]
     },
     {
-      "id": "22ba905346bf2f58eefe9d7dc02758b2975aa4d0",
-      "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
-      "url": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-17T00:01:17.000Z",
-      "summary_90w": "",
-      "raw": "It comes after the war in Iran caused mass disruption to flights across the Middle East and UAE.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "86f0ebaa110041f5a874caab6f7dedda2223bbaa",
-      "title": "Reeves vows to stop UK tech from 'drifting abroad'",
-      "url": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-17T00:01:07.000Z",
-      "summary_90w": "",
-      "raw": "The Chancellor tells the BBC she wants the \"pattern to end\" while also pledging closer ties with the EU",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "4aadfbfc837b1b184a7fbd286bdc523e1c563ce8",
       "title": "Trump seeks to delay China summit as Vance denies ‘wedge’ over Iran war",
       "url": "https://www.theguardian.com/us-news/2026/mar/16/trump-china-summit-iran-war",
@@ -583,19 +609,6 @@
       "published": "2026-03-16T22:17:11.000Z",
       "summary_90w": "",
       "raw": "US president had earlier hinted trip could be put on hold if President Xi does not help unblock the strait of Hormuz\n\nMiddle East crisis – live updates\n\nTrump has asked to delay his planned visit to Beijing by about a month due to the Iran war, after earlier hinting he might put the trip off if his prospective hosts do not help to unblock the strait of Hormuz.\nThe US president’s summit with China’s leader, Xi Jinping, was meant to take place at the end of March but Trump told reporters in the White House on Monday: “Because of the war I want to be here, I have to be here, I feel. And so we’ve requested that we delay it a month or so.”\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "118f6a2e31a6b572233ef0bb2a11e959f51c834a",
-      "title": "Tina Fey, Riz Ahmed and Jamie Dornan named Saturday Night Live UK hosts",
-      "url": "https://www.bbc.com/news/articles/cy57xqrx3zno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-16T21:57:56.000Z",
-      "summary_90w": "",
-      "raw": "The six-episode series, based on the long-running US variety show, will launch on 21 March.",
       "topics": [
         "World"
       ]
@@ -1108,19 +1121,6 @@
       ]
     },
     {
-      "id": "ed2baa67112212b37faa4d625a3b91d6160a03c4",
-      "title": "Car park firm NCP collapses with nearly 700 jobs at risk",
-      "url": "https://www.bbc.com/news/articles/c2e48zl4j7ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-16T17:13:28.000Z",
-      "summary_90w": "",
-      "raw": "The car park operator says demand for parking has not recovered to pre-Covid levels, as its administrators look to sell the business.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "169a4f752e61f04352fa686922e10de4210811bb",
       "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
       "url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
@@ -1129,19 +1129,6 @@
       "published": "2026-03-16T17:04:06.000Z",
       "summary_90w": "",
       "raw": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by Reuters. \nAccording to Britannica, OpenAI repeatedly copied its content without permission, stating, \"GPT-4 itself has 'memorized' much of Britannica's copyrighted content and will output near-verbatim copies of significant portions on demand. The memorized examples are unauthorized copies that [OpenAI] used to train their models, including GPT-4.\" \nThe lawsuit goes on  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "eef2f49aff73bce208ff23b61f4acc1ffa1f4d92",
-      "title": "Amazon’s Fire TV Stick 4K Max and 4K Plus sticks are up to 50 percent off ",
-      "url": "https://www.theverge.com/gadgets/895340/fire-tv-stick-4k-max-plus-amazon-early-big-spring-sale-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-03-16T17:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Since Amazon rolled out its redesigned Fire TV OS, Amazon’s latest streaming sticks are even better than ever. And right now, both the Fire TV Stick 4K Max and Fire TV Stick 4K Plus are back at their best prices yet during Amazon’s early Big Spring Sale event. You can buy the Fire TV Stick 4K Max for $34.99 ($25 off) at Amazon, Best Buy, and Target, while the Fire TV Stick 4K Plus is down to $24.99 ($25 off) at the same retailers (Amazon, Best Buy, and Target).\nAmazon Fire TV Stick 4K Max (2023)\n\nWhere to Buy:\n\n $59.99 $34.99 at Amazon\n $59.99 $34.99 at Best Buy\n $59.99 $34.99 at Target\n\n\nAmazon Fire TV Stick 4K Plus\n\nWhere to Buy:\n\n $49.99 $24.99 at Target\n $49.99 $24.99 at Amazon\n $49.99 $24.99 at Best Buy\n\nThe updated Fire TV OS makes it easier to find something to watch no matter which model you choose. It pulls recommendations from your subscriptions and adds tabs across the top of your screen for categories like TV shows, news, sports, and live content, so you can quickly jump to what you want to watch. There’s also a redesigned apps row that lets you pin up to 20 favorites instead of just six, making it quicker to jump between services. You can also navigate with your voice thanks to support for Alexa Plus, which lets you issue specific commands like asking it to open ESPN on Sling TV, search for particular scenes or content, check sports scores, or control compatible smart home devices. You even use the remote to quickly view feeds from devices like Ring cameras. \nThe biggest differences between the two sticks mainly come down to hardware. As the higher-end option, the Fire TV Stick 4K Max comes with a few extra features. Both models support Dolby Vision and Dolby Atmos, but the Fire TV Stick 4K Max offers double the storage at 16GB along with support for Wi-Fi 6E instead of Wi-Fi 6 for faster connectivity. It also comes with Amazon’s Alexa Voice Remote Enhanced, which adds extra shortcuts like a button for quick access to live TV channel listings.",
       "topics": [
         "Technology"
       ]
