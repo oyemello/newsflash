@@ -1,7 +1,20 @@
 {
-  "version": "1774106443390",
-  "generatedAt": "2026-03-21T15:20:43.390Z",
+  "version": "1774108187714",
+  "generatedAt": "2026-03-21T15:49:47.714Z",
   "items": [
+    {
+      "id": "37c9419d2726b6aeddd5d8d8a4fd2baf99c52088",
+      "title": "Middle East crisis live: Trump says US considering ‘winding down’ war; Iran fired missiles at UK-US base on Diego Garcia",
+      "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-21T15:09:20.000Z",
+      "summary_90w": "",
+      "raw": "President says US ‘getting very close to meeting our objectives’; missiles fired at joint US-UK military base in Indian Ocean but neither hit\nCircling back now to Diego Garcia, Iran fired two intermediate-range ballistic missiles at the joint US-UK military base in the Indian Ocean – but neither of them hit, according to news reports citing US officials.\nThe Wall Street Journal said one of the missiles failed in flight, and that a US warship fired an SM-3 interceptor at the other, citing two US officials. It could not be determined if an interception was made, one said.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "6e00d5742a4fd93655203393e29f440f61ec4a39",
       "title": "Meningitis cases rise as vaccine queues continue ",
@@ -11,19 +24,6 @@
       "published": "2026-03-21T15:03:09.000Z",
       "summary_90w": "",
       "raw": "The UKHSA says the number of confirmed or suspected cases in Kent has risen from 29 to 34.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "37c9419d2726b6aeddd5d8d8a4fd2baf99c52088",
-      "title": "Middle East crisis live: Trump says US considering ‘winding down’ war; Iran fired missiles at UK-US base on Diego Garcia",
-      "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-21T14:54:17.000Z",
-      "summary_90w": "",
-      "raw": "President says US ‘getting very close to meeting our objectives’; missiles fired at joint US-UK military base in Indian Ocean but neither hit\nCircling back now to Diego Garcia, Iran fired two intermediate-range ballistic missiles at the joint US-UK military base in the Indian Ocean – but neither of them hit, according to news reports citing US officials.\nThe Wall Street Journal said one of the missiles failed in flight, and that a US warship fired an SM-3 interceptor at the other, citing two US officials. It could not be determined if an interception was made, one said.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -108,7 +108,7 @@
     },
     {
       "id": "77e393775d49f8ea147d00eff8ddf5727180c3f9",
-      "title": "Iran launched unsuccessful attack on Diego Garcia, it is understood",
+      "title": "Iran launched unsuccessful attack on UK military base Diego Garcia, it is understood",
       "url": "https://www.bbc.com/news/articles/c5yljdgwppzo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -1709,11 +1709,24 @@
       "id": "8f473b6c689eaccbc3653b989287514991fe085a",
       "title": "It's called 'private credit' — and it could lead to big trouble on Wall Street",
       "url": "https://www.npr.org/2026/03/19/nx-s1-5747128/private-credit-equity-jamie-dimon-wall-street",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2026-03-19T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The risky lending business has been booming, but now its problems are becoming increasingly visible on Wall Street and beyond.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b61bede70aa1e7a31dd29b699c4bd7cdebfdbc86",
+      "title": "This tax season, there's a new deduction for interest on car loans",
+      "url": "https://www.npr.org/2026/03/19/nx-s1-5749420/auto-loan-interest-tax-deduction",
       "source_id": "npr-business",
       "source_name": "NPR Topics: Business",
       "published": "2026-03-19T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "The risky lending business has been booming, but now its problems are becoming increasingly visible on Wall Street and beyond.",
+      "raw": "Taxpayers who purchased a new vehicle in 2025 may qualify for a new deduction on their taxes — even if they're not itemizing. But not everyone is eligible.",
       "topics": [
         "Business"
       ]
