@@ -1,6 +1,6 @@
 {
-  "version": "1774117557231",
-  "generatedAt": "2026-03-21T18:25:57.231Z",
+  "version": "1774119733422",
+  "generatedAt": "2026-03-21T19:02:13.422Z",
   "items": [
     {
       "id": "3dd7154ab610760c052bae9c30ff073dda888f9c",
@@ -8,9 +8,35 @@
       "url": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-03-21T18:15:40.000Z",
+      "published": "2026-03-21T18:55:38.000Z",
       "summary_90w": "",
       "raw": "A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ee61e642efb00a3e05fdd039415222f7cbcefade",
+      "title": "GB's Kerr reclaims world indoor 3,000m title",
+      "url": "https://www.bbc.com/sport/athletics/articles/cge0yn8gjqlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-21T18:42:04.000Z",
+      "summary_90w": "",
+      "raw": "Josh Kerr completes his post-injury return to the top of a global podium in thrilling fashion as he reclaims his world indoor 3,000m title.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "37c9419d2726b6aeddd5d8d8a4fd2baf99c52088",
+      "title": "Middle East crisis live: Trump says US considering ‘winding down’ war; Iran fired missiles at UK-US base on Diego Garcia",
+      "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-21T18:30:17.000Z",
+      "summary_90w": "",
+      "raw": "President says US ‘getting very close to meeting our objectives’; missiles fired at joint US-UK military base in Indian Ocean but neither hit\nCircling back now to Diego Garcia, Iran fired two intermediate-range ballistic missiles at the joint US-UK military base in the Indian Ocean – but neither of them hit, according to news reports citing US officials.\nThe Wall Street Journal said one of the missiles failed in flight, and that a US warship fired an SM-3 interceptor at the other, citing two US officials. It could not be determined if an interception was made, one said.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -24,19 +50,6 @@
       "published": "2026-03-21T18:03:43.000Z",
       "summary_90w": "",
       "raw": "Arne Slot needs answers quickly or Liverpool's unwanted records may no longer be his only worry.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "37c9419d2726b6aeddd5d8d8a4fd2baf99c52088",
-      "title": "Middle East crisis live: Trump says US considering ‘winding down’ war; Iran fired missiles at UK-US base on Diego Garcia",
-      "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-21T18:02:22.000Z",
-      "summary_90w": "",
-      "raw": "President says US ‘getting very close to meeting our objectives’; missiles fired at joint US-UK military base in Indian Ocean but neither hit\nCircling back now to Diego Garcia, Iran fired two intermediate-range ballistic missiles at the joint US-UK military base in the Indian Ocean – but neither of them hit, according to news reports citing US officials.\nThe Wall Street Journal said one of the missiles failed in flight, and that a US warship fired an SM-3 interceptor at the other, citing two US officials. It could not be determined if an interception was made, one said.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -76,19 +89,6 @@
       "published": "2026-03-21T17:44:08.000Z",
       "summary_90w": "",
       "raw": "Weapons fired after PM authorises US to carry out further attacks from UK bases, a move critics say must be approved by parliament\n\nMiddle East crisis live – latest updates\n\nThe Ministry of Defence has condemned Iranian strikes directed towards a US-UK military base on the island of Diego Garcia.\nIran fired the missiles after warning that British lives were “in danger” after Keir Starmer authorised the US to carry out further strikes from British bases.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7c9467de7c2aeda2d8599042b748c04f3bd4cc79",
-      "title": "Northampton return to top with narrow win over bottom side Newcastle",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cq57v38ldelo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-21T17:18:51.000Z",
-      "summary_90w": "",
-      "raw": "Northampton Saints go top of the Prem table with a hard fought and often unconvincing 28-27 victory over bottom club Newcastle Red Bulls.",
       "topics": [
         "World"
       ]
@@ -1748,24 +1748,11 @@
       "id": "8f473b6c689eaccbc3653b989287514991fe085a",
       "title": "It's called 'private credit' — and it could lead to big trouble on Wall Street",
       "url": "https://www.npr.org/2026/03/19/nx-s1-5747128/private-credit-equity-jamie-dimon-wall-street",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2026-03-19T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The risky lending business has been booming, but now its problems are becoming increasingly visible on Wall Street and beyond.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "b61bede70aa1e7a31dd29b699c4bd7cdebfdbc86",
-      "title": "This tax season, there's a new deduction for interest on car loans",
-      "url": "https://www.npr.org/2026/03/19/nx-s1-5749420/auto-loan-interest-tax-deduction",
       "source_id": "npr-business",
       "source_name": "NPR Topics: Business",
       "published": "2026-03-19T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "Taxpayers who purchased a new vehicle in 2025 may qualify for a new deduction on their taxes — even if they're not itemizing. But not everyone is eligible.",
+      "raw": "The risky lending business has been booming, but now its problems are becoming increasingly visible on Wall Street and beyond.",
       "topics": [
         "Business"
       ]
