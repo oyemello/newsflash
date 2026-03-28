@@ -1,6 +1,6 @@
 {
-  "version": "1774693565068",
-  "generatedAt": "2026-03-28T10:26:05.068Z",
+  "version": "1774695623311",
+  "generatedAt": "2026-03-28T11:00:23.311Z",
   "items": [
     {
       "id": "33f206fda8dabcbcb5bfdaa7e4b448cf475d126d",
@@ -8,7 +8,7 @@
       "url": "https://www.bbc.com/news/articles/c1w40e82w98o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-03-28T10:11:04.000Z",
+      "published": "2026-03-28T10:55:47.000Z",
       "summary_90w": "",
       "raw": "The former silk mill has been derelict since 2007 and has attracted anti-social behaviour.",
       "topics": [
@@ -149,11 +149,24 @@
       "id": "88c86732c67682ed72937beb52c5f78992053564",
       "title": "House Republicans reject Senate deal, prolonging partial US government shutdown",
       "url": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-03-28T08:38:34.000Z",
       "summary_90w": "",
       "raw": "Airport security agents have not been paid in more than a month due to a congressional impasse, causing travel chaos across the US.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "40c5a5b7fde190572526f03d02d7819dd93d35d6",
+      "title": "Ultrasound delays putting pregnant women and cancer patients at risk, sonographers say",
+      "url": "https://www.bbc.com/news/articles/cd7jdp9gxjdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-28T08:08:42.000Z",
+      "summary_90w": "",
+      "raw": "Demand for ultrasound has increased but too few people are being trained for the job, sonographers warn.",
       "topics": [
         "World"
       ]
@@ -380,23 +393,10 @@
       ]
     },
     {
-      "id": "12cc9db65bf2fc8fa77d13f217ac7c28651992b1",
-      "title": "The Papers:  'War to end in weeks' and '50% of public cut their spending'",
-      "url": "https://www.bbc.com/news/articles/c79jd9d0n4zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-28T01:17:11.000Z",
-      "summary_90w": "",
-      "raw": "The US saying the Middle East war will \"end in weeks\" and pressure on UK household budgets lead Saturday's papers.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f694fb050d1c8f0827236e763927085d3c9c4893",
       "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
       "url": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-03-28T01:06:54.000Z",
       "summary_90w": "",
@@ -552,7 +552,7 @@
       "id": "60de5b8f0a87ec535833883409060e934a40a4fb",
       "title": "'Memory of a generation': China mourns the sudden death of a controversial education influencer",
       "url": "https://www.bbc.com/news/articles/c15dz7ql59yo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-03-27T23:19:46.000Z",
       "summary_90w": "",
@@ -708,7 +708,7 @@
       "id": "433fcf7daad7561cfaf3d6f6aadc1c78c4c0d14b",
       "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
       "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-03-27T19:21:19.000Z",
       "summary_90w": "",
@@ -952,6 +952,19 @@
       ]
     },
     {
+      "id": "2a248c747783b1bcd5c1979c6dda640efd526ae6",
+      "title": "What is RFK doing to vaccines for children in America?",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8bzb?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-27T16:01:00.000Z",
+      "summary_90w": "",
+      "raw": "Trump’s Health Secretary hits a major setback to “Make America Healthy Again”",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "b432a71eb398e801a20098deb92df17f1619cf0e",
       "title": "Rivian gets another $1B from Volkswagen",
       "url": "https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/",
@@ -1040,19 +1053,6 @@
       "raw": "Despite the fact that spring isn’t often associated with big discounts, Amazon seems keen to turn every season into one filled with savings. Case in point? The retailer is currently hosting a spring sales event, which will run through 2:59AM ET on April 1st. Retailers like Best Buy, Walmart, and Newegg have also hopped aboard the wave of deals, matching many of the offers Amazon is making.\nAlthough we’ve already published a post that collects every major deal, regardless of price, this one focuses solely on gadgets priced at $50 or less. As usual, many products meet the criteria, but price alone doesn’t mean they’ll make the cut. We’ve narrowed it down to many of our core categories, including smart speakers, power banks, subscriptions, smart home devices, fast-charging cables, and a few things you might not have realized could improve your life. If you don’t want to spend a ton during Amazon’s annual Big Spring Sale, here are a couple of dozen semi-affordable products that come with our stamp of approval.\nGovee Smart LED Bulb (four-pack)\nGovee’s 800-lumen A19 bulbs can be controlled with either your phone or a smart speaker. You can also set the hubless smart bulbs to adjust their brightness and color automatically in time with your music using your phone’s built-in microphone.\n\nWhere to Buy:\n\n $39.99 $26.99 at Amazon\n $39.99 $26.99 at Govee\n\nXbox Wireless Controller\nMicrosoft’s official Xbox Wireless Controller features a dedicated button for saving clips and screenshots, as well as sharing them online. It also offers Bluetooth support and a USB-C port for charging Microsoft’s play-and-charge rechargeable battery.\n\nWhere to Buy:\n\n $64.99 $49.06 at Amazon (black)\n $64.99 $49.06 at Walmart (black)\n\nSpigen Slim carrying case for Nintendo Switch 2\nSpigen’s slim, tough case can hold your Nintendo Switch 2 console and 10 game cartridges. There’s also a pocket for stowing an AirTag or a similar Bluetooth tracker.\n\nWhere to Buy:\n\n $17.99 $10.79 at Amazon (for Prime members)\n\nAnker Nano 45W charger with display\nAnker’s latest single-port USB-C charger offers up to 45W of power, foldable prongs, and a front-facing “smart display” that lets you see the charge level, power flow, and other useful information at a glance.\n\nWhere to Buy:\n\n $39.99 $27.99 at Amazon\n $39.99 $27.99 at Anker \n\nTP-Link Kasa Smart Wi-Fi Plug Slim (KP125M)\nKasa’s well-rounded smart plug is easy to control in the Kasa app, works with all your major smart home platforms, supports Matter, and offers additional features like energy monitoring.  \n\nWhere to Buy:\n\n $39.99 $21.99 at Amazon (two-pack)\n $29.99 $21.99 at B&H Photo (two-pack)\n\nHoto 3.6V Electric Screwdriver Kit Pro\nHoto’s rechargeable screwdriver is ideal for small repairs. It offers three torque modes, a rotational speed of up to 220RPM, and a helpful circular LED to illuminate dark spaces. The durable case also holds all 25 steel bits and an extension bar for getting into hard-to-reach places.\n\nWhere to Buy:\n\n $79.99 $24.99 at Amazon\n $79.99 $29.99 at Walmart\n\nAmazon Fire TV Stick 4K Max (2023)\nAmazon’s most capable streaming stick is faster than its predecessor with Wi-Fi 6E and double the storage.  It also now displays widgets and artwork when idle while continuing to offer Alexa integration. Read our review.\n\nWhere to Buy:\n\n $59.99 $34.99 at Amazon\n $59.99 $34.99 at Best Buy\n $59.99 $34.99 at Target\n\nSony WF-C510 wireless earbuds\nThe WF-C510 are a value-focused pair of earbuds that don’t skimp on features. They’re the smallest closed earbuds Sony has ever made, with IPX4 water resistance and support for multipoint Bluetooth connectivity.\n\nWhere to Buy:\n\n $68 $48 at Amazon\n $68 $48 at Best Buy\n $68 $48 at B&H Photo\n\nTile Mate\nThe latest Tile Mate helps you keep track of your personal belongings from up to 350 feet away, which is 100 feet wider than its predecessor’s range. It’s also platform-agnostic, and can send SOS alerts if you pay for the $14.99 monthly Life360 Gold subscription.\n\nWhere to Buy:\n\n $24.99 $19 at Amazon\n\nBaseus Free2Pull Retractable USB-C Cable 100W\nBaseus’ slick USB-C charger supports 100W passthrough and takes a puck-like form when not in use, with male connectors on either side that retract inward with a quick tug.\n\nWhere to Buy:\n\n $16.99 $9.95 at Amazon (3.3-foot)\n $21.99 $15.19 at Amazon (6.6-foot)\n\nCMF Buds 2A\nWith 12.4mm drivers, active noise cancellation, and an IP54 rating, the CMF Buds 2A offer high-end features at an affordable price. You can also customize the sound, adjust ANC levels, and find the earbuds using the Nothing X app.\n\nWhere to Buy:\n\n $49 $24.65 at Amazon\n $49 $39 at Nothing\n\nGrownsy Baby Nasal Aspirator\nThe Grownsy snot sucker comes with three interchangeable soft tips for a good fit and provides three levels of suction. Your kid might still hate it, but at least one of you will have an easier time with it.\n\nWhere to Buy:\n\n $49.99 $33.99 at Amazon\n\nAnker 621 Magnetic Battery (MagGo)\nAnker’s 621 Magnetic Battery is a slim, 5,000mAh charger that can attach magnetically to the back of any MagSafe-ready iPhone.\n\nWhere to Buy:\n\n $39.99 $29.99 at Amazon\n $39.99 $29.99 at Anker (with code WSPDV2QGVRUD)\n\nHoto Air Pump Pocket\nHoto is known for its nifty electric screwdrivers, but it also offers a range of essential tech upgrades for other needs. Its 150psi electric air pump is a great gadget to buy, especially when it’s on sale.\n\nWhere to Buy:\n\n $59.99 $41.99 at Amazon\n\nSwitchBot Bot\nIf you’ve ever wished you had a robot that could push a button for you, that’s precisely what the SwitchBot Bot does. It’s simple, smart, and works on anything with a button. Stick it on the device you want to turn on or off, and you’re set. \n\nWhere to Buy:\n\n $29.99 $22.99 at Amazon\n $29.99 $23.1 at SwitchBot (with code MKMK15)\n\nCooler Master Elite Liquid 360 all-in-one CPU cooler\nWhether you’re building a PC from scratch or just making a few upgrades, Cooler Master’s inexpensive CPU cooler can help your build maintain an elegant look while keeping temps low. It supports AMD’s AM5 and AM4 sockets, as well as Intel’s LGA 1851 and 1700 sockets.\n\nWhere to Buy:\n\n $89.99 $49.99 at Amazon\n\nChomChom Roller Pet Hair Remover\nThe ChomChom is a reusable roller that works great for removing unwanted pet hair from furniture, allowing you to skip lint rollers, vacuuming, and other cleaning tools in a pinch.\n\nWhere to Buy:\n\n $27.99 $14.7 at Amazon\n $31.95 $24.99 at Chewy\n\nAmazon Smart Air Quality Monitor\nAmazon’s Smart Air Quality Monitor touts a compact design, voice alerts, and automated triggers that allow it to turn on air purifiers and other Alexa-enabled devices. It lacks a display, however, and pairs best with an Echo device. Read our review.\n\nWhere to Buy:\n\n $69.99 $49.99 at Amazon\n\nKasa Smart Wi-Fi Power Strip\nKasa’s aptly titled Smart Wi-Fi Power Strip features six smart outlets with surge protection, each of which can be individually controlled via Alexa or Google Home. It also has three non-smart USB-A ports for powering phone chargers and other small devices.\n\nWhere to Buy:\n\n $79.99 $39.97 at Amazon\n\nAmazon Echo Spot\nAmazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review.\n\nWhere to Buy:\n\n $79.99 $49.99 at Amazon\n $79.99 $49.99 at Best Buy\n $79.99 $49.99 at Target\n\nTwelve South Butterfly SE 2-in-1 Qi2 Charger\nThe Twelve South Butterfly SE features a sleek 2-in-1 design that’s perfect for travel. It has one charging pad that delivers up to 15W to a smartphone, and another that provides up to 5W to a smartwatch.\n\nWhere to Buy:\n\n $79.99 $47.99 at Amazon\n $79.99 $47.99 at Twelve South\n\nTomtoc FancyCase-G05 Nintendo Switch 2 Slim Case\nTomtoc’s hardshell case for the Switch 2 features a soft touch and a slim fit; it also includes a flap that protects the console’s screen while providing space for up to 12 cartridges. \n\nWhere to Buy:\n\n $36.99 $24.99 at Amazon\n\nParamount Plus (two months)\nThrough March 31st, new and former subscribers can get a two-month subscription to Paramount Plus Essential (ad-supported) or Paramount Plus Premium (ad-free) for $2.99 per month. The deal saves you up to $20.\n\nWhere to Buy:\n\n $7.99 $2.99 at Paramount Plus Essential\n $12.99 $2.99 at Paramount Plus Premium\n\nA Knight of the Seven Kingdoms (season one, 4K digital)\nPrime members can get all six episodes of A Knight of the Seven Kingdoms in 4K for $14.99. The Game of Thrones spinoff has entirely different feel than House of the Dragon. It’s fresh, and sometimes even funny.\n\nWhere to Buy:\n\n $22.99 $14.99 at Amazon (for Prime members)",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f51dd9ed0e43de770a3988b9a92c1fae49c7944c",
-      "title": "'I'd never get anything done': Parents on limiting screen time for under-5s",
-      "url": "https://www.bbc.com/news/articles/c1eqzqwxq8wo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-27T14:50:13.000Z",
-      "summary_90w": "",
-      "raw": "Parents say new government guidance on restricting children's screen time has to be \"realistic\".",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1602,6 +1602,19 @@
       ]
     },
     {
+      "id": "1ea6f42b77b48ad4d03deb85f4a4447e915453d4",
+      "title": "The Social Media Addiction Trial",
+      "url": "https://www.bbc.co.uk/sounds/play/p0n6h1fk?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-26T18:46:00.000Z",
+      "summary_90w": "",
+      "raw": "Campaigners win landmark legal battle against social media giants.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "c2ebba0850dc4974c1b8334609269c75396700d7",
       "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
       "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
@@ -1690,6 +1703,19 @@
       "raw": "The annual observance marks how far into the new year women must work to make what men earned in the previous year. This year, it's March 26, a day later than it was in 2025.",
       "topics": [
         "Business"
+      ]
+    },
+    {
+      "id": "168c1b06c1df091aba577ad93d94d26f35547ea9",
+      "title": "Returning ospreys avoid last season's love drama",
+      "url": "https://www.bbc.com/news/articles/c78rxldlkzvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-26T08:56:02.000Z",
+      "summary_90w": "",
+      "raw": "CJ7 returned last year to find male 022 had spent a few days in the nest with a new female.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1831,6 +1857,19 @@
       "published": "2026-03-25T13:44:21.000Z",
       "summary_90w": "",
       "raw": "UK urged to tackle transnational repression, as dissidents say Beijing has targeted them with tax bills and other threats\n“I didn’t feel safe, even though I’m not based in Hong Kong any more,” said Christopher Mung Siu-tat after getting tax bills from Hong Kong authorities. “The regime can reach me by their long arms wherever I am.”\nSiu-tat, the executive director at the Hong Kong Labour Rights Monitor, a UK-based NGO, fled Beijing’s sweeping national security laws years ago. The letters are the latest example of a series of transnational repression (TNR) tactics the 54-year-old has faced in recent years.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c67056756e9992f8d91c15badb1782143adf137f",
+      "title": "'My aunt's loft was insulated with thousands of cigarettes'",
+      "url": "https://www.bbc.com/news/articles/c070eep3k0jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-25T10:40:27.000Z",
+      "summary_90w": "",
+      "raw": "The last thing you'd expect to find in an attic is cigarette butts and filters, but that's exactly what was uncovered in a County Antrim house.",
       "topics": [
         "World"
       ]
@@ -2054,6 +2093,19 @@
       "raw": "Alasdair Keane climbs aboard an electric boat in Norway.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "53515fb374304cbca7057778293272f5385247e1",
+      "title": "BBC News app",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2025-04-30T14:04:28.000Z",
+      "summary_90w": "",
+      "raw": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "topics": [
+        "World"
       ]
     }
   ]
