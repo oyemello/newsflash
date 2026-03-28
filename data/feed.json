@@ -1,7 +1,20 @@
 {
-  "version": "1774684567205",
-  "generatedAt": "2026-03-28T07:56:07.205Z",
+  "version": "1774686691309",
+  "generatedAt": "2026-03-28T08:31:31.309Z",
   "items": [
+    {
+      "id": "6576490cd6de06e4edad3b480bc4358292e00d9f",
+      "title": "Antonelli beats Russell to Japanese Grand Prix pole",
+      "url": "https://www.bbc.com/sport/formula1/articles/cdxdnqe1e42o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-28T07:29:08.000Z",
+      "summary_90w": "",
+      "raw": "Kimi Antonelli takes his second pole position in a row as he beats Mercedes team-mate George Russell in qualifying at the Japanese Grand Prix.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "7092003adf9b71b9dfe7581c6a899eba31b4cf28",
       "title": "Bluetti’s Sora 500 solar panel is incredibly powerful for its size",
@@ -19,7 +32,7 @@
       "id": "491234a14af50f5ac6d68a6044ff39a315b226ec",
       "title": "Nepal's ex-PM arrested over fatal protest crackdown",
       "url": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-03-28T06:58:37.000Z",
       "summary_90w": "",
@@ -108,13 +121,13 @@
     },
     {
       "id": "31b29bab8d3a0881add307703598a22d5b8a0976",
-      "title": "Israel reports first missile attack from Yemen after Rubio says war to end in ‘weeks’",
+      "title": "Yemen’s Houthis launch first attack on Israel since outbreak of conflict, as Rubio says war to end in ‘weeks’",
       "url": "https://www.theguardian.com/world/2026/mar/27/us-expects-iran-operation-to-end-in-weeks-not-months-says-marco-rubio",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2026-03-28T05:56:41.000Z",
       "summary_90w": "",
-      "raw": "Missile fired from Yemen the first since the Iran war began, raising concerns Iran-aligned Houthis joining the conflict\n\nMiddle East crisis – live updates\n\nIsrael said on Saturday it had detected a missile fired from Yemen, the first since the Iran war began, just hours after Marco Rubio said the US expected to conclude military operations within “weeks, not months”.\nWhile Israel was again hitting targets across Iran’s capital on Saturday, it identified what it said was a missile launched from Yemen. Hours earlier, Yemen’s Iran-aligned Houthis said they were prepared to act if what the group called an escalation against Iran and the “axis of resistance” continued, but did not say what form any intervention would take.\n Continue reading...",
+      "raw": "Missile fired from Yemen the first since the Iran war began and came hours after the US secretary set a new timeline for the conflict\n\nMiddle East crisis – live updates\n\nYemen’s Iran-aligned Houthis have confirmed that they launched an attack on Israel for the first time since the outbreak of the Israel-US war on Iran, marking their entry to the conflict just hours after Marco Rubio said the US expected to conclude military operations within “weeks, not months”.\nWhile Israel was again hitting targets across Iran’s capital on Saturday, it identified what it said was a missile launched from Yemen. The Houthis said the attack came after continued targeting of infrastructure in Iran, Lebanon, Iraq and the Palestinian territories, adding that their operations would continue until the “aggression” on all fronts ends.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -147,7 +160,7 @@
     },
     {
       "id": "e0dd8a96d14131ebdd19af9e1e71c8205b86fba6",
-      "title": "How Trump and the oil markets move in sync: a tango in six charts",
+      "title": "Trump and oil: Tracking the moves in five charts",
       "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -1059,7 +1072,7 @@
       "id": "b39965b77ee5be3ee4e32aed634c38fe791ad1ad",
       "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
       "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-03-27T13:25:57.000Z",
       "summary_90w": "",
@@ -1090,19 +1103,6 @@
       "published": "2026-03-27T13:17:22.000Z",
       "summary_90w": "",
       "raw": "The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9d764bf075414c3a0b7d4a0520f060d0e3ca465b",
-      "title": "Afghan asylum seeker jailed for raping girl, 12",
-      "url": "https://www.bbc.com/news/articles/c4g4x2zyer2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-27T13:12:01.000Z",
-      "summary_90w": "",
-      "raw": "The sex attack carried out by Ahmad Mulakhil in Nuneaton in July last year led to protests.",
       "topics": [
         "World"
       ]
@@ -1849,6 +1849,19 @@
       ]
     },
     {
+      "id": "d45ce8fe92da57217916f039e0bb46a2bd48e21c",
+      "title": "Book dubbed 'the work of angels' may have been made in the Highlands",
+      "url": "https://www.bbc.com/news/articles/c8r4jxj0e3jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-25T06:24:25.000Z",
+      "summary_90w": "",
+      "raw": "Mystery surrounds the origins of the 1,200-year-old, intricately decorated Book of Kells.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "b2b5de2e540163f91eff4c06c0b63b9e4a242c95",
       "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns",
       "url": "https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns",
@@ -1937,6 +1950,19 @@
       "raw": "Artificial intelligence is already in use in many areas of healthcare.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "0e0bd7669f3ca961fcab9482bc11996c52d65ede",
+      "title": "'Breaking my ankle led me to fashion career'",
+      "url": "https://www.bbc.com/news/articles/c5yxr4pz4l2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-24T06:08:53.000Z",
+      "summary_90w": "",
+      "raw": "A Manchester fashion student set up fashion label Recondition combining accessibility and style.",
+      "topics": [
+        "World"
       ]
     },
     {
