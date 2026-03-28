@@ -1,29 +1,68 @@
 {
-  "version": "1774729862234",
-  "generatedAt": "2026-03-28T20:31:02.234Z",
+  "version": "1774731518027",
+  "generatedAt": "2026-03-28T20:58:38.027Z",
   "items": [
-    {
-      "id": "b38f2b4af0f22beb5643a4f21fc8fc96fe6d91e1",
-      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-      "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-03-28T20:17:24.000Z",
-      "summary_90w": "",
-      "raw": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
-      "topics": [
-        "World"
-      ]
-    },
     {
       "id": "099ecec8f0edfba32b112df7fa1dddf5a9a13758",
       "title": "Iran-backed Houthis join war with attack against Israel",
       "url": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-03-28T20:11:53.000Z",
+      "published": "2026-03-28T20:51:57.000Z",
       "summary_90w": "",
       "raw": "There are fears the Iranian proxy may attack shipping in the Red Sea, adding to global economic woes.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6fa29cabb75987cf7ad1db6267507d1ea726d006",
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-03-28T20:45:54.000Z",
+      "summary_90w": "",
+      "raw": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8b1acd5773121962d2b60b18a0d14eccc385c2d4",
+      "title": "Eighteen arrested after Palestine Action protest outside New Scotland Yard",
+      "url": "https://www.bbc.com/news/articles/cg730nrlk81o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-28T20:41:53.000Z",
+      "summary_90w": "",
+      "raw": "The demo on Saturday comes days after the Met said it would resume arrests against anyone displaying support for the banned group.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5e02e1b816bd2538d86f43a156baa1d5160f626d",
+      "title": "Sugar high(st): more than twelve tons of KitKat’s ‘new chocolate range’ stolen in Italy",
+      "url": "https://www.theguardian.com/world/2026/mar/28/kitkat-stolen-italy-f1-bar",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-28T20:38:37.000Z",
+      "summary_90w": "",
+      "raw": "Thieves made a break for 413,793 units of the company’s new F1 line bars which could cause shortage before Easter\nA large shipment of KitKat candy bars was stolen while in transit to distributors, a major candy crime right before the Easter holiday that could cause shortages for customers.\nThe truck carrying 413,793 units of a “new chocolate range”, about 12 tons of chocolate bars, was pilfered while driving through Europe on 26 March, Agence France-Presse reported.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b38f2b4af0f22beb5643a4f21fc8fc96fe6d91e1",
+      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-03-28T20:36:03.000Z",
+      "summary_90w": "",
+      "raw": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
       "topics": [
         "World"
       ]
@@ -89,6 +128,19 @@
       "published": "2026-03-28T19:01:07.000Z",
       "summary_90w": "",
       "raw": "Organisers of the Together Alliance march say 500,000 people attended but a police estimate put the figure closer to 50,000.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "09e8b4333ba320ba0c53ee2ae60c66e22372ff7a",
+      "title": "No Kings protests across the US rally against Donald Trump ",
+      "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-28T18:53:43.000Z",
+      "summary_90w": "",
+      "raw": "The demonstrations against the Trump administration are set to sweep cities across the US on Saturday.",
       "topics": [
         "World"
       ]
@@ -364,19 +416,6 @@
       "raw": "Samsung, like many companies using generative AI in their advertising, hasn’t placed an AI label on several videos shared through its TikTok accounts, and the fine print doesn’t always contain the answers. | Image by Samsung\t\n\nI've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definitely sparked suspicion. For several weeks, I didn't see any examples with the AI disclosure required by TikTok's advertising policies, however, so I had no way of knowing for sure.\nWhat irks me is that someone knows for sure if the content is AI-generated. They're just not telling the rest of us. And if companies that claim to support AI-labelling …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "e2ca0c746e1e1f6675c1eccc5a027b0685a75e28",
-      "title": "Major Scottish gangland figure Steven Lyons arrested in Bali",
-      "url": "https://www.bbc.com/news/articles/cvgk157ex41o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-28T13:41:01.000Z",
-      "summary_90w": "",
-      "raw": "It comes after police in Scotland and Spain carried out a series of simultaneous pre-dawn raids on Friday.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -705,14 +744,14 @@
       ]
     },
     {
-      "id": "364d4048e294d51d2f6757fd33e810a0224a999e",
-      "title": "Does the U.S. have a chance in the World Cup? 2 important games will provide clues",
-      "url": "https://www.npr.org/2026/03/28/nx-s1-5764272/world-cup-usmnt-us-soccer-belgium-portugal",
+      "id": "6039164b3434f35e36ee33722623c2fa93e7c183",
+      "title": "Trump wants a deadlocked Congress to move on AI. Frustrated states say they already have",
+      "url": "https://www.npr.org/2026/03/28/nx-s1-5755062/trump-wants-a-deadlocked-congress-to-move-on-ai-frustrated-states-say-they-already-have",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2026-03-28T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "The U.S. has gone unbeaten in its past five international matches. But now the team is upping the ante with games against Belgium and Portugal that could show fans whether a deep run is in the cards.",
+      "raw": "State lawmakers have been stepping in to regulate artificial intelligence, clashing with the federal government's inaction as concerns about oversight and safety grow.",
       "topics": [
         "World"
       ]
@@ -939,19 +978,6 @@
       ]
     },
     {
-      "id": "1dbf4c334b8c30c879a04b91f4ddeb5f93d1403b",
-      "title": "No new meningitis cases in a week - but the threat might not be over",
-      "url": "https://www.bbc.com/news/articles/c93eqvxydzqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-28T00:15:07.000Z",
-      "summary_90w": "",
-      "raw": "The worst seems to be over, but questions remain about why this happened and whether it could happen again.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "cd7bfb8f784474a6dae4024bf9c15e9ea53bb495",
       "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
       "url": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
@@ -1168,19 +1194,6 @@
       "published": "2026-03-27T16:38:42.000Z",
       "summary_90w": "",
       "raw": "The helicopter, which was carrying one pilot and four passengers,crash-landed about 100 yards off a beach, officials say.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ab5792c9f2a0080d61eace204e609bc8cf59fe9f",
-      "title": "Whale stranded off Germany swims to freedom after days of efforts to save it",
-      "url": "https://www.theguardian.com/world/2026/mar/27/whale-stranded-germany-free-rescue",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-27T16:35:13.000Z",
-      "summary_90w": "",
-      "raw": "Rescuers used boats and excavators to try to guide 10-metre long sea mammal to deeper waters\nA humpback whale stranded on Germany’s Baltic Sea coast since early this week has freed itself and swum into deeper waters, rescuers said on Friday.\nA flotilla of vessels were following the weakened animal at a distance, hoping to help guide it into the North Sea and toward the Atlantic Ocean, its natural habitat.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1446,19 +1459,6 @@
       ]
     },
     {
-      "id": "3e3e6a15ad57a1df9d185bf22bf59540e9a4d982",
-      "title": "Nepal swears in ex-rapper as new prime minister",
-      "url": "https://www.bbc.com/news/articles/c895v335xkgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-03-27T07:10:50.000Z",
-      "summary_90w": "",
-      "raw": "Balendra Shah won the election by a landslide promising change to Nepalis who are angry at corruption.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "cb11acc89167fd337715d31649d2362082d38f4a",
       "title": "Australia will be left with no submarines if it abandons Aukus, senior defence official warns",
       "url": "https://www.theguardian.com/world/2026/mar/27/australia-will-be-left-with-no-submarines-if-it-abandons-aukus-senior-defence-official-warns",
@@ -1560,19 +1560,6 @@
       "raw": "The order briefly stops the government from labeling tech company Anthropic a \"supply chain risk,\" calling that \"classic First Amendment retaliation.\"",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "50eb3519a14f088f3f5daa0630bab891a359e6b6",
-      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-      "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-03-26T23:47:56.000Z",
-      "summary_90w": "",
-      "raw": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
-      "topics": [
-        "Technology"
       ]
     },
     {
