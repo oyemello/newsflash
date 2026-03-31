@@ -1,7 +1,98 @@
 {
-  "version": "1774995126252",
-  "generatedAt": "2026-03-31T22:12:06.252Z",
+  "version": "1774997740415",
+  "generatedAt": "2026-03-31T22:55:40.415Z",
   "items": [
+    {
+      "id": "f82fb0d8860713374df83f200ee74e6116faf717",
+      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-03-31T22:46:25.000Z",
+      "summary_90w": "",
+      "raw": "Slack just got a whole lot more useful.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "878f9b4871b09656d4813bf59e36b9969bdabb0a",
+      "title": "Oil nears highest price since start of Iran war",
+      "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-31T22:34:04.000Z",
+      "summary_90w": "",
+      "raw": "The US-Israel Iran war has halted almost all traffic in a key waterway and the price Brent crude has surged.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c020228151443a5f13cbf8c8130603a32d778d07",
+      "title": "Australia politics live: Butler tells states to ‘get back around the table’ on plan to return fuel GST windfall to motorists",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/01/australian-politics-live-cost-of-living-fuel-crisis-excise-inflation-anthony-albanese-jim-chalmers-budget-health-insurance-premiums-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-31T22:32:52.000Z",
+      "summary_90w": "",
+      "raw": "Meanwhile government and opposition MPs all refuse to provide ‘commentary’ on Trump’s latest rebuke to allies. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nThe Australian council of social services (ACOSS) says frontline services are struggling to operate, and are concerned they will lose volunteers as the fuel crisis worsens.\nThe body says challenges are increasing for services that provide in-home support for Australians – including aged care, mental health and disability services.\nOur members are reporting staff who can’t get to clients, volunteers not showing up, and food supply chains breaking down. This is happening while multiple states and territories are simultaneously dealing with extreme weather events.\nThey did agree at the national cabinet on Monday to pass this windfall gain back to motorists. We wanted that to happen through an arrangement between the commonwealth and the states whereby we’d be able to deliver an additional cut to the fuel excise, which would flow in the same way through to bowsers. But they haven’t yet been able to agree that amongst themselves. We want them to do that. We want them to get back around the table over the course of the next day or so.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4a814f42f4d4c3a14a46ba24a77d225bbbe2f15f",
+      "title": "Middle East crisis live: Trump says no reason for US to secure strait of Homuz and war will end in ‘two or three weeks’",
+      "url": "https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-31T22:26:55.000Z",
+      "summary_90w": "",
+      "raw": "US president reiterates that responsibility for reopening the vital oil and gas hub rests on the countries who rely on it\nSaudi Arabia’s defence ministry has said it has intercepted and destroyed ten drones over the past hours, and eight missiles launched towards the Riyadh area and the country’s eastern region.\nEarly this morning Kuwait said its air defences were responding to hostile missile and drone attacks. Neither Saudi Arabia nor Kuwait said where the drones or missiles came from.\nIran attacked and set ablaze a fully loaded crude oil tanker off Dubai. Local authorities later said response teams contained the incident with no oil leakage and that no injuries had been reported\nDonald Trump warned that the US would obliterate Iran’s energy plants and oil wells if it did not open the strait of Hormuz.\nThe Israeli military said  four soldiers had been killed in combat in southern Lebanon, where its forces are clashing with Iran-backed Hezbollah.\nTwo giant Chinese container ships have sailed through the strait of Hormuz on their second attempt to leave the Gulf after turning back on Friday, ship-tracking data shows. The transit signals a diplomatic breakthrough between Beijing and Tehran as Iran widens its list of approved nations for transiting the vital route, Lloyd’s List reported.\nIndonesia’s foreign minister called for an emergency UN security council meeting and a thorough investigation” into a “heinous attack” after three UN peacekeepers from Indonesia were killed in southern Lebanon.\nBlasts were heard in Tehran and power cuts hit some areas of the capital, Iranian media reported on Tuesday. Israel earlier carried out missile strikes on what it called military infrastructure in Tehran and infrastructure used by Hezbollah in Beirut.\nJapan and Indonesia agreed to step up coordination on energy security, Japanese PM Sanae Takaichi said on Tuesday.\nTwo Iranian missile launches targeted central Israel, Israeli media reported, with the emergency service saying it had not received reports of any injuries.\nTurkey reported a ballistic missile launched from Iran had entered Turkish airspace before being shot down by Nato air and missile defences.\nAn earlier summary of key developments is here.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ee29f6abab5dc2c77a36e5c5a85b9087df8155a0",
+      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-03-31T22:24:19.000Z",
+      "summary_90w": "",
+      "raw": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a look into the inner workings of the AI-powered coding tool, as reported earlier by Ars Technica and VentureBeat.\nUsers who have dug into the code claim to have uncovered upcoming features, Anthropic's instructions for the AI bot, and insight into its \"memory\" architecture. Some things spotted by users inclu …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9da521111bf7ba903f568ab9c98d0a941b82154e",
+      "title": "Man charged after seven people hit by car in Derby",
+      "url": "https://www.bbc.com/news/articles/cwywd5ek9x9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-31T22:24:19.000Z",
+      "summary_90w": "",
+      "raw": "The pedestrians were seriously injured when they were hit by a black Suzuki Swift on Saturday night.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0f0e9f5cbb41089cdcc5fb8eb495b8bc2e632b66",
+      "title": "Judge temporarily halts construction of Trump's White House ballroom",
+      "url": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-03-31T22:16:06.000Z",
+      "summary_90w": "",
+      "raw": "The Republican-appointed judge ruled that Trump was the \"steward\" of the White House, but not the \"owner\".",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "7e797320740d00a74d4737f3a9990b7241843ea6",
       "title": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
@@ -11,6 +102,19 @@
       "published": "2026-03-31T22:07:26.000Z",
       "summary_90w": "",
       "raw": "The deaths of the two Indonesian nationals came less than a day after another UN peacekeeper - also Indonesian - was killed in Lebanon.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "09c0e78caf370d28f4670b377153144655ecc70b",
+      "title": "Australia’s superb fairywren could be extinct within decades due to climate crisis, researchers say",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/01/australia-superb-fairywren-bird-climate-crisis-extinction-risk-within-decades-scientists-warn",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-03-31T22:00:03.000Z",
+      "summary_90w": "",
+      "raw": "Scientists tracked bird population in Canberra’s botanic gardens and found climate impacts starting to affect them\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA common and well-loved bird of bush and garden could go extinct within 30-40 years due to the weather impacts of climate change, researchers say.\nData derived from nearly 30 years of weekly observations tracked the lives of superb fairy wrens in Canberra’s botanic gardens, noting the changing weather’s impacts on them.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -49,35 +153,9 @@
       "source_name": "BBC News",
       "published": "2026-03-31T21:50:41.000Z",
       "summary_90w": "",
-      "raw": "Oracle executives recently said the use of AI tools was allowing smaller engineering teams to do more work.",
+      "raw": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "c020228151443a5f13cbf8c8130603a32d778d07",
-      "title": "Australia politics live: ministers wary of Trump’s ‘get your own oil’ comment; health insurance premiums rise today",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/01/australian-politics-live-cost-of-living-fuel-crisis-excise-inflation-anthony-albanese-jim-chalmers-budget-health-insurance-premiums-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-31T21:46:55.000Z",
-      "summary_90w": "",
-      "raw": "Government in February approved an average premium increase of 4.41% from today. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\n‘Nothing particularly out of the ordinary’: Labor minister dismisses Trump tirade against European allies\nWhile other politicians have dodged commenting on Donald Trump’s latest social media attack on European allies, Clare O’Neil has dismissed the whole thing as “nothing particularly out of the ordinary” from the US president.\nI think in the scale of late night missives from Donald Trump, this is nothing particularly out of the ordinary. When it comes to the conflict in Iran, we have a pretty simple view … we want to see de-escalation of this conflict, not escalation. And we want to see a clear timeframe for how this conflict will be brought to an end.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4a814f42f4d4c3a14a46ba24a77d225bbbe2f15f",
-      "title": "Middle East crisis live: US has begun flying B52 bombers over Iran, Pentagon says",
-      "url": "https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-31T21:42:25.000Z",
-      "summary_90w": "",
-      "raw": "Top US general Dan Caine says US has growing air superiority over Iran; Trump tells allies ‘go get your own oil’ in latest angry outburst\nSaudi Arabia’s defence ministry has said it has intercepted and destroyed ten drones over the past hours, and eight missiles launched towards the Riyadh area and the country’s eastern region.\nEarly this morning Kuwait said its air defences were responding to hostile missile and drone attacks. Neither Saudi Arabia nor Kuwait said where the drones or missiles came from.\nIran attacked and set ablaze a fully loaded crude oil tanker off Dubai. Local authorities later said response teams contained the incident with no oil leakage and that no injuries had been reported\nDonald Trump warned that the US would obliterate Iran’s energy plants and oil wells if it did not open the strait of Hormuz.\nThe Israeli military said  four soldiers had been killed in combat in southern Lebanon, where its forces are clashing with Iran-backed Hezbollah.\nTwo giant Chinese container ships have sailed through the strait of Hormuz on their second attempt to leave the Gulf after turning back on Friday, ship-tracking data shows. The transit signals a diplomatic breakthrough between Beijing and Tehran as Iran widens its list of approved nations for transiting the vital route, Lloyd’s List reported.\nIndonesia’s foreign minister called for an emergency UN security council meeting and a thorough investigation” into a “heinous attack” after three UN peacekeepers from Indonesia were killed in southern Lebanon.\nBlasts were heard in Tehran and power cuts hit some areas of the capital, Iranian media reported on Tuesday. Israel earlier carried out missile strikes on what it called military infrastructure in Tehran and infrastructure used by Hezbollah in Beirut.\nJapan and Indonesia agreed to step up coordination on energy security, Japanese PM Sanae Takaichi said on Tuesday.\nTwo Iranian missile launches targeted central Israel, Israeli media reported, with the emergency service saying it had not received reports of any injuries.\nTurkey reported a ballistic missile launched from Iran had entered Turkish airspace before being shot down by Nato air and missile defences.\nAn earlier summary of key developments is here.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -146,19 +224,6 @@
       ]
     },
     {
-      "id": "0f0e9f5cbb41089cdcc5fb8eb495b8bc2e632b66",
-      "title": "Judge temporarily halts construction of Trump's White House ballroom",
-      "url": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-31T21:07:19.000Z",
-      "summary_90w": "",
-      "raw": "The Republican-appointed judge ruled that Trump was the \"steward\" of the White House, but not the \"owner\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "9d5105904e5517addbb85dabb455df1330089dce",
       "title": "You can now use ChatGPT with Apple’s CarPlay",
       "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
@@ -166,7 +231,7 @@
       "source_name": "The Verge",
       "published": "2026-03-31T21:03:18.000Z",
       "summary_90w": "",
-      "raw": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently-launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform.\nWhen using ChatGPT through CarPlay, the app doesn't show text conversations, according to 9to5Mac - instead, you can only have conversations with the app using your voice. (Apple's developer guidelines ask that apps don't show text or imagery as responses.) The CarPlay app isn't completely devoid of  …\nRead the full story at The Verge.",
+      "raw": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform.\nWhen using ChatGPT through CarPlay, the app doesn't show text conversations, according to 9to5Mac - instead, you can only have conversations with the app using your voice. (Apple's developer guidelines ask that apps don't show text or imagery as responses.) The CarPlay app isn't completely devoid of  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -419,19 +484,6 @@
       ]
     },
     {
-      "id": "878f9b4871b09656d4813bf59e36b9969bdabb0a",
-      "title": "Oil nears highest price since start of Iran war",
-      "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-31T18:33:00.000Z",
-      "summary_90w": "",
-      "raw": "The US-Israel Iran war has halted almost all traffic in a key waterway and the price Brent crude has surged.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e648e99cdefca57a69028e9058d6f4f070ee8ebf",
       "title": "No Kings is taking back Americana",
       "url": "https://www.theverge.com/policy/904405/no-kings-protests-portland-americana",
@@ -572,19 +624,6 @@
       "raw": "Hedge fund founder Chris Rokos said he wanted to \"give something back\" to the UK with the donation.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "3f1bcc9e0314d84d40fa7df3da3e574d0646bd4a",
-      "title": "The Sonos Play and mic-less Era 100 SL are now available",
-      "url": "https://www.theverge.com/gadgets/903746/sonos-play-era-100-sl-speakers-price-release-date-availability",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-03-31T17:36:22.000Z",
-      "summary_90w": "",
-      "raw": "The Sonos Play can rest on its charging base while at home. | Photo by John Higgins / The Verge\t\n\nAfter a couple of quiet years, Sonos is back with two new consumer speakers: the portable Sonos Play and the more affordable Era 100 SL. They retail for $299 and $189, respectively, and both are now widely available following their announcement earlier this month.\nWith its utility loop and water-resistant design, the brand-new Sonos Play is designed for either at-home use or on-the-go activities. It also introduces Bluetooth grouping, letting you pair it with other Play or Move 2 speakers without relying on Wi-Fi while out and about. The Era 100 SL, meanwhile, is a simpler take on the existing Era 100 that drops the mic, bringing the price  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -952,19 +991,6 @@
       ]
     },
     {
-      "id": "e962d329a234bf8e58e9e870c35ecab337ee80c2",
-      "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
-      "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-03-31T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "f096b8ff8eb65ef2d157d52db26b2d21d8b6f960",
       "title": "The company behind ClassPass and Mindbody just got a lot bigger with a $7.5B merger",
       "url": "https://techcrunch.com/2026/03/31/the-company-behind-classpass-and-mindbody-just-got-a-lot-bigger-with-a-7-5b-merger/",
@@ -999,19 +1025,6 @@
       "published": "2026-03-31T13:18:53.000Z",
       "summary_90w": "",
       "raw": "The war with Iran has driven up gas prices at a time when affordability is high on people's minds.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c3fea0fe4c9c8843e4fbea24ccc2ede56f6502b0",
-      "title": "Woman without a womb helps to deliver her own baby",
-      "url": "https://www.bbc.com/news/articles/c9d4jxv2v83o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-03-31T13:14:07.000Z",
-      "summary_90w": "",
-      "raw": "Laura Folan, born with a rare condition, recalls her journey to motherhood thanks to surrogacy.",
       "topics": [
         "World"
       ]
@@ -1272,19 +1285,6 @@
       "published": "2026-03-31T07:12:41.000Z",
       "summary_90w": "",
       "raw": "Victims describe how they have been targeted while carrying out everyday activities.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9f715ae4922dbdb48503071c30efeede3701b6c1",
-      "title": "Two-thirds of under-16s with accounts on Instagram, Snapchat or TikTok kept access despite ban",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/31/meta-tiktok-snapchat-google-under-investigation-australia-social-media-ban",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-03-31T07:10:44.000Z",
-      "summary_90w": "",
-      "raw": "Meta, Tiktok and Google being investigated for allegedly disobeying Australia’s social media ban\nThe Australian government has accused big tech firms like Meta, TikTok and Google of disobeying the landmark ban on under-16s using social media, after the country’s online safety office warned many children had accounts.\nA survey of 900 Australian parents found around a third (31%) said their children still had one or more social media accounts after the ban, compared to 49% before the laws.\n Continue reading...",
       "topics": [
         "World"
       ]
