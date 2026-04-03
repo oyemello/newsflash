@@ -1,18 +1,70 @@
 {
-  "version": "1775230244070",
-  "generatedAt": "2026-04-03T15:30:44.070Z",
+  "version": "1775232141388",
+  "generatedAt": "2026-04-03T16:02:21.388Z",
   "items": [
+    {
+      "id": "34819766b52337a7b4f4d7c005969aea178f4432",
+      "title": "Europe’s cyber agency blames hacking gangs for massive data breach and leak",
+      "url": "https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-04-03T15:50:43.000Z",
+      "summary_90w": "",
+      "raw": "CERT-EU blamed the cybercrime group TeamPCP for the recent hack on the European Commission, and said the notorious ShinyHunters gang was responsible for leaking the stolen data online.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "b0ba983dd7749aa489ee7f11de497d45430f703a",
       "title": "Middle East crisis live: US launches rescue mission as official says Iran has shot down fighter jet",
       "url": "https://www.theguardian.com/world/live/2026/apr/03/middle-east-crisis-live-trump-urges-iran-to-make-deal-after-bridge-strike",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-04-03T15:16:04.000Z",
+      "published": "2026-04-03T15:50:24.000Z",
       "summary_90w": "",
       "raw": "Fate of the fighter jet’s crew remains unclear as person familiar with the matter says plane was shot down over Iran\n\nUS F-15E jet confirmed shot down over Iran as Tehran releases wreckage images\n\n\nAuthorities in Abu Dhabi have reported two incidents of debris falling from intercepted aerial threats in the UAE capital, with one sparking a fire at a gas facility,\nThe official Abu Dhabi Media Office said authorities responded to an incident of falling debris at the Habshan gas facilities. “Operations have been suspended while authorities respond to a fire,” it said in a post on X, adding that no injuries were reported.\n Continue reading...",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "5014693e70523647835ff0341903c4322470a213",
+      "title": "Boy, 14, shot dead in Woolwich named",
+      "url": "https://www.bbc.com/news/articles/cj40ekewqrgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-03T15:45:59.000Z",
+      "summary_90w": "",
+      "raw": "A boy, 14, shot dead in south-east London is named as Eghosa Ogbebor, as three people are arrested.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "26bbf55730df21d817fd4974b9713a9dc1fb62b0",
+      "title": "Trump seeks massive $1.5tn for defence alongside cuts in domestic spending",
+      "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-04-03T15:45:25.000Z",
+      "summary_90w": "",
+      "raw": "The president's new budget would cut non-defence spending by 10%, partly by slashing domestic programmes.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "be52633f1f0ec1a5ed9561e0d095b85ca7e48a28",
+      "title": "Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS",
+      "url": "https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-04-03T15:34:10.000Z",
+      "summary_90w": "",
+      "raw": "Steer-by-wire, in which a car can be steered electronically rather than through a physical connection between the steering wheel and steering rack, is coming to Mercedes-Benz. The German automaker says it will use the steering technology in its forthcoming refreshed EQS sedan, marking its first foray into the world of steer-by-wire. \nSteer-by-wire systems replace traditional mechanical steering mechanisms that include racks and pinions with electronically controlled servos. Commonly used in airplanes, the electronic system takes inputs from the driver and relays them to electronic actuators that then control the direction of the wheels on t …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -367,19 +419,6 @@
       ]
     },
     {
-      "id": "5014693e70523647835ff0341903c4322470a213",
-      "title": "Boy, 14, shot dead and teens arrested for murder",
-      "url": "https://www.bbc.com/news/articles/cj40ekewqrgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-03T12:01:24.000Z",
-      "summary_90w": "",
-      "raw": "Two teenagers and one man are arrested after a boy, 14, was shot dead in Woolwich on Thursday.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "9fdde8ad439f7c7f6d0ee5762f0b2bd5c5a0fe44",
       "title": "International law experts allege violations in Iran war",
       "url": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
@@ -537,7 +576,7 @@
     },
     {
       "id": "117617196779a0441b5903245ab68bedc57c5742",
-      "title": "Iran hits Gulf refineries as Trump warns U.S. will attack Iranian bridges, power plants",
+      "title": "Iran downs a U.S. F-15 jet and hits Gulf refineries as the war rounds its 5th week",
       "url": "https://www.npr.org/2026/04/03/g-s1-116314/iran-hits-gulf-refineries-as-trump-warns-u-s-will-attack-iranian-bridges-power-plants",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
@@ -656,24 +695,37 @@
       "id": "620f086b1d4ff7ddf56c82bdb24b6fea8313cd16",
       "title": "Big tech's next move is to put data centers in space. Can it work?",
       "url": "https://www.npr.org/2026/04/03/nx-s1-5718416/ai-data-centers-in-space-spacex-elon-musk",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2026-04-03T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "In orbit, power is free. But everything else is expensive.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6b0b1ea90cf8efbf11e918981f4ee4fc766fa13a",
+      "title": "Evacuation of U.S. troops from Mideast base sends community groups scrambling to help",
+      "url": "https://www.npr.org/2026/04/03/nx-s1-5770491/evacuation-bahrain-norfolk-troops",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2026-04-03T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "In orbit, power is free. But everything else is expensive.",
+      "raw": "Troops and their families have been pushed back to the United States after their bases in the Middle East were threatened by Iranian counterattacks. Community groups are scrambling to react.",
       "topics": [
         "World"
       ]
     },
     {
-      "id": "f9b0612e56f01956f253d6991097e273fcc86222",
-      "title": "Takeaways from Trump's tough week, as war and gas prices take a toll",
-      "url": "https://www.npr.org/2026/04/03/nx-s1-5771684/trump-iran-war-gas-prices-bondi",
+      "id": "890a6fd9a3975cc8cd1b663c73d75636df9b1e04",
+      "title": "NPR wants your big question about reducing your climate impact and saving money",
+      "url": "https://www.npr.org/2026/04/03/nx-s1-5766467/climate-change-money-energy-costs-savings-question",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2026-04-03T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "President Trump faces mounting political pressure on multiple fronts, particularly when it comes to his handling of the war and the consequences it's having on the economy.",
+      "raw": "As energy prices rise and climate change intensifies, NPR wants to hear your questions about spending decisions you'll make that could reduce climate pollution and save you money.",
       "topics": [
         "World"
       ]
@@ -986,19 +1038,6 @@
       "published": "2026-04-02T21:26:48.000Z",
       "summary_90w": "",
       "raw": "The U.S. telehealth giant says hackers stole customer support ticket data over the course of several days in February.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "1f8e7e98cf47162095bcef6e4088429cea341853",
-      "title": "The best AirPods deals you can get right now",
-      "url": "https://www.theverge.com/21302051/best-apple-airpods-deals",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-04-02T21:19:13.000Z",
-      "summary_90w": "",
-      "raw": "If you know where to look, you can often score deals on Apple’s ever-expanding AirPods lineup. Both the AirPods Pro 3 and the AirPods 4 (with and without ANC) now consistently receive discounts, as do the AirPods Pro 3. And while major shopping events like Black Friday and Amazon Prime Day have delivered some of the biggest price drops, there are still good deals to be found on every model — including the recently released AirPods Max 2.\nBelow, we’ve rounded up the best deals currently available on each set of AirPods, including both iterations of the AirPods 4 and AirPods Max, as well as the third-gen AirPods Pro.\n\n\n\n\n\n\n\nThe best AirPods 4 deals\nApple AirPods 4\n\nWhere to Buy:\n\n $129 $119 at Amazon\n $129.99 $119 at Walmart\n $129 $119 at B&H Photo\n\n\nAirPods 4 with Active Noise Cancellation\n\nWhere to Buy:\n\n $179 $154.99 at Amazon\n $179 $154.99 at Walmart\n $179 $154.99 at Costco\n\nAt the end of 2024, Apple introduced the AirPods 4, a pair of wireless earbuds available in two variations: a $129 standard model and a $179 noise-canceling model. Both versions represent significant upgrades over the third-gen AirPods, with a more comfortable design and improved audio performance. They’re also better for taking calls thanks to Apple’s Voice Isolation feature, which focuses the mics on your voice so you can be heard more clearly in noisy environments.\nThe $179 AirPods 4 with Active Noise Cancellation offer a surprisingly effective noise-canceling mode, a helpful transparency mode, and several other Pro-level features. The latest AirPods Pro do a better job of tuning out noise, but the AirPods 4 with ANC still do a good job of reducing sound. They also feature other perks formerly reserved for Apple’s top-of-the-line earbuds, including wireless charging and a case with a built-in speaker that allows you to easily track it down via Apple’s Find My app.\nGiven they’ve been out for over a year, we consistently see discounts for both iterations of the AirPods 4. During Black Friday, we saw the standard model drop to a new low of $74; however, right now, they’re only down to $119 ($10 off) at Amazon, Walmart, and B&H Photo. The AirPods 4 with ANC, meanwhile, are on sale for $154.99 ($24 off) at Amazon, Walmart, and Costco (for members), which is significantly more than their recent low of $99.\nRead our full AirPods 4 review.\nThe best AirPods Pro 3 deals\nAirPods Pro 3\n\nWhere to Buy:\n\n $249 $224 at Amazon\n $249 $224 at Walmart\n $249.99 $239.95 at B&H Photo\n\nAt its “Awe Dropping” event in September, Apple introduced the AirPods Pro 3. In addition to improved ANC and sound, the third-gen earbuds include a built-in heart rate sensor that syncs with the iPhone Fitness app, allowing you to track your pulse and calories burned across more than 50 workout types. They’re also more comfortable and secure than their predecessor, thanks to a redesigned, angled fit and five ear tip sizes — including a new XXS option. Additionally, they carry a more robust IP57 rating and support Apple’s new live translation feature, which, in our testing, generally conveys the gist well but still can’t beat a human interpreter.\nGiven how recently they launched, we’ve been surprised by how often the AirPods Pro 3 have been discounted. In fact, last month we saw them drop to $199 ($50 off), which is $15 shy of their all-time low. Unfortunately, while they’re still on sale, they’ve since increased in price to $224 ($25 off) at retailers like Amazon and Walmart.\nRead our full AirPods Pro 3 review.\nThe best AirPods Max deals\nAirPods Max 2\n\nWhere to Buy:\n\n $549 $529 at Amazon (black)\n $549 $529.99 at Amazon (white)\n $549 $529.99 at Costco (black)\n\n\nApple AirPods Max\n\nWhere to Buy:\n\n $549 $399.99 at Woot\n $549 $449.99 at Amazon (USB-C)\n $549.99 $449.99 at Walmart (USB-C)\n\nThe AirPods Max aren’t the iconic in-ears that have become synonymous with the AirPods name. Both the first-gen Max and the newer AirPods Max 2 are large and luxurious, comprised of aluminum, steel, and mesh fabric that remains comfortable during extended listening sessions. The original pair delivered clear, expansive sound, great noise cancellation, and lossless audio over USB-C; however, with the Max 2, Apple built upon that excellent foundation with improved ANC and a built-in amplifier for better sound. They also feature Apple’s newer H2 chip, enabling AI-powered live translation, adaptive audio, and other features once reserved for the AirPods Pro line. The over-ears aren’t the best noise-canceling headphones for everyone — blame the sticker price — but for iPhone users, they’re hard to beat. \nThe AirPods Max 2 retail for $549 — the same price as the original model — but you can currently save $20 on both the black and white versions at Amazon and Costco (if you’re a member), which is the first discount we’ve seen on the recently released headphones. If you’re okay with picking up the last-gen model, the original AirPods Max with USB-C are on sale in select colors for $399.99 ($150 off) at Woot through April 3rd, matching their best price to date. They’re also available in a wider range of hues at Amazon, Walmart, Target, and other retailers for $449.99 ($100 off), which is still a hefty discount.\nRead our full AirPods Max and AirPods Max 2 reviews.\nUpdate, April 2nd: Updated to reflect current pricing and availability, as well as the recent release of the AirPods Max 2.",
       "topics": [
         "Technology"
       ]
@@ -1495,19 +1534,6 @@
       "raw": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "f1421aa59ebcb682d00f7720b9b665d018d99774",
-      "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
-      "url": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-04-01T22:58:39.000Z",
-      "summary_90w": "",
-      "raw": "Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft in 2026 so far.",
-      "topics": [
-        "Technology"
       ]
     },
     {
