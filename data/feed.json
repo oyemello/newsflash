@@ -1,29 +1,224 @@
 {
-  "version": "1776168946748",
-  "generatedAt": "2026-04-14T12:15:46.748Z",
+  "version": "1776176034612",
+  "generatedAt": "2026-04-14T14:13:54.612Z",
   "items": [
     {
+      "id": "7d4e22ebe8abf2b20765426e84bfd7a70cbf7d56",
+      "title": "After losing loved ones, an Israeli and a Palestinian work together for Middle East peace",
+      "url": "https://www.npr.org/2026/04/14/g-s1-111652/aziz-abu-sarah-maoz-inon-future-is-peace-book",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-04-14T14:09:11.000Z",
+      "summary_90w": "",
+      "raw": "An Israeli whose parents were killed on Oct. 7, 2023, and a Palestinian whose brother died from injuries in Israeli custody say they've become like brothers. Their new book is The Future Is Peace: A Shared Journey Across the Holy Land.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e04c8385b73af625aa8e9110310c2486dc546d65",
+      "title": "Fuel prices stop rising after 43 days of increases, RAC says",
+      "url": "https://www.bbc.com/news/articles/c98kk1lrkzno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-14T14:06:32.000Z",
+      "summary_90w": "",
+      "raw": "The motoring group says prices could start to come down over the next couple of weeks.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ce87216b6ed8ed9c7d80efa5fb95d96dc64c0a13",
+      "title": "Fuel protests have Ireland's government facing possible no-confidence vote",
+      "url": "https://www.npr.org/2026/04/14/g-s1-117383/fuel-protests-have-irelands-government-facing-possible-no-confidence-vote",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-04-14T13:56:41.000Z",
+      "summary_90w": "",
+      "raw": "The prime minister announced new tax cuts to try to end the crisis that began after the U.S.-Israel war on Iran led to the closure of the Strait of Hormuz. The government could face a no-confidence vote over its response to the fuel protests.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "18f167d204bdaa31bb06412dbc9e710665a8c34f",
+      "title": "Fuel protests spread as tractors and trucks disrupt traffic",
+      "url": "https://www.bbc.com/news/articles/cx2e8wevpwyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-14T13:56:24.000Z",
+      "summary_90w": "",
+      "raw": "Trucks, lorries and tractors bring traffic to a standstill in County Tyrone as protests spread outside Belfast.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7ee726dd5be14c15edfa54d611a5e33d3bc04aea",
+      "title": "Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz",
+      "url": "https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-04-14T13:55:42.000Z",
+      "summary_90w": "",
+      "raw": "Amazon on Tuesday agreed to buy satellite company Globalstar, known for powering Apple's \"Emergency SOS\" feature, for $11.57 billion in cash.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "878315b5fa14fb7faf49a3fb0f3652dacb84144b",
+      "title": "Has Google’s AI watermarking system been reverse-engineered?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-04-14T13:53:53.000Z",
+      "summary_90w": "",
+      "raw": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true.\nThe developer, going by the username Aloshdenny, has open-sourced their work on GitHub and documented his process, claiming all it required was 200 Gemini-generated images, signal processing, and \"way too much free time.\" A little weed also seemed to help.\n\"No neural networks. No proprietary access,\" Aloshdenny said on Medium. \"Turns out if you're unemployed and average enough 'pure black' AI-generated im …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "08f81b00d9a4d116f1dc75384762a6b0b5c270cd",
+      "title": "Households could get free electricity for doing washing on sunny weekends",
+      "url": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-14T13:52:22.000Z",
+      "summary_90w": "",
+      "raw": "Providers can encourage people to use energy when \"weather conditions result in excess supply\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "440e04fc1f5721fccf3a9551a662c5b353034f78",
-      "title": "Middle East crisis live: US-sanctioned ships pass through strait of Hormuz with France and UK to chair talks on Friday",
+      "title": "Middle East crisis live: Ships under US sanctions pass through strait of Hormuz despite blockade on ports",
       "url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-04-14T11:54:40.000Z",
+      "published": "2026-04-14T13:50:01.000Z",
       "summary_90w": "",
-      "raw": "Macron and Starmer will co-host Paris summit as sanctioned vessels pass despite Trump’s blockade on ports\n\nUS starts naval blockade of Iranian ports after deadline passes\n\nSouth Korean president Lee Jae Myung has said rising tensions around the strait of Hormuz make it hard to be optimistic about the fallout from the Iran war, warning that high oil prices and supply-chain strains are likely to persist for some time.\nLee told a cabinet meeting on Tuesday the government should treat prolonged disruption in global energy and raw materials markets as a given and reinforce its emergency response system.\nFor the time being, difficulties in global energy and raw materials supply chains and high oil prices will continue … I ask that we pursue the development of alternative supply chains, medium- to long-term industrial restructuring, and the transition to a post-plastic economy as top-priority national strategic projects.”\nLebanon and Israel have been at war in some form since the early 1980s. You’re not allowed to enter Lebanon if you have an Israeli stamp in your passport. The two don’t have diplomatic relations. So the fact that these talks are happening directly between the two governments is something that’s really astonishing.\n Continue reading...",
+      "raw": "Iran-linked vessels pass after start of Trump’s blockade; France and UK to chair talks on Friday\n\nUS starts naval blockade of Iranian ports after deadline passes\n\nSouth Korean president Lee Jae Myung has said rising tensions around the strait of Hormuz make it hard to be optimistic about the fallout from the Iran war, warning that high oil prices and supply-chain strains are likely to persist for some time.\nLee told a cabinet meeting on Tuesday the government should treat prolonged disruption in global energy and raw materials markets as a given and reinforce its emergency response system.\nFor the time being, difficulties in global energy and raw materials supply chains and high oil prices will continue … I ask that we pursue the development of alternative supply chains, medium- to long-term industrial restructuring, and the transition to a post-plastic economy as top-priority national strategic projects.”\nLebanon and Israel have been at war in some form since the early 1980s. You’re not allowed to enter Lebanon if you have an Israeli stamp in your passport. The two don’t have diplomatic relations. So the fact that these talks are happening directly between the two governments is something that’s really astonishing.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6d8b3784f2db4d2d2da2ef6ae3910199851d14f3",
+      "title": "Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen",
+      "url": "https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-04-14T13:43:15.000Z",
+      "summary_90w": "",
+      "raw": "The Anbernic RG Rotate features basic GBA-style controls without thumbsticks. | Screenshot: YouTube\t\n\nAnbernic, one of the most prolific makers of handheld consoles and emulators, isn't afraid to experiment with creative designs. After debuting a wireless controller with a heart rate monitor earlier this year, the company has announced a new gaming device with a square design, basic controls, and a swiveling touchscreen. What's not so creative is the name of the new device; the Anbernic RG Rotate.\nThe company shared a video yesterday showing off some of the RG Rotate's features. The handheld's screen swivels using a \"self-developed ultra-thin alloy hinge built for lasting durability.\" Even companies like Nintendo sometimes struggle with kee …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "578fbe7212a8cac86a2c419ed1afb6eb71f6656b",
+      "title": "Ben McKenzie vs. crypto",
+      "url": "https://www.theverge.com/podcast/911605/ben-mckenzie-crypto-cgm-wearables-vergecast",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-04-14T13:34:32.000Z",
+      "summary_90w": "",
+      "raw": "A few years ago, during the absolute peak of the cryptocurrency craze, a somewhat surprising skeptic emerged. Most people know Ben McKenzie from his acting work on Southland or Gotham, or would recognize him instantly as Ryan Atwood from The O.C. While seemingly everyone else was buying Bitcoin, McKenzie decided to figure out what Bitcoin was actually all about. And, of course, he decided to film it.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast, McKenzie takes us into his many adventures i …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b8d9dcf07a0665f264ce407c280150468df513ed",
+      "title": "Samsung is hiking the prices of its Galaxy phones and tablets",
+      "url": "https://www.theverge.com/tech/911623/samsung-galaxy-phones-tablets-price-hike-ram",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-04-14T13:34:06.000Z",
+      "summary_90w": "",
+      "raw": "Samsung is raising prices across Galaxy Z Flip 7, Galaxy S25 FE, and Galaxy S25 Edge phones, as spotted earlier by Phone Arena. Though the base model of each phone is staying at the same price, devices with higher storage are now up to $80 more expensive:\nGalaxy Z Flip 7 (512GB): $1,219.99 to $1,299.99 \nGalaxy S25 FE (256GB): $709.99 to $749.99 \nGalaxy S25 Edge (512GB) $1,219.99 to $1,299.99\nLast week, Samsung also increased the price of the Galaxy Z Fold 7, bringing its 1TB model from $2,419 to $2,499, while the 512GB version jumped from $2,119 to $2,199. Samsung's price hikes don't just end with its phones, however, as Phone Aren …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d7d1ff8fe80c7ab271e9a62d96842c6910712ea8",
+      "title": "Millions of people are pretending to be AI chatbots — for fun",
+      "url": "https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-04-14T13:30:19.000Z",
+      "summary_90w": "",
+      "raw": "Websites like youraislopbores.me have become playgrounds for people looking for light relief in a bot-heavy world.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "74784811c3d584618c30e7baa8f92bbacb2b3c72",
+      "title": "Apple and Amazon are teaming up to challenge Starlink’s smartphone ambitions",
+      "url": "https://www.theverge.com/tech/911617/amazon-globalstar-apple-iphone-watch-satellite-internet",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-04-14T13:29:48.000Z",
+      "summary_90w": "",
+      "raw": "Amazon has made a deal to buy Globalstar's low-Earth orbit satellite network for $11.57 billion, snapping up its spectrum licenses, operations, and assets to combine with its upcoming Leo internet satellite constellation. Apple owned 20 percent of Globalstar, and as a part of the deal, Amazon will continue to support satellite services like Emergency SOS for iPhones and Apple Watches, and develop future services that connect them to its Leo satellite network. The deal is currently scheduled to close in 2027, pending approval by regulators.\nGlobalstar currently provides direct-to-device services to the iPhone and Apple Watch. That's differen …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7683890e7df3988cbe012df87b81baf150c5953a",
+      "title": "Sixteen injured after ex-student opens fire at high school in Turkey",
+      "url": "https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-14T13:23:50.000Z",
+      "summary_90w": "",
+      "raw": "Students and teachers are among those who were injured in the attack in the country's south-east.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9f104c9c8bdb28540fbfb3228d09ff55f8f9c887",
+      "title": "How a Primark trainer ended gang's £1m Rightmove burglary spree",
+      "url": "https://www.bbc.com/news/articles/c4ge479xpvpo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-14T13:22:15.000Z",
+      "summary_90w": "",
+      "raw": "The men looked at Rightmove floorplans and used Google to identify properties to target.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "dee2344e04cb81a5deeba0b64d05c538fe78ff5c",
+      "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
+      "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-14T13:22:08.000Z",
+      "summary_90w": "",
+      "raw": "The financial body cuts its growth forecast for the UK and warns the war threatens to throw the global economy \"off course\".",
       "topics": [
         "World"
       ]
     },
     {
       "id": "9682cfc3c6e79cf0ee070bc0db3aba226bc4281f",
-      "title": "Magyar set to make rare appearance on Hungary’s state media after accusing them of spreading Orbán propaganda – Europe live",
+      "title": "Zelenskyy hails Magyar’s win over Orbán as ‘the victory of light over darkness’ in Hungary – Europe live",
       "url": "https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-04-14T11:47:33.000Z",
+      "published": "2026-04-14T13:19:30.000Z",
       "summary_90w": "",
-      "raw": "Hungarian election winner had not appeared on state media for 18 months before the election and is preparing to overhaul the broadcasters\nUkraine’s president Volodymyr Zelenskyy has hailed the opposition win in Hungary as “the victory of light over darkness,” as he called for “pragmatic, friendly” relations with the new administration.\nSpeaking alongside the German chancellor, Friedrich Merz, Zelenskyy said that he hoped for “pragmatic” and “friendly” relations with the new Magyar government – in sharp contrast with hostile Orbán administration.\n Continue reading...",
+      "raw": "Ukrainian leader hopes for ‘pragmatic’ and ‘friendly’ relations with new government in contrast with hostility of previous pro-Russian regime\nin Berlin\nAt his press conference with Zelenskyy, Germany’s chancellor Friedrich Merz also welcomed Péter Magyar’s decisive victory, saying it would have “implications for our support for Ukraine”.\n“More Hungarians than ever before cast their votes. By an overwhelming majority, they voted not only to oust a government, but to oust an entire system.”\n“Volodymyr Zelenskyy and I also discussed this. The funds for military support must now be disbursed quickly. Ukraine needs them urgently.”\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -34,7 +229,7 @@
       "url": "https://www.bbc.com/news/articles/c1d993116q6o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2026-04-14T11:44:35.000Z",
+      "published": "2026-04-14T13:10:33.000Z",
       "summary_90w": "",
       "raw": "The separatists say their decison reflects responsibility, restraint and respect for human dignity.",
       "topics": [
@@ -42,16 +237,172 @@
       ]
     },
     {
-      "id": "08f81b00d9a4d116f1dc75384762a6b0b5c270cd",
-      "title": "Households could get free electricity for doing washing on sunny weekends",
-      "url": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&at_campaign=rss",
+      "id": "fd3ecef492ce4a13da6eba29456005acdac9e354",
+      "title": "Burglars who used Rightmove to target homes and steal £1m of valuables jailed",
+      "url": "https://www.bbc.com/news/articles/c8jxe9npzdlo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-04-14T11:42:05.000Z",
+      "published": "2026-04-14T13:08:50.000Z",
       "summary_90w": "",
-      "raw": "Providers will be able to encourage people to use energy when \"weather conditions result in excess supply\".",
+      "raw": "The gang gloated about their crimes while two of them referred to themselves as Bonnie and Clyde.",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "ad178d929e0809e188958e01eacff2d9581ac6a3",
+      "title": "French woman, 86, held by ICE after moving to US to reunite with long-lost love",
+      "url": "https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-14T13:08:41.000Z",
+      "summary_90w": "",
+      "raw": "The son of pensioner Marie-Thérèse told French media he is worried for his mother's frail health as she is detained in a Louisiana ICE centre.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a6f0141fa531fa46f7fe01d30d8c7eb3ceecdd92",
+      "title": "IMF warns ‘unprecedented’ energy crisis could trigger global recession as Australia prepares for G20 fuel talks",
+      "url": "https://www.theguardian.com/business/2026/apr/14/imf-world-economic-outlook-energy-crisis-global-recession-australia-fuel",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-04-14T13:00:57.000Z",
+      "summary_90w": "",
+      "raw": "As treasurer Jim Chalmers weighs ‘extreme uncertainty’, one economic scenario sees global growth plunging to just 2% in 2026\n\nGet our breaking news email, free app or daily news podcast\n\nThe International Monetary Fund has warned the US-Israel war on Iran risks creating an “energy crisis of an unprecedented scale” that could tip the global economy towards recession.\nThe grim warning contained in the IMF’s latest World Economic Outlook comes as Jim Chalmers prepares to attend the organisation’s spring meetings in Washington DC this week, where he said he would be “joining with other countries continuing to call for an enduring end to the war”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "cf5cb9ca65485df4fdb4c4f37d9213756d9a5c73",
+      "title": "Alienware’s new gaming monitor offers a 240Hz QD-OLED panel for just $350",
+      "url": "https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-04-14T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Alienware has announced a new budget-friendlier QD-OLED monitor, the AW2726DM. As some of the numbers in the convoluted product name hint, it's a 27-inch QHD panel, with 2560 x 1440 resolution, HDR support, and a high refresh rate of 240Hz. But what really makes it special is its comparatively low price of $349.99.\nHigh-refresh OLED monitors are great for gaming but also nice for everyday use, thanks to their strong contrast, vibrant colors, and their ability to smoothly display motion across your desktop. The AW2726DM makes the whole formula more approachable, as fancier gaming OLEDs typically run $500 to $900 or higher (and that's not cou …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f7deb511df29197508ddd4f05f939cda476ef025",
+      "title": "Ecovacs’ new robovac spots and pretreats dried stains using powerful jets",
+      "url": "https://www.theverge.com/tech/910298/ecovacs-deebot-x12-omnicyclone-robot-vacuum-mop-pretreat-ai",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-04-14T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The robovac sprays a mixture of water and cleaning solution to loosen stains. | ﻿Image: Ecovacs\t\n\nEcovacs announced a new addition to its Deebot line of autonomous cleaners with a new feature that could make the robovac better at cleaning floors in a single pass. The Deebot X12 OmniCyclone uses cameras and AI to identify dried stains on floors, such as muddy paw prints or spilled soda. Before cleaning the stain with its roller mop, the X12 blasts a mixture of water and cleaning solution in the bot's path to soften tricky messes, making them easier to scrub away.\nThe Deebot X12 OmniCyclone is available starting today for $1,499 through the company's online store and Amazon. That price includes the robovac's OMNI Station dock, which empti …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8b0adcbedcd5b123b9ffa66c0edca3a081fb2131",
+      "title": "GoPro goes bigger and pro-er with support for Micro Four Thirds lenses",
+      "url": "https://www.theverge.com/gadgets/911324/gopro-mission1-pro-action-video-camera-price-specs",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-04-14T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "A trio of GoPro Mission 1 cameras: the Mission 1, Mission 1 Pro, and Mission 1 Pro ILS. | Image: GoPro\t\n\nGoPro is announcing its Mission 1 cameras, a new line of video-centric action cams with 50-megapixel, 1-inch-type sensors and the company's new GP3 in-house processor. Pricing is still TBD, but there will be three models launched in two waves: a base-model Mission 1 and the Mission 1 Pro will be available May 28th, and a higher-end flagship Mission 1 Pro ILS with interchangeable Micro Four Thirds lenses is expected in Q3 2026.\nThe base Mission 1 can shoot video at up to 8K / 30 frames per second in 16:9 as well as open gate of its whole 4:3 sensor at up to 4K / 120 fps. It can do slow-motion of up to 240 fps at 1080p. The Mission 1 Pro ups  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "acbb4b6cdbf26446e5783cdee760ea9eaf578370",
+      "title": "The heist of iOS 26",
+      "url": "https://www.theverge.com/tech/908476/jon-prosser-apple-liquid-glass",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-04-14T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The most consequential YouTube video of Jon Prosser's career opens on Prosser himself, in a black hoodie and transparent glasses. The backdrop is familiar to viewers of his tech news channel, Front Page Tech, with warm, hanging lights and a bright white \"fpt\" logo behind him. Prosser stares meaningfully into the camera, and kicks the video off with just one line of introduction: \"I have seen some things.\" \nThe video debuted on January 17th, 2025, with the title \"Here's your very first look at iOS 19.\" For six and a half minutes, Prosser describes an unreleased version of Apple's iPhone software, not set to be publicly revealed for another s …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8fc9e56bebde4eaa72249ea896ec34d20e7d10cd",
+      "title": "Bloodborne film adaptation to be produced by YouTube star Jacksepticeye",
+      "url": "https://www.bbc.com/news/articles/c24887zl8e5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-14T12:44:28.000Z",
+      "summary_90w": "",
+      "raw": "YouTuber Jacksepticeye will co-produce the film adapation of the popular Playstation game.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "24f3822ed0b3f9438a8c3f105878f0c4aaf3887b",
+      "title": "Bloodborne is being turned into an R-rated animated film",
+      "url": "https://www.theverge.com/entertainment/911576/bloodborne-feature-film",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-04-14T12:35:40.000Z",
+      "summary_90w": "",
+      "raw": "It's not a PC port or a remake, but Sony is returning to the Gothic world of Bloodborne. There aren't many details yet - Sony says that \"plot details are still being kept under wraps\" - but the game is being adapted into \"an R-rated animated feature,\" with YouTuber Seán \"Jacksepticeye\" McLoughlin (a known Bloodborne fan) serving as a producer. No word on when the film might be premiering.\nFirst released in 2015 on the PS4, Bloodborne is developed by FromSoftware, the same team behind the dark fantasy Souls series. Like those games, Bloodborne is known for its brutal difficulty, but it's also beloved for the fully realized city of Yharnam th …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "120b6c4bdc937e5032f1973cd572881ad2bef934",
+      "title": "Virginia joins a national effort to ensure only popular vote winners become president",
+      "url": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-04-14T12:34:57.000Z",
+      "summary_90w": "",
+      "raw": "With Virginia on board, the National Popular Vote Compact is now enacted in states worth 222 electoral votes. Here's what that means.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b127aa97add6d66b32d155b674ebfe640b2ac3a5",
+      "title": "Former Nato chief warns UK security 'in peril' as he accuses Starmer of 'corrosive complacency'",
+      "url": "https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-14T12:30:20.000Z",
+      "summary_90w": "",
+      "raw": "Lord George Robertson, a former Labour defence secretary, will use a speech to accuse \"non-military experts in the Treasury\" of \"vandalism\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "cbc15d93808e18cd68de12c2b14243e193c059b7",
+      "title": "‘We were never friends’: Kremlin plays down loss of ally following Orbán’s election defeat",
+      "url": "https://www.theguardian.com/world/2026/apr/14/hungary-new-era-russia-back-foot-vladimir-putin-viktor-orban",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-04-14T12:29:03.000Z",
+      "summary_90w": "",
+      "raw": "Loss of closest European ally will force Kremlin to consider whether non-autocratic states can ever be reliable partners\n\nEurope live – latest updates\n\nThe Kremlin said on Tuesday it was pleased that Hungary’s prime minister-elect, Péter Magyar, appeared open to pragmatic dialogue, as Moscow adopts a wait-and-see approach after the election loss of its closest partner in Europe, Viktor Orbán.\n“For now, we can note with satisfaction, as far as we understand, his [Magyar’s] willingness to engage in pragmatic dialogue,” said the Kremlin spokesperson Dmitry Peskov. “In this instance, there is mutual willingness on our part, and we will then proceed to take our cue from the specific steps taken by the new Hungarian government.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d8bd88ec7f5053d6e355e5eb2d786eed3fab8163",
+      "title": "Lucid Motors names new CEO, lands more money from Uber and Saudis",
+      "url": "https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-04-14T12:22:22.000Z",
+      "summary_90w": "",
+      "raw": "The search for a new CEO, which lasted over a year following the sudden resignation of Peter Rawlinson, is finally over.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -76,19 +427,6 @@
       "published": "2026-04-14T11:38:24.000Z",
       "summary_90w": "",
       "raw": "Crude prices fall back below $100 a barrel as markets hope an agreement can be reached between the two sides.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ad178d929e0809e188958e01eacff2d9581ac6a3",
-      "title": "French woman, 86, held by ICE after moving to US to reunite with long-lost love",
-      "url": "https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-14T11:37:11.000Z",
-      "summary_90w": "",
-      "raw": "The son of pensioner Marie-Thérèse told French media he is worried for his mother's frail health as she is detained in a Louisiana ICE centre.",
       "topics": [
         "World"
       ]
@@ -146,27 +484,14 @@
       ]
     },
     {
-      "id": "b127aa97add6d66b32d155b674ebfe640b2ac3a5",
-      "title": "Former Nato chief warns UK security 'in peril' as he accuses Starmer of 'corrosive complacency'",
-      "url": "https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-14T11:14:07.000Z",
-      "summary_90w": "",
-      "raw": "Lord George Robertson, a former Labour defence secretary, will use a speech to accuse \"non-military experts in the Treasury\" of \"vandalism\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "eae28bb0b6c2fa0888d67a42f817b702a397f1ca",
-      "title": "Survivors ask why Nigeria bombed busy market in effort to target jihadist group",
+      "title": "Survivors ask why busy market bombed in Nigerian anti-terror campaign",
       "url": "https://www.theguardian.com/world/2026/apr/14/survivors-ask-why-nigeria-bombed-busy-market-in-effort-to-target-jihadist-group",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2026-04-14T11:10:34.000Z",
       "summary_90w": "",
-      "raw": "Devastating attack killed up to 200 people, many of them civilians, with military saying it was a ‘precision airstrike’\nSurvivors and observers have questioned the Nigerian military’s rationale for a devastating airstrike on a busy market that killed as many as 200 people, many of them civilians.\nThe hit on Jilli market on the border of the north-eastern Borno and Yobe states on Saturday is the latest in a string of attacks by the country’s air force over the past decade with a high civilian death toll.\n Continue reading...",
+      "raw": "Military has described devastating attack that killed up to 200 people, many of them civilians, as a ‘precision airstrike’\nSurvivors and observers have questioned the Nigerian military’s rationale for a devastating airstrike on a busy market that killed as many as 200 people, many of them civilians.\nThe hit on Jilli market on the border of the north-eastern Borno and Yobe states on Saturday is the latest in a string of attacks by the country’s air force over the past decade with a high civilian death toll.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -180,19 +505,6 @@
       "published": "2026-04-14T11:05:17.000Z",
       "summary_90w": "",
       "raw": "An inquest opens into the death of Soham murderer Ian Huntley, who was fatally attacked in prison.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "84514ed06ca776deb65171240b8d7e6ebf7a5ca9",
-      "title": "Unsung Titanic hero's gold watch could go for £100k",
-      "url": "https://www.bbc.com/news/articles/cx234k8g1mko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-14T11:03:08.000Z",
-      "summary_90w": "",
-      "raw": "The item was awarded to John Richardson for his efforts in rescuing survivors of the 1912 disaster.",
       "topics": [
         "World"
       ]
@@ -237,19 +549,6 @@
       ]
     },
     {
-      "id": "7683890e7df3988cbe012df87b81baf150c5953a",
-      "title": "Sixteen injured after ex-student opens fire at high school in Turkey",
-      "url": "https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-14T10:38:55.000Z",
-      "summary_90w": "",
-      "raw": "Students and teachers are among those who were injured in the attack in the country's south-east.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "bc810470e0220ffcf0d9dc3f1c9173497ffb0527",
       "title": "The labor economics of 'Alien' — and its lessons for inequality on Earth",
       "url": "https://www.npr.org/sections/planet-money/2026/04/14/g-s1-117075/the-labor-economics-of-alien-and-its-lessons-for-inequality-on-earth",
@@ -263,14 +562,14 @@
       ]
     },
     {
-      "id": "011c8b8e5358f37e600f7811a5dad1ba9bd88872",
-      "title": "Retrial over death of Argentina legend Maradona to begin",
-      "url": "https://www.bbc.com/news/articles/cj377mm7zzvo?at_medium=RSS&at_campaign=rss",
+      "id": "16db4a2dca282d56e1b59188ce1899ccdd5f684e",
+      "title": "Doctor Who star Ncuti Gatwa to receive honorary doctorate",
+      "url": "https://www.bbc.com/news/articles/cq8wwk2v2jdo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-04-14T10:21:21.000Z",
+      "published": "2026-04-14T10:29:17.000Z",
       "summary_90w": "",
-      "raw": "The first trial - which saw members of Maradona's medical team accused of poor care - collapsed after a judge let cameras into the court.",
+      "raw": "Other recipients include Belle and Sebastian singer Stuart Murdoch and BBC journalist Sarah Smith.",
       "topics": [
         "World"
       ]
@@ -315,19 +614,6 @@
       ]
     },
     {
-      "id": "44e7c716d15b1f94dca3a6d7801702b876b8e561",
-      "title": "A sleek, wearable airbag for cyclists is nearly here",
-      "url": "https://www.theverge.com/gadgets/911540/a-sleek-wearable-airbag-for-cyclists-is-nearly-here",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-04-14T09:58:51.000Z",
-      "summary_90w": "",
-      "raw": "The lightweight Airbag deploys in just milliseconds after detecting a crash. | Image: Van Rysel\t\n\nWhat you're looking at is a new airbag system integrated directly into a \"race-ready\" skinsuit, not bolted on like other solutions. It was developed for road cyclists by Van Rysel, with the help of airbag technology specialist In&motion. It's currently being tested on pro riders ahead of a general consumer release sometime \"within the next two years.\"\nIts development comes after the UCI, pro cycling's governing body, put out a call in February seeking gear that could help protect riders traveling faster than ever.\nThe current version is in final validation ahead of potential race deployment. It has a total weight of about 700 grams (500 gr …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "e78df189c0632d5c614bd1ac43a142f1525137a8",
       "title": "Police officers among seven arrested over deadly Haiti stampede",
       "url": "https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&at_campaign=rss",
@@ -368,7 +654,7 @@
     },
     {
       "id": "cf4f714372f5de4a309c1f9882c696d3648ab831",
-      "title": "What's changed since Harry and Meghan last visited Australia in 2018?",
+      "title": "Watch: What are Harry and Meghan doing in Australia? ",
       "url": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -445,32 +731,6 @@
       ]
     },
     {
-      "id": "1143a96c6b61d2858c755af1bf42ffc4a800291b",
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5780735/morning-news-brief",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-04-14T08:43:31.000Z",
-      "summary_90w": "",
-      "raw": "Reps. Eric Swalwell and Tony Gonzales are stepping down amid misconduct allegations, the U.S. and Iran are both blocking oil exports, Trump deletes controversial post amid row with pope.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "93fce7fbec87158aa5775afd9ca180cd6ca5c241",
-      "title": "The new Trump Phone design is here",
-      "url": "https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-04-14T08:25:07.000Z",
-      "summary_90w": "",
-      "raw": "Still proud, still American, still gold. | Image: Trump Mobile\t\n\nTrump Mobile has overhauled its website, introducing a new logo, new design language, and a new version of the T1 Phone. The redesigned phone is the same one that two company executives showed me over a video call two months ago, seemingly now confirmed to be the final design - but there's still no word on when it will arrive.\nThe phone is still gold, of course, with an American flag design on the rear that's black in some images, but white in others, alongside a \"Trump Mobile\" wordmark. I was shown a similar design but with an enormous \"T1\" logo across the whole of the rear, but I was told that would be removed, and it's nowhere to be seen …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "236eebeca759209a0cf518301f90c210dae43862",
       "title": "Taylor’s Trumpian immigration pitch is aimed at fighting One Nation – but puts Australia’s identity at stake",
       "url": "https://www.theguardian.com/australia-news/2026/apr/14/taylors-trumpian-immigration-pitch-is-aimed-at-fighting-one-nation-but-puts-australias-identity-at-stake",
@@ -536,32 +796,6 @@
       ]
     },
     {
-      "id": "df7dcadb87f786e5922ceb8765b5be9a46bf306f",
-      "title": "Al Fayed enablers 'must face accountability', survivors say",
-      "url": "https://www.bbc.com/news/articles/c208kde30g2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-14T06:54:51.000Z",
-      "summary_90w": "",
-      "raw": "Two survivors want to see those who enabled Al Fayed to carry out his abuse to face justice.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "59ce7ab4686e0219ebf30f3797cfdde62419d081",
-      "title": "‘I don’t just ditch my mates’: new Victorian Labor minister defends John Setka ties amid criticism",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/14/victoria-labor-mp-luba-grigorovitch-promoted-cabinet-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-04-14T06:41:01.000Z",
-      "summary_90w": "",
-      "raw": "Luba Grigorovitch, one of four MPs promoted to Jacinta Allan’s cabinet, says she has ‘no regrets’ over friendship with former CFMEU boss\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nLuba Grigorovitch, one of four Victorian Labor MPs promoted to cabinet, says she has “no regrets” about her past friendship with disgraced construction union leader John Setka, despite the opposition labelling her appointment “appalling”.\nThe Victorian Labor caucus met on Tuesday and voted to elevate Grigorovitch, the member for Kororoit, along with Frankston MP Paul Edbrooke, Eureka MP Michaela Settle and Box Hill MP Paul Hamer, to cabinet.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7e42dbc62f923d67482c5ccac42cb0bba8feb913",
       "title": "Adam Peaty on his return to the pool, LA 2028 and Gordon Ramsay's wedding speech",
       "url": "https://www.bbc.com/sport/swimming/articles/c0j65y76e9wo?at_medium=RSS&at_campaign=rss",
@@ -570,32 +804,6 @@
       "published": "2026-04-14T06:02:30.000Z",
       "summary_90w": "",
       "raw": "Two-time Olympic champion Adam Peaty discusses his latest return, his path to the LA Olympics and Gordon Ramsay's wedding speech.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "dca77306dd681700c508694b304be2c1f5d00288",
-      "title": "U.K. inquiry lays bare 'catastrophic' missed chances before stabbings at dance class",
-      "url": "https://www.npr.org/2026/04/14/g-s1-117332/uk-report-stabbings-at-dance-class",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-04-14T05:41:14.000Z",
-      "summary_90w": "",
-      "raw": "An inquiry found that a mass killing by a British teenager in 2024 at a Taylor Swift-themed dance class could have been prevented if his parents and state agencies had acted on his violence fixation.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "35badc3728b9e254d29f7e3ff68933bcd8bffe72",
-      "title": "I was minutes from dying - then I heard the lifeboat crewman's voice",
-      "url": "https://www.bbc.com/news/articles/cx2937d1r4jo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-14T05:29:55.000Z",
-      "summary_90w": "",
-      "raw": "A woman is reunited with the lifeboat crew who saved her life after her paddleboard was swept out to sea",
       "topics": [
         "World"
       ]
@@ -708,13 +916,13 @@
       "id": "9f881486bcb98d35ef3ca5d00f356d122e0aed08",
       "title": "Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder",
       "url": "https://www.npr.org/2026/04/13/g-s1-117320/openai-sam-altman-molotov-cocktail",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2026-04-14T01:02:10.000Z",
       "summary_90w": "",
       "raw": "No one was injured at Altman's home or the company offices, authorities said.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -739,32 +947,6 @@
       "published": "2026-04-14T00:23:33.000Z",
       "summary_90w": "",
       "raw": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0eb757d0232c4a047b6818e2c709a70473f79aaf",
-      "title": "US starts naval blockade of Iranian ports after deadline passes",
-      "url": "https://www.theguardian.com/world/2026/apr/13/deadline-passes-for-us-blockade-on-ships-using-iranian-ports-to-begin",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-04-14T00:23:24.000Z",
-      "summary_90w": "",
-      "raw": "Iran warns Americans they face higher pump prices due to prohibition imposed on Monday evening\n\nMiddle East crisis – live updates \n\nThe US blockade of ships using Iranian ports in the Gulf has come into effect, turning the six-week-old conflict between the US-Israeli coalition and Iran into a test of economic endurance.\nUS Central Command (Centcom) made no formal announcement of the start of the blockade but had said it begin on Monday at 5.30pm Iranian time and would apply to any ships entering or departing Iranian ports or coastal areas, while ships using non-Iranian ports would not be impeded.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3879c0aa914e62a6a4ea524420acf38e00fcf6b8",
-      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-04-14T00:02:38.000Z",
-      "summary_90w": "",
-      "raw": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted to break the glass doors of the building with a chair and stated that he had come to burn down the location and kill anyone inside.\"\nHis charges include \"attempted damage and destruction of property by means of explosives and possession of an unregistered firearm,\" according to the Departmen …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -822,19 +1004,6 @@
       ]
     },
     {
-      "id": "b50e8f889155d60054fcd63df62997ac2c853803",
-      "title": "Why doctors' strikes can actually lead to shorter waiting times and what it costs",
-      "url": "https://www.bbc.com/news/articles/cp3l2pygnlyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-13T23:06:45.000Z",
-      "summary_90w": "",
-      "raw": "Some hospital trusts tell the BBC previous action has seen shorter waits, faster decisions and calmer corridors.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7bb837e97ea3f0184f445447e6797d12fe809a12",
       "title": "Democrats were already scrambling in California's governor race. Then Swalwell dropped out",
       "url": "https://www.bbc.com/news/articles/cje419peejxo?at_medium=RSS&at_campaign=rss",
@@ -861,32 +1030,6 @@
       ]
     },
     {
-      "id": "c381d33d40840aa356c4ca98f970a5edea32e2e2",
-      "title": "The Mercedes EQS returns with massive range and charging gains",
-      "url": "https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-04-13T22:01:00.000Z",
-      "summary_90w": "",
-      "raw": "A year ago, Mercedes-Benz did the prudent thing and paused its EQ lineup of electric vehicles in the US. With customer demand drying up for luxury EVs, and federal incentives getting axed by vengeful Republicans, Mercedes put its first-generation EVs on ice.\nBut then, in January, Mercedes quietly reintroduced the EQS brand in the US, with The Drive declaring that the \"blobs are back\" - a reference to the sedan's much-maligned jelly-bean shape that prioritized aerodynamics over a more traditional profile. But we didn't yet realize how back the EQS truly was.\nToday, Mercedes is reintroducing its electric sedan to a wary, cash-strapped market …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "b0076a9f2210bdecd2fa8ef00173fc6b2b33b44b",
-      "title": "Eric Swalwell will resign from Congress as he faces backlash over assault allegations",
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5784030/eric-swalwell-resigns-from-congress",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-04-13T21:49:00.000Z",
-      "summary_90w": "",
-      "raw": "Swalwell's resignation follows allegations of sexual assault and misconduct made by multiple women against the California Democrat.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "4a1c35cfa5729179aac96fb79fd8d19b2ce97d67",
       "title": "'They are striking everywhere' - Paramedics in Lebanon speak to BBC after Israeli strikes",
       "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
@@ -908,32 +1051,6 @@
       "published": "2026-04-13T21:28:14.000Z",
       "summary_90w": "",
       "raw": "Russia has offered \"pragmatic\" relations, but Péter Magyar says he will not call Vladimir Putin himself.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7a9e589fe7b7cdc20f2374556d9637aefd77e5bb",
-      "title": "Justin Bieber&#8217;s YouTube Coachella set had nothing to do with who owns his music",
-      "url": "https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-04-13T21:19:10.000Z",
-      "summary_90w": "",
-      "raw": "This past Saturday at the Coachella music festival, Justin Bieber played the first of two headlining sets in a deal reportedly worth $10 million. It was his most significant solo performance in years. But Bieber spent some of his time on stage the way many of us do on Saturday nights: on YouTube. For some of the set, Bieber played parts of his older songs right off YouTube from a Mac laptop. Behind him, on the stage's screen, you could see YouTube's website as he searched for songs in real time and then put the videos on full-screen while he sang along on stage. \n\"I'm sorry to cut it, but these are little snippets. I just want to see how fa …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "f0fbc152450264fa3b51efd4ee20a10043b2bd10",
-      "title": "Jorginho withdraws criticism of Chappell Roan after hotel security incident",
-      "url": "https://www.bbc.com/sport/football/articles/cx2dgz1vk91o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-13T21:15:28.000Z",
-      "summary_90w": "",
-      "raw": "Former Chelsea and Arsenal player Jorginho issues a statement saying pop singer Chappell Roan was not involved in an incident in which a security guard reduced his daughter to tears.",
       "topics": [
         "World"
       ]
@@ -978,19 +1095,6 @@
       ]
     },
     {
-      "id": "f725393cb0f85e887f172d8e9ad163c2457cee6b",
-      "title": "RAMageddon has come for Microsoft&#8217;s Surface Pro and Surface Laptop",
-      "url": "https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-04-13T20:45:41.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft just raised the prices across its line of Surface devices amid the global RAM shortage. Now, the 13-inch Surface Pro 11 and the 13.8-inch Surface Laptop 7 cost $500 more than their original starting price, going from $999 to $1,499, as reported earlier by Windows Central.\nLast year, Microsoft stopped selling the  $999 versions of the Surface Pro 11 and the 13.8-inch Surface Laptop 7 in favor of the $1,199 models with more storage. At the time, it seemed like Microsoft was trying to make room for the cheaper 12-inch Surface Pro and 13-inch Surface Laptop that launched last May. However, these newer devices aren't safe from the pric …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "a7100ffab407cede4a78c2dbf5dfea0b6f509f0a",
       "title": "Thousands of rare concert recordings are landing on the Internet Archive — listen now",
       "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
@@ -999,19 +1103,6 @@
       "published": "2026-04-13T20:20:47.000Z",
       "summary_90w": "",
       "raw": "Chicago-based music superfan Aadam Jacobs has been recording the concerts he goes to since the 1980s, amassing an archive of over 10,000 tapes.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "ca8f159f22fed42866ea2e9dcc3ab21ce258394b",
-      "title": "NZXT to pay $3.45 million settlement over Flex PC rentals",
-      "url": "https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-04-13T20:00:58.000Z",
-      "summary_90w": "",
-      "raw": "The Flex PC rental service didn’t make it clear to customers that it wasn’t a “rent-to-own” program. | Image: NZXT\t\n\nNZXT and its business partner Fragile have agreed to pay $3.45 million to settle a class action lawsuit that accused the companies of attempting to \"scam\" consumers through their Flex PC rental service. The preliminary settlement was filed in a California District Court on April 7th to close a civil RICO case against the Flex program over allegations that it defrauded 19,322 customers through deceptive marketing practices and aggressive debt collection.\nThe settlement was shared on YouTube by Gamers Nexus, with host Steve Burke noting that NZXT and Fragile are still offering PC rental programs under the new agreement. This follows Gamers Ne …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -1027,19 +1118,6 @@
       "raw": "Stephen Doughty says US withdrawal of support means bill cannot complete passage through parliament\nA treaty over ceding sovereignty of the Chagos Islands to Mauritius has become “impossible to agree at political level” and the corresponding bill will not complete its passage through parliament, a Foreign Office minister has said.\nStephen Doughty told the Commons that the agreement with Mauritius was initially negotiated in close coordination with the US, but Donald Trump’s position “appears to have changed”.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "61eb0c3e0730eb6ffa327a78711f1cc8dbd24d57",
-      "title": "AI influencers are ‘everywhere’ at Coachella",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-04-13T19:53:46.000Z",
-      "summary_90w": "",
-      "raw": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities.\nOnly some of these content creators aren't really there. They don't even exist at all outside of our screens. They're generated using AI tools.\nFaking Coachella attendance is nothing new - even real influencers have been doing so in recent years - but generative AI has now progressed to the point where it's become …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1095,19 +1173,6 @@
       ]
     },
     {
-      "id": "5863248852e79d1012463a2219544d24ff0a8d6f",
-      "title": "Americanswers... on 5 Live! Donald Trump vs Pope Leo on Iran",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nd6swy?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-13T19:10:00.000Z",
-      "summary_90w": "",
-      "raw": "The US president insults the pope and depicts himself as Jesus",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "810241439b11d9ccdfadf4e621f9c3873e215809",
       "title": "Microsoft is working on yet another OpenClaw-like agent",
       "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
@@ -1147,19 +1212,6 @@
       ]
     },
     {
-      "id": "249b1e1e40ac0fe6cf55cd2a78d1c9f2ec5624bc",
-      "title": "The Apple Watch Series 11 has returned to its best-ever price",
-      "url": "https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-04-13T18:48:17.000Z",
-      "summary_90w": "",
-      "raw": "You can buy the Apple Watch Series 11 for $100 off in multiple sizes and colors. | Photo by Amelia Holowaty Krales / The Verge\t\n\nIf you’re still holding onto an older Apple Watch, now might be a good time to upgrade. Right now, the 42mm Apple Watch Series 11 with GPS is on sale for around $299 ($100 off) at Amazon, Best Buy, and Target, which is its best price to date. If you prefer a larger size, the 46mm is also $100 off for a limited time, with the base GPS configuration selling for about $329 at Amazon, Best Buy, and Target.\nApple Watch Series 11\n\nWhere to Buy:\n\n $399 $299 at Amazon (42mm)\n $429 $329 at Amazon (46mm)\n $399 $299 at Best Buy (42mm)\n\nWhile it’s not a significant upgrade over the Apple Watch Series 10, we still recommend it if you’re using a Series 5 or Series 6. It’s Apple’s fastest and most durable flagship wearable yet, with a bright, wide-angle OLED display that’s easy to read at a glance. It offers the longest battery life of any Series model to date, allowing you to eke out up to 24 hours (or 38 hours in low-power mode) on a single charge with the base configuration. The LTE version doesn’t drain as quickly either thanks to Apple’s power-efficient 5G modem, and you can charge a dead watch to 80 percent capacity in just 30 minutes.\nOn the health and wellness side, it offers a diverse range of features, from FDA-cleared hypertension notifications and sleep scores to ovulation tracking, sleep apnea detection, and fall detection. Beyond that, you get access to watchOS 26 features like Workout Buddy, which offers real-time coaching, as well as wrist flick and double tap gestures so you can control the watch without touching the screen. Rounding things out, you also get Apple’s usual set of smart features, including Apple Pay, Siri, and access to music directly from your wrist.\nRead our Apple Watch Series 11 review.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "164f8c7b3b001c67ab3162dd09437233fe7e639c",
       "title": "FBI announces takedown of phishing operation that targeted thousands of victims",
       "url": "https://techcrunch.com/2026/04/13/fbi-announces-takedown-of-phishing-operation-that-targeted-thousands-of-victims/",
@@ -1183,19 +1235,6 @@
       "raw": "Dozens of feral pachyderms linked to drug kingpin to be killed because of threat to native species and villagers\nColombian officials have authorized a plan to cull dozens of hippos descended from animals brought to the country in the 1980s by Pablo Escobar, after the feral beasts displaced native species and threatened local villagers.\nThe environment minister, Irene Vélez, said the decision was reached because other methods to control their population had been expensive and unsuccessful, including neutering some of the animals or moving them to zoos. Vélez said that up to 80 hippos would be affected by the measure. She did not say when the hunting would begin.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "a17e64f7cc9318a4af305f7be079e7b6360f7a97",
-      "title": "Xbox Game Pass &#8216;has become too expensive,’ says Microsoft’s new gaming chief in leaked memo",
-      "url": "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-04-13T17:39:51.000Z",
-      "summary_90w": "",
-      "raw": "Asha Sharma. | Image: The Verge, Microsoft\t\n\nMicrosoft's new Xbox chief, Asha Sharma, has signaled that Xbox Game Pass pricing is about to change. In an internal memo to Xbox employees, obtained by The Verge, Sharma admits that \"Game Pass has become too expensive for players\" and that Microsoft needs \"a better value equation.\"\n\"Game Pass is central to gaming value on Xbox. It's also clear that the current model isn't the final one,\" says Sharma. \"Short term, Game Pass has become too expensive for players, so we need a better value equation. Long term, we will evolve Game Pass into a more flexible system which will take time to test and learn around.\"\nMicrosoft hiked the price of Xbox …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1576,32 +1615,6 @@
       ]
     },
     {
-      "id": "d5b579147fd3ce679188aed344e31e6fdf56666c",
-      "title": "X says it’s reducing payments to clickbait accounts",
-      "url": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-04-12T17:02:20.000Z",
-      "summary_90w": "",
-      "raw": "X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "fb95f39ef346061797d80dff923291bb7e323ce3",
-      "title": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?",
-      "url": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-04-12T16:06:00.000Z",
-      "summary_90w": "",
-      "raw": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "e1e7bf804ea040205a021b9b8081fbb1892f91a0",
       "title": "Anthony Albanese urges Israel to stop Lebanon attacks that intensified during Middle East ceasefire",
       "url": "https://www.theguardian.com/australia-news/2026/apr/13/anthony-albanese-urges-israel-to-stop-lebanon-attacks-that-intensified-during-middle-east-ceasefire",
@@ -1810,19 +1823,6 @@
       ]
     },
     {
-      "id": "4c7fbe68d19f0c2924c4db35b71abb4577841ee6",
-      "title": "How a cheese sandwich at the Masters is still $1.50 in an era of price hikes",
-      "url": "https://www.npr.org/2026/04/09/nx-s1-5779202/masters-concessions-prices-augusta-national",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-04-09T18:16:20.000Z",
-      "summary_90w": "",
-      "raw": "The priciest concessions at the Masters, beer and wine, cost just $6 each. The Georgia golf tournament prides itself on a simple and affordable menu, even as ticket prices continue to climb.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
       "id": "8b6daa4d4ee24fc46be3f3727e295033d8d762b5",
       "title": "Amazon to end support for older Kindles, prompting user outcry",
       "url": "https://www.bbc.com/news/articles/c98k91yy4z4o?at_medium=RSS&at_campaign=rss",
@@ -1948,19 +1948,6 @@
       "published": "2026-04-03T09:00:00.000Z",
       "summary_90w": "",
       "raw": "In orbit, power is free. But everything else is expensive.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "ae0c512ea535ce1c04613be6f5955991b74b1041",
-      "title": "What's next for Meta in the wake of trial losses and layoffs?",
-      "url": "https://www.npr.org/2026/04/02/nx-s1-5768216/whats-next-for-meta-after-trial-losses-layoffs",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2026-04-02T21:07:10.000Z",
-      "summary_90w": "",
-      "raw": "The company behind Facebook and Instagram has lost two major court cases and appears to be scaling back on the virtual reality Metaverse.",
       "topics": [
         "Technology"
       ]
