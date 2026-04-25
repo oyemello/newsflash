@@ -1,16 +1,42 @@
 {
-  "version": "1777113116095",
-  "generatedAt": "2026-04-25T10:31:56.095Z",
+  "version": "1777115682432",
+  "generatedAt": "2026-04-25T11:14:42.432Z",
   "items": [
     {
-      "id": "52dc101e33c02f086f28ac6cb9e7ae77de2dd00a",
-      "title": "Two children die in house fire in Wolverhampton",
-      "url": "https://www.bbc.com/news/articles/cdxd1e899r4o?at_medium=RSS&at_campaign=rss",
+      "id": "6dda75ee4bc69ff58615127ce225dba0f024c68e",
+      "title": "The US gets the worst phones",
+      "url": "https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-04-25T11:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Apple and Samsung dominate the US phone market, and they've done so for years. Together with Google, they've shaped our sense of what a smartphone is and what it can do, pushing the boundaries of mobile photography, software, and processing power. But over the last few years, they've sat back, content to iterate rather than innovate - and in the interim, China's tech giants have plowed ahead. Now a gulf is growing between the phones on sale in the US and those available in the rest of the world. US phone buyers are missing out.\nSome of the blame for that gap lies with Apple. Where it goes, the market follows, and in recent years it's gone s …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "94eae9674e897bb68ecf004cb5101b6a5da4d563",
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-04-25T10:10:21.000Z",
+      "published": "2026-04-25T10:52:27.000Z",
       "summary_90w": "",
-      "raw": "Two other children and a woman were already out of the house before emergency services arrived.",
+      "raw": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4cf48da93366b0695d9efbcb9096c5453a757157",
+      "title": "Extradited teen in court over woman stabbed dead",
+      "url": "https://www.bbc.com/news/articles/ce9mkxy0drro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-25T10:45:06.000Z",
+      "summary_90w": "",
+      "raw": "The London property manager, 27, who was also known as Angela, was stabbed in Westminster in 2024.",
       "topics": [
         "World"
       ]
@@ -21,9 +47,48 @@
       "url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-04-25T10:09:44.000Z",
+      "published": "2026-04-25T10:35:05.000Z",
       "summary_90w": "",
       "raw": "Elections taking place in the occupied West Bank and also central area of Gaza \nWe have some images coming through the newswires of Iran’s foreign minister, Abbas Araghchi, speaking with Pakistan’s army chief, Asim Munir, and other officials in Islamabad this morning.\nAraghchi arrived in Pakistan last night. He wrote on social media that his trip would focus on “bilateral matters and regional developments”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8e734474c3c38d1f2c4dd49a9883f4e3376e1aa1",
+      "title": "Mali army says armed groups launch coordinated attacks across country",
+      "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-25T10:33:26.000Z",
+      "summary_90w": "",
+      "raw": "Witnesses report explosions and sustained gunfire near a military base outside the capital, Bamako.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "81c26180ff931b25462dbdd5482db2668f5ee196",
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-25T10:24:50.000Z",
+      "summary_90w": "",
+      "raw": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "52dc101e33c02f086f28ac6cb9e7ae77de2dd00a",
+      "title": "Two children die in house fire in Wolverhampton",
+      "url": "https://www.bbc.com/news/articles/cdxd1e899r4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-25T10:10:21.000Z",
+      "summary_90w": "",
+      "raw": "Two other children and a woman were already out of the house before emergency services arrived.",
       "topics": [
         "World"
       ]
@@ -56,26 +121,13 @@
     },
     {
       "id": "eecc4c0993102753acd30cc5645a24c76e17b4ab",
-      "title": "RAF Typhoons scrambled in response to Russian drone threat near Nato air space",
+      "title": "RAF Typhoons scrambled in response to Russian drone threat near Nato airspace",
       "url": "https://www.theguardian.com/uk-news/2026/apr/25/raf-typhoons-scrambled-russia-drone-nato-romania-ukraine",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2026-04-25T09:57:33.000Z",
       "summary_90w": "",
-      "raw": "Overnight incident in Romania did not lead to hostilities as potential target stayed within Ukrainian airspace\nTwo RAF Typhoons have been scrambled from a Romanian air base to engage Russian drones close to Nato air space although did not fire or shoot any down.\nBritish defence sources said the fighter jets did not enter Ukrainian airspace, contradicting reports that Russian drones had been shot down by the RAF there, an event which would have represented a major escalation in hostilities between the western alliance and Moscow.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8e734474c3c38d1f2c4dd49a9883f4e3376e1aa1",
-      "title": "Mali army says armed groups launch coordinated attacks across country",
-      "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-25T09:56:49.000Z",
-      "summary_90w": "",
-      "raw": "Witnesses report explosions and sustained gunfire near a military base outside the capital, Bamako.",
+      "raw": "Jets flew from bases in Romania but did not open fire as potential targets stayed within Ukrainian airspace\nTwo RAF Typhoons have been scrambled from a Romanian air base to engage Russian drones close to Nato airspace, although they did not open fire.\nBritish defence sources said the fighter jets did not enter Ukrainian airspace, contradicting reports that Russian drones had been shot down by the RAF there, an event which would have represented a major escalation in hostilities between the western alliance and Moscow.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -146,19 +198,6 @@
       ]
     },
     {
-      "id": "94eae9674e897bb68ecf004cb5101b6a5da4d563",
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-25T08:53:15.000Z",
-      "summary_90w": "",
-      "raw": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5cca545fc28ce2af0d15a36596a8fc9133deab07",
       "title": "‘Racism is a cancer’: Indigenous leaders condemn orchestrated booing at Anzac Day ceremonies",
       "url": "https://www.theguardian.com/news/2026/apr/25/indigenous-leaders-anzac-day-booing-racism-orchestrated-dawn-service-australia-ntwnfb",
@@ -180,6 +219,19 @@
       "published": "2026-04-25T08:00:39.000Z",
       "summary_90w": "",
       "raw": "Haris Doukas warns that with 700,000 residents and 8 million tourists, people are being pushed out of their neighbourhoods\nIn the heart of ancient Athens, on narrow streets and around archaeological sites, visitor groups appear to be everywhere, snaking their way behind tour guides.\nPreviously, officials would have welcomed such scenes. But for Haris Doukas, the socialist mayor who is determined to reclaim the capital’s congested city centre for its citizens, the start of tourist season leaves much of its historic heart at risk of “over-saturation.” Entire neighbourhoods, he believes, are in danger of losing their authenticity because of uncontrolled tourist development.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6f8ea89eb140499bdb9ac2e310bcac8e46155473",
+      "title": "How Newcastle's 'bullies' became too nice",
+      "url": "https://www.bbc.com/sport/football/articles/c4g8j49dgnxo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-04-25T07:25:21.000Z",
+      "summary_90w": "",
+      "raw": "How Eddie Howe's Newcastle have gone from regularly ruffling feathers to losing 15 Premier League games this season.",
       "topics": [
         "World"
       ]
@@ -263,19 +315,6 @@
       ]
     },
     {
-      "id": "f9f70d92d2ab7abf26b60cbeb6f460795fccc114",
-      "title": "Why is Kelly not an automatic starter for Arsenal or England?",
-      "url": "https://www.bbc.com/sport/football/articles/c0q9vx180njo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-25T05:37:18.000Z",
-      "summary_90w": "",
-      "raw": "BBC Sport discusses why Lionesses hero Chloe Kelly is not guaranteed a spot for club or country.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "3416c760045c858cbf5b17a0580f232f3fdc1767",
       "title": "Welsh fire, England captain - how Meg Jones became a dual-nation icon",
       "url": "https://www.bbc.com/sport/rugby-union/articles/cx2vr96rnyvo?at_medium=RSS&at_campaign=rss",
@@ -323,19 +362,6 @@
       "published": "2026-04-25T05:00:36.000Z",
       "summary_90w": "",
       "raw": "In February 2025, a cheap Russian drone tore through Chornobyl’s confinement shelter. Workers warn the site of the world’s worst nuclear accident is not safe yet\nThe dosimeter clipped to your chest ticks faster the moment you step off the designated path inside the Chornobyl nuclear power plant. Step back, and it slows again – an invisible line between clean ground and contamination.\nAbove rises the “new safe confinement” (NSC) – the largest movable steel structure ever built, taller than the Statue of Liberty, wider than the Colosseum, its arch curving overhead like an aircraft hangar built for giant planes.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ca13c0aac27200a6460d912714d39dfb19afbe4c",
-      "title": "The Papers: 'Falklands tell Trump to back off' and 'Harry does a Diana'",
-      "url": "https://www.bbc.com/news/articles/cp8d3kev87eo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-25T04:07:10.000Z",
-      "summary_90w": "",
-      "raw": "Many of the papers lead on a leaked Pentagon memo, which suggests the US could back Argentine sovereignty of the Falklands.",
       "topics": [
         "World"
       ]
@@ -427,19 +453,6 @@
       "published": "2026-04-25T01:34:25.000Z",
       "summary_90w": "",
       "raw": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran war\n\nUK politics live – latest updates\n\nDowning Street has been forced to insist that Britain will not yield sovereignty over the Falkland Islands, after a leaked Pentagon email proposed the US should reassess its support for the UK’s claim on the islands because of a lack of British support over Iran.\nThe memo reflected ways in which the Trump administration could punish Britain for failing to follow the US lead in bombing Iran, and comes before a potentially fraught three-day state visit to the US by King Charles.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4cf48da93366b0695d9efbcb9096c5453a757157",
-      "title": "Teen extradited from Dubai over murder of woman found stabbed at London home",
-      "url": "https://www.bbc.com/news/articles/ce9mkxy0drro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-25T01:27:05.000Z",
-      "summary_90w": "",
-      "raw": "The London property manager, 27, who was also known as Angela, was stabbed in Westminster in 2024.",
       "topics": [
         "World"
       ]
@@ -601,19 +614,6 @@
       ]
     },
     {
-      "id": "a0e511379b1b56ae2a45f4bbe7802d2aed0f0ee0",
-      "title": "Epstein survivor: Meeting the King would be a 'grand step' ",
-      "url": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-04-24T23:00:21.000Z",
-      "summary_90w": "",
-      "raw": "A Buckingham Palace source confirmed the Royals will not meet with survivors of sex offender Jeffrey Epstein during their state visit to the US.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "c759e14eee97843593b70dfc75af9743aaa760bd",
       "title": "'Killing in prison is not difficult' - the rise in cold-blooded attacks behind bars",
       "url": "https://www.bbc.com/news/articles/cwyd47911nwo?at_medium=RSS&at_campaign=rss",
@@ -661,19 +661,6 @@
       "published": "2026-04-24T22:15:15.000Z",
       "summary_90w": "",
       "raw": "In a memo, the Department of Justice says the move will \"strengthen\" the death penalty and deter crime.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9261ab409a26a25e7a1be48f2b5ff06c22bf1529",
-      "title": "'Something special' - O'Sullivan & Higgins renew rivalry",
-      "url": "https://www.bbc.com/sport/snooker/articles/c5yw15y0gy6o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-04-24T22:13:32.000Z",
-      "summary_90w": "",
-      "raw": "Thirty years after their first match at the Crucible, 50-year-olds Ronnie O'Sullivan and John Higgins again go head-to-head on the biggest stage.",
       "topics": [
         "World"
       ]
@@ -874,6 +861,19 @@
       ]
     },
     {
+      "id": "f3a9a7a0b072637467c93aece8d543926ee6ae19",
+      "title": "Before sci-fi was everywhere, this pioneering magazine championed 'scientifiction'",
+      "url": "https://www.npr.org/2026/04/24/nx-s1-5770426/amazing-stories-science-fiction-magazine-100-years-centennial",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-04-24T20:01:44.000Z",
+      "summary_90w": "",
+      "raw": "The name didn't stick. The fan communities did.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "edecaa564fbb73da1975c4641ef644e491b27fa6",
       "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
       "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
@@ -921,19 +921,6 @@
       "published": "2026-04-24T19:10:25.000Z",
       "summary_90w": "",
       "raw": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "54d17e515fbac2c655106124c7156256fa4b7c07",
-      "title": "Watch: 20,000 teddy bears highlight plight of missing Ukrainian children",
-      "url": "https://www.bbc.com/news/videos/c0mjd1z08ero?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-04-24T18:48:31.000Z",
-      "summary_90w": "",
-      "raw": "Each bear in the installation in Washington, DC, is meant to represent one of the children Ukraine says have been abducted by Russia.",
       "topics": [
         "World"
       ]
@@ -1186,19 +1173,6 @@
       ]
     },
     {
-      "id": "bca908c6f23165b7b8399945c98f7251a746a346",
-      "title": "Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?",
-      "url": "https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-04-24T15:17:27.000Z",
-      "summary_90w": "",
-      "raw": "Tesla's Cybercab is now in production at the company's Gigafactory in Austin, Texas, but Elon Musk is sounding unusually cautious about the rollout. \nThe robotaxi's start of production was announced Thursday on X, with Tesla posting a video shot from inside a steering wheel-less Cybercab as it drove out of the factory with the caption, \"Purpose built for autonomy.\" The company made a few initial Cybercabs back in February, but continuous production only started this month. \nBut with the company's robotaxi plans creeping along much slower than expected, many Tesla watchers are left scratching their heads about the future - especially as Mus …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "49c94d672c9e26fdc8a51f2b87b96561ad723605",
       "title": "Nuclear startup X-energy raises $1B in data center-driven IPO",
       "url": "https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/",
@@ -1215,13 +1189,13 @@
       "id": "110f77aab12616bcf2218b6ce9701800ca0a9319",
       "title": "Justice Department drops probe into Fed Chair Jerome Powell",
       "url": "https://www.npr.org/2026/04/24/nx-s1-5798661/justice-department-drops-inquiry-into-fed-chair-jerome-powell",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-04-24T15:02:17.000Z",
       "summary_90w": "",
       "raw": "The move paves the way for the Senate to confirm Kevin Warsh, the president's nominee to head the central bank.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
