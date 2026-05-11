@@ -1,29 +1,211 @@
 {
-  "version": "1778516836894",
-  "generatedAt": "2026-05-11T16:27:16.894Z",
+  "version": "1778523469902",
+  "generatedAt": "2026-05-11T18:17:49.902Z",
   "items": [
     {
+      "id": "e4bf663b5edfd4bf030607a3b25413be7fa8a55f",
+      "title": "Apple brings encrypted RCS chats to iPhone",
+      "url": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-05-11T17:57:56.000Z",
+      "summary_90w": "",
+      "raw": "Apple now lets you have encrypted RCS conversations with Android users through the Messages app on iOS. As part of iOS 26.5, which was released on Monday, Apple added support for end-to-end encrypted RCS messaging in beta, meaning that Apple and Google can't see your messages while they're sent. \nWith iOS 26.5, you'll see a lock icon and a small \"Encrypted\" message at the top of the chat to note when you're having an encrypted conversation with an Android user and are on a carrier that supports the feature. Apple says that encryption will be on by default and \"will be automatically enabled over time for new and existing RCS conversations.\"  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1fd2c572da6b72b282fb7bb984faa635688ae5aa",
+      "title": "Middle East crisis live: Trump says ceasefire is ‘on massive life support’ after rejecting Iran’s response to US peace proposal",
+      "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-05-11T17:54:21.000Z",
+      "summary_90w": "",
+      "raw": "US president said Iran’s response to the US peace proposal was ‘stupid’ and that the ceasefire is ‘unbelievable weak’\n\nTrump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire frays\n\nTurkey’s foreign minister, Hakan Fidan, will visit Qatar later today for talks on the war, its impact on the region and efforts to ensure navigational safety in the strait of Hormuz is resumed, a Turkish diplomatic source told the Reuters news agency.\nTurkey, which neighbours Iran, has been in close contact with the US, Iran and mediator Pakistan since the start of the conflict. It condemnded the US and Israel for launching the war, widely seen to have been done illegally, but also criticised Iran’s counter strikes on Gulf states.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b8c305e50b414abf5645fce621708e6b199224a3",
+      "title": "UK alcohol deaths fall for first time since Covid pandemic",
+      "url": "https://www.bbc.com/news/articles/c3v2dxg79w2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-11T17:52:44.000Z",
+      "summary_90w": "",
+      "raw": "Experts say the “modest reduction” is “not cause for complacency”, with calls to redouble efforts to slash deaths further.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6f7dad5d9067d15695043e95e9ad0e118ceb07e2",
+      "title": "Analysis: Has Starmer done enough to save his premiership?",
+      "url": "https://www.bbc.com/news/articles/c3r2pr95yq0o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-11T17:49:51.000Z",
+      "summary_90w": "",
+      "raw": "Was the prime minister's speech enough to avert a challenge to his leadership less than two years after he won a landslide general election victory?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6b8092fbeef9359b7b9c4bdda778a05e8f809070",
+      "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
+      "url": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-05-11T17:38:32.000Z",
+      "summary_90w": "",
+      "raw": "Five-year old European military drone startup Helsing is close to raising another monster round.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2bc34c55cbaca2c9c296309f78941a8ce3acd946",
+      "title": "Poland says its expects US to extradite ex-minister who fled from Hungary",
+      "url": "https://www.theguardian.com/world/2026/may/11/polish-ex-minister-zbigniew-ziobro-flees-hungary-usa",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-05-11T17:28:23.000Z",
+      "summary_90w": "",
+      "raw": "Trump reportedly involved in securing visa for Zbigniew Ziobro, who is wanted in Warsaw on criminal charges\nPoland has said it expects Washington to extradite a former justice minister wanted on criminal charges after reports emerged that he had fled to the US from Hungary, where the former prime minister Viktor Orbán had granted him asylum.\n“You can’t hide these days. You can flee, you can delay it for a while, but eventually your options run out,” Poland’s foreign minister, Radosław Sikorski, said on Monday in reference to Zbigniew Ziobro.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ea0f05ba3152679098c18847fd64fad58cc89d74",
+      "title": "US passengers from ship quarantined as officials say public risk 'very low'",
+      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-11T17:17:25.000Z",
+      "summary_90w": "",
+      "raw": "One passenger has tested positive for Andes virus, a rare type of hantavirus, while another is showing mild symptoms, health officials say.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b7693549d2dbc32645a7158f31fa587c4879bd54",
+      "title": "'Britain at the heart of Europe': How Starmer's plans are going down in the EU",
+      "url": "https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-11T17:15:52.000Z",
+      "summary_90w": "",
+      "raw": "Sir Keir Starmer pledged to rebuild the UK's relationship with Europe in a defiant speech on Monday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9eab52749ecde24e685022ed1e349f171b955389",
+      "title": "Bravo is creating unscripted microdramas for the Peacock app",
+      "url": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-05-11T17:14:01.000Z",
+      "summary_90w": "",
+      "raw": "As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that is launching two unscripted Bravo microdramas, which will stream in the Peacock app.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8da6eff6774f6101f6221cf20df65c6e4e03b78c",
+      "title": "Man accused of Starmer arson attacks did not intend to endanger life, court hears",
+      "url": "https://www.bbc.com/news/articles/c3325n0054no?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-11T17:09:49.000Z",
+      "summary_90w": "",
+      "raw": "A Ukrainian man accused of the attack says he was forced to start the fire after being recruited online.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "035d37b7fa2472c825b97c032fe4fc39729eb07c",
+      "title": "Texas sues Netflix for advertising &#8216;bait and switch&#8217; and spying",
+      "url": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-05-11T17:04:22.000Z",
+      "summary_90w": "",
+      "raw": "Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of turning its back on its promise to remain ad-free and safe for kids. The lawsuit, filed on Monday, claims Netflix has \"opened Texans' data for inspection by the same Big Ad Tech community it once criticized for exploiting users in this same way.\"\nIn the lawsuit, Paxton claims Netflix drove up subscriptions by promoting its platform as an \"escape from Big Tech surveillance.\" But that changed when Netflix introduced an ad-supported streaming plan in 2022, something co-founder Reed Hastings promised not to do. Its move into digital advertising allowe …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1df024eea7b38307becfe2e2d1ff394585c21a9e",
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-05-11T17:02:35.000Z",
+      "summary_90w": "",
+      "raw": "Digg returns (again) as another place to read AI news.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "bf58ae74e77061d3e2229bcc8994dd5c7621d9e6",
+      "title": "Trump wants to suspend the federal gas tax as prices soar amid war with Iran",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5818446/trump-gas-tax",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-05-11T16:59:38.000Z",
+      "summary_90w": "",
+      "raw": "Suspending the federal gas tax would require an act of Congress.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b5f0f9a6c8da0f039209daca3cfe08fc3f9e7e59",
+      "title": "Oil price predicted to remain above $100 for rest of year",
+      "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-11T16:57:15.000Z",
+      "summary_90w": "",
+      "raw": "Investment bank JP Morgan expects oil to remain in the \"low $100s\" even if the Strait of Hormuz were to reopen next month.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a5b171ada89032430e96510858ee2ddad2e3a45a",
+      "title": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
+      "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-05-11T16:30:04.000Z",
+      "summary_90w": "",
+      "raw": "A fishermen's leader tells the BBC that 40 people are feared dead  - either in the strikes or drowning as they tried to flee.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "fdebc5151e7ae069038be83026ae0f7b9e98e542",
-      "title": "Putin is in a ‘weaker position than ever before’, says EU’s Kallas – Europe live",
+      "title": "Putin is in a ‘weaker position than ever before’, says EU’s Kallas – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2026-05-11T16:14:53.000Z",
       "summary_90w": "",
       "raw": "The bloc’s foreign policy chief said recent remarks from the Russian leader suggested the war may be coming to an end\nRussian affairs reporter\nThe EU on Monday dismissed Vladimir Putin’s suggestion that the Kremlin-friendly former German chancellor Gerhard Schröder could serve as a European mediator in peace talks aimed at ending the war in Ukraine.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1fd2c572da6b72b282fb7bb984faa635688ae5aa",
-      "title": "Middle East crisis live: Trump rejects Iran response to US peace proposal as Tehran warns of new attacks",
-      "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-05-11T16:14:12.000Z",
-      "summary_90w": "",
-      "raw": "US president calls Iranian response ‘totally unacceptable’ while Tehran says it will retaliate against any new US strikes or foreign warships in strait of Hormuz\n\nTrump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire frays\n\nTurkey’s foreign minister, Hakan Fidan, will visit Qatar later today for talks on the war, its impact on the region and efforts to ensure navigational safety in the strait of Hormuz is resumed, a Turkish diplomatic source told the Reuters news agency.\nTurkey, which neighbours Iran, has been in close contact with the US, Iran and mediator Pakistan since the start of the conflict. It condemnded the US and Israel for launching the war, widely seen to have been done illegally, but also criticised Iran’s counter strikes on Gulf states.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -43,26 +225,13 @@
     },
     {
       "id": "715a9e1a6a87614f54325c156098801ef78f5bc7",
-      "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+      "title": "Watch: Macron interrupts speaker to tell audience to be quiet",
       "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-05-11T16:10:18.000Z",
       "summary_90w": "",
       "raw": "The French president stood up during a conference in Kenya to tell the audience to quieten down, saying it was “impossible” for speakers to be heard.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6f7dad5d9067d15695043e95e9ad0e118ceb07e2",
-      "title": "Analysis: Has Starmer done enough to save his premiership?",
-      "url": "https://www.bbc.com/news/articles/c3r2pr95yq0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-11T16:09:46.000Z",
-      "summary_90w": "",
-      "raw": "Was the prime minister's speech enough to avert a challenge to his leadership less than two years after he won a landslide general election victory?",
       "topics": [
         "World"
       ]
@@ -211,19 +380,6 @@
       ]
     },
     {
-      "id": "2bc34c55cbaca2c9c296309f78941a8ce3acd946",
-      "title": "Poland investigating how ex-minister wanted for alleged crimes fled from Hungary to US",
-      "url": "https://www.theguardian.com/world/2026/may/11/polish-ex-minister-zbigniew-ziobro-flees-hungary-usa",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-05-11T15:28:18.000Z",
-      "summary_90w": "",
-      "raw": "Zbigniew Ziobro entered US despite having been stripped of passports, with reports Donald Trump was personally involved\nPolish prosecutors are investigating how a former justice minister wanted on multiple criminal charges managed to flee to the US from Hungary, where the former prime minister Viktor Orbán had granted him political asylum.\nOn Saturday, as the inauguration of Péter Magyar as Hungary’s new prime minister marked the end of Orbán’s 16 years in power, reports emerged that Poland’s Zbigniew Ziobro had left the central European country and was in the US.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f997a4857c3224676938919ce866574608281c90",
       "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
@@ -231,7 +387,7 @@
       "source_name": "The Verge",
       "published": "2026-05-11T15:27:12.000Z",
       "summary_90w": "",
-      "raw": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. \nElon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who shares four children with Musk, took the stand on Wednesday, and the courtroom also watched former OpenAI CTO Mura Murati’s videotaped deposition.\nMicrosoft CEO Satya Nadella is set to appear today, with OpenAI cofounder and former chief scientist Ilya Sutskever lined up to testify after that.\n\nMusk was a cofounder of OpenAI and claims that Altman and Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, OpenAI says that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.\nIn his lawsuit, Musk is asking for the removal of Altman and Brockman, and for OpenAI to stop operating as a public benefit corporation. Musk has also demanded that OpenAI’s nonprofit receive up to $150 billion in damages he’s asking for if he wins the case.\nPeople to Know\nPlaintiff\nElon Musk — plaintiff, OpenAI cofounder and now CEO of rival xAI\nSteven Molo — lead counsel for plaintiff\nJared Birchall — manager of Musk’s family office\nShivon Zilis — former OpenAI board member who shares multiple children with Musk\nDefendant\nSam Altman — defendant, CEO of OpenAI \nWilliam Savitt — lead counsel for defendant\nGreg Brockman — president of OpenAI as well as a cofounder \nIlya Sutskever — former chief scientist at OpenAI and a cofounder\nJudge\nYvonne Gonzalez Rogers — aka YGR, trial judge\nHere’s all the latest on the trial between Musk and Altman:\nNadella tells us that before the OpenAI partnership, Google was its biggest AI competitor.\n\t\t\t\nSatya Nadella is taking the stand, in a navy suit and a light blue tie with a white shirt.\n\t\t\t\nJury is here. We are now finishing a video deposition from Friday about the OAI deal with MSFT.\n\t\t\t\n👑\n\t\t\t\nWe are having an arugment about evidence.\n\t\t\t\nMusk v. Altman week two recap.\n\t\t\t\nMicrosoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure\n\t\t\t\nMira Murati’s deposition pulled back the curtain on Sam Altman’s ouster\n\t\t\t\nOh this tack is more effective. Then OpenAI lawyer is going after Columbia…\n\t\t\t\nThis cross of Schizer is pretty weak.\n\t\t\t\nBasically everything Schizer is saying is couched as a hypothetical…\n\t\t\t\nWe are now hearing from David Schizer, one of Musk’s expert witnesses.\n\t\t\t\nWe are still listening to McCauley.\n\t\t\t\nTasha McCauley is testifying now in a video deposition.\n\t\t\t\n“Do you have any idea how you ended up in this courtroom?”\n\t\t\t\nI am having a hard time taking Rosie Campbell seriously.\n\t\t\t\nWe are now hearing from Rosie Campbell, a former OpenAI employee.\n\t\t\t\nOpenAI’s board discussed merging with Anthropic during “the Blip.”\n\t\t\t\nHelen Toner is now talking about the board’s decision-making process.\n\t\t\t\nYGR is back on the bench.\n\t\t\t\nMusk’s biggest loyalist became his biggest liability\n\t\t\t\nWe are going through the removal of Sam Altman from OpenAI in detail.\n\t\t\t\nToner is relating how Sam Altman’s firing happened.\n\t\t\t\nToner says she found out about ChatGPT by seeing screenshots on Twitter.\n\t\t\t\nMaking AI models is “more like alchemy than chemistry,” Toner says.\n\t\t\t\nWe are now looking at Helen Toner’s deposition.\n\t\t\t\nMicrosoft would like to be excluded from this narrative.\n\t\t\t\n“It’s not in my neurons,” Zilis says, instead of “I don’t remember.”\n\t\t\t\nSarah Eddy, an attorney representing OpenAI, got sarcastic with Zilis.\n\t\t\t\nShivon Zilis brainstormed possible scenarios for AI.\n\t\t\t\nMusk offered Sam Altman a board seat at Tesla…\n\t\t\t\nShivon’s emails aren’t great for Musk.\n\t\t\t\nThe big sticking point for Brockman and Sutskever was control.\n\t\t\t\nSam Altman loves exclamation marks.\n\t\t\t\nMira Murati tells the court that she couldn’t trust Sam Altman’s words\n\t\t\t\nZilis’ past emails mentioned in court proceedings include her referencing a potential “conversion to for-profit” for OpenAI.\n\t\t\t\nThis is getting interesting.\n\t\t\t\nZilis sent Altman a text message of support after his 2023 ouster.\n\t\t\t\nZilis said another concern she had about Altman related to OpenAI’s potential deal with Helion.\n\t\t\t\nAlso in the spirit of clarifications this morning…\n\t\t\t\nZilis said she had major concerns about OpenAI’s board not being notified in advance of ChatGPT’s release.\n\t\t\t\nZilis said that the fallout from Altman’s 2023 ouster changed her view of OpenAI’s Microsoft deal.\n\t\t\t\nWhen asked how much Musk works per week, Zilis laughed.\n\t\t\t\nMusk’s team has called Shivon Zilis.\n\t\t\t\nMurati says problems with Altman persisted after he returned to the company.\n\t\t\t\n“OpenAI was at catastrophic risk of falling apart” when Altman was fired, Murati says.\n\t\t\t\nWe are seeing video testimony from Mira Murati’s deposition.\n\t\t\t\nWe are clearing up “a few inaccuracies from yesterday.”\n\t\t\t\nWe are taking care of some matters before the jury comes in.\n\t\t\t\nMicrosoft and OpenAI’s definition of AGI was just revealed.\n\t\t\t\nThe jurors look as bored as I feel.\n\t\t\t\nBrockman steps down. We are looking at the video deposition of Robert Wu.\n\t\t\t\nBrockman is telling the truth about considering removing Musk from the board.\n\t\t\t\nEvery time Molo makes a summary of Brockman’s testimony, Brockman objects to it.\n\t\t\t\nWe are now fighting about “Either go do something on your own or continue with OpenAI as a non-profit.”\n\t\t\t\nOne other thing I don’t understand…\n\t\t\t\nMolo is trying to reiterate what he did more effectively yesterday.\n\t\t\t\n“You had no problems answering your lawyers’ questions,” Molo is practically yelling.\n\t\t\t\nMolo asks Brockman if Musk was “being mean” to him.\n\t\t\t\nWe are back to quibbling.\n\t\t\t\nWe are now discussing the OpenAI Foundation layoffs.\n\t\t\t\nMicrosoft is done, bless them.\n\t\t\t\nMicrosoft is now getting to talk to Brockman.\n\t\t\t\nThe blip.\n\t\t\t\nWe are now discussing Shivon Zilis.\n\t\t\t\nWe are now going through the assorted releases of GPT models.\n\t\t\t\nWhen Musk resigned, he gave a speech to OpenAI’s employees that might have been demoralizing…\n\t\t\t\nOne observation from Brockman and Sutskever’s emails.\n\t\t\t\nWe are now recontextualizing more entries from Brockman.\n\t\t\t\nThere were discussions between Brockman, Altman, and Sutskever about removing Musk from the board.\n\t\t\t\nWe are back from a break.\n\t\t\t\n“I thought he was going to hit me,” Brockman says of Musk.\n\t\t\t\nElon Musk doesn’t love anything he can’t control.\n\t\t\t\nSam Altman discussed an equal equity split…\n\t\t\t\nWe are now discussing Brockman’s journal.\n\t\t\t\nBrockman talks Dota 2.\n\t\t\t\nElon Musk tried to get Bill Gates to donate to OpenAI.\n\t\t\t\nFirst sidebar of the trial.\n\t\t\t\nOpenAI had layoffs at Musk’s insistence.\n\t\t\t\nGreg Brockman tells the court that while at OpenAI, he and three others worked at Tesla.\n\t\t\t\nYGR is on the bench.\n\t\t\t\nGoogle’s AI architect lived rent-free in Elon Musk’s head\n\t\t\t\nOpenAI’s president does ‘all the things,’ except answer a question\n\t\t\t\nJury is sent out for the day.\n\t\t\t\nWe are hearing about the early days of OpenAI.\n\t\t\t\nEarly worries about Musk came from Ilya Sutskever.\n\t\t\t\nBrockman is describing his bromance with Altman.\n\t\t\t\n“I do all the things.”\n\t\t\t\nBrockman says we are 80 percent of the way to AGI.\n\t\t\t\nOpen AI’s direct examination of Brockman is pretty sedate so far… aside from Tesla.\n\t\t\t\nOpenAI’s lawyers are now getting their shot at Brockman.\n\t\t\t\nFor real, I think nerds should not testify in court.\n\t\t\t\nWe are now looking at Brockman’s other financial dealings.\n\t\t\t\nWe finished with the Microsoft investment pretty quickly.\n\t\t\t\nAltman didn’t return after we took our break.\n\t\t\t\nWe are presently having a fight about purple boxes.\n\t\t\t\nWe have been doing the same question for perhaps the last five minutes.\n\t\t\t\n“Financially what will take me to $1B?”\n\t\t\t\n“His story will correctly be that we weren’t honest with him in the end about still wanting to do the for profit just without him.”\n\t\t\t\nGreg Brockman’s journal: “it’d be wrong to steal the non-profit from him.”\n\t\t\t\nBrockman is not doing himself any favors.\n\t\t\t\nBrockman’s cross-examination isn’t as testy as Musk’s, but he’s also pushing back on a lot of questions.\n\t\t\t\nIs sending stuff to Sam Teller and Shivon Zilis the same as sending it to Musk?\n\t\t\t\nBrockman and Altman’s alliance?\n\t\t\t\n“Is Demis Hassabis evil?”\n\t\t\t\nGreg Brockman is talking about the earliest days of OpenAI.\n\t\t\t\nGreg Brockman and Sam Altman have just entered the courtroom.\n\t\t\t\nWe’re done with Russell.\n\t\t\t\n“The age of abundance for Elon.”\n\t\t\t\nOh now we have some meat.\n\t\t\t\nElon Musk’s expert doesn’t follow him on X.\n\t\t\t\nI am befuddled by this expert testimony.\n\t\t\t\nWe are dealing with the cross now.\n\t\t\t\nSure is lucky that mentions of Grok’s safety issues got limited.\n\t\t\t\nIndividual vs. systemic risk.\n\t\t\t\nWe now have a very boring expert witness testifying to AI risks.\n\t\t\t\nStuart Russell is here to tell us about AI.\n\t\t\t\n“I need that today. That’s good. I like that.”\n\t\t\t\nGreg Brockman won’t be asked about Musk’s threat.\n\t\t\t\nElon Musk tried to settle before the trial — and got threatening.\n\t\t\t\nMusk v. Altman is getting a live audio stream next week.\n\t\t\t\nOpenAI Tesla receipts and other Musk v. Altman documents.\n\t\t\t\nAll the evidence revealed so far in Musk v. Altman\n\t\t\t\nHere’s how Gabe Newell and Hideo Kojima ended up in the Musk v. Altman evidence.\n\t\t\t\nThe craziest part of Musk v. Altman happened while the jury was out of the room\n\t\t\t\nJury is being dismissed early so YGR can deal with an objection to Birchall’s testimony.\n\t\t\t\nBirchall is actually very funny outside of court? Good for him.\n\t\t\t\nWe are now hearing about the pause in quarterly donations.\n\t\t\t\nWe’re back.\n\t\t\t\nSecond break of the day.\n\t\t\t\nBirchall cross.\n\t\t\t\nElon Musk confirms xAI used OpenAI’s models to train Grok\n\t\t\t\nBirchall has just been asked about the four Teslas.\n\t\t\t\nBirchall testifies about Musk’s contributions to OpenAI.\n\t\t\t\nA woman in the gallery has lowered a sleep mask over her eyes and is attempting to sleep.\n\t\t\t\nMusk steps down. He may be recalled.\n\t\t\t\nWe are on re-cross. Musk is getting testy again.\n\t\t\t\nThe Microsoft investment comes back up.\n\t\t\t\nAnd we’re back.\n\t\t\t\nWe’re in break — and I just checked out something interesting.\n\t\t\t\nElon Musk’s robot army definitely will not kill you.\n\t\t\t\nMusk insists he wasn’t kneecapping OpenAI.\n\t\t\t\nMusk seems notably more subdued today.\n\t\t\t\n“At least change the name,” Musk says he told Altman.\n\t\t\t\nElon Musk v. Capitalism.\n\t\t\t\nAn “ongoing conversation” around open source.\n\t\t\t\nWe’re still talking about whether Musk read the term sheet.\n\t\t\t\nThe jurors have been seated.\n\t\t\t\nMusk has just entered the courtroom.\n\t\t\t\n“Issues of extinction are excluded.”\n\t\t\t\nGood morning!\n\t\t\t\nElon Musk’s worst enemy in court is Elon Musk\n\t\t\t\nFreedom!\n\t\t\t\nUnfortunately we will not be talking about safety details of any specific product.\n\t\t\t\nThe jury is leaving for the day. “I suspect it’s a nice day out there,” YGR says.\n\t\t\t\nMechaHitler might be a bad look for the AI safety defender.\n\t\t\t\nMusk’s broader AI safety commitment (or lack thereof) comes up.\n\t\t\t\nThis is so testy.\n\t\t\t\nDid Musk even read the OpenAI term sheet?\n\t\t\t\nMusk asked Shivon Zilis to stay “close and friendly” with OpenAI to keep info flowing.\n\t\t\t\nMusk says xAI probably won’t be the first to get to AGI.\n\t\t\t\nWe’re back from a break, talking about SpaceX and xAI.\n\t\t\t\nDon’t worry about Tesla’s robot army!\n\t\t\t\n“You mostly do unfair questions.”\n\t\t\t\n“It’s a free country.”\n\t\t\t\n“Will you answer my question?”\n\t\t\t\nMusk’s desire for control comes up again.\n\t\t\t\n“This is a hypothetical.”\n\t\t\t\nDid Musk initially envision OpenAI as a corporation?\n\t\t\t\nMusk is being combative on cross already.\n\t\t\t\n“I did say that I would commit up to a billion dollars, yes.”\n\t\t\t\nIs Tesla really not working on AGI?\n\t\t\t\nMusk is returning to the stand.\n\t\t\t\nAt times, being a judge is much like being a kindergarten teacher.\n\t\t\t\nWe’re on a break.\n\t\t\t\n“I mean, all due respect to Microsoft, do you really want Microsoft controlling digital superintelligence?”\n\t\t\t\n“What’s going on here this is a bait and switch.”\n\t\t\t\nA Musk-Altman spat about Microsoft.\n\t\t\t\nMusk really cannot help himself.\n\t\t\t\n“Capped profit” wasn’t an issue, even when Microsoft got involved.\n\t\t\t\n“Tesla is not pursuing AGI.”\n\t\t\t\nMusk is more on his game today.\n\t\t\t\n“After I received these reassurances that OpenAI would continue to be a nonprofit I continued to donate over $10 million.”\n\t\t\t\n“I actually was a fool who provided free funding for them to create a startup.”\n\t\t\t\nMore discussion of who would own OpenAI.\n\t\t\t\n“I don’t lose my temper,” says Elon Musk.\n\t\t\t\n“2017 was a hard year, and we’ve made mistakes.”\n\t\t\t\n“I formed many for-profit tech companies, and could have done so with OAI,”\n\t\t\t\n“Crystal clear focus.”\n\t\t\t\nSam Altman has just entered the room, right ahead of the jury.\n\t\t\t\nA member of the public just got dressed down by YGR about taking photos.\n\t\t\t\nMusk v. Altman et al. is back in session.\n\t\t\t\nIn naming OpenAI, Elon Musk worried anything related to the Turing Test could mean bad PR.\n\t\t\t\nElon Musk appeared more petty than prepared\n\t\t\t\nThat’s a wrap!\n\t\t\t\nYGR scolds OpenAI for taking inconsistent positions on the origin of its name.\n\t\t\t\nElon Musk tells the jury that all he wants to do is save humanity\n\t\t\t\nArguments over ownership.\n\t\t\t\nApparently OpenAI could have had an ICO.\n\t\t\t\n“I was not averse to a small for-profit,” Musk says.\n\t\t\t\nWe’re reading emails between Musk and Jensen Huang.\n\t\t\t\nMusk says nonprofit was non-negotiable for OpenAI.\n\t\t\t\nWe’re at the founding of OpenAI.\n\t\t\t\nMusk says he would have created something like OpenAI on his own.\n\t\t\t\nMusk recalls meeting Sam Altman.\n\t\t\t\nSam Altman left during a break, but Elon Musk’s lawyer didn’t notice.\n\t\t\t\n“Here we are in 2026 and AI is scary smart.”\n\t\t\t\n“I have extreme concerns about AI,” says Musk.\n\t\t\t\nAI will be as smart as “any human as soon as next year.”\n\t\t\t\nMusk claims he has time for SpaceX, Tesla, Neuralink, and the Boring Company because he works a lot.\n\t\t\t\nMusk is telling the jury he (co)founded Tesla.\n\t\t\t\nNeuralink’s long-term goal is… AI?\n\t\t\t\n“There need to be things that people are excited about that make life worth living … Being out there among the stars can excite everyone.”\n\t\t\t\nA little Musk biography.\n\t\t\t\nElon Musk, looking funereal in a black suit with a black tie, says “it’s not okay to steal a charity.”\n\t\t\t\nElon Musk takes the stand in high-profile trial against OpenAI\n\t\t\t\nWe are back from a break.\n\t\t\t\nElon Musk will be the first witness in Musk v. Altman.\n\t\t\t\n“Microsoft unlocked with OpenAI a virtuous cycle.”\n\t\t\t\nMicrosoft enters the chat.\n\t\t\t\n“We are here because Mr. Musk didn’t get his way at OpenAI.”\n\t\t\t\n“[Musk] demanded control, he demanded the ability to make all the decisions without regard to the other founders.”\n\t\t\t\nOpenAI lawyers argue that Elon was right in the middle of discussions about a for-profit pivot.\n\t\t\t\n“Musk was furious that OpenAI succeeded.”\n\t\t\t\nOpenAI: Musk’s lawsuit is a “pageant of hypocrisy.”\n\t\t\t\nSam Altman’s “related party conflicted transactions” are how he made money on OpenAI, Molo says.\n\t\t\t\nTechnical difficulties.\n\t\t\t\nOpenAI is like a museum store that has looted the Picassos and pocketed the profits.\n\t\t\t\nAGI might be out of fashion in the AI world, but it will be at the center of this trial.\n\t\t\t\n“The defendants in this case stole a charity.”\n\t\t\t\nMusk and Altman go to court\n\t\t\t\nGood morning from the Musk v. Altman line outside the courtroom.\n\t\t\t\nJury selection in Musk v. Altman: ‘People don’t like him’\n\t\t\t\nWe have a jury.\n\t\t\t\nElon Musk’s lawyer tried to get some jurors thrown out for disliking Musk.\n\t\t\t\nApparently things are exciting outside.\n\t\t\t\nWe have gone through the first 20 potential jurors.\n\t\t\t\nVoir dire has begun.\n\t\t\t\nThe Elon Musk vs. OpenAI trial starts today.\n\t\t\t\nElon Musk drops fraud claims against OpenAI and Sam Altman before trial.\n\t\t\t\nMusk vs. Altman is here, and it’s going to get messy\n\t\t\t\nElon Musk is about to be a very busy boy!\n\t\t\t\n‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI\n\t\t\t\nElon Musk’s xAI is suing OpenAI and Apple\n\t\t\t\nInside Elon Musk’s messy breakup with OpenAI\n\t\t\t\nElon Musk is suing OpenAI and Sam Altman again",
+      "raw": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. \nElon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who shares four children with Musk, took the stand on Wednesday, and the courtroom also watched former OpenAI CTO Mura Murati’s videotaped deposition.\nMicrosoft CEO Satya Nadella is set to appear today, with OpenAI cofounder and former chief scientist Ilya Sutskever lined up to testify after that.\n\nMusk was a cofounder of OpenAI and claims that Altman and Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, OpenAI says that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.\nIn his lawsuit, Musk is asking for the removal of Altman and Brockman, and for OpenAI to stop operating as a public benefit corporation. Musk has also demanded that OpenAI’s nonprofit receive up to $150 billion in damages he’s asking for if he wins the case.\nPeople to Know\nPlaintiff\nElon Musk — plaintiff, OpenAI cofounder and now CEO of rival xAI\nSteven Molo — lead counsel for plaintiff\nJared Birchall — manager of Musk’s family office\nShivon Zilis — former OpenAI board member who shares multiple children with Musk\nDefendant\nSam Altman — defendant, CEO of OpenAI \nWilliam Savitt — lead counsel for defendant\nGreg Brockman — president of OpenAI as well as a cofounder \nIlya Sutskever — former chief scientist at OpenAI and a cofounder\nJudge\nYvonne Gonzalez Rogers — aka YGR, trial judge\nHere’s all the latest on the trial between Musk and Altman:\nI can’t speak for the jury but I am very, very sick of hearing about “the blip.”\n\t\t\t\n“Not consistently candid” press release about Sam Altman’s firing is what Molo is citing as why Nadella should have known why Altman was fired.\n\t\t\t\nWe are arguing now about risk and return.\n\t\t\t\n“I don’t want to be IBM and OpenAI to be Microsoft.”\n\t\t\t\nWe are on cross, with Steven Molo for Musk.\n\t\t\t\nSatya Nadella seemed to forget he currently served on the board of a nonprofit.\n\t\t\t\nWhat is Copilot?\n\t\t\t\nDuring Altman’s ouster, Satya Nadella tried to reassure investors everything would not “crumble.”\n\t\t\t\n“Below them, above them, around them.”\n\t\t\t\n“We have each other’s phone numbers,” Nadella says of Musk.\n\t\t\t\nNadella tells us that before the OpenAI partnership, Google was its biggest AI competitor.\n\t\t\t\nSatya Nadella is taking the stand, in a navy suit and a light blue tie with a white shirt.\n\t\t\t\nJury is here. We are now finishing a video deposition from Friday about the OAI deal with MSFT.\n\t\t\t\n👑\n\t\t\t\nWe are having an arugment about evidence.\n\t\t\t\nMusk v. Altman week two recap.\n\t\t\t\nMicrosoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure\n\t\t\t\nMira Murati’s deposition pulled back the curtain on Sam Altman’s ouster\n\t\t\t\nOh this tack is more effective. Then OpenAI lawyer is going after Columbia…\n\t\t\t\nThis cross of Schizer is pretty weak.\n\t\t\t\nBasically everything Schizer is saying is couched as a hypothetical…\n\t\t\t\nWe are now hearing from David Schizer, one of Musk’s expert witnesses.\n\t\t\t\nWe are still listening to McCauley.\n\t\t\t\nTasha McCauley is testifying now in a video deposition.\n\t\t\t\n“Do you have any idea how you ended up in this courtroom?”\n\t\t\t\nI am having a hard time taking Rosie Campbell seriously.\n\t\t\t\nWe are now hearing from Rosie Campbell, a former OpenAI employee.\n\t\t\t\nOpenAI’s board discussed merging with Anthropic during “the Blip.”\n\t\t\t\nHelen Toner is now talking about the board’s decision-making process.\n\t\t\t\nYGR is back on the bench.\n\t\t\t\nMusk’s biggest loyalist became his biggest liability\n\t\t\t\nWe are going through the removal of Sam Altman from OpenAI in detail.\n\t\t\t\nToner is relating how Sam Altman’s firing happened.\n\t\t\t\nToner says she found out about ChatGPT by seeing screenshots on Twitter.\n\t\t\t\nMaking AI models is “more like alchemy than chemistry,” Toner says.\n\t\t\t\nWe are now looking at Helen Toner’s deposition.\n\t\t\t\nMicrosoft would like to be excluded from this narrative.\n\t\t\t\n“It’s not in my neurons,” Zilis says, instead of “I don’t remember.”\n\t\t\t\nSarah Eddy, an attorney representing OpenAI, got sarcastic with Zilis.\n\t\t\t\nShivon Zilis brainstormed possible scenarios for AI.\n\t\t\t\nMusk offered Sam Altman a board seat at Tesla…\n\t\t\t\nShivon’s emails aren’t great for Musk.\n\t\t\t\nThe big sticking point for Brockman and Sutskever was control.\n\t\t\t\nSam Altman loves exclamation marks.\n\t\t\t\nMira Murati tells the court that she couldn’t trust Sam Altman’s words\n\t\t\t\nZilis’ past emails mentioned in court proceedings include her referencing a potential “conversion to for-profit” for OpenAI.\n\t\t\t\nThis is getting interesting.\n\t\t\t\nZilis sent Altman a text message of support after his 2023 ouster.\n\t\t\t\nZilis said another concern she had about Altman related to OpenAI’s potential deal with Helion.\n\t\t\t\nAlso in the spirit of clarifications this morning…\n\t\t\t\nZilis said she had major concerns about OpenAI’s board not being notified in advance of ChatGPT’s release.\n\t\t\t\nZilis said that the fallout from Altman’s 2023 ouster changed her view of OpenAI’s Microsoft deal.\n\t\t\t\nWhen asked how much Musk works per week, Zilis laughed.\n\t\t\t\nMusk’s team has called Shivon Zilis.\n\t\t\t\nMurati says problems with Altman persisted after he returned to the company.\n\t\t\t\n“OpenAI was at catastrophic risk of falling apart” when Altman was fired, Murati says.\n\t\t\t\nWe are seeing video testimony from Mira Murati’s deposition.\n\t\t\t\nWe are clearing up “a few inaccuracies from yesterday.”\n\t\t\t\nWe are taking care of some matters before the jury comes in.\n\t\t\t\nMicrosoft and OpenAI’s definition of AGI was just revealed.\n\t\t\t\nThe jurors look as bored as I feel.\n\t\t\t\nBrockman steps down. We are looking at the video deposition of Robert Wu.\n\t\t\t\nBrockman is telling the truth about considering removing Musk from the board.\n\t\t\t\nEvery time Molo makes a summary of Brockman’s testimony, Brockman objects to it.\n\t\t\t\nWe are now fighting about “Either go do something on your own or continue with OpenAI as a non-profit.”\n\t\t\t\nOne other thing I don’t understand…\n\t\t\t\nMolo is trying to reiterate what he did more effectively yesterday.\n\t\t\t\n“You had no problems answering your lawyers’ questions,” Molo is practically yelling.\n\t\t\t\nMolo asks Brockman if Musk was “being mean” to him.\n\t\t\t\nWe are back to quibbling.\n\t\t\t\nWe are now discussing the OpenAI Foundation layoffs.\n\t\t\t\nMicrosoft is done, bless them.\n\t\t\t\nMicrosoft is now getting to talk to Brockman.\n\t\t\t\nThe blip.\n\t\t\t\nWe are now discussing Shivon Zilis.\n\t\t\t\nWe are now going through the assorted releases of GPT models.\n\t\t\t\nWhen Musk resigned, he gave a speech to OpenAI’s employees that might have been demoralizing…\n\t\t\t\nOne observation from Brockman and Sutskever’s emails.\n\t\t\t\nWe are now recontextualizing more entries from Brockman.\n\t\t\t\nThere were discussions between Brockman, Altman, and Sutskever about removing Musk from the board.\n\t\t\t\nWe are back from a break.\n\t\t\t\n“I thought he was going to hit me,” Brockman says of Musk.\n\t\t\t\nElon Musk doesn’t love anything he can’t control.\n\t\t\t\nSam Altman discussed an equal equity split…\n\t\t\t\nWe are now discussing Brockman’s journal.\n\t\t\t\nBrockman talks Dota 2.\n\t\t\t\nElon Musk tried to get Bill Gates to donate to OpenAI.\n\t\t\t\nFirst sidebar of the trial.\n\t\t\t\nOpenAI had layoffs at Musk’s insistence.\n\t\t\t\nGreg Brockman tells the court that while at OpenAI, he and three others worked at Tesla.\n\t\t\t\nYGR is on the bench.\n\t\t\t\nGoogle’s AI architect lived rent-free in Elon Musk’s head\n\t\t\t\nOpenAI’s president does ‘all the things,’ except answer a question\n\t\t\t\nJury is sent out for the day.\n\t\t\t\nWe are hearing about the early days of OpenAI.\n\t\t\t\nEarly worries about Musk came from Ilya Sutskever.\n\t\t\t\nBrockman is describing his bromance with Altman.\n\t\t\t\n“I do all the things.”\n\t\t\t\nBrockman says we are 80 percent of the way to AGI.\n\t\t\t\nOpen AI’s direct examination of Brockman is pretty sedate so far… aside from Tesla.\n\t\t\t\nOpenAI’s lawyers are now getting their shot at Brockman.\n\t\t\t\nFor real, I think nerds should not testify in court.\n\t\t\t\nWe are now looking at Brockman’s other financial dealings.\n\t\t\t\nWe finished with the Microsoft investment pretty quickly.\n\t\t\t\nAltman didn’t return after we took our break.\n\t\t\t\nWe are presently having a fight about purple boxes.\n\t\t\t\nWe have been doing the same question for perhaps the last five minutes.\n\t\t\t\n“Financially what will take me to $1B?”\n\t\t\t\n“His story will correctly be that we weren’t honest with him in the end about still wanting to do the for profit just without him.”\n\t\t\t\nGreg Brockman’s journal: “it’d be wrong to steal the non-profit from him.”\n\t\t\t\nBrockman is not doing himself any favors.\n\t\t\t\nBrockman’s cross-examination isn’t as testy as Musk’s, but he’s also pushing back on a lot of questions.\n\t\t\t\nIs sending stuff to Sam Teller and Shivon Zilis the same as sending it to Musk?\n\t\t\t\nBrockman and Altman’s alliance?\n\t\t\t\n“Is Demis Hassabis evil?”\n\t\t\t\nGreg Brockman is talking about the earliest days of OpenAI.\n\t\t\t\nGreg Brockman and Sam Altman have just entered the courtroom.\n\t\t\t\nWe’re done with Russell.\n\t\t\t\n“The age of abundance for Elon.”\n\t\t\t\nOh now we have some meat.\n\t\t\t\nElon Musk’s expert doesn’t follow him on X.\n\t\t\t\nI am befuddled by this expert testimony.\n\t\t\t\nWe are dealing with the cross now.\n\t\t\t\nSure is lucky that mentions of Grok’s safety issues got limited.\n\t\t\t\nIndividual vs. systemic risk.\n\t\t\t\nWe now have a very boring expert witness testifying to AI risks.\n\t\t\t\nStuart Russell is here to tell us about AI.\n\t\t\t\n“I need that today. That’s good. I like that.”\n\t\t\t\nGreg Brockman won’t be asked about Musk’s threat.\n\t\t\t\nElon Musk tried to settle before the trial — and got threatening.\n\t\t\t\nMusk v. Altman is getting a live audio stream next week.\n\t\t\t\nOpenAI Tesla receipts and other Musk v. Altman documents.\n\t\t\t\nAll the evidence revealed so far in Musk v. Altman\n\t\t\t\nHere’s how Gabe Newell and Hideo Kojima ended up in the Musk v. Altman evidence.\n\t\t\t\nThe craziest part of Musk v. Altman happened while the jury was out of the room\n\t\t\t\nJury is being dismissed early so YGR can deal with an objection to Birchall’s testimony.\n\t\t\t\nBirchall is actually very funny outside of court? Good for him.\n\t\t\t\nWe are now hearing about the pause in quarterly donations.\n\t\t\t\nWe’re back.\n\t\t\t\nSecond break of the day.\n\t\t\t\nBirchall cross.\n\t\t\t\nElon Musk confirms xAI used OpenAI’s models to train Grok\n\t\t\t\nBirchall has just been asked about the four Teslas.\n\t\t\t\nBirchall testifies about Musk’s contributions to OpenAI.\n\t\t\t\nA woman in the gallery has lowered a sleep mask over her eyes and is attempting to sleep.\n\t\t\t\nMusk steps down. He may be recalled.\n\t\t\t\nWe are on re-cross. Musk is getting testy again.\n\t\t\t\nThe Microsoft investment comes back up.\n\t\t\t\nAnd we’re back.\n\t\t\t\nWe’re in break — and I just checked out something interesting.\n\t\t\t\nElon Musk’s robot army definitely will not kill you.\n\t\t\t\nMusk insists he wasn’t kneecapping OpenAI.\n\t\t\t\nMusk seems notably more subdued today.\n\t\t\t\n“At least change the name,” Musk says he told Altman.\n\t\t\t\nElon Musk v. Capitalism.\n\t\t\t\nAn “ongoing conversation” around open source.\n\t\t\t\nWe’re still talking about whether Musk read the term sheet.\n\t\t\t\nThe jurors have been seated.\n\t\t\t\nMusk has just entered the courtroom.\n\t\t\t\n“Issues of extinction are excluded.”\n\t\t\t\nGood morning!\n\t\t\t\nElon Musk’s worst enemy in court is Elon Musk\n\t\t\t\nFreedom!\n\t\t\t\nUnfortunately we will not be talking about safety details of any specific product.\n\t\t\t\nThe jury is leaving for the day. “I suspect it’s a nice day out there,” YGR says.\n\t\t\t\nMechaHitler might be a bad look for the AI safety defender.\n\t\t\t\nMusk’s broader AI safety commitment (or lack thereof) comes up.\n\t\t\t\nThis is so testy.\n\t\t\t\nDid Musk even read the OpenAI term sheet?\n\t\t\t\nMusk asked Shivon Zilis to stay “close and friendly” with OpenAI to keep info flowing.\n\t\t\t\nMusk says xAI probably won’t be the first to get to AGI.\n\t\t\t\nWe’re back from a break, talking about SpaceX and xAI.\n\t\t\t\nDon’t worry about Tesla’s robot army!\n\t\t\t\n“You mostly do unfair questions.”\n\t\t\t\n“It’s a free country.”\n\t\t\t\n“Will you answer my question?”\n\t\t\t\nMusk’s desire for control comes up again.\n\t\t\t\n“This is a hypothetical.”\n\t\t\t\nDid Musk initially envision OpenAI as a corporation?\n\t\t\t\nMusk is being combative on cross already.\n\t\t\t\n“I did say that I would commit up to a billion dollars, yes.”\n\t\t\t\nIs Tesla really not working on AGI?\n\t\t\t\nMusk is returning to the stand.\n\t\t\t\nAt times, being a judge is much like being a kindergarten teacher.\n\t\t\t\nWe’re on a break.\n\t\t\t\n“I mean, all due respect to Microsoft, do you really want Microsoft controlling digital superintelligence?”\n\t\t\t\n“What’s going on here this is a bait and switch.”\n\t\t\t\nA Musk-Altman spat about Microsoft.\n\t\t\t\nMusk really cannot help himself.\n\t\t\t\n“Capped profit” wasn’t an issue, even when Microsoft got involved.\n\t\t\t\n“Tesla is not pursuing AGI.”\n\t\t\t\nMusk is more on his game today.\n\t\t\t\n“After I received these reassurances that OpenAI would continue to be a nonprofit I continued to donate over $10 million.”\n\t\t\t\n“I actually was a fool who provided free funding for them to create a startup.”\n\t\t\t\nMore discussion of who would own OpenAI.\n\t\t\t\n“I don’t lose my temper,” says Elon Musk.\n\t\t\t\n“2017 was a hard year, and we’ve made mistakes.”\n\t\t\t\n“I formed many for-profit tech companies, and could have done so with OAI,”\n\t\t\t\n“Crystal clear focus.”\n\t\t\t\nSam Altman has just entered the room, right ahead of the jury.\n\t\t\t\nA member of the public just got dressed down by YGR about taking photos.\n\t\t\t\nMusk v. Altman et al. is back in session.\n\t\t\t\nIn naming OpenAI, Elon Musk worried anything related to the Turing Test could mean bad PR.\n\t\t\t\nElon Musk appeared more petty than prepared\n\t\t\t\nThat’s a wrap!\n\t\t\t\nYGR scolds OpenAI for taking inconsistent positions on the origin of its name.\n\t\t\t\nElon Musk tells the jury that all he wants to do is save humanity\n\t\t\t\nArguments over ownership.\n\t\t\t\nApparently OpenAI could have had an ICO.\n\t\t\t\n“I was not averse to a small for-profit,” Musk says.\n\t\t\t\nWe’re reading emails between Musk and Jensen Huang.\n\t\t\t\nMusk says nonprofit was non-negotiable for OpenAI.\n\t\t\t\nWe’re at the founding of OpenAI.\n\t\t\t\nMusk says he would have created something like OpenAI on his own.\n\t\t\t\nMusk recalls meeting Sam Altman.\n\t\t\t\nSam Altman left during a break, but Elon Musk’s lawyer didn’t notice.\n\t\t\t\n“Here we are in 2026 and AI is scary smart.”\n\t\t\t\n“I have extreme concerns about AI,” says Musk.\n\t\t\t\nAI will be as smart as “any human as soon as next year.”\n\t\t\t\nMusk claims he has time for SpaceX, Tesla, Neuralink, and the Boring Company because he works a lot.\n\t\t\t\nMusk is telling the jury he (co)founded Tesla.\n\t\t\t\nNeuralink’s long-term goal is… AI?\n\t\t\t\n“There need to be things that people are excited about that make life worth living … Being out there among the stars can excite everyone.”\n\t\t\t\nA little Musk biography.\n\t\t\t\nElon Musk, looking funereal in a black suit with a black tie, says “it’s not okay to steal a charity.”\n\t\t\t\nElon Musk takes the stand in high-profile trial against OpenAI\n\t\t\t\nWe are back from a break.\n\t\t\t\nElon Musk will be the first witness in Musk v. Altman.\n\t\t\t\n“Microsoft unlocked with OpenAI a virtuous cycle.”\n\t\t\t\nMicrosoft enters the chat.\n\t\t\t\n“We are here because Mr. Musk didn’t get his way at OpenAI.”\n\t\t\t\n“[Musk] demanded control, he demanded the ability to make all the decisions without regard to the other founders.”\n\t\t\t\nOpenAI lawyers argue that Elon was right in the middle of discussions about a for-profit pivot.\n\t\t\t\n“Musk was furious that OpenAI succeeded.”\n\t\t\t\nOpenAI: Musk’s lawsuit is a “pageant of hypocrisy.”\n\t\t\t\nSam Altman’s “related party conflicted transactions” are how he made money on OpenAI, Molo says.\n\t\t\t\nTechnical difficulties.\n\t\t\t\nOpenAI is like a museum store that has looted the Picassos and pocketed the profits.\n\t\t\t\nAGI might be out of fashion in the AI world, but it will be at the center of this trial.\n\t\t\t\n“The defendants in this case stole a charity.”\n\t\t\t\nMusk and Altman go to court\n\t\t\t\nGood morning from the Musk v. Altman line outside the courtroom.\n\t\t\t\nJury selection in Musk v. Altman: ‘People don’t like him’\n\t\t\t\nWe have a jury.\n\t\t\t\nElon Musk’s lawyer tried to get some jurors thrown out for disliking Musk.\n\t\t\t\nApparently things are exciting outside.\n\t\t\t\nWe have gone through the first 20 potential jurors.\n\t\t\t\nVoir dire has begun.\n\t\t\t\nThe Elon Musk vs. OpenAI trial starts today.\n\t\t\t\nElon Musk drops fraud claims against OpenAI and Sam Altman before trial.\n\t\t\t\nMusk vs. Altman is here, and it’s going to get messy\n\t\t\t\nElon Musk is about to be a very busy boy!\n\t\t\t\n‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI\n\t\t\t\nElon Musk’s xAI is suing OpenAI and Apple\n\t\t\t\nInside Elon Musk’s messy breakup with OpenAI\n\t\t\t\nElon Musk is suing OpenAI and Sam Altman again",
       "topics": [
         "Technology"
       ]
@@ -342,7 +498,7 @@
     },
     {
       "id": "aea6d7a5e07ae6b24778ae87c00d659f03a6e234",
-      "title": "British passengers from cruise ship isolating in hospital",
+      "title": "British passengers from hantavirus-hit cruise ship isolating in hospital",
       "url": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -393,19 +549,6 @@
       ]
     },
     {
-      "id": "b5f0f9a6c8da0f039209daca3cfe08fc3f9e7e59",
-      "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
-      "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-05-11T14:27:49.000Z",
-      "summary_90w": "",
-      "raw": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "c1c69728b77abc50cfc4b96530ddd76f5a2b21fd",
       "title": "Six people found dead inside train car at rail yard near Texas-Mexico border",
       "url": "https://www.theguardian.com/us-news/2026/may/11/six-people-found-dead-train-car-texas-mexico-border",
@@ -426,7 +569,7 @@
       "source_name": "TechCrunch",
       "published": "2026-05-11T14:23:25.000Z",
       "summary_90w": "",
-      "raw": "The popular mobile puzzle game will become a TV game show next year.",
+      "raw": "This will be the first time that The Times has collaborated with a TV broadcaster for an entertainment-based program, representing yet another pivot in the media company's attempt to build a sustainable digital subscription business as print revenue continues to decline.",
       "topics": [
         "Technology"
       ]
@@ -455,19 +598,6 @@
       "raw": "Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "a5b171ada89032430e96510858ee2ddad2e3a45a",
-      "title": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
-      "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-05-11T14:04:56.000Z",
-      "summary_90w": "",
-      "raw": "A fishermen's leader tells the BBC that 40 people are feared dead  - either in the strikes or drowning as they tried to flee.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -537,7 +667,7 @@
     },
     {
       "id": "20633cddbbc00cfa2284036704fbc95eefbdb409",
-      "title": "Man who killed wife with hammer not fit for release",
+      "title": "Man who killed wife with hammer not fit for release, Parole Board rules",
       "url": "https://www.bbc.com/news/articles/cvgz8p5xp7xo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -562,19 +692,6 @@
       ]
     },
     {
-      "id": "0e2a1a074e47d1faa2c4d8689dd25b41df237a9a",
-      "title": "Discord adds a free Xbox Game Pass ‘starter edition’ for Nitro subscribers",
-      "url": "https://www.theverge.com/news/927722/discord-xbox-game-pass-starter-edition-nitro-subscribers",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-05-11T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Discord is announcing the launch of Nitro Rewards today, a new program for subscribers that bundles benefits from third parties like Microsoft, Logitech, and SteelSeries, into a Nitro subscription. The main addition is that Nitro members will now get a new starter edition of Xbox Game Pass at no extra cost.\nXbox Game Pass starter edition, which leaked last month, allows PC and Xbox owners to download more than 50 games, including titles like Fallout 4, Stardew Valley, and DayZ. The starter edition also includes 10 hours a month of Xbox Cloud Gaming streaming and the ability to earn up to $25 a year in the Xbox Store with rewards.\nAlongside …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "d307579cd155f14dcbe181964353afbbd344a52e",
       "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost",
       "url": "https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/",
@@ -582,33 +699,20 @@
       "source_name": "TechCrunch",
       "published": "2026-05-11T13:00:00.000Z",
       "summary_90w": "",
-      "raw": "Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass, and discounts from Logitech, SteelSeries, and other gaming brands.",
+      "raw": "Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass and discounts from Logitech, SteelSeries, and other gaming brands.",
       "topics": [
         "Technology"
       ]
     },
     {
       "id": "88258d4a60b28dcbd4ab92dd73775b16e8ae0a59",
-      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
       "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "published": "2026-05-11T13:00:00.000Z",
       "summary_90w": "",
-      "raw": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "b4ff0f635764a43422f051dc7d943e3f2d24c982",
-      "title": "Wordle is turning into a primetime TV game show on NBC",
-      "url": "https://www.theverge.com/games/927536/wordle-game-show-nbc-savannah-guthrie-jimmy-fallon-new-york-times",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-05-11T12:50:00.000Z",
-      "summary_90w": "",
-      "raw": "Wordle could be the next great game show. NBC has greenlit a game show version of The New York Times' popular puzzle game, and it's set to debut in 2027 with Savannah Guthrie as the host. The show will be produced by Universal Television Alternative Studio \"in partnership with\" Jimmy Fallon's production company and the NYT, according to a press release.\nHere's an overview of how the new \"fast-paced format\" will work in game show form, from the NYT:\nThe series will feature teams of players competing to solve five-letter word puzzles in a high-energy, collaborative environment, translating the core elements of Wordle into a new kind of view …\n\nRead the full story at The Verge.",
+      "raw": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
       "topics": [
         "Technology"
       ]
@@ -673,7 +777,7 @@
       "source_name": "TechCrunch",
       "published": "2026-05-11T12:00:00.000Z",
       "summary_90w": "",
-      "raw": "The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a standalone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has reportedly expressed interest in buying PayPal outright.",
+      "raw": "The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a stand-alone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has reportedly expressed interest in buying PayPal outright.",
       "topics": [
         "Technology"
       ]
@@ -738,7 +842,7 @@
       "source_name": "TechCrunch",
       "published": "2026-05-11T10:58:00.000Z",
       "summary_90w": "",
-      "raw": "Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.",
+      "raw": "Instead of building robots themselves, the team is focused on a simpler goal — providing data that robots need to learn and operate. They believe that better data will be key to making robots more useful.",
       "topics": [
         "Technology"
       ]
@@ -965,19 +1069,6 @@
       ]
     },
     {
-      "id": "12d9c2c0a580d8888da07a4f9edb548740ec1cba",
-      "title": "Remains of a U.S. soldier who went missing in Morocco have been recovered",
-      "url": "https://www.npr.org/2026/05/11/g-s1-121363/remains-of-missing-us-soldier",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-05-11T06:17:02.000Z",
-      "summary_90w": "",
-      "raw": "The remains of a U.S. soldier who went missing during military drills in Morocco were recovered in the Atlantic Ocean, the army said. Military teams are searching for a second missing soldier.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e9ad58c1668abc2123aa37cfe4362a85f29a0737",
       "title": "Arctic air to sweep UK bringing midweek cold snap",
       "url": "https://www.bbc.com/weather/articles/c8d8gnlz154o?at_medium=RSS&at_campaign=rss",
@@ -1043,19 +1134,6 @@
       ]
     },
     {
-      "id": "014d73d6bf3f6ca9845cd43dc382780cdd1b6736",
-      "title": "Adolescence makes history at Bafta TV Awards",
-      "url": "https://www.bbc.com/news/articles/c5y76dll19po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-11T00:49:47.000Z",
-      "summary_90w": "",
-      "raw": "The hit Netflix drama wins a record four Bafta TV Awards, including one for 16-year-old Owen Cooper.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "498163c1c67537f6400ebbcbfc53b9717a31d622",
       "title": "The summer England's World Cup 'golden generation' lost its shine, twenty years on",
       "url": "https://www.bbc.co.uk/sport/extra/60s97qhdbf/the-golden-generation?at_medium=RSS&at_campaign=rss",
@@ -1069,23 +1147,10 @@
       ]
     },
     {
-      "id": "beff4229fff539aaeb266cc6b90e158b82a74a38",
-      "title": "My sister spent up to £1,500 a month on alcohol from delivery apps",
-      "url": "https://www.bbc.com/news/articles/cd9pn581xzwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-10T23:38:30.000Z",
-      "summary_90w": "",
-      "raw": "A woman who wants tighter restrictions on alcohol deliveries is working with Dry January charity.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "94ac9f3893ca61a2aee0f00ef568cc64cf0ce3c2",
       "title": "Why Eurovision's fallout over Israel may change the competition forever",
       "url": "https://www.bbc.com/news/articles/cgkpgm6vk48o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-05-10T23:33:57.000Z",
       "summary_90w": "",
@@ -1498,32 +1563,6 @@
       ]
     },
     {
-      "id": "905e4c9982de5c26d71cec915b9dd030470d6844",
-      "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
-      "url": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-05-09T15:45:00.000Z",
-      "summary_90w": "",
-      "raw": "In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "d1860b86b11366ac9cb434a0218ef32ed40844a9",
-      "title": "Nvidia has already committed $40B to equity AI deals this year",
-      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-05-09T14:43:30.000Z",
-      "summary_90w": "",
-      "raw": "Nvidia continues to be a big investor in the AI ecosystem.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "492e844eb7d0985fa673b753738d290d7bb980ea",
       "title": "Indonesian rescuers retrieve body from Mount Dukono as search continues",
       "url": "https://www.theguardian.com/world/2026/may/09/indonesia-volcano-mount-dukono-search-bodies-recovered",
@@ -1628,32 +1667,6 @@
       ]
     },
     {
-      "id": "f4fce482a3fd4210ad4708e31a3f17d15fa2868e",
-      "title": "Move over matcha. Hojicha is coming to a cafe near you",
-      "url": "https://www.bbc.com/news/articles/c232kzgm175o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-05-08T23:01:44.000Z",
-      "summary_90w": "",
-      "raw": "From lattes to ice-cream, the Japanese tea is popping up more and more on menus across the UK.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "18e393ee2491bab3884c4666ad842c6ffe5118bb",
-      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no. ",
-      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-05-08T22:59:05.000Z",
-      "summary_90w": "",
-      "raw": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "a6354c43b3cbd56e7b33a6a1a8f1ccfe2c80be24",
       "title": "Return of IS-linked families sparks debate in terror-traumatised Australia",
       "url": "https://www.bbc.com/news/articles/cedplx04ew0o?at_medium=RSS&at_campaign=rss",
@@ -1677,19 +1690,6 @@
       "raw": "Some schools are warning users not to log back into Canvas yet, after a ransomware group claimed credit for a data breach. Half of North America's higher education institutions use the platform.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "6adbbefa3e70dba5b23b628c1eae64bd300eca28",
-      "title": "Trump takes his revenge on disloyal Republicans",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8lz1?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-08T12:31:00.000Z",
-      "summary_90w": "",
-      "raw": "The US president targets his political enemies in Kentucky and Indiana",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -2117,19 +2117,6 @@
       "published": "2025-04-30T14:04:28.000Z",
       "summary_90w": "",
       "raw": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f9fbcc34c22dc42b6e905c3986f8121f9f750611",
-      "title": "Scottish mockumentary about two brothers' Eurovision dreams",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m001lvkc?at_mid=XcMzAPH7gU&at_campaign=How_Not_to_Win_Eurovision&at_medium=display_ad&at_campaign_type=owned&at_nation=SCT&at_audience_id=SS&at_product=iplayer&at_brand=m001lvkc&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=How_Not_to_Win_Eurovision&at_bbc_team=BBC",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2024-05-08T05:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Two Scottish brothers try to sneak into Eurovision by entering for another country.",
       "topics": [
         "World"
       ]
