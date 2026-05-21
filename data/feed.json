@@ -1,27 +1,443 @@
 {
-  "version": "1779361087245",
-  "generatedAt": "2026-05-21T10:58:07.245Z",
+  "version": "1779371845264",
+  "generatedAt": "2026-05-21T13:57:25.264Z",
   "items": [
     {
-      "id": "add2285e51e7b72c6f7a0520a2679dd0a9f06356",
-      "title": "EasyJet boss says summer flights won't be hit by jet fuel shortages",
-      "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
+      "id": "e662c861e9450929a69974725f3a2d3dd13320de",
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-05-21T13:52:23.000Z",
+      "summary_90w": "",
+      "raw": "The AI agents are coming. A lot of them.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "cabd6d75003c4a59898c492b57fec56868cbb9f2",
+      "title": "Wayve’s self-driving tech is headed to US cars made by Stellantis",
+      "url": "https://techcrunch.com/2026/05/21/wayves-self-driving-tech-is-headed-to-us-cars-made-by-stellantis/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-05-21T13:46:07.000Z",
+      "summary_90w": "",
+      "raw": "Wayve's self-driving tech will show up in Stellantis vehicles in 2028.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9dfec941a5bb8b56cb02b2cea1a089c13f25f2f9",
+      "title": "US-bound plane diverts to Canada after person from Ebola-hit region boards 'in error'",
+      "url": "https://www.bbc.com/news/articles/c0m2k79mv2ko?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-05-21T10:48:28.000Z",
+      "published": "2026-05-21T13:44:54.000Z",
       "summary_90w": "",
-      "raw": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
+      "raw": "Officials did not specify if the passenger, who was coming from the Democratic Republic of Congo, was showing symptoms of the virus.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e59972e782a2a03d7d1ccbc36a83218fcc139b1c",
+      "title": "Teenage boys sentenced for raping lone girls and filming attacks",
+      "url": "https://www.bbc.com/news/articles/clypg68e2neo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-21T13:42:53.000Z",
+      "summary_90w": "",
+      "raw": "The boys filmed themselves laughing and encouraging each other as they raped girls in separate attacks.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "96e25c955b16a9997383a51eae1bafcaad6fb358",
+      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+      "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-05-21T13:38:42.000Z",
+      "summary_90w": "",
+      "raw": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "77100618960258972970e8d38e5d527701d84e2b",
+      "title": "Iran steps up claim to control Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-05-21T13:38:03.000Z",
+      "summary_90w": "",
+      "raw": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "863d50a63aeda6aa88d79ee35d3b47db61985450",
+      "title": "Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer",
+      "url": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-21T13:37:15.000Z",
+      "summary_90w": "",
+      "raw": "Chancellor Rachel Reeves made a series of announcements aimed at relieving cost-of-living pressures.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c8552c8d54acb65f36419a9b8be6349879e805fd",
+      "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
+      "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-05-21T13:35:52.000Z",
+      "summary_90w": "",
+      "raw": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO filing, we have more details about that deal, including how much Anthropic is paying to Elon Musk's company. \nIn its S-1 filing, SpaceX said that Anthropic agreed to pay $1.25 billion per month through May 2029 for access to SpaceX's AI training centers at Colossus I and Colossus II. That's $15 billion annually, or nearly double the $18.7 billion in revenue that SpaceX reported in all of 2025. \nThe agreement includes a clause in which either com …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4c8973d58d3433f8e025c7402401e86e6691c226",
+      "title": "Netflix’s next great sci-fi show is set in a retirement community",
+      "url": "https://www.theverge.com/entertainment/935218/the-boroughs-review-netflix",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-05-21T13:30:00.000Z",
+      "summary_90w": "",
+      "raw": "Four decades on, '80s-style science fiction adventures continue to exert their influence on modern film and TV. The idea of a group of kids teaming up to face an otherworldly threat has become a trope at this point, seen in everything from Super 8 to Stranger Things. So on one level, The Boroughs, a new sci-fi series on Netflix, does a lot that feels very familiar, with its tale of a mysterious alien terrorizing a small neighborhood and the team of plucky friends who band together to stop it. But The Boroughs also does something different: Its neighborhood is a retirement community, and its group of friends are all in their 70s. That seeming …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "fd6b3b0a3b0e1ec1fc87f78092712e321e75ed7b",
+      "title": "Flipper unveils a Linux-powered networking gadget built for hackers and tinkerers",
+      "url": "https://techcrunch.com/2026/05/21/flipper-unveils-a-linux-powered-networking-gadget-built-for-hackers-and-tinkerers/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-05-21T13:25:37.000Z",
+      "summary_90w": "",
+      "raw": "Flipper Devices said that the new gadget is in development and the base model will cost under $350",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "fc2602affee30cf117f71d6e9ba4445d20994093",
+      "title": "Dozens of vehicles burnt as Mali jihadists enforce blockade",
+      "url": "https://www.bbc.com/news/articles/cx21g1pdm92o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-05-21T13:23:25.000Z",
+      "summary_90w": "",
+      "raw": "Mali is a landlocked country and depends heavily on fuel transported from neighbouring countries.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2b05e1e5aaec1cba1f4d2b4406510f64ed337273",
+      "title": "Many Nato countries not spending enough to support Ukraine, says Rutte – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/may/21/czech-republic-petr-pavel-ukraine-baltics-drones-russia-nato-security-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-05-21T13:21:18.000Z",
+      "summary_90w": "",
+      "raw": "Nato chief delivers speech in Sweden as he hints at further changes to US military commitments to Europe\nJust as Pavel was speaking in Prague, Russian foreign ministry spokesperson Maria Zakharova told reporters that Ukrainian president Volodymyr Zelenskyy was pursuing escalation of the conflict between the two countries.\nIt’s quite a claim given (checks notes) Russia’s continued and relentless invasion of Ukraine for years.\n“Ukraine has demonstrated not only determination and heroism, but also unbelievable capacity to adjust, to innovate, to change.\nIt is something that we in Europe have lost through many regulatory measures that are necessary in peacetime, but of course in conflict you have to be … flexible and achieve the results in shortest possible time. …\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8c58521062e77cb467e4e2f92adc6bb8b2bf5e05",
+      "title": "The new Flipper One is a pocket-sized Linux computer",
+      "url": "https://www.theverge.com/tech/935202/flipper-devices-one-zero-wireless-multi-tool-linux-open-source-computer",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-05-21T13:18:35.000Z",
+      "summary_90w": "",
+      "raw": "The Flipper One isn’t quite complete yet as the company wants feedback and ideas from its community. | Image: Flipper Devices\t\n\nIt's been nearly six years since Flipper Devices introduced the Zero, its popular but controversial wireless hacking multi-tool. The company's latest creation (following a slight departure with a device that lets co-workers know when you're too busy to chat) is the new Flipper One. It's a similarly pocketable electronic multi-tool but also a tiny open source Linux computer powered by an 8-core RK3576 processor with a GPU, a 6 TOPS NPU, and 8GB of RAM.\nThe Flipper One is also packed with connectivity including PCIe, SATA, and USB 3.0 interfaces, two ethernet ports, and an M.2 slot that can expand its capabilities with modules that add cellul …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4f1e0227fc4a08c6c05e3bd9963d920237417c53",
+      "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
+      "url": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-05-21T13:17:31.000Z",
+      "summary_90w": "",
+      "raw": "The outbreak, caused by a rare Ebola species, is thought to have caused 139 deaths so far.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9688713c726aab23957aba9a651d46facabe0fd7",
+      "title": "Gaza flotilla activists set for deportation from Israel as backlash over treatment grows ",
+      "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-05-21T13:08:42.000Z",
+      "summary_90w": "",
+      "raw": "Activists have begun to leave Israel after international outrage over their treatment in detention.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4c6a6286a702191aa2f433e1f21e048231c123c4",
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-21T13:07:02.000Z",
+      "summary_90w": "",
+      "raw": "The companies were found guilty by a French court over an air disaster which killed 228 people.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ffbb0938e1b31bd7f8e84a596d0a59c9b4a09ab0",
+      "title": "Trump says he will speak to Taiwan's president in break from protocol",
+      "url": "https://www.bbc.com/news/articles/c78qv3w4xzqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-05-21T13:01:32.000Z",
+      "summary_90w": "",
+      "raw": "It comes as the US weighs whether to proceed with a $14bn arms sales to Taiwan, which China claims as its own.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0b0b69f86b61bce8ccbf5c00823aefcd468716a4",
+      "title": "I review robot vacuums for a living, ask me anything!",
+      "url": "https://www.theverge.com/tech/935196/i-review-robot-vacuums-for-a-living-ask-me-anything",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-05-21T13:00:20.000Z",
+      "summary_90w": "",
+      "raw": "Me and my buddies. | Photo by Rose Tuohy for The Verge\t\n\nWelcome! I'm The Verge's smart home reviewer, and I'm hosting an exclusive subscriber AMA today at 10 AM PT / 1 PM ET. I test a lot of connected gadgets for my job, but the dominant device in my home - by both number and square footage covered - is the robot vacuum. At any given time, I have a dozen of these bots bouncing around, sweeping and mopping my floors and irritating my cats. \nI just published a guide on how to choose the best robot vacuum for your home, and I recently reviewed the Dyson Spot & Scrub, Shark's Power Detect, and the Matic,  which is the most interesting new approach to a robot vacuum I've seen in my 7 years of reviewi …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "70ced8b3547f3e8fd0ef1c48909fa05c7485e557",
+      "title": "I can’t believe how fast Google vibe coded my first Android app",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-05-21T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "That’s my own Android app. Bad, yet impressive. | Photo by Sean Hollister / The Verge\t\n\nYesterday, I built my first Android app. Then, I made two more - three in one afternoon.\nFor one, I literally typed 148 words into my web browser and walked away. Ten minutes later, I had an entire new app on my actual Android phone. I did have to prep that phone by enabling a USB debugging mode and plugging it into my PC, but as advertised, Google's AI Studio did literally everything else for me. \nI typed in words, I hit install, and voilà: an entire working program. I was nearly ready to agree with David, Allison, and Jen: The personal software revolution is here, it's coming to your phone, there's a future where the average person can m …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "dfb6165651171102ee53b034c2c9fa5c1a0b8f21",
+      "title": "Susan Collins brings federal dollars to Maine. She's hoping that's worth it to voters",
+      "url": "https://www.npr.org/2026/05/21/nx-s1-5823448/susan-collins-maine-senate-graham-platner",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-05-21T12:47:56.000Z",
+      "summary_90w": "",
+      "raw": "As Maine's Senate matchup is all but set, incumbent Republican Sen. Susan Collins urges voters to pick her over Democrat Graham Platner because she can fund state priorities due to her seniority.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "488110e5792a9d12e4b86b9d8b566d400309b8b8",
+      "title": "Air France and Airbus guilty of corporate manslaughter for 2009 plane crash",
+      "url": "https://www.theguardian.com/world/2026/may/21/air-france-airbus-guilty-corporate-manslaughter-2009-plane-crash",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-05-21T12:38:43.000Z",
+      "summary_90w": "",
+      "raw": "Verdict is latest legal milestone over France’s worst ever air disaster\nA Paris appeals court has found Airbus and Air France guilty of corporate manslaughter over the 2009 Rio-Paris plane crash that killed 228 passengers and crew in France’s worst air disaster.\nThe verdict is the latest milestone in a legal marathon involving two of France’s most emblematic companies and families of the mainly French, Brazilian and German victims.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0fbddf834248635ec8c2d20e76bb463c527a8e4d",
+      "title": "‘It’s broken English’: MP’s attempt to speak Jamaican in parliament sparks language row",
+      "url": "https://www.theguardian.com/news/2026/may/21/jamaica-parliament-language-english-patois",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-05-21T12:38:35.000Z",
+      "summary_90w": "",
+      "raw": "Parliamentary rule that only English is allowed has reignited debate about language, legitimacy and postcolonial identity\nWhen the Jamaican MP Nekeisha Burchell stood up to give her maiden speech, she was keenly aware of how much her country’s parliament mirrored the Westminster version thousands of miles away in London.\nAs in the UK, the session on 12 May had started with the arrival of the ceremonial mace – a 1.7-metre ornamented silver staff representing the British monarch’s authority over parliament – which now rested on a table between the government and the opposition. Despite the heat outside, debate was presided over by the speaker dressed in a ceremonial robe.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9e6b0ac5a1a467c91855e8959ad3713361890790",
+      "title": "Tui ends sponsorship of Channel 4's Married at First Sight ",
+      "url": "https://www.bbc.com/news/articles/cvgzp9e1v38o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-21T12:35:38.000Z",
+      "summary_90w": "",
+      "raw": "The holiday company has cut ties with Married at First Sight following allegations of rape made by women on the UK edition.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "95b30d2fb2f9458a889ffcb9dac8b167130db42a",
+      "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
+      "url": "https://www.bbc.com/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-21T12:29:37.000Z",
+      "summary_90w": "",
+      "raw": "Use our interactive tracker to explore the latest migration statistics for the UK",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3f83699f9741e4767429f6bdd0a17801bcf8cac5",
+      "title": "NYC Mayor Zohran Mamdani is launching a Twitch series",
+      "url": "https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-05-21T12:22:26.000Z",
+      "summary_90w": "",
+      "raw": "“Hey chat, are billionaires cooked?” | Photo by kena betancur / AFP via Getty Images\t\n\nNew York City Mayor Zohran Mamdani is launching a streaming series on Twitch, in which he'll respond to questions the public have submitted via the chat, Polygon reports. The series is aptly titled \"Talk with the People,\" and kicks off later today at 4PM ET. \n\"With the launch of 'Talk with the People' we're bringing City Hall to the platforms where New Yorkers already are - speaking directly with the people,\" Mamdani told Polygon in a written statement. \"By launching the country's first recurring cross-platform stream hosted by an elected official, where I'll answer New Yorkers' questions live on Twitch, we're opening up a direct line of co …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8e52d056092c357dd3e4891ceebf42035a265599",
+      "title": "Gonorrhoea and syphilis hit record levels in Europe",
+      "url": "https://www.bbc.com/news/articles/cm2pj07dr7lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-05-21T12:19:15.000Z",
+      "summary_90w": "",
+      "raw": "STIs have surged thanks to record cases and gaps in testing and prevention, a health agency reports.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7c98d79c11d186c068e3ea40f0de7c78644c551d",
+      "title": "UK summons Israel’s chargé d’affaires over video of minister taunting activists",
+      "url": "https://www.theguardian.com/world/2026/may/21/uk-israel-video-itama-ben-gvir",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-05-21T12:18:11.000Z",
+      "summary_90w": "",
+      "raw": "Foreign Office denounces treatment of Gaza flotilla activists as outcry over Itamar Ben-Gvir’s video escalates\nThe UK has summoned Israel’s chargé d’affaires as international outrage escalates over a video posted by the national security minister, Itamar Ben-Gvir, in which he is seen taunting activists detained after a Gaza-bound flotilla was intercepted.\nThe global outcry continued as Israel began releasing hundreds of the activists who attempted to breach Israel’s naval blockade of Gaza. Authorities are in the process of deporting them, according to a legal organisation working with the flotilla.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "85e044006b94b58fd464ebf9cc1d320837008a52",
+      "title": "Record number of dams dismantled in Europe in effort to help wildlife thrive",
+      "url": "https://www.theguardian.com/environment/2026/may/21/record-number-of-dams-dismantled-in-europe-in-effort-to-help-wildlife-thrive",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-05-21T12:14:22.000Z",
+      "summary_90w": "",
+      "raw": "Weirs, culverts and sluices among 602 barriers demolished in year in attempt to restore 15,500 miles of rivers by 2030\nA few miles downstream from a lava field in western Iceland, the gargle of free-flowing water is unbroken for the first time in decades after hydraulic peckers chipped away at a dilapidated dam that once powered a farm. The structure on the River Melsá had continued to block fish migration long after falling into disrepair.\n“It wasn’t providing any electricity; the old power house had sheep living in it,” said Hamish Moir, a river engineer from CBEC, a Scottish firm that provided technical support for the demolition in December. To see the river restored to its natural state was “really rewarding”, he said.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "555f7b00b33b7b9eedaab4be02f0ae41f01be8ae",
+      "title": "Chris Mason: VAT cut on summer fun - the announcement that didn't leak",
+      "url": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-21T12:11:05.000Z",
+      "summary_90w": "",
+      "raw": "Chancellor Rachel Reeves unveils measures aimed at helping families with the cost of living - but is it enough?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9f4e98b554e26b6b30df7b06537cd8acfaf989a6",
+      "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
+      "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-05-21T12:02:43.000Z",
+      "summary_90w": "",
+      "raw": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8a9146e51d095c35a5631761c16a1eb128f1046e",
+      "title": "GOP races to fund immigration enforcement. And, U.S. indicts former Cuban president",
+      "url": "https://www.npr.org/2026/05/21/g-s1-123307/up-first-newsletter-congress-ice-border-patrol-funding-iran-war-raul-castro",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-05-21T12:00:24.000Z",
+      "summary_90w": "",
+      "raw": "Republicans are racing to pass a $72 billion immigration enforcement package. And, the U.S. has indicted former Cuban President Raúl Castro for his alleged role in the 1996 downing of two planes.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9a2d25e58b72f0a044bb38ded36476a3b6fdeb5f",
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-05-21T11:42:57.000Z",
+      "summary_90w": "",
+      "raw": "The loophole allows spammers and scammers to send emails from a legitimate Microsoft email address typically used for sending genuine account alerts.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "90225381f63dfddb9266f31d5fa6adeecb5c83f7",
+      "title": "Wes Streeting pledges wealth tax as part of leadership pitch",
+      "url": "https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-21T11:42:29.000Z",
+      "summary_90w": "",
+      "raw": "He proposes equalising capital gains tax with income tax, in a reform he estimates could raise £12bn a year.",
       "topics": [
         "World"
       ]
     },
     {
       "id": "16afb66bf25eb84b1c81753ac82fecd8b654cd4e",
-      "title": "NHS trust sacks staff for accessing attacks victims' health records",
+      "title": "NHS trust sacks staff over accessing Nottingham attacks victims' records",
       "url": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-05-21T10:46:10.000Z",
+      "published": "2026-05-21T11:34:49.000Z",
       "summary_90w": "",
       "raw": "Nottingham University Hospitals NHS Trust says investigations are ongoing.",
       "topics": [
@@ -29,40 +445,92 @@
       ]
     },
     {
-      "id": "2b05e1e5aaec1cba1f4d2b4406510f64ed337273",
-      "title": "‘Peace in Europe no longer default situation’, warns Czech president Petr Pavel – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/may/21/czech-republic-petr-pavel-ukraine-baltics-drones-russia-nato-security-latest-news-updates",
+      "id": "a738e4de3824279098e59e427f6dba17e3b25670",
+      "title": "UK migration drops to 171,000 - almost half 2024's figure",
+      "url": "https://www.bbc.com/news/articles/clyp1ekd584o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-21T11:27:20.000Z",
+      "summary_90w": "",
+      "raw": "The prime minister says his government is delivering on its promise to restore control to the borders.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bc63e63d0abf22551517f2ac43bff5a385e293bc",
+      "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
+      "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-21T11:22:18.000Z",
+      "summary_90w": "",
+      "raw": "It comes after the US charged Cuba's ex-leader with murder, the latest move putting pressure on the regime.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bbd0bd64653467b1868eb6be693a23fa66ea7538",
+      "title": "Nvidia's latest record result fails to impress investors",
+      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-21T11:05:18.000Z",
+      "summary_90w": "",
+      "raw": "The chip giant reported more stellar results but its shares fell after-hours as investors wonder if it can keep up its pace of growth amid greater competition.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "add2285e51e7b72c6f7a0520a2679dd0a9f06356",
+      "title": "EasyJet boss says summer flights won't be hit by jet fuel shortages",
+      "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-21T11:03:00.000Z",
+      "summary_90w": "",
+      "raw": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "118ce1e71610aa3ffdbef6c3ac9b741f451bf4f3",
+      "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
+      "url": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-05-21T11:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Beauty and wellness booking marketplace Fresha says it has raised $80 million investment from KKR’s Next Generation Technology Growth fund, KKR's growth equity arm.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "cb3059d38dd5dce3157657b1924e93e43f866af5",
+      "title": "EasyJet summer holiday bookings down on last year amid Iran war uncertainty",
+      "url": "https://www.theguardian.com/business/2026/may/21/easyjet-summer-holiday-bookings-down-on-last-year-amid-iran-war-uncertainty",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-05-21T10:44:58.000Z",
+      "published": "2026-05-21T10:49:40.000Z",
       "summary_90w": "",
-      "raw": "European state officials are meeting in Prague to discuss the state of the transatlantic alliance at a global security conference\nJust as Pavel was speaking in Prague, Russian foreign ministry spokesperson Maria Zakharova told reporters that Ukrainian president Volodymyr Zelenskyy was pursuing escalation of the conflict between the two countries.\nIt’s quite a claim given (checks notes) Russia’s continued and relentless invasion of Ukraine for years.\n“Ukraine has demonstrated not only determination and heroism, but also unbelievable capacity to adjust, to innovate, to change.\nIt is something that we in Europe have lost through many regulatory measures that are necessary in peacetime, but of course in conflict you have to be … flexible and achieve the results in shortest possible time. …\n Continue reading...",
+      "raw": "Airline, which took £25m hit on jet fuel in March, says passengers are waiting later to book trips\n\nBusiness live – latest updates\n\nThe airline easyJet has said its summer holiday bookings are lagging behind last year’s, as the Middle East conflict weighs on consumer confidence and passengers appear to be waiting later to book trips.\nThe carrier said it had to spend an unexpected extra £25m on jet fuel in March after the start of the US-Israel war on Iran.\n Continue reading...",
       "topics": [
         "World"
       ]
     },
     {
-      "id": "863d50a63aeda6aa88d79ee35d3b47db61985450",
-      "title": "Free bus trips for children in England this August as part of Reeves's cost-of-living plan",
-      "url": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss",
+      "id": "fa7edeedb19af431c1d5df5e21a132f5d10ae65c",
+      "title": "Katie Price to testify in ex-husband's child rape trial",
+      "url": "https://www.bbc.com/news/articles/c8e852y421no?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-05-21T10:44:11.000Z",
+      "published": "2026-05-21T10:48:20.000Z",
       "summary_90w": "",
-      "raw": "Chancellor Rachel Reeves will make a series of announcemenrs aimed at relieving cost-of-living pressures.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e26e8450890d9c221fc2d813d0f38f5746b3265c",
-      "title": "Burnham: 'People in Britain can't afford a good life'",
-      "url": "https://www.bbc.com/news/articles/cn7pj5zde7po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-21T10:41:18.000Z",
-      "summary_90w": "",
-      "raw": "Andy Burnham was speaking in a series of interviews with the candidates for the Makerfield by-election.",
+      "raw": "Kieran Hayler, 39, is charged with three counts of rape and one of sexually assaulting the girl.",
       "topics": [
         "World"
       ]
@@ -75,46 +543,20 @@
       "source_name": "World news | The Guardian",
       "published": "2026-05-21T10:41:10.000Z",
       "summary_90w": "",
-      "raw": "Colombia is a global leader in climate activism. Could US influence drag country to a future of mining and fracking?\nSeveral hours after dark in a quiet Caribbean neighbourhood, a cluster of environmental activists gather on plastic chairs between a mango tree and a courtyard wall emblazoned with the words: “Colombia, respira!” (breathe Colombia).\nSo many people have turned up that some are forced to stand. That is because tonight’s speaker, Susana Muhamad, is one of the most admired socio-environmental campaigners in the world and this is a moment of profound historical significance.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4f1e0227fc4a08c6c05e3bd9963d920237417c53",
-      "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
-      "url": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-05-21T10:41:09.000Z",
-      "summary_90w": "",
-      "raw": "The outbreak, caused by a rare Ebola species, is thought to have caused 139 deaths so far.",
+      "raw": "Colombia is a global leader in climate activism. Could US influence drag country to a future of mining and fracking?\nSeveral hours after dark in a quiet Caribbean neighbourhood, a cluster of environmental activists gather on plastic chairs between a mango tree and a courtyard wall emblazoned with the words “Colombia, respira!” (Breathe, Colombia).\nSo many people have turned up that some have to stand. That is because tonight’s speaker is Susana Muhamad, one of the most admired socio-environmental campaigners in the world, and this is a moment of profound historical significance.\n Continue reading...",
       "topics": [
         "World"
       ]
     },
     {
       "id": "ed29e716df7479a67212a57c6038b9555c7a722b",
-      "title": "Girl, 2, dies after being left in car as extreme heat sweeps Spain",
+      "title": "Girl, two, dies after being left in car as extreme heat sweeps Spain",
       "url": "https://www.theguardian.com/world/2026/may/21/girl-dies-car-extreme-heat-spain",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2026-05-21T10:39:46.000Z",
       "summary_90w": "",
-      "raw": "Authorities in Galicia declare two days of mourning after toddler died during exceptionally high May temperatures\n\nEurope live – latest updates\n\nA two-year-old girl has died of heatstroke in north-west Spain after being accidentally left in her father’s car during an unseasonably hot spell that could push temperatures in some areas to 38C (100F).\nThe child, who has not been named, went into cardiac arrest on Wednesday afternoon after spending several hours inside the vehicle in the Galician town of Brión after her father forgot to take her to nursery.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c2b16c77f59dfc9edfd741b8d9c5a8b8a01bb952",
-      "title": "Mick Jagger to play Josh O’Connor’s father in new film from Alice Rohrwacher",
-      "url": "https://www.theguardian.com/film/2026/may/21/mick-jagger-josh-oconnor-father-new-film-alice-rohrwacher-three-incestuous-sisters",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-05-21T10:29:11.000Z",
-      "summary_90w": "",
-      "raw": "The Rolling Stone will play a lighthouse keeper in Three Incestuous Sisters, joining a cast including Dakota Johnson, Jessie Buckley and Saoirse Ronan\nRolling Stones singer Mick Jagger is playing a lighthouse keeper in the new film from Happy as Lazzaro director Alice Rohrwacher, which is currently filming on the Italian island of Stromboli.\nAccording to reports in the Italian media, Jagger was photographed on arrival in Stromboli after flying in by helicopter to take a role in Three Incestuous Sisters, Rohrwacher’s adaptation of the 2005 “visual novel” by The Time Traveler’s Wife author Audrey Niffenegger.\n Continue reading...",
+      "raw": "Authorities in Galicia declare two days of mourning after toddler dies during exceptionally high May temperatures\n\nEurope live – latest updates\n\nA two-year-old girl has died of heatstroke in north-west Spain after being accidentally left in her father’s car during an unseasonably hot spell that could push temperatures in some areas to 38C (100F).\nThe child, who has not been named, went into cardiac arrest on Wednesday afternoon after spending several hours inside the vehicle in the Galician town of Brión after her father forgot to take her to nursery.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -172,14 +614,14 @@
       ]
     },
     {
-      "id": "bbd0bd64653467b1868eb6be693a23fa66ea7538",
-      "title": "Nvidia's record result fails to impress investors",
-      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
+      "id": "10f7a1d955800db66d11a3adf4056d20cb188cb1",
+      "title": "How protesters are set for Ireland's parliament over Yves Sakila's 'disturbing' death",
+      "url": "https://www.bbc.com/news/articles/cq6pv70e24no?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-05-21T09:40:38.000Z",
+      "published": "2026-05-21T09:30:46.000Z",
       "summary_90w": "",
-      "raw": "The chip giant reported more stellar results but its shares fell after-hours as investors wonder if it can keep up its pace of growth amid greater competition.",
+      "raw": "Yves Sakila, who was 35, died on one of Dublin's busiest shopping streets after an alleged shoplifting incident.",
       "topics": [
         "World"
       ]
@@ -266,13 +708,13 @@
       "id": "e0369aec415e866a9402a1588faf463d0b8cd99f",
       "title": "Spencer Pratt is 'winning the internet,' but can he become mayor of Los Angeles?",
       "url": "https://www.npr.org/2026/05/21/nx-s1-5827724/spencer-pratt-los-angeles-mayor-ai-slop-manosphere",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-05-21T09:00:00.000Z",
       "summary_90w": "",
       "raw": "Pratt, a former reality TV star, is flooding social media with edgy humor, AI slop and combative rhetoric as a way of grabbing attention and winning the vote of the very online. It's a strategy some political experts see as the future of online campaigning.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -315,58 +757,6 @@
       ]
     },
     {
-      "id": "03231a081b6a656a16276a8cabf1c8f67017ebd3",
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/05/21/nx-s1-5820719/morning-news-brief",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-05-21T08:43:39.000Z",
-      "summary_90w": "",
-      "raw": "Republicans work to pass reconciliation bill but ballroom money may get left out, Trump says Gulf allies persuaded him not to resume attacks on Iran, U.S. indicts Cuba's former President Raúl Castro.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4b38596107987b2092b1804497ca3ed52deb5be1",
-      "title": "FA opens Southampton investigation over Spygate",
-      "url": "https://www.bbc.com/sport/football/articles/crmplprldl8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-21T08:29:19.000Z",
-      "summary_90w": "",
-      "raw": "The Football Association opens an investigation into Southampton's conduct after the club admit to spying on three clubs during the Championship season.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "2c03f94fcad616f9b7d8335a24a24c5bebdfd433",
-      "title": "UK agrees £3.7bn trade deal with six Gulf states",
-      "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-21T08:19:59.000Z",
-      "summary_90w": "",
-      "raw": "The deal will remove an estimated £580m worth of tariffs from British exports, but rights groups are critical",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cb3059d38dd5dce3157657b1924e93e43f866af5",
-      "title": "EasyJet summer holiday bookings down on last year amid Iran war uncertainty",
-      "url": "https://www.theguardian.com/business/2026/may/21/easyjet-summer-holiday-bookings-down-on-last-year-amid-iran-war-uncertainty",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-05-21T08:16:28.000Z",
-      "summary_90w": "",
-      "raw": "Budget airline, which took £25m hit on jet fuel in March, says passengers are waiting later to book trips\n\nBusiness live – latest updates\n\nThe budget airline easyJet has said its summer holiday bookings are lagging behind last year’s, as the Middle East conflict weighs on consumer confidence and passengers appear to be waiting later to book trips.\nThe carrier said it had to spend an unexpected extra £25m on jet fuel in March after the start of the US-Israel war on Iran.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "d1281aaa36cd4576151811908d7d3a4e580f206f",
       "title": "The World Cup squad dilemmas facing Tuchel ",
       "url": "https://www.bbc.com/sport/football/articles/cj3pvj3egddo?at_medium=RSS&at_campaign=rss",
@@ -374,7 +764,7 @@
       "source_name": "BBC News",
       "published": "2026-05-21T08:14:26.000Z",
       "summary_90w": "",
-      "raw": "England manager Thomas Tuchel names his World Cup squad on Friday - although some of those not included already know their fate. What are the big decisions he has faced in selecting a final 26?",
+      "raw": "England manager Thomas Tuchel names his World Cup squad on Friday. What are the big decisions he has faced in selecting a final 26?",
       "topics": [
         "World"
       ]
@@ -406,45 +796,6 @@
       ]
     },
     {
-      "id": "90225381f63dfddb9266f31d5fa6adeecb5c83f7",
-      "title": "Wes Streeting pledges wealth tax as part of leadership pitch",
-      "url": "https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-21T07:52:24.000Z",
-      "summary_90w": "",
-      "raw": "He proposes equalising capital gains tax with income tax, in a reform he estimates could raise £12bn a year.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "555f7b00b33b7b9eedaab4be02f0ae41f01be8ae",
-      "title": "Chris Mason: Reeves' summer savings drive won't stretch to energy bills",
-      "url": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-21T07:44:15.000Z",
-      "summary_90w": "",
-      "raw": "The chancellor is announcing measures aimed at easing the cost of living - but no help yet with energy bills.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1bbaeb611f6f24476d1951bad42ca482d753c1c1",
-      "title": "Green Party selects nurse as Makerfield candidate",
-      "url": "https://www.bbc.com/news/articles/cwy2r2307d7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-21T07:38:50.000Z",
-      "summary_90w": "",
-      "raw": "Chris Kennedy was selected by local party members following a hustings.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "66fd87c6162c785291bea478f3556f012e985a35",
       "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
       "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
@@ -458,19 +809,6 @@
       ]
     },
     {
-      "id": "66fd87c6162c785291bea478f3556f012e985a35",
-      "title": "TikTok and YouTube 'not safe enough' for kids, says regulator",
-      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-21T07:10:42.000Z",
-      "summary_90w": "",
-      "raw": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "fa6bfb67031c3722e48609c7647acb88744fd71d",
       "title": "Australia’s unemployment rate jumps to 4.5% with markets slashing chance of more interest rate hikes",
       "url": "https://www.theguardian.com/business/2026/may/21/australia-unemployment-rate-jumps-job-market-rba-reserve-bank",
@@ -479,19 +817,6 @@
       "published": "2026-05-21T07:02:53.000Z",
       "summary_90w": "",
       "raw": "Surprise rise in jobless rate will give Reserve Bank more reason to delay another interest rate hike at June meeting\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAustralia’s unemployment rate has jumped to 4.5% in April to reach the highest in about four and half years, amid fears rising interest rates and the global oil crisis will smash economic growth.\nThe surprise rise in unemployment will provide the Reserve Bank with more reason to hold off on a fourth rate hike at its next meeting in June, as financial markets slashed the chance of more interest rate rises this year.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "34b71bb848ca5590f85cad009bc322d54600d7e2",
-      "title": "Weekly sports quiz: Who scored for Bruno Fernandes' 20th assist?",
-      "url": "https://www.bbc.com/sport/olympics/articles/cnvp2ppq1zmo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-21T06:39:10.000Z",
-      "summary_90w": "",
-      "raw": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
       "topics": [
         "World"
       ]
@@ -523,19 +848,6 @@
       ]
     },
     {
-      "id": "6152c3b9837c45eab5a2a7085449e1c402deb854",
-      "title": "Secrets, acting & 16 years unbeaten - in camp with Usyk",
-      "url": "https://www.bbc.com/sport/boxing/articles/czr267lzd8ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-21T06:03:05.000Z",
-      "summary_90w": "",
-      "raw": "Oleksandr Usyk tells BBC Sport about his \"secret plan\" for the future, possible moving into acting and how a defeat 16 years ago fuelled him on the path to greatness.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "c8abbce9a23c9b2755ef7fa242f7a6c0dc161da8",
       "title": "Samsung strike on hold as workers push for AI bonus",
       "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss",
@@ -549,42 +861,16 @@
       ]
     },
     {
-      "id": "ecbb2693f2dbf98c00b369f0298a43967ec0f861",
-      "title": "The 'F1 of athletics'? Athlos announces London debut",
-      "url": "https://www.bbc.com/sport/athletics/articles/cgkpe41j3jeo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-21T06:01:40.000Z",
-      "summary_90w": "",
-      "raw": "The all-female track meet Athlos will be hosted in London for the first time later this year as it expands to two events.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "00230e07a9c15b9521196fcd6ecab8c4b4e0478e",
       "title": "SpaceX files for stock market debut that could make Elon Musk a trillionaire",
       "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2026-05-21T06:00:32.000Z",
       "summary_90w": "",
       "raw": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
       "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6c6f1b1ea76947783f6a75e82a40500299122d08",
-      "title": "Dublin gangland figure brings extremist views to Irish mainstream on campaign trail",
-      "url": "https://www.theguardian.com/world/2026/may/21/gerry-hutch-dublin-byelection-campaign-extremist-views-irish-mainstream",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-05-21T06:00:03.000Z",
-      "summary_90w": "",
-      "raw": "Gerry ‘the monk’ Hutch has won fans in north Dublin byelection campaign with anti-immigrant rhetoric\nElaine Roe, 61, a cafe worker, has no doubt what is the most important issue in this week’s byelection for Dublin’s north inner city. “The government is wrecking our country, they’re bringing in rapists and murderers and kidnappers. It’s a shame. I might vote Hutch, he seems a normal person.”\nThat would be Gerry “the monk” Hutch, a prominent gangland figure who is running as an independent in an election that is far from normal. The 63-year-old – who was jailed for robbery convictions in his youth – is a celebrity candidate in a contest for a parliamentary seat that has been dominated by xenophobia and immigration.\n Continue reading...",
-      "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -630,7 +916,7 @@
       "id": "fcde58ea78d05d58e341385ea848da44464a76c7",
       "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
       "url": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-05-21T05:04:08.000Z",
       "summary_90w": "",
@@ -654,7 +940,7 @@
     },
     {
       "id": "16dc10d1c9839a57ba43e700cefd96b13a9eeede",
-      "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
+      "title": "In SpaceX’s IPO, Elon Musk is the risk factor",
       "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
       "source_id": "verge-tech",
       "source_name": "The Verge",
@@ -674,19 +960,6 @@
       "published": "2026-05-21T03:07:46.000Z",
       "summary_90w": "",
       "raw": "BBC correspondent Will Grant reports from Havana, hours after the US charged former Cuban leader with conspiracy to kill US nationals and other crimes.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e4dd58ef0811d00975bc0e0563d6f6cebefb2adc",
-      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-05-21T03:01:15.000Z",
-      "summary_90w": "",
-      "raw": "Cuba's current president says the charges against Castro - including conspiracy to kill US nationals and destruction of aircraft - are a \"political manoeuvre\".",
       "topics": [
         "World"
       ]
@@ -874,19 +1147,6 @@
       ]
     },
     {
-      "id": "cba5daef19f5e2c0af3ace74e5d0665b03cf8464",
-      "title": "'We'll go down in history' - Villa's new heroes triumph to end 30-year wait",
-      "url": "https://www.bbc.com/sport/football/articles/cn5p6yeql9po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-05-20T21:53:07.000Z",
-      "summary_90w": "",
-      "raw": "Aston Villa beat Freiburg in Istanbul to win the Europa League, with a new generation of heroes etching their names in the history books.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "dda7f10fb77de4747d0f3babfa45535906f816e4",
       "title": "Advice for 2026 commencement speakers: Don't bring up AI",
       "url": "https://www.npr.org/2026/05/20/nx-s1-5822419/ai-colleges-commencement-booing",
@@ -965,19 +1225,6 @@
       ]
     },
     {
-      "id": "c405b695606ea870f6d021b157c5c2c49171a3c7",
-      "title": "‘Solve all diseases,’ you say?",
-      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-05-20T21:06:35.000Z",
-      "summary_90w": "",
-      "raw": "Let’s unpack what Demis Hassabis said at the end of yesterday’s Google I/O keynote.\t\n\nThis is  Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's Google I/O coverage. You can expect our next issue at its usual time next Friday. Opt in for Optimizer here.\nToward the end of this year's Google I/O keynote, Google DeepMind CEO Demis Hassabis declared, with a completely deadpan face, that the company hopes to \"reimagine the drug discovery process with the goal of one day solving all disease.\" \nThis is the sort of statement that the phras …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "330c1354083b11867237187fcc7f18bfd5396626",
       "title": "Trump gets 'forever' immunity on his past tax affairs",
       "url": "https://www.bbc.co.uk/sounds/play/p0nmcs7t?at_medium=RSS&at_campaign=rss",
@@ -1030,45 +1277,6 @@
       ]
     },
     {
-      "id": "19393ba01414f2299f7d53f03175c4313ac29bfe",
-      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-05-20T20:28:27.000Z",
-      "summary_90w": "",
-      "raw": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0315b2783e5fe3012cc3988ab0eabd385557258a",
-      "title": "Here are 42 of our favorite deals from REI’s massive Anniversary Sale",
-      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-05-20T20:00:00.000Z",
-      "summary_90w": "",
-      "raw": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your summer plans involve hiking or heading into the backcountry, there are also savings to be had on everything from Garmin watches to water filters, some of which are also discounted at retailers like Amazon.\nThe sale runs through May 25th, and to save you time scrolling, we’ve rounded up the best deals below. Additionally, as in previous years, REI members get 20 percent off one full-price item or one REI Outlet item with code ANNIV26, giving those who pay for a lifetime membership ($30) even more ways to save in the run-up to Memorial Day.\n\n\n\n\n\n\n\nSmartwatches and fitness trackers\nGarmin Fenix 8\nThe Garmin Fenix 8 is a premium multisport watch that features a speaker, mic, and on-device assistant for calls, timers, and voice commands. It also offers elite battery life, dual-frequency GPS, and robust sensors. Read our review.\n\nWhere to Buy:\n\n $999.99 $749.99 at Amazon (43mm)\n $1099.99 $849.99 at Walmart (51mm)\n $1099.99 $849.99 at REI (47mm)\n\n\nAmazfit Active 2\nThe Amazfit Active 2 delivers outsized value for the price. It looks spiffy and has a wide array of health tracking features, plus built-in GPS and AI chatbots to provide extra context to your data. Read our review.\n\nWhere to Buy:\n\n $99.99 $89.99 at Amazon\n $99.99 $84.99 at REI\n $99.99 $84.99 at Target\n\nGarmin’s Venu 4 is geared toward the average athlete, and it’s on sale at REI, Amazon, and Best Buy in both size configurations for $499.99 ($50 off), matching its best price to date. The wearable offers many of the same health and fitness tracking features as its predecessor, the Venu 3S, including abnormal heart rate alerts, detailed sleep insights, audio-guided meditation sessions, and a wheelchair mode. It introduces new wellness features, though, including the ability to track caffeine and alcohol intake, as well as Garmin Coach, so you can tailor workouts based on your fitness history, sleep quality, and recovery.\nREI, Amazon, and Best Buy are also selling the Garmin Lily 2 Active for $249.99 ($50 off), which is its lowest price to date. The stylish smartwatch is a great budget-friendly Garmin, especially for people with smaller wrists. Like the standard Lily 2, it offers basic fitness tracking, notifications, and up to five days of battery life; however, the so-called “Active” model adds a physical button, built-in GPS, and support for more sports tracking. Read our Lily 2 review.\nIf you want more accurate heart rate tracking than most smartwatches offer, Polar’s H10 is on sale at REI and Amazon for $94.49 ($10 off), which is one of its better prices in recent months. Unlike wrist-based trackers, the chest strap records your heart rate directly from your chest for more precise readings during workouts. The lightweight sensor also pairs with a wide range of fitness apps, smartwatches, gym equipment, and other devices via Bluetooth, and it’s water-resistant enough for swimming.\nCommunication and safety gear\nGarmin InReach Mini 3 Plus\nThe Mini 3 Plus is identical to the standard model in that it allows you to stay connected while off the grid; however, it also features an audible siren and the ability to send photos and voice messages, in addition to standard texts.\n\nWhere to Buy:\n\n $499.99 $449.99 at Amazon\n $499.99 $449.99 at REI\n $499.99 $449.99 at Garmin\n\nGarmin’s base InReach Mini 3 is available from REI, Amazon, and Garmin for $399.99 ($100 off), its best price to date. Like the last-gen Mini 2, the rugged, palm-sized satellite communicator lets you send texts, share your location, check the weather, and trigger SOS alerts when you’re off the grid, all while offering battery life that can outlast your average smartphone. Unlike its predecessor, though, it features a color touchscreen, which makes it’s much easier to scroll through menus and bang out messages.\nGarmin’s InReach Messenger Plus is also on sale at REI, Amazon, and direct from Garmin for $299.99 ($100 off), its lowest prices to date. The subscription-based Plus model provides satellite connectivity and access to emergency services like the aforementioned InReach Mini 3, except it can also send photos and audio clips in addition to standard text messages.\nThe Chapter MIPS Bike Helmet is on sale starting at around $112 ($41 off) at Amazon and REI, which nearly matches its best price to date. The lightweight helmet features a hidden PopLock for securing it with a U-lock or chain. It also features a sleek visor and a Micro-USB taillight with 30 lumens of brightness, one that will automatically turn on when magnetically attached to the helmet.\nGarmin’s Varia RTL515 Radar Taillight is on sale at REI and Amazon for $149.99 ($50 off), nearly matching its lowest price to date. The headlight combines a bright LED light with a rearview radar that, when paired with a compatible device, warns you of cars approaching from behind from up to 153 yards away.\nPortable Bluetooth speakers\nJBL Charge 6\nThe Charge 6 is a robust, IP68-rated portable speaker with up to 28 hours of battery life and support for lossless audio over USB-C. Like the JBL Flip 7, it can also analyze your audio to deliver clearer, louder sound and reduce distortion at higher volumes.\n\nWhere to Buy:\n\n $199.95 $149.95 at Amazon\n $199.95 $149.95 at Best Buy\n $199.95 $159.99 at REI\n\nYou can buy JBL’s Flip 7 speaker for $99.95 ($50 off) at REI, Amazon, and Best Buy, which matches its best price to date.  The portable gadget features several upgrades over its predecessor, including a more rugged design, an enhanced tweeter, and an additional two hours of playtime. It also features JBL’s AI Sound Boost technology, which can boost the speaker’s volume without introducing distortion. An IP68 rating, meanwhile, means you can use it by the pool, while a PushLock system lets you attach interchangeable accessories like the included wrist strap.\nIf you want an even smaller portable speaker, JBL’s Clip 5 is on sale for around $59 ($20 off) at REI, Amazon, and Best Buy, which is $10 shy of its all-time low. The Bluetooth speaker features an integrated carabiner that makes it easy to clip onto a backpack, bike, or beach bag, along with an IP67 waterproof and dustproof rating. It also offers up to 12 hours of battery life, so it should easily last you the day.\nCooking equipment\nMSR PocketRocket 2 Stove\nThe PocketRocket 2 is a single-burner canister stove that can boil water in as little as three and a half minutes. It’s lightweight, foldable, and compatible with most isobutane-propane fuel canisters, making it a great pick for backpackers looking to shed weight.\n\nWhere to Buy:\n\n $59.95 $44.89 at REI\n\n\nLifeStraw Peak Series Straw\nLifeStraw’s redesigned Peak Series Straw features a durable, leakproof design that’s great for backcountry treks. It can remove unwanted viruses, bacteria, and microplastics as you drink — just like the base model — but benefits from an increased flow rate and more premium materials.\n\nWhere to Buy:\n\n $24.95 $18.69 at Amazon\n $24.95 $18.69 at REI\n\nIf you’re looking for a more convenient, all-in-one solution, the LifeStraw Go Series 1L is also on sale for an all-time low of around $32 ($13 off) at REI and Amazon. The BPA-free water bottle features a built-in two-stage filtration system, including a carbon filter that’s designed to reduce odors and improve taste, making it a solid pick for everything from travel to your daily commute.\nIt’s not the most exciting thing in the world, but the GoBites Bio-Uno Long spork is on sale at REI in multiple colors for a cool $5.93 (about $3 off). The Verge’s Brandon Widder has used the sturdy, BPA-free utensil in the backcountry numerous times over the years, mainly because it’s relatively lightweight and saves you from having to pack more than one tool for devouring whatever freeze-dried concoction you opted for.\nJetBoil MiniMo Cooking System\nJetBoil’s cooking systems aren’t for ultra-light backpackers; however, the MiniMo is incredibly straightforward to use, comes with a 1-liter pot, and heats water in as little as two minutes, making it suitable for everything from freeze-dried meals to a well-deserved cup of cocoa.\n\nWhere to Buy:\n\n $179.99 $107.93 at REI\n $179.99 $116.99 at JetBoil\n\n\nColeman Cascade Classic Camp Stove\nColeman’s go-to stove provides everything you need for simple, reliable camp cooking. It’s got enough power to handle most meals, as well as a pair of burners for cooking multiple things at once. It also features a matchless push-button igniter and built-in wind guards.\n\nWhere to Buy:\n\n $130 $87.99 at Coleman\n $130 $97.49 at REI\n\nColeman’s Cascade 3-in-1 Stove is on sale for around $204.99 ($70 off) at REI, Backcountry, and Coleman’s online storefront. It’s a better pick for campers who want to cook a little more than basic meals on a standard two-burner stove. In addition to two adjustable burners with wind guards and matchless ignition, it comes with interchangeable grill and griddle attachments, making it easier to cook things like eggs and burgers without packing extra gear.\nThe BearVault BV500 Journey is on sale for around $79.89 ($20 off) from both REI and Campman. The hard-sided bear canister is designed to keep wildlife out of your food while offering 11.5 liters of storage, which is enough for about a week’s worth of meals and snacks. Despite its rugged build, it’s relatively lightweight, and the screw-top lid is designed to be secure without requiring complicated tools.  As an added bonus, it also doubles as a makeshift camp stool.\nShelter, sleep, and furniture\nKelty Low Loveseat\nThe Kelty Low Loveseat is a sturdy, low-profile camp chair built for two. It features a steel frame, a padded seat, and extra-large cup holders for your drinks or gear. It also includes a padded roll-tote storage bag, making it easy to transport when it’s folded down.\n\nWhere to Buy:\n\n $149.95 $112.39 at REI\n $149.95 $112.39 at Backcountry\n\n\nExped MegaMat Duo\nThe MegaMat Duo is a four-inch, self-inflating mattress that’s become one of our favorites thanks to its extra-wide design. It uses a combination of open-cell polyurethane foam and generous padding for comfort, which helps keep you warm when temperatures dip. It also makes for a stellar air mattress for guests.\n\nWhere to Buy:\n\n $399.95 $299.89 at REI (medium)\n $549.95 $412.39 at REI (queen)\n $449.95 $337.39 at REI (long wide)\n\nA small, compact chair is nice to have for lounging by the campfire, and REI’s Flexlite Camp Chair is a great option now that it’s down to $67.39 (about $22 off) in multiple colors at REI. It features an aluminum frame, a stable four-leg design, and a ripstop polyester seat with water and stain resistance. When you’re done, it can also quickly fold down into a drawstring bag, so you can throw it in your car or tent.\nYou can get the Therm-a-Rest Z Lite Sol starting at $37.39 (about $13 off) at REI right now. It’s a relatively lightweight, compact sleeping pad with an accordion-style design that lets you attach it to your backpack. The closed-cell foam also provides comfort after a long day of hiking, while the sleeping pad’s surface helps reflect radiant heat back to your body, so you can stay warm in the fall.\nHalf Dome 2 Tent (with footprint)\nREI’s inexpensive, three-season tent is easy to set up and offers plenty of space for two people, with built-in pockets for stowing gear and large roll-up doors. It’s certainly not the lightest offering you can buy, but at this price, it’s an easy recommendation for first-time backpackers and anyone looking for a solid tent for car camping.\n\nWhere to Buy:\n\n $329 $246.69 at REI\n\n\nRumpl Original Puffy Blanket\nRumpl’s classic lightweight blanket features synthetic insulation for warmth, a weather-resistant outer shell, and a stuff sack. It also comes in an array of attractive designs and pairs with Rumpl’s Cape Clip, so you can wear it hands-free.\n\nWhere to Buy:\n\n $99.95 $74.89 at REI (one-person)\n $99.95 $74.96 at Rumpl (one-person)\n $199.95 $149.89 at REI (two-person)\n\nREI is currently selling its Magma 30 Sleeping Bag in a variety of sizes starting at $261.69 ($88 off). The bag uses 850-fill-power, water-resistant down for warmth and weighs under 20 ounces, depending on the size, making it a great budget pick if you’re looking to get into ultralight backpacking. It also includes a hood to help retain heat, extra room around the feet, and a terrific zipper design that’s less likely to snag when you’re crawling in or out.\nREI is selling GCI’s Freestyle Rocker Chair for $47.93 ($32 off). It’s a more comfortable alternative to your average camping chair, one that rocks and can handle both hard and soft ground. It also features padded armrests, a built-in beverage holder, and a foldable design, which makes it easy to throw in the back of your car before heading out the door.\nThe Helinox Chair Zero LT, another ultra-packable chair, is available for $119.89 ($40 off) from REI, Backcountry, and Al’s Sporting Goods. The scoop-style collapsible seat weighs just over a pound, and although it has a lower profile than your standard camping chair, its aluminum alloy frame is strong enough to support up to 265 pounds once assembled. The included stabilizer strap also means the Zero LT is less likely to sink into sand or dirt, which, we can attest, was a capital-T Thing with prior models.\nREI Siesta Hooded 20 Sleeping Bag\nThe Siesta prioritizes comfort with a roomy rectangular shape that gives you space to stretch out. The synthetic sleeping bag features an insulated hood — one that’s spacious enough to accommodate a real pillow — along with multiple zipper configurations so you can vent your feet or fully unzip it into a quilt-like blanket.\n\nWhere to Buy:\n\n $149 $111.69 at REI (medium)\n $159 $119.19 at REI (long)\n\nHeadlamps and camp lighting\nBioLite Site Lights\nBioLite’s ultra-versatile Site Light kit comes with six weatherproof bulbs, which can illuminate up to 1,000 square feet when hung or properly staked. You don’t need to bring a charger, either, as the included carrying case doubles as a solar charger for the lights.\n\nWhere to Buy:\n\n $99.95 $74.89 at Amazon\n $99.95 $74.89 at  BioLite\n $99.95 $74.89 at REI\n\n\nBlack Diamond Spot 400 Headlamp\nBlack Diamond’s 400-lumen headlamp offers adjustable brightness, a red night vision mode, and an IPX8 waterproof rating, so it can handle rainy nights. It’s also dual-fuel compatible, meaning you can use standard AAA batteries or use it in tandem with Black Diamond’s rechargeable BD 1500 Li-ion battery for added flexibility.\n\nWhere to Buy:\n\n $49.95 $44.89 at Amazon\n $49.95 $44.96 at Black Diamond\n $49.95 $44.89 at REI\n\nThe Petzl Tikka is on sale at REI for $19.73 (about $15 off). The basic headlamp is a great option that features a max output of 350 lumens, tilt functionality, and an IPX4 rating, making it safe to use in light rain. It also features a lock function that prevents it from accidentally turning on when packed.\nThe Nite Ize Radiant 314 — which is currently down to $25.73 (about $19 off) at REI — provides 314 lumens of brightness, an impact-resistant design, and an IPX4 rating for water resistance. The rechargeable lantern can also last up to 96 hours on a single charge, while the built-in power bank can provide an extra boost of power to your phone in a pinch.\nBioLite’s Luci Charge 360 is available for $44.89 ($16 off) from Amazon, REI, and BioLite, which is a terrific price for the inflatable lantern. Its collapsible design makes it easy to pack, and it offers up to 360 lumens of adjustable brightness. The waterproof gadget also lasts for 50 hours on a single charge, and when it dies, it’s easy to recharge via solar power or USB-C. Plus, you can use it as a power bank, allowing you to top off your phone or other small devices when outlets aren’t nearby.\nMpowerd Luci Solar String Lights: Color\nMpowerd’s solar-powered string lights are perfect for camping or a backyard shindig. The 18-foot string can display six colors and last up to 15 hours on a single charge; the case also doubles as a charger, allowing you to top off your phone in a pinch.\n\nWhere to Buy:\n\n $54.95 $19.83 at REI\n\n\nBlack Diamond Moji Plus Lantern\nThe Moji Plus offers 200 lumens of warm, dimmable light and adjustable brightness, along with an IPX4 rating for water resistance. It also features a double-hook design and the same dual-fuel tech as the Spot 400 Headlamp, meaning you can use it with standard AAAs or Black Diamond’s rechargeable BD 1500 Li-ion battery.\n\nWhere to Buy:\n\n $34.95 $26.19 at Amazon\n $34.95 $26.19 at REI\n $34.95 $26.21 at Black Diamond\n\nMiscellaneous outdoor deals\nZippo HeatBank 6 Pro Rechargeable Hand Warmer\nZippo’s rechargeable, IP57-rated hand warmer offers three heat settings and up to six hours of runtime. It can also serve as a 24-lumen flashlight or a 5,200 mAh power bank in a pinch, though, unlike most warmers, it’s only sold as a single unit.\n\nWhere to Buy:\n\n $59.95 $34.93 at REI\n\nIf you own an older iPhone with a Lightning port, you can grab InfinityLab’s InstantGo 10,000 Power Bank for just $41.93 (about $28 off) at REI. The portable battery features a 10,000mAh capacity and a built-in Lightning cable, making it a solid all-in-one option for days when you won’t be near an outlet. It also supports passthrough charging, allowing you to charge your phone and the power bank simultaneously.\nOsprey’s Atmos AG 65 Pack is on sale in several colors and size configurations for around $276 ($93 off) at REI and Osprey’s online storefront, which is one of the lowest prices we’ve seen. The 65-liter pack — which remains a go-to option for The Verge’s own Brandon Widder — is loaded with all sorts of bells and whistles, including an integrated rain cover, a floating top lid, and plenty of compression straps. The hallmark, though, is the ventilation system, which leverages a 3D-suspended mesh for comfort and breathability, making it a great pick for multi-day trips.\nCotopaxi Tech Bucket Hat\nCotopaxi’s technical nylon hat — a pick from our upcoming Father’s Day gift guide — is pretty basic, but it features an adjustable cord chin strap and comes in an array of fun colors that are fit for the summer season.\n\nWhere to Buy:\n\n $45 $33.69 at REI\n $45 $30 at Cotopaxi\n\nUpdate, May 20th: Updated to reflect current pricing / availability and several new deals, including those for Osprey’s Atmos AG 65 Pack and the Helinox Chair Zero LT. Brandon Widder also contributed to this post.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "b9c9fb3921ab9c9adcd28c700dd7a06ca5509a73",
-      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-      "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-05-20T19:47:20.000Z",
-      "summary_90w": "",
-      "raw": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "973beef597dbabcad125c5c30c1fc74d28566b51",
       "title": "Austrian ex-intelligence officer found guilty of Russia spying charges",
       "url": "https://www.bbc.com/news/articles/cwy21541dz4o?at_medium=RSS&at_campaign=rss",
@@ -1108,32 +1316,6 @@
       ]
     },
     {
-      "id": "2e6ff3e9cada5ab54e336752ca6f9b096e3c4868",
-      "title": "Tesla’s Full Self-Driving software is creeping into Europe",
-      "url": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-05-20T18:32:06.000Z",
-      "summary_90w": "",
-      "raw": "First came the Netherlands, now it's Lithuania. And more European countries appear to be in the queue for Tesla's driver-assistance system.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "2f3486a4ddfc281f5515acf533f360f36cbb74bb",
-      "title": "New video captures engine ripping off cargo plane in deadly Kentucky crash",
-      "url": "https://www.bbc.com/news/videos/crmplvm3vreo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-05-20T18:27:37.000Z",
-      "summary_90w": "",
-      "raw": "As part of the ongoing investigation into the crash that killed 14 people, officials released footage showing the engine detaching during takeoff.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "0cd910e6df21eed2b3e3ce3ebfe2ee3588b40ded",
       "title": "Meta slashes 8,000 jobs as it pivots towards AI",
       "url": "https://www.npr.org/2026/05/20/nx-s1-5826917/meta-layoffs-ai-jobs",
@@ -1144,32 +1326,6 @@
       "raw": "Facebook and Instagram's parent company has been investing huge sums of money in AI, but it lags behind competitors.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "fcc1744d1a84735d5fe5bd4b9d2d7438ffdf8b0c",
-      "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
-      "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-05-20T18:14:38.000Z",
-      "summary_90w": "",
-      "raw": "If you choose to get an extra controller for your Nintendo Switch 2, you can spend a lot — and get a lot in return. Buying Nintendo’s own $89 Switch 2 Pro Controller, for instance, will net you the console’s only wireless controller with a 3.5mm headphone jack for private listening, not to mention great-feeling rumble and a slick design. It’s not perfect, but it’s otherwise the total package in terms of features. \nBut it’d be a disservice to you to call it a day there. There are several third-party models that are cheaper, yet don’t make many compromises in terms of features. I’ve spent time testing a handful of these gamepads, and there’s a small batch of models that I think will satisfy most people, with a range of styles, prices, and features.\nEvery controller I’ve included in this guide is compatible with both the Switch 2 and the original Switch (all of them can remotely wake the Switch 2), as well as PC. Each offering also includes better, longer-lasting joystick technology than you’ll get with Nintendo’s flagship controller; the Switch 2 Pro Controller’s potentiometer-based joysticks are prone to degradation over time, after all, but our picks include either Hall effect or TMR joysticks. I’ve highlighted any controller-specific perks in the blurbs below.\nThe best Switch 2 controller for most people\nEasySMX S10\nThe EasySMX S10 is our favorite Switch 2 controller for people who don’t want to spend twice as much on Nintendo’s option. It offers an excellent take on HD rumble, along with amiibo support and the ability to wake the Switch remotely. It features a swappable eight-way (circular) D-pad, and can also work with PC, Steam Deck, and mobile devices.\n\n\nScore: 8\n\nProsCons\n\n\nTMR joysticks\namiibo support\nGreat rumble\n\nClicky buttons are divisive\n\n\n\nWhere to Buy:\n\n $59.99 $49.99 at Amazon (black, for Prime members)\n $59.99 at EasySMX\n $59.99 $50.99 at Amazon (white, for Prime members)\n\nSupported platforms: Nintendo Switch 2, Nintendo Switch, PC, Steam Deck, mobile / Connectivity: Bluetooth, wired / Connector type: USB-C / Mappable rear buttons: Yes, two / App customization: No / Rumble: Yes, HD / NFC: Yes / Motion: Yes / Power: Built-in rechargeable 1,200mAh battery / Console wake-up: Yes / Native Switch 2 OS support: No\nThe EasySMX S10 is nearly as capable and comfortable as the Switch 2 Pro Controller, yet it’s $30 cheaper at $59.99. It’s full of surprises, too, including the best adaptation of Nintendo’s HD rumble that I’ve felt in a third-party controller. It’s also one of the few options that can remotely wake the Switch 2 from sleep mode via Bluetooth. Lastly, it includes amiibo support — another rare feature to find in a third-party gamepad.\nHowever, the S10 isn’t a Switch 2 Pro copycat; it’s a lot grippier, both around the grips themselves and on its stick caps. Button presses and trigger pulls feel different from most other controllers, too, yielding a softer press and shorter travel, which is likely to be the most divisive aspect of the S10. One of my favorite aspects of the S10’s design is its swappable eight-way (circular) D-pad, making diagonal attacks in Hollow Knight: Silksong considerably easier to execute than with a four-way D-pad.\nIf I could change one thing about the S10, it’d be the system-level buttons (screenshot, GameChat, and home). They’re crammed awkwardly just below the D-pad and right stick.\nHonorable mentions\nEasySMX S10 Lite\n\n\nScore: 7\n\nProsCons\n\n\nNative Switch 2 software support\nJust as comfy as the EasyMax S10\nAffordable price point\n\nNo amiibo support\nNo HD rumble\n\n\n\nWhere to Buy:\n\n $39.99 $37.9 at Walmart\n $39.99 $34 at EasySMX (code VergeS10lite)\n\nSupported platforms: Nintendo Switch 2, Nintendo Switch, PC, Steam Deck, mobile / Connectivity: Bluetooth, wired / Connector type: USB-C / Mappable rear buttons: Yes, two / App customization: No / Rumble: Yes / NFC: No / Motion: Yes / Power: Built-in rechargeable 1,000mAh battery / Console wake-up: Yes / Native Switch 2 OS support: Yes\nWhile virtually identical to the S10 above, the S10 Lite makes a few compromises to reach its lower $39.99 price point. Most notably, it lacks support for amiibo figures, and its rumble effects are a clear downgrade compared to the HD rumble in the S10. What is unusual, however, is that EasySMX’s budget-friendly gamepad offers a feature I wish were in the step-up version: native support for the Switch 2.\nConnecting the S10 Lite to a Switch 2 is as easy as connecting other controllers. But what’s unique is that it doesn’t require a strange sequence of button presses or Joy-Con removal for your console to remember it, which is not the case with the S10 and other gamepads. If you connect it once, you can wake the Switch 2 by pressing its Home button. What’s more, you can customize the two rear buttons on a per-game basis using the Switch 2’s interface, making it the only third-party controller that can utilize the OS to map commands to rear buttons. \nAt its core, the S10 Lite is an affordable controller that works like the Switch 2 Pro controller in ways that other manufacturers haven’t figured out yet. That’s great, and I love that its grips and overall shape make it just as comfortable to use as a Switch 2 Pro controller. But what it sacrificed (amiibo support, HD rumble) holds it back from being the very best option available.\nRead my EasySMX S10 Lite hands-on.\nGuliKit TT Pro\n\n\nScore: 7\n\nProsCons\n\n\nAdjustable tension TMR thumbsticks\nQuiet, floating D-pad\n\nRumble falls behind cheaper models\n\n\n\n\nWhere to Buy:\n\n $70.58 $59.99 at Amazon (TT Pro)\n $82.34 $69.98 at Amazon (TT Max)\n\nSupported platforms: Nintendo Switch 2, Nintendo Switch, PC, mobile / Connectivity: Bluetooth, wired / Connector type: USB-C / Mappable rear buttons: Yes, four / App customization: Coming in 2026 sometime / Rumble: Yes / NFC: No / Motion: Yes / Power: Built-in rechargeable battery, 950mAh / Console wake-up: Yes / Native Switch 2 OS support: No\nGuliKit’s newer TT Pro is focused on cramming in more features while keeping the price reasonable. This wireless gamepad features TMR thumbsticks in a PlayStation-style stick layout. And notably, both sticks have adjustable tension (like the Xbox Elite Series 2 controller) via a Phillips head screw that’s revealed once you pop off the stick caps. A tool is included that lets you dial in the sticks to be fast and flighty or have them resist snapping back to their original resting place. It’s great to see in a controller that costs well under $100.\nThe TT Pro has the best floating, eight-way directional pad I’ve used. I play games in the living room while my wife reads, and she can’t hear its quiet yet tactile clicks, even as I’m having a frantic battle in Hollow Knight: Silksong. Like the KingKong 3 Max, the TT Pro features adjustable trigger stops (full Hall effect analog pull or tactile click), and you can install up to four rear paddles to map buttons to. Other niceties include extra face buttons and a tool to remove them in the box (in case you want an Xbox-style face button layout while connected to a PC). It comes in a hard case with a Hyperlink Gen 2 wireless controller adapter, which makes it easier to connect the TT Pro (and myriad other controllers) to your Switch 2.\nAs for how the TT Pro differs from the step-up TT Max, here are the highlights: The Pro doesn’t include extra stick caps of varying heights, nor can its firmware switch between emulating a four- or eight-way D-pad like the Max can (the Pro only supports eight-way).\nMobapad Chitu2 HD\n\n\nScore: 7\n\nProsCons\n\n\nComfy and compact\nSilent sticks and buttons\nGood feature set for $50\n\nLoud shoulder buttons\nSystem-level buttons are tough to feel for\n\n\n\nWhere to Buy:\n\n $71.41 $44.99 at Amazon (with code 3BQ8PIMIZTEG)\n $71.41 $49.99 at Mobapad\n $71.41 $44.99 at Aknes\n\nSupported platforms: Nintendo Switch 2, Nintendo Switch, PC, mobile / Connectivity: Bluetooth, wired / Connector type: USB-C / Mappable rear buttons: Yes, two / App customization: Yes / Rumble: Yes, HD / NFC: Yes / Motion: Yes / Power: Built-in rechargeable battery, 1,000mAh / Console wake-up: Yes / Native Switch 2 OS support: No\nIt’s clear that Mobapad’s primary goal with its $71 Chitu2 HD was to convince people they were using Nintendo’s Switch 2 Pro Controller in a blind test. It crushed that goal. The curves feel identical to Nintendo’s $90 gamepad, as do the soft clicks of the customizable GL and GR rear buttons. The rumble is great, too, and its TMR sticks are nearly silent even when I deliberately try to wiggle them chaotically. It’s great to have a controller that feels so similar yet doesn’t skimp on features.\nBuild quality is stellar, with the pink color option being particularly nice. As with its whisper-quiet TMR sticks, most of the Chitu2’s other buttons and triggers don’t yield a clacky sound. However, there are some small issues that may not bother you: its floating directional pad is a little louder and mushier than the one GuliKit uses in the TT Pro, and its pair of L and R bumpers are louder to press than the clicking of the analog sticks. Another button-related issue is that the home and screenshot buttons sit nearly flush with the plastic housing, making them tough to feel for without looking.\n8BitDo Pro 3 Bluetooth Gamepad\n\n\nScore: 7\n\nProsCons\n\n\nIncludes dock and 2.4GHz dongle\nHighly customizable\nComfortable for small hands\n\nBad rumble\n\n\n\n\nWhere to Buy:\n\n $69.99 $59.99 at Amazon\n $69.99 $59.99 at 8BitDo\n $69.99 at Macy’s\n\nSupported platforms: Nintendo Switch 2, Nintendo Switch, PC, Steam Deck, mobile / Connectivity: Bluetooth, 2.4GHz, wired / Connector type: USB-C / Mappable rear buttons: Yes, two / App customization: Yes / Rumble: Yes / NFC: No / Motion: Yes / Power: Built-in rechargeable 1,000mAh battery / Console wake-up: Yes / Native Switch 2 OS support: No\n8BitDo’s Pro 3 is a great yet pricey Switch 2 Pro alternative with a PlayStation-style stick layout. At $69.99, it’s not as affordable (nor as value-packed) as the top contenders. However, the Pro 3 offers a lot of customization, some being cosmetic, while other aspects can impact gameplay.\nIt has a lot going for it, with TMR joysticks, two back paddles, and a total of three shoulder buttons per side thanks to new custom M buttons. Its analog stick caps can be popped off in favor of glossy arcade stick-style nubs, which were my preferred choice in fighting games (plus, they just look cool). Its ABXY buttons can be suctioned off with an included tool to swap the layout as needed, and for visual flair, each controller includes colored buttons to evoke a retro Nintendo console. Also, it has trigger locks, letting you set triggers to have a short, clicky pull or the default travel distance.\nHowever, I’d skip the Pro 3 if you want good rumble feedback. It’s pretty lousy on that front, to the point that I preferred to turn off rumble entirely in games. If you’re considering the similarly priced Ultimate 2 Bluetooth, it also has poor rumble, but it’s a great controller otherwise that offers similar features with an Xbox-style stick layout.\nRead my full 8BitDo Pro 3 review.\nUpdate, May 20th: Adjusted pricing / availability, and added a related links for our impressions of Dbrand’s Joy-Lock grips for the Joy-Con 2, as well as for relevant news on the Switch 2 price increase coming in September.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "301a1ff64c2049d96bb2fd065a18ff83358faec7",
-      "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
-      "url": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-05-20T18:14:04.000Z",
-      "summary_90w": "",
-      "raw": "Airbnb will soon let you book luggage storage and car rental services on its app.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1199,32 +1355,6 @@
       ]
     },
     {
-      "id": "0eaa2eeaec327fc424b0048103f4c28658b48a77",
-      "title": "Anthropic and OpenAI take their beef to the midterm elections",
-      "url": "https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-05-20T17:50:00.000Z",
-      "summary_90w": "",
-      "raw": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the car crashes piling up on a daily basis at the Washington-based intersection of technology and politics. If you're not a subscriber, sign up for our fine editorial enterprise today, especially as we process the end of Musk v. Altman. And if you have any tips about impending or hidden Washington car crashes, send 'em over to tina.nguyen+tips@theverge.com. \nA quick note: Regulator will be on hiatus for the next two weeks while I take a much-needed vacation. Unfortunately, this means I'll be missing the public release of Pope Leo XIV's encyclical on humanity in the age …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "9880d0c2c26ab548979bcd19c36ecbb9b52681e1",
-      "title": "Vibe coding is coming to your phone",
-      "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-05-20T17:40:00.000Z",
-      "summary_90w": "",
-      "raw": "Coming to your homescreen soon: your own app. | Photo: Allison Johnson / The Verge\t\n\n\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't strictly true - I'm still waiting for that one perfect grocery list app. Still, apps shaped the modern smartphone into what it is today. We spend all day, every day inside of apps - scrolling, listening, and tapping until we find what we want. But your next favorite app might just be one that you made yourself.\nIf you weren't familiar with the concept of \"vibe coding\" at the beginning of 2026, you probably are now. As AI coding tools have become bet …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "126b2c5c25ef937c94dc66cd0141469ade2ec365",
       "title": "Bipartisan home affordability bill passes the House",
       "url": "https://www.npr.org/2026/05/20/nx-s1-5827166/house-passes-housing-affordability-bill",
@@ -1238,19 +1368,6 @@
       ]
     },
     {
-      "id": "4e27552c6ea245bb492b7cd3fac2252e8b8c2bca",
-      "title": "Global EV market goes K-shaped as the US gets left behind",
-      "url": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-05-20T17:34:00.000Z",
-      "summary_90w": "",
-      "raw": "EV sales have surged worldwide in every region but the U.S., posing risks for legacy and startup automakers.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "fcbd42b66802657ec153f6879465492c08c65e06",
       "title": "Final two bodies of missing Italians recovered from inside Maldives cave",
       "url": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss",
@@ -1261,32 +1378,6 @@
       "raw": "The two were among five Italian nationals who drowned in last week's scuba diving accident in the Maldives.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "8192f2affb4d339c27789a9a4ea2d313dbd1a1d2",
-      "title": "Volvo is trying to put its EV stumbles in the rearview",
-      "url": "https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-05-20T17:30:56.000Z",
-      "summary_90w": "",
-      "raw": "Volvo once had ambitions to fully exit the gas car business. Now it's trying to keep its tenuous foothold in the EV market. \nIt's not an understatement to say that Volvo's EV journey has been a bumpy one. The compact EX40 has been a consistent winner, but the Swedish brand's other EVs have been plagued with problems. The EX90 was supposed to be a bold statement for the future, but persistent software bugs have forced Volvo into an expensive hardware replacement. The tiny EX30 faired no better, with tariffs upending the rollout of the brand's first mass-market affordable EV, eventually leading to its discontinuation in the US. \nBut now with …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "bab80d79e79091fa39f7ec2172e8a01820b32453",
-      "title": "OpenAI barrels toward IPO that may happen in September",
-      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-05-20T17:24:24.000Z",
-      "summary_90w": "",
-      "raw": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1459,32 +1550,6 @@
       ]
     },
     {
-      "id": "9f4e98b554e26b6b30df7b06537cd8acfaf989a6",
-      "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
-      "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-05-20T14:37:46.000Z",
-      "summary_90w": "",
-      "raw": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "96b020dee64c6bd79d0386f29f95cde3a36b442f",
-      "title": "US puts pressure on Palestinian leaders to withdraw bid for UN vice-presidency role",
-      "url": "https://www.theguardian.com/world/2026/may/20/us-palestinian-authority-united-nations-vice-presidency",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-05-20T14:24:44.000Z",
-      "summary_90w": "",
-      "raw": "Jerusalem embassy told to issue protest to Palestinian Authority leaders, warning ‘consequences will follow’ if they do not comply\nThe US has ordered its Jerusalem embassy to press the Palestinian leadership into dropping a bid for a senior position at the UN general assembly, anxious that the role could allow Palestinians to chair high-profile debates on the Middle East.\nA 19 May state department cable seen by the Guardian instructed the US embassy in Jerusalem to issue a demarche (a formal protest) to the leaders of the Palestinian Authority. It put pressure on them to withdraw the bid for a role as vice-president of the general assembly by 22 May, warning that “consequences will follow” if they failed to comply.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f4bc9a34bd199b4fbae931d32bfaba994783e094",
       "title": "Same but different: how Xi and China welcomed Trump and Putin",
       "url": "https://www.theguardian.com/world/2026/may/20/how-xi-jinping-china-welcomed-donald-trump-vladimir-putin",
@@ -1506,32 +1571,6 @@
       "published": "2026-05-20T12:28:43.000Z",
       "summary_90w": "",
       "raw": "Dr Peter Stafford’s wife and four children are also being monitored for symptoms amid Ebola outbreak in Congo\nAn American doctor who contracted Ebola in the Democratic Republic of the Congo has been flown to Germany for treatment, along with his wife and four children, as the World Health Organization warned of the “scale and speed” of the outbreak.\nAuthorities have reported at least 134 suspected deaths and more than 500 cases of the hemorrhagic Bundibugyo virus, which has no approved treatments or vaccines. The outbreak, which has spread into urban areas, has been declared a public health emergency requiring international response.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3768358717aa995e1996a493d2bee2b1273bf46e",
-      "title": "Xi basks in spotlight as he hosts Putin days after Trump",
-      "url": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-05-20T11:42:44.000Z",
-      "summary_90w": "",
-      "raw": "Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1cbc84edc4c3b69de29a695e00c1ba6d71903b62",
-      "title": "Totó la Momposina, vocalist and Colombian music legend, dies aged 85",
-      "url": "https://www.theguardian.com/music/2026/may/20/toto-la-momposina-vocalist-and-colombian-music-legend-dies-aged-85",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-05-20T11:39:49.000Z",
-      "summary_90w": "",
-      "raw": "The singer was one of her country’s most’s popular musical exports, and travelled the world with an evangelistic vision for spreading cumbia music\nTotó la Momposina, one of the most celebrated musicians in Colombian history, has died aged 85.\nHer three children announced her death from a heart attack on Instagram. “Totó was a woman who, with her voice and extraordinary dedication, carried the culture and memory of the Colombian people to the far corners of the world,” they added.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1641,19 +1680,6 @@
       ]
     },
     {
-      "id": "1596ac09a8c07678a3307d1076983d843c34372b",
-      "title": "Trump endorses Paxton in Texas, gambling on a challenger with baggage in a crucial race",
-      "url": "https://www.bbc.com/news/articles/cy72v488g4go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-05-20T00:03:04.000Z",
-      "summary_90w": "",
-      "raw": "Trump's move dismayed Senate Republicans, many of whom have served with the Texan for decades.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "6c606036c670493a12217024c625f39d45b7370a",
       "title": "Google to release first smart glasses since Google Glass flop",
       "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
@@ -1758,19 +1784,6 @@
       ]
     },
     {
-      "id": "7c050da8a4011ce91deceb671c67fa2f014d7362",
-      "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
-      "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-05-19T10:58:23.000Z",
-      "summary_90w": "",
-      "raw": "Nadia Marcinko is relatively unknown but may soon be called before US legislators.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "83a35b21a70ee8f0c52765b5a3e7a5118d8c206f",
       "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
       "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
@@ -1820,6 +1833,19 @@
       "raw": "Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "1086a2a661eee4f85fde5c1a019cb369d3047125",
+      "title": "The real-life story of the original rebel girls of football",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wnjw?at_mid=6iX2NFdM9d&at_campaign=The_Corinthians_We_Were_the_Champions&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002wnjw&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Corinthians_We_Were_the_Champions&at_bbc_team=BBC",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-19T05:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The incredible real-life story of the original rebel girls of football – the Corinthians.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1953,6 +1979,19 @@
       ]
     },
     {
+      "id": "69e695ca66a810c461ff93dfdc4b6473ac35a4f5",
+      "title": "Inside the secretive and lucrative world of orchid breeding",
+      "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-05-14T23:03:16.000Z",
+      "summary_90w": "",
+      "raw": "It can take a decade to bring a new orchid to market, so breeders keep their hi-tech processes secret.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
       "id": "62ca47deda4a92ba6aea2e68d4710e8bbe4c8f85",
       "title": "How Trump may be changing his stance on AI regulation",
       "url": "https://www.npr.org/2026/05/14/nx-s1-5818490/how-trump-may-be-changing-his-stance-on-ai-regulation",
@@ -1963,6 +2002,19 @@
       "raw": "The Trump administration's approach on AI so far has been to prioritize innovation over regulation. But recently, there's been a shift in rhetoric.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "aae934fe89af2b600d2b58c011800e6eb51ffb77",
+      "title": "Alex Batty vanished at 11. Now he tells his story",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002w1yy?at_mid=7SCbIJCshY&at_campaign=Kidnapped_by_My_Mum&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w1yy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Kidnapped_by_My_Mum&at_bbc_team=BBC&at_creation=news",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-13T05:00:00.000Z",
+      "summary_90w": "",
+      "raw": "At 11 years old, Alex thought he was going on holiday. Instead, he vanished for six years.",
+      "topics": [
+        "World"
       ]
     },
     {
