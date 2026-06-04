@@ -1,42 +1,549 @@
 {
-  "version": "1780550462781",
-  "generatedAt": "2026-06-04T05:21:02.781Z",
+  "version": "1780564274907",
+  "generatedAt": "2026-06-04T09:11:14.907Z",
   "items": [
     {
+      "id": "c7f67eecd9e7a7d35eb9ca1264e880cce2ca3e82",
+      "title": "A handful of American households pay for AI. Is the future free — or a subscription?",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5791661/chatgpt-gemini-claude-subscription-revenue-openai",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-06-04T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Just 3% of U.S. households pay for AI for personal use. Sign ups are growing — even though Americans have subscription fatigue.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "be50d1be85f6bd8381d6814e04c8aca5542c9047",
+      "title": "How cellphone carriers prepare for hurricane season with AI, drones and 'cows'",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5830291/2026-hurricane-season-cell-phones",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-06-04T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Hurricane season is expected to be milder than usual this year. But that's not stopping cell phone companies from pulling out all the stops.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "725928bcd00fe48fe80f0bd6efb5dacfdd3b792d",
+      "title": "How having zero points in tennis — or 'love' — came to sound so sweet",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5843257/tennis-love-french-open",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-06-04T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "There are theories that \"love\" in the tennis context has French, English or Dutch origins. But like many words, historians and language experts say it's hard to pin down the \"right\" answer.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "883aafbb5d1c87b62cb4808c27bdb530683f044b",
+      "title": "In photos: a preview of the Obama Presidential Center",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/06/04/g-s1-125899/in-photos-a-preview-of-the-obama-presidential-center",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-06-04T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The Obama Presidential Center opens later this month in Chicago. We take a look inside.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "539edd8a0600d13289ef52bb0a275b79860fe998",
+      "title": "More than 1 in 3 World Cup matches face dangerous heat risk, NPR analysis finds",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5742519/world-cup-fifa-hot-weather-risk-climate-miami",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-06-04T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Dangerously hot, humid weather is likely at many of the 2026 World Cup soccer venues. We crunched the numbers to see which matches are most at risk.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "306a9d1298762b572849173499e4dc0c5a187bc8",
+      "title": "National Guard has done little to reduce violent crime in D.C., a new study finds",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5845073/national-guard-washington-dc-crime",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-06-04T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "A new study has found that the National Guard's presence in Washington, D.C. had no effect on violent crime in the city. The Guard has been deployed since last August as part of a federal task force to fight crime, and their numbers are set to double in the coming weeks.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "db2dfe87c074312b95c87411c2e57dd69bcc91ba",
+      "title": "Some students with disabilities rely on screens at school. What happens if they're banned?",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5812850/screens-schools-students-with-disabilities",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-06-04T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Some students with disabilities rely on assistive technology to learn, and they worry it could be swept up in the movement to get screens out of schools.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f5d689a02e99a53cd89dedc9ffeb9ba854b8a730",
+      "title": "The $13 billion carrier with a plumbing problem is home. Now come the costly repairs",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5844715/uss-ford-plumbing-repairs",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-06-04T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "With 4,600 sailors finally home, USS Gerald R. Ford will finally receive some much needed repairs and an upgrade to its beleaguered sewage system.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "01782e2cf8b98e14368e6d4cd110ddf4ca3b3531",
+      "title": "Avoid 'reactive' police reforms after Nowak murder, senior black officer warns",
+      "url": "https://www.bbc.com/news/articles/cx21wvl7yjyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T08:58:13.000Z",
+      "summary_90w": "",
+      "raw": "The head of the National Black Police Association says proposed changes to racism guidance are \"not well thought-out\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3ebbcbee270e301e7da0717e9995c476d912399c",
+      "title": "Middle East crisis live: Israel to continue ground operation in southern Lebanon despite agreed ceasefire",
+      "url": "https://www.theguardian.com/world/live/2026/jun/04/middle-east-crisis-israel-lebanon-hezbolllah-us-ceasefire-southern-military-attacks-continue-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-06-04T08:48:42.000Z",
+      "summary_90w": "",
+      "raw": "The country’s defence minister said the IDF will not withdraw from southern Lebanon and will not allow the ‘return of the population’\n\nIsrael and Lebanon agree to renew ceasefire as Trump seeks to overcome barriers to Iran deal\n\nIsrael Katz said the US-brokered ceasefire agreement between Israel and Lebanon was a “great achievement in Lebanon, on the ground and also on the diplomatic level”.\n“We promised security to the residents of the north and we delivered,” the Israeli defence minister said in a statement, according to the Times of Israel.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1aa1361ebeb85d0a35e707cdea4a561de6ddd3bd",
+      "title": "Missing Mandelson messages from minister Darren Jones revealed",
+      "url": "https://www.bbc.com/news/articles/c1w2rvn8nqyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T08:46:33.000Z",
+      "summary_90w": "",
+      "raw": "Messages were expected to appear in the batch of Mandelson files, published earlier this week, but did not.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "23327805bb204e7269a5197f9520d40d1af003b0",
+      "title": "Uneasy neighbours: Can three World Cup hosts put differences aside for a month?",
+      "url": "https://www.bbc.com/news/articles/cvgz2081y8ko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T08:46:23.000Z",
+      "summary_90w": "",
+      "raw": "The tournament comes after a period of fractious relations between the US, Canada and Mexico.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7d2af9f54ad51dc7e899f1eccf43002f05950e74",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5842922/morning-news-brief",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-06-04T08:42:19.000Z",
+      "summary_90w": "",
+      "raw": "Some Republicans' growing frustrations with Trump is beginning to show, Trump and Netanyahu have a tense call over Israel's actions in Lebanon, Russia's economic forum opens.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f07a520f35d37397f1ec9b978df4b4b7bd760863",
+      "title": "Bob Harris to step down from Radio 2 after 56 years on air",
+      "url": "https://www.bbc.com/news/articles/ckgpke71kpko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T08:40:59.000Z",
+      "summary_90w": "",
+      "raw": "The broadcaster, who is being treated for cancer, called it \"the hardest decision\" he'd ever made.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "61e76fda4b52b4036f689f8791b413bad9036b66",
+      "title": "Who is Elon Musk and what is his net worth?",
+      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-06-04T08:35:54.000Z",
+      "summary_90w": "",
+      "raw": "The boss of X, Tesla and SpaceX is the world's richest person and has used his platform to make his views known on a vast array of topics.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "83951554bc69baf6b6e142ed9a598e9faca15820",
+      "title": "UK to challenge EU over ‘devastating’ plans to almost halve tariff-free steel import quotas",
+      "url": "https://www.theguardian.com/business/2026/jun/04/uk-challenge-eu--new-tariff-free-steel-import-quotas",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-06-04T08:27:42.000Z",
+      "summary_90w": "",
+      "raw": "Business secretary to meet European counterpart on Friday as EU industry leaders worry about retaliatory measures by UK\n\nBusiness live – latest updates\n\nThe UK business secretary, Peter Kyle, is to raise concerns about EU plans to dramatically reduce tariff-free imports of British steel with its trade commissioner, Maroš Šefčovič, in Brussels on Friday.\nThe UK steel industry has previously warned of “devastating” consequences from the new quota system being planned by the EU, which will cut overall tariff-free imports from non-EU countries by 47% on 2024 levels from 1 July.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "fa9d73a851ba37f1fb3debb0604a47bb2b37ef6e",
+      "title": "Man City consider legal action over Real candidate's promise to sign Haaland",
+      "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T08:27:35.000Z",
+      "summary_90w": "",
+      "raw": "After a candidate in Real Madrid's presidential election unveils an Erling Haaland shirt on live TV, Manchester City dismiss the suggestion their striker will move to Spain.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1fbe722d307f3f08bc4dbac94e17df197d3de97c",
+      "title": "Two charged after clashes at Henry Nowak protests",
+      "url": "https://www.bbc.com/news/articles/cvgz2xq7ykvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T08:14:59.000Z",
+      "summary_90w": "",
+      "raw": "Disorder broke out in Southampton on Tuesday in the wake of the murder of Henry Nowak.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "56cbf7b4321505c35e1f1fb2daf783c7a8d24811",
+      "title": "Heavy gunfire in Somali capital as row over election delay escalates",
+      "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-06-04T08:05:33.000Z",
+      "summary_90w": "",
+      "raw": "The opposition has called for protests after the president's term in office was extended by a year.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f5be3421e934fcb5f6f2a6389dafd94c618775cc",
+      "title": "Labor’s NDIS overhaul faces delay as Coalition and Greens consider teaming up to slow bill’s passage",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/04/labors-ndis-overhaul-faces-delay-as-coalition-and-greens-consider-teaming-up-to-slow-bills-passage",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-06-04T08:01:08.000Z",
+      "summary_90w": "",
+      "raw": "Government hopes to rush NDIS and tax changes through parliament but opposition and crossbench push for more scrutiny\n\nGet our breaking news email, free app or daily news podcast\n\nThe Greens want Labor to halt its plans to rush NDIS cuts through the Senate later this month, urging a longer inquiry process as the government seeks the minor party’s support for its contentious tax and housing changes.\nIt opens the possibility of the Greens and Coalition teaming up in parliament to support extending separate Senate inquiries into both the changes to the national disability insurance scheme and tax proposals, thereby delaying Labor’s hopes of passing those bills before the end of June.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "7291c2a4a30bc6ceca9cfe6fe1624899f1b8a878",
-      "title": "Australia politics live: PM compares Abbott to ‘resurrected’ dinosaur in Jurassic Park; neo-Nazi group’s injunction attempt dismissed",
+      "title": "Husic says Labor pile-on after Aukus criticism ‘not healthy’ – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/04/australia-politics-live-capital-gains-tax-property-prices-economy-budget-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-senate-estimates-question-time-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-06-04T05:03:58.000Z",
+      "published": "2026-06-04T07:51:33.000Z",
       "summary_90w": "",
-      "raw": "Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nJim Chalmers’ budget bill will face debate and a vote in the House today, and he poses the legislation as a “really simple choice” for the Coalition.\nAs we know, the government has set up the bill as a wedge for the opposition, by including both tax changes to CGT and negative gearing and tax cuts for workers.\nReally simple choice in the parliament today: Labor lower taxes on workers, a fair go for first home buyers. The Coalition opposing both of those things.\nYet another beat-up about the sensible, commonsense tax reforms at the core of the budget. Not unusual, as I said, for definitions to be settled this way, and the parliament can disallow them if they want.\n Continue reading...",
+      "raw": "This blog is now closed\n\nGet our breaking news email, free app or daily news podcast\n\nJim Chalmers’ budget bill will face debate and a vote in the House today, and he poses the legislation as a “really simple choice” for the Coalition.\nAs we know, the government has set up the bill as a wedge for the opposition, by including both tax changes to CGT and negative gearing and tax cuts for workers.\nReally simple choice in the parliament today: Labor lower taxes on workers, a fair go for first home buyers. The Coalition opposing both of those things.\nYet another beat-up about the sensible, commonsense tax reforms at the core of the budget. Not unusual, as I said, for definitions to be settled this way, and the parliament can disallow them if they want.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a4f58585235b39fd2015156a5bffdb8fa358386e",
+      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T07:49:33.000Z",
+      "summary_90w": "",
+      "raw": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "51b8ea3bd24cab3dbcc61c482eaac2c573280191",
+      "title": "Royal Navy helicopter crash investigations continue",
+      "url": "https://www.bbc.com/news/articles/cpvp9e14g7no?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T07:47:47.000Z",
+      "summary_90w": "",
+      "raw": "There are floral tributes at the scene where three crew members died on Wednesday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f0eae91b77f1949f7e46879d6fdff7799d80eaf5",
+      "title": "Israel and Lebanon agree new ceasefire as Trump scrambles to end Iran war",
+      "url": "https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-06-04T07:28:55.000Z",
+      "summary_90w": "",
+      "raw": "Despite deal, which is dependent on Hezbollah ceasing fire, Israel carried out multiple drone strikes in southern Lebanon on Thursday morning\nIsrael and Lebanon have agreed to implement a ceasefire to end hostilities, the Trump administration has announced, as the US looks to overcome one of the largest barriers to reaching a broader deal to end the war with Iran.\nThe Israel-Lebanon ceasefire is contingent on a complete cessation of fire from the Iran-aligned Hezbollah armed group and the evacuation of all its fighters from the area south of the Litani River in south Lebanon, a statement from the US, Lebanon and Israel, released by the US state department, said after negotiations in Washington.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c43886b0a12cf84b9a63f6f55caa73d90db68081",
+      "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
+      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T07:23:41.000Z",
+      "summary_90w": "",
+      "raw": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ffd6bdcb07744a35ac6e9f8ad2a1ba28c71a97ce",
+      "title": "SpaceX says it's worth $1.75tn as it targets largest stock market debut",
+      "url": "https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T07:10:10.000Z",
+      "summary_90w": "",
+      "raw": "Elon Musk’s space exploration company set a target share price for buyers earlier than expected.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "82f07763f0a9aa35ee15203d4b3b47fda275de29",
+      "title": "Shokz upgraded its open earbuds with better sound and a lighter design",
+      "url": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-06-04T07:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The OpenDots 2 are designed to be more comfortable than traditional wireless earbuds that sit inside the ear. | Image: Shokz\t\n\nShokz has announced two new versions of its open earbuds. Like the original OpenDots One that launched in May 2025, the new Shokz OpenDots 2 and OpenDots Air are both designed to be worn clipped to the back of your ear with their drivers positioned to project sound toward your ear canals without blocking them. It's a design that potentially offers more comfort and environmental awareness than traditional wireless earbuds, while the two new versions cater to specific needs.\nThe OpenDots Air are an entry-level version available in black or daybreak purple color options for $129.95 which is over $70 cheaper than the original. They feature Shok …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e5e54f2b41e9642851a4eb91d19f410447a6a593",
+      "title": "Dozens of vulnerable children were deemed not at risk by Victoria’s child protection system. They are now dead",
+      "url": "https://www.theguardian.com/society/2026/jun/04/victoria-child-protection-system-vulnerable-children-deemed-not-at-risk-now-dead-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-06-04T06:39:17.000Z",
+      "summary_90w": "",
+      "raw": "The state’s commissioner for children and young people raised the alarm about cycles of ineffective referrals to voluntary services and closed reports in 35 cases of children who died after interactions with the system\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\n\nVictoria’s most at-risk children are falling through the cracks of a child protection system straining under increased demand and funding shortfalls, new reports show, as advocates warn of “stunning” gaps in data and lack of carer support.\nThe state’s commissioner for children and young people has also raised the alarm about cycles of ineffective referrals to voluntary services, and closed reports in 35 cases of children who died after interactions with the system.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "05ec1bccf842989f5ef44e4030590aab7b929fb4",
+      "title": "Police can use force to move body parts during strip-searches, NSW argues in appeal court",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/04/nsw-police-strip-search-powers-court-appeal-using-force-to-move-body-parts",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-06-04T06:02:37.000Z",
+      "summary_90w": "",
+      "raw": "NSW police appeal after comprehensive class action loss in 2025 when force admitted music festival search of Raya Meredith was unlawful and unjustified\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe state of New South Wales is arguing that police have the power to forcibly move body parts when conducting a strip-search, as it seeks to appeal a landmark class action ruling.\nThursday was the first day of a two-day hearing where NSW is seeking leave to appeal after losing a class action brought by Slater and Gordon lawyers and the Redfern Legal Centre over unlawful strip-searches conducted at music festivals between 2018 and 2022.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "016ddd98bb19c47bc8fc4fb230a70628d77e2123",
+      "title": "Plans for a Trump family-linked resort spark protests in Albania",
+      "url": "https://www.npr.org/2026/06/04/g-s1-125926/albania-protests-trump-family-linked-resort",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-06-04T06:00:17.000Z",
+      "summary_90w": "",
+      "raw": "A coastal development project linked to Jared Kushner is facing resistance in Albania. The government says the project will transform the nation, but environmental campaigners and critics oppose it.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "201cdbcc71ac3a0dd8ff5a310faf6c7092fe59da",
+      "title": "Video vault and Leeds litter picking - inside the mind of Bielsa",
+      "url": "https://www.bbc.com/sport/football/articles/c5ye2m00y5ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T05:47:06.000Z",
+      "summary_90w": "",
+      "raw": "It is possible that nobody alive today has watched more football than Marcelo Bielsa, the former Leeds United boss who will lead Uruguay at the World Cup.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d945ea95bcfe7f29a84cb16e4a5fbf21c1e2e222",
+      "title": "Robodogs and Black Hawks - How one Mexican city is preparing for the World Cup",
+      "url": "https://www.bbc.com/news/videos/c4g4n4nzl2yo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T05:42:34.000Z",
+      "summary_90w": "",
+      "raw": "BBC’s Will Grant got a first-hand look at security preparations in Monterrey, as the city gets ready to host four matches.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "fa514ff2c3e438796277395dcf3bb5b0047caed2",
+      "title": "China bans four New Zealand MPs over Taiwan visit",
+      "url": "https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-06-04T05:37:14.000Z",
+      "summary_90w": "",
+      "raw": "Upon their return from Taiwan last month, the lawmakers were told that China had banned them for a year.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a01104ca5ebabc8ca28ed054c337b95812729244",
+      "title": "This cosmic map of magnetic fields could help illuminate one of the universe’s most mysterious forces",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/04/space-universe-science-cosmic-map-of-magnetic-fields",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-06-04T05:30:56.000Z",
+      "summary_90w": "",
+      "raw": "Light from nearly 4m galaxies measured as it twisted and travelled through intergalactic space\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA cosmic map of magnetic fields – the largest ever produced – could help scientists delve into one of the major and most mysterious forces in the universe.\nA global team led by Australia’s national science agency, the CSIRO charted the magnetic fields by measuring light from nearly 4m galaxies as it twisted and travelled through intergalactic space.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c761044090fb7f38775dd617c024bbfe961969b1",
+      "title": "Watch: New footage shows moment Iranian drone struck Kuwait airport",
+      "url": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-06-04T05:30:28.000Z",
+      "summary_90w": "",
+      "raw": "One person was killed and more than 60 injured in the Iranian drone strike on Wednesday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e525232d169756a77ea23ba8879482093d1efd4f",
+      "title": "'My daughter didn't know her own name': Scooter crash in India left student with brain injuries",
+      "url": "https://www.bbc.com/news/articles/c4g91vyldyno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T05:28:44.000Z",
+      "summary_90w": "",
+      "raw": "Olivia, 21, still has no recollection of the crash that left her in a coma in a Goa hospital.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6499aa3f584da483f851c3046f64036c607c9bfe",
+      "title": "Inspired by Modric and a shift inside: The evolution of Lamine Yamal",
+      "url": "https://www.bbc.com/sport/football/articles/cy82mpzg3n4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T05:27:39.000Z",
+      "summary_90w": "",
+      "raw": "Lamine Yamal is a key figure in Spain's World Cup squad, but why is the 18-year-old quick to dismiss Messi comparisons?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "22e8d312793fef4abb5815056ccd1d0518dee254",
+      "title": "Miniature model maker recreates Glasgow landmark destroyed by fire",
+      "url": "https://www.bbc.com/news/articles/cj0p5emlj2no?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T05:15:12.000Z",
+      "summary_90w": "",
+      "raw": "The recycled cardboard model depicts Union Corner's iconic dome and roof signs.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bf71965d5d82721257ad4a5938fc627fcadf5893",
+      "title": "My husband has been missing on Ben Nevis since February",
+      "url": "https://www.bbc.com/news/articles/ce9pln50krjo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T05:14:14.000Z",
+      "summary_90w": "",
+      "raw": "Brian McGillicuddy, from New York, was reported missing almost four months ago during a trip to climb the UK's highest peak.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "814c94e37bc012874a817c845c393b132ffc0f93",
+      "title": "Ukraine-Russia tension hangs over French Open semi-finals",
+      "url": "https://www.bbc.com/sport/tennis/articles/cq5pvj280eqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T05:12:21.000Z",
+      "summary_90w": "",
+      "raw": "Russia's war in Ukraine will provide an unavoidable backdrop to the French Open women's semi-finals - and possibly the final.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "dd3abd718aaf5dcb596362faf976f27a481d4460",
+      "title": "Sikh leaders call for harmony in wake of Nowak unrest",
+      "url": "https://www.bbc.com/news/articles/czr254yg1mko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-04T05:04:55.000Z",
+      "summary_90w": "",
+      "raw": "Religious leaders have united to condemn violence following protests over the murder of Henry Nowak.",
       "topics": [
         "World"
       ]
     },
     {
       "id": "2b71ed03747556dbd8aca81e6d8ff0d4b1466056",
-      "title": "'I left a children's home – and was embraced by love'",
+      "title": "I left a children's home – and was embraced by love",
       "url": "https://www.bbc.com/news/articles/c3d2grdep8mo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-06-04T04:55:43.000Z",
       "summary_90w": "",
       "raw": "How a new scheme for young people leaving care is tackling what was once a cliff-edge for this vulnerable group.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b6b9df9b1d90da0adb28c408687b781c424897b9",
-      "title": "‘I’m really proud to be Brittany Higgins’: former Liberal staffer reveals why she didn’t change her name",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/04/brittany-higgins-documentary-silenced-sydney-film-festival-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-06-04T04:48:30.000Z",
-      "summary_90w": "",
-      "raw": "Silenced, a documentary about violence against women, opened the Sydney film festival on Wednesday\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nBrittany Higgins says she decided not to change her name when she got married in 2024 because she is proud to be Brittany Higgins, the former Liberal staffer has revealed in Silenced, a documentary about violence against women which opened the Sydney Film Festival.\n“When I got married I had this opportunity to change my name but I didn’t because I’m really proud to be Brittany Higgins,” she said in a highly emotional interview in the film. “Hopefully, this is just a footnote in my story and it’s not the headliner any more.”\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -107,19 +614,6 @@
       ]
     },
     {
-      "id": "c43886b0a12cf84b9a63f6f55caa73d90db68081",
-      "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
-      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-04T03:36:10.000Z",
-      "summary_90w": "",
-      "raw": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "86f3c5120d280f7604b5996dbfe71d487e28f657",
       "title": "Netanayahu’s been ‘a great partner’, says Trump – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
@@ -128,58 +622,6 @@
       "published": "2026-06-04T03:24:31.000Z",
       "summary_90w": "",
       "raw": "This blog is now closed. See our full report on the latest Middle East news\nThe Kuwaiti defence ministry said it intercepted 13 ballistic missiles and 17 drones launched by Iran today.\nA drone and missile attack on Kuwait’s international airport killed one person, which Kuwaiti authorities identified as an Indian national. It is the first reported death in a Gulf state since the US and Iran agreed to a ceasefire in April.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f0eae91b77f1949f7e46879d6fdff7799d80eaf5",
-      "title": "Israel and Lebanon agree to renew ceasefire as Trump seeks to overcome barriers to Iran deal",
-      "url": "https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-06-04T03:22:55.000Z",
-      "summary_90w": "",
-      "raw": "The US said the ceasefire was contingent on a complete cessation of fire from the Iran-aligned Hezbollah militia\nIsrael and Lebanon have agreed to implement a ceasefire to end hostilities, the Trump administration has announced, as the US looks to overcome one of the largest barriers to reaching a broader deal to end the war with Iran.\nThe Israel-Lebanon ceasefire is contingent on a complete cessation of fire from the Iran-aligned Hezbollah militia and the evacuation of all its operatives from the country’s south, a joint statement released by the US state department said after negotiations in Washington.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "49ad130ec42ea67e257f9f8d014b1ba18e833254",
-      "title": "Court fight over Bruce Lehrmann’s diary that allegedly contains eight pages of classified information",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/04/bruce-lehrmann-diary-court-case-declassification-legal-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-06-04T03:08:44.000Z",
-      "summary_90w": "",
-      "raw": "Commonwealth’s barrister tells federal court they will return diary to former political staffer but it must be declassified first\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe contents of a diary written by Bruce Lehrmann that was seized from his home have to be declassified by the federal government to be returned to him, a court has been told.\nThe ex-political staffer is suing the federal special minister of state, Don Farrell, and the national anti-corruption commissioner, Paul Brereton, seeking legal funding to fight allegations of corruption.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fa514ff2c3e438796277395dcf3bb5b0047caed2",
-      "title": "China bans four New Zealand MPs over Taiwan visit",
-      "url": "https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-04T02:54:21.000Z",
-      "summary_90w": "",
-      "raw": "Upon their return from Taiwan last month, the lawmakers were told that China had banned them for a year.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ffd6bdcb07744a35ac6e9f8ad2a1ba28c71a97ce",
-      "title": "SpaceX says it’s worth $1.75tn as it nears stock market debut",
-      "url": "https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-04T02:05:51.000Z",
-      "summary_90w": "",
-      "raw": "Elon Musk’s space exploration company set a target price for buyers earlier than expected.",
       "topics": [
         "World"
       ]
@@ -198,23 +640,10 @@
       ]
     },
     {
-      "id": "5d8b8640bf27baabfef47df966effedccf0bf403",
-      "title": "The Papers: 'Top cop sorry' and 'Prince of pubs'",
-      "url": "https://www.bbc.com/news/articles/cpvp9x48jv7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-04T01:04:53.000Z",
-      "summary_90w": "",
-      "raw": "The fallout from the Henry Nowak case and the Prince of Wales' pledge to support pubs dominate Thursday's papers.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "c6d0b58370f93ae2b72014d6cc46e829169f0408",
       "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
       "url": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-06-04T01:02:24.000Z",
       "summary_90w": "",
@@ -247,19 +676,6 @@
       "raw": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "a4f58585235b39fd2015156a5bffdb8fa358386e",
-      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-04T00:16:44.000Z",
-      "summary_90w": "",
-      "raw": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -303,13 +719,13 @@
     },
     {
       "id": "4dcc3a558a7ebcc4cc26d47a74411bda49b6bc2d",
-      "title": "Breakthrough ovarian cancer drug offers patients more time and better quality of life",
+      "title": "New NHS drug offers ovarian cancer patients more time and better quality of life",
       "url": "https://www.bbc.com/news/articles/ce8p57y35lzo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-06-03T23:34:59.000Z",
       "summary_90w": "",
-      "raw": "Women taking the drug tell the BBC it has given them their lives back.",
+      "raw": "Women taking the drug, which is kinder on the body, tell the BBC it has given them their lives back.",
       "topics": [
         "World"
       ]
@@ -367,19 +783,6 @@
       ]
     },
     {
-      "id": "3ce3e71ee37df62f0ca0cd6efac7d8d6e2c236a2",
-      "title": "Man City have opening Anderson bid rejected by Forest",
-      "url": "https://www.bbc.com/sport/football/articles/c042w3w601yo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-03T22:41:17.000Z",
-      "summary_90w": "",
-      "raw": "Manchester City have an opening transfer bid for midfielder Elliot Anderson rejected by Nottingham Forest.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "22ffdd1839b8c75a395662ef54c32e5cf79b4129",
       "title": "Grab what you can while you can: The new reality in the South China Sea ",
       "url": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
@@ -388,19 +791,6 @@
       "published": "2026-06-03T22:00:21.000Z",
       "summary_90w": "",
       "raw": "After years of watching China create land to back its expansive claims, others are doing the same.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e315763b9cebaded272dcfc6179827c81e57102d",
-      "title": "House passes war powers resolution directing Trump to end hostilities with Iran",
-      "url": "https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-06-03T21:49:52.000Z",
-      "summary_90w": "",
-      "raw": "The vote marked a rare bipartisan rebuke of the war, but is mostly symbolic. Democrats have been unable to pass a war powers resolution in the Senate, and even if they could it would likely be vetoed.",
       "topics": [
         "World"
       ]
@@ -416,45 +806,6 @@
       "raw": "Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it proceeds.\nPeople in Texas who are creating a new Apple account will need to verify they're over 18 using a credit card or government ID. Apple may also automatically verify users' age using the age of their account and whether they have a credit card on file.\nMeanwhile, users under 18 must join a Family Sharing group, where a parent or guardian will need to provide con …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "67409caa6eeddeb597c80615aab45be30f3a090d",
-      "title": "Senate Republicans start debate on ICE funding package",
-      "url": "https://www.npr.org/2026/06/03/g-s1-125779/senate-republicans-start-debate-on-ice-funding-package",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-06-03T21:42:30.000Z",
-      "summary_90w": "",
-      "raw": "The Senate voted along party lines to start debate on a Republican bill to fund immigration enforcement through the end of President Trump's term.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4913ab3a158c80b2ce6e9c2260a34627e313b348",
-      "title": "Konate reveals depression after deaths of Jota and father",
-      "url": "https://www.bbc.com/sport/football/articles/cwy2081rrr7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-03T21:36:32.000Z",
-      "summary_90w": "",
-      "raw": "Liverpool defender Ibrahima Konate opens up on how the deaths of team-mate Diogo Jota and his father left him battling depression during his final season at the club.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "15e80d15cfc75beab4ef877f5e693da062ba3394",
-      "title": "MI5 warns Chinese spies using job websites to target government staff",
-      "url": "https://www.bbc.com/news/articles/cq6peqrnzpro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-03T21:26:03.000Z",
-      "summary_90w": "",
-      "raw": "Undercover agents are posing as fake job recruiters to try and identify useful targets, MI5 warns.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -497,14 +848,14 @@
       ]
     },
     {
-      "id": "1dc0b79bc79bbc4db173ecae2e7a7ee5f6ad0ca5",
+      "id": "01b6ff08b56e4e482a4e7a1a8ff0fefa2d00bcec",
       "title": "A former GEO Group executive now runs ICE. The company's government ties run deep",
-      "url": "https://www.npr.org/2026/06/03/nx-s1-5836625/a-former-geo-group-executive-now-runs-ice-the-companys-government-ties-run-deep",
+      "url": "https://www.npr.org/2026/06/03/nx-s1-5836625/geo-group-private-prisons-ice-close-ties",
       "source_id": "npr-business",
       "source_name": "NPR Topics: Business",
       "published": "2026-06-03T20:47:19.000Z",
       "summary_90w": "",
-      "raw": "ICE's new acting director started this week. He's a former executive with GEO Group, the prison contractor that has seen huge financial gains as the Trump administration ramps up immigrant detentions.",
+      "raw": "David Venturella's appointment as acting ICE director is the latest in a pattern: Many former employees of the private prison company GEO Group end up working at the federal agency, and vice versa.",
       "topics": [
         "Business"
       ]
@@ -526,7 +877,7 @@
       "id": "58779a17855767bfb665062e3eed8c3af85a9237",
       "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
       "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-06-03T20:28:01.000Z",
       "summary_90w": "",
@@ -552,7 +903,7 @@
       "id": "636c83a8db003af40fd3c9dab49bb143bd8418b2",
       "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
       "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-06-03T20:05:58.000Z",
       "summary_90w": "",
@@ -575,45 +926,6 @@
       ]
     },
     {
-      "id": "aa555983a0ef5c471fe2b1cb9e69b7df37c68b32",
-      "title": "MP sues Musk's xAI after deepfake bikini picture",
-      "url": "https://www.bbc.com/news/articles/c62xpv34d9do?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-03T20:02:41.000Z",
-      "summary_90w": "",
-      "raw": "Suffolk MP Jess Asato claims the firm's tool Grok was used to create fake images of her in a bikini.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fdcf3d934bc62b9a7a99bccd8d545c26fa6a46e5",
-      "title": "Three die in Royal Navy helicopter crash during training exercise",
-      "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-03T20:01:37.000Z",
-      "summary_90w": "",
-      "raw": "The Royal Family, prime minister and head of the navy offer condolences after the crash in Devon.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a08024d6eb4de62ca642a10bbc4e919182f2872f",
-      "title": "Supreme Court's Alabama redistricting decision could encourage more chaos, experts warn",
-      "url": "https://www.npr.org/2026/06/03/nx-s1-5845082/supreme-court-alabama-redistricting",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-06-03T19:56:52.000Z",
-      "summary_90w": "",
-      "raw": "The court's repudiation of a lower court decision was only the latest case in which it has played a role in changing the congressional maps for Louisiana, Texas, Virginia, and California.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "03ea8e1db7b10389826bd855c6784e78d14e6d8d",
       "title": "Wim Wenders withdraws 1975 film featuring 13-year-old Nastassja Kinski topless",
       "url": "https://www.theguardian.com/film/2026/jun/03/wim-wenders-withdraws-1975-film-featuring-13-year-old-nastassja-kinski-topless",
@@ -630,13 +942,13 @@
       "id": "ea3519cc4a0da759de8a5a3a42c9db771070a959",
       "title": "Trump strips job protections from 8,000 federal workers",
       "url": "https://www.npr.org/2026/06/03/nx-s1-5742806/trump-federal-employees-civil-service-job-protections-schedule-f",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-06-03T19:53:21.000Z",
       "summary_90w": "",
       "raw": "President Trump signed an executive order that puts some 8,000 high-ranking civil servants into a new category of employees who can be fired for any reason.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -731,19 +1043,6 @@
       ]
     },
     {
-      "id": "a0c59b526031d3cef163149ca2f095aa34be9faa",
-      "title": "Police chief apologises to Henry Nowak's family over handcuffing and arrest",
-      "url": "https://www.bbc.com/news/articles/crlpg54wgpxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-03T18:58:12.000Z",
-      "summary_90w": "",
-      "raw": "Chief Constable Alexis Boon tells the BBC the footage of how the murder victim had been treated was distressing.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "c0e9d51b23b17bb971c23bb1812f6f0bd880c6a5",
       "title": "‘Of course we will give it back’: Bayeux tapestry set for secret journey across Channel",
       "url": "https://www.theguardian.com/world/2026/jun/03/behind-historic-efforts-transport-bayeux-tapestry-france-uk",
@@ -757,32 +1056,6 @@
       ]
     },
     {
-      "id": "bae4c7b86959c7a703d762adbf4758d676a78d68",
-      "title": "Trump confirms calling Netanyahu 'crazy,' says they still get along",
-      "url": "https://www.npr.org/2026/06/03/g-s1-125631/trump-confirms-calling-netanyahu-crazy-says-they-still-get-along",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-06-03T18:39:55.000Z",
-      "summary_90w": "",
-      "raw": "The president also acknowledged that he cursed at the Israeli leader in a heated phone call in which he told Benjamin Netanyahu not to bomb the Lebanese capital Beirut.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "5c1111d99a249ea4de3301e48c45f1fee65e3cdb",
-      "title": "People with cancer or HIV could lose Medicaid under new work rules, advocates say",
-      "url": "https://www.npr.org/2026/06/03/nx-s1-5845097/medicaid-work-requirements-cuts-hiv-cancer",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-06-03T18:25:24.000Z",
-      "summary_90w": "",
-      "raw": "Adults on Medicaid will be required to work 80 hours per month. The Trump administration says people who are sick will have to prove they are too sick to work to be exempt from the new work rules.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "cbe78766f6461cb2f241395b365e354595515726",
       "title": "Dead but deportable: US immigration judge signed order to eject teen murder victim",
       "url": "https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim",
@@ -791,19 +1064,6 @@
       "published": "2026-06-03T18:04:53.000Z",
       "summary_90w": "",
       "raw": "North Carolina judge said Levi Mendez-Maldonado failed to show up in court – even after being told he had died in 2024\nAn immigration judge in Charlotte, North Carolina, recently ordered the deportation of a young man who was killed in 2024, citing his failure to appear in court.\nJudge Amy Lee ordered the removal of Levi Mendez-Maldonado in absentia on 21 May. Mendez-Maldonado, originally from Honduras, came to the United States as an unaccompanied minor at age 17 and was murdered in a shooting in November 2024.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "66432ff67078cb017e563610049c472a6c342ab2",
-      "title": "Michael Jackson's shadow of doubt",
-      "url": "https://www.npr.org/2026/06/03/nx-s1-5843133/michael-jackson-biopic-legacy-impact-essay",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-06-03T18:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A sanded-down biopic about the King of pop and propaganda has resurfaced his music on the charts — along with questions about how his enduring magic became make-believe",
       "topics": [
         "World"
       ]
@@ -825,13 +1085,13 @@
       "id": "830a3cce85edffb14c900ab51463cfd6ad44ec9c",
       "title": "Firings at CBS' '60 Minutes' reflect the fight for media control in the age of Trump",
       "url": "https://www.npr.org/2026/06/03/nx-s1-5844929/cbs-60-minutes-scott-pelley-cecilia-vega-bari-weiss-trump",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-06-03T17:58:30.000Z",
       "summary_90w": "",
       "raw": "The show's new leader says he fired star Scott Pelley for insubordination. Pelley says he was defending the integrity of the show's journalism after three top executives and two reporters were fired.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -887,53 +1147,27 @@
       ]
     },
     {
-      "id": "feac9ce7d20085ffaf85c01df6105fe83d62edd9",
-      "title": "Henry Nowak's death raises more questions about UK policing and race",
-      "url": "https://www.bbc.com/news/articles/cx210nvyv2qo?at_medium=RSS&at_campaign=rss",
+      "id": "d42e8c9245bfd76146b18e0efe1fe05e5758437d",
+      "title": "England in serious debt after Ashes and repayment must start now",
+      "url": "https://www.bbc.com/sport/cricket/articles/cvgz2nk7z8yo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-06-03T17:18:53.000Z",
+      "published": "2026-06-03T16:57:52.000Z",
       "summary_90w": "",
-      "raw": "Police face accusations of two-tier policing as they work to stamp out racial bias, our senior UK correspondent writes.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "de949684374f7b1b3faad2b57c098474a8182ce2",
-      "title": "One killed and 63 hurt in Iran attack on Kuwait airport as Trump says ceasefire talks ongoing",
-      "url": "https://www.theguardian.com/world/2026/jun/03/us-fires-missile-tanker-strait-of-hormuz",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-06-03T17:08:10.000Z",
-      "summary_90w": "",
-      "raw": "US and Iran exchange more strikes but Trump says he is not looking to escalate and there is no need for boots on the ground\nKuwait’s military said Iranian strikes that hit a terminal at its international airport killed at least one person and wounded 63 in the first deadly attack in the Gulf since a ceasefire on 8 April came into effect.\nThe US and Iran also exchanged fresh missile and drone strikes, further jeopardising efforts to secure a new ceasefire agreement between Washington and Tehran.\n Continue reading...",
+      "raw": "England have invested in Brendon McCullum once again but now it is time for his team to start paying back the faith, writes Stephan Shemilt.",
       "topics": [
         "World"
       ]
     },
     {
       "id": "6168e89189de15b61e8ab187fbd4e1a44e102a94",
-      "title": "Newscast",
+      "title": "By-Electioncast: Chris Reports Back From Makerfield",
       "url": "https://www.bbc.co.uk/sounds/play/p0nphd6d?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-06-03T16:36:00.000Z",
       "summary_90w": "",
       "raw": "What's happening on the ground in the Makerfield by-election campaign?",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "358c95f8d4d94c5066a3464ea60ad28128e85488",
-      "title": "How a single decision made a century ago split a family in half by race",
-      "url": "https://www.npr.org/2026/06/03/nx-s1-5845003/how-a-single-decision-made-a-century-ago-split-a-family-in-half-by-race",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-06-03T16:31:03.000Z",
-      "summary_90w": "",
-      "raw": "Pope Leo's Black family roots inspired journalist Susan Saulny to research her Creole great-uncle who moved to Chicago, became white and didn't return. She describes her journey to reunite her family.",
       "topics": [
         "World"
       ]
@@ -978,19 +1212,6 @@
       ]
     },
     {
-      "id": "f0aa2dcce6293364d8dd68e254f13d1ef2bc0fdb",
-      "title": "Man shot dead by FBI after taking hostages at California bank ",
-      "url": "https://www.bbc.com/news/articles/cn0pdrgy623o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-03T16:04:05.000Z",
-      "summary_90w": "",
-      "raw": "Two hostages were released on Tuesday, and the remaining hostages released on Wednesday were unharmed, police said.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "fb832d0c962429ec06581b3f3ba69d74c05c6177",
       "title": "Amazon will show AI product images when you search for some reason",
       "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
@@ -1001,19 +1222,6 @@
       "raw": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "9fb909b3a382892c3cd3989a464466667126e009",
-      "title": "PM accuses Farage of exploiting Nowak case and denies 'two-tier policing' claim",
-      "url": "https://www.bbc.com/news/articles/cvgz23p8117o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-03T15:47:02.000Z",
-      "summary_90w": "",
-      "raw": "It comes after the Reform UK leader said the public should respond with \"pure, cold rage\" to the actions of police.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1069,32 +1277,6 @@
       ]
     },
     {
-      "id": "06ed761887dcac9977051935c4a10b9b211b2c5f",
-      "title": "Eight killed after drone hits bus in Russian-occupied part of Ukraine",
-      "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-03T15:18:28.000Z",
-      "summary_90w": "",
-      "raw": "The bus was hit in the eastern Donetsk region, an official says.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "df841c77ef055b86adba17a06ff21f2d22c9817f",
-      "title": "CBS News fires correspondent Scott Pelley from 60 Minutes ",
-      "url": "https://www.bbc.com/news/articles/c62rpdkem0mo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-03T15:15:48.000Z",
-      "summary_90w": "",
-      "raw": "The veteran host had accused leadership of \"murdering\" the news show in a confrontation at a staff meeting this week.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "848d41e142f18fb9498bcb6616cb4111e65b52c5",
       "title": "US announces new tariffs over forced labour concerns",
       "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
@@ -1105,45 +1287,6 @@
       "raw": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "bd01510f960e3cab51ce510904a299ac07ec474b",
-      "title": "Diphtheria outbreak: residents of remote NT community say health clinic has no hand sanitiser",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/04/diphtheria-outbreak-nt-aboriginal-community-health-clinic-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-06-03T15:00:10.000Z",
-      "summary_90w": "",
-      "raw": "There’s a three-week wait on test results in Yuendumu, near Alice Springs, and locals say NT Health has dropped the ball on telling locals what to do if they test positive\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA remote Aboriginal community at the centre of the Northern Territory’s diphtheria outbreak is struggling to cope with rising case numbers, with locals saying there is no hand sanitiser at the health clinic and limited information about how to avoid the disease or what to do if you test positive.\nThere have been more than 240 cases of the once-eradicated disease reported in Australia since October, primarily in remote Indigenous communities in the NT, South Australia, Queensland and Western Australia, according to data released by the Australian Centre for Disease Control. One of the largest clusters in the NT is in Yuendumu, a community of about 700 people 300km from Alice Springs.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1f6b585c9ae0cda01866276ccbd48c4b1761ea26",
-      "title": "NSW motorists who use medicinal cannabis may soon be able to drive without fear of major penalty",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/04/nsw-drivers-medicinal-cannabis-proposed-new-laws",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-06-03T15:00:10.000Z",
-      "summary_90w": "",
-      "raw": "Premier Chris Minns says changes would balance road safety and a more practical approach for medicinal cannabis users\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nMotorists who use medicinal cannabis may soon be able to drive on New South Wales roads without fear of a severe penalty as the Minns government announces long-awaited reforms.\nThe government announced on Thursday it would introduce legislation which would see drivers with a medicinal cannabis prescription no longer face a three-month licence suspension or fine for having the THC component of cannabis in their system.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "918ab3bcdadcd3f42a33cdd606eefb6c398a9e3d",
-      "title": "Supernatural isn’t dead after all",
-      "url": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-06-03T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "DeeDee Henry works out using VR at her home in Ventura, California. | Photo by Maggie Shannon / The Verge\t\n\nA few months ago, Meta effectively handed Supernatural, a popular VR fitness game on the Meta Quest, a death sentence. As part of overarching VR layoffs, the company announced the game would no longer get any new content, enraging its tightly knit, devoted community. Now it looks like Supernatural is getting a second chance. Today, Meta announced in a community post that the game is being spun off into an independent company later this year.\nThe new entity will be called Supernatural Health, and will launch as a separate app on the Meta Horizon Store. While Meta did not comment on who would be the CEO of Supernatural Health, Meta spokespers …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1264,58 +1407,6 @@
       ]
     },
     {
-      "id": "db86ffe34d7f048c5747684021b33a86a5e142e0",
-      "title": "Greetings from Porto, whose lanes are lined with colorful textiles",
-      "url": "https://www.npr.org/2026/06/03/g-s1-124469/porto-portugal-linens-textiles",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-06-03T13:47:06.000Z",
-      "summary_90w": "",
-      "raw": "Linen scarves, cotton aprons and dishtowels adorn the entrances to souvenir shops, many of which are run by Bangladeshis whose home country shares Portugal's rich tradition of textile manufacturing.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7c3a755792b3fe620a9f18db5f94d2916bdc09c1",
-      "title": "Trump-backed candidate in Iowa loses primary",
-      "url": "https://www.bbc.com/news/articles/c4g8nd48jxro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-03T13:35:04.000Z",
-      "summary_90w": "",
-      "raw": "Randy Feenstra's defeat could prove to be a case of the president's political instincts being off.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e151d5fc26f4519e0b6e75d3d5c40607690cd8f2",
-      "title": "Norwegian teen was in UK to 'undertake a hit', court hears",
-      "url": "https://www.bbc.com/news/articles/cm2pjk8ggrdo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-03T12:55:45.000Z",
-      "summary_90w": "",
-      "raw": "Johannes Natland was due to carry out a shooting on behalf of a Swedish criminal group, trial hears.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ef02b77eff0423f7180b15922f369526b271455a",
-      "title": "Four migrant workers reportedly burned alive in their car in attack in Italy",
-      "url": "https://www.theguardian.com/world/2026/jun/03/migrant-workers-burned-alive-in-car-in-italy",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-06-03T12:18:28.000Z",
-      "summary_90w": "",
-      "raw": "Petrol station attack in Calabria throws spotlight on widespread exploitation of foreign farm labourers\nThe exploitation of farm workers in Italy has come under the spotlight again after four men – three Afghans and one from Pakistan – were allegedly burned alive in a car at a petrol station in Calabria.\nThe attack was captured by a surveillance camera at the garage in Amendolara, close to Cosenza. Two Pakistani nationals have been arrested on charges of aggravated murder, according to public prosecutor Alessandro D’Alessio.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "718f9312efe29062b29389f3febe346687cfed0d",
       "title": "Foreign nationals among at least 21 killed in Delhi fire",
       "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
@@ -1329,23 +1420,10 @@
       ]
     },
     {
-      "id": "823c18fe98cbec7a84517917917cd052a76068d4",
-      "title": "Can two hours of strength training a week reduce the risk of dying early?",
-      "url": "https://www.bbc.com/news/articles/c0r2lekenlpo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-03T11:52:33.000Z",
-      "summary_90w": "",
-      "raw": "Regular weight training can help you keep fit and strengthen muscles to live longer, research suggests.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "de74363dd21a138a6e3893c8718ac98cf4144199",
       "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
       "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-06-03T11:34:07.000Z",
       "summary_90w": "",
@@ -1407,19 +1485,6 @@
       ]
     },
     {
-      "id": "24cbc1b6ccea38c17644f764ee66bc5dbac9b4af",
-      "title": "Celine Dion 'heartbroken' by death of Beauty and the Beast singer Peabo Bryson",
-      "url": "https://www.bbc.com/news/articles/cy826nlp158o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-03T08:39:43.000Z",
-      "summary_90w": "",
-      "raw": "Bryson was best known as the voice behind Disney songs like A Whole New World and Beauty and the Beast.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "23d75d7ce979f98c062edeb13bfbc256e3f5111a",
       "title": "Trump signs order requesting AI companies submit products for government review",
       "url": "https://www.npr.org/2026/06/03/nx-s1-5844558/trump-signs-order-requesting-ai-companies-submit-products-for-government-review",
@@ -1446,45 +1511,6 @@
       ]
     },
     {
-      "id": "9f253f1efd41524c611c941a777b051fd4a478da",
-      "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
-      "url": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-03T05:13:02.000Z",
-      "summary_90w": "",
-      "raw": "The oil giant says the documents ignore the critical context of the complex operating environment at the time.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3defe65b6c692de2b7a2137ff9fad8d126d1b1e0",
-      "title": "Watch: Man attacked by bear at steel works in Japan",
-      "url": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-03T01:13:45.000Z",
-      "summary_90w": "",
-      "raw": "The bear, which injured four people in the attack on Tuesday, remains on the loose within the factory compound.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "dd2c65f9abc884b22ff3797b422c1f89bb5c43d8",
-      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-02T23:33:34.000Z",
-      "summary_90w": "",
-      "raw": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b7b7973b21ad4da4f50daae119cbcab588fb8eb3",
       "title": "One-ton cocaine bust reveals secret US-Mexico tunnel",
       "url": "https://www.theguardian.com/us-news/2026/jun/02/san-diego-drug-tunnel",
@@ -1501,13 +1527,13 @@
       "id": "a658bb22ec22c39c8669b9aad55a2060c32cbc80",
       "title": "Do you find yourself aimlessly scrolling? You're not alone",
       "url": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2026-06-02T23:01:27.000Z",
       "summary_90w": "",
       "raw": "A Virgin Media O2 report suggests an average of 36% of time spent on phones is without a clear purpose.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -1758,19 +1784,6 @@
       ]
     },
     {
-      "id": "670ebb63f73e47befc9a810e58e21f3bb62f4b0b",
-      "title": "One by one, U.S. civil rights agency dismantles tools to fight discrimination",
-      "url": "https://www.npr.org/2026/06/01/nx-s1-5827069/trump-eeoc-discrimination-dei-data",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-06-01T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The EEOC is seeking to overturn rules created decades ago to tackle discrimination in employment. The Trump administration says those rules have led to more discrimination —against white people.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
       "id": "1a38726fa960fe11abd09219413e975f4bd9c6c7",
       "title": "Typhoon Jangmi threatens Japan as Europe swelters",
       "url": "https://www.theguardian.com/environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia",
@@ -1781,19 +1794,6 @@
       "raw": "Powerful winds and rain expected in parts of Japan and Australia, while temperatures in Spain could hit 40C\nA powerful tropical storm is forecast to track near Okinawa, Japan, on Monday before moving towards the south-east of the country. Typhoon Jangmi (also known as Typhoon No 6) has formed within the monsoonal gyre over the Philippine Sea.\nA monsoonal gyre is a large, slow-rotating weather system that spawns typhoons through smaller vortices formed within it. This flow can intensify storms. Such typhoons are typically characterised by broad areas of low pressure and extensive wind fields, often without a distinct eye.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "4985fa65dcb3b96aa1be07daec61e8e549030e9a",
-      "title": "United Airlines flight to Spain pulls U-turn, apparently over Bluetooth device name",
-      "url": "https://www.npr.org/2026/05/31/nx-s1-5841913/united-airlines-flight-diversion-bluetooth",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-05-31T20:29:34.000Z",
-      "summary_90w": "",
-      "raw": "The flight to Palma de Mallorca diverted back to Newark late on Saturday. Air traffic audio and social media posts indicate an onboard Bluetooth device raised security concerns.",
-      "topics": [
-        "Business"
       ]
     },
     {
@@ -1888,19 +1888,6 @@
       ]
     },
     {
-      "id": "7449563ae37a1cef51b4e78e897a109ad2373f07",
-      "title": "Humanoid robots 'the future' of car making, says BMW",
-      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-05-28T23:36:45.000Z",
-      "summary_90w": "",
-      "raw": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "fbb185287a699a4b26864d5f84f56a8b10f1f256",
       "title": "DOJ charges Google staffer over Polymarket trades netting $1.2 million",
       "url": "https://www.npr.org/2026/05/27/nx-s1-5836659/google-polymarket-insider-trading-doj-charges",
@@ -1922,19 +1909,6 @@
       "published": "2026-05-27T21:59:07.000Z",
       "summary_90w": "",
       "raw": "NPR's Scott Detrow speaks with Reece Rogers of WIRED about a new wave of data collection marketplaces, where users can sell their videos of everyday tasks to AI developers.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "437fe48b0faac5a339272a07555783db78927293",
-      "title": "Researchers are building AI-powered robot labs. What does this mean for science?",
-      "url": "https://www.npr.org/2026/05/26/nx-s1-5823706/researchers-are-building-ai-powered-robot-labs-what-does-this-mean-for-science",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2026-05-26T21:26:42.000Z",
-      "summary_90w": "",
-      "raw": "Thanks to new technologies like artificial intelligence, scientists are increasingly freed from the constraints of the laboratory. It raises questions about how much humans should outsource to robots.",
       "topics": [
         "Technology"
       ]
