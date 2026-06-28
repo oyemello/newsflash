@@ -1,27 +1,53 @@
 {
-  "version": "1782686212236",
-  "generatedAt": "2026-06-28T22:36:52.236Z",
+  "version": "1782690545315",
+  "generatedAt": "2026-06-28T23:49:05.315Z",
   "items": [
     {
       "id": "cc0c5e66654099c89aec168bbd6dfbdf2615251c",
-      "title": "Australia politics live: Vanuatu PM in Canberra as hopes rise over treaty; fossil fuel companies accused of marketing to children",
+      "title": "Australia politics live: Taylor says Coalition ‘lost trust’ of public during Covid pandemic as poll numbers keep falling",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/29/australia-politics-live-vanuatu-nakamal-treaty-pacific-china-anthony-albanese-jotham-napat-one-nation-coalition-pauline-hanson-angus-taylor-royal-commission-antisemitism-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-06-28T22:17:11.000Z",
+      "published": "2026-06-28T23:38:53.000Z",
       "summary_90w": "",
-      "raw": "Jotham Napat’s visit renews expectations that the two countries can sign the Nakamal pact after long negotiations. Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nRoyal commission hearings resume today\nThe next round of hearings for the antisemitism royal commission begins today.\nRegretfully, we’re here until Thursday night with Parliament and the game is at 4am Saturday morning. So I’ll be watching on the TV. And like I’ve said before, sometimes I’m the minister for sport and it’s important I’m at major events because there’s all kinds of elements and stakeholders that are there for me to be there in person. Sometimes I’m the minister for communications and I need to see what that experience is like for Australians watching that on free to wear with regard to any siphoning legislation and reforms, etc. So this one I’ll be watching on TV.\n Continue reading...",
+      "raw": "Follow today’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nRoyal commission hearings resume today\nThe next round of hearings for the antisemitism royal commission begins today.\nRegretfully, we’re here until Thursday night with Parliament and the game is at 4am Saturday morning. So I’ll be watching on the TV. And like I’ve said before, sometimes I’m the minister for sport and it’s important I’m at major events because there’s all kinds of elements and stakeholders that are there for me to be there in person. Sometimes I’m the minister for communications and I need to see what that experience is like for Australians watching that on free to wear with regard to any siphoning legislation and reforms, etc. So this one I’ll be watching on TV.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9f9dcd977fdf23fd881bba3eff6dbcbbef9a5175",
+      "title": "A 'heat dome' is driving dangerous heat across the U.S. into the July 4 weekend",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5874019/weather-extreme-heat-wave-north-carolina-ohio-july-4-danger-prepare",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-06-28T23:37:11.000Z",
+      "summary_90w": "",
+      "raw": "Dangerous heat is expected across large swaths of the U.S. this week, according to the National Weather Service.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "24405eea70651f01f50bad311afd80accfb2400b",
+      "title": "Emma Raducanu withdraws from Wimbledon because of stress fracture",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c15y0q31522o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-28T23:31:07.000Z",
+      "summary_90w": "",
+      "raw": "Emma Raducanu is out of Wimbledon after withdrawing on the eve of her home Grand Slam tournament with a leg injury.",
       "topics": [
         "World"
       ]
     },
     {
       "id": "1a745b08de660b2d7095d3f82519c8ff4df392ed",
-      "title": "Navy will build hybrid warships instead of replacing ageing destroyers",
+      "title": "Navy to build drone-equipped warships instead of replacing ageing destroyers",
       "url": "https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-06-28T22:06:38.000Z",
+      "published": "2026-06-28T22:55:56.000Z",
       "summary_90w": "",
       "raw": "The government says it will invest in modern drone-equipped vessels in the upcoming defence investment plan.",
       "topics": [
@@ -55,16 +81,16 @@
       ]
     },
     {
-      "id": "24405eea70651f01f50bad311afd80accfb2400b",
-      "title": "Emma Raducanu withdraws from Wimbledon because of stress fracture",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c15y0q31522o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-28T21:35:25.000Z",
+      "id": "5d43e7e568e30b45e5842c5a2957b0aed62edf71",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-06-28T21:42:51.000Z",
       "summary_90w": "",
-      "raw": "Emma Raducanu is out of Wimbledon after withdrawing on the eve of her home Grand Slam tournament with a leg injury.",
+      "raw": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of the US.\nThis level of advancement is particularly concerning to the US government, which has worked to restrict China's access to powerful models like Anthropic's Mythos and Fable, as well as the hardware necessary to train and run them. The Trump administration views Mythos and other advan …\nRead the full story at The Verge.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -82,13 +108,26 @@
     },
     {
       "id": "fe9fdcbbb3f105288f76cd00766ae952179900ee",
-      "title": "Chris Mason: Burnham starts to sketch out his vision as potential prime minister",
+      "title": "Chris Mason: Burnham begins to sketch out vision but faces huge and imminent questions",
       "url": "https://www.bbc.co.uk/news/articles/ckg4vypy8lzo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-06-28T21:20:53.000Z",
       "summary_90w": "",
       "raw": "The new MP for Makerfield will give what his team has called \"his first major leadership speech\" on Monday morning.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b5472760d16882b21e791b1e66ddc95a86aca9fc",
+      "title": "Conspiracy or chaos? Algeria & Austria defend 'unexpected' draw",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-28T21:16:30.000Z",
+      "summary_90w": "",
+      "raw": "The 'Disgrace of Gijon' - an infamous match at the 1982 World Cup in Spain - has followed Austria and Algeria for 44 years. Did history repeat itself in Algeria's 3-3 draw with Austria on Sunday?",
       "topics": [
         "World"
       ]
@@ -461,7 +500,7 @@
       "id": "7a646a05f7c536fc0307efd3dbfad974a4903e76",
       "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
       "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-06-28T14:30:05.000Z",
       "summary_90w": "",
@@ -687,19 +726,6 @@
       "published": "2026-06-28T09:16:02.000Z",
       "summary_90w": "",
       "raw": "Steve Clarke took Scotland out of the wilderness - but not past the group stage of a tournament. Tom English's must-read analysis of his reign.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6a76559054b64cb2597c148e23ad759afaa4833a",
-      "title": "Will the new student loan limits actually drive down tuition? Economists weigh in",
-      "url": "https://www.npr.org/2026/06/28/nx-s1-5805988/cost-education-student-loan-tuition-graduate-school",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-06-28T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The idea that there's a connection between federal student loans and what colleges charge dates back almost four decades. But it's unclear that link can lead to lower costs.",
       "topics": [
         "World"
       ]
@@ -1194,19 +1220,6 @@
       "published": "2026-06-27T18:39:32.000Z",
       "summary_90w": "",
       "raw": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images\t\n\nMaraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. \nAccording to Deadline's recap, Atwood said she'd used an AI chatbot exactly once, Anthropic's Claude, and came away unimpressed. She was looking for information about the British detective series Father Brown and, well:\n\"Claude gave me the wrong answer, or it lied. Of course, it didn't know it was lying because it's not a human being; it's a large language model… It had skimmed a …\n\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "7804104d527ffb8261119a4ae981d2c91c92e4ec",
-      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-      "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-06-27T17:28:18.000Z",
-      "summary_90w": "",
-      "raw": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple to raise prices on almost all of its products this week, so it makes sense that it would seek alternative sources. \nLegally, Apple isn't barred from buying chips from CXMT, but doing business with a company tied to the Chinese military would carry serious reputational risks. It's possible that CXMT could still find it …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
