@@ -1,7 +1,384 @@
 {
-  "version": "1782835611961",
-  "generatedAt": "2026-06-30T16:06:51.961Z",
+  "version": "1782843303040",
+  "generatedAt": "2026-06-30T18:15:03.040Z",
   "items": [
+    {
+      "id": "dc11ecaf49b3de7bdb99bf6c3a0995d9612ae4a6",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-06-30T18:13:02.000Z",
+      "summary_90w": "",
+      "raw": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a258af33ca857343fbd538d4239b877d3dee518a",
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-06-30T18:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "5bca6dbf9ba73efc1d54d2b2241104010c0ce91b",
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-06-30T17:52:46.000Z",
+      "summary_90w": "",
+      "raw": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "bc1e3d1dc5da6642c09cbf2e3d024a287bbc4d66",
+      "title": "What to know about the looming  deadline on North American free trade ",
+      "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-06-30T17:44:15.000Z",
+      "summary_90w": "",
+      "raw": "The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing past that deadline.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "26706ee3463c9bed55b7b02b95fac446c745e6c6",
+      "title": "Frank Gardner: Key points from government's defence spending plan",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vzjn54eeo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-30T17:43:17.000Z",
+      "summary_90w": "",
+      "raw": "The BBC's security correspondent analyses the details of the plan, and what they mean for the UK's armed forces.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "234cfa55cee120192ebe7359ba572b447ed2fed0",
+      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+      "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-30T17:36:23.000Z",
+      "summary_90w": "",
+      "raw": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0023bbe02a4b6262b9622dd3b939a01a7b95d8c1",
+      "title": "It's going to be a hot July Fourth for much of the country",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5876093/heat-wave-fourth-midwest-east-coast",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-06-30T17:26:48.000Z",
+      "summary_90w": "",
+      "raw": "The National Weather Service has issued heat warnings and watches for much of the Midwest and East heading into the holiday weekend. In many places, the temperatures could shatter records.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ef8afb1c136b88f423b410d5a8d5601b7e9a5ac8",
+      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+      "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-30T17:21:09.000Z",
+      "summary_90w": "",
+      "raw": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "af3d78ee10eec1d6df2814b9b5f927c43109f85b",
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-06-30T17:19:15.000Z",
+      "summary_90w": "",
+      "raw": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI fakes, the voiceover is AI-generated. \nDeadline reports that Netflix worked with AI audio company ElevenLabs with consent from Wilder's family, after working on productions re-creating the voice of Michael Caine and Stan Lee. It also continues Netflix's 2021 partnership with the Roald Dahl company, and is separate from the Charlie vs. the Chocolat …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "82e142e24e7f256a428a346026afd734e30db3fc",
+      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-06-30T17:10:51.000Z",
+      "summary_90w": "",
+      "raw": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "195e2615ee2d714cef6b7f43b7ad8db06cfa5183",
+      "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
+      "url": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-06-30T17:04:14.000Z",
+      "summary_90w": "",
+      "raw": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a move accused of being \"union busting.\" \nAccording to the release, IWGB members have been \"actively\" organizing since 2019 and \"claim they now represent a significant proportion of the workforce across each of the studio's sites in Edinburgh, Dundee, Lincoln, Leeds and London.\" As the union has grown, \"Rockstar has already made improvements to workers' conditions including unprecedented …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f96d0b3a4cd455a588537442357dbf705389ffe5",
+      "title": "Six feared dead after ‘bizarre’ sinking of charter boat off Canadian coast",
+      "url": "https://www.theguardian.com/world/2026/jun/30/sinking-boat-vancouver-canada",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-06-30T17:02:40.000Z",
+      "summary_90w": "",
+      "raw": "The vessel, thought to have been carrying 10 people, did not issue a mayday call before sinking in the strait of Georgia\nSearch teams in Canada have launched a recovery effort for six people believed to have drowned in a “bizarre” sinking of a fishing charter off the coast of Vancouver.\nPolice and rescue crews praised a couple who were passing in their yacht for making a critical mayday call and saving stranded passengers by pulling them onboard their craft.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "35795386fb05efce4b85f664148243c965e2a7c8",
+      "title": "US Supreme Court upholds bans on transgender women in female school and college sports",
+      "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-30T17:02:39.000Z",
+      "summary_90w": "",
+      "raw": "Trump called it a \"big win\" but a major LGBT campaign group described the ruling as \"heartbreaking\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "90eec0ab516c4afbfee14e5b1b6beefc0ab4391e",
+      "title": "Missing US congressman explains mysterious four-month absence",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2prq8301o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-30T17:01:02.000Z",
+      "summary_90w": "",
+      "raw": "New Jersey Republican Tom Kean Jr, told fellow lawmakers that depression was the reason he had been away since March.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "23c841c6e40065a44e436ccd4a22635586826bf3",
+      "title": "Google&#8217;s killing off Tenor GIF searches in other apps",
+      "url": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-06-30T17:00:05.000Z",
+      "summary_90w": "",
+      "raw": "The GIF-picking interfaces in some of your favorite online platforms might look different going forward, as Google prepares to shut down the Tenor API today. While the Tenor website, along with its searchable GIF library, will remain live, platforms like X, Discord, Bluesky, and WhatsApp that previously integrated the API are now having to migrate to alternative GIF picker services.\nGoogle acquired the Tenor GIF platform in 2018. Both its website and API allow users to search for GIFs using keywords, similar to competing services like Giphy and Klipy. Google will continue using Tenor across its own services, including Google Messages and Gb …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7c78ac2b49966343c9fb086dd0dfa155603c7e0b",
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-06-30T17:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "be37f0c11a0800b429570f7a5fd3243142d50b9f",
+      "title": "Threads adds new features to Live Chats as it expands access",
+      "url": "https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-06-30T17:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The updates include translations, new tools for hosts, and more.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4fcbc168b708e6327faddd8f200f1be56aa9e58e",
+      "title": "Xbox weighs canceling Blade game and shuttering Arkane",
+      "url": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-06-30T17:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is set to announce a wave of layoffs for its Xbox studios and employees next week. Sources familiar with Microsoft's plans tell The Verge that the layoffs will lead to studio closures or spinoffs, potential mergers of studios, and canceled games.\nI understand Microsoft is currently weighing closing at least five studios, including the developers behind Marvel's Blade. Sources tell me Microsoft wants to cancel Blade as part of a wave of cost cuts and job losses that are planned for the company's Xbox gaming division.\nDeveloped by France-based Arkane Studios, best-known for the Dishonored series, Blade was originally supposed to de …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "88698659f7d17cdb342bdaf6750d65ee2e750eed",
+      "title": "Farage declares earning £270,000 for promoting gold bullion",
+      "url": "https://www.bbc.co.uk/news/articles/cy8dg3883g7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-30T16:59:55.000Z",
+      "summary_90w": "",
+      "raw": "The Reform UK leader says the payment from Direct Bullion was for work amounting to four hours per month for a three-month period.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "da1304086e14753ab97c3aac236b68514828e580",
+      "title": "Cruise passengers 'stranded' after air con failure to be flown home",
+      "url": "https://www.bbc.co.uk/news/articles/cy0639x4dp8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-30T16:45:05.000Z",
+      "summary_90w": "",
+      "raw": "Tui has apologised and told passengers it has arranged flights home for tomorrow and a full refund.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3220ec78400932332298a1866a9fe1a65dd4115f",
+      "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
+      "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-06-30T16:43:32.000Z",
+      "summary_90w": "",
+      "raw": "More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the country\nSouth Africa was holding its breath on Tuesday as mass anti-immigration protests were held across the country. They come after a weeks-long campaign against foreigners that has seen at least four killed and tens of thousands fleeing for safety.\nIn the coastal city of Durban, where violence had been expected, the streets were unusually quiet and shops were shuttered as tension hung thick in the air.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4a73c0e269272c2eac4d875d98b6dddfcdf2da0e",
+      "title": "Queen meets author JK Rowling to mark start of royal week",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyj0g2j1eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-30T16:38:32.000Z",
+      "summary_90w": "",
+      "raw": "The Queen said the pair had spoken about their \"deep love of books\" and importance of children reading.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1346fa70916451a907e42b8b529b9dbf3c9d29da",
+      "title": "Rep. Tom Kean returns to Congress, says depression is why he went missing for months",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5876222/tom-kean-new-jersey-congress-depression",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-06-30T16:29:37.000Z",
+      "summary_90w": "",
+      "raw": "The New Jersey Republican was missing for months with no explanation for his constituents. He explained in a House floor speech that after his diagnosis, there was no timeline for recovery.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c5995c4376f36f65d7b99f69e7df16775b802d2f",
+      "title": "Manhunt under way after Ukrainian-born tycoon injured by Monaco bomb",
+      "url": "https://www.theguardian.com/world/2026/jun/30/monaco-parcel-bomb-blast-ukrainian-oligarch",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-06-30T16:14:48.000Z",
+      "summary_90w": "",
+      "raw": "Normally safe principality left reeling from apartment blast that also injured Vadym Iermolaiev’s wife and child\n\n‘He isn’t political’: the Ukrainian-born oligarch targeted by a Monaco bomber\n\nAn international search is under way for a suspected bomber after a Ukrainian tycoon and his family were injured in an explosion in Monaco in an unprecedented attack that has shaken the normally ultra-safe principality.\nStéphane Thibault, Monaco’s public prosecutor, told reporters that a man entered an apartment block on Monday evening, left a package in the lobby and walked away. Moments later, as three occupants of a ground-floor flat approached the entrance, the package exploded, he said.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9767b3db070a5febb3dbcd90671168fe02750948",
+      "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+      "url": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-06-30T16:12:25.000Z",
+      "summary_90w": "",
+      "raw": "More than a quarter of those identified are believed to be violent, Germany's domestic intelligence agency says.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ba4c3b903753c473d5be6caf490fd1817d7f70e1",
+      "title": "Blue Origin still doesn’t know why its New Glenn rocket blew up last month",
+      "url": "https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-06-30T16:09:57.000Z",
+      "summary_90w": "",
+      "raw": "But the company is still claiming that New Glenn will return to flight this year.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "989a586c31a7d684731b223763b4d6198e158121",
+      "title": "Starmer trims budgets to fund extra £15bn for defence",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-30T16:09:19.000Z",
+      "summary_90w": "",
+      "raw": "The plan outlines how billions will be spent on equipping the UK armed forces in the years ahead.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6a199cb055e3099215ab38074740bc07a4dbf88e",
+      "title": "The Bose Soundlink Max is $120 off ahead of the July 4th weekend",
+      "url": "https://www.theverge.com/gadgets/959264/bose-soundlink-max-wd-black-deal-sale",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-06-30T16:05:22.000Z",
+      "summary_90w": "",
+      "raw": "The Bose Soundlink Max is usually $399, but has been on steep discount this week at Amazon, Best Buy, and directly from Bose for $279. This Bluetooth speaker has a big and bold sound, with a wide soundstage that impressed us in our review. It’s great for the outdoors thanks to its IP67 rating, meaning splashes and sand won’t affect it. The built-in battery lasts up to 20 hours on a single charge, and the speaker can top up your other devices as needed from its USB-C port.\nBose SoundLink Max\nBose’s SoundLink Max improves on the smaller flex with true stereo sound — and very powerful sound at that. It’s got a removable handle for easy transport, and there’s an aux input for playing audio when you want to listen at a higher quality than what Bluetooth can deliver. Read our review.\n\nWhere to Buy:\n\n $399 $329 at Amazon\n $399 $329 at Bose\n\nThe SoundLink Max sounds excellent, though it’s missing a few features we expect to have with any Bluetooth speaker that has a premium price tag. For example, you can’t use it as a speakerphone for calls (it lacks a microphone), and it doesn’t support Wi-Fi, so you’ll have to connect with either Bluetooth or a 3.5mm cable. The speaker’s colorful finishes are attractive, though in our review we noticed that its surface scratches easily and may show wear over time.\nRead our Bose Soundlink Max review.\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/-1-2.jpg\",\n    productImageAlt: \"Dreame L40 Ultra Gen 2 Robot Vacuum and Mop\",\n    productTitle: \"Dreame L40 Ultra Gen 2 Robot Vacuum and Mop\",\n    shortDescription: \"Flagship cleaning performance at a price worth taking seriously.\",\n    longDescription:\n      \"Premium robot vacuum features at a price that actually makes sense. The L40 Ultra Gen 2 vacuums, mops, and handles its own maintenance without asking much of you in return. Smart navigation covers the whole home efficiently and the self-cleaning dock keeps things running between sessions. One of the better values in the category right now.\",\n    purchaseUrl: \"https://go.skimresources.com?id=1025X1701640&xs=1&url=https%3A%2F%2Fwww.dreametech.com%2Fproducts%2Fl40-ultra-gen2-robot-vacuum&xcust=DreameHypedeskPlacement2\",\n    purchaseLinkText: \"Shop at Dreame\"\n  };\n\n\n\nOther deals to consider\nPrices for memory and storage are still generally ridiculous compared to what they sold for last year, but you can save a bit of cash on the 2TB WD Black SN850X NVMe drive. Staples has the internal M.2 2280-sized SSD on sale for $329.99, about $20 cheaper than other retailers like Amazon. The heatsinkless SSD is a great fit in PCs that support the storage type, as well as PlayStation 5 consoles. Though, we recommend a cheap heatsink if you’re installing it in a console.\nYou can buy a two-pack of Anker Zolo magnetic wireless chargers at Amazon for $23.99 (usually $39.99). Each of the Qi2 chargers supports up to 15W wireless charging, and can snap onto MagSafe-ready iPhones with ease (iPhone 12 and newer, with some exceptions). The chargers have a five-foot USB-C cable for easy charging at home or in the car, but don’t include a power adapter.\nAmazon has the Lego Technic 2 Fast 2 Furious Nissan Skyline GT-R (R34) on sale for $111.99, a $28 discount from the usual price. This 1,410-piece build features working front and rear suspension, moving pistons in a six-cylinder engine, special risers that lift the back end so the car can drift when you push it around, and a ton of little details for fans of the series to discover.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6167cced713fb37038b3ab2089809ffe33d85f71",
+      "title": "Will Starmer's plan for defence help UK hit Nato's spending target?",
+      "url": "https://www.bbc.co.uk/news/articles/cn07ey43xpeo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-30T16:04:06.000Z",
+      "summary_90w": "",
+      "raw": "BBC Verify looks at what the big numbers around the Defence Investment Plan mean for spending on the military and hitting the government's pledges.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "82930c280e0c9c5b3a5d27c2f412104873306323",
       "title": "What is a quantum computer good for? Absolutely nothing — yet",
@@ -13,6 +390,19 @@
       "raw": "To this day, we have yet to see a quantum computer conclusively perform a single useful task. Existing machines are simply too small and error-ridden to solve commercially relevant problems. That hasn't stopped Donald Trump's science adviser from promising a \"quantum computer powerful enough for scientific discovery by 2028\" and Trump from issuing a new executive order to speed up the US quantum computing industry in its competition with China, both on June 22nd.\nCompanies drive the hype, too. In June, Microsoft announced a new quantum computing chip named Majorana 2. It claimed the chip was a hardware advancement that accelerates its timel …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "987759df5c0ab3acdf704b22b4853d253541d9a5",
+      "title": "‘But we’re just 1% of emissions’: do smaller countries’ climate efforts matter?",
+      "url": "https://www.theguardian.com/environment/2026/jun/30/emissions-do-smaller-countries-climate-efforts-matter",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-06-30T15:53:00.000Z",
+      "summary_90w": "",
+      "raw": "Past and present leaders of wealthy nations such as UK and Germany have argued their actions are insignificant\nOn first hearing, it is a position that sounds reasonable. “When our share of global emissions is less than 1%,” Rishi Sunak argued when he was the UK prime minister in 2023, “how can it be right that British citizens are now being told to sacrifice even more than others?”\nSunak is not the only world leader to have cited such figures while delaying cuts to pollution. In 2019, Scott Morrison, Australia’s then prime minister, used his country’s 1.3% of global emissions to reject any suggestion Australia was not “doing our bit” on climate breakdown. In July, the German chancellor, Friedrich Merz, pointed to his country’s 2% share of global emissions while supporting loopholes in European climate targets. A few months later the Italian prime minister, Giorgia Meloni, followed suit, flagging the EU’s 6% share.\n Continue reading...",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -29,19 +419,6 @@
       ]
     },
     {
-      "id": "5b1072fd81566be6ed3d2e4f0f2c1ed5d291da1b",
-      "title": "Final warning for failing health board after nine years of special measures",
-      "url": "https://www.bbc.co.uk/news/articles/cn8qzlgllj1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-30T15:50:34.000Z",
-      "summary_90w": "",
-      "raw": "The Welsh government says it will take a more direct role in improving Wales’ largest health board.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e60d8e0701c8c1d07f012c32fd50fbe579cbdd45",
       "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
       "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
@@ -50,19 +427,6 @@
       "published": "2026-06-30T15:40:50.000Z",
       "summary_90w": "",
       "raw": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "eeb392ce14140bb0c98afdeaf5c87e670e4a391c",
-      "title": "Union urges Grand Theft Auto 6 maker Rockstar to address working conditions",
-      "url": "https://www.bbc.co.uk/news/articles/cly8x4dlxg5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-30T15:33:32.000Z",
-      "summary_90w": "",
-      "raw": "The union has called for better working conditions and pay transparency ahead of the GTA 6 release.",
       "topics": [
         "World"
       ]
@@ -120,32 +484,6 @@
       ]
     },
     {
-      "id": "35795386fb05efce4b85f664148243c965e2a7c8",
-      "title": "US Supreme Court upholds bans on transgender women in female school and college sports",
-      "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-30T15:15:09.000Z",
-      "summary_90w": "",
-      "raw": "It rules that states can ban transgender athletes from competing in women's and girls' sports.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "82e142e24e7f256a428a346026afd734e30db3fc",
-      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-30T15:09:46.000Z",
-      "summary_90w": "",
-      "raw": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "bc4002b1d16d5a2b2deeff1e52c37023748b58e9",
       "title": "Burnham plans to work some days in Manchester as PM",
       "url": "https://www.bbc.co.uk/news/articles/c1ey985nyqpo?at_medium=RSS&at_campaign=rss",
@@ -186,7 +524,7 @@
     },
     {
       "id": "5e90d02cee9c964b47903ced00c06f7d12e12bfa",
-      "title": "Arcturus could halve the grid’s electrical losses using its nano-infused copper",
+      "title": "Arcturus could halve the grid’s electrical losses using its nano-infused metals",
       "url": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -205,7 +543,7 @@
       "source_name": "World news | The Guardian",
       "published": "2026-06-30T15:00:14.000Z",
       "summary_90w": "",
-      "raw": "Questions remain as to why somebody would want to kill Vadym Iermolaiev, who has a personal fortune of $225m\n\nMonaco in shock after parcel bomb injures Ukrainian-born business leader\n\nNobody paid much attention to the man with the backpack, as he approached the entrance to a beige-coloured Monaco apartment building. It was 9pm, Monday evening. The street – rue Révérend-Père-Louis-Frolla – is located in a quiet hillside part of the wealthy principality, close to the border with France.\nThe man left his bag on the front steps. Soon afterwards, the Ukrainian-born oligarch Vadym Iermolaiev emerged, together with his wife and their 13-year-old child. There was an explosion and CCTV captured an image of the suspect, wearing a black jacket and a bucket hat, running from the scene towards the neighbouring French town of Beausoleil.\n Continue reading...",
+      "raw": "Questions remain as to why somebody would want to kill Vadym Iermolaiev, who has a personal fortune of $225m\n\nMonaco in shock after parcel bomb injures Ukrainian-born business leader\n\nNobody paid much attention to the man with the backpack, as he approached the entrance to a beige-coloured Monaco apartment building. It was 9pm, Monday. The street – rue Révérend-Père-Louis-Frolla – is located in a quiet hillside part of the wealthy principality, close to the border with France.\nThe man left his bag on the front steps. Soon afterwards, the Ukrainian-born oligarch Vadym Iermolaiev emerged, together with his wife and their 13-year-old child. There was an explosion and CCTV captured an image of the suspect, wearing a black jacket and a bucket hat, running from the scene towards the neighbouring French town of Beausoleil.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -296,7 +634,7 @@
       "source_name": "World news | The Guardian",
       "published": "2026-06-30T14:46:43.000Z",
       "summary_90w": "",
-      "raw": "Thirteen countries with a free trade agreement with Brussels have their quota reduced by just one-third\n\nBusiness live – latest updates\n\nThe EU has halved the amount of duty-free steel it will accept from abroad, but has agreed higher import levels for more than a dozen trading partners, including Britain.\nHowever, some steel producers have been hit harder than others with Tata Steel UK, Britain’s biggest producer, revealing its duty-free exports have been slashed by 60%.\n Continue reading...",
+      "raw": "Thirteen countries with a free trade agreement with Brussels have their quota reduced by just one-third\n\nBusiness live – latest updates\n\nThe EU has halved the amount of duty-free steel it will accept from abroad, but has agreed higher import volumes for more than a dozen trading partners, including Britain.\nHowever, some steel producers have been hit harder than others with Tata Steel UK, Britain’s biggest producer, revealing its duty-free exports have been slashed by 60%.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -342,7 +680,7 @@
     },
     {
       "id": "5764d0d4d117882f5cf41f6683eb58fd78eedf0b",
-      "title": "O'Donoghue: Court ruling is major blow to president",
+      "title": "O'Donoghue: Supreme Court's birthright ruling is major blow to Trump",
       "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -401,19 +739,6 @@
       "published": "2026-06-30T14:25:42.000Z",
       "summary_90w": "",
       "raw": "An independent inquiry has found \"unacceptable racism and discrimination\" is affecting patient safety.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0607ddf839bbdf877a8e5215bbb2890a29b67a84",
-      "title": "‘Is there a way out of this mess?’: Your questions answered on Europe’s week of hellish heat",
-      "url": "https://www.theguardian.com/community/live/2026/jun/30/reader-qa-ask-ajit-niranjan-anything-about-europes-hellish-week-of-heat",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-06-30T14:14:47.000Z",
-      "summary_90w": "",
-      "raw": "As the the shocking heatwave continues, our European environment correspondent Ajit Niranjan answered your questions about which countries have responded best, who is being held to account, and why people are surprised after decades of warnings\nsloth_101 asks: Most reports still talk about this issue in terms of “records”? Technically, that might be correct but it feels like it’s missing the urgency of the matter. “Records” are meant to be broken. These records clearly are not. Isn’t there a better way to describe it? For example, how “climate change” is often replaced with “climate emergency” or “climate breakdown”?\nAjit: I had never thought about it like that before but I can see how it can be read that way. It is partly a limitation of the language and partly an issue of accuracy. Ideally, I would spell it out – “Germany has been hit by heat it has never seen before” – but, because we are talking about measurements since records began, rather than over a longer period of history. I prefer to speak of “record-breaking” heat. The urgency can still be conveyed by describing the damage that hot weather does to our bodies and stating the death toll, which comes to tens of thousands of people across Europe in a typical summer. Each year heat kills 10 ten times more people than murderers in Europe.\nAjit: So far there has been fairly little evidence of this happening. Far-right parties talk a lot about migrants and climate, but almost exclusively as separate issues. One recent exception is Switzerland, where a referendum this month on capping the country’s population at 10 million people linked the impact of migration on the Alpine nation’s natural resources, but the link here was more about environmental degradation than climate breakdown.\nSome data suggests migrants tend to pollute about as much as the native-born population – flying more but driving less - so there is no obvious avenue by which they would hold foreigners responsible for increased temperatures. What seems more likely is that, as temperatures rise to intolerable levels in North Africa and the Middle East, increased migration to Europe will force far-right parties to confront the paradox that the migration they want to stop will be exacerbated by the fossil fuel pollution they support.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -536,32 +861,6 @@
       ]
     },
     {
-      "id": "79aa87eac41beb57d9b26c056546751dd8174549",
-      "title": "Canadians share hopes and wishes for America's 250th birthday",
-      "url": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-30T12:21:38.000Z",
-      "summary_90w": "",
-      "raw": "We asked Canadians across the country what they would say and give to their southern neighbour.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1f3d2db33b8fb77fbc58f368a854d9f2512da692",
-      "title": "Shetland backs plan to connect islands with £1.5bn undersea tunnels",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl1egyl79o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-30T12:18:16.000Z",
-      "summary_90w": "",
-      "raw": "The undersea links between some of the UK's most northerly islands could be in place within eight years.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "3d35f2b1b965d81ffbf83f3b70ce496cd582a4a4",
       "title": "Meet the lawyer who beat Elon Musk — twice",
       "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
@@ -589,7 +888,7 @@
     },
     {
       "id": "12d62db62826e7133bcf5c76024b4c983b927936",
-      "title": "Government 'cannot deport' grooming gang ringleader",
+      "title": "Ringleader of Rochdale grooming gang 'cannot be deported'",
       "url": "https://www.bbc.co.uk/news/articles/cx2wl6ynn2no?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -614,10 +913,23 @@
       ]
     },
     {
+      "id": "303618bf2456b53dc2c8cfc42b628db20ed29bf6",
+      "title": "The Paraguay hero who sold his kit when his son was born",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c75yelwge25o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-06-30T11:28:48.000Z",
+      "summary_90w": "",
+      "raw": "Orlando Gill has become Paraguay's World Cup hero but was in football obscurity 18 months ago and had to sell his kit to support his family after the premature birth of his son.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "9046513b0a194ec138a6d4b68c001ecf5e8e4ba4",
       "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
       "url": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-06-30T11:20:44.000Z",
       "summary_90w": "",
@@ -692,19 +1004,6 @@
       ]
     },
     {
-      "id": "90866748fdf1451487ed8fd0a8e0a0b036ee1d27",
-      "title": "This motor could be the future of e-bikes",
-      "url": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-06-30T10:30:04.000Z",
-      "summary_90w": "",
-      "raw": "The Avinox MG Concept MGU coming next year. | Image: Avinox, The Verge\t\n\nImagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears to keep your legs spinning at that exact speed, no matter how steep the hill gets - all without a fragile derailleur or heavy multi-speed cassette to maintain. Prefer manual control? No problem, you can have as many gears as you like in whatever ratio makes you feel most connected to the terrain. That's the e-bike motor announced last week at the big Eurobike trade show in Frankfurt, by not just one company, but two. \nPictured above is the MG Concept. It's a Motor Gearbox Unit, or MGU, from Avinox, the DJI spinoff that's upe …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "cc247101ad46295ea1792623a4c914b3a47ccd7f",
       "title": "Police units deployed across South Africa before anti-immigration marches",
       "url": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
@@ -731,32 +1030,6 @@
       ]
     },
     {
-      "id": "d9e8b6224a04a81009992516387c7d65f28154a2",
-      "title": "Our best look yet at Samsung’s new wide foldable",
-      "url": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-06-30T09:54:44.000Z",
-      "summary_90w": "",
-      "raw": "Case designs for the wide-style Galaxy Z Fold 8 have appeared online, and some show the phone inside them. | Image: Android Headlines\t\n\nSamsung is expected to unveil its next generation of foldables at a Galaxy Unpacked event next month, but now we know what they might look like, courtesy of some leaked images published by Android Headlines. Images shared by the publication include case designs for two new Galaxy Z Fold 8 models and the Galaxy Z Flip 8, each giving a good look at the phones inside the cases too.\nThis could be our closest look so far at Samsung's new wide-style foldable, following a leak of a purported dummy unit  in May and a fresh photo of an apparent dummy unit from leaker Ice Universe this week. There are some similarities between all of these leaks: The …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "f7f1c330309feeb484dd254eec662b96d459d450",
-      "title": "Labor’s gambling ad legislation a ‘capitulation’ to industry lobby, Liberal MP says",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/30/labors-gambling-ad-legislation-a-capitulation-to-industry-lobby-liberal-mp-says",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-06-30T09:27:20.000Z",
-      "summary_90w": "",
-      "raw": "Coalition, Greens and crossbenchers all say the planned reforms are too weak and the proposals are ‘half-arsed’\n\nGet our breaking news email, free app or daily news podcast\n\nLabor’s reforms to gambling advertising have been branded a “capitulation” and “half-arsed” by opponents, as the Liberals and Greens combine to urge the government to go further in cracking down on wagering.\nThree years this week since the Murphy report recommended a full ad ban, Labor’s proposed wagering reforms have underwhelmed the parliament, with the Coalition, Greens and crossbenchers all saying the changes are too weak – making it unclear whether the government’s bill will have enough support to pass into law.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "4be814ea58c60ad26828f46f0bb25cc234f96998",
       "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
       "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
@@ -767,19 +1040,6 @@
       "raw": "The app's new usernames feature will be rolled out globally over the next few months.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "298fd62273b84bdf6798c7c6995ccd35b0f9a57d",
-      "title": "Refugees would be told to repay around £10,000 under new asylum bill",
-      "url": "https://www.bbc.co.uk/news/articles/cddlgqlm7q2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-30T09:00:25.000Z",
-      "summary_90w": "",
-      "raw": "The Home Office will be given powers to recover costs from adults who have received asylum support under new laws.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -809,32 +1069,6 @@
       ]
     },
     {
-      "id": "12688a21664b0aec85e37d6ccde6a3098bc13c1c",
-      "title": "Inside the coordinated strategy to radically reshape U.S. immigration",
-      "url": "https://www.npr.org/2026/06/30/g-s1-129953/remaking-immigration-explainer-video",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-06-30T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "As the Supreme Court today weighs the Trump administration's effort to revoke birthright citizenship, NPR looks at what else the White House has done to curb illegal and legal migration.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "45807e048c59367d3f282a9a8b8b056e47e29316",
-      "title": "U.S. murder rate approaches a record low",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5866810/us-murder-rate-record-low-crime-homicide",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-06-30T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A few years ago, experts worried about a \"new normal\" of elevated violent crime in the U.S. Now the country is flirting with breaking its all-time low murder rate",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f799cbbcba77282f7bbf7f58b946956d7d93c378",
       "title": "Computer scientist on why he believes mass layoffs due to AI is a 'convenient excuse'",
       "url": "https://www.npr.org/2026/06/30/nx-s1-5864243/computer-scientist-on-why-he-believes-mass-layoffs-due-to-ai-is-a-convenient-excuse",
@@ -856,19 +1090,6 @@
       "published": "2026-06-30T08:06:24.000Z",
       "summary_90w": "",
       "raw": "Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b17eeed70240611c4881be713fef1a710262b3d6",
-      "title": "Stalker who faked ex's Tinder profile caught using doorbell camera",
-      "url": "https://www.bbc.co.uk/news/articles/clyermml0d8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-30T05:06:27.000Z",
-      "summary_90w": "",
-      "raw": "Asad Hussain, 36, created a fake profile in the victim's name after she ended their relationship.",
       "topics": [
         "World"
       ]
@@ -914,22 +1135,9 @@
     },
     {
       "id": "b2726c089825ad5239692099e9ca2ee6192e5560",
-      "title": "'No rescuers have been sent': Venezuelans accuse government of negligence over earthquake response",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-30T03:53:48.000Z",
-      "summary_90w": "",
-      "raw": "People in areas devastated by twin earthquakes say they need more support from the government.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b2726c089825ad5239692099e9ca2ee6192e5560",
       "title": "Angry Venezuelans accuse government of negligence over earthquake response",
       "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-06-30T03:53:48.000Z",
       "summary_90w": "",
@@ -973,19 +1181,6 @@
       "published": "2026-06-30T00:18:15.000Z",
       "summary_90w": "",
       "raw": "The 51-year-old daughter of late president Alberto Fujimori secured the top office after authorities spent weeks reviewing contested ballots\nPeru’s conservative president-elect Keiko Fujimori has vowed to restore “order and hope” after defeating left-wing candidate Roberto Sanchez, in the latest victory for a resurgent Latin American right.\nFujimori won the 7 June presidential runoff by the slimmest of margins, outpolling Sanchez by fewer than 50,000 votes out of the more than 18 million ballots cast, the final results showed.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "bc1e3d1dc5da6642c09cbf2e3d024a287bbc4d66",
-      "title": "What to know about the looming  deadline on North American free trade ",
-      "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-29T23:32:52.000Z",
-      "summary_90w": "",
-      "raw": "The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing past that deadline.",
       "topics": [
         "World"
       ]
@@ -1056,32 +1251,6 @@
       ]
     },
     {
-      "id": "7e32ef097cb8cfa99b0cfc909daa15e4417f05d0",
-      "title": "T-Mobile is booting customers from its oldest plans",
-      "url": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-06-29T21:06:14.000Z",
-      "summary_90w": "",
-      "raw": "Time to say goodbye to that legacy Sprint plan. | Image: Alex Castro / The Verge\t\n\nEarlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's going about as well as you'd expect.\nAffected customers began sharing screenshots of the text on reddit and Threads this morning, and T-Mobile's chief marketing officer Allan Samson confirmed the news to The Verge: \nWe're retiring our oldest plans, some of which were built nearly 15 years ago - in the 3G and 4G eras, and well before our 5G network was fully deployed. Customers will transition to modern plans that provide acc …\n\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "c806cfc7db367eee990768496a22add3b8f026ef",
-      "title": "After a great start, DC’s new cinematic universe is already slowing down",
-      "url": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-06-29T21:00:00.000Z",
-      "summary_90w": "",
-      "raw": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman, the studio wanted to flesh out its new cinematic universe with films about another Kryptonian and one of Batman's less notable villains. But Gunn implored fans to have faith in his vision and trust that the DCU would become a world of interconnected stories that put WBD's last batch of comic book movies to shame.\nThough hopes were high for Supergirl, the movie has turned out to be a bit of a dud. Critics ha …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "53ea251a354c7aece399875b70e48b9852bdfa08",
       "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
       "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
@@ -1108,19 +1277,6 @@
       ]
     },
     {
-      "id": "4786f999bfd9b99b36ea732a87fca9c9a7b1891c",
-      "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
-      "url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-06-29T20:18:26.000Z",
-      "summary_90w": "",
-      "raw": "The iPhone 17 Pro. | Image: The Verge\t\n\nLeaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source tells Reuters is the iPhone 18 Pro, equipped with a three-camera layout and Apple logo.\nThis comes just a week after Tata Electronics, an India-based company that manufactures iPhone components and assembles the devices, confirmed that it suffered a data breach. Security researchers told Reuters at the time that the ransomware group, World Leaks, posted more than 200,000 files related to the breach on the dark web. The leak …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "5b59cc183adb6081ed078a35ca8958f64726e63b",
       "title": "Gemini’s personalized AI image generation is now free for US users",
       "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
@@ -1142,19 +1298,6 @@
       "published": "2026-06-29T19:53:57.000Z",
       "summary_90w": "",
       "raw": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7ec1d105b85ccaaf431d7f3416575969b2502830",
-      "title": "What's Andy Burnham's Plan For Number 10 (North)?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nvqw0t?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-06-29T19:16:00.000Z",
-      "summary_90w": "",
-      "raw": "Burnham unveils \"Number 10 North\" in first speech since running for PM.",
       "topics": [
         "World"
       ]
@@ -1225,45 +1368,6 @@
       ]
     },
     {
-      "id": "7fc9333d0392b245f0d2ea6c6edd531ea53be3d5",
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-06-29T18:10:26.000Z",
-      "summary_90w": "",
-      "raw": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "5442c22415ccc76e73391c5b37412c5867780af8",
-      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-06-29T18:07:48.000Z",
-      "summary_90w": "",
-      "raw": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "84554f2bc1ebf9c155f254d7304a3c55cb0e6496",
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-06-29T17:39:17.000Z",
-      "summary_90w": "",
-      "raw": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "c5689672e3cb592dba9dd2d8f917bf840f600ea0",
       "title": "Strong aftershock terrifies Venezuelans days after devastating twin quakes",
       "url": "https://www.theguardian.com/world/2026/jun/29/strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-quakes",
@@ -1290,32 +1394,6 @@
       ]
     },
     {
-      "id": "9665bc4af0069affff65862b9dae98d983eec883",
-      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-06-29T17:03:50.000Z",
-      "summary_90w": "",
-      "raw": "Cursor has launched a new mobile app for remote oversight over coding agents.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "07521903b614728028ec3ec3b4255d8654ce467f",
-      "title": "Trump administration threatens 92 GW of new electricity supply with red tape",
-      "url": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-06-29T16:58:30.000Z",
-      "summary_90w": "",
-      "raw": "The Trump administration's moves threaten $121 billion in new solar and wind power, two energy sources that are the biggest contributors to new capacity in the U.S.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "faf7ab0dab15f52d775fdf1e5e7b13cf8edc69d0",
       "title": "Venezuela earthquakes aftershock hits near capital city as man rescued from rubble after being trapped for 106 hours – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/jun/29/venezuela-earthquakes-search-rescue-latest-updates",
@@ -1339,19 +1417,6 @@
       "raw": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "3537f0ce1820ad94d06f98e2a2eed0578ff4f9c7",
-      "title": "TIDAL cracks down on AI music by cutting off monetization",
-      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-06-29T16:29:04.000Z",
-      "summary_90w": "",
-      "raw": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1415,32 +1480,6 @@
       "published": "2026-06-29T14:18:09.000Z",
       "summary_90w": "",
       "raw": "Value of some chip manufacturers have tripled, or more, driving Asia Pacific stock markets sharply higher\nShares in chipmakers have surged in the first half of this year as investors piled into companies that make the hardware underpinning the AI boom, according to analysis.\nInvestors have driven up the value of semiconductor and memory chip manufacturers, whose profits have soared during 2026, at the expense of some large software companies, which have fallen out of favour this year.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0ecee2c6dccc030c372faac55e850e3cfd9ffa60",
-      "title": "Families of two football players killed and injured in Venezuela earthquakes",
-      "url": "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-06-29T13:21:27.000Z",
-      "summary_90w": "",
-      "raw": "Lucas Trejo of Argentina loses wife and two children while Héctor Bello’s partner dies saving their daughter\nFamily members of two professional footballers are among those killed by the twin earthquakes that struck Venezuela in a catastrophe that has claimed at least 1,719 lives.\nAmong the reported victims are the wife and two children of Lucas Trejo, an Argentinian footballer signed to Club Sport Marítimo of La Guaira. He searched through rubble in the coastal city for his wife, Yanina, and their children, Aaron and Ainhoa, for three days before their bodies were recovered by rescue workers.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ceac4dbd3ca4d4a1f35658999f093d26e0d8879a",
-      "title": "Senior South African police officer survives assassination attempt",
-      "url": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-29T12:38:19.000Z",
-      "summary_90w": "",
-      "raw": "Deputy crime intelligence boss Maj-Gen Feroz Khan was due to appear before an inquiry into police corruption this week.",
       "topics": [
         "World"
       ]
@@ -1576,19 +1615,6 @@
       ]
     },
     {
-      "id": "7b91d8dd06113bbd524dae41da89a063df251bd5",
-      "title": "First dinosaur bone from Antarctica found in a drawer",
-      "url": "https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-29T05:10:46.000Z",
-      "summary_90w": "",
-      "raw": "The fossil, collected in Antarctica in 1985, is part of the tail of a beast called a Titanosaur.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "0b9003209b9727c1555bc8cdf50fbc2fab04eda1",
       "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss",
@@ -1597,19 +1623,6 @@
       "published": "2026-06-29T00:02:44.000Z",
       "summary_90w": "",
       "raw": "Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "39d1c5d0efaf7e8b1434451688d8d79258b6f057",
-      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-06-28T19:37:07.000Z",
-      "summary_90w": "",
-      "raw": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
       "topics": [
         "World"
       ]
@@ -1794,19 +1807,6 @@
       "raw": "Apple said it had \"never seen a component price increase this much, this quickly\".",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f28dafcbe5a5daadcef155be0d4dad57974a01d0",
-      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
-      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-06-25T16:04:41.000Z",
-      "summary_90w": "",
-      "raw": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on power\nZimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government says will bring stability but that opponents have labelled a “constitutional coup”.\nThe upper house of Zimbabwe’s parliament voted on Wednesday 75-4 in favour of the constitutional amendments, which will allow President Emmerson Mnangagwa to stay in office until 2030 by extending presidential terms from five to seven years.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
