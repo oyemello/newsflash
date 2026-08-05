@@ -1,7 +1,306 @@
 {
-  "version": "1785944329364",
-  "generatedAt": "2026-08-05T15:38:49.364Z",
+  "version": "1785949925127",
+  "generatedAt": "2026-08-05T17:12:05.127Z",
   "items": [
+    {
+      "id": "e4a6336bc6143154cbd920e5d722fed2d30d9f1b",
+      "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-05T17:03:45.000Z",
+      "summary_90w": "",
+      "raw": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6c9837d2281eef28d9e93cc388313694bf996fb6",
+      "title": "Meet the eight startups pitching at Startup Battlefield Australia",
+      "url": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-05T17:02:00.000Z",
+      "summary_90w": "",
+      "raw": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "bb363cfdd5e8946987e6821d7bde6691241a45ca",
+      "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
+      "url": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-05T16:59:23.000Z",
+      "summary_90w": "",
+      "raw": "Apple’s MacBook Neo comes in four different colors. | Image: The Verge\t\n\nApple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through the company, with the base 256GB model listed for $599 (usually $699 new), and the upgraded version with 512GB of storage and TouchID selling for $679 (usually $799). The laptops have a one-year manufacturer warranty, with the option to purchase an extended AppleCare plan.\nMacBook Neo\nApple’s most affordable laptop, with a 13-inch display, A18 Pro chip, 8GB of RAM, and optional Touch ID fingerprint sensor. Read our review.\n\nWhere to Buy:\n\n $599 at Apple (256GB, Refurbished)\n\nMy colleague Antonio G. Di Benedetto reviewed the MacBook Neo, and was impressed with its performance given that it’s running on the A18 Pro – an iPhone 16 Pro processor. While power users might feel a bit limited by the 8GB of memory and relatively slow storage, the excellent screen, keyboard and speakers make this a great choice for people who primarily use browsers instead of system-intensive apps. It’s also a fantastic laptop for high school or college students.\nRead our Apple MacBook Neo review.\nOther deals to consider\nAmazon has the Google Pixelsnap Charger on sale for $41.99 (usually $69.99), the lowest price we’ve seen yet. This Qi2 wireless charger has a detachable stand to keep your Pixel 10 series phone upright and visible while charging, and supports up to 25W of power for fast charging. It’s worth noting that older Pixel models will need to use a compatible magnet case to attach to the stand.\nYou can pick up a Razer Wolverine V3 Tournament Edition from Amazon for $50, half off its usual price. This wired controller packs in features that competitive gamers will appreciate for tuning in their setup, like remappable back paddles, two trigger heights, and hall effect thumbsticks. It’s compatible with PC and Xbox Series S/X over USB.\nFanatical has Steam codes for Peak discounted to $3.75, just over half off its usual price of $7.99. This co-op climbing game challenges you and your friends to scale a mountain together, with a physics system that often leads to hilarious circumstances, and a variety of helpful (or detrimental) items to discover along the way.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1dc2e64cdf709e722ea10904826275e974a5328d",
+      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-05T16:57:25.000Z",
+      "summary_90w": "",
+      "raw": "And you thought we were done with this one… | Image: Fenix Flexin\t\n\nWe were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it.\nOn Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using Treblo, though not other AI tools. According to a blog post, it has a false positive rate of less than 1 in 1,000. That's not unimpeachable, but it's notable that the company's own Classifier determined that \"Rubberz\" was \"very likely Treblo\" with \"high confidence,\" adding more fuel to the PR nightmare for Fenix. \n …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7f311dcf9112aca7c060ec3e7a1cbd540f287ad9",
+      "title": "PSA: Apple’s Private Relay can leak your real IP address",
+      "url": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-05T16:52:29.000Z",
+      "summary_90w": "",
+      "raw": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8b1ada3050de97d7a6926e6ea422e8bca0c2aeb2",
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-05T16:47:23.000Z",
+      "summary_90w": "",
+      "raw": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis.\nHassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomorphic Labs, which aims to use AI to develop drugs. Koray Kavukcuoglu, formerly DeepMind's CTO, is stepping up to become Google's SVP of DeepMind and will report to Pichai. Kavukcuoglu will remain Google's chief AI architect as well.\n\"​​As you've heard me say many times, I've always believed the No.1 application of AI should be to improve human h …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "753e18dc59a22a3b119be7f466ded40de74d644f",
+      "title": "Buttler breaks T20 runs record in Super Giants win",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cn4n1j7ejp1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-05T16:42:19.000Z",
+      "summary_90w": "",
+      "raw": "Jos Buttler stars as Manchester Super Giants beat Welsh Fire by nine wickets in The Hundred",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c6e53e03c02226c58e6fe1491d460c2fbe9b2494",
+      "title": "Zelenskyy calls for more air defences as Russian attack on Kyiv kills at least 17",
+      "url": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-05T16:41:02.000Z",
+      "summary_90w": "",
+      "raw": "Ukraine shoots down most drones but no ballistic missiles in overnight attack that mainly targeted civilian facilities\nVolodymyr Zelenskyy has blamed allies for not delivering air defences fast enough after Ukraine failed to shoot down a single Russian missile in a deadly overnight attack that killed at least 17 people and ⁠injured dozens more.\nPreliminary data from the Ukrainian air force showed its defences shot down 98 of the 115 drones fired by Russia overnight, but no ballistic missiles.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "73d50818e4cc050ec0d7f6f71be513214ef9d165",
+      "title": "SpaceX is barely Space and mostly X",
+      "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-05T16:35:56.000Z",
+      "summary_90w": "",
+      "raw": "Privatize the profit, socialize the losses? | Image: Cath Virginia / The Verge, Getty Images\t\n\nOnce, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX.\nLook, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to SpaceX's first quarterly earnings statement as a public company. The space sector of the business didn't break a billion dollars this quarter and contributed only a touch over 10 percent of the company's revenue. SpaceX remains its own biggest customer. There just aren't enough other people who want its rockets. And, I dunno, maybe if the rockets  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "85dd0c8daffa95958166fc9b11dd4c8105b4ade7",
+      "title": "Israel strikes southern Lebanon killing one and injuring 11",
+      "url": "https://www.theguardian.com/world/2026/aug/05/israel-strikes-southern-lebanon-deadliest-ceasefire",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-05T16:34:58.000Z",
+      "summary_90w": "",
+      "raw": "Hits on two towns among deadliest bombings since start of June ceasefire \nAn Israeli airstrike in south Lebanon killed one person and injured 11, the Lebanese ministry of health said, in one of Israel’s deadliest bombings since the start of the June ceasefire.\nIsrael carried out an airstrike in the town of Tebnine, south Lebanon hitting a cemetery, the Lebanese health ministry said. It said the town of al-Mansouri, also in south Lebanon, was hit too, forcing families to flee.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "22884828b51ef2a540a2349575b0abc415e3f24e",
+      "title": "Head of drone manufacturer critically injured in car bomb in Russia",
+      "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-05T16:26:40.000Z",
+      "summary_90w": "",
+      "raw": "Assassination attempt demonstrates Ukraine’s ability to continue clandestine operations deep inside Russian territory\nThe head of a leading Russian drone manufacturer has been critically injured in a car bomb near Ekaterinburg, in what appears to be the latest in a series of assassination attempts targeting figures linked to the country’s war in Ukraine.\nVladimir Tkachuk, the founder of the private drone manufacturer Uraldronzavod, was rushed to intensive care on Wednesday after a bomb planted beneath his Mercedes exploded, according to Russian state media, citing emergency services. His bodyguard was killed in the explosion.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "89b33e1e08ae095f7eea2df9b6616fe8da0b24a9",
+      "title": "Bomb disposal robot deployed after drone carrying explosives found at German airport",
+      "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-05T16:24:26.000Z",
+      "summary_90w": "",
+      "raw": "Counter-terror team investigating after DHL plane also collided midair with unknown object at Leipzig airport\nGerman police deployed a bomb disposal robot after a drone carrying explosives was found at Leipzig airport, causing alarm and the diversion of several flights.\nA DHL cargo plane that had been forced to abort its landing at the airport then collided with an unknown object in mid-air as it was climbing away from the airport. It later landed safely elsewhere.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9f187ea35076a97ae949afdd07a323b48ad3a7f0",
+      "title": "Middle East crisis live: Iran and Oman agree on coordinates of route through strait of Hormuz, says Iranian foreign ministry",
+      "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-05T16:22:28.000Z",
+      "summary_90w": "",
+      "raw": "Joint announcement for geographic coordinates being finalised, says spokesperson, adding that it would not guarantee security in waterway\nThe ⁠geographic coordinates for a shipping ⁠route ⁠through the ​strait of Hormuz ⁠have been agreed by Iran and ⁠Oman, and ​a ‌joint announcement ‌is being ‌finalised, provided no third parties interfere, Iran’s foreign ministry spokesperson Esmaeil Baghaei ‌said on Wednesday.\nBaghaei added ​that any such agreement between Iran and ⁠Oman would not, ​by itself, ​guarantee security ​in the ​strategic waterway.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f99117de6d8595400a2343fdc38fe91432041cb4",
+      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-08-05T16:20:14.000Z",
+      "summary_90w": "",
+      "raw": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "71ff3008af4639635edee0f2fece408f57a7e99f",
+      "title": "Drone carrying explosives found at German airport, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-05T16:06:30.000Z",
+      "summary_90w": "",
+      "raw": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e9310f2022b42792ee3335565bb84f5d5fb5ab2e",
+      "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-08-05T16:06:06.000Z",
+      "summary_90w": "",
+      "raw": "Candidates backed by twice-elected former Prime Minister Nawaz Sharif's Pakistan Muslim League-N party have won 24 of the 34 seats decided in the first two phases of voting, the election commission, said Wednesday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "624f722f6d3243e0d0c8bd1e164881dcff2d8cdf",
+      "title": "El-Sayed's victory sends tremors through Democratic Party",
+      "url": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-05T16:04:16.000Z",
+      "summary_90w": "",
+      "raw": "His win in Michigan sets up a high-stakes contest in November, testing a left-wing candidate's popularity in a swing state.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "32802d2d5eba3af98d96e0b0c1575b6310177797",
+      "title": "Reddit is introducing a new moderator: AI",
+      "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-05T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year.\nThe company calls the suite of tools \"Rules Hub,\" and the tools let mods decide what rules should be automatically enforced and what should happen when a rule is triggered. Rules Hub relies on LLMs to evaluate \"whether a post or comment matches the intent of a rule,\" which \"allows Rules Hub to better handle nuance, natural language, and edge cases while pr …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f868c2ae379cb84a5698a8ed8592a95ee03aabdd",
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-05T15:56:14.000Z",
+      "summary_90w": "",
+      "raw": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6784c2c8b8da1a296d7d65230d644ac718c05aa4",
+      "title": "Which PM punched John Simpson?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p2tdv2?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-05T15:47:00.000Z",
+      "summary_90w": "",
+      "raw": "Plus… what did Andy Burnham's wife say about his leadership bid?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2c94353a06fda297ddc1ed29eff9d3f9aad2f759",
+      "title": "Hark previews its browser use agent for completing tasks",
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-05T15:46:27.000Z",
+      "summary_90w": "",
+      "raw": "Hark claims that its browser use agent is faster and cheaper than competition.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2de7a0a22acae922db6c1c6d69d564719a9b4b24",
+      "title": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-05T15:40:56.000Z",
+      "summary_90w": "",
+      "raw": "German state prosecutors including units working on extremism and terrorism prevention take over investigation into Leipzig incident\nFor what it’s worth, DHL Group CEO Tobias Meyer said the German logistics firm was studying ​the overnight incident which also involved an object clashing with one of its planes near Leipzig.\n“We’ve ‌got plans for cases ​like this, and ​we’ll try to make sure that the influence on our customers will be as low as possible,” Meyer said during a quarterly results call earlier this morning, Reuters reported.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "81d69301204552f225c19be355776ffa0d41e00d",
+      "title": "Police chief considers joining legal action over PC Harper killers' early release",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-05T15:36:37.000Z",
+      "summary_90w": "",
+      "raw": "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "3b5d34b5b78b89db057e383c9310e8ef365cedfa",
       "title": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
@@ -11,19 +310,6 @@
       "published": "2026-08-05T15:26:43.000Z",
       "summary_90w": "",
       "raw": "A 73-year-old retired nurse's decision to learn to write Tibetan language offers a glimpse into how some embrace their language and cultural identity in Tibet.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "2de7a0a22acae922db6c1c6d69d564719a9b4b24",
-      "title": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-05T15:26:39.000Z",
-      "summary_90w": "",
-      "raw": "German state prosecutors including units working on extremism and terrorism prevention take over investigation into Leipzig incident\nFor what it’s worth, DHL Group CEO Tobias Meyer said the German logistics firm was studying ​the overnight incident which also involved an object clashing with one of its planes near Leipzig.\n“We’ve ‌got plans for cases ​like this, and ​we’ll try to make sure that the influence on our customers will be as low as possible,” Meyer said during a quarterly results call earlier this morning, Reuters reported.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -42,16 +328,16 @@
       ]
     },
     {
-      "id": "9f187ea35076a97ae949afdd07a323b48ad3a7f0",
-      "title": "Middle East crisis live: Israel resumes Lebanon strikes as US-Iran Hormuz stand-off continues",
-      "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-05T15:18:43.000Z",
+      "id": "6cc6646c30716f7680a29089895d53ef443d5973",
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-05T15:14:57.000Z",
       "summary_90w": "",
-      "raw": "IDF had issued warning to inhabitants of southern Lebanese village to flee homes before striking\nThe ⁠geographic coordinates for a shipping ⁠route ⁠through the ​strait of Hormuz ⁠have been agreed by Iran and ⁠Oman, and ​a ‌joint announcement ‌is being ‌finalised, provided no third parties interfere, Iran’s foreign ministry spokesperson Esmaeil Baghaei ‌said on Wednesday.\nBaghaei added ​that any such agreement between Iran and ⁠Oman would not, ​by itself, ​guarantee security ​in the ​strategic waterway.\n Continue reading...",
+      "raw": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. \nAccording to a report from the UK's AI Security Institute, which evaluates frontier models from top AI labs before they are released, agents powered by OpenAI's GPT-5.6-Sol and Anthropic's Mythos 5 went \"engaged in sustained, potentially harmful activity directed at real people and organisations.\" This included trying to insert malicious code i …\nRead the full story at The Verge.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -68,19 +354,6 @@
       ]
     },
     {
-      "id": "f99117de6d8595400a2343fdc38fe91432041cb4",
-      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-05T15:05:30.000Z",
-      "summary_90w": "",
-      "raw": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a9586ae9d88cd3d66ed6023a5850b61831fecf94",
       "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals ",
       "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
@@ -91,6 +364,19 @@
       "raw": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "521a6390630e8b9a13f8d00dd501c2e4f386f122",
+      "title": "See the Sun like never before with most detailed images yet",
+      "url": "https://www.bbc.co.uk/news/articles/c36d4376nd2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-05T15:01:33.000Z",
+      "summary_90w": "",
+      "raw": "New images and footage of the Sun show \"whirlpools\" of activity that it has not been possible to see before.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -134,26 +420,13 @@
     },
     {
       "id": "769afabf2850b068261eab92bd65aa4fd5476378",
-      "title": "Celtic boss O'Neill in hospital after surgery",
+      "title": "Celtic boss O'Neill in hospital after 'small procedure'",
       "url": "https://www.bbc.co.uk/sport/football/articles/cz05n32n9vlo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-08-05T14:58:25.000Z",
       "summary_90w": "",
       "raw": "Celtic manager Martin O'Neill remains in hospital after undergoing a \"small procedure\", the club announce.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "624f722f6d3243e0d0c8bd1e164881dcff2d8cdf",
-      "title": "El-Sayed's victory sends tremors through Democratic Party",
-      "url": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-08-05T14:54:07.000Z",
-      "summary_90w": "",
-      "raw": "His win in Michigan sets up a high-stakes contest in November, testing a left-wing candidate's popularity in a swing state.",
       "topics": [
         "World"
       ]
@@ -211,19 +484,6 @@
       ]
     },
     {
-      "id": "71ff3008af4639635edee0f2fece408f57a7e99f",
-      "title": "Drone carrying explosives found at German airport, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-05T14:32:27.000Z",
-      "summary_90w": "",
-      "raw": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8da4674c5a644b05b237e07f926cdb52b56ac29c",
       "title": "The events at Ceuta ​show ​how Europe’s ​hard ​right ​now ​set the ​tone​ on immigration",
       "url": "https://www.theguardian.com/world/2026/aug/05/the-events-at-ceuta-show-how-europes-hard-right-now-set-the-tone-on-immigration",
@@ -273,19 +533,6 @@
       "raw": "Sunbird Messaging is back on the Google Play Store, offering Android users blue bubble privileges in iMessage complete with reactions and high quality videos for $2.99 a month.  Apple and Google have made cross platform messaging better in recent years with support for RCS, but Android users can still cause issues in iMessage group chats, like breaking reactions and replies.\nAndroid Authority reports that after Sunbird shut down nearly three years ago due to security issues, the company says its new setup addresses those, and that \"Any message moving through our infrastructure is protected in transit and released once it's delivered,\" while …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "81d69301204552f225c19be355776ffa0d41e00d",
-      "title": "Police chief considers joining legal action over PC Harper killers' early release",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-05T14:05:33.000Z",
-      "summary_90w": "",
-      "raw": "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -368,39 +615,13 @@
     },
     {
       "id": "52c2556c10b869ef8b024912233c90e6e4602573",
-      "title": "Misconduct proceedings against officer who shot Chris Kaba dropped",
+      "title": "Misconduct proceedings dropped against officer who shot Chris Kaba",
       "url": "https://www.bbc.co.uk/news/articles/cvg0rmpydrmo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-08-05T13:47:20.000Z",
       "summary_90w": "",
       "raw": "Sir Mark Rowley welcomes the IOPC's decision but calls the accountability process \"disgraceful\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c6e53e03c02226c58e6fe1491d460c2fbe9b2494",
-      "title": "Zelenskyy calls for more air defences as Russian attack on Kyiv kills at least 17",
-      "url": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-05T13:47:16.000Z",
-      "summary_90w": "",
-      "raw": "Ukraine shoots down most drones but no ballistic missiles in overnight attack that mainly targeted civilian facilities\n\nEurope live – latest updates\n\nVolodymyr Zelenskyy has blamed allies for not delivering air defences fast enough after Ukraine failed to down a single Russian missile in a deadly overnight attack that killed at least 17 people and ⁠injured dozens more.\nPreliminary data from the Ukrainian air force showed its defences shot down 98 of the 115 drones fired by Russia overnight but no ballistic missiles.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "89b33e1e08ae095f7eea2df9b6616fe8da0b24a9",
-      "title": "Bomb disposal robot deployed after drone carrying explosives found at German airport",
-      "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-05T13:47:09.000Z",
-      "summary_90w": "",
-      "raw": "Counter-terror team investigating after DHL plane also collided midair with unknown object at Leipzig airport\n\nEurope live – latest updates\n\nGerman police deployed a bomb disposal robot after a drone carrying explosives was found at Leipzig airport, causing alarm and the diversion of several flights.\nA DHL cargo plane that had been forced to abort its landing at the airport then collided with an unknown object. It later landed safely elsewhere.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -429,19 +650,6 @@
       "raw": "Disney is looking into launching a free streaming option. When asked about Disney's plans for free, ad-supported streaming during an earnings call on Wednesday, Disney CEO Josh D'Amaro confirmed the company is \"exploring a free product for consumers.\"\nD'Amaro added that a free tier will help drive growth and expand the streaming service's reach \"to a customer segment that's more price sensitive.\" Though D'Amaro said that there's \"nothing specific to announce today,\" he noted that a free tier is \"definitely something that we're considering.\"\nIn July, Business Insider reported that Disney's chief product and technology officer, Adam Smith, b …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "d9037575172b89f34b5e5c033ee7fdc661a22084",
-      "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-05T13:37:55.000Z",
-      "summary_90w": "",
-      "raw": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -536,6 +744,19 @@
       ]
     },
     {
+      "id": "71e76e6fad3f28c784261ca5de046b944ee8b4fb",
+      "title": "Uganda team manager has 'no idea' why boxers have disappeared",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv2w14nk3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-05T12:23:38.000Z",
+      "summary_90w": "",
+      "raw": "Commonwealth Games chef de mission Godwin Kayangwe says he hopes the athletes will return home before their visas expire in October.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "4ae4b8515c3858a1688a59032df5587e82cce137",
       "title": "Traitors star Joe Marler to become BBC's first celebrity Gladiator",
       "url": "https://www.bbc.co.uk/news/articles/c39ep0eyk21o?at_medium=RSS&at_campaign=rss",
@@ -544,19 +765,6 @@
       "published": "2026-08-05T12:14:41.000Z",
       "summary_90w": "",
       "raw": "The former rugby star will be known as Mauler when the fourth series airs in 2027, the BBC confirmed.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "22884828b51ef2a540a2349575b0abc415e3f24e",
-      "title": "Head of drone manufacturer critically injured in car bomb in Russia",
-      "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-05T12:10:21.000Z",
-      "summary_90w": "",
-      "raw": "Assassination attempt demonstrates Ukraine’s ability to continue clandestine operations deep inside Russian territory\n\nEurope live – latest updates\n\nThe head of a leading Russian drone manufacturer has been critically injured in a car bomb near Ekaterinburg, in what appears to be the latest in a series of assassination attempts targeting figures linked to the country’s war in Ukraine.\nVladimir Tkachuk, the founder of the private drone manufacturer Uraldronzavod, was rushed to intensive care on Wednesday after a bomb planted beneath his Mercedes exploded, according to Russian state media, citing emergency services. His bodyguard was killed in the explosion.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -585,19 +793,6 @@
       "raw": "They may keep your feet cool but some styles could be doing more harm than good.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "75c61e7235682d801c138feb8628e88a3456c077",
-      "title": "Disney gives TikTok creators official access to Marvel, Star Wars, and Pixar characters",
-      "url": "https://www.theverge.com/streaming/975520/disney-tiktok-partnership-verts-streaming",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-05T11:38:49.000Z",
-      "summary_90w": "",
-      "raw": "Disney is introducing fan-created TikTok content to its Disney Plus app in its latest attempt to break into short-form creator videos. The Walt Disney Company announced today that it's partnering with TikTok to bring \"an expansive collection of thoughtfully curated Disney-centric fan-created content\" to the Verts video feed it launched on Disney Plus earlier this year, providing creators with access to assets from \"hundreds\" of movies and TV shows.\nThe partnership will be piloted in the US \"in the coming months,\" according to Disney, with plans to launch in other markets later. Videos from TikTok creators who opt-in to the program will be h …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -641,7 +836,7 @@
     },
     {
       "id": "fcbeeaa2a9f934098562ed0324e592aa981e14a2",
-      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
       "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -650,19 +845,6 @@
       "raw": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "db62e9447d4150fefee7b06f041b469f3258080d",
-      "title": "Google Assistant will disappear from your phone next month",
-      "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-05T11:12:50.000Z",
-      "summary_90w": "",
-      "raw": "Farewell, Google Assistant art, we hardly knew ye. | Illustration by Alex Castro / The Verge\t\n\nGoogle Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th.\nThe announcement came in an email apparently sent to some users, as reported by 9to5Google and shared in full on Reddit. The Verge has asked Google for confirmation that the email is accurate, and will update this story once we have it. \n\"We will begin removing access to Google Assistant starting on 4 September,\" Google states in the email, \"and expect that this …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -686,7 +868,7 @@
       "source_name": "TechCrunch",
       "published": "2026-08-05T11:00:00.000Z",
       "summary_90w": "",
-      "raw": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "raw": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
       "topics": [
         "Technology"
       ]
@@ -731,19 +913,6 @@
       ]
     },
     {
-      "id": "1dbe2cc7f0dc2da1cd81efe4a578379889a7d7d5",
-      "title": "Trump’s AI testing plan is limited and vague",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-05T10:29:47.000Z",
-      "summary_90w": "",
-      "raw": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core components - but the framework explicitly says it can't be used to restrict open models after they've been released.\nThe AI testing framework was created after President Trump signed an executive order in June, requesting that AI companies share their frontier models with the federal government prior to release to address cybersecurity concerns. AI c …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "88d00fdf0f9673bc8b40b8701f0a673aa8538d46",
       "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
       "url": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
@@ -771,13 +940,13 @@
     },
     {
       "id": "4b85b4fdafa03f1fc26316465f3470c12f0d7703",
-      "title": "Progressives see biggest win yet in Michigan while Trump flexes power over GOP",
+      "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
       "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2026-08-05T10:08:28.000Z",
       "summary_90w": "",
-      "raw": "Progressives notched major wins in Michigan while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party.",
+      "raw": "Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party.",
       "topics": [
         "World"
       ]
@@ -848,14 +1017,14 @@
       ]
     },
     {
-      "id": "af5e5ef40710091793f7863eac68569edb9d2753",
-      "title": "Blogger Perez Hilton recovering in hospital after reports he self-harmed during livestream",
-      "url": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-05T08:29:30.000Z",
+      "id": "54c437e9b4ed6f765fa59005025944c5d64491f6",
+      "title": "Despite political headwinds, Republicans have some structural advantages in midterms",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5918626/republicans-midterms-structural-advantages",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-08-05T08:44:02.000Z",
       "summary_90w": "",
-      "raw": "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home.",
+      "raw": "While Republicans face political headwinds in this fall's midterm elections, the party also maintains important structural advantages that could help them preserve their majorities in Congress.",
       "topics": [
         "World"
       ]
@@ -978,32 +1147,6 @@
       ]
     },
     {
-      "id": "b3004681662b54e16dd1b69211ed742e973a8424",
-      "title": "Ted Lasso returns at an important time for Apple TV",
-      "url": "https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-05T07:00:00.000Z",
-      "summary_90w": "",
-      "raw": "2026 is shaping up to be an excellent year for Apple TV. Apple's streaming service has built out an impressive slate that spans returning favorites like Silo and Sugar to all-new hits including OnlyFans-inspired dramedies, terrifying comedies, and paranoid tech thrillers. But the most important release might be a feel-good sports sitcom. After what seemed like a definitive finale, Ted Lasso is back with a fourth season that doubles as a soft reboot for the show, mixing up familiar characters with a substantially new cast. And as Apple TV continues its push for a bigger piece of the streaming market, the return of its most culturally impactfu …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "9e9bc800ad23f599ada29e8cd81c18c433eb4a1a",
-      "title": "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
-      "url": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-05T06:50:19.000Z",
-      "summary_90w": "",
-      "raw": "SpaceX is preparing to build a terrestrial mobile network to \"acquire quite a few\" of the customers now subscribed to T-Mobile, AT&T, and Verizon. The message to compete head-to-head with the US carriers was delivered by SpaceX president Gwynne Shotwell and CEO Elon Musk during the Q&A section of the company's first earnings call.\n\"The spectrum that we purchased from EchoStar does have terrestrial components, so we definitely intend to build out the terrestrial component,\" said Shotwell. \"You will have not only the capacity from the satellites themselves, but you will have a buildout of the terrestrial, basically the hardware and systems ne …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "47bb0c9f104f418b87476a0f729260fb6bd6729d",
       "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
       "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
@@ -1017,32 +1160,6 @@
       ]
     },
     {
-      "id": "06a72bcb800d90aabb15de7bd6fb73966cfd3c42",
-      "title": "'I was addicted to porn while training for the Olympics'",
-      "url": "https://www.bbc.co.uk/news/articles/cdx7lg2wxr0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-05T05:29:07.000Z",
-      "summary_90w": "",
-      "raw": "A former Team GB diver says he was addicted to online adult content for more than half of his life.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3960b9e7d955446293af63a800bd84dfd45b9411",
-      "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-05T05:07:27.000Z",
-      "summary_90w": "",
-      "raw": "A terminally ill patient was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1aae34b0c6e4556325da18db30d6a9d321f6097f",
       "title": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
       "url": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
@@ -1051,19 +1168,6 @@
       "published": "2026-08-05T04:00:08.000Z",
       "summary_90w": "",
       "raw": "People hope to see friends or relatives among those still returning as death toll from mass crossing nears 100\nHundreds of people have gathered in the northern Moroccan town of Fnideq, near the border with Spain’s Ceuta, flashing photos of their missing loved ones to passersby in the hope of tracking them down.\nTheir perch was the same small tranche of land that made headlines around the world last week as extraordinary scenes emerged of about 72,000 people making their way into Ceuta, a tiny Spanish territory in north Africa.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "02d8c82c0425c8c9017fd57f60f6e8938abcf38e",
-      "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-08-05T04:00:00.000Z",
-      "summary_90w": "",
-      "raw": "For their commissioner of the future, MLS owners chose a soccer native. Berg's team is seen as one of MLS's best-run franchises, and he has embraced rule changes designed to modernize the league.",
       "topics": [
         "World"
       ]
@@ -1121,19 +1225,6 @@
       ]
     },
     {
-      "id": "d71b7a8a573b8b87163a07f36cc06c5e75521fd5",
-      "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
-      "url": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-08-05T00:30:48.000Z",
-      "summary_90w": "",
-      "raw": "The Los Angeles County Sheriff's Department said Jeanine John Taele, 38, was taking photos and video and had a 16-round magazine with ammunition in his pocket.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "9a10060536ddef36112f505fc6bc38b2e6cd1069",
       "title": "How tech is helping in the battle against wildfires",
       "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
@@ -1157,19 +1248,6 @@
       "raw": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "a37045533fed83dff68cff318e4d6178e0ad7563",
-      "title": "Don’t screw this up, Marvel",
-      "url": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-04T23:20:56.000Z",
-      "summary_90w": "",
-      "raw": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to give up the Spider-Man film rights, and highlighted how Marvel Studios was smart to strike a deal to bring the character into its own films. But as successful as Brand New Day has been, the larger MCU has been stuck in a confounding slump for the past few years. And while this latest Spider-Man movie was truly excellent, it's not necessarily a sign that Marvel has figured out how to get things back on track.\nThough Brand New Da …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1316,58 +1394,6 @@
       ]
     },
     {
-      "id": "b9ae179fc4ae106b288e5e33f4d73f924ca3b497",
-      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-      "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-04T20:36:30.000Z",
-      "summary_90w": "",
-      "raw": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "6bfe67a4f196290cb5baa5491f8e9be081ebbc87",
-      "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
-      "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-04T20:26:53.000Z",
-      "summary_90w": "",
-      "raw": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "9842810604508a2c1689f1f951ac52660abd2d2c",
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains. ",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-04T20:05:26.000Z",
-      "summary_90w": "",
-      "raw": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "ee6239399ce0e6097021c34551f81ad38d7d6204",
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-04T19:48:40.000Z",
-      "summary_90w": "",
-      "raw": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "9c012f971de2a65dd35da7e3ec3bacc4e18eaebe",
       "title": "Tech Life",
       "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy7?at_medium=RSS&at_campaign=rss",
@@ -1446,19 +1472,6 @@
       ]
     },
     {
-      "id": "bc331806986161afa38f389d4076f2502c95e565",
-      "title": "US and Qatar report progress on Iran ceasefire and reopening Hormuz strait",
-      "url": "https://www.theguardian.com/world/2026/aug/04/us-qatar-progress-iran-ceasefire-hormuz-strait",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-04T17:19:58.000Z",
-      "summary_90w": "",
-      "raw": "Optimism echoes Trump’s claims on Monday that deal is close as mediators say they are exchanging proposals \n\nMiddle East crisis live – latest updates\n\nUS and Qatari officials have said progress is being made in restoring a ceasefire in the US-Iran war and reopening the strait of Hormuz.\nThe optimistic speculation on Tuesday brought oil prices down 2%, but the strait remained closed to shipping and a cargo vessel was reportedly struck by an unidentified projectile off Oman’s coast close to the strait.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8cc267fe40ce49597c91888d1b68f81068fc1a41",
       "title": "Watch: Evacuations as Guatemala volcano erupts",
       "url": "https://www.bbc.co.uk/news/videos/c9q91dnljpeo?at_medium=RSS&at_campaign=rss",
@@ -1467,19 +1480,6 @@
       "published": "2026-08-04T16:50:07.000Z",
       "summary_90w": "",
       "raw": "The Fuego volcano is located near  Escuintla, Chimaltenango, and Sacatepéquez.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cd372d468c708d53da54b78d974529ca10f9783a",
-      "title": "Why Does The Government Keep Releasing Prisoners Early?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p2fq40?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-04T15:21:00.000Z",
-      "summary_90w": "",
-      "raw": "Government defends early release scheme, blaming prison capacity crisis.",
       "topics": [
         "World"
       ]
@@ -1532,6 +1532,19 @@
       "published": "2026-08-04T09:18:03.000Z",
       "summary_90w": "",
       "raw": "A Malaysian pilot was arrested at Jakarta airport after being found with around four stone (26kg) of drugs hidden in his luggage.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b935c1f800e2443f5fc03e8455614b4dfa4c7d23",
+      "title": "The Global Story: Who is to blame for the chaos on Spain’s border?",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8mhw?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-04T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Spain faces a backlash from Europe, while Trump warns of an ‘invasion’",
       "topics": [
         "World"
       ]
@@ -1807,19 +1820,6 @@
       "raw": "Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: \"The opportunities for abuse and disinfo are literally boundless,\" said one.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "71c994194750a52dfa379a14af9697dd3c02c78d",
-      "title": "The Democrats need to win Michigan… so why is it splitting the party?",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8lzf?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-07-31T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A centrist and a left wing candidate go head to head in Michigan.",
-      "topics": [
-        "World"
       ]
     },
     {
