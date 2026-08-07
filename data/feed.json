@@ -1,6 +1,6 @@
 {
-  "version": "1786130250316",
-  "generatedAt": "2026-08-07T19:17:30.316Z",
+  "version": "1786132961460",
+  "generatedAt": "2026-08-07T20:02:41.460Z",
   "items": [
     {
       "id": "2b809ab79e98e7b37ce20f0626da089a2b52be19",
@@ -8,9 +8,35 @@
       "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-08-07T19:04:45.000Z",
+      "published": "2026-08-07T19:52:52.000Z",
       "summary_90w": "",
-      "raw": "Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.",
+      "raw": "Simon Levy, from Tottenham, was left free to kill due to a string of police and court blunders.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7dc1d2ca7c7563799778ff1e29fcbc9ae2cf4de3",
+      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-07T19:51:16.000Z",
+      "summary_90w": "",
+      "raw": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5b1465dadaee85234226fafe64b95a50db11475d",
+      "title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-08-07T19:35:35.000Z",
+      "summary_90w": "",
+      "raw": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court.",
       "topics": [
         "World"
       ]
@@ -26,32 +52,6 @@
       "raw": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content.\nThis week, Roku added four new channels to its library of streamable programming. Along with dedicated feeds for old episodes of Mad TV, Whose Line Is It Anyway?, and a variety of Black sitcoms, the platform also debuted a 24/7 stream filled with projects from Colin Petrie-Norris' AI startup,  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "7dc1d2ca7c7563799778ff1e29fcbc9ae2cf4de3",
-      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-08-07T18:56:33.000Z",
-      "summary_90w": "",
-      "raw": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7dc1d2ca7c7563799778ff1e29fcbc9ae2cf4de3",
-      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta migrant crossings",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-07T18:56:33.000Z",
-      "summary_90w": "",
-      "raw": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -647,7 +647,7 @@
       "source_name": "World news | The Guardian",
       "published": "2026-08-07T14:16:01.000Z",
       "summary_90w": "",
-      "raw": "Teenager killed his grandparents ⁠before opening fire at school near Bangkok, where more than 30 were wounded\nA Thai teenager killed his grandparents before opening fire at his school, where he shot five people dead and took his own life, police have said, in an attack that has shaken a country struggling to deal with gun violence.\nThe 14-year-old wounded more than 30 people in the ⁠shooting at the prestigious Debsirin Nonthaburi school in the Nonthaburi province on Bangkok’s outskirts. Nine people were in a critical condition, the Thai health department said.\n Continue reading...",
+      "raw": "Teenager killed his grandparents ⁠before opening fire at school near Bangkok, where more than 30 were wounded\nA Thai teenager killed his grandparents before opening fire at his school, where he shot five people dead and took his own life, police have said, in an attack that has shaken a country struggling to deal with gun violence.\nThe 14-year-old wounded more than 30 people in the ⁠shooting at the prestigious Debsirin Nonthaburi school northwest of Bangkok. Nine people were in a critical condition, the Thai health department said.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -830,19 +830,6 @@
       "published": "2026-08-07T10:56:19.000Z",
       "summary_90w": "",
       "raw": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0579dcb01dd44e4b01270b3d1eac36575008cb0f",
-      "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-08-07T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone's talking about how great it is. Is it really a wonder drug that women should all be on?",
       "topics": [
         "World"
       ]
@@ -1943,13 +1930,13 @@
       "id": "640b3aa08bf34604b8317e0c7b9f042b9cecb12a",
       "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
       "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2026-08-01T09:00:00.000Z",
       "summary_90w": "",
       "raw": "OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.",
       "topics": [
-        "Business"
+        "Technology"
       ]
     },
     {
