@@ -1,6 +1,6 @@
 {
-  "version": "1786270553355",
-  "generatedAt": "2026-08-09T10:15:53.355Z",
+  "version": "1786272890743",
+  "generatedAt": "2026-08-09T10:54:50.743Z",
   "items": [
     {
       "id": "8e8f81d9a10702ba0c675f36541c908bc599c14f",
@@ -10,7 +10,7 @@
       "source_name": "BBC News",
       "published": "2026-08-09T10:02:52.000Z",
       "summary_90w": "",
-      "raw": "The Irish Prison Service bought a bulletproof and bomb-proof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "raw": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
       "topics": [
         "World"
       ]
@@ -68,14 +68,27 @@
       ]
     },
     {
-      "id": "2023880a6a5ae876f8bcdd7c5d8ebb0308c854f7",
-      "title": "Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip",
-      "url": "https://www.bbc.co.uk/news/articles/c62vd6j5llgo?at_medium=RSS&at_campaign=rss",
+      "id": "501c9561f678a892da55572a16a63583cdfbe1d2",
+      "title": "Family 'devastated' as hit-and-run driver who killed boy, 13, to have early prison release",
+      "url": "https://www.bbc.co.uk/news/articles/cvgxjdlzy9xo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-08-09T06:30:35.000Z",
+      "published": "2026-08-09T06:12:26.000Z",
       "summary_90w": "",
-      "raw": "A rare turtle is being flown home to the Caribbean Sea after being found washed up in Wales.",
+      "raw": "Harley Whiteman's sentence has been reduced as part of the UK government's early release scheme.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8c29632b3e7d87e4cdb509f526bf546a947d22eb",
+      "title": "Stray cats showing up at raves, gigs and pubs now have own merchandise",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3wwdd0w4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-09T06:05:19.000Z",
+      "summary_90w": "",
+      "raw": "Fargo and Murphy are pulling in punters and even have their own range of merchandise.",
       "topics": [
         "World"
       ]
@@ -115,19 +128,6 @@
       "published": "2026-08-09T04:32:06.000Z",
       "summary_90w": "",
       "raw": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0cae2b5b51a8877c437816a36b7386c903218550",
-      "title": "The Papers: 'Top universities cut entry grades' and 'Uefa set for Infantino inquiry'",
-      "url": "https://www.bbc.co.uk/news/articles/czek0nw2g1xo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-09T04:28:17.000Z",
-      "summary_90w": "",
-      "raw": "The Sunday Times reports that top institutions are becoming \"more flexible\" following a 10% drop in international students.",
       "topics": [
         "World"
       ]
@@ -640,19 +640,6 @@
       ]
     },
     {
-      "id": "06b82d7ff94c31126f037eed5e7e529240409aec",
-      "title": "Messi's father Jorge dies aged 68 after illness",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-08-08T15:51:11.000Z",
-      "summary_90w": "",
-      "raw": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a37f4063f20ef27b23097f9546bff9d5371eb9ec",
       "title": "Buc-ee’s dodges John Oliver to sue another small business",
       "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
@@ -739,19 +726,6 @@
       "published": "2026-08-08T13:34:45.000Z",
       "summary_90w": "",
       "raw": "K-pop conquered the world — now Chile's young creatives are remixing the movement and making it their own.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "29fda5a3ba64a25b5d9aeded5e4a8f54bc83fc29",
-      "title": "NBA forward Clarke's death due to effects of drugs",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-08-08T12:05:04.000Z",
-      "summary_90w": "",
-      "raw": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
       "topics": [
         "World"
       ]
@@ -988,19 +962,6 @@
       "raw": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f66a47c275c9ca706b42b55f13fcafef103cc061",
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-08-07T22:07:00.000Z",
-      "summary_90w": "",
-      "raw": "In a wide-ranging BBC interview, the former president's son denies any interest in running for office and says his father's cancer has spread.",
-      "topics": [
-        "World"
       ]
     },
     {
