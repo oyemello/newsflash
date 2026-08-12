@@ -1,16 +1,42 @@
 {
-  "version": "1786562467047",
-  "generatedAt": "2026-08-12T19:21:07.048Z",
+  "version": "1786565501963",
+  "generatedAt": "2026-08-12T20:11:41.963Z",
   "items": [
     {
-      "id": "665bcab5b3bb8935e31eb3bbcc78a9061e8ffa86",
-      "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
-      "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
+      "id": "05510c646bcda09864324de62e57e3ea9e70caff",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-12T20:10:40.000Z",
+      "summary_90w": "",
+      "raw": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d4578d08ad875739f2bf993bdf569e55b7dc5f26",
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-08-12T19:05:38.000Z",
+      "published": "2026-08-12T20:02:33.000Z",
       "summary_90w": "",
-      "raw": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
+      "raw": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3977c9756dfdbd9984effe792726d19317ad68c7",
+      "title": "Cruise ships, quiet towns and an all-day festival: millions flock to eclipse viewing spots across Europe",
+      "url": "https://www.theguardian.com/science/ng-interactive/2026/aug/12/cruise-ships-quiet-towns-and-an-all-day-festival-millions-flock-to-eclipse-viewing-spots-across-europe",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-12T19:56:41.000Z",
+      "summary_90w": "",
+      "raw": "Beginning in Russia’s remote Arctic north, the eclipse traced an arc over much of western Europe – with the best views in Spain, Iceland and Greenland\nIt was a moment of awe shared by millions across Europe: an eclipse that blocked out the sun, plunging parts of the continent into a daytime darkness in which temperatures dropped and birds suddenly went quiet.\nWednesday’s eclipse began in Russia’s remote Arctic north, going on to trace an arc over much of western Europe. From the UK to northern Italy, tens of millions of people turned to the sky as the light of the setting sun was almost completley blocked out.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -21,9 +47,48 @@
       "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-08-12T19:02:38.000Z",
+      "published": "2026-08-12T19:49:35.000Z",
       "summary_90w": "",
       "raw": "Eclipse witnessed by tens of millions across western Europe as enthusiasts gather along path of totality\nin Land’s End, Cornwall\nThe roads and car parks of west and north Cornwall are clogged as people gather to watch the solar eclipse.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6c38790bacddb969da72df6df11a4a5141ec9e70",
+      "title": "Students wait for A-level, T-level and BTec results",
+      "url": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-12T19:26:55.000Z",
+      "summary_90w": "",
+      "raw": "Another record number of students are expected to secure a place at their first choice of university.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8f279dfc29bcf22ff603562e7641d24d03d6cee3",
+      "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
+      "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-12T19:21:22.000Z",
+      "summary_90w": "",
+      "raw": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "665bcab5b3bb8935e31eb3bbcc78a9061e8ffa86",
+      "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
+      "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-12T19:05:38.000Z",
+      "summary_90w": "",
+      "raw": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
       "topics": [
         "World"
       ]
@@ -510,19 +575,6 @@
       ]
     },
     {
-      "id": "773957d5e477821a857c414329e6a8382bdb6faa",
-      "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
-      "url": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-12T15:07:21.000Z",
-      "summary_90w": "",
-      "raw": "The new feature, starting from mid-September, will tell listeners if an artist is AI-generated.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "d58d0ebf84db40e81dd0cde2d2932d86975bf33c",
       "title": "Silkroad Innovation Hub’s Road to Battlefield competition continues",
       "url": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
@@ -757,19 +809,6 @@
       ]
     },
     {
-      "id": "96b1f088d8c00966b94fc8c6572b76ce6c6814e8",
-      "title": "Google’s new Pixel 11 Pro Fold offers a stronger build and brighter screens",
-      "url": "https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-12T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Pixel 11 Pro Fold will cost $1,899.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "37e1250be2f2f9c56e4d1a3bbe97eee54e1406e7",
       "title": "Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini",
       "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
@@ -817,19 +856,6 @@
       "published": "2026-08-12T13:48:23.000Z",
       "summary_90w": "",
       "raw": "Lionel Messi says he is unsure how much longer he will continue playing football in an emotional tribute after his father's death.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "49656fa49bb682ddad1c40daeeaec52ca28f406f",
-      "title": "Estonia rejects proposals to take prisoners from UK jails",
-      "url": "https://www.bbc.co.uk/news/articles/cly5pj0qyd4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-12T13:47:12.000Z",
-      "summary_90w": "",
-      "raw": "Estonia's justice minister rules out a deal with the UK after Reform and the Conservatives suggested renting prison space abroad.",
       "topics": [
         "World"
       ]
@@ -1043,19 +1069,6 @@
       ]
     },
     {
-      "id": "0be22dfdc377071f1a6438049b920d30e7389bc8",
-      "title": "X-Men star Nicholas Hoult joins cast of Harry Potter TV show",
-      "url": "https://www.bbc.co.uk/news/articles/cy742kl562ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-12T10:03:56.000Z",
-      "summary_90w": "",
-      "raw": "Hoult, known for his roles in X-Men, Superman and Mad Max: Fury Road, will play Gilderoy Lockhart.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e28afb35baa13633dd30fa8e1674ff33189e263e",
       "title": "Feel so busy you don't even realize you're busy? Try doing a time audit",
       "url": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
@@ -1098,24 +1111,11 @@
       "id": "35c5c54688fea10b47ac91c5aa7b02b82549cb4f",
       "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
       "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-08-12T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
-      "id": "472e8571ba4d81694d2fd3043cf6378b581f5fcf",
-      "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2026-08-12T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium raise concerns about drinking water for tribal communities reckoning with the industry's deadly legacy.",
+      "raw": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts.",
       "topics": [
         "World"
       ]
@@ -1207,19 +1207,6 @@
       "published": "2026-08-12T04:29:02.000Z",
       "summary_90w": "",
       "raw": "The couple have tied the knot after the Portuguese captain played his last ever World Cup this summer.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "197b91df65e0d720ee1ade18e89b7999a4007a23",
-      "title": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
-      "url": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-12T04:00:20.000Z",
-      "summary_90w": "",
-      "raw": "Verdant thinktank says cost could top £25bn a year by 2030 and calls for maximum temperature for working and urban redesign to cool down cities\nRepeated debilitating heatwaves this summer are likely to have cost the UK economy more than £4bn in lost economic output by the end of July, new analysis shows.\nGreen thinktank Verdant had suggested June’s unseasonally hot weather had an economic cost of £2.36bn. Updating its assessment to include last month’s high temperatures, it finds a £4.4bn hit to output.\n Continue reading...",
       "topics": [
         "World"
       ]
