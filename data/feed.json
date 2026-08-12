@@ -1,7 +1,345 @@
 {
-  "version": "1786538903849",
-  "generatedAt": "2026-08-12T12:48:23.849Z",
+  "version": "1786543796828",
+  "generatedAt": "2026-08-12T14:09:56.828Z",
   "items": [
+    {
+      "id": "b86fbc4ab58f61b9cfb1d680f070170479a10492",
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-12T14:03:48.000Z",
+      "summary_90w": "",
+      "raw": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "79e825cd0f151a97c380fedce7e7511774c01f02",
+      "title": "Inflation eases in July as gasoline and grocery prices fall",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-08-12T14:00:29.000Z",
+      "summary_90w": "",
+      "raw": "Consumer prices in July were up 3.4% from a year ago — a smaller annual increase than in May or June. The news makes it less likely the Fed will feel the need to raise interest rates in September.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0cb3b98ba605469af0c85ffa4ea1ce349557a7d3",
+      "title": "Android now has a tap-to-share feature",
+      "url": "https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-12T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Android's AirDrop-like Quick Share feature will now let some devices exchange files and contact information when tapped together. The update is coming to Pixel 6 series phones and newer starting today, according to Google's announcement, and will roll out to Samsung's Galaxy Z Fold 8 Ultra, Fold 8, and Flip 8 \"soon.\"\nThe tap-to-share feature uses NFC and proximity to simplify sharing, enabling users to wirelessly send contact details, photos, videos, and more by opening the share sheet menu and bringing the two devices close together. Quick Share's tapping update will also be expanded to \"more Android devices by the end of the year,\" accord …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d8a26abeef46f490a23fe2755cd02a4dd3e31b50",
+      "title": "Google is making the Pixel cameras better by making them worse",
+      "url": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-12T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "If you look at a photo taken by a smartphone today, it's hard to find much that's technically wrong. Faces are bright and visible. The skies are pristine and blue. Even at night, scenes are well lit and noise-free. If the physical limitations of a tiny camera are what you're trying to solve for, you could probably label smartphone photography a mostly solved problem.\nBut in our current moment, the photos people are drawn to are not flawless - and that's created a real problem for the people making smartphone cameras. \"The gap between what two random people want from their camera is growing dramatically,\" says Isaac Reynolds, who leads the P …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7ce4b088717c7b6096919eb5591752546c940606",
+      "title": "Google takes on AirTag with the new $29 Pixel Tag",
+      "url": "https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-12T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Google’s new Pixel Tag taps into its Find Hub network to help users track lost keys, bags, and other items.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c1e1a42dc065a4446265e5fae930ab9bf73084b0",
+      "title": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-12T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The new smartwatch, which starts at $399, can track blood pressure patterns and insulin resistance, as well as deliver personalized help and better sleep tracking.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "96b1f088d8c00966b94fc8c6572b76ce6c6814e8",
+      "title": "Google’s new Pixel 11 Pro Fold offers a stronger build and brighter screens",
+      "url": "https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-12T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The Pixel 11 Pro Fold will cost $1,899",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "37e1250be2f2f9c56e4d1a3bbe97eee54e1406e7",
+      "title": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini",
+      "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-12T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Google Pixel 11 Series starts $100 costlier than the last year, but offers 256GB base storage",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "20e6018dc8acc00888b683a479371c8eb8528fc6",
+      "title": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
+      "url": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-12T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones are as beautiful as ever, with Google's signature camera bar and bright, colorful backing glass. There are small updates, like a single piece of glass covering the camera bar and the all-new HiLight ambient LED on the Pros. But this year, the Pixel is all about quality of life and software improvements.\nAfter weeks of teasers, Google has finally formally announced the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold. The phones are all shipping next we …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1b0e93cced6d2e52e58d23645fd3a63c3d7ffc57",
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-12T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge\t\n\nThe $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel Watch 5 isn't immune to RAMageddon - none of us are. Otherwise, no one would blame you for looking at this watch and thinking absolutely nothing's changed. That's because the big updates this year are all software-based.\nThis isn't a huge surprise considering Google's Fitbit Air launch in May. And after seeing some Pixel Watch 5 …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c25af4a5238aab1e255ef624b747fce76ac5c0de",
+      "title": "The Pixel Tag is Google’s answer to the AirTag",
+      "url": "https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-12T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The Pixel Tag is longer but thinner than Apple’s AirTags.\t\n\nMore than two years after launching its own device-tracking network, Google has finally followed up with its own tracker. The Pixel Tag, which goes on sale in November, looks like one of the more capable trackers too: It combines ultra wideband (UWB) with Bluetooth 6.0 Channel Sounding for two distinct types of precision tracking.\nThe Pixel Tag goes on sale on November 11th, unlike the newly announced Pixel 11 and Pixel Watch 5, which are already available to preorder and ship next week. When it arrives, the Tag will cost $29, with a four-pack for $99 - the exact same pricing as Apple's AirTag 2.\nThe Pixel Tag is a slim oblong device avail …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8600667e5f23553112cf97d4fae62e70dcd9b100",
+      "title": "Europe solar eclipse live: millions flock to viewing spots in Spain, UK and Iceland",
+      "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-12T13:59:09.000Z",
+      "summary_90w": "",
+      "raw": "Eclipse to be witnessed by tens of millions across western Europe as enthusiasts gather along path of totality\nThe last significant partial eclipse was reported in the UK in 1999.\nHere is how we covered it at the time at the Guardian:\n“Britain was brought to a standstill for almost an hour yesterday as millions of people left their homes, offices and factories to watch the last eclipse of the millennium.\nThe rush to watch the skies in the West Country and across the country resulted in the biggest power surge ever recorded on the National Grid and is estimated to have cost the country £500m in lost business.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d246d4593f0b4630b6ea75aeb333134eedce963a",
+      "title": "Cambridge review into Jason Arday post will be independent, university says",
+      "url": "https://www.bbc.co.uk/news/articles/cn4npy3w1p2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-12T13:56:37.000Z",
+      "summary_90w": "",
+      "raw": "Vice-chancellor Deborah Prentice in a letter to staff says she shares concerns raised about Jason Arday's appointment as professor.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ee295099557e53eb0a75bea7c806144aeb018a6a",
+      "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
+      "url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-08-12T13:55:56.000Z",
+      "summary_90w": "",
+      "raw": "The vessel is said to have overturned after being hit by strong waves.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "57af0b2186c2e596b8b9f83ec89d6ff37a06d1d5",
+      "title": "Jaguar offers a first look inside the all-electric Type 01",
+      "url": "https://www.theverge.com/transportation/978793/jaguar-type-01-interior",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-12T13:48:48.000Z",
+      "summary_90w": "",
+      "raw": "Jaguar's all-electric Type 01 comes with a very beige interior that divides the four seats with a \"spine\" that spans the length of the cabin. New photos shared by Jaguar show a low-slung driver's seat, alongside a slim dashboard with a smartphone-style display in the center.\nThis vehicle doesn't come with a traditional rear-view mirror, as Jaguar says you'll find a \"ClearSight Rear View Display\" at the very bottom of the windshield, positioned at the \"same height as the door mirrors, to help the driver focus.\" There are also some \"concealed compartments\" and \"hidden‑until‑needed technologies\" according to Jaguar, though you c …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "99c212c81d8e5ada9150ca16d871dc4b133a409c",
+      "title": "Messi unsure he will play 'much longer' after father's death",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-12T13:48:23.000Z",
+      "summary_90w": "",
+      "raw": "Lionel Messi says he is unsure how much longer he will continue playing football in an emotional tribute after his father's death.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c9a1ebd9ff80ca83ad4c49692fb7847c86cc84d9",
+      "title": "US inflation eases as food costs cool",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-08-12T13:40:51.000Z",
+      "summary_90w": "",
+      "raw": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "db53527b20c43b2fb0b7a18c9fe78143b76cfa90",
+      "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
+      "url": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-08-12T13:38:58.000Z",
+      "summary_90w": "",
+      "raw": "The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7f9562a36ca967502ab86c14cabe00863a6ada56",
+      "title": "Wisconsin result dents winning streak for Democratic Party's left wing ",
+      "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-12T13:35:12.000Z",
+      "summary_90w": "",
+      "raw": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "670ab04c5ec974115a6af81a790fab467d2d404f",
+      "title": "Burnham warned of Iran war impact on UK growth next year",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-12T13:33:58.000Z",
+      "summary_90w": "",
+      "raw": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "665bcab5b3bb8935e31eb3bbcc78a9061e8ffa86",
+      "title": "Burnham considers disposable BBQ ban over wildfire risks",
+      "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-12T13:31:51.000Z",
+      "summary_90w": "",
+      "raw": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b1daa08744b6aec60da85ca4078007e73e70a71f",
+      "title": "Brendan Carr is one firing away from an unchecked FCC",
+      "url": "https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-12T13:31:19.000Z",
+      "summary_90w": "",
+      "raw": "President Donald Trump already holds a Republican majority in the agency tasked with regulating America's communications systems. But with a new nomination to the Federal Communications Commission, he could move to shut out opposing voices altogether - albeit at a legal risk.\nThe FCC is currently composed of two Republicans and one Democrat - Republican Chair Brendan Carr and Commissioner Olivia Trusty, and Democratic Commissioner Anna Gomez. This mixed group gives the agency a three-member quorum that allows it to vote on major actions, though it still falls short of the five members (no more than three from a single party) the FCC is mean …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9d011fa495dbd7bb3a6563698524db474e8fd04c",
+      "title": "Family almost miss £1m lotto win after ignoring calls",
+      "url": "https://www.bbc.co.uk/news/articles/cp87pvqd1m3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-12T13:14:31.000Z",
+      "summary_90w": "",
+      "raw": "The Jefferson family said they were \"absolutely floored\" and \"in tears\" after they realised.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "638c2f5fbec99acc728ddf71487d68b62ac8972f",
+      "title": "His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize",
+      "url": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-08-12T13:00:19.000Z",
+      "summary_90w": "",
+      "raw": "Dr. Raj Panjabi founded Last Mile Health to bring healthcare to people living in remote areas. The group is the 2026 recipient of the Conrad N. Hilton Humanitarian Prize.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "55a2df25944bdf656233b7b4b5d2c4de960d4864",
+      "title": "Insta360’s next 360-degree action cam puts bigger sensors in a smaller design",
+      "url": "https://www.theverge.com/tech/978211/insta360-x6-360-degree-action-camera-8k-price-availability",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-12T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Insta360 announced the next iteration of its popular 360-degree action cameras that have helped the company expand its offerings. The new X6 introduces a design that's smaller than last year's X5 and X4 Air but with improved video capabilities thanks to an even larger pair of custom 1/1.1-inch square sensors from Sony. While last year's models offered 8K recording at up to 30fps, the new X6 can capture 8K at up to 50fps. It also carries forward the X5's replaceable lenses, which are now five times more scratch-resistant and 60 percent cheaper, according to the company.\nThe Insta360 X6 is available today in black or white through the company …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a6c6e59f5822cef34a6a4fbe5c52944ba1531b69",
+      "title": "Massive bailout for Australia’s largest aluminium smelter to be announced by PM and NSW premier",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/12/massive-bailout-for-australias-largest-aluminium-smelter-expected-to-be-announced-by-pm-and-nsw-premier",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-12T12:59:02.000Z",
+      "summary_90w": "",
+      "raw": "Rio Tinto said in December it may cease operations at the Tomago aluminium smelter at the end of its current electricity supply contract\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAnthony Albanese and the New South Wales premier, Chris Minns, will mount a major bailout of Australia’s largest aluminium smelter, in a deal worth $2.5bn.\nResources giant Rio Tinto said in December it was contemplating ceasing operations at the Tomago aluminium smelter, located north-west of Newcastle, at the end of its current electricity supply contract.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "58d4d606e0e304948e1240f41646b9eb0acc4514",
       "title": "Zhu Rongji, who drove China's 1990s economic reforms, has died at 97",
@@ -11,6 +349,19 @@
       "published": "2026-08-12T12:36:30.000Z",
       "summary_90w": "",
       "raw": "Zhu was renowned for reforms that sought to transition China from the post-Maoist years to a more global market-oriented financial system, without ceding party control over the economy.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "82492c0ba81bee47cbb324fcf13cf8fd8fdf995f",
+      "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-12T12:32:24.000Z",
+      "summary_90w": "",
+      "raw": "The actress, best known for playing Dawn in The Office, has revealed she has incurable breast cancer.",
       "topics": [
         "World"
       ]
@@ -42,32 +393,6 @@
       ]
     },
     {
-      "id": "b86fbc4ab58f61b9cfb1d680f070170479a10492",
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-12T12:16:22.000Z",
-      "summary_90w": "",
-      "raw": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d246d4593f0b4630b6ea75aeb333134eedce963a",
-      "title": "Cambridge review into Jason Arday post will be independent, university says",
-      "url": "https://www.bbc.co.uk/news/articles/cn4npy3w1p2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-12T12:14:24.000Z",
-      "summary_90w": "",
-      "raw": "Vice-chancellor Deborah Prentice in a letter to staff says she shares concerns raised about Jason Arday's appointment as professor.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "0b1cdcfb56583d469601896f3ccb73054a723288",
       "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
       "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
@@ -75,7 +400,7 @@
       "source_name": "BBC News",
       "published": "2026-08-12T12:10:45.000Z",
       "summary_90w": "",
-      "raw": "Zhu brought China into the WTO and championed reforms that fuelled growth.",
+      "raw": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
       "topics": [
         "World"
       ]
@@ -107,60 +432,21 @@
       ]
     },
     {
-      "id": "ee295099557e53eb0a75bea7c806144aeb018a6a",
-      "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
-      "url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+      "id": "12b9e4da85b58a561afe7ef9c57ded4c4d561cfb",
+      "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2026-08-12T12:01:34.000Z",
+      "published": "2026-08-12T11:28:05.000Z",
       "summary_90w": "",
-      "raw": "The vessel is said to have overturned after being hit by strong waves.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4312292f9917ac37e5baed098a3ac9ea846326c9",
-      "title": "Grok is now an AI ‘teammate’ you can assign work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-12T11:58:54.000Z",
-      "summary_90w": "",
-      "raw": "You’ll have to be fine with letting Grok sign into your online accounts, however. | Image: SpaceXAI\t\n\nSpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work is completed or if something requires approval.\nGrok Bot (or Bots, as SpaceXAI inconsistently pluralizes it) is the latest push from Elon Musk's AI company to keep up with business services launched by rival AI providers, including OpenAI's ChatGPT Work, Anthropic's Claude Cowork, and Microsoft's Cop …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "665bcab5b3bb8935e31eb3bbcc78a9061e8ffa86",
-      "title": "Burnham says disposable BBQ ban under consideration",
-      "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-12T11:48:58.000Z",
-      "summary_90w": "",
-      "raw": "The PM said the public should not be using single-use grills \"at this moment in time\" amid wildfire risks.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7f9562a36ca967502ab86c14cabe00863a6ada56",
-      "title": "Wisconsin result dents winning streak for Democratic Party's left wing ",
-      "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-12T11:32:17.000Z",
-      "summary_90w": "",
-      "raw": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
+      "raw": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
       "topics": [
         "World"
       ]
     },
     {
       "id": "12b9e4da85b58a561afe7ef9c57ded4c4d561cfb",
-      "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+      "title": "River Danube's low water levels reveal remains of WWII soldiers and motorcycle",
       "url": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -263,19 +549,6 @@
       ]
     },
     {
-      "id": "5a5b72b1ffcb1549373b0afaddafefe7adaab20b",
-      "title": "Phones banned in Edinburgh schools - but still no pouches to keep them in",
-      "url": "https://www.bbc.co.uk/news/articles/c1512z7zz45o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-12T10:13:37.000Z",
-      "summary_90w": "",
-      "raw": "The council say the pouches will not be ready until next month at the earliest, as the new system is still being tested.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "42562db85397ee2c864d421c0f61479ac16d367a",
       "title": "Barnaby Joyce claims One Nation ‘one of the gayest parties in Australia’ as former candidate’s comments surface",
       "url": "https://www.theguardian.com/australia-news/2026/aug/12/barnaby-joyce-one-nation-paraminder-singh-homophobic-comments-ntwnfb",
@@ -316,7 +589,7 @@
     },
     {
       "id": "47b301909336badb7ffeb12cf53e5b197e281b60",
-      "title": "‘Send food photos’: Lobbyist paid for former premier’s brother to go to Fiji to avoid inquiry, Icac hears",
+      "title": "‘Send food photos’: lobbyist paid for former premier’s brother to go to Fiji to avoid inquiry, Icac hears",
       "url": "https://www.theguardian.com/australia-news/2026/aug/12/members-of-liberal-group-received-kickbacks-from-lobbying-companys-catholic-schools-nsw-contract-icac-hears-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
@@ -344,13 +617,13 @@
       "id": "a7aea9ca5091823ecd58cd23ebbb51ebbd54b610",
       "title": "AI chatbots are offering financial advice. Should you trust them?",
       "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-08-12T09:00:00.000Z",
       "summary_90w": "",
       "raw": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -375,19 +648,6 @@
       "published": "2026-08-12T09:00:00.000Z",
       "summary_90w": "",
       "raw": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8c8da720befd71c4eb5dbac96a12fefe6e9b05ba",
-      "title": "How a road could change West Africa's urban future",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-08-12T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A 600-mile journey along the shores of Nigeria, Togo, Ghana and Ivory Coast reveals one of the world's most consequential transformations.",
       "topics": [
         "World"
       ]
@@ -432,19 +692,6 @@
       ]
     },
     {
-      "id": "5faa757e3fce7c2d5a3e680af6db8b66a82358ce",
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-08-12T08:47:50.000Z",
-      "summary_90w": "",
-      "raw": "Voters in a half a dozen states went to the polls Tuesday, report suggests President Trump switch aircraft due to threat as he was leaving NATO, Iraq's leader wants to disarm Iran-backed militias.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b6ca34f0d7b82c414a92568caf78339737496ee3",
       "title": "O’Neil condemns Bragg’s ‘crazed’ press club speech – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
@@ -466,19 +713,6 @@
       "published": "2026-08-12T08:18:06.000Z",
       "summary_90w": "",
       "raw": "Coalition demands police investigate apparent leaking of diplomatic cable to newspaper but Labor calls it a ‘silly political stunt’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe Japanese ambassador has downplayed Anthony Albanese’s comments about a gift of melons from Sanae Takaichi, saying Tokyo had been reassured by the Australian government that the prime minister “did not make the comments in the way that has been reported”.\nWhile the Coalition continued to raise outrage over Albanese’s comments to the Bush Deep podcast, including seeking to have federal police investigate the alleged leaking of a diplomatic cable to a newspaper, the Japanese government appeared to be uninterested in making a diplomatic incident out of the much-maligned comments.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "455650e8572fd4657bb52a71650c870ca8c660d2",
-      "title": "Andrew Bragg stands by proposed migration limits – even as Liberal colleagues decline to back him in",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/12/andrew-bragg-stands-by-proposed-migration-limits-even-as-liberal-colleagues-decline-to-back-him-in",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-12T07:55:26.000Z",
-      "summary_90w": "",
-      "raw": "Angus Taylor and other Coalition members not supporting shadow housing minister’s target migration numbers, which would be the lowest figures since the mid-2000s\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe Liberal senator Andrew Bragg has stood by his proposal to lower net migration to 180,000 a year in a wide-ranging speech where he lamented not stopping the Morrison government’s “madness” – even as colleagues side-stepped supporting the target figure publicly.\nThe opposition frontbencher said a housing “shortfall” – comparing the number of dwellings against population size – could be rectified if the net overseas migration (Nom) target was set at 180,000 or under over four years.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -591,7 +825,7 @@
       "id": "2f268ade5224feb5e990d12b9cccf67d37a38e08",
       "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
       "url": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-08-12T04:29:02.000Z",
       "summary_90w": "",
@@ -643,7 +877,7 @@
       "id": "918822e7081f5e7eb6d86b518814570045f1088b",
       "title": "Trump confirms he switched planes after Nato summit because of possible threat ",
       "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-08-12T03:44:55.000Z",
       "summary_90w": "",
@@ -702,19 +936,6 @@
       "raw": "The Comac C919 will fly from Beijing to Ulaanbaatar in Mongolia, although experts say it could take generations for it to challenge the west’s dominance of the industry\nChina hopes to break into the world of commercial aviation with the first international flight of a Chinese-made passenger jet scheduled for Wednesday.\nThe Comac C919 will take off from Beijing capital international airport at 3pm, landing in Ulaanbaatar, the capital of Mongolia, just over two hours later.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "1b1c36bc0450261ccee71aad8f2d15230e13b70b",
-      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-12T00:39:26.000Z",
-      "summary_90w": "",
-      "raw": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine.\nThe writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! And Saber replaced me with ChatGPT midway through development. All the passenger voices were AI too. Either they changed direction at some point or they're not disclosing it on Steam.\" \nSaber describes Rideshare \"Stimulator\" as an \"immersive driving simulation game that puts you behind the wheel …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -796,32 +1017,6 @@
       ]
     },
     {
-      "id": "e2654308c02bdda9e20f36472cd0e6ef8c50e31e",
-      "title": "The Office actress Lucy Davis says she has 'incurable' cancer",
-      "url": "https://www.bbc.co.uk/news/articles/crk51vk37d6o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-11T22:51:24.000Z",
-      "summary_90w": "",
-      "raw": "Davis, who played receptionist Dawn in the UK sitcom, says the cancer has spread and it's \"too late for chemo\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d2e9b650d70bbd20eb4fe6d890beee095ae7108a",
-      "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
-      "url": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-11T22:36:35.000Z",
-      "summary_90w": "",
-      "raw": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp.\nIn May, a Brazilian regulator's leaked images revealed that Xbox Elite 3 would have new two new scroll wheels on the bottom edge, a second wireless mode to connect directly to Xbox Cloud Gaming servers, and a new \"Pair Button\" that can also switch between those servers and your console.\nWhere might that pair button live? Today, we have a possible answer: it might sit right next to t …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "00522abffb0afc7f1f3a204ae17d2c5cd748c940",
       "title": "Watch: What is it like to travel on Air Force One with Trump?",
       "url": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&at_campaign=rss",
@@ -874,19 +1069,6 @@
       ]
     },
     {
-      "id": "99a21de577e11c38d04c8137f9819c34a6c449a2",
-      "title": "An FCC filing points to new Sonos headphones coming soon",
-      "url": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-11T21:23:30.000Z",
-      "summary_90w": "",
-      "raw": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, Inc reveals details about upcoming wireless headphones with the model number S52A.\nIn addition to the S52A designation, one of the submitted documents shows an oval diagram - likely the ear cup - marked with the name Sonos Ace Ultra, although that name isn't listed anywhere else. It follows the naming scheme Sonos has used in the past with its Arc and Arc Ultra soundbars. The documents also list color options we'll likely see …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "00d5a734153db84d50bab2dedcbc7c6a9133f849",
       "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
       "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
@@ -914,13 +1096,13 @@
     },
     {
       "id": "c79c0ee4842c2687562789ee26caf9a32fab8c9e",
-      "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+      "title": "Decoys to hide presidents are common - but elaborate Trump ruse was different level",
       "url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-08-11T20:39:42.000Z",
       "summary_90w": "",
-      "raw": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+      "raw": "Deceptions of varying complexity are often used to thwart potential threats, former Secret Service agents say.",
       "topics": [
         "World"
       ]
@@ -939,19 +1121,6 @@
       ]
     },
     {
-      "id": "72f52ad1b9387ca67cbba8a267cac8ee6e559423",
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-11T19:41:42.000Z",
-      "summary_90w": "",
-      "raw": "That’s a lot of people chatting with their AI friends all day. | Image: Google\t\n\nFor the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever.\nA billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT hit the mark a few weeks ago, though the company buried the announcement that \"more than 1 billion people are putting ChatGPT to work\" in an otherwise anodyne blog post about how people use AI. External data suggested ChatGPT crossed 1 billion users as early as this June, but OpenAI hadn't announced anything until that post on August 6th.  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "0d1b0a87963017eee67d1970f4d2d2df76d50758",
       "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
       "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
@@ -965,9 +1134,9 @@
       ]
     },
     {
-      "id": "9f48ad608ffda13a4a0a9d4b1fc055c72c0afb34",
+      "id": "c706b5ec2999390e124c614fd470f50c2d69e01a",
       "title": "Tech Life",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy8?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2026-08-11T19:30:00.000Z",
@@ -1004,19 +1173,6 @@
       ]
     },
     {
-      "id": "eb8a25f73968127d24152a96c26e93dc0174576e",
-      "title": "Threads has a VR app now",
-      "url": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-11T19:10:14.000Z",
-      "summary_90w": "",
-      "raw": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent news that the platform has crossed 500 million monthly active users.\nIt seems like a pretty full-featured app. Meta says that with the Threads VR app, you can do things like browse feeds, make posts, like and reply to posts, visit profiles, search, and watch videos - you know, Threads stuff.\n\"We designed the new Threads app for Meta Quest to make using VR more social than ever,\" Meta says. \"Whether you want to keep up with conversations during a ga …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "8b18fe174be4812d001065aadd87679385f24dd2",
       "title": "Google’s Gemini app surges to 1 billion users",
       "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
@@ -1025,45 +1181,6 @@
       "published": "2026-08-11T18:49:12.000Z",
       "summary_90w": "",
       "raw": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "d23e93a5150cc49b3a489b28c67c4edf6f849881",
-      "title": "Google’s free streaming service now lets you pick shows and movies to watch",
-      "url": "https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-11T18:35:16.000Z",
-      "summary_90w": "",
-      "raw": "Google TV Freeplay, the company's free, ad-supported streaming service, now supports video on demand. Instead of tuning into Google TV Freeplay's selection of always-on channels, you can now choose from over 10,000 shows and movies to watch whenever you want.\nThe update introduces titles like Lady Bird, Seventeen Again, and Hell's Kitchen, according to Google's announcement. The company has also expanded its live TV lineup to include more than 300 channels dedicated to news, sports, reality TV, true crime, and more. Some of these new channels include World of Love Island, Yahoo! Sports Network, Bloomberg TV Plus, and The Martha Stewart Chan …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "de1c5dc5e67bd16eb6d33cf1e15ab8d89cf47d60",
-      "title": "Former judge removed by Orbán elected Hungarian president",
-      "url": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-08-11T18:34:39.000Z",
-      "summary_90w": "",
-      "raw": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4b76f34b9372d46036fe75e6d8119b3054b4b90f",
-      "title": "Another OpenAI executive takes off",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-11T17:50:01.000Z",
-      "summary_90w": "",
-      "raw": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\"\n\"Over the last few months, I've been focused on the next horizon and what would stand in the way of mission success,\" Lightcap wrote. \"I believe there are a few important new things the world will need to get right as we enter this next period. I … am excited to help you all advance the mission from a different vantage point.\" He added that he'd still be around for the next few weeks. \nLightcap's role  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -1199,32 +1316,6 @@
       ]
     },
     {
-      "id": "8e64a56c1c9aaa7fe3574b0e2aa0dc36fea14e53",
-      "title": "Block Blast! goes ad-free on Apple Arcade",
-      "url": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-11T15:33:59.000Z",
-      "summary_90w": "",
-      "raw": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "4585737111e77a315d1e2e463d80d5124e527141",
-      "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026 ",
-      "url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-11T15:30:00.000Z",
-      "summary_90w": "",
-      "raw": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "8c94fd507d2cd9ad1ad80ace085b6286edcb2973",
       "title": "Lebanon parliament votes to abolish death penalty",
       "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
@@ -1233,32 +1324,6 @@
       "published": "2026-08-11T15:24:07.000Z",
       "summary_90w": "",
       "raw": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "bb5e83aa0a26ae5fc16e725c7162432ca715ab3f",
-      "title": "FlightAware sues Kalshi over flight cancellation prediction markets",
-      "url": "https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-11T15:23:58.000Z",
-      "summary_90w": "",
-      "raw": "FlightAware says that Kalshi used its name and data to offer bets on flight cancellations without the flight tracker's permission.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "1bf4b58ce1584e43c526467c7d83b588601d6708",
-      "title": "Former judge Baka elected new Hungarian president in another break from Orbán era – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-11T15:21:05.000Z",
-      "summary_90w": "",
-      "raw": "The new president is a former judge on the European Court of Human Rights\nSpanish foreign minister José Manuel Albares visited Ceuta earlier today, as he insisted that Madrid had it all under control despite “the most unique and complex” border arrangements there.\nHe said Spain was in direct dialogue with the Moroccan authorities on how to prevent another border crisis.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1287,19 +1352,6 @@
       "raw": "Look to the skies on Wednesday because one of the most spectacular solar eclipses for decades is coming the UK's way with likely optimum viewing conditions for many.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "d603e1d38a31503d52fdf237d302e440a9f697b3",
-      "title": "Kyoto Fusioneering starts work on key fusion power plant device",
-      "url": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-11T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1683,13 +1735,13 @@
       "id": "07d2c767e71ec25d712b3cbc73c500d91c3e3a80",
       "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
       "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2026-08-07T10:00:00.000Z",
       "summary_90w": "",
       "raw": "Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.",
       "topics": [
-        "Business"
+        "Technology"
       ]
     },
     {
