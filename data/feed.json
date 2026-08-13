@@ -1,18 +1,161 @@
 {
-  "version": "1786635668147",
-  "generatedAt": "2026-08-13T15:41:08.147Z",
+  "version": "1786638974165",
+  "generatedAt": "2026-08-13T16:36:14.165Z",
   "items": [
+    {
+      "id": "a882921f3e5d6ff8bf93cdf985249b41586a39b4",
+      "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
+      "url": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T16:23:18.000Z",
+      "summary_90w": "",
+      "raw": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. \nThe first Fathoms will be prototypes, with Ford's team in Louisville already in the production-level pre-tooling phase at the recently converted facility. Factory workers are working alongside team's at Ford's New Model Product Development Center in Dearborn, Michigan, hand-building the Fathom prototypes - and the same operators who helped design the high-stakes EV will also be involved in its production. \nThe factory is over 70 years old …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "a9c2cf0e9ceebfed1b7c4de83e102fa8ab5edb23",
       "title": "Honeytrap thieves jailed for killing men they had drugged",
       "url": "https://www.bbc.co.uk/news/articles/cz972klkpkxo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-08-13T15:34:18.000Z",
+      "published": "2026-08-13T16:21:04.000Z",
       "summary_90w": "",
       "raw": "Adina Mihai and Madalin Dumitru gave their victims the drug GBL to render them unconscious.",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "09443cca3dddb1a7ad427ed01ccd304f27238330",
+      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-13T16:20:41.000Z",
+      "summary_90w": "",
+      "raw": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "40a7b54ef224ddcdb371fdacc3f02781ad1a3ad3",
+      "title": "Europe heatwave live: UK sees temperatures of 38.1C, the hottest day of 2026; Greece battles gale force winds, sparking fears about wildfires",
+      "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-13T16:18:34.000Z",
+      "summary_90w": "",
+      "raw": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to come\nMet Office has just offered an update on temperatures across the UK, with several stations already reporting temperatures above 30C – and it’s not even 11am.\nIt’s 30.4C in Wych Cross, 30.3C in Charlwood, 30.2C at Kenly Airfield.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "78e63f97b4f0f078fa9a7c6b51afdcded56e650b",
+      "title": "Meta adds AI screening to detect WhatsApp scams",
+      "url": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T16:10:06.000Z",
+      "summary_90w": "",
+      "raw": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users a warning if a chat seems like a scam:\nIf the model identifies a message as a likely scam attempt, the user sees a warning in the chat, which is not visible to the other person. From there, the user can decide what to do: block, report, or continue the conversation. If they decide that a warning is incorrectly flagged, the user can mark the cha …\n\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "91fd82f2cc467e1d4ffc93a1f7f7bd525d286062",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-08-13T16:05:35.000Z",
+      "summary_90w": "",
+      "raw": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9f3f44e2b729e4572fe40397f5a4c2180005149b",
+      "title": "Suno is trying to look more like a real music production tool",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth appears to be a basic two-oscillator wavetable plugin with three envelopes and four envelopes.\nThe point is less about using your favorite Arturia vintag …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "05c3822b77af0cab0a6a67768daccf9a2cb71698",
+      "title": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
+      "url": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for the mountain-man roads of the Catskills, then on to Long Island and New England over three days. Fortunately, this Grand Sport, a name synonymous with value among Corvette fans, was the first of its kind: A 721-horsepower super-hybrid with a brainy, confidence-boosting AWD system. I popped the Corvette into Sport mode, Wet mode be damned. Finding tire grip galore on the Palisades Parkway, I realiz …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "dfdac2599aa2f1a5b11e75f7169fbbb502d20638",
+      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+      "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-13T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "182debe3e33aaa8734d67fd01bea3dcaa4bb2418",
+      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+      "url": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-08-13T15:50:49.000Z",
+      "summary_90w": "",
+      "raw": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "52acc99641b808fe4e63effa462b139225cdbf57",
+      "title": "UK records hottest day of the year as fifth summer heatwave reaches peak",
+      "url": "https://www.theguardian.com/environment/2026/aug/13/uk-records-hottest-day-of-the-year-fifth-summer-heatwave-peak",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-13T15:48:53.000Z",
+      "summary_90w": "",
+      "raw": "Kew Gardens in London hits 38.1C and 40C-plus expected in parts of Europe with continent trapped under heat dome\n\nEurope heatwave – latest updates\n\n\nThe UK has recorded its hottest day of the year so far with a provisional temperature of 38.1C in southern England as Europe sweltered under a major heat dome.\nAs temperatures on the continent approached 40C at the peak of the summer’s fifth heatwave, the thermometer at Kew Gardens in west London surpassed the previous high of 38C on 28 June, the Met Office said.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3076376d447bf2cea9e05f7f2ae4fadd3ac547b9",
+      "title": "Instagram introduces a redesigned wordmark",
+      "url": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-13T15:46:02.000Z",
+      "summary_90w": "",
+      "raw": "The social media giant says it was time for a sharper and more modern look after a decade.",
+      "topics": [
+        "Technology"
       ]
     },
     {
@@ -55,14 +198,14 @@
       ]
     },
     {
-      "id": "40a7b54ef224ddcdb371fdacc3f02781ad1a3ad3",
-      "title": "Europe heatwave live: Greece battles gale force winds, sparking fears about wildfires; UK sees temperatures of 37C for third time this year",
-      "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-13T15:24:54.000Z",
+      "id": "27e801bcd5606ca98d12d6be788315e7084d1bf5",
+      "title": "Children in temporary accommodation in England hits record high",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw7nxdwlpo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-13T15:25:02.000Z",
       "summary_90w": "",
-      "raw": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to come\nMet Office has just offered an update on temperatures across the UK, with several stations already reporting temperatures above 30C – and it’s not even 11am.\nIt’s 30.4C in Wych Cross, 30.3C in Charlwood, 30.2C at Kenly Airfield.\n Continue reading...",
+      "raw": "The number of children living in temporary accommodation has hit its 18th quarterly high in a row.",
       "topics": [
         "World"
       ]
@@ -166,7 +309,7 @@
       "source_name": "The Verge",
       "published": "2026-08-13T15:00:38.000Z",
       "summary_90w": "",
-      "raw": "It’s certainly…different. | Image: Meta\t\n\nInstagram has unveiled a new wordmark, moving away from the recognizable cursive typeface it's used over the last decade. The updated wordmark is a strange mix of half-cursive half-print that's somehow less legible than its predecessor. Like, that totally says \"Instagzam\", right?\n\"The wordmark at the top of the app hasn't changed in 10 years, so it was time for a refresh,\" Instagram head Adam Mosseri announced on his account. \"Cleaner and more modern, with references to the original and the simplicity and craft that's always made it Instagram.\"\nMosseri is seemingly aware that this will be a controversial change, because he also posted it t …\nRead the full story at The Verge.",
+      "raw": "It’s certainly… different. | Image: Meta\t\n\nInstagram has unveiled a new wordmark, moving away from the recognizable cursive typeface it's used over the last decade. The updated wordmark is a strange mix of half-cursive half-print that's somehow less legible than its predecessor. Like, that totally says \"Instagzam,\" right?\n\"The wordmark at the top of the app hasn't changed in 10 years, so it was time for a refresh,\" Instagram head Adam Mosseri announced on his account. \"Cleaner and more modern, with references to the original and the simplicity and craft that's always made it Instagram.\"\nMosseri is seemingly aware that this will be a controversial change, because he also posted it t …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -237,19 +380,6 @@
       ]
     },
     {
-      "id": "09443cca3dddb1a7ad427ed01ccd304f27238330",
-      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-13T14:58:09.000Z",
-      "summary_90w": "",
-      "raw": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "0735ca048a525e4dadd582be1dadea0f1ed91ffa",
       "title": "How Premier League shirts will change with gambling sponsor ban",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4g3vrr1vdro?at_medium=RSS&at_campaign=rss",
@@ -310,19 +440,6 @@
       "published": "2026-08-13T14:29:11.000Z",
       "summary_90w": "",
       "raw": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c72cb4ccea41ad4d2659fc29e0455e77d60c754f",
-      "title": "Harvey Nichols bought by owner of Sports Direct",
-      "url": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-13T14:27:43.000Z",
-      "summary_90w": "",
-      "raw": "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading.",
       "topics": [
         "World"
       ]
@@ -406,19 +523,6 @@
       ]
     },
     {
-      "id": "1d8f1d93e3544938b4647116ea6f8d87462f87a1",
-      "title": "Samsung&#8217;s $1,900 Z Fold 8 is still vulnerable to pocket lint",
-      "url": "https://www.theverge.com/tech/979421/ifixit-samsung-galaxy-z-fold-8-hinge",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-13T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "iFixit has provisionally given Samsung's Galaxy Z Fold 8 a repairability score of 4 out of 10, which largely hinged on… well, the hinge. In its teardown of the device, iFixit found that because it carries an IP48 ingress rating - meaning it isn't protected against particles under 1 millimeter - dust and sand could make its way into the hinge mechanism, a component that's difficult to repair or replace.\n\"After working the Fold 8 open and closed, the hinge started making truly awful crunching and grinding noises, and the phone stopped opening normally,\" iFixit said. \"Samsung has previously treated the hinge and inner display as one replacemen …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "03da5132c95859a295011a11a2d0fcf27b9dc631",
       "title": "Wearables are getting a taste of much-needed minimalism",
       "url": "https://www.theverge.com/column/978295/optimizer-screenless-wearables-fitness-trackers-smart-rings",
@@ -471,19 +575,6 @@
       ]
     },
     {
-      "id": "6e6b6506dea23772e086919e611eacea1b71ec93",
-      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-13T13:30:00.000Z",
-      "summary_90w": "",
-      "raw": "You soon won’t have to look at two Copilot apps in your Windows taskbar. | Image: Microsoft\t\n\nMicrosoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the \"Microsoft Copilot\" name but features an updated app icon. The single app also means there won't be two annoying Copilot icons in the system tray or taskbar anymore. \n\"Starting with a fresh look, the updated app combines the best of Copilot chat and image creation, with the power of Microsoft 365 for your work,\" Microsoft said in its update announcement. The updates are …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "b99be3d89542c50b46f1aaddfce805a1c45f5a26",
       "title": "Three men will be executed on the same day as death penalties rise in US",
       "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
@@ -531,32 +622,6 @@
       "published": "2026-08-13T13:02:24.000Z",
       "summary_90w": "",
       "raw": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "23d980139bda3e05151f52ff5c9544ae84a2ba22",
-      "title": "Flock CEO: ‘We got this one wrong’",
-      "url": "https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-13T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Surveillance tech company Flock is rolling out updates to address reports of cops across the country abusing its tools to stalk ex-romantic partners and others. CEO Garrett Langley is delivering a mea culpa, and in an interview with The Verge, says he's changed his mind on what responsibility Flock bears for how law enforcement uses it.\nOver the coming weeks, Flock will begin implementing updates that include requiring a previously optional feature called Audit Assistance, which flags \"abnormal search behavior\" and immediately locks out suspicious users until an administrator reviews their activity. All users will also be required to enter  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0f4450a20809fda560c42f8f2fb2da63c88f1d2d",
-      "title": "Nintendo’s next Fire Emblem has a bold new structure",
-      "url": "https://www.theverge.com/games/977955/fire-emblem-fortunes-weave-preview-impressions-nintendo-switch-2",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-13T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Nintendo's first Fire Emblem game for the Switch 2 is structured in an ambitious way. Unlike the well-loved Three Houses, a strategy game that tasked you with pledging allegiance to a specific faction and seeing their story all the way to the end, the new Fortune's Weave lets you swap between four heroes and their compatriots so you can tackle multiple storylines at once. With Three Houses, I only ever played one path and never went back to experience the others. I hoped that the new game's structure would be a way to see everyone's stories in one playthrough.\nAfter playing 26 hours of Fortune's Weave, which launches on September 17th, I've …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -760,7 +825,7 @@
       "id": "71b6f39bd776accf0b6bdd099213bf547ad1afe4",
       "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
       "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-08-13T09:54:03.000Z",
       "summary_90w": "",
@@ -1056,19 +1121,6 @@
       ]
     },
     {
-      "id": "56c3b6268975b558d68dc2262cd4a32d8a0fadb1",
-      "title": "Leading doctor rebukes NHS chiefs over transplant failings",
-      "url": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-13T01:03:15.000Z",
-      "summary_90w": "",
-      "raw": "NHS Blood and Transplant's medical director says waiting lists for organ operations are unfair but leaders are not solving the issue.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "c2c89581e313765679a0a87c7129b68fb06333e3",
       "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
       "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
@@ -1157,32 +1209,6 @@
       "raw": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "8f279dfc29bcf22ff603562e7641d24d03d6cee3",
-      "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
-      "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-08-12T21:53:26.000Z",
-      "summary_90w": "",
-      "raw": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8600667e5f23553112cf97d4fae62e70dcd9b100",
-      "title": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-12T21:00:02.000Z",
-      "summary_90w": "",
-      "raw": "Eclipse witnessed by tens of millions across western Europe as enthusiasts gather along path of totality\n\nSolar eclipse 2026 across Europe: in pictures\n\nCruise ships, quiet towns and an all-day festival: millions flock to eclipse viewing spots across Europe\n\nin Land’s End, Cornwall\nThe roads and car parks of west and north Cornwall are clogged as people gather to watch the solar eclipse.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1355,6 +1381,19 @@
       ]
     },
     {
+      "id": "53a67d20ec371d8423f704a064392ce7cde5762e",
+      "title": "Andy Burnham's Emergency Cobra Meeting On Extreme Heat",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p38lh7?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-12T16:44:00.000Z",
+      "summary_90w": "",
+      "raw": "Prime Minister Andy Burnham chairs an emergency Cobra committee meeting.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "57c0acd268e4e1169fe977186eb006ab2d3e7f55",
       "title": "Tesla wants to build a $10B solar factory in Texas",
       "url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
@@ -1363,19 +1402,6 @@
       "published": "2026-08-12T16:18:31.000Z",
       "summary_90w": "",
       "raw": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "67f73e442e6bc6a5140cc1656b8ebf3752852d19",
-      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
-      "url": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-12T16:18:23.000Z",
-      "summary_90w": "",
-      "raw": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
       "topics": [
         "Technology"
       ]
@@ -1404,19 +1430,6 @@
       "raw": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "1880293b64f3ff8229b9629d1ca6bdf1f57bf0ba",
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-12T16:04:27.000Z",
-      "summary_90w": "",
-      "raw": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1550,14 +1563,14 @@
       ]
     },
     {
-      "id": "0f7e486f6a6025244ab0b21450db24b6d9811820",
-      "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-      "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "id": "4716adb0ab6a6604d33de054e5db482467edb32a",
+      "title": "Is Trump trying to influence foreign elections?",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8ml5?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-08-12T07:44:44.000Z",
+      "published": "2026-08-12T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
+      "raw": "In Brazil and elsewhere, leaders raise concerns over alleged election meddling by the US.",
       "topics": [
         "World"
       ]
