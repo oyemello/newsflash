@@ -1,10 +1,179 @@
 {
-  "version": "1786646273782",
-  "generatedAt": "2026-08-13T18:37:53.782Z",
+  "version": "1786650372648",
+  "generatedAt": "2026-08-13T19:46:12.648Z",
   "items": [
     {
+      "id": "7bececf76d957d3a5ef2209d8f4a93189141dc0c",
+      "title": "OpenAI is losing its second executive this week",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T19:28:39.000Z",
+      "summary_90w": "",
+      "raw": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the CRO role, OpenAI says.\nDresser's departure is just the latest in a string of major exits. Earlier this week, special projects lead and former COO Brad Lightcap announced he would be leaving. (Dresser had taken over some of Lightcap's work when he moved to the special projects role.) Former AGI chief Fidji Simo and former CMO …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a894d6a4673a32b2e2aee3dd63d07021d2064ce9",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-13T19:22:40.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "91fd82f2cc467e1d4ffc93a1f7f7bd525d286062",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-08-13T19:20:58.000Z",
+      "summary_90w": "",
+      "raw": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "79aa75fcb7a5d7be8d3000b6464d49d218b8ec02",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-13T19:19:49.000Z",
+      "summary_90w": "",
+      "raw": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d09148a54c23a2b2f7c5cf365389987b9c263e7e",
+      "title": "Family of Irish plane crash victim awarded $29m in damages",
+      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-08-13T19:08:49.000Z",
+      "summary_90w": "",
+      "raw": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his  widow Naoise Connolly Ryan brought a civil suit against Boeing.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "89555754a07f77bff4993c3da7764c74b7c8b05e",
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-08-13T19:07:55.000Z",
+      "summary_90w": "",
+      "raw": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "40a7b54ef224ddcdb371fdacc3f02781ad1a3ad3",
+      "title": "UK sees temperatures of 38.1C, the hottest day of 2026; Greece battles wildfires after gale force winds – as it happened",
+      "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-13T19:02:50.000Z",
+      "summary_90w": "",
+      "raw": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to come\nMet Office has just offered an update on temperatures across the UK, with several stations already reporting temperatures above 30C – and it’s not even 11am.\nIt’s 30.4C in Wych Cross, 30.3C in Charlwood, 30.2C at Kenly Airfield.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7e3e0c15b63c8c6f4ae3316b6d53a954a839dd58",
+      "title": "The Trump admin will start letting private firms launch international cyberattacks",
+      "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T18:56:13.000Z",
+      "summary_90w": "",
+      "raw": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control and oversight\" of the federal government, giving them permission to surveil and disrupt criminal networks, according to a presidential memorandum published on Wednesday.\nThe Department of Justice and Department of Homeland Security will oversee the private firms, which must meet requirements in \"technical proficiency, proven performance of cyber operations, facility security,\" and more. Companies in the program must hold a bon …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b1f66856d84ddc4fa510b850e21e7a44f71077f6",
+      "title": "Kennedy Center Board votes again to shut main building down — and add Trump's name back",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-08-13T18:55:30.000Z",
+      "summary_90w": "",
+      "raw": "The board voted to close the Washington, D.C., arts complex's main campus for a $250 million renovation — three months after a federal judge temporarily blocked a similar closure.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "26781d18cef50ce605ca31a190ef72525d7c094a",
+      "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-13T18:54:25.000Z",
+      "summary_90w": "",
+      "raw": "An amber extreme heat warning is in place for parts of England until midnight.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8246a8c5bdc250754cdc48d8908ec9750ca3d765",
+      "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
+      "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-13T18:54:09.000Z",
+      "summary_90w": "",
+      "raw": "Former PM of Israel calls events ‘concerted and meticulous attempt at ethnic cleansing’ against Palestinians\nIsraeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out.\nIsraeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village’s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "34a2437c4cfe3bede8882f635232b42add08843e",
+      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-13T18:45:51.000Z",
+      "summary_90w": "",
+      "raw": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e46dd19c1bd00fabd2c7fdfe4b986751861533d9",
+      "title": "I finally found a robot lawnmower I’d trust with my yard",
+      "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T18:30:00.000Z",
+      "summary_90w": "",
+      "raw": "From left, Segway, Roborock, Dreame, Husqvarna, and Mammotion automowers lined up to do battle with my lawn. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nRobot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to need to keep an eye on them. But with some oversight, they can take a big chore off your hands. \nThis summer I tested five bots on my flat, three-quarter-acre, coastal South Carolina property with sandy soil, centipede grass, and lots of trees. Things went much better than last year’s trials and tribulations, thanks to huge improvements in navigation and maneuverability. Basically, they stopped getting stuck. My lawn has never looked better, and my spouse — who had sworn off robot lawnmowers after a user-error injury — is now a convert. His riding lawnmower has been idle for over a month.\nThe consistency of robot mowers is impressive. Running daily and shaving just millimeters at a time, these mowers have created a noticeably lusher lawn. I walked out on it barefoot this morning — something I’ve never done before. The best part is that they work quietly around the clock, without bothering my pets, the wildlife, or the neighbors. I also love the professional-looking lawn lines they make.\nWhat’s better\nThe key upgrades this year are network RTK navigation, fallback navigation systems, and improved all-wheel-drive to tackle rougher terrain. \nRTK — real-time kinematic positioning — is the satellite positioning tech most automowers switched to over the last few years as they’ve ditched boundary wires. It uses stationary ground-based reference stations (antennas), along with GPS, to provide very precise location data, down to a centimeter or two. It’s used for surveying, drone navigation,  and anything that needs that fine level of precision.\nEvery mower I tested, apart from the Lidar-based Dreame, comes with its own RTK antenna that needs to be installed in your yard with a clear view of the sky; trees, a neighbor’s house, or your own roofline can all block the signal. In my previous testing, I didn’t get a single RTK mower to run successfully in my backyard, where I have very spotty GPS coverage.\nThis new crop all now offers NetRTK as an option. This taps into a network of existing RTK reference stations through a cloud connection, and requires a Wi-Fi or 4G connection on the mower. Most worked out of the box without me needing to install the antenna, but you’ll need to check if your house is covered, as coverage varies. \nRTK mowers now also use a secondary navigation tech such as lidar or vSLAM to keep on track when the signal drops. This improvement in navigation, plus bigger, more capable machines, meant I no longer spent my summer dragging confused mowers out from under oak trees. \n\n\nWhat still needs work\nHowever, automowers are far from perfect. \nThese are autonomous machines with blades, and leaving them to their own devices comes with risks. One spent three days methodically destroying a patch of my lawn before I noticed. Another took out two outdoor extension cords. Several models dug sandpits in bare patches, and another tried to climb up a small tree. \nObstacle detection is better across the board, but it still has a long way to go. Hoses, cables, and cars are still a challenge — my family now knows to check under the wheels before driving away. \nNo one has really solved gates yet, either (although they’re trying) — I still have to manually open mine to let the robot mow the full property. And, while every manufacturer currently advertises NetRTK coverage as free for the lifetime of the device, there are obvious downsides to relying on a cloud service to mow your lawn. Finally, automowers are still expensive, and I have concerns around long-term durability.\nLike their siblings, robot vacuums, there are myriad models on the market now; the right one for you will depend on the size of your yard and your landscape. To find the mower that worked best for me, I tested four top-of-the-line models with specs capable of tackling my challenging terrain and large expanse of my backyard: The Husqvarna 420 IQ ($3,299), Mammotion Luba 3 AWD 3000 ($2,799), Navimow X430 ($2,499), and the Dreame A3 AWD Pro 2500 ($3,099.99). I also tried the entry-level Roborock RockNeo Q110H ($1,299) on my front lawn, which is more like a standard suburban lawn. \nAlso like robot vacuums, robot lawnmowers fall under the new FCC robot ban, so while existing models can continue to be sold and supported in the US — including all the models reviewed here — the fate of new models is in question.\nThe robot I’d get for my yard\nSegway Navimow X430\nNavigation: RTK, vSLAM / Yard size: up to 1 acre / Cutting: 0.75” to 4” height, 17” width (dual discs) / Terrain capabilities: 4WD, zero-turn wheels, 84% slope / Theft features: Lift and out-of-zone alarms, GPS anti-theft, PIN / Weatherproofing: IP67 / Connectivity: 4G (1 yr free then $32.90 a yr), Wi-Fi, BLE / Warranty: 3 yrs \n\n\nWhere to Buy:\n\n $2499 at Amazon\n $2499 at The Home Depot\n $2499 at Segway\n\nThe Segway Navimow X430 ($2,499) is by far the best mower I tested. This 60-pound beast looks like Darth Vader’s dog, and was the only mower I tested that didn’t get stuck once. Its 4WD wheels combined with impressive suspension rolled through the potholes, over sticks and rocks, even small tree branches. It navigated around my chickens and across the tall, uneven transition from my front yard to back yards — it was the only bot that could mow both in one trip (with the gate open).\n\nThis video shows the Segway tackling a sandpit and executing a 90-degree turn without damaging the sod.\n\nIt uses a combination of RTK, vSLAM, and vision-based tech to navigate, and it covered my entire property without once getting lost or stuck. It features impressive “xero-turn” maneuverability enabling it to pivot smoothly with no lawn damage. Its dual-disc, 17-inch cutting width covers more ground, and it was able to mow most of my backyard in under three hours — nearly twice as fast as most competitors. I really liked the remote-control mowing feature, which was handy for tidying up the edges of the lawn and more sensitive areas such as around flower beds.\nThe Segway’s speed does mean a few blades go untrimmed, and its rain sensing relies on weather data from the internet, which meant it often didn’t mow because it predicted rain that never came. Setting up the NetRTK was a bit tricky, mostly because I had to put the charging station in an awkward spot to connect to the GPS (it can’t be under an awning or up against a building as the mower also needs a clear view of the sky). \nA good lidar-based alternative\nDreame A3 AWD Pro 2500\nNavigation: Lidar, AI vision (camera-based) / Yard size: 0.62 acre / Cutting: 1.2” to 3.9” height, 15.8” width (dual discs) / Terrain capabilities: AWD, zero-turn wheels, 80% slope / Theft features: Lift and out-of zone alarms, GPS anti-theft, PIN / Weatherproofing: IPX6 / Connectivity: 4G (3 yrs free), Wi-Fi, BLE / Warranty: 2 yrs \n\nWhere to Buy:\n\n $3099.99 $2499.99 at Amazon\n $3099.99 $2499.99 at Dreame\n\nThe Dreame A3 AWD Pro 2500 ($3,099.99) is the best option if you can’t rely on RTK. Its lidar and camera-based navigation performed nearly as well as the Segway in my backyard, only getting stuck a couple of times. It doesn’t need a clear view of the sky, so you can place it anywhere, and its sliding edge-cutting deck worked slightly better than the Segway’s EdgeSense feature in my testing. (Beware, it’s set to a fixed 1.2-inch minimum). \nBut in my testing, lidar was the least reliable navigation tech, and sometimes the A3 declared the job complete when it wasn’t. Lidar robots do best in a fenced-in yard, as they can more easily get lost and wander off into your neighbors’ yard, something that never happened with the RTK robots. \n\nThe Dreame performed as well as the Segway when mowing, but its turning mechanism did churn up dirt where there was less grass cover.\n\nWhile the Dreame rarely got stuck, its turning mechanism wasn’t as smooth as the Segway, and it dug several sandpits in various spots where there was no grass. I do like its “Garden Guardian” mode that uses the camera as a roaming security guard, and it can also identify when people cross its path and warn them that it’s working. It’s been mildly hilarious watching it surprise the heck out of dog walkers passing by the front yard.\nAn expensive but reliable option for yards with no trees\nHusqvarna Automower 420 IQ\nNavigation: EPOS (RTK), radar / Yard size: 1 acre / Cutting: 1” to 4” height, 9.4” width (single discs) / Terrain capabilities: 2WD, large wheels, 45% slope / Theft features: Out-of zone alarm, GPS anti-theft, PIN / Weatherproofing: IPX5 / Connectivity: 4G (free for life), Wi-Fi, BLE / Warranty: 4 yr mower, 3 yr battery \n\nWhere to Buy:\n\n $3299.99 $3144.37 at Amazon\n $3299.99 at Husqvarna\n\nHusqvarna’s Automower 420 IQ ($3,299) is a good option for a standard yard. It has the longest warranty (four years), the easiest app and controls, and a modular design for longevity. It’s 2WD, but its large wheels tackled uneven terrain well. It requires an RTK antenna and has the option of cloud-based RTK (in some areas), but its backup navigation for satellite dead spots requires installing physical boundary wire. \nI tested this in my neighbor’s yard using the physical RTK antenna, as they have fewer trees and clearer views of the sky. It navigated well, but it uses radar for obstacle detection and has no camera at all. This meant it wasn’t as good at dodging objects as the others, and ran into the bushes once and tried to climb a small tree.\nBut if you have a large, uncomplicated, tree-free yard, it’s a good option thanks to Husqvarna’s broad support network, free-for-life cellular connectivity for both theft and NetRTK (should you need it), and impressive performance. \nMore reliable navigation, but spotty software\nMammotion Luba 3 AWD 3000\nNavigation: Lidar, RTK, AI-vision (camera-based) / Yard size: 0.75 acre / Cutting: 1” to 2.7” height, 15.7” width (dual discs) / Terrain capabilities: AWD, 80% slope / Theft features: Lift and out-of zone alarms, GPS anti-theft, physical key / Weatherproofing: IPX6 / Connectivity: 4G (3 yrs free), Wi-Fi, BLE / Warranty: 3 yrs \n\nWhere to Buy:\n\n $2799 $2239 at Mammotion\n $2799 $2239 at The Home Depot\n\nThe Mammotion combines all three wireless navigation types — RTK, lidar, and vision — making it ideal for properties with spotty GPS coverage like mine. But it’s less nimble than the other AWD models thanks to lower ground clearance and weaker suspension. \nIts turning mechanism also tore up a couple areas of my garden, particularly a shaded area near my neighbors’ sprinklers, which stayed damper than other spots. Mammotion has acknowledged this issue, telling The Verge “We’ve identified that a recent update to the turning logic caused some unwanted results. The mower turning too sharply might tear up the grass to some extent, especially when the ground is wet and slippery, or the grass isn’t very thick.” \nThey’ve deployed several software updates to address this, but we should all be wary of relying on software updates to fix fundamental problems with an expensive lawnmower.  \nA budget option for smaller yards with or without trees\nRoborock RockNeo Q110H\nNavigation: RTK, vSLAM / Yard size: 0.25 acre / Cutting: 0.8” to 2.4” height, 8.7” width (single disc) / Terrain capabilities: 2WD, 45% slope / Theft features: Out-of zone alarm, GPS anti-theft (with optional module), PIN / Weatherproofing: IPX6 / Connectivity: Wi-Fi, BLE (4G sold separately)  / Warranty: 2 yr \n\nWhere to Buy:\n\n $1299 $999.99 at Amazon\n $1299 at Roborock\n\nThe $1,299 Roborock RockNeo Q110H is my budget pick. This rear-wheel-drive mower was impressive on my flat, treed front yard, although its lack of all-wheel-drive meant that the occasional large tree root stopped it in its tracks. That, and its more limited range, is why it’s half the price of other mowers here. It offers RTK and vSLAM navigation, with the option of antenna or NetRTK. \nThe RockNeo is remarkably similar to the Segway Navimow i100N I tested last year, with a few upgrades, including better camera-based obstacle detection, steeper slope navigation (up to 45%), and a wider cutting blade. It can also be used for manual remote-control mowing and has a built-in edge-cutting feature, although there’s the option of an edge-cutting add-on module, which I haven’t tried.\nEdge cutting is still very much a work in progress for all mowers. Some do well straddling the edge, but if you have a fence or delicate boundary, that won’t work. Companies are trying all sorts of solutions — including special attachments. Ecovacs Goat A3000 Pro Lidar looks to be the most promising, thanks to a side-mounted string trimmer. But for now, you should plan to keep your manual trimmer handy.\nRobot mowers have improved significantly over the last 18 months. Advances in navigation have solved my main pain points from my last round of testing, and bigger, beefier bots are now better at navigating the varied terrain of American yards. Today, the right bot will maintain your yard beautifully with minimal effort. While they still need oversight and the occasional rescue, and they haven’t solved every problem, they do take a lot of the work out of maintaining your yard.\nPhotos and videos by Jennifer Pattison Tuohy / The Verge",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
       "id": "9622f9888aa646fef2fd5e2e1e5975ddf4efac89",
-      "title": "Son of 102-year-old says father 'pushed off stage' after complaining about noise",
+      "title": "Son of 102-year-old says father died after being 'pushed off stage'",
       "url": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -23,7 +192,7 @@
       "source_name": "TechCrunch",
       "published": "2026-08-13T18:28:14.000Z",
       "summary_90w": "",
-      "raw": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "raw": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
       "topics": [
         "Technology"
       ]
@@ -68,19 +237,6 @@
       ]
     },
     {
-      "id": "40a7b54ef224ddcdb371fdacc3f02781ad1a3ad3",
-      "title": "Europe heatwave live: UK sees temperatures of 38.1C, the hottest day of 2026; Greece battles wildfires after gale force winds",
-      "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-13T17:47:14.000Z",
-      "summary_90w": "",
-      "raw": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to come\nMet Office has just offered an update on temperatures across the UK, with several stations already reporting temperatures above 30C – and it’s not even 11am.\nIt’s 30.4C in Wych Cross, 30.3C in Charlwood, 30.2C at Kenly Airfield.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5908e8184ff1f5718622fedd493014f920b6a6c9",
       "title": "'I worked really hard and it paid off': Elation, nerves and proud parents as students get results",
       "url": "https://www.bbc.co.uk/news/articles/c4gd47j24wyo?at_medium=RSS&at_campaign=rss",
@@ -95,39 +251,13 @@
     },
     {
       "id": "d556db5e72e48fc2946ae3376ad6ed361addebc8",
-      "title": "Mangione could plead guilty in federal case ahead of NY murder trial",
+      "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
       "url": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
       "source_id": "npr-top",
       "source_name": "NPR Topics: News",
       "published": "2026-08-13T17:29:15.000Z",
       "summary_90w": "",
-      "raw": "A surprise hearing Friday in federal court has added to speculation Luigi Mangione could enter a plea, which could derail a state murder trial.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "26781d18cef50ce605ca31a190ef72525d7c094a",
-      "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
-      "url": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-13T17:22:42.000Z",
-      "summary_90w": "",
-      "raw": "An amber extreme heat warning is in place for parts of England until midnight.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "89555754a07f77bff4993c3da7764c74b7c8b05e",
-      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-08-13T17:21:00.000Z",
-      "summary_90w": "",
-      "raw": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been deployed since November.",
+      "raw": "A surprise hearing this Friday in federal court has added to speculation that Luigi Mangione could enter a plea, which could derail a state murder trial.",
       "topics": [
         "World"
       ]
@@ -224,19 +354,6 @@
       ]
     },
     {
-      "id": "34a2437c4cfe3bede8882f635232b42add08843e",
-      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-13T16:45:06.000Z",
-      "summary_90w": "",
-      "raw": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "df2d525b0e6da4300e187617772e61eb320cbd47",
       "title": "Are the UK's top universities really 'hoovering up' students?",
       "url": "https://www.bbc.co.uk/news/articles/cddjp8gq0njo?at_medium=RSS&at_campaign=rss",
@@ -325,19 +442,6 @@
       "raw": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users a warning if a chat seems like a scam:\nIf the model identifies a message as a likely scam attempt, the user sees a warning in the chat, which is not visible to the other person. From there, the user can decide what to do: block, report, or continue the conversation. If they decide that a warning is incorrectly flagged, the user can mark the cha …\n\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "91fd82f2cc467e1d4ffc93a1f7f7bd525d286062",
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-08-13T16:05:35.000Z",
-      "summary_90w": "",
-      "raw": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -536,32 +640,6 @@
       ]
     },
     {
-      "id": "1ee5a1141e1a87c378ab3eb9e65581b8ae3ea735",
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-08-13T15:05:12.000Z",
-      "summary_90w": "",
-      "raw": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "64a38bb1baadc4bef4503f9c1601112030d3d1e2",
-      "title": "This is Instagram&#8217;s new logo",
-      "url": "https://www.theverge.com/tech/979583/this-is-instagrams-new-logo",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-13T15:00:38.000Z",
-      "summary_90w": "",
-      "raw": "It’s certainly… different. | Image: Meta\t\n\nInstagram has unveiled a new wordmark, moving away from the recognizable cursive typeface it's used over the last decade. The updated wordmark is a strange mix of half-cursive half-print that's somehow less legible than its predecessor. Like, that totally says \"Instagzam,\" right?\n\"The wordmark at the top of the app hasn't changed in 10 years, so it was time for a refresh,\" Instagram head Adam Mosseri announced on his account. \"Cleaner and more modern, with references to the original and the simplicity and craft that's always made it Instagram.\"\nMosseri is seemingly aware that this will be a controversial change, because he also posted it t …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "2e5f51535a82eac816b425b4dcfb72dbd171cdd5",
       "title": "One Nation staffer accused of posing as leftwing content creator in ‘undercover’ videos",
       "url": "https://www.theguardian.com/australia-news/2026/aug/14/one-nation-staffer-accused-of-posing-as-leftwing-content-creator-in-undercover-videos-ntwnfb",
@@ -596,19 +674,6 @@
       "published": "2026-08-13T15:00:00.000Z",
       "summary_90w": "",
       "raw": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "5fc4ea03e6ae3a14329d68e780224921d87d4b36",
-      "title": "Wolverine on the PS5 made me care about Marvel’s mutant for the first time",
-      "url": "https://www.theverge.com/games/977564/marvels-wolverine-ps5-preview-character-combat",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-13T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Going into my demo of Marvel's Wolverine, I mainly wanted to try out the game's very bloody combat. And it is delightfully bloody. But after two-ish hours of slashing and stabbing (and parrying!) enemies with Wolverine's claws, I left surprised - despite no previous attachment to the character, I was deeply endeared to Logan himself.\nThe demo, which was held at Insomniac Games' office in Burbank, California, started at the beginning of the game. In this story, Wolverine is rejoining the mutant task force Team X after a few years away in order to fight for his fellow mutants. He's a reluctant hero with rocky relationships and little memory o …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -689,19 +754,6 @@
       "raw": "Disciplinary proceedings under way after security concerns raised over reported visits to official residence\nFrance has opened disciplinary proceedings against its ambassador to Central African Republic over allegations of misconduct, after claims he brought dozens of women into his official residence, raising potential security concerns.\nThe investigation comes as Paris seeks to rebuild relations with CAR after their sharp deterioration in recent years amid Russia’s expanding influence in the former French colony.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "a1ebe27fc26aa3b22095e61050d8ff3b369c7f23",
-      "title": "Does Google even want to win at AI?",
-      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-13T14:10:31.000Z",
-      "summary_90w": "",
-      "raw": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race?\nThat’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is leaving to form his own startup and DeepMind cofounder and CEO Demis Hassabis is stepping aside to focus on longer-term research.\nYou can read these moves, and Google’s reaction, in a lot of different ways. So I really wanted to sit down with Hayden to dig into some of the smartest analysis we’ve seen this past week, and what we think is really going on here. \nAlso: At its core, this is an org chart story — and what is Decoder about if not org charts?\nOkay: Verge senior AI reporter Hayden Field on what’s happening at Google DeepMind and the future of AI research. Here we go.\n\n\nThis interview had been lightly edited for length and clarity. \nHayden Field, you’re The Verge‘s senior AI reporter. Welcome back to Decoder.\nThanks. It’s great to be here.\nIt’s always chaos when you’re here, Hayden. \nIt really is. There’s no week off. Every week something crazy is happening.\nThis time is a little bit different. The news happened last week. Google reorganized its AI division, Google DeepMind. Demis Hassabis, who was the head of DeepMind, has ascended into Google heaven where he’s now the chairman of DeepMind. He’s going to focus on bigger research. Jeff Dean, who had started Google Brain, left with a bunch of other people from Google to start a new lab that will run on Google Cloud.\nThis is a big reshuffle of Google’s AI efforts. It comes as Google is not competitive on the frontier anymore. There’s a lot of reactions to this news. I wanted to just go through some of that reaction with you — you’ve done a lot of reporting on what’s going on with Google, what’s going on in the industry — and try to put this all into context for people.\nSo let’s just start at the start. Google is by and large the best-positioned company to win AI. If you just look at what it is, how it makes money, its distribution power to put AI in front of people, putting AI in Search, its resources, it feels like it should have always been the winner. \nAs you reported from the Elon Musk-Sam Altman trial, everyone was afraid of Demis Hassabis the whole time. You look at all of these ingredients and you think, “Google should be the runaway winner.” Instead, I would say over the last week, a lot of people have said, “Google’s going to lose,” which I find fascinating.\nIs that your diagnosis of what’s going on with Google? Is this just a catastrophe for its bleeding-edge efforts?\nIt’s really bad, but I do think people are forgetting how powerful Google is and how much they own. All of the integration they can do, all of the tools, all of the data they have on us — they have a huge safety net, is what I’m saying. A huge cushion.\nEven if they make huge mistakes and are falling behind, I still think you can’t count them out completely because they have so much power. However, it’s crazy to me that they have that much power and all that going for the company, and they’re still not in the lead, let alone being behind as of right now. That’s what I think is crazy.\nAnd Sundar and Demis both made that point in their statements last week. Sundar wrote that the company’s committed to being at the frontier and they’re focused on the areas they need to improve, which is CEO-speak for, “We know we need to get our shit together.” And then Demis wrote that the company’s “entering a next chapter” and that “it has the ingredients to lead from here, and I firmly believe we will,” AKA, “we aren’t yet, but we have the ingredients to do it sometime in the future.” Both of them acknowledging that is pretty crazy.\nIt’s not looking good for them, but it reminds me of someone with a trust fund. They have a fallback. Don’t count them out yet.\nThat trust fund is Google Search. They have a product that billions of people use and that they’re putting AI into. As you and I have discussed many, many times, that is a consumer product. Consumer AI has not yet reached a point of making a bunch of money for a bunch of people, but everyone sees that as the prize. All of the action is in enterprise AI right now, and you can see Anthropic is out to a big lead because of their focus on enterprise AI and in particular coding.\nOne of the things I want to come back to is whether Google made the wrong bet on multimodality and world models, which Demis is really focused on, instead of these core enterprise use cases and whether they even want to be at the frontier. They’re saying they want to be, but maybe they don’t. Maybe they just want to sell cloud services to Anthropic, which is a business that is growing for Google.\nBut hold that thought. I want to come back to that. Just put that in your brain. This is part of the framework that I’m thinking about. You just said Sundar said, “It’s the next chapter. We’re committed to it.” They’re making changes.\nBut Hayden, a few months ago I was sitting with Sundar Pichai and I asked him, “Hey, you just restructured this entire company. You got rid of all of your senior executives. You have all new ones. You made DeepMind.” He said, “Yeah, that was hard.” Here’s a clip:\nSundar Pichai: It was tough to convey it outside, but I pivoted the company to be AI-first. We had all the ingredients, so in some ways I felt like the Overton window had changed. People were adopting these technologies faster than we had expected. To me it was a way to go and actually express ourselves through our products, but I realized we had to organize ourselves for it. And going back to my earlier point, I realized we need a core model and a core infrastructure team to power everything we are doing across Google. A lot of my initial energy was to go set that up.\nTo get one AI team, we had world-class research teams in Brain and DeepMind and brought those together as Google DeepMind, which was harder than it sounds because it’s like saying, “Go put Stanford and MIT together and create a department out of it or a university out of it.” So I think we’re doing that well. \nThat’s Sundar saying, “My company wasn’t organized for the AI moment. We were slow to react to ChatGPT. I made this huge change to build a central infrastructure team.” It’s three months later, four months later, and the head of Google Brain is leaving. The head of Google DeepMind is becoming the chief scientist. \nNow, Google DeepMind doesn’t have a CEO anymore. It has an SVP. What do you read into that? Is that yet another reset or is it just more of the same?\nIt’s another reset, but it’s hard because I really do think it’s both. It’s a result of the fact that Demis has never been interested in the productization stuff. He’s, like you mentioned, really into world models, research, curing disease, and drug discovery. And Jeff Dean is similar. So I’m not surprised.\nIf you’re being optimistic, you could view this as just the ripple effects of the conversation you had with Sundar, but I also don’t think this bodes very well for the company because, as we’re seeing with OpenAI literally right now, whenever there are a bunch of executive shakeups, people get nervous. People below them leave. People don’t work as hard because they’re thinking too much about things. Plus, a lot of the people that are working on AI at Google are there because of Jeff Dean or Demis. So what’s going to happen now?\nThey’re thinking about this solely on the page, logistical. “Okay, who is best positioned to speed up our productization?” Maybe that’s the best decision. But when you take into account all the minds that are leaving and all the minds that will leave in the next couple of months, it’s going to be rough.\nThere’s a lot of controversy, or I guess curiosity, around Gemini 4, which is not yet out. They announced it at Google I/O. They put all their emphasis on the 3.5 class models. The 3.5 class models are not at the top of the leaderboards. They’ve actually fallen quite far behind.\nDoes this strike you as the actions of a bunch of executives who think Gemini 4 is going to vault them back into the lead? Or do you think people are getting out because Google isn’t as committed or focused on being on the frontier?\nAs SemiAnalysis wrote in its blog, “These are not the actions of people excited about Gemini 4 Pro.” So definitely not. Google is pretty committed to being a frontier lab. It’s more, is it going to reach its goal? Though my answer to that a few months ago would’ve been that it was a frontier lab, right now it’s more of a wait-and-see. It is right now, but is it going to fall out of favor?\nSemiAnalysis put it more heavily. They said in their release, “We believe DeepMind is no longer a frontier lab.” To me, it’s still got that designation, but in a few months that might be very different and I didn’t anticipate that changing so quickly. There’s a chance it could go the way of Meta where they suddenly get pretty behind and they keep promising things and then taking a while to deliver. Same with Apple, actually. We’ll see.\nI’m glad you brought up SemiAnalysis. It’s an investment research firm. They do great work across AI and chips and thinking about how the math of all this should work out. That post really struck me as well.\nI just want to reuse some other parts of it. There’s a lot of this in which The Verge has covered Google for a long time and there are echoes of this throughout our coverage of Google, and there are some parts of this which feel new to me — they’re new problems for Google.\nSo I’ll just read you the longer version of the quote you just said. As Hayden said, they wrote, “For all intents and purposes, we believe DeepMind is no longer a frontier lab. Google will continue meandering on and releasing models, but their odds of reaching the state of the art again have dropped to zero.”\nThis strikes me as an incredible claim. We see the model race twist and turn all the time. And to say, “Google will never once again hit the state of the art” feels like an enormous claim. That’s the part that feels new to me. Week to week in AI, anything could happen. Do you think there’s evidence for that?\nThat’s really putting the cart before the horse. It’s been a few months since we ourselves wrote about Gemini 3’s hype. It was winning the model race for a few weeks until something else came along. I definitely don’t think the odds have dropped to zero for them reaching state of the art again. In a way, they’re cutting out some of their research focus and just going all in on products. If they’re really going all in on that and they find a way to put all their efforts behind that, they will reach state of the art again.\nHowever, what this will be is them constantly catching up right after another frontier lab. And then the other frontier labs that invest in research more and long-term stuff are going to be pulling ahead. It’s kind of the same thing as if you’re a writer and someone keeps copying you, they’re always going to be right behind you. They’re not going to be thinking of the next thing like you are.\nThat’s what I foresee ending up happening here. If you’re not really investing quite as much in the longer-term research and all these niche areas that, for example, Jeff Dean’s startup is going to be looking at, I feel like they could reach state of the art again. But it’s not going to be them coming in the lead over and over again. \nThat’s the part that felt new to me. I don’t really know how to evaluate that claim, especially as Google’s AI division changes leadership. I can’t read Sundar’s mind. I’ve tried many times. It’s very difficult to see what’s going on in his head. I don’t know if he wants to win that race or if he thinks Gemini is good enough now to make a bunch of money inside of Google’s products. I really don’t know how to evaluate, “They’ll never be at the state of the art again.”\nThe part I do know how to evaluate is the second part of the SemiAnalysis claim here, which anybody who has paid attention to Google will immediately understand and immediately agree with this, I think. \nThey go on to say, “Perhaps there’s some world in which Google reaches the state of the art again, but we think the odds are basically zero… The issue with Google was not Jeff Deam or Noam Shazeer,” who we should talk about, “but rather their extremely bureaucratic, painfully slow, and strategically timid culture.”\nThat’s Google. I literally sit with Sundar once a year and say, “Tell me about your culture and tell me about this bureaucracy.” There’s something about Sundar saying to me at I/O, “I made DeepMind the center of the company and then everything else is productizing their development,” and then all the people leaving and SemiAnalysis saying they’ll never be at the frontier again because their culture is so bureaucratic, that is uniquely Google to me. It feels very familiar.\nI know you’ve talked to people at Google since all these announcements. Is there a sense that Google’s culture needs to change even more to go and compete?\nThere’s a reason that so many people are flocking to Anthropic right now. Anthropic is not perfect by any means. They have a lot of red flags as well. But I’m seeing a lot of people from OpenAI, from Google, from Meta flock there because, as we’ve reported a bunch, people in this space are a little bit post-money. A lot of times they don’t care just about the salary or what they’re making. They care about working for a place that aligns with their values that they believe in. Google has really rubbed a lot of people the wrong way when it comes to that.\nJeff Dean and Demis had both signed a public letter in 2018, saying that AI shouldn’t be used for lethal autonomous weapons. Jeff Dean had been tweeting in the months before he left Google about the fact that mass surveillance could be a really big problem with AI. Jeff Dean even signed an amicus brief in support of Anthropic with the whole Department of War situation, which Google ended up signing and just kind of letting the Department of War do whatever with their AI.\nI could see a lot of people fleeing in the next few months because Jeff Dean seemed to be, according to my sources that I spoke with there, the person keeping a lot of people at Google. I could see a big exodus happening in the next few months.\nThis is one of the bigger questions. Who was the keeper of the morals and values of this team inside of a Google that seems to be more willing to play ball with the Trump administration? With the Department of War, and with the uses of AI that some people are very, very skeptical or very, very skittish about?\nThere’s been a lot of reporting about the fact that when Google acquired DeepMind and Demis, they signed a pledge to never use DeepMind technology for military purposes. That has been watered down. In fact, Jeff Dean recently said, “We should not use AI for these purposes.” There are people inside of Google who’ve sent a letter. There seems to be a lot of big-name talents who are saying, “We don’t want to commercialize this stuff in the way it’s being commercialized right away.”\nThe problem is that it’s the governments and the militaries who are spending all the money right now, and Google is good at making money. It wants to fund AI development with actual revenue instead of raising endless amounts of debt like the startup frontier labs are doing. Is that conflict navigable for Sundar and whoever’s running AI now, or is it just the reality of being a huge corporation that funds its efforts with revenue?\nIt’s unfortunately not surprising to me, for a huge corporation in the US where you have to maximize shareholder value. They’re subsidizing a lot of their AI efforts right now, it seems like, to me. For example, the other day I vibe coded a new website for myself and Gemini was the only tool that I could use the free version of for nine hours. I was trying to do it as an everyman, so I wasn’t signing into any of them. I just said, “Which one will let me go with the free version and do a ton of stuff?” It was only Gemini.\nThey’re really trying to get people in their corner here and trying to change developers’ loyalty, change engineers’ loyalty over to them. So they need money. And to be fair, I do think they could do this a lot differently if they wanted. They’re one of the largest corporations in the world and they’re making a lot of money in other areas. They don’t have to be doing this, but that doesn’t mean they won’t. And I think they will continue.\nBut I also think, like I mentioned, that’s going to lead to a lot of brain drain. One of the current Google employees I spoke with said that a lot of people around him felt like losing Jeff Dean was a big blow for morality at Google, and that it also continues a brain drain they’ve been seeing and that mediocrity is the likely result. So like what you were saying, they may be always catching up from now on and never forging a path ahead like they had been six months ago.\nI think this brings me back to that framework I mentioned at the very beginning that I wanted to put a pin in. Does Google want to win at the frontier or can they just sell Google Cloud at enormous high rates to Anthropic and OpenAI while maintaining usable models for its consumer products at high rates?\nThere’s a world in which Gemini is there for you to search your Gmail and provide AI overviews and be cheap enough to run to let consumers vibe code websites for nine hours at a time. But the real money is in selling TPUs in Google Cloud to Anthropic and Anthropic is going to go collect the government money and Google is just there as a vendor. They’re just selling to Anthropic and OpenAI and whoever else needs data center capacity.\nWe can see Google Cloud as a business that is exploding. They don’t seem to mind that they’re selling their own capacity to Anthropic instead of Google’s own products, which is one of the challenges of running a company that has frenemies as customers.\nHow do you see that playing out? Do you see Google ever saying, “Look, we have to win at the frontier. We have to win at AGI. We have to make sure recursive self-improvement of coding occurs so the next model works,” which is a religious belief inside of OpenAI and Anthropic? Or do you see them saying, “Actually, being one or two steps behind the frontier is fine because that’ll make our products work well enough and we’ll just sell capacity to the people chasing the AGI dream”?\nThe way they are right now, they’re going to keep chasing it because their investors want that. It makes their stock go up to say, “Hey, we’re chasing this. We’re at the frontier. We’re the only large corporation that’s almost or nearly or equally caught up with OpenAI and Anthropic.” They don’t need to go the way of Amazon and, in my opinion, Meta right now.\nIn a year or two, if they continue the brain drain and they keep falling behind, then yeah, maybe they’re going to do what you said in situation two. But for now, there’s no reason for them not to keep chasing, especially because that’s a great thing to talk about on an earnings call and it makes all your investors happy.\nThe AGI piece is really interesting to me, especially in the context of Google. Demis Hassabis was the final speaker at Google I/O. After an hour and a half of very practical demonstrations of AI inside of Google products, Demis came out and he talked about protein folding and drug discovery, which are the things that he really cares about. \nAnd then he ended the entire presentation by saying very confidently, “We are at the foothills of the singularity.” Google doesn’t say, “AGI.” It says, “the foothills of the singularity,” which is an enormous claim.\nI thought, “Boy, that’s an incredible way to end Google I/O.” And then later I sat down with Sundar and I said, “Do you agree we’re at the foothills of singularity? What does this mean to you?” Here’s what Sundar said to me.\nSundar Pichai: Demis and I have had long, deep conversations on this topic.\nNilay Patel: I figured. \nIn this context, for him, the advent of AGI is what he thinks of as the singularity and I think—\nDo you have a definition of AGI? Have you debated? Do you have an agreement?\nWe debated a lot. Both Demis and I are very close to how we think about AGI … There is a harder definition of AGI, which is that it has to more comprehensively do the wide range of tasks, including cognitive tasks, in a way that’s comparable. We’ll at some point actually put it out as a company, and we are working on that. But that’s what he’s talking about in this context.\nI’ve been thinking about that answer since it happened. Do you know what Sundar’s definition of AGI or the singularity is based on that?\nIt’s the exact same as everyone else’s. In the OpenAI lawsuit, in the materials, we saw the definition of AGI come out of that. It was published and it sounds like he’s talking about the exact same thing.\nIn Microsoft and OpenAI’s 2019 contract that was made public as part of the Musk v. Altman trial, it’s a 36-page agreement, but luckily, finally, we’re finding out their definition of AGI, which is, “A highly autonomous system that outperforms humans at most economically valuable work.” It seems similar to what Sundar is saying in terms of cognitive tasks. It’s just a highly autonomous system that can do a ton of economically valuable knowledge work at the same level or surpass the level of humans.\nThat’s the definition I’ve been working with for the past six years on the beat, and it seems like that tracks with what he’s saying.\nHe said to me that Google would put out a definition of the singularity or AGI and they’re working on it. As far as I know, they have not yet released this definition. I don’t know if it tracks the OpenAI one. I do know that’s basically what the industry says, right? That it’ll be better than you and me at economically viable tasks. They’ve stopped saying that. \nEqual or better.\nEither way, we’re losing our jobs, right? They’ve stopped talking about it because that means we’re all losing our jobs. So that’s just faded into the background.\nI bring this up because Demis is so focused on science, and in particular health outcomes, and in this announcement about him moving on to be chief scientist, Sundar repeated the phrase, “We’re at the foothills of the singularity.” It feels like Demis wanted to chase AGI, world models, protein folding, and all of the next things. \nThe thing that makes AI economically viable today is writing software code or automating business processes inside of Fortune 500 companies or agentic shopping or whatever boring thing Google needs to do to make money, and those things are getting ever farther apart. If you want to chase the foothills of the singularity in AGI, maybe that has nothing to do with how Google needs AI to make money today.\nThat’s a big part of the Google culture clash, right? That’s, “We’re going to chase money and shareholder value instead of holding fast to our ideals.” That’s a big part of the AI industry’s general chaos. How is OpenAI going to make a dollar? Who knows? It’s a code red. We’re right back at the beginning.\nHow do you see it? Is it that Demis wanted another Nobel Prize, so he led them astray and now he’s getting kicked upstairs and they’re going to focus on money? Or is there real validity to, “We’re going to let him chase the singularity while we work on Gmail Search”?\nThere’s a big difference between, “We’re going to let him chase the singularity,” and, “We’re going to let him do a lot of research into biology, drug discovery, and the other stuff he’s into,” and that seems to be what he’s going to be doing. It seems like he and Jeff Dean are going to be doing similar things, but in very different places.\nIt’s a tale as old as time. I’ve been writing about this for so many years, product versus research. The big clashes, the funding, the resources. Companies want products immediately and they don’t want to invest in the long-term research that sometimes leads to those products. They only want the quick, “What are we going to turn this into? What’s the timeline? Let’s speed it up for products and let’s compete with all of our three competitors and not really do these long side projects that may lead to something or may not.”\nThe tension’s building and building, especially as OpenAI and Anthropic are about to go public. Google has a lot of investors to answer to. This is a building of the tension we’ve been seeing for so many years. And for what it’s worth, I do think the Demis situation was probably mutual.\nI’ve heard rumors that maybe he wanted to leave completely, but it would be too dramatic for him and Jeff Dean to leave at the same time. So he said, “Yeah, I’ll go to this other role and then I’ll leave later.” That’s just a rumor. We’re not sure. But either way, it doesn’t seem like he was totally kicked to the curb or kicked upstairs. It’s more probably a mutual parting where he really is not that interested in products and he wants to do the long-term research, and a lot of these guys are like that.\nIt feels like a real situation where you have to be careful what you wish for, because when Sundar created Google DeepMind, he had to pick a winner, and he picked Demis over Jeff Dean. We were all waiting to see if and when Jeff Dean would leave because he didn’t win, and now they’re both leaving because Demis realized that actually operating inside of Google is a very different job than just doing the research.\nOne of the questions I have here in general is about DeepMind itself, which is famously headquartered in London and answers to no one. It’s Google’s big, fancy AI research arm with the big fancy CEO. That’s getting pulled down. It’s being led by an SVP who reports to Sundar now. There are some reports that maybe the center of gravity and the authority is going to move back to Mountain View to Sundar himself. How do you see that playing out inside of Google?\nI can definitely see the winds might be changing and the Bay Area might be the headquarters again, at least in terms of power. London’s autonomy has been going on for a long time. I’ve visited that office multiple times. It did have a different feeling to it. It felt like there was a lot less urgency in a good way. It was really collaborative. There were a lot of long-term research questions and it was a very different feeling than the tension and the urgency I feel when I visit other AI labs’ offices.\nMaybe Sundar got tired of that and said, “You know what? I need the pressure to rise. I need products quickly. The research can only be done if it’s going to lead to something that’s trackable.” I could definitely see the center of gravity moving to the Bay Area.\nThe reporting from inside of Google that I’m most curious about is how that culture changes without these leaders. As you were saying before, Jeff Dean and Demis Hassabis were moral leaders in addition to technical leaders and research innovators. They kept Google from doing a lot of things. They’re gone now. In some of your own reporting and your story on our site, there are people saying, “Who will we sell out to next?” \nSergey Brin, who’s deeply involved in AI efforts, supports the Trump administration. Sundar obviously stood behind Trump at the inauguration. The questions from the staff about, “What will we sell it next? What values are up for sale next without the culture carriers of a Demis or a Jeff Dean?” seem open.\nAre there answers? Who’s taking over DeepMind now and what kind of person do we think they are?\nIt’s Koray Kavukcuoglu, and these questions are super valid because I don’t think Koray’s going to be speaking up on this stuff. He’s a product guy. He’s focused on speeding up the product. I’m sure he and Sundar have had a bunch of conversations about focusing on the short term.\nOver the past few months, early this year, I was chatting with a bunch of AI employees at a ton of different companies, and they all, including employees at Google, felt like the messaging from their companies was, “Shut up and focus on the mission. Keep your head down. Roll stuff out. Don’t worry about what’s going on in the outside world politically.” It seems like that’s going to be even more of a thing now.\nOne of the sources I was speaking with at Google said, “Speaking out on moral issues like ICE agents and AI surveillance and autonomous lethal weapons, Jeff Dean was one of the last people who was willing to do that.” And it doesn’t seem like Koray’s going to be really eager to take that place. These questions are really valid and I wouldn’t be surprised if a lot more DeepMind people left after all these changes.\nLet me ask you the hardest question of all to wrap it up. There’s a lot of noise in the ecosystem right now saying that Google has lost the AI race. But as we said from the beginning, Google has a ton of advantages here.\nIt’s making money, which most of the other companies aren’t. It’s selling Google Cloud infrastructure to its own best competitors. It has massive distribution advantages in Search, in Gmail, in the fact that Apple appears to have distilled Google’s models for Siri. There’s a lot here where Google just has structural advantages. It’s playing with house money. It’s a trust fund baby, as you’ve said several times here.\nIs it possible to lose the AI race from that vantage point? Or is it really just about if Anthropic gets to a point at recursive self-improvement that they can call AGI, everyone else has to lose by default?\nIt’s not possible for them to fail. It’s possible for them to change up their strategy. Like we were talking about earlier, maybe they become an Apple where they’re running on Google AI and they’re fine with that, but they’re picking a different company. Same with Amazon. They’ve given up a little bit, it seems like. I’m going to get some flack for that. Meta’s still really desperately trying, but they’re behind.\nI don’t think Google can fail. It’s more, do they eventually realize it’s not worth their time? Does the brain drain continue? Do they realize, “Look, there’s no amount of money we can offer to get some of the best minds back here. Let’s just cut our losses”? That’s a little ways off. I don’t think that’s going to happen in the next few months or even the next year.\nBut it’s important for these execs to remember that a lot of the people that are most involved and really pivotal in building this technology and keeping them at the frontier are extremely serious about their morals and what they’re doing. They don’t just do it for the money. It’s going to be tough to resell that dream to some of them if they’re trying to rehire after they lose people. OpenAI is experiencing the same thing. So we’ll see.\nIt’s worth noting Demis is still there. He’s the chief scientist. Presumably he will still be going to the London office and be charming, and Demis is very charming. You can see all that continuing to happen, but what are we shipping? What are the roadmaps? Who gets the GPU access? That seems like it will change and that will have some downstream effect.\nIf you had to look for signs, is Google succeeding or failing, is the culture a problem or are they just retrenching to go and be even more aggressive? What kinds of things would you look for right now?\nWhat I typically look for is what they’re really offering every time they have a big release and how pivotal it really is. Are they doing something that their competitors did six months ago? And are they even doing that well? That’s how I think about these things sometimes. There will be a big release from an AI company or a big tech company that’s trying to catch up in the AI race. Sometimes it’s six months behind OpenAI or Anthropic, and sometimes the stuff that they’re really excited about is pretty bad.\nThat’s what I would be watching from Google. With Gemini 4, what can it really do? Does it have that same effect that Gemini 3 had on the industry, where it’s leading for at least a week or two? Or does it not even have an hour of lead time and it just falls flat and it’s used by the enterprises that they work with and no one’s really excited about it? That’s the type of thing I’d be looking for.\nI’d also be looking for the exodus. If a ton of the DeepMind engineers leave, if they’re desperately trying to hire and offering more and more desperate pay packages, that’s another sign. Whenever Demis leaves — and that will eventually happen — that’s a huge sign.\nWe’ll be looking out for all that. I’m confident that the chaos in the AI industry will continue, and Hayden, you’ll be back on Decoder. Thank you so much for joining me today.\nThanks so much.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1004,14 +1056,14 @@
       ]
     },
     {
-      "id": "87bd3e68059e5c359231d61fad70a425ed97e472",
-      "title": "Results, appeals and resits - what to do if things don't go to plan",
-      "url": "https://www.bbc.co.uk/news/articles/c07dz891gy5o?at_medium=RSS&at_campaign=rss",
+      "id": "6319f4126018d978d552c6a5658de5b21468852e",
+      "title": "Is Iran really trying to kill Trump?",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8mfn?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-08-13T09:21:43.000Z",
+      "published": "2026-08-13T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "Your full guide to A-level results day, including what to do if you are not happy with your grades.",
+      "raw": "How developed is the Tehran regime’s assassination operation abroad?",
       "topics": [
         "World"
       ]
@@ -1025,32 +1077,6 @@
       "published": "2026-08-13T09:00:00.000Z",
       "summary_90w": "",
       "raw": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0985a449fde39d2375dda82886c99695a5ad5a8a",
-      "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-08-13T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn't automatically think negatively of a politician who identifies with socialism.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "98199414b6daba7c2cf8665645b6874f27ad0cf3",
-      "title": "How do I apply for an apprenticeship and what will I get paid?",
-      "url": "https://www.bbc.co.uk/news/articles/c51xenx7pvqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-13T08:41:04.000Z",
-      "summary_90w": "",
-      "raw": "Apprentices split their time between training and working - and are paid by their employer.",
       "topics": [
         "World"
       ]
@@ -1407,32 +1433,6 @@
       ]
     },
     {
-      "id": "26e311ec1c77a03a022921f7dd0289f50809e632",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-12T17:41:29.000Z",
-      "summary_90w": "",
-      "raw": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "71ebcc25fa47c89bd60ec4ccbc28f65447bfea9d",
-      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
-      "url": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-12T17:15:41.000Z",
-      "summary_90w": "",
-      "raw": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "bd5715e8f31e71507f74fd0db88c94e69d6c16e7",
       "title": "Discord ordered to suspend livestreams in Brazil",
       "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
@@ -1443,6 +1443,19 @@
       "raw": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "53a67d20ec371d8423f704a064392ce7cde5762e",
+      "title": "Andy Burnham's Emergency Cobra Meeting On Extreme Heat",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p38lh7?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-12T16:44:00.000Z",
+      "summary_90w": "",
+      "raw": "Prime Minister Andy Burnham chairs an emergency Cobra committee meeting.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -1729,19 +1742,6 @@
       "raw": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "847a3f7d9759eed9e3a474ff13c74041f90763f2",
-      "title": "As conflict in the Middle East intensifies, India’s relationship with Israel deepens",
-      "url": "https://www.theguardian.com/world/2026/aug/10/this-is-india-relationship-with-israel-modi-netanyahu",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-11T06:55:06.000Z",
-      "summary_90w": "",
-      "raw": "An Amnesty International report reveals that the country is now a key part of Israel’s weapons supply chain. Plus, Assam floods, student anger spreads and a song to put in rotation\n• Don’t get This is India delivered to your inbox? Sign up here\nHello, and welcome back to This Is India.\nFor this week’s newsletter, I’m looking at India’s evolving relationship with Israel, and how it has deepened as conflict swept across the Middle East. Why is it that India has formed an even closer bond with a country that has faced mounting international isolation and backlash over a military campaign in Gaza that has left the territory in ruins and killed more than 70,000 Palestinians, – many of whom were children?\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
