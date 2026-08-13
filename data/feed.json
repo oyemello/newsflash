@@ -1,16 +1,42 @@
 {
-  "version": "1786628785909",
-  "generatedAt": "2026-08-13T13:46:25.909Z",
+  "version": "1786632381136",
+  "generatedAt": "2026-08-13T14:46:21.136Z",
   "items": [
     {
-      "id": "fcd8c105ffbddc7c488b7ca8d6b533533448165a",
-      "title": "Water bills set to rise for many after firms permitted extra funding",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+      "id": "5e692bda6f8faef7d56af9ca1e28c45474d4ad3c",
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-13T14:34:43.000Z",
+      "summary_90w": "",
+      "raw": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9622f9888aa646fef2fd5e2e1e5975ddf4efac89",
+      "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
+      "url": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-08-13T13:38:30.000Z",
+      "published": "2026-08-13T14:34:37.000Z",
       "summary_90w": "",
-      "raw": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+      "raw": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e9f2b0724217c7a662bf3232ae9e916c5d629596",
+      "title": "Zambians voting as president bids for second term",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-08-13T14:29:11.000Z",
+      "summary_90w": "",
+      "raw": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
       "topics": [
         "World"
       ]
@@ -21,9 +47,139 @@
       "url": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-08-13T13:32:40.000Z",
+      "published": "2026-08-13T14:27:43.000Z",
       "summary_90w": "",
       "raw": "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2c6b31c519c74cae892b3c13fbfba86eb9ec85c5",
+      "title": "French ambassador to CAR faces investigation over alleged misconduct",
+      "url": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-13T14:21:52.000Z",
+      "summary_90w": "",
+      "raw": "Inquiry follows security concerns over reported visits of dozens of women to Bruno Foucher’s official residence\nFrance has opened disciplinary proceedings against its ambassador to Central African Republic over allegations of misconduct, after claims that he brought dozens of women into his official residence, raising potential security concerns.\nThe investigation comes as Paris seeks to rebuild relations with CAR, after their sharp deterioration in recent years amid Russia’s expanding influence in the former French colony.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a1ebe27fc26aa3b22095e61050d8ff3b369c7f23",
+      "title": "Does Google even want to win at AI?",
+      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T14:10:31.000Z",
+      "summary_90w": "",
+      "raw": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race?\nThat’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is leaving to form his own startup and DeepMind cofounder and CEO Demis Hassabis is stepping aside to focus on longer-term research.\nYou can read these moves, and Google’s reaction, in a lot of different ways. So I really wanted to sit down with Hayden to dig into some of the smartest analysis we’ve seen this past week, and what we think is really going on here. \nAlso: At its core, this is an org chart story — and what is Decoder about if not org charts?\nOkay: Verge senior AI reporter Hayden Field on what’s happening at Google DeepMind and the future of AI research. Here we go.\n\n\nThis interview had been lightly edited for length and clarity. \nHayden Field, you’re The Verge‘s senior AI reporter. Welcome back to Decoder.\nThanks. It’s great to be here.\nIt’s always chaos when you’re here, Hayden. \nIt really is. There’s no week off. Every week something crazy is happening.\nThis time is a little bit different. The news happened last week. Google reorganized its AI division, Google DeepMind. Demis Hassabis, who was the head of DeepMind, has ascended into Google heaven where he’s now the chairman of DeepMind. He’s going to focus on bigger research. Jeff Dean, who had started Google Brain, left with a bunch of other people from Google to start a new lab that will run on Google Cloud.\nThis is a big reshuffle of Google’s AI efforts. It comes as Google is not competitive on the frontier anymore. There’s a lot of reactions to this news. I wanted to just go through some of that reaction with you — you’ve done a lot of reporting on what’s going on with Google, what’s going on in the industry — and try to put this all into context for people.\nSo let’s just start at the start. Google is by and large the best-positioned company to win AI. If you just look at what it is, how it makes money, its distribution power to put AI in front of people, putting AI in Search, its resources, it feels like it should have always been the winner. \nAs you reported from the Elon Musk-Sam Altman trial, everyone was afraid of Demis Hassabis the whole time. You look at all of these ingredients and you think, “Google should be the runaway winner.” Instead, I would say over the last week, a lot of people have said, “Google’s going to lose,” which I find fascinating.\nIs that your diagnosis of what’s going on with Google? Is this just a catastrophe for its bleeding-edge efforts?\nIt’s really bad, but I do think people are forgetting how powerful Google is and how much they own. All of the integration they can do, all of the tools, all of the data they have on us — they have a huge safety net, is what I’m saying. A huge cushion.\nEven if they make huge mistakes and are falling behind, I still think you can’t count them out completely because they have so much power. However, it’s crazy to me that they have that much power and all that going for the company, and they’re still not in the lead, let alone being behind as of right now. That’s what I think is crazy.\nAnd Sundar and Demis both made that point in their statements last week. Sundar wrote that the company’s committed to being at the frontier and they’re focused on the areas they need to improve, which is CEO-speak for, “We know we need to get our shit together.” And then Demis wrote that the company’s “entering a next chapter” and that “it has the ingredients to lead from here, and I firmly believe we will,” AKA, “we aren’t yet, but we have the ingredients to do it sometime in the future.” Both of them acknowledging that is pretty crazy.\nIt’s not looking good for them, but it reminds me of someone with a trust fund. They have a fallback. Don’t count them out yet.\nThat trust fund is Google Search. They have a product that billions of people use and that they’re putting AI into. As you and I have discussed many, many times, that is a consumer product. Consumer AI has not yet reached a point of making a bunch of money for a bunch of people, but everyone sees that as the prize. All of the action is in enterprise AI right now, and you can see Anthropic is out to a big lead because of their focus on enterprise AI and in particular coding.\nOne of the things I want to come back to is whether Google made the wrong bet on multimodality and world models, which Demis is really focused on, instead of these core enterprise use cases and whether they even want to be at the frontier. They’re saying they want to be, but maybe they don’t. Maybe they just want to sell cloud services to Anthropic, which is a business that is growing for Google.\nBut hold that thought. I want to come back to that. Just put that in your brain. This is part of the framework that I’m thinking about. You just said Sundar said, “It’s the next chapter. We’re committed to it.” They’re making changes.\nBut Hayden, a few months ago I was sitting with Sundar Pichai and I asked him, “Hey, you just restructured this entire company. You got rid of all of your senior executives. You have all new ones. You made DeepMind.” He said, “Yeah, that was hard.” Here’s a clip:\nSundar Pichai: It was tough to convey it outside, but I pivoted the company to be AI-first. We had all the ingredients, so in some ways I felt like the Overton window had changed. People were adopting these technologies faster than we had expected. To me it was a way to go and actually express ourselves through our products, but I realized we had to organize ourselves for it. And going back to my earlier point, I realized we need a core model and a core infrastructure team to power everything we are doing across Google. A lot of my initial energy was to go set that up.\nTo get one AI team, we had world-class research teams in Brain and DeepMind and brought those together as Google DeepMind, which was harder than it sounds because it’s like saying, “Go put Stanford and MIT together and create a department out of it or a university out of it.” So I think we’re doing that well. \nThat’s Sundar saying, “My company wasn’t organized for the AI moment. We were slow to react to ChatGPT. I made this huge change to build a central infrastructure team.” It’s three months later, four months later, and the head of Google Brain is leaving. The head of Google DeepMind is becoming the chief scientist. \nNow, Google DeepMind doesn’t have a CEO anymore. It has an SVP. What do you read into that? Is that yet another reset or is it just more of the same?\nIt’s another reset, but it’s hard because I really do think it’s both. It’s a result of the fact that Demis has never been interested in the productization stuff. He’s, like you mentioned, really into world models, research, curing disease, and drug discovery. And Jeff Dean is similar. So I’m not surprised.\nIf you’re being optimistic, you could view this as just the ripple effects of the conversation you had with Sundar, but I also don’t think this bodes very well for the company because, as we’re seeing with OpenAI literally right now, whenever there are a bunch of executive shakeups, people get nervous. People below them leave. People don’t work as hard because they’re thinking too much about things. Plus, a lot of the people that are working on AI at Google are there because of Jeff Dean or Demis. So what’s going to happen now?\nThey’re thinking about this solely on the page, logistical. “Okay, who is best positioned to speed up our productization?” Maybe that’s the best decision. But when you take into account all the minds that are leaving and all the minds that will leave in the next couple of months, it’s going to be rough.\nThere’s a lot of controversy, or I guess curiosity, around Gemini 4, which is not yet out. They announced it at Google I/O. They put all their emphasis on the 3.5 class models. The 3.5 class models are not at the top of the leaderboards. They’ve actually fallen quite far behind.\nDoes this strike you as the actions of a bunch of executives who think Gemini 4 is going to vault them back into the lead? Or do you think people are getting out because Google isn’t as committed or focused on being on the frontier?\nAs SemiAnalysis wrote in its blog, “These are not the actions of people excited about Gemini 4 Pro.” So definitely not. Google is pretty committed to being a frontier lab. It’s more, is it going to reach its goal? Though my answer to that a few months ago would’ve been that it was a frontier lab, right now it’s more of a wait-and-see. It is right now, but is it going to fall out of favor?\nSemiAnalysis put it more heavily. They said in their release, “We believe DeepMind is no longer a frontier lab.” To me, it’s still got that designation, but in a few months that might be very different and I didn’t anticipate that changing so quickly. There’s a chance it could go the way of Meta where they suddenly get pretty behind and they keep promising things and then taking a while to deliver. Same with Apple, actually. We’ll see.\nI’m glad you brought up SemiAnalysis. It’s an investment research firm. They do great work across AI and chips and thinking about how the math of all this should work out. That post really struck me as well.\nI just want to reuse some other parts of it. There’s a lot of this in which The Verge has covered Google for a long time and there are echoes of this throughout our coverage of Google, and there are some parts of this which feel new to me — they’re new problems for Google.\nSo I’ll just read you the longer version of the quote you just said. As Hayden said, they wrote, “For all intents and purposes, we believe DeepMind is no longer a frontier lab. Google will continue meandering on and releasing models, but their odds of reaching the state of the art again have dropped to zero.”\nThis strikes me as an incredible claim. We see the model race twist and turn all the time. And to say, “Google will never once again hit the state of the art” feels like an enormous claim. That’s the part that feels new to me. Week to week in AI, anything could happen. Do you think there’s evidence for that?\nThat’s really putting the cart before the horse. It’s been a few months since we ourselves wrote about Gemini 3’s hype. It was winning the model race for a few weeks until something else came along. I definitely don’t think the odds have dropped to zero for them reaching state of the art again. In a way, they’re cutting out some of their research focus and just going all in on products. If they’re really going all in on that and they find a way to put all their efforts behind that, they will reach state of the art again.\nHowever, what this will be is them constantly catching up right after another frontier lab. And then the other frontier labs that invest in research more and long-term stuff are going to be pulling ahead. It’s kind of the same thing as if you’re a writer and someone keeps copying you, they’re always going to be right behind you. They’re not going to be thinking of the next thing like you are.\nThat’s what I foresee ending up happening here. If you’re not really investing quite as much in the longer-term research and all these niche areas that, for example, Jeff Dean’s startup is going to be looking at, I feel like they could reach state of the art again. But it’s not going to be them coming in the lead over and over again. \nThat’s the part that felt new to me. I don’t really know how to evaluate that claim, especially as Google’s AI division changes leadership. I can’t read Sundar’s mind. I’ve tried many times. It’s very difficult to see what’s going on in his head. I don’t know if he wants to win that race or if he thinks Gemini is good enough now to make a bunch of money inside of Google’s products. I really don’t know how to evaluate, “They’ll never be at the state of the art again.”\nThe part I do know how to evaluate is the second part of the SemiAnalysis claim here, which anybody who has paid attention to Google will immediately understand and immediately agree with this, I think. \nThey go on to say, “Perhaps there’s some world in which Google reaches the state of the art again, but we think the odds are basically zero… The issue with Google was not Jeff Deam or Noam Shazeer,” who we should talk about, “but rather their extremely bureaucratic, painfully slow, and strategically timid culture.”\nThat’s Google. I literally sit with Sundar once a year and say, “Tell me about your culture and tell me about this bureaucracy.” There’s something about Sundar saying to me at I/O, “I made DeepMind the center of the company and then everything else is productizing their development,” and then all the people leaving and SemiAnalysis saying they’ll never be at the frontier again because their culture is so bureaucratic, that is uniquely Google to me. It feels very familiar.\nI know you’ve talked to people at Google since all these announcements. Is there a sense that Google’s culture needs to change even more to go and compete?\nThere’s a reason that so many people are flocking to Anthropic right now. Anthropic is not perfect by any means. They have a lot of red flags as well. But I’m seeing a lot of people from OpenAI, from Google, from Meta flock there because, as we’ve reported a bunch, people in this space are a little bit post-money. A lot of times they don’t care just about the salary or what they’re making. They care about working for a place that aligns with their values that they believe in. Google has really rubbed a lot of people the wrong way when it comes to that.\nJeff Dean and Demis had both signed a public letter in 2018, saying that AI shouldn’t be used for lethal autonomous weapons. Jeff Dean had been tweeting in the months before he left Google about the fact that mass surveillance could be a really big problem with AI. Jeff Dean even signed an amicus brief in support of Anthropic with the whole Department of War situation, which Google ended up signing and just kind of letting the Department of War do whatever with their AI.\nI could see a lot of people fleeing in the next few months because Jeff Dean seemed to be, according to my sources that I spoke with there, the person keeping a lot of people at Google. I could see a big exodus happening in the next few months.\nThis is one of the bigger questions. Who was the keeper of the morals and values of this team inside of a Google that seems to be more willing to play ball with the Trump administration? With the Department of War, and with the uses of AI that some people are very, very skeptical or very, very skittish about?\nThere’s been a lot of reporting about the fact that when Google acquired DeepMind and Demis, they signed a pledge to never use DeepMind technology for military purposes. That has been watered down. In fact, Jeff Dean recently said, “We should not use AI for these purposes.” There are people inside of Google who’ve sent a letter. There seems to be a lot of big-name talents who are saying, “We don’t want to commercialize this stuff in the way it’s being commercialized right away.”\nThe problem is that it’s the governments and the militaries who are spending all the money right now, and Google is good at making money. It wants to fund AI development with actual revenue instead of raising endless amounts of debt like the startup frontier labs are doing. Is that conflict navigable for Sundar and whoever’s running AI now, or is it just the reality of being a huge corporation that funds its efforts with revenue?\nIt’s unfortunately not surprising to me, for a huge corporation in the US where you have to maximize shareholder value. They’re subsidizing a lot of their AI efforts right now, it seems like, to me. For example, the other day I vibe coded a new website for myself and Gemini was the only tool that I could use the free version of for nine hours. I was trying to do it as an everyman, so I wasn’t signing into any of them. I just said, “Which one will let me go with the free version and do a ton of stuff?” It was only Gemini.\nThey’re really trying to get people in their corner here and trying to change developers’ loyalty, change engineers’ loyalty over to them. So they need money. And to be fair, I do think they could do this a lot differently if they wanted. They’re one of the largest corporations in the world and they’re making a lot of money in other areas. They don’t have to be doing this, but that doesn’t mean they won’t. And I think they will continue.\nBut I also think, like I mentioned, that’s going to lead to a lot of brain drain. One of the current Google employees I spoke with said that a lot of people around him felt like losing Jeff Dean was a big blow for morality at Google, and that it also continues a brain drain they’ve been seeing and that mediocrity is the likely result. So like what you were saying, they may be always catching up from now on and never forging a path ahead like they had been six months ago.\nI think this brings me back to that framework I mentioned at the very beginning that I wanted to put a pin in. Does Google want to win at the frontier or can they just sell Google Cloud at enormous high rates to Anthropic and OpenAI while maintaining usable models for its consumer products at high rates?\nThere’s a world in which Gemini is there for you to search your Gmail and provide AI overviews and be cheap enough to run to let consumers vibe code websites for nine hours at a time. But the real money is in selling TPUs in Google Cloud to Anthropic and Anthropic is going to go collect the government money and Google is just there as a vendor. They’re just selling to Anthropic and OpenAI and whoever else needs data center capacity.\nWe can see Google Cloud as a business that is exploding. They don’t seem to mind that they’re selling their own capacity to Anthropic instead of Google’s own products, which is one of the challenges of running a company that has frenemies as customers.\nHow do you see that playing out? Do you see Google ever saying, “Look, we have to win at the frontier. We have to win at AGI. We have to make sure recursive self-improvement of coding occurs so the next model works,” which is a religious belief inside of OpenAI and Anthropic? Or do you see them saying, “Actually, being one or two steps behind the frontier is fine because that’ll make our products work well enough and we’ll just sell capacity to the people chasing the AGI dream”?\nThe way they are right now, they’re going to keep chasing it because their investors want that. It makes their stock go up to say, “Hey, we’re chasing this. We’re at the frontier. We’re the only large corporation that’s almost or nearly or equally caught up with OpenAI and Anthropic.” They don’t need to go the way of Amazon and, in my opinion, Meta right now.\nIn a year or two, if they continue the brain drain and they keep falling behind, then yeah, maybe they’re going to do what you said in situation two. But for now, there’s no reason for them not to keep chasing, especially because that’s a great thing to talk about on an earnings call and it makes all your investors happy.\nThe AGI piece is really interesting to me, especially in the context of Google. Demis Hassabis was the final speaker at Google I/O. After an hour and a half of very practical demonstrations of AI inside of Google products, Demis came out and he talked about protein folding and drug discovery, which are the things that he really cares about. \nAnd then he ended the entire presentation by saying very confidently, “We are at the foothills of the singularity.” Google doesn’t say, “AGI.” It says, “the foothills of the singularity,” which is an enormous claim.\nI thought, “Boy, that’s an incredible way to end Google I/O.” And then later I sat down with Sundar and I said, “Do you agree we’re at the foothills of singularity? What does this mean to you?” Here’s what Sundar said to me.\nSundar Pichai: Demis and I have had long, deep conversations on this topic.\nNilay Patel: I figured. \nIn this context, for him, the advent of AGI is what he thinks of as the singularity and I think—\nDo you have a definition of AGI? Have you debated? Do you have an agreement?\nWe debated a lot. Both Demis and I are very close to how we think about AGI … There is a harder definition of AGI, which is that it has to more comprehensively do the wide range of tasks, including cognitive tasks, in a way that’s comparable. We’ll at some point actually put it out as a company, and we are working on that. But that’s what he’s talking about in this context.\nI’ve been thinking about that answer since it happened. Do you know what Sundar’s definition of AGI or the singularity is based on that?\nIt’s the exact same as everyone else’s. In the OpenAI lawsuit, in the materials, we saw the definition of AGI come out of that. It was published and it sounds like he’s talking about the exact same thing.\nIn Microsoft and OpenAI’s 2019 contract that was made public as part of the Musk v. Altman trial, it’s a 36-page agreement, but luckily, finally, we’re finding out their definition of AGI, which is, “A highly autonomous system that outperforms humans at most economically valuable work.” It seems similar to what Sundar is saying in terms of cognitive tasks. It’s just a highly autonomous system that can do a ton of economically valuable knowledge work at the same level or surpass the level of humans.\nThat’s the definition I’ve been working with for the past six years on the beat, and it seems like that tracks with what he’s saying.\nHe said to me that Google would put out a definition of the singularity or AGI and they’re working on it. As far as I know, they have not yet released this definition. I don’t know if it tracks the OpenAI one. I do know that’s basically what the industry says, right? That it’ll be better than you and me at economically viable tasks. They’ve stopped saying that. \nEqual or better.\nEither way, we’re losing our jobs, right? They’ve stopped talking about it because that means we’re all losing our jobs. So that’s just faded into the background.\nI bring this up because Demis is so focused on science, and in particular health outcomes, and in this announcement about him moving on to be chief scientist, Sundar repeated the phrase, “We’re at the foothills of the singularity.” It feels like Demis wanted to chase AGI, world models, protein folding, and all of the next things. \nThe thing that makes AI economically viable today is writing software code or automating business processes inside of Fortune 500 companies or agentic shopping or whatever boring thing Google needs to do to make money, and those things are getting ever farther apart. If you want to chase the foothills of the singularity in AGI, maybe that has nothing to do with how Google needs AI to make money today.\nThat’s a big part of the Google culture clash, right? That’s, “We’re going to chase money and shareholder value instead of holding fast to our ideals.” That’s a big part of the AI industry’s general chaos. How is OpenAI going to make a dollar? Who knows? It’s a code red. We’re right back at the beginning.\nHow do you see it? Is it that Demis wanted another Nobel Prize, so he led them astray and now he’s getting kicked upstairs and they’re going to focus on money? Or is there real validity to, “We’re going to let him chase the singularity while we work on Gmail Search”?\nThere’s a big difference between, “We’re going to let him chase the singularity,” and, “We’re going to let him do a lot of research into biology, drug discovery, and the other stuff he’s into,” and that seems to be what he’s going to be doing. It seems like he and Jeff Dean are going to be doing similar things, but in very different places.\nIt’s a tale as old as time. I’ve been writing about this for so many years, product versus research. The big clashes, the funding, the resources. Companies want products immediately and they don’t want to invest in the long-term research that sometimes leads to those products. They only want the quick, “What are we going to turn this into? What’s the timeline? Let’s speed it up for products and let’s compete with all of our three competitors and not really do these long side projects that may lead to something or may not.”\nThe tension’s building and building, especially as OpenAI and Anthropic are about to go public. Google has a lot of investors to answer to. This is a building of the tension we’ve been seeing for so many years. And for what it’s worth, I do think the Demis situation was probably mutual.\nI’ve heard rumors that maybe he wanted to leave completely, but it would be too dramatic for him and Jeff Dean to leave at the same time. So he said, “Yeah, I’ll go to this other role and then I’ll leave later.” That’s just a rumor. We’re not sure. But either way, it doesn’t seem like he was totally kicked to the curb or kicked upstairs. It’s more probably a mutual parting where he really is not that interested in products and he wants to do the long-term research, and a lot of these guys are like that.\nIt feels like a real situation where you have to be careful what you wish for, because when Sundar created Google DeepMind, he had to pick a winner, and he picked Demis over Jeff Dean. We were all waiting to see if and when Jeff Dean would leave because he didn’t win, and now they’re both leaving because Demis realized that actually operating inside of Google is a very different job than just doing the research.\nOne of the questions I have here in general is about DeepMind itself, which is famously headquartered in London and answers to no one. It’s Google’s big, fancy AI research arm with the big fancy CEO. That’s getting pulled down. It’s being led by an SVP who reports to Sundar now. There are some reports that maybe the center of gravity and the authority is going to move back to Mountain View to Sundar himself. How do you see that playing out inside of Google?\nI can definitely see the winds might be changing and the Bay Area might be the headquarters again, at least in terms of power. London’s autonomy has been going on for a long time. I’ve visited that office multiple times. It did have a different feeling to it. It felt like there was a lot less urgency in a good way. It was really collaborative. There were a lot of long-term research questions and it was a very different feeling than the tension and the urgency I feel when I visit other AI labs’ offices.\nMaybe Sundar got tired of that and said, “You know what? I need the pressure to rise. I need products quickly. The research can only be done if it’s going to lead to something that’s trackable.” I could definitely see the center of gravity moving to the Bay Area.\nThe reporting from inside of Google that I’m most curious about is how that culture changes without these leaders. As you were saying before, Jeff Dean and Demis Hassabis were moral leaders in addition to technical leaders and research innovators. They kept Google from doing a lot of things. They’re gone now. In some of your own reporting and your story on our site, there are people saying, “Who will we sell out to next?” \nSergey Brin, who’s deeply involved in AI efforts, supports the Trump administration. Sundar obviously stood behind Trump at the inauguration. The questions from the staff about, “What will we sell it next? What values are up for sale next without the culture carriers of a Demis or a Jeff Dean?” seem open.\nAre there answers? Who’s taking over DeepMind now and what kind of person do we think they are?\nIt’s Koray Kavukcuoglu, and these questions are super valid because I don’t think Koray’s going to be speaking up on this stuff. He’s a product guy. He’s focused on speeding up the product. I’m sure he and Sundar have had a bunch of conversations about focusing on the short term.\nOver the past few months, early this year, I was chatting with a bunch of AI employees at a ton of different companies, and they all, including employees at Google, felt like the messaging from their companies was, “Shut up and focus on the mission. Keep your head down. Roll stuff out. Don’t worry about what’s going on in the outside world politically.” It seems like that’s going to be even more of a thing now.\nOne of the sources I was speaking with at Google said, “Speaking out on moral issues like ICE agents and AI surveillance and autonomous lethal weapons, Jeff Dean was one of the last people who was willing to do that.” And it doesn’t seem like Koray’s going to be really eager to take that place. These questions are really valid and I wouldn’t be surprised if a lot more DeepMind people left after all these changes.\nLet me ask you the hardest question of all to wrap it up. There’s a lot of noise in the ecosystem right now saying that Google has lost the AI race. But as we said from the beginning, Google has a ton of advantages here.\nIt’s making money, which most of the other companies aren’t. It’s selling Google Cloud infrastructure to its own best competitors. It has massive distribution advantages in Search, in Gmail, in the fact that Apple appears to have distilled Google’s models for Siri. There’s a lot here where Google just has structural advantages. It’s playing with house money. It’s a trust fund baby, as you’ve said several times here.\nIs it possible to lose the AI race from that vantage point? Or is it really just about if Anthropic gets to a point at recursive self-improvement that they can call AGI, everyone else has to lose by default?\nIt’s not possible for them to fail. It’s possible for them to change up their strategy. Like we were talking about earlier, maybe they become an Apple where they’re running on Google AI and they’re fine with that, but they’re picking a different company. Same with Amazon. They’ve given up a little bit, it seems like. I’m going to get some flack for that. Meta’s still really desperately trying, but they’re behind.\nI don’t think Google can fail. It’s more, do they eventually realize it’s not worth their time? Does the brain drain continue? Do they realize, “Look, there’s no amount of money we can offer to get some of the best minds back here. Let’s just cut our losses”? That’s a little ways off. I don’t think that’s going to happen in the next few months or even the next year.\nBut it’s important for these execs to remember that a lot of the people that are most involved and really pivotal in building this technology and keeping them at the frontier are extremely serious about their morals and what they’re doing. They don’t just do it for the money. It’s going to be tough to resell that dream to some of them if they’re trying to rehire after they lose people. OpenAI is experiencing the same thing. So we’ll see.\nIt’s worth noting Demis is still there. He’s the chief scientist. Presumably he will still be going to the London office and be charming, and Demis is very charming. You can see all that continuing to happen, but what are we shipping? What are the roadmaps? Who gets the GPU access? That seems like it will change and that will have some downstream effect.\nIf you had to look for signs, is Google succeeding or failing, is the culture a problem or are they just retrenching to go and be even more aggressive? What kinds of things would you look for right now?\nWhat I typically look for is what they’re really offering every time they have a big release and how pivotal it really is. Are they doing something that their competitors did six months ago? And are they even doing that well? That’s how I think about these things sometimes. There will be a big release from an AI company or a big tech company that’s trying to catch up in the AI race. Sometimes it’s six months behind OpenAI or Anthropic, and sometimes the stuff that they’re really excited about is pretty bad.\nThat’s what I would be watching from Google. With Gemini 4, what can it really do? Does it have that same effect that Gemini 3 had on the industry, where it’s leading for at least a week or two? Or does it not even have an hour of lead time and it just falls flat and it’s used by the enterprises that they work with and no one’s really excited about it? That’s the type of thing I’d be looking for.\nI’d also be looking for the exodus. If a ton of the DeepMind engineers leave, if they’re desperately trying to hire and offering more and more desperate pay packages, that’s another sign. Whenever Demis leaves — and that will eventually happen — that’s a huge sign.\nWe’ll be looking out for all that. I’m confident that the chaos in the AI industry will continue, and Hayden, you’ll be back on Decoder. Thank you so much for joining me today.\nThanks so much.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "57b4a23cfc8ce1c8c0634bb506e7fef1261ceaa1",
+      "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-08-13T14:09:05.000Z",
+      "summary_90w": "",
+      "raw": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3e39d4eb77c4e8122afca6460988e9d3684c2353",
+      "title": "In a first, US will allow some private firms to carry out cyberattacks",
+      "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-08-13T14:09:05.000Z",
+      "summary_90w": "",
+      "raw": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "40a7b54ef224ddcdb371fdacc3f02781ad1a3ad3",
+      "title": "Europe heatwave live: Temperatures of 40C expected in Spain; rare warning for ‘extreme heat’ expanded across England",
+      "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-13T14:05:20.000Z",
+      "summary_90w": "",
+      "raw": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to come\nMet Office has just offered an update on temperatures across the UK, with several stations already reporting temperatures above 30C – and it’s not even 11am.\nIt’s 30.4C in Wych Cross, 30.3C in Charlwood, 30.2C at Kenly Airfield.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e5357301c78fc21c38a7bb993f2b2e963fa2b372",
+      "title": "Rivian is finally getting a long-requested feature — and no, it’s not CarPlay",
+      "url": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Rivian R1S owners, rejoice. Rivian has heard your pleas for second-row captain's chairs. \nFor years, Rivian owners have lamented the absence of captain's chairs in the R1S, noting that the three-row SUV would be much improved with standalone seats instead of a bench in the second row. Parents groused that loading and unloading kids in the R1S could be a headache, especially with a child's seat in the second row. And some owners have even contemplated going so far as to rip out the second-row bench seat and replace it with aftermarket chairs - so desperate were they for an accessible path to the third row.\nFortunately for them, Rivian annou …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1d8f1d93e3544938b4647116ea6f8d87462f87a1",
+      "title": "Samsung&#8217;s $1,900 Z Fold 8 is still vulnerable to pocket lint",
+      "url": "https://www.theverge.com/tech/979421/ifixit-samsung-galaxy-z-fold-8-hinge",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "iFixit has provisionally given Samsung's Galaxy Z Fold 8 a repairability score of 4 out of 10, which largely hinged on… well, the hinge. In its teardown of the device, iFixit found that because it carries an IP48 ingress rating - meaning it isn't protected against particles under 1 millimeter - dust and sand could make its way into the hinge mechanism, a component that's difficult to repair or replace.\n\"After working the Fold 8 open and closed, the hinge started making truly awful crunching and grinding noises, and the phone stopped opening normally,\" iFixit said. \"Samsung has previously treated the hinge and inner display as one replacemen …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "03da5132c95859a295011a11a2d0fcf27b9dc631",
+      "title": "Wearables are getting a taste of much-needed minimalism",
+      "url": "https://www.theverge.com/column/978295/optimizer-screenless-wearables-fitness-trackers-smart-rings",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Whoop has no shortage of copycats now.\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nDuring my summer vacation, I went in on the screenless wearable life. These past two weeks, I wore the Fitbit Air and the Garmin Cirqa on my right wrist. My right index finger was home to the Oura Ring 5. In my right arm, a Dexcom G7 continuous glucose monitor. If I did whip out a pair of smart glasses, I opted for the display-free Meta Glasses. The wearable data generated? A metric crapton. The number of times one of these wear …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9744ee24194d1a01ee9167e264d8a4def6ebe33e",
+      "title": "'The fish is in the right' says man bitten after catching blue shark",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnwk78xe8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-13T13:46:34.000Z",
+      "summary_90w": "",
+      "raw": "Sebastian Achim was fishing for sharks on board the small boat off the coast of County Waterford, when the incident happened.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "fcd8c105ffbddc7c488b7ca8d6b533533448165a",
+      "title": "Water bills set to rise for many after firms permitted extra funding",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-13T13:38:30.000Z",
+      "summary_90w": "",
+      "raw": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
       "topics": [
         "World"
       ]
@@ -42,6 +198,19 @@
       ]
     },
     {
+      "id": "6e6b6506dea23772e086919e611eacea1b71ec93",
+      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T13:30:00.000Z",
+      "summary_90w": "",
+      "raw": "You soon won’t have to look at two Copilot apps in your Windows taskbar. | Image: Microsoft\t\n\nMicrosoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the \"Microsoft Copilot\" name but features an updated app icon. The single app also means there won't be two annoying Copilot icons in the system tray or taskbar anymore. \n\"Starting with a fresh look, the updated app combines the best of Copilot chat and image creation, with the power of Microsoft 365 for your work,\" Microsoft said in its update announcement. The updates are …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
       "id": "b99be3d89542c50b46f1aaddfce805a1c45f5a26",
       "title": "Three men will be executed on the same day as death penalties rise in US",
       "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
@@ -50,6 +219,19 @@
       "published": "2026-08-13T13:27:00.000Z",
       "summary_90w": "",
       "raw": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e7a03c499452b1a4f027bfc5b3f82c9de7ab10b6",
+      "title": "Italian businessman admits organising bombing at home of journalist and friend",
+      "url": "https://www.theguardian.com/world/2026/aug/13/italian-businessman-valter-lavitola-bomb-attack-journalist-friend-sigfrido-ranucci",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-08-13T13:26:52.000Z",
+      "summary_90w": "",
+      "raw": "Valter Lavitola’s lawyer says he had intended attack to boost security for investigative reporter Sigfrido Ranucci\nAn Italian businessman has admitted to masterminding a bomb attack at the home of Sigfrido Ranucci, a prominent investigative journalist, claiming it was intended to boost his security protection.\nValter Lavitola, who was friends with Ranucci, the host of Report, an investigative programme aired by the state broadcaster, Rai, made the confession to investigators after his arrest earlier this week in connection with the case, the businessman’s lawyer, Sergio Cola, told the Italian media.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -68,19 +250,6 @@
       ]
     },
     {
-      "id": "40a7b54ef224ddcdb371fdacc3f02781ad1a3ad3",
-      "title": "Europe heatwave live: Temperatures of 40C expected in Spain; rare warning for ‘extreme heat’ expanded across England",
-      "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-13T13:15:23.000Z",
-      "summary_90w": "",
-      "raw": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to come\nMet Office has just offered an update on temperatures across the UK, with several stations already reporting temperatures above 30C – and it’s not even 11am.\nIt’s 30.4C in Wych Cross, 30.3C in Charlwood, 30.2C at Kenly Airfield.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "61d9b9b41e11fe1da6f4dcee383251f45e2dcfa7",
       "title": "Flock boss admits surveillance firm took too long to act over police abuse",
       "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
@@ -94,14 +263,40 @@
       ]
     },
     {
+      "id": "23d980139bda3e05151f52ff5c9544ae84a2ba22",
+      "title": "Flock CEO: ‘We got this one wrong’",
+      "url": "https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Surveillance tech company Flock is rolling out updates to address reports of cops across the country abusing its tools to stalk ex-romantic partners and others. CEO Garrett Langley is delivering a mea culpa, and in an interview with The Verge, says he's changed his mind on what responsibility Flock bears for how law enforcement uses it.\nOver the coming weeks, Flock will begin implementing updates that include requiring a previously optional feature called Audit Assistance, which flags \"abnormal search behavior\" and immediately locks out suspicious users until an administrator reviews their activity. All users will also be required to enter  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "0f4450a20809fda560c42f8f2fb2da63c88f1d2d",
+      "title": "Nintendo’s next Fire Emblem has a bold new structure",
+      "url": "https://www.theverge.com/games/977955/fire-emblem-fortunes-weave-preview-impressions-nintendo-switch-2",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-08-13T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Nintendo's first Fire Emblem game for the Switch 2 is structured in an ambitious way. Unlike the well-loved Three Houses, a strategy game that tasked you with pledging allegiance to a specific faction and seeing their story all the way to the end, the new Fortune's Weave lets you swap between four heroes and their compatriots so you can tackle multiple storylines at once. With Three Houses, I only ever played one path and never went back to experience the others. I hoped that the new game's structure would be a way to see everyone's stories in one playthrough.\nAfter playing 26 hours of Fortune's Weave, which launches on September 17th, I've …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
       "id": "a05441fed96b1f24316109c8b55e9a7aee4aa96a",
-      "title": "Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
+      "title": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
       "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2026-08-13T12:56:57.000Z",
       "summary_90w": "",
-      "raw": "Japanese PM says islands seized by Soviets late in second world war are part of Japan under international law\nThe Japanese government has reacted angrily to Vladimir Putin’s first visit to the disputed Kuril Islands, which are claimed by both Tokyo and Moscow.\nJapan’s foreign minister, Toshimitsu Motegi, summoned the Russian ambassador Nikolay Nozdrev, while the prime minister, Sanae Takaichi, called Putin’s actions “absolutely unacceptable”.\n Continue reading...",
+      "raw": "Japanese PM says islands seized by Soviets late in second world war are part of her country under international law\nThe Japanese government has reacted angrily to Vladimir Putin’s first visit to the disputed Kuril Islands, which are claimed by both Tokyo and Moscow.\nJapan’s foreign minister, Toshimitsu Motegi, summoned the Russian ambassador Nikolay Nozdrev, while the prime minister, Sanae Takaichi, called Putin’s actions “absolutely unacceptable”.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -115,19 +310,6 @@
       "published": "2026-08-13T12:35:02.000Z",
       "summary_90w": "",
       "raw": "Two planes came close to collision on the runway on Sunday – hours after another near miss – making a total of three in recent weeks\n\nGet our breaking news email, free app or daily news podcast\n\nThe transport safety watchdog is investigating a a third near-collision between two planes at Sydney airport – the latest incident occurring hours after one that made national news and raised concerns about air traffic control.\nThe Australian Transport Safety Bureau (ATSB) said on Thursday night that it was investigating a second “runway incursion” on Sunday 9 August.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9622f9888aa646fef2fd5e2e1e5975ddf4efac89",
-      "title": "Man, 102, dies after alleged pub assault",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-13T12:27:41.000Z",
-      "summary_90w": "",
-      "raw": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
       "topics": [
         "World"
       ]
@@ -173,7 +355,7 @@
     },
     {
       "id": "a27ec96d82f408dca9591ab4383a3241b71c5a38",
-      "title": "Heatwaves drive A&E attendances up to record high",
+      "title": "Busiest ever period for England's A&Es as extreme heat hits",
       "url": "https://www.bbc.co.uk/news/articles/crrvp45gxzpo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -263,19 +445,6 @@
       ]
     },
     {
-      "id": "e9f2b0724217c7a662bf3232ae9e916c5d629596",
-      "title": "Zambians voting as president bids for second term",
-      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-08-13T10:51:35.000Z",
-      "summary_90w": "",
-      "raw": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e506744639685578b59750c59a59238df9e42030",
       "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
       "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
@@ -297,19 +466,6 @@
       "published": "2026-08-13T10:17:56.000Z",
       "summary_90w": "",
       "raw": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "2233232af5c5c9655080b649ca53897de44983f5",
-      "title": "Residents' 'absolute fear' as massive fire destroyed their homes",
-      "url": "https://www.bbc.co.uk/news/articles/c3d32np89z4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-13T10:17:04.000Z",
-      "summary_90w": "",
-      "raw": "Residents have been evacuated after a large fire involving six homes in Caerphilly county.",
       "topics": [
         "World"
       ]
@@ -344,7 +500,7 @@
       "id": "71b6f39bd776accf0b6bdd099213bf547ad1afe4",
       "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
       "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-08-13T09:54:03.000Z",
       "summary_90w": "",
@@ -601,6 +757,19 @@
       ]
     },
     {
+      "id": "efd77097c2fdff43ef139af07241e0eb1d37b9ad",
+      "title": "'I was blown away' - the fans who heard Phoebe Bridgers' unreleased album in a planetarium ",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k1y0rzeko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-13T05:23:45.000Z",
+      "summary_90w": "",
+      "raw": "Armagh Planetarium hosts an early album listening party for American singer-songwriter Phoebe Bridgers.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "ef4ac32ef1cf2cf699cb3fa046cac6641498bef1",
       "title": "Scientists invent 'world's greenest party balloon'",
       "url": "https://www.bbc.co.uk/news/articles/c78gqw3w6v5o?at_medium=RSS&at_campaign=rss",
@@ -719,26 +888,13 @@
     },
     {
       "id": "78ff4fec13014d97e824e2982f3f451a86222498",
-      "title": "Iran has shaken Trump's Republican support - is his base sticking with him?",
+      "title": "Iran has shaken Trump's support - is his loyal base sticking with him?",
       "url": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-08-12T23:26:21.000Z",
       "summary_90w": "",
       "raw": "Munitions for the war are made in Kingsport, Tennessee, where some of the president's most loyal supporters are wrestling with higher prices.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "36d26c61c1e64905b58ab2b6cd877971882babe5",
-      "title": "How can Nigerian singer Ayra Starr honour her roots as she goes global?",
-      "url": "https://www.bbc.co.uk/news/articles/c4gdxywn7y4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-12T23:19:48.000Z",
-      "summary_90w": "",
-      "raw": "The musician shares the personal stories behind her third album, and the time she teased a legend.",
       "topics": [
         "World"
       ]
@@ -978,32 +1134,6 @@
       ]
     },
     {
-      "id": "66fabb1f3da6c1164302031f0b982bec0fb94eb7",
-      "title": "The next big indie game publisher is taking some exciting swings",
-      "url": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-12T19:30:00.000Z",
-      "summary_90w": "",
-      "raw": "Promotional artwork for Sam Barlow’s Precognition. Looks trippy.\t\n\nKinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to release in 2027 and 2028. \nPerhaps the most significant announcement from Kinetic's show is that it's publishing the next game from Telling Lies and Immortality creator Sam Barlow, titled Precognition. (Barlow previously revealed the game as \"Project C.\") Like other Barlow titles, Precognition will feature FMV-sequences and nonlinear storytelling. Here's the setup: \nPlayers take on the role of Diana, a woman who discovers she can receive vision …\n\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "043d7ab1f90385338e4c13ac7b0595013dec054d",
-      "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
-      "url": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-12T19:27:47.000Z",
-      "summary_90w": "",
-      "raw": "The iPhone 17’s successor might not arrive until 2027. | Photography by Allison Johnson / The Verge\t\n\nAccording to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall, but the base iPhone 18 won't arrive until the first quarter of next year. The more affordable iPhone 18e and a new iPhone Air are also rumored to launch around the same time, in line with rumors that have been circulating for more than a year. \nAnalyst Ming-Chi Kuo and The Information both reported last year that Apple was planning to only launch its premium iPhones in fall 2026, and earlier this year another Apple supplier said one of its custom …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "d3815b8c179486fda3b02b9f95d57a4b9f060d29",
       "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
       "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
@@ -1027,19 +1157,6 @@
       "raw": "Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "85862172dc3e8045237b03a0b42b4a5999ba84be",
-      "title": "Countries in ‘armed conflict’ barred from hosting Eurovision",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/12/broadcasters-to-be-barred-from-eurovision-song-contest-if-state-involved-in-armed-conflict",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-12T18:20:55.000Z",
-      "summary_90w": "",
-      "raw": "Organisers says new rule will ensure contest provides ‘safe and welcoming environment’ for participants\n\nBroadcasters will no longer be eligible to host the Eurovision song contest if their state is involved in an “armed conflict” or “sensitive geopolitical situation”.\nEurovision is traditionally hosted by the previous year’s winner’s broadcaster, with next year’s show due to take place in Bulgaria after the singer Dara’s victory for the country in May.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1069,19 +1186,6 @@
       ]
     },
     {
-      "id": "a83ba3bff809f4cd2329ffb9d394b9086f9fc6f7",
-      "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
-      "url": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-12T17:47:54.000Z",
-      "summary_90w": "",
-      "raw": "The Pixel 11 Pro in matte obsidian. | Photo: David Imel / The Verge\t\n\nLooking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches.\nThe base Pixel 11 starts at $899, the Pro and Pro XL are $1,099 and $1,299 respectively, and the Pro Fold starts at $1,899. The watch comes in two sizes, with the smaller 41mm model starting at $399, and the larger 45mm model starting at $429. The phones are available for preorder now, and will ship on August 20th, 2026.\nIf you're looking to preorder an unlocked phone on its own, your main options are Best Buy, Amazon, and directly from the Google Store. All three are runni …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "26e311ec1c77a03a022921f7dd0289f50809e632",
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
       "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
@@ -1090,19 +1194,6 @@
       "published": "2026-08-12T17:41:29.000Z",
       "summary_90w": "",
       "raw": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "70c73a35f66ab0cb7439e6e6ad29fd5b8761a843",
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-12T17:29:10.000Z",
-      "summary_90w": "",
-      "raw": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page.\nOther \"AI-supported\" features like captions and safety tools will still function if you opt out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern if that chat can be used for training,\" Twitch  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -1134,32 +1225,6 @@
       ]
     },
     {
-      "id": "de0183a88893f410eb48e6b3966522e062dcda7c",
-      "title": "How Google’s new Pixel 11 phones compare to last year’s models",
-      "url": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-12T17:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Pixel 11 Pro. | Photo: David Imel / The Verge\t\n\nGoogle just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come with some notable upgrades, including improved cameras and a new Tensor G6 chip that should deliver faster performance. The phones also have new photography tools, like Magic Capture, along with improvements to Gemini Intelligence, expanded Live Translate capabilities, and the ability to use Circle to Search directly through the camera.\nTo make deciding whether you'll upgrade or hold onto your last-gen phone a little simpler, we're focusing on co …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "282b92768f3e28728316970c005437dafea52e8d",
-      "title": "ICE wants to give agents electrified gloves that shock people into compliance",
-      "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-12T16:58:29.000Z",
-      "summary_90w": "",
-      "raw": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the Department of Homeland Security on Monday, with an unspecified quantity of the devices set to be delivered by March 2027.\nThe electrified handwear outlined in the contract is the CTG 5 GLOVE (Generated Low Output Voltage Emitter), which manufacturer Compliant Technologies refers to as a CD3 (Conductive Distraction and De-escalation) device. Compliant Technologies describes it as  \"a great, humane, low-optics, de-esc …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "82aaff9864944828cfd74753bdb75519138cf52f",
       "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
       "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
@@ -1168,19 +1233,6 @@
       "published": "2026-08-12T16:57:58.000Z",
       "summary_90w": "",
       "raw": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "f344e6e8bc3de2b8260351af0ef9fa3aa818b183",
-      "title": "Amazon gets out of the MMO game",
-      "url": "https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-08-12T16:46:05.000Z",
-      "summary_90w": "",
-      "raw": "Amazon is fully stepping back from MMOs. After saying last year that it would be halting \"a significant amount\" of its work on first-party AAA games, \"specifically around MMOs,\" Amazon will be handing over live operations of Throne and Liberty and Lost Ark in the West to other companies, according to announcements on Wednesday. Throne and Liberty will be taken over by FirstSpark Games and NC in Q4 2026. Lost Ark will be run by Smilegate starting in early 2027.\nWhen Amazon announced the broader strategy shift in October, the developers of a third MMO, New World: Aeternum, announced plans to stop offering new content updates. As of January, y …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -1196,19 +1248,6 @@
       "raw": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "53a67d20ec371d8423f704a064392ce7cde5762e",
-      "title": "Andy Burnham's Emergency Cobra Meeting On Extreme Heat",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p38lh7?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-08-12T16:44:00.000Z",
-      "summary_90w": "",
-      "raw": "Prime Minister Andy Burnham chairs an emergency Cobra committee meeting.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1329,19 +1368,6 @@
       ]
     },
     {
-      "id": "d58d0ebf84db40e81dd0cde2d2932d86975bf33c",
-      "title": "Silkroad Innovation Hub’s Road to Battlefield competition continues",
-      "url": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-12T15:02:00.000Z",
-      "summary_90w": "",
-      "raw": "The Road to Battlefield competition is now in its second year, and its purpose is to give founders across Central Eurasia a direct route to Startup Battlefield",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "0d416c63a5859fc065953b8d90319ca1d13004af",
       "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
       "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
@@ -1352,19 +1378,6 @@
       "raw": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot\nThe Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsuit levelled by its female flight attendants, who alleged the company failed to maintain a safe workplace.\nThe suit followed allegations by Mandalena Lewis, a former flight attendant, that a pilot had sexually assaulted her and a colleague, but that WestJet kept the pilot flying, thereby putting other employees at risk.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "3eb99b6d02d689593f2d6ff9f55daf3dbd867772",
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-08-12T14:20:33.000Z",
-      "summary_90w": "",
-      "raw": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1823,19 +1836,6 @@
       ]
     },
     {
-      "id": "2a7acb33d6b973e75548c306cb4eb5792f5319d0",
-      "title": "Judge approves Trump effort to end South Sudan TPS protections",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-08-07T18:34:34.000Z",
-      "summary_90w": "",
-      "raw": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians\nTemporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to end after a federal judge ruled that the Trump administration can move forward with stripping their protections.\nOn Friday, US district judge Patti Saris of the district of Massachusetts rejected an attempt by immigrant rights organizations including the New York-based African Communities Together to keep TPS for South Sudanese nationals living in the US.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "07d2c767e71ec25d712b3cbc73c500d91c3e3a80",
       "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
       "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
@@ -1896,19 +1896,6 @@
       "published": "2026-08-06T14:50:54.000Z",
       "summary_90w": "",
       "raw": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "baea9ce8bf8a57e363b2ced1fe61e2756c773967",
-      "title": "AI or real? BBC analyses viral China disaster videos",
-      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-08-05T22:00:32.000Z",
-      "summary_90w": "",
-      "raw": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
       "topics": [
         "Technology"
       ]
