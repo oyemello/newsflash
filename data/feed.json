@@ -1,36 +1,504 @@
 {
-  "version": "1788514987558",
-  "generatedAt": "2026-09-04T09:43:07.558Z",
+  "version": "1788529853267",
+  "generatedAt": "2026-09-04T13:50:53.267Z",
   "items": [
     {
+      "id": "83eb23be6b8a679f65014910bdff1ecdfeebbf53",
+      "title": "Myanmar military head visits Vietnam to normalize relations",
+      "url": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-04T13:35:39.000Z",
+      "summary_90w": "",
+      "raw": "His trip to Vietnam marks his third visit to an ASEAN member state as he seeks to restore Myanmar's standing in the bloc.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0d71a440bd679b69cfe93390d40a4ac8f648a7ee",
+      "title": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-04T13:34:12.000Z",
+      "summary_90w": "",
+      "raw": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI labs after multiple breaches were discovered this summer. \nThe incident, first reported by Reuters, is outlined in new research published by four AI safety researchers on Friday. The group said the AI agents found a way to communicate on an obscure German-language wiki, DseWiki, using it to share tips …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a87c8a7b1e8ccdf1e91e6181793c19599be3946c",
+      "title": "Tesla Cybercab is barely real and it’s already under investigation",
+      "url": "https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-04T13:33:38.000Z",
+      "summary_90w": "",
+      "raw": "Elon Musk's gilded robot car barely made it on public roads before federal regulators launched an investigation into the vehicle's lack of traditional features - many of which are required by law. \nThe National Highway Traffic Safety Administration said it was opening an audit query (AQ) into the Tesla Cybercab \"to examine the process and technical data on which Tesla relied when certifying the Cybercab and related issues.\" At issue is the absence of certain design features such as sideview mirrors, pedals, and steering wheel - all of which are required under the Federal Motor Vehicle Safety Standards, or FMVSS. \n\"Among other things, NHTSA …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "5113fd4a186b3f53a6eac96efc7d162955a3a319",
+      "title": "Latcho Drom director Tony Gatlif dies aged 77",
+      "url": "https://www.theguardian.com/film/2026/sep/04/latcho-drom-director-tony-gatlif-dies-aged-77",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-04T13:25:41.000Z",
+      "summary_90w": "",
+      "raw": "Film-maker acclaimed for his celebrations of Roma culture had been working on a ‘historical film project’ in Provence\nTony Gatlif, the French director of more than 20 films that mostly concentrated on celebrating Roma culture across the world, has died aged 77.\nHis family said in a statement to AFP that Gatlif died on Wednesday of “a health issue” while working on a “historical film project” in Arles in Provence, France. “The beauty of his films, his generosity, his joy, his poetry, and his love of music will remain with us forever.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "14b1d8e8d46928593f9390e3241a6403bbeeb549",
+      "title": "Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming",
+      "url": "https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-04T13:25:09.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is partnering with TCL to bring its Xbox app to supported TCL smart TVs. The Xbox app lets you connect to Xbox Cloud Gaming and stream Game Pass titles or select games you own as part of a subscription.\nThe Xbox app will arrive on TCL TVs at some point \"in the coming months,\" which is just in time for Microsoft's new pay-as-you-go option for Xbox Cloud Gaming in November. This will let anyone access the cloud streaming service without the need to subscribe to Xbox Game Pass - ideal for people who don't own an Xbox console. Microsoft has also been testing free, ad-supported cloud gaming for Xbox Insiders, which could roll out soon  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "72ba02a99e4495bd738201dbc6a565cd6b6b97b4",
+      "title": "Schools to close early for A66 crash funeral",
+      "url": "https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T13:25:07.000Z",
+      "summary_90w": "",
+      "raw": "The funeral of one of five young men killed in the crash with a police car will take place on Friday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c7e161d5d024fb60af593902515be0c228c03571",
+      "title": "US military disabled ad tracking on troops’ devices following reports of targeted attacks",
+      "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-04T13:21:37.000Z",
+      "summary_90w": "",
+      "raw": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b246d1ffea4540b2a197b23f2658f8dc1a4a8e18",
+      "title": "Sheep stolen from Clarkson's Diddly Squat Farm",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0g97ewlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T13:17:59.000Z",
+      "summary_90w": "",
+      "raw": "Thames Valley Police said 11 sheep were stolen from the farm in Chadlington.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "25c9cfe75984b2e3cb4b0195a05f6387b160da94",
-      "title": "Romanian prosecutors indict Andrew Tate for trafficking minors, money laundering – Europe live",
+      "title": "Russian drone strikes Ukraine’s security services HQ, says Zelenskyy – Europe live",
       "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-09-04T09:34:34.000Z",
+      "published": "2026-09-04T13:17:46.000Z",
       "summary_90w": "",
-      "raw": "Authorities formally indicted the controversial manosphere influencer along with his brother for a number alleged crimes\nA Romanian lawyer for the Tate brothers responded to the latest move by the Romanian prosecutors (10:38).\n“We will examine every aspect of (the ‌indictment) with the same level of scrutiny and we will challenge any evidential, procedural or legal deficiencies through the appropriate judicial process,” a Romanian lawyer for the Tates, Eugen Vidineac, said in a statement quoted by Reuters.\n Continue reading...",
+      "raw": "Ukraine’s president Volodymyr Zelenskyy reported a Russian drone hit the headquarter of the security service of Ukraine, in Kyiv\nin Magdeburg, Saxony-Anhalt\nPolls have suggested that the election on Sunday could yield Germany’s first-ever state government led by the far-right Alternative für Deutschland (AfD), shattering a postwar taboo and leaving minorities’ fate in the hands of a party that has promised to launch deportations “from day one”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "da8eaee1dea6960f814af198cde970e9b2fc6218",
+      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "url": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-04T13:00:44.000Z",
+      "summary_90w": "",
+      "raw": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "350aee3b75ee2f4bf37593e410c71291b5b48f98",
+      "title": "iRobot unveils the Roomba Duo",
+      "url": "https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-04T12:53:49.000Z",
+      "summary_90w": "",
+      "raw": "The Roomba Duo is two robot floor cleaners in one.\t\n\nThe original robot vacuum company showed off a concept robot at the IFA tech show in Berlin today. The Roomba Duo combines a heavy-duty floor-washing machine with a smaller, slimmer Roomba. The two floor cleaners can move around your home together, with the main unit mopping and sweeping larger floor areas and the smaller unit lowering mechanically when needed to clean tighter spaces, such as under tables or in corners.\n\n\n\n\nThe Duo is also an autonomous mobile dock, with clean and dirty water tanks and a dust bag on board, and it uses lidar and camera-based navigation to map your home, navigate, detect obstacles, and look for dirt.\nThe …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "89282106da8b0d95e44aa341d5ee46dbb4e8d1ff",
+      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T12:39:05.000Z",
+      "summary_90w": "",
+      "raw": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bbb5e05dc0fff6d18e81b3e157dbf385529880ca",
+      "title": "Seeds of hope: how a local farming project is offering a lifeline to Gaza",
+      "url": "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-04T12:37:57.000Z",
+      "summary_90w": "",
+      "raw": "Family-run Al-Qarara Seed Bank is striving to help Palestinians gain sovereignty over their food security\nSalama Ayesh Muhanna still remembers the first seeds he planted on his family’s land in al-Qarara, Gaza. At just 17, Muhanna had proudly sprouted cucumbers.\n“I was very happy because I saw the results,” Muhanna says. “We were farmers at heart.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "158fe7075888a1bbca413f76bbcf6e195cc1aeae",
+      "title": "No away fans for Old Firm games this season after agreement reached",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8x2j8kl3do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T12:30:08.000Z",
+      "summary_90w": "",
+      "raw": "There will be no away supporters for Celtic and Rangers derbies in the Scottish Premiership or Premier Sports Cup this season.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "39677a10b5315a0375c2c88c6c27fe8675bd93de",
+      "title": "Feds launch investigation into Tesla’s Cybercab deployment",
+      "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-04T12:01:14.000Z",
+      "summary_90w": "",
+      "raw": "The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3c00f18d5be3699ca2a3190d37f17dc6ce62e1ec",
+      "title": "Bluetti launches ‘e-generator’ to take on noisy, stinky, polluting gas generators",
+      "url": "https://www.theverge.com/tech/986123/bluetti-pioneer-5000-solar-generator",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-04T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Works great on a sunny day. | Image: Bluetti\t\n\nBluetti doesn't want you to call the Pioneer 5000 a solar generator (SoGen), even though that's what it is. What makes it slightly different from other large power stations that can be charged off solar - aka, a SoGen - is the dolly cart and up to 18KW of instant surge power available to start heavy equipment like air compressors, water pumps, and industrial motors. It features IP65 resistance to water and dust, and is designed to operate in temperatures from -20°C to 55°C. So, yeah, it's a rugged, powerful SoGen.\nWhatever you call it, Bluetti wants you to consider it instead of a gas-powered generator for job sites, events, emergency respo …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "94e948ac942ff28921e25b6ece54c20fcf33609f",
+      "title": "Instagram’s AI detection is a mess (again)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-04T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI tools. Meanwhile, actual AI imagery is slipping through the cracks, leaving the impression that nothing can be trusted on Instagram at all.\nThe precise causes of this tagging seem to vary. Many people said the label appeared on images that were edited using tools like Canva's Background Remover or with negl …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2b13e5102ccbcb5dc64c66ef0e61b1f552d7f1a6",
+      "title": "We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything",
+      "url": "https://www.theverge.com/tech/989199/ifa-berlin-2026-gadgets-ask-us-anything",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-04T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Europe's biggest tech trade show, IFA, has taken over Berlin this week - and we've been on the ground all week checking it out in person. We figure you have questions, so we're hosting an AMA that's exclusive to Verge subscribers at 12PM ET today. That's when we'll start dropping answers, but you can ask your burning questions whenever you'd like.\nI'm Dom Preston, a news editor here at The Verge, and I've spent the last few days roaming the trade show halls together with senior smart home reviewer Jen Tuohy, putting as much as we can to the test.\nAs you can probably guess, Jen's been checking out all things smart home, from Philips Hue's n …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "85b31d8cdaedc17dda285a3cdbe7719af8789743",
+      "title": "Answers needed on transgender surgery pause in Wales, says health minister",
+      "url": "https://www.bbc.co.uk/news/articles/ce8x2jglljpo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T11:57:27.000Z",
+      "summary_90w": "",
+      "raw": "Mabon ap Gwynfor says he respects the decision but has questions for the health board responsible.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f9841d4b31c537c50e487cda7fe6428532747941",
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T11:54:51.000Z",
+      "summary_90w": "",
+      "raw": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4ad266db0df1733aa2d845f698310239c24fe38f",
+      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+      "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T11:48:24.000Z",
+      "summary_90w": "",
+      "raw": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b3fa3cd8594a28c1e6f20a6c4b3aab1f406f32bc",
+      "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
+      "url": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-04T11:29:11.000Z",
+      "summary_90w": "",
+      "raw": "Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "210187106bc851e52b70fece5763b5650d9e60f5",
+      "title": "Russell Howard 'devastated' after his baby son died shortly after birth",
+      "url": "https://www.bbc.co.uk/news/articles/cg491g7rnqqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T11:26:32.000Z",
+      "summary_90w": "",
+      "raw": "The comedian says his son Felix died earlier this year shortly after his wife Cerys had given birth.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "04b602e27f762a44cb21f54094a216290a2b767f",
+      "title": "Chris Mason: 'This is not what Farage wanted today to look like'",
+      "url": "https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T11:20:21.000Z",
+      "summary_90w": "",
+      "raw": "Chris Mason speaks from the Reform UK conference as two of its senior officials step down following a Channel 4 investigation.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "fb31bc2f2eb766d44062544fce5c47bcea3bf71e",
+      "title": "Woman whose XL bully dog killed her cousin given suspended prison sentence",
+      "url": "https://www.bbc.co.uk/news/articles/cn45jvgk97xo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T11:06:57.000Z",
+      "summary_90w": "",
+      "raw": "Kelcie Reed admitted being in control of a dangerous dog which killed 19-year-old Morgan Dorsett.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f23a53b844051915a4b49c0d31b41a042f9e4015",
+      "title": "Why AI food looks like that",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-04T11:00:00.000Z",
+      "summary_90w": "",
+      "raw": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading as brains, and other masonry-adjacent cuisine. I don't even know how to begin describing this monstrous attempt of a burger, and the less said about the trypophobic burrito from hell, grubs and all, the better. There are lumps. And holes. So many holes.\n\n\"Diffusion mo …\n\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9034e986f01b0e1fc6981bdfcb49519e1af3eb14",
+      "title": "Five jailed after kidnap victim jumped from window",
+      "url": "https://www.bbc.co.uk/news/articles/c207x5qg4n1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T10:57:38.000Z",
+      "summary_90w": "",
+      "raw": "The man was held captive and filmed being repeatedly assaulted before escaping, police say.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5f42fdde6dd532f622d4546a3ee66de97955fd8a",
+      "title": "US diesel prices hit an all-time-high",
+      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-04T10:52:56.000Z",
+      "summary_90w": "",
+      "raw": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "95d78f5f2ce6d37579cf54363cb0254312ff8780",
+      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-04T10:44:15.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory.\n\"Project Zenith devices come with a preconfigured Windows setup for development and a set of tools curated for what developers reach for first,\" explains Logan Iyer, CVP of Windows platform and developer at Microsoft. \"On these devices, developers can run 30B+ parameter models locally and unmetered - accelerating experimentation while helping …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "38096b9b5a282a40e784af3833300c337a0639a5",
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-04T10:41:48.000Z",
+      "summary_90w": "",
+      "raw": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.  \nThe company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers - specifically those with access to its Daybreak cybersecurity platform - that day. This would expand to include all Plus, Pro, Business, and Enter …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d66e65dedd868f366c3ce9ef6fa8822ce9601fd8",
+      "title": "Stock up on food to prepare for extreme weather, minister says",
+      "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T10:40:23.000Z",
+      "summary_90w": "",
+      "raw": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6cc57e66dd8391a0d4266c226a647c9d0765a33f",
+      "title": "Iranian town mourns after deadly strike on wedding",
+      "url": "https://www.theguardian.com/world/2026/sep/04/iranian-town-kuhestak-devastated-strike-wedding",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-04T10:19:23.000Z",
+      "summary_90w": "",
+      "raw": "Mourning turns to anger as residents of Kuhestak say Baloch communities are being placed in path of conflict\nPeople in Kuhestak, a predominantly Baloch city in Iran’s southern Hormozgan province, are mourning after a strike on a wedding killed at least four people, including a child, and injured more than 60, according to local authorities.\nThe blast hit at around 9.30pm on 1 September, turning a night of celebration into one of devastation for the small coastal community, which is on the strait of Hormuz.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4217cb2605bd0c31df750c5e5a7007da58f364b9",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T10:00:18.000Z",
+      "summary_90w": "",
+      "raw": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "391b0edc67e2730c278b998c13f052986693bf44",
+      "title": "Germany's far-right AfD party is poised for power in a state election",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-04T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Germany's AfD's TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9a48870aed9080aa133b1ab8c75f8ffae76d703e",
+      "title": "Scientists map key protein interactions linked with profound autism",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-04T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Research published in the journal Science illuminates a \"missing piece\" in the biological understanding of profound autism and offers new targets for drug development.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bb973cb9a2042e003c653c84e4c66c33236fe0f0",
+      "title": "Man About the House star Richard O'Sullivan dies aged 82",
+      "url": "https://www.bbc.co.uk/news/articles/ce8eg2nnxz0o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-04T09:59:36.000Z",
+      "summary_90w": "",
+      "raw": "His biggest roles included Robin Tripp in 70s TV sitcoms Man About the House and Robin's Nest.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2ced24161292ed6167883d279c21273f79e47443",
+      "title": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
+      "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-04T09:43:58.000Z",
+      "summary_90w": "",
+      "raw": "Under-pressure carmaker will shed 15% of workforce and halve its product line in sector’s biggest ever restructure\nThe car company Volkswagen has approved controversial plans to shed 100,000 jobs in a battle for survival as it faces fierce competition from Chinese rivals.\nAfter the latest round of talks this week, the company announced a further 50,000 job cuts and agreed a staggered end to current production at four German plants: Emden, Zwickau, Hanover and the Audi site in Neckarsulm between 2031 to 2034. There are no specific plans beyond that.\n Continue reading...",
       "topics": [
         "World"
       ]
     },
     {
       "id": "0aa45abf75b4cecb1eed4ca3941e22f0ccbac6d2",
-      "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+      "title": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
       "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2026-09-04T09:31:52.000Z",
       "summary_90w": "",
-      "raw": "President cites Donald Trump’s suggestion that he might reconsider US support for British sovereignty, and threatens swifter sanctions on British oil interests\nPresident Javier Milei has said “winds of change favourable” to Argentina’s claim to the Falkland Islands were “blowing around the world” in a televised address, citing signs that Donald Trump may reconsider the US position on the islands’ sovereignty.\n“Recently, President Trump declared that the US is re-evaluating its historic position in relation to the Malvinas,” he said, using the Argentinian name for the islands.\n Continue reading...",
+      "raw": "President cites Trump’s suggestion that he might reconsider US stance on British sovereignty and threatens swifter sanctions on UK oil interests\nPresident Javier Milei has said “winds of change” favourable to Argentina’s claim to the Falkland Islands are blowing around the world in a televised address, citing signs that Donald Trump may reconsider the US position on the islands’ sovereignty.\n“Recently, President Trump declared that the US is re-evaluating its historic position in relation to the Malvinas,” he said, using the Argentinian name for the islands.\n Continue reading...",
       "topics": [
         "World"
       ]
     },
     {
       "id": "44a1e99dfa5ea492516053777456e2c322877f82",
-      "title": "73 goals from dropping deep - we ask Kane to break down how he did it",
+      "title": "73 goals from dropping deep - we ask Harry Kane to break down how he did it",
       "url": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -49,20 +517,33 @@
       "source_name": "World news | The Guardian",
       "published": "2026-09-04T09:29:41.000Z",
       "summary_90w": "",
-      "raw": "Firm has celebrity fans and ambassadors including Prince Harry, Jennifer Aniston and Kim Kardashian\nFans of Oura are accustomed to using its trendy smart rings to fastidiously monitor their health but now investors are preparing to track a new metric – its share price.\nThe San Francisco-headquartered company’s filing to imminently list on the Nasdaq stock exchange in New York was made public on Thursday.\n Continue reading...",
+      "raw": "Valuation above $11bn expected for firm whose fans include Prince Harry, Jennifer Aniston and Kim Kardashian\nFans of Oura are accustomed to using its trendy smart rings to fastidiously monitor their health but now investors are preparing to track a new metric: its share price.\nThe company’s filing to list imminently on the Nasdaq stock exchange in New York was made public on Thursday.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ab0c9a6c76f38ce390c1a8346a1e0c93a4c2d20a",
+      "title": "UK hits back at Argentinian Falklands claim and insists islands remain British",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/04/uk-ministers-hit-back-argentinian-falkland-islands-claim",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-04T09:24:46.000Z",
+      "summary_90w": "",
+      "raw": "Ed Miliband says Britain’s position remains ‘unwavering’ in response to remarks by Argentina’s president\n\nUK politics live – latest updates\n\nBritish ministers have hit back after the Argentinian president said “winds of change” favourable to his country’s claim to the Falklands were “blowing around the world”.\nThe foreign secretary, Ed Miliband, said the UK would “resolutely uphold” the self-determination of the islands after the Argentinian president, Javier Milei, said his country needed to take them back.\n Continue reading...",
       "topics": [
         "World"
       ]
     },
     {
       "id": "467fc7c05b139dfad5d1ca80bdba7cab4a215d48",
-      "title": "After renewed US-Iran strikes - how could the conflict end?",
+      "title": "How could US-Iran conflict end? Three experts give their views",
       "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-09-04T09:14:57.000Z",
       "summary_90w": "",
-      "raw": "Three experts give their BBC their thoughts on whether an imminent end to the conflict is likely.",
+      "raw": "After renewed strikes this week, does either side have an exit strategy?",
       "topics": [
         "World"
       ]
@@ -81,6 +562,19 @@
       ]
     },
     {
+      "id": "e6e61cac4936d5da8f2f93fb43bd1b8c2d4d38be",
+      "title": "‘Astronomical’ fuel price surge hits farmers in UK and US",
+      "url": "https://www.theguardian.com/business/2026/sep/04/fuel-price-surge-diesel-farmers-uk-us",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-04T09:00:04.000Z",
+      "summary_90w": "",
+      "raw": "Intensification of Middle East conflict and ongoing Russian export ban leads to diesel prices rising 10% in less than a week\nFarmers are facing an “astronomical” jump in the price of fuel needed to operate their vehicles and machinery after a surge in diesel costs in the UK and the US.\nRenewed fighting between the US and Iran has driven up the price of crude oil, while last week Russia extended a ban on diesel exports, further pushing up market prices.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "a8aff5a740b860cbcefe27575f0af28873c2e075",
       "title": "Dry eyes are common in women. Here's why you shouldn't ignore them",
       "url": "https://www.npr.org/2026/09/04/nx-s1-5954560/dry-eyes-women-menopause-perimenopause",
@@ -88,7 +582,7 @@
       "source_name": "NPR Topics: News",
       "published": "2026-09-04T09:00:00.000Z",
       "summary_90w": "",
-      "raw": "Research suggests around half of all women in the menopausal transition years experience symptoms, like red, watery or gritty-feeling eyes. Hormonal shifts play a role, as do a lot of other factors.",
+      "raw": "Research suggests that around half of all women in the menopausal transition years experience symptoms, like red, watery or gritty-feeling eyes. Hormonal shifts play a role, as do many other factors.",
       "topics": [
         "World"
       ]
@@ -133,32 +627,6 @@
       ]
     },
     {
-      "id": "3f83400cd72a6ff45114b1a59fae0e6e69cf32ca",
-      "title": "How 'unique' Bellingham is thriving in Mourinho's system",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-04T08:08:53.000Z",
-      "summary_90w": "",
-      "raw": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "2ced24161292ed6167883d279c21273f79e47443",
-      "title": "Volkswagen announces it will cut 100,000 jobs by 2030",
-      "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-04T08:06:32.000Z",
-      "summary_90w": "",
-      "raw": "Under-pressure carmaker will shed 15% of workforce and halve its product line in sector’s biggest ever restructure\nThe car company Volkswagen has announced it will shed 100,000 jobs by the end of the decade after being hit by US tariffs and fierce competition from Chinese rivals.\nThe German manufacturer said management and unions had agreed as part of a sweeping cost-cutting plan to cut a further 50,000 positions by 2030, bringing total job losses in the pipeline to 100,000.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5f33321eb208d486800174b3c6e59f46bcb7a29a",
       "title": "Trump already tried to hurt Iran with sanctions once - and it didn't work",
       "url": "https://www.npr.org/2026/09/04/nx-s1-5945582/trump-already-tried-to-hurt-iran-with-sanctions-once-and-it-didnt-work",
@@ -185,19 +653,6 @@
       ]
     },
     {
-      "id": "e277358f606581394597dff76a87650f96a99229",
-      "title": "IRS targets private schools that help racial minority students",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5955666/irs-targets-private-schools-that-help-racial-minority-students",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-09-04T08:02:55.000Z",
-      "summary_90w": "",
-      "raw": "The Trump administration has said it will end the tax-exempt status for universities with programs that help racial minority students.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "33d92c2d17d4e2ff5baf5346f046416faf771cb3",
       "title": "'How do you know if it's real?' Luxury reseller faces Chanel lawsuit",
       "url": "https://www.npr.org/2026/09/04/nx-s1-5946396/how-do-you-know-if-its-real-luxury-reseller-faces-chanel-lawsuit",
@@ -208,19 +663,6 @@
       "raw": "How do you know if a secondhand luxury good bought online is real? That's at the heart of a lawsuit filed by Chanel against the luxury reseller, The RealReal.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "35fad928b04933428bc3bd023d9504b058e748d9",
-      "title": "Morning News Brief",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5947222/morning-news-brief",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-09-04T07:57:16.000Z",
-      "summary_90w": "",
-      "raw": "",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -240,13 +682,13 @@
       "id": "cb2d7f8ef812e418b0f18af0163647ce0d81a02d",
       "title": "The price of diesel hits a record high",
       "url": "https://www.npr.org/2026/09/04/nx-s1-5948016/diesel-price-record-high",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-09-04T07:44:21.000Z",
       "summary_90w": "",
       "raw": "The price of diesel has reached an all-time high, a result of the war in Iran and Ukraine's attacks on Russian refineries. That will matter across the supply chain.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -302,58 +744,6 @@
       ]
     },
     {
-      "id": "1b8c78d8cec3c16161ab3e0d04e321d31fcd15ab",
-      "title": "Aqara goes all in on smart lighting",
-      "url": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-04T07:00:00.000Z",
-      "summary_90w": "",
-      "raw": "After showing off several smart home firsts at CES, Aqara has returned to IFA with a major lineup of smart lighting compatible with both Zigbee and Thread. One of these new devices is the Floor Lamp T1, which trades the look of a typical lamp for an LED-equipped pole attached to a base. \nThe lamp stands 4.6 feet tall, offering RGBIC lighting and 18 individually addressable zones. Similar to the floor lamp from Govee, Aqara's new device emits light in the area surrounding it, creating a splash of color on your wall.\nAqara is getting into smart lighting for the outside of your home as well. In addition to new permanent outdoor smart lights w …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "c5c45303189ee0b64c48c6979661dfa62acccebc",
-      "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
-      "url": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-04T07:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware.\nWhen the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one of the slimmest you can buy. At its thickest point in the middle it measures just 3.8mm, but that tapers to only 1mm at the edges thanks to high-density NAND stacking and a \"custom ultra-thin PCB architecture\" inside. But performance remains solid with read speeds up to 1,050MB/s and write speeds maxing out at 1,000MB/s. That's fast enough to record 4K Apple ProRes video at up to 120fps when conn …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "24975f61cd5ceefdc8f1003d7dbd6cf48ee12387",
-      "title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
-      "url": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-04T07:00:00.000Z",
-      "summary_90w": "",
-      "raw": "RugOne's Xsnap 7 Pro comes with both an IP68 and IP69K rating, meaning the rugged phone can survive intense water blasts and complete submersion for up to 30 minutes. But what really sets the Xsnap 7 Pro apart from everything else on the market is that one of its three rear cameras can be removed and used as a standalone action cam. It made its debut at MWC 2026 earlier this year but is launching through Kickstarter on September 7th for €799 (around $930) in limited quantities, followed by a global release in October for $999.\nThe Xsnap 7 Pro's detachable camera module isn't quite as a capable as the DJI Osmo Nano or the Insta360 Go Ultra t …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "f84bbd8c79cbd4a65cab57fc86b76fde29129e42",
-      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-      "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-04T06:52:29.000Z",
-      "summary_90w": "",
-      "raw": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "68aa097a7c49ee127c7adff0fe52b063a050dae8",
       "title": "Charles Perrottet denies asking brother as premier to appoint cabinet minister, Icac hears",
       "url": "https://www.theguardian.com/australia-news/2026/sep/04/charles-perrottet-denies-asking-premier-brother-to-appoint-cabinet-minister-icac-ntwnfb",
@@ -380,19 +770,6 @@
       ]
     },
     {
-      "id": "8cbf20908dd0bb502060f9412a8ad620ac08f218",
-      "title": "Ukrainian quits college team over Russian signing",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/cgmr8ny1eeno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-04T06:22:40.000Z",
-      "summary_90w": "",
-      "raw": "Ukrainian Kate Koval says she left Louisiana State University's basketball program because of the team's decision to sign a Russian player.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "480faa5229039111190c20649aabc1f877d3ae4b",
       "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
       "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
@@ -406,19 +783,6 @@
       ]
     },
     {
-      "id": "fc393c8f94688377982680409f2d30a5aa3dc314",
-      "title": "Trump administration pushes to remove tax exemption for private colleges with DEI policies",
-      "url": "https://www.npr.org/2026/09/04/g-s1-141947/trump-administration-pushes-to-remove-tax-exemption-for-private-colleges-with-dei-policies",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-09-04T05:37:35.000Z",
-      "summary_90w": "",
-      "raw": "The Trump administration is proposing a rule that would strip private schools and colleges of their tax-exempt status if they provide targeted help to students based on their race.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "18d4302ff4cc0ecc0255a0152774224da976708d",
       "title": "Families move out of 'nightmare' new-build homes plagued by defects, damp and mould",
       "url": "https://www.bbc.co.uk/news/articles/c7708k363dyo?at_medium=RSS&at_campaign=rss",
@@ -427,32 +791,6 @@
       "published": "2026-09-04T05:07:08.000Z",
       "summary_90w": "",
       "raw": "Dozens have contacted BBC Your Voice as complaints to ombudsman have tripled in a year.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d5a59a38929df98234cbfde72893fad7ce4c0b97",
-      "title": "The Papers: 'Foreign donations sting' and 'Argentina threat to Falklands'",
-      "url": "https://www.bbc.co.uk/news/articles/c5yml8lxx2ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-04T05:02:57.000Z",
-      "summary_90w": "",
-      "raw": "Reform UK alleged 'foreign donations sting' and Argentine president's looming 'threat' over Falklands are the papers' top stories.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f191831d720592ba92ba41a752af3aea1d690fa9",
-      "title": "Europe weighs solutions to curtail Russia’s growing hybrid warfare",
-      "url": "https://www.theguardian.com/world/2026/sep/04/europe-weighs-solutions-to-curtail-russias-growing-hybrid-warfare",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-04T05:00:01.000Z",
-      "summary_90w": "",
-      "raw": "Governments now moving faster to impose costs on Moscow for its increasing attacks over support for Ukraine\nRussia’s suspected sabotage campaign across Europe appears to be gathering pace again, confronting governments with a problem they have struggled to solve since the start of the war in Ukraine: how to impose a meaningful cost on Moscow for attacks that remain deliberately below the threshold of conventional war.\nOver the past month alone, an explosives-laden drone was discovered next to a Ukrainian cargo plane at Germany’s Leipzig airport, Poland has faced suspected acts of sabotage, and a string of unexplained explosions and fires have hit defence facilities supplying Ukraine across Europe.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -487,24 +825,11 @@
       "id": "ce01a242b508b77abf4e2ea0342af65a94c7ca8d",
       "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
       "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-09-04T04:06:41.000Z",
       "summary_90w": "",
       "raw": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "68aba744817f132cf9708ddf043b19efe46e12a0",
-      "title": "‘This could just be the beginning’: minorities fear first far-right win in German state election",
-      "url": "https://www.theguardian.com/world/2026/sep/04/minorities-fear-first-far-right-win-in-german-state-election-saxony-anhalt-afd",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-04T04:00:57.000Z",
-      "summary_90w": "",
-      "raw": "As polls point to victory in Saxony-Anhalt for AfD party promising deportations, people face agonising choice: stay or go\nAs the Bible study session wrapped up, leaving worshippers to mingle over cake and coffee, Fatemeh, 44, fought back tears as the conversation turned to Sunday’s state election in Saxony-Anhalt.\n“I worry about it every day,” she said. “I can’t stop thinking about my son and what might happen to us.”\nFatemeh worries about what might happen after the elections. Photograph: Christian Jungeblodt/The Guardian\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -575,32 +900,6 @@
       ]
     },
     {
-      "id": "7d8b13a6bce0650afd01a21234126faa218f520f",
-      "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
-      "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-04T01:49:25.000Z",
-      "summary_90w": "",
-      "raw": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision.\nBut unofficially, modders have already ported a leaked version of DLSS 5 to run on just about anything while cranking sliders to the max. Now, Nvidia is changing its plans. DLSS 5 is still launching first on RTX 50 GPUs, but it's officially coming to older RTX 40-series GPUs as well, Nvidia spokesperson Rajal Maharaj confirms to The Verge.\n\"Our current focus is on optimizing performance for the GeForce RTX 50 Series with model u …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "c1f87dbaf2792200f857c1ce390df8578d0c2baa",
-      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-      "url": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-04T01:26:23.000Z",
-      "summary_90w": "",
-      "raw": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "d21f84aa7034fd226e6bf8290999dca849e826ee",
       "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
       "url": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
@@ -609,45 +908,6 @@
       "published": "2026-09-04T00:55:45.000Z",
       "summary_90w": "",
       "raw": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d21f84aa7034fd226e6bf8290999dca849e826ee",
-      "title": "Watch: Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-      "url": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-04T00:55:45.000Z",
-      "summary_90w": "",
-      "raw": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "2aceafb83740462c155b9689715009b1c712a345",
-      "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-      "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-04T00:54:46.000Z",
-      "summary_90w": "",
-      "raw": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4049b1d84a92d31a608330009db5fe486f5856c2",
-      "title": "Weekend heat for parts of UK before more rain next week",
-      "url": "https://www.bbc.co.uk/weather/articles/c5yepd098wyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-04T00:52:06.000Z",
-      "summary_90w": "",
-      "raw": "Parts of the UK will experience a short-lived surge of heat this weekend as hotter air from Europe moves in. Temperatures widely will be above 20C, with a peak of 27C in the south.",
       "topics": [
         "World"
       ]
@@ -666,32 +926,6 @@
       ]
     },
     {
-      "id": "3b4ed13a0d906d92c1ee4c3ca4c7b502234976bc",
-      "title": "'Miracle' eagle with broken wing spotted back above Scottish coast",
-      "url": "https://www.bbc.co.uk/news/articles/crerw2nj81zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-04T00:46:54.000Z",
-      "summary_90w": "",
-      "raw": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3ca88f78924fedadf4d0aba8bbdc36fc572ec4b7",
-      "title": "'Gromit was nearly a cat!': Secrets from 50 years of Aardman",
-      "url": "https://www.bbc.co.uk/news/articles/cn8ell3dngno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-04T00:34:18.000Z",
-      "summary_90w": "",
-      "raw": "Aardman turns 50 with stories of cat-like Gromit, silent Shaun and Chicken Run's Oscar legacy.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "d17cd66d19ede8accf317c65846d10c1617a310f",
       "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
       "url": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
@@ -705,23 +939,10 @@
       ]
     },
     {
-      "id": "49d295514768843736126336a884a2af61b58462",
-      "title": "The unusually muted Tesla Cybercab launch",
-      "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-04T00:25:06.000Z",
-      "summary_90w": "",
-      "raw": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots.\nIt was an unusually muted event, with no livestream, no journalists, and a very short invite list comprised mostly of pro-Tesla content creators. Tesla influencers planning live shows with the event stream were left streaming the webpage that tracks the number of Tesla robotaxis in Texas instead. \nBut if the goal was to blunt …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "93fbeed0c2f005bb27e2db171ae39796286b3f49",
       "title": "Girl group Katseye are missing two members, but their tour still dazzles",
       "url": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-09-04T00:19:53.000Z",
       "summary_90w": "",
@@ -734,19 +955,6 @@
       "id": "9eabf52a09b3dcb7f905f261b6870e8fc939bcb9",
       "title": "'I lost my savings after a job interview scam'",
       "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-09-03T23:41:49.000Z",
-      "summary_90w": "",
-      "raw": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "9eabf52a09b3dcb7f905f261b6870e8fc939bcb9",
-      "title": "Warning after jobseekers targeted in interviews scam",
-      "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-09-03T23:41:49.000Z",
@@ -754,19 +962,6 @@
       "raw": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "6ae5fba47fffdeea77e5151a88e2ee54f2b071e0",
-      "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-      "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-03T23:37:37.000Z",
-      "summary_90w": "",
-      "raw": "A view of the Halo Board inside the Intuit Dome in 2024 | Icon Sportswire via Getty Images\t\n\nLast September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has been suspended by the NBA for a year, while the league says his team will forfeit five future draft picks and pay a $30 million fine, among other penalties. \nA year later, an NBA-commissioned 35-page report by Wachtell, Lipton, Rosen & Katz is basically calling him a liar, saying those claims were \"inaccurate (at best) with respect to Mr. Ballmer\" and \"clearly false\" when it came to Clippers presi …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -783,40 +978,14 @@
       ]
     },
     {
-      "id": "5c286dbf9ab61b5f757ef1f4bd6bd0ff34ebe061",
-      "title": "AI tools that take notes for GPs could miss vital information, study suggests ",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zylpdveqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-03T22:32:09.000Z",
-      "summary_90w": "",
-      "raw": "Researchers said the tools - which record consultations - could miss vital things like a patient's facial expressions or emotional state.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e7a2e1182e71cf5e1ea526d3c913d1956fa0594d",
       "title": "Transplanted pig kidney works in US man's body for record 271 days",
       "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-09-03T22:31:23.000Z",
       "summary_90w": "",
       "raw": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b6eb5701f3d2df0fdd88a8a460780115f427d36e",
-      "title": "Golden retrievers to gather at the breed's ancestral Highland home",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzd12jd2qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-03T22:26:20.000Z",
-      "summary_90w": "",
-      "raw": "The last event held at Guisachan House in the Highlands involved almost 500 dogs.",
       "topics": [
         "World"
       ]
@@ -848,19 +1017,6 @@
       ]
     },
     {
-      "id": "82b36c919a042271955892187b9b142c471221be",
-      "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
-      "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-03T22:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but those fancy-sounding features are part of what Ugreen is claiming to be the world's first liquid-cooling system on a power bank with wireless charging.\nInside the MagFlow Pro is a micro-pump that's used to circulate coolant and draw heat away from components including the power bank's Qi2.2-compatible wireless …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "2aec093d97ed3811f977e4ab4a722c03f8f00380",
       "title": "Startup ARR is less secure than ever, new research shows",
       "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
@@ -871,45 +1027,6 @@
       "raw": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "46e2af0baf521634a1311f31d1cc0c8963a31cdc",
-      "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
-      "url": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-03T20:48:05.000Z",
-      "summary_90w": "",
-      "raw": "Strahd returned earlier this year in Ravenloft: The Horrors Within. | Image: Wizards of the Coast\t\n\nA Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign settings, which got an update earlier this year with Ravenloft: The Horrors Within. \nNetflix's Ravenloft series will reportedly center on the infamous Strahd, according to Deadline: \nAt its heart, the series follows the making of the vampire Darklord Strahd von Zarovich, whose story of power, love, obsession, and undead transformation charts his origins from tragic antihero to one of Dungeons & Dra …\n\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "ee44d41efe1944a2d01b5fd23ed8be3b3815a5f6",
-      "title": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-03T19:58:10.000Z",
-      "summary_90w": "",
-      "raw": "BBC Sport football expert Chris Sutton takes on Kasabian frontman Serge Pizzorno, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4009d46b68fe66fc6123c5135a451200b4d1a1a5",
-      "title": "British army told to stop non-essential training exercises to save money",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-03T19:56:14.000Z",
-      "summary_90w": "",
-      "raw": "Units in the UK not preparing to be deployed have been told to cut back on training exercises due to cost pressures.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -965,19 +1082,6 @@
       ]
     },
     {
-      "id": "e539ee3d2740494ca1755e644aff33154b16a0e2",
-      "title": "Canada unveils new $20 bill featuring portrait of King Charles",
-      "url": "https://www.bbc.co.uk/news/articles/cr50d2dyn70o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-03T19:18:13.000Z",
-      "summary_90w": "",
-      "raw": "The vertical banknote features King Charles III, the first new monarch to appear on a Canadian banknote in more than 70 years.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "222024e01d064bee6d5fcb89d1af774bde41b9e3",
       "title": "Abliteration.ai is making a business out of removing AI guardrails",
       "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
@@ -991,23 +1095,10 @@
       ]
     },
     {
-      "id": "3ceb66e46b1c69b7158b4dbffb85bfa26a998d85",
-      "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
-      "url": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-03T18:37:57.000Z",
-      "summary_90w": "",
-      "raw": "TikTok backed out of a congressional committee's \"public roundtable\" set for this month over concerns it would be asked about child safety practices, the chair of the committee said.\nAfter negotiating \"in good faith\" to bring TikTok's chief security officer before the House Select Committee on China to answer questions about Chinese government access to Americans' data and the TikTok algorithm, Chair John Moolenaar (R-MI) said in a statement Thursday that the company reversed course. \"Now, TikTok is refusing to appear citing its own desire to avoid broader scrutiny of its child safety practices,\" Moolenaar wrote. TikTok did not immediately  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "540584b1c826df754d5bfae62456f6ad87ea212b",
       "title": "AI data centres are booming in Australia - but at what cost?",
       "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-09-03T18:32:03.000Z",
       "summary_90w": "",
@@ -1040,19 +1131,6 @@
       "raw": "The lawsuit calls the House Oversight Committee's subpoenas, which ordered him to share nondisclosure agreements, \"invalid\".",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "fc06c5afd2a1e8140ea53339c4edfd77cc6fb95e",
-      "title": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
-      "url": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-03T18:14:07.000Z",
-      "summary_90w": "",
-      "raw": "Samsung’s Q990F is a full home audio system in a single box. | Image: The Verge\t\n\nResearching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar for $999.99. It normally retails between $1,300 and $1,600. This bundle includes a 48.5-inch, 11.1.4-channel soundbar, a wireless subwoofer and two wireless rear speakers with their own power cords. That’s a solid deal on an Atmos-ready soundbar with a rich set of features.\nSamsung Q990F Soundbar System\nIf you want to bring your home theater to the next level, the Samsung Q990F is the answer. The Q990 series has been at the top of best lists for years, and for good reason. It delivers an excellent Atmos experience with clear dialogue and booming bass to fully immerse you in whatever you’re watching.\n\nWhere to Buy:\n\n $1997.99 $999.99 at Amazon\n $1999.99 $999.99 at Best Buy\n\nYou can also use the Q990F as a speaker system for listening to music, and it communicates with smart home systems like Google Home and Alexa, as well as AirPlay 2 and Google Cast. The system supports Dolby Atmos for spatial audio, with upward- and side-firing drivers in both the soundbar and the rear speakers to elevate the experience. There’s also a clear dialogue mode to help voices stand out, and a game mode for deeper, more immersive audio with your console hooked up.\nOther deals to consider\nThe Ring Wired Doorbell 2K is discounted to $49.99 at both Best Buy and Amazon, $30 lower than the usual price. This video doorbell features a wide-angle lens with a 140-degree field of view, up to 6x digital zoom, and two-way communication for chatting with visitors. The doorbell works in any home with wiring for a doorbell, though it works better in homes that use Amazon Alexa for their smart home management.\nAmazon and Best Buy have the Sonos Sub 4 marked down to $759 for Labor Day, $140 lower than the typical price. This beefy subwoofer connects to Sonos soundbars like the Arc Ultra, Arc, Beam, and the upcoming Beam Ultra to give them an extra punch during heavy action sequences, as well as to speakers like the Sonos Five, Era 300, or Era 100 to add a lot more low-end presence to your favorite content.\nSwitch 2 owners can grab the Dbrand Killswitch 2 Travel Kit for $71.99 at Best Buy, which is $8 lower than the current cost available directly from the brand. The Killswitch 2 is our favorite case for handheld and docked play, and the case I personally use to protect my console. In addition to the grips, shell and dock adapter, this combo includes the front cover, which hooks around the case to protect the screen during travel, with room for up to 10 cartridges.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1225,32 +1303,6 @@
       ]
     },
     {
-      "id": "9b2e6ca20ddebd5ff3093b564451cd2f1c8a0347",
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-03T15:35:47.000Z",
-      "summary_90w": "",
-      "raw": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4e4cfa70881f5085a3a5999825dff4735d67bb5a",
-      "title": "Palestinian teens killed during settler attack on West Bank village",
-      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-03T15:05:57.000Z",
-      "summary_90w": "",
-      "raw": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "92509264c2a3bc810d583f4faeb15578818f5802",
       "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
       "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
@@ -1285,45 +1337,6 @@
       "published": "2026-09-03T14:33:58.000Z",
       "summary_90w": "",
       "raw": "Jump lifts currency to highest level against dollar in a month, while global markets remain jittery\n\nBusiness live – latest updates\n\nThe Japanese yen has soared by more than 2% against the dollar amid speculation the Bank of Japan is set to raise interest rates.\nThe latest jump on Thursday lifted the yen to its highest level against the dollar in a month, at 155.57, and followed a 0.9% move the previous day.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e8828ca392d4e7f3d02ac141e27431c1cb6cb11a",
-      "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’",
-      "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-03T14:16:54.000Z",
-      "summary_90w": "",
-      "raw": "Air bases used by US in UAE and Kuwait hit as Israeli defence chief says Iran’s regime fears collapse due to economic pressures\nIran has continued to demonstrate an ability to target bases in the Gulf used by the US despite six months of war and a new sanctions regime described by the Trump administration as an “economic D-day”.\nAs Iran’s military targeted US bases in the United Arab Emirates and Kuwait, despite threats of further strikes by the US president, Israel’s defence chief warned that economic pressures from the sanctions could lead Tehran to escalate to more “extreme measures”.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b5cb4ea3e195c5cdc80805845dda415ddd9be704",
-      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-      "url": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-03T13:54:49.000Z",
-      "summary_90w": "",
-      "raw": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "135ba37aedc8c8e831edd927a7333fb113e0074e",
-      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-03T13:07:02.000Z",
-      "summary_90w": "",
-      "raw": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.",
       "topics": [
         "World"
       ]
@@ -1368,45 +1381,6 @@
       ]
     },
     {
-      "id": "8163e951a78109fe574dec816818d4192cafff43",
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-03T12:42:45.000Z",
-      "summary_90w": "",
-      "raw": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "292e784a2d86cce42b1f290d943e4bbd6e337cbc",
-      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
-      "url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-03T12:18:07.000Z",
-      "summary_90w": "",
-      "raw": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8c0df03c5d00b5336a6f4ff7216cd03037baa928",
-      "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
-      "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-03T12:12:56.000Z",
-      "summary_90w": "",
-      "raw": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "d4d08a32a68d55347d37ab4bd19a05e9d63d09e8",
       "title": "Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?",
       "url": "https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei",
@@ -1446,19 +1420,6 @@
       ]
     },
     {
-      "id": "519e2c3ef68c31c1b6e84b0acb707da05445be88",
-      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-      "url": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-03T10:37:06.000Z",
-      "summary_90w": "",
-      "raw": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "323f56e88cb1a1ab8802f014392550f4cab57b37",
       "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
       "url": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
@@ -1480,19 +1441,6 @@
       "published": "2026-09-03T10:00:50.000Z",
       "summary_90w": "",
       "raw": "A visual look at how Washington’s relationship with Caracas has gone from cordial to ‘predatory’\n\nTrump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism\n\nNobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal\n\nWritten in the middle of the last century, the US Department of State memo conveys its message in a curt and undiplomatically honest tone: the glue that binds Washington to Caracas is, and is always likely to be, oil.\n“All US policies toward Venezuela are affected in greater or less degree by the objective of assuring an adequate supply of petroleum for the US,” the 1950 document reads.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c130653105dab00c027321fb8c5d148fdea85b8d",
-      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
-      "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-03T09:37:34.000Z",
-      "summary_90w": "",
-      "raw": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
       "topics": [
         "World"
       ]
@@ -1576,19 +1524,6 @@
       ]
     },
     {
-      "id": "c280f70cbb01456ecc902cae9689b8a47d210eaf",
-      "title": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-02T21:15:12.000Z",
-      "summary_90w": "",
-      "raw": "Tech company submits to controversial Trump order to rename body of water amid US trade spat with Canada\nApple has renamed Lake Ontario as “Lake America” for US users of its Maps app, after an executive order from Donald Trump to change the name of the Great Lake amid his trade spat with Canada.\nThe Apple Maps app now displays the controversial new name for the lake, which sits between New York state and the Canadian province of Ontario, for users in the US. Apple users outside the country will still see the Lake Ontario name.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f847ddbc8dc67a41714193383025c12bad357ba7",
       "title": "The IRS slashed its staff. One result? More taxes going uncollected",
       "url": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
@@ -1599,19 +1534,6 @@
       "raw": "The IRS slashed its auditing staff last year — but the move may have backfired as tax collections from enforcement efforts plummeted, an Inspector General report shows.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "fd7fdb28a09f6811364e3a929dfc61b5b9970b08",
-      "title": "Israel ‘seeking Trump’s support for plan to expel Palestinians from Gaza’",
-      "url": "https://www.theguardian.com/world/2026/sep/02/israel-seeking-trumps-support-for-plan-to-expel-palestinians-from-gaza",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-02T18:20:36.000Z",
-      "summary_90w": "",
-      "raw": "Defence minister says he believes US backing could tip regional balance in favour of forced resettlement\nIsrael’s defence minister has said his country is seeking Donald Trump’s support to approve plans to expel Palestinians from the Gaza Strip in what has widely been condemned as a potential war crime.\nIsrael Katz said there was “no real solution for Gaza in the end without this\n\r\n migration” during a conference hosted by the Israeli news site Ynet and the newspaper Yedioth Ahronoth. He said the Israeli government was “organised and prepared to get them out by sea, by air, by every way possible”.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1836,19 +1758,6 @@
       ]
     },
     {
-      "id": "3a8a40ab3dcdcc025372018a5c0354077666e63b",
-      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-08-31T21:28:49.000Z",
-      "summary_90w": "",
-      "raw": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "23cd8a59c1e6f04422cc16caf20947d8c19f8a18",
       "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
       "url": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
@@ -1979,6 +1888,19 @@
       ]
     },
     {
+      "id": "06f7e7c132a2d7aff92f39bc03bf2f2e4de33b70",
+      "title": "Imagine a world where no one has heard of The Beatles",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m000xp0n?at_mid=TGGVkYg7qf&at_campaign=Yesterday&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000xp0n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Yesterday&at_bbc_team=BBC&at_creation=film",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-08-13T23:31:15.000Z",
+      "summary_90w": "",
+      "raw": "An unsuccessful singer-songwriter wakes up in a world where no-one remembers The Beatles.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "c706b5ec2999390e124c614fd470f50c2d69e01a",
       "title": "Tech Life",
       "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy8?at_medium=RSS&at_campaign=rss",
@@ -2041,6 +1963,19 @@
       "raw": "Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "9149e3048dd42c5fb7c9ed38cc42c94a35813038",
+      "title": "Inside Ella Toone’s life on and off the pitch",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002x6jy?at_mid=i9BmYGpjPQ&at_campaign=24_Hours_with_Ella_Toone&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002x6jy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=24_Hours_with_Ella_Toone&at_bbc_team=BBC",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-05-29T17:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Go behind the scenes with the Manchester United and England footballer",
+      "topics": [
+        "World"
       ]
     },
     {
