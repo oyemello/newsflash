@@ -1,29 +1,406 @@
 {
-  "version": "1788843535453",
-  "generatedAt": "2026-09-08T04:58:55.453Z",
+  "version": "1788859079239",
+  "generatedAt": "2026-09-08T09:17:59.239Z",
   "items": [
     {
+      "id": "b203d9b44ace014cda762e34d70d54dd452f9743",
+      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-08T09:09:46.000Z",
+      "summary_90w": "",
+      "raw": "The attacks come after weeks of escalating clashes between the Houthis and Saudi-backed government forces in Yemen, which shattered a four-year truce in the country's civil war.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0e425c06f59e84265504ba308426331b0a37f49c",
+      "title": "60 years later, 'Star Trek' continues to 'live long and prosper'",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5593092/star-trek-60-year-anniversary",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-08T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The television series, Star Trek, turns 60 on Tuesday. The original show aired for only three seasons, but it spawned prequels and sequels (on TV and in theaters) and still has a cult following.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "03c9442540d9a895246f8d4b0c48864ec76c969d",
+      "title": "The 2026 midterm general election season is upon us. Here's what to watch",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-08T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The week of Labor Day marks the unofficial kickoff of the general election season. President Trump's unpopularity and Democratic enthusiasm means control of Congress is on the ballot.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "40365835e3c54a28fcd616c4973c8b4adac10aa0",
+      "title": "Prince George begins first day at Eton College",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-08T08:57:31.000Z",
+      "summary_90w": "",
+      "raw": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "00b8e99f29515652a8471d8cd020f14a57f884dd",
+      "title": "Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-08T08:57:15.000Z",
+      "summary_90w": "",
+      "raw": "Ruslan Kravchenko leaves post after his offices were searched at the weekend, as Moscow renews attacks after pause for peace talks\nSeparately, Ukraine’s Volodymyr Zelenskyy said he hoped to meet US president Donald Trump this month to discuss missile defence ahead of what is expected to be another difficult winter for Ukraine.\nHis comments come as Kyiv finds itself once again under renewed attacks from Russia, with Ukrainian authorities repeatedly warning that they are facing a shortage of air defence supplies.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "db2ad4446f0ced0360348bcf589dc419a84e5ee2",
+      "title": "Shetland spaceport project secures £30m of UK government investment",
+      "url": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-08T08:48:33.000Z",
+      "summary_90w": "",
+      "raw": "Several companies hope to use SaxaVord in Unst, the northernmost point in the UK, as a launch site for small commercial rockets.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7cbbade869036dd0bc612fa4ec78a93dac721627",
+      "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
+      "url": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-08T08:43:36.000Z",
+      "summary_90w": "",
+      "raw": "A spokesman says they were not told in advance about the letter sent on behalf of the king, although palace sources deny this.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c3624ba05f5dd5f510f350f5666811e7642ca0ec",
+      "title": "Australia to force social media platforms to allow users to opt out of algorithms",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/08/australia-social-media-algorithm-switch-off-opt-out-digital-duty-of-care",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-08T08:38:59.000Z",
+      "summary_90w": "",
+      "raw": "Draft legislation enforces digital duty of care including limiting children’s exposure to misogynistic and eating disorder content\nAustralia will allow social media account holders to opt out of the powerful algorithms pushing dangerous and divisive content into users’ feeds, part of new laws designed to boost online safety.\nUsers over 16 years of age will be given new tools to turn off algorithm-driven content, with platforms facing fines of more than A$100m for non-compliance.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2f7e3ae18247f82acf504fba45cd1102b04d5929",
+      "title": "UK pupils score highly in international tests despite global slump in reading",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy6n0l4rdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-08T08:35:10.000Z",
+      "summary_90w": "",
+      "raw": "But the Pisa test scores vary significantly between England, Northern Ireland, Scotland and Wales.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bb84e3f7e3e9e4b368419876d014f84630e15c4d",
+      "title": "Nepal cracks down on online abuse of flood survivors",
+      "url": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-08T08:31:01.000Z",
+      "summary_90w": "",
+      "raw": "Authorities will \"show no leniency\" to people who \"belittle\" those who are suffering, the prime minister says.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6c855c2b87c2587569960aaa607b96cc76352b50",
+      "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
+      "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-08T08:28:01.000Z",
+      "summary_90w": "",
+      "raw": "All foreigners without proper documents in Kenya are urged to  register through their embassies.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ac22656cf4e7ed9c298163cd0bd3841f7484c8a0",
+      "title": "UK's third-biggest taxpayer to leave for Greece",
+      "url": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-08T08:23:31.000Z",
+      "summary_90w": "",
+      "raw": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "dd048c311224a37031729d2621649cf97958451f",
-      "title": "Australia politics live: Labor unveils ‘my feed, my way’ rules to allow everyone to opt in or out of social media algorithms",
+      "title": "Another Australian found safe after Nepal-Tibet floods – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-09-08T04:43:39.000Z",
+      "published": "2026-09-08T08:22:25.000Z",
       "summary_90w": "",
-      "raw": "Follow the day’s news live\nOne Nation policy will leave people $25k worse off at retirement, Mulino says\nSuperannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage.\nIt took us decades to get to 12% superannuation guarantee and that’s a level that will provide people with a high level of dignity and security in retirement.\nTo do what the One Nation party is suggesting will see somebody who is 30 years old, $25,000 worse off at retirement and a couple around $50,000 worse off.\nI’m deeply sceptical of giving any government, whether I was in charge, or Anika Wells is in charge, I’m deeply sceptical of giving any government the power to decide what you read on your phone.\n Continue reading...",
+      "raw": "This blog is now closed\n\n‘Global reckoning for big tech’: Australia to force social media platforms to allow users to opt out of algorithms\n\nGet our breaking news email, free app or daily news podcast\n\nOne Nation policy will leave people $25k worse off at retirement, Mulino says\nSuperannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage.\nIt took us decades to get to 12% superannuation guarantee and that’s a level that will provide people with a high level of dignity and security in retirement.\nTo do what the One Nation party is suggesting will see somebody who is 30 years old, $25,000 worse off at retirement and a couple around $50,000 worse off.\nI’m deeply sceptical of giving any government, whether I was in charge, or Anika Wells is in charge, I’m deeply sceptical of giving any government the power to decide what you read on your phone.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c807006c792097190a204245d47560d342957f6e",
+      "title": "One Nation’s Warren Pickering admits to illegal drug use and says he is ‘no angel’ in extraordinary press conference",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/08/one-nations-warren-pickering-admits-to-drug-use-and-says-he-is-no-angel-in-extraordinary-press-conference-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-08T08:04:04.000Z",
+      "summary_90w": "",
+      "raw": "Victorian One Nation leader says his actions ‘hurt people I loved, and I will live with that forever’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe Victorian One Nation leader, Warren Pickering, has admitted he “made mistakes” in his 20s, including using ecstasy, methamphetamines and marijuana, losing his licence multiple times for drink driving and hurting people he loved.\nBut he has denied claims by his ex-partner, published by The Australian, that he smoked ice – also known as crystal meth – in front of children and said he was considering legal action against the publication at a press conference on Tuesday. Guardian Australia and the ABC were barred from attending the press conference.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "442c5b00f675a35fe50cb0c4349bb10c507b1cd9",
+      "title": "UK to adopt tougher stance on Israel with illegal settlements trade ban",
+      "url": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-08T07:55:05.000Z",
+      "summary_90w": "",
+      "raw": "Ed Miliband to reassert support for Palestinian rights and a two-state solution in move fiercely criticised by US and Israel\nEd Miliband will announce a broad reset of the UK’s relations with Israel on Tuesday, promising the government will take a more active approach in supporting the Palestinian cause.\nIn an intervention which has already drawn fierce criticism from the US and Israel, the foreign secretary will impose a UK ban on the trade in goods and some services from illegal Israeli settlements.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2c9421d91e25da05f185f13d1cb87ba74ac8dfd3",
+      "title": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
+      "url": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-08T07:49:34.000Z",
+      "summary_90w": "",
+      "raw": "Thieves took four artworks but dropped one as they fled, says mayor of Cagnes-sur-Mer\nTwo thieves have broken into a museum dedicated to the French impressionist painter Pierre-Auguste Renoir in southern France, stealing four artworks and dropping one as they fled.\n“This morning, two individuals broke into the Renoir Museum and stole four works of art,” said Bryan Masson, the mayor of Cagnes-sur-Mer.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "894730a8566d46b5757d39db478c562ea93b9047",
+      "title": "Ban on neo-Nazi White Australia party is ‘authoritarian’ and breaches constitution, high court hears",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/08/neo-nazi-white-australia-ban-authoritarian-breaches-constitution-high-court-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-08T07:49:24.000Z",
+      "summary_90w": "",
+      "raw": "Lawyers also argue commonwealth does not have the power to ban a political party, as the high court ruled in 1951 over attempt to ban the Communist party\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nLawyers for an outlawed neo-Nazi political party have argued anti-hate laws passed after the Bondi terror attack rely on the opinion of a politician and are “authoritarian in nature”.\nThe White Australia party, formerly known as the National Socialist Network (NSN), was designated as an illegal hate group in May after the Australian Security and Intelligence Organisation passed on its recommendation to the home affairs minister, Tony Burke.\n Continue reading...",
       "topics": [
         "World"
       ]
     },
     {
       "id": "c5535b119a5b8a6b5b3e44a8637243c4a48450b0",
-      "title": "Witness told Alan Jones he was ‘the greatest broadcaster ever’ while labelling SMH reporter ‘evil’",
+      "title": "Witness told Alan Jones he was ‘the greatest broadcaster ever’ while labelling SMH reporter a ‘bitch’",
       "url": "https://www.theguardian.com/australia-news/2026/sep/08/alan-jones-trial-sexual-touching-witness-promised-loyalty-to-greatest-broadcaster-ever-ntwnfb",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-09-08T04:40:53.000Z",
+      "published": "2026-09-08T07:47:29.000Z",
       "summary_90w": "",
-      "raw": "Former 2GB and 2UE radio host has denied 22 indecent assault and sexual touching charges\nA friend of Alan Jones who has denied witnessing an alleged assault in a Mosman restaurant has agreed in court that he sent the broadcaster a text message saying “if you need me to refute any lies, I of course will”.\nUnder cross-examination by prosecutor Georgina Wright, the witness agreed he was a loyal and “very good friend” to Jones and the two men shared an “unbreakable bond”.\n Continue reading...",
+      "raw": "Former 2GB and 2UE radio host has denied 22 indecent assault and sexual touching charges\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA friend of Alan Jones who has denied witnessing an alleged assault in a Mosman restaurant has agreed in court that he sent the broadcaster a text message saying “if you need me to refute any lies, I of course will”.\nUnder cross-examination by prosecutor Georgina Wright, the witness agreed he was a loyal and “very good friend” to Jones and the two men shared an “unbreakable bond”. He said he once sent Jones a text saying the “love of my life has always been you”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "083014053706ced256c296c73a21971b97d4090d",
+      "title": "Tokyo tourist hotspot bans short-term rentals amid surge in complaints",
+      "url": "https://www.theguardian.com/world/2026/sep/08/shinjuku-tokyo-tourism-hotspot-bans-short-term-rentals-airbnb-surge-in-complaints",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-08T07:43:25.000Z",
+      "summary_90w": "",
+      "raw": "Shinjuku ward targets accommodation in residential areas and near cultural sites as locals complain visitors disposing of rubbish improperly and being too noisy\nA neighbourhood in Tokyo popular with foreign tourists will ban visitors from using thousands of short-term rental accommodations after a slew of complaints about behaviour.\nIn the latest sign that Japan’s patience with mass tourism is wearing thin, Shinjuku ward – home to the notorious Kabukicho nightlife district and the world’s busiest railway station – will prevent visitors from using private lodgings in residential areas and near schools and important cultural sites, Japanese media reported this week.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e3bd6dc76c6b8394e63f1b799f159159b1831091",
+      "title": "The firms turning recruitment into X Factor-style competitions",
+      "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-08T07:43:15.000Z",
+      "summary_90w": "",
+      "raw": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b9c8317d4e7a2246d3bb5bd20ff173035f2dbbf7",
+      "title": "UK commits £100m to bolster Ukraine’s air defences over winter",
+      "url": "https://www.theguardian.com/politics/2026/sep/08/uk-commits-100m-bolster-ukraine-air-defences-russia-war",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-08T07:24:17.000Z",
+      "summary_90w": "",
+      "raw": "Package of military equipment includes Patriot missiles, supplies of which have dwindled amid Russian attacks\nThe UK has committed £100m to boost Ukraine’s air defences over winter with a package of military equipment including Patriot missiles.\nDefence interceptors, large-calibre artillery rounds and drones will be supplied to Ukraine through the contribution to Nato’s prioritised Ukraine requirements list.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "fe4a5e0d5a0b97ef3d2f5192d0f3ce04b68112cb",
+      "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+      "url": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-08T07:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it feel like the phone I wish Samsung had made.\nThe 18 Fold is Xiaomi's first book-style foldable since 2024's Mix Fold 4, but the company has followed Huawei and Samsung in moving to a short, squat design. Xiaomi's phone goes further though: it's both shorter and wider than Samsung's, with a roughly 1.4:1 aspect ratio on both the 7.58-inch inner and 5.38-inch outer s …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a04d4280ded0e339f4b71bb4225486891b3ea831",
+      "title": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
+      "url": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-08T06:58:02.000Z",
+      "summary_90w": "",
+      "raw": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "64e92dcf186977dea5135a745607e01133913b6d",
+      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
+      "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-08T06:49:56.000Z",
+      "summary_90w": "",
+      "raw": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e1a39ce3fbe351c5214d23bec9c6a520624f6e80",
+      "title": "'Good to have choice': Australians on opting out of social media algorithms",
+      "url": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-08T06:20:10.000Z",
+      "summary_90w": "",
+      "raw": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personalised algorithms.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4858d6f72537bc0f3bd2c9335de10d551c1573d7",
+      "title": "‘It breaks my heart’: far-right’s big election victory sparks dismay in German state capital",
+      "url": "https://www.theguardian.com/world/2026/sep/08/germany-afd-far-right-election-victory-saxony-anhalt",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-08T06:13:28.000Z",
+      "summary_90w": "",
+      "raw": "Fears expressed for immigrants and for country’s future after AfD vote hits historic high in Saxony-Anhalt\nMaryam and her best friend were ambling through Magdeburg toward the railway station, talking over the dramatic events of the previous evening and the surge by the far-right Alternative für Deutschland to a historically high vote in the Saxony-Anhalt elections.\n“Don’t laugh at me,” she said, “but I wish we could go back to the days of Angela Merkel, when things were OK in Germany”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "abd80504bc5c2760dccbd1d1b1410dc7637029cc",
+      "title": "What to know about Canada's escalating trade war with the U.S.",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-08T06:04:43.000Z",
+      "summary_90w": "",
+      "raw": "Canada struck back at U.S. President Donald Trump on Tuesday with tariffs on about $20 billion worth of U.S. goods. The outcome could resonate far beyond Canada.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "db31a95e0b45bb1faf9cdc388ef97e0aa32eb137",
+      "title": "King Charles III clarifies status of Prince Harry and his wife, Meghan",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142289/king-charles-prince-harry",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-08T06:00:57.000Z",
+      "summary_90w": "",
+      "raw": "King Charles III has reiterated that Prince Harry and his wife, Meghan, remain non-working members of the royal family following their return to the United Kingdom.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9fa0d3d0a5149d376f5fab3104315d683232fdbf",
+      "title": "Tuesday briefing: What happens next after Germany’s far-right breakthrough?",
+      "url": "https://www.theguardian.com/world/2026/sep/08/tuesday-briefing-what-happens-next-after-germanys-far-right-breakthrough",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-08T05:49:09.000Z",
+      "summary_90w": "",
+      "raw": "In today’s newsletter: The AfD’s local election triumph has shocked Europe, and raised questions about how to counter the rising far right\nGood morning. Across Germany – and Europe more widely – there has been a palpable sense of shock and disbelief after the far-right Alternative für Deutschland (AfD) swept to a historic state election victory in the early hours of Monday.\nIt was, according to France’s European affairs minister, Benjamin Haddad, “a very grave moment for Europe”. The resonance was stark in the UK too: as the results came in, hundreds of black-clad activists intent on blocking migrant arrivals were battling with police for a second night along England’s south coast.\nUK news | Batons and synthetic pepper spray were used to repel hundreds of masked, black-clad vigilantes in Portsmouth on Sunday, it has emerged, as the policing minister said officers had been injured as they repelled organised “aggression”.\nIsrael | Ed Miliband will announce what he has described as a broad reset of the UK’s relations with Israel on Tuesday, promising the government will take a more active approach in supporting the Palestinian cause.\nUS | The Trump administration has raised “serious concerns” over Downing Street’s plan to force digital platforms to hand more prominence to established broadcasters, warning the move risks “facilitating censorship”.\nClimate crisis | Nepal is demanding $20m in climate compensation for the recent devastating floods, as a senior minister called on the world’s most polluting countries to “wake up” and accept shared responsibility.\nUK politics | There is little appetite for cuts to disability benefits even among Conservative and Reform voters, and proposals to reduce spending could prove politically risky, according to an authoritative national survey.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f49fbcd08d1a12d2d2e4377320a5316b61ba06b2",
+      "title": "Russia and North Korea open the first road across their shared border",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-08T05:40:44.000Z",
+      "summary_90w": "",
+      "raw": "Relations between Russia and North Korea have been flourishing, with North Korea supplying ammunition and troops to support Russia's war against Ukraine in return for economic and military assistance.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f916509c0b7addf7e078b6f035789cfe13cf11a3",
+      "title": "'I've had no hot water or heating for most of my pregnancy'",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zyj4lrn1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-08T05:13:32.000Z",
+      "summary_90w": "",
+      "raw": "Residents living in flats in Croydon are in limbo having have been without gas since March.",
       "topics": [
         "World"
       ]
@@ -32,24 +409,24 @@
       "id": "ee0a37d2e333bdaae4ddb61d5a622d31d1ed98f1",
       "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
       "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-09-08T04:39:14.000Z",
       "summary_90w": "",
-      "raw": "It is the latest escalation since trade talks collapsed in late August, with US officials threatening to hit back if Canada’s counter-tariffs are implemented.",
+      "raw": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
       "topics": [
         "World"
       ]
     },
     {
-      "id": "c3624ba05f5dd5f510f350f5666811e7642ca0ec",
-      "title": "Australia to force social media giants to allow users to opt out of algorithm",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/08/australia-social-media-algorithm-switch-off-opt-out-digital-duty-of-care",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-08T04:38:29.000Z",
+      "id": "ee0a37d2e333bdaae4ddb61d5a622d31d1ed98f1",
+      "title": "Canadian counter-tariffs come into force as US trade dispute escalates",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-08T04:39:14.000Z",
       "summary_90w": "",
-      "raw": "Draft legislation enforces digital duty of care including limiting children’s exposure to misogynistic and eating disorder content\nAustralia will allow social media account holders to opt out of the powerful algorithms pushing dangerous and divisive content into users’ feeds, part of new laws designed to boost online safety.\nUsers over 16 years of age will be given new tools to turn off algorithm-driven content, with platforms facing fines of more than $100m for non-compliance.\n Continue reading...",
+      "raw": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
       "topics": [
         "World"
       ]
@@ -101,14 +478,14 @@
       "source_name": "BBC News",
       "published": "2026-09-08T03:53:27.000Z",
       "summary_90w": "",
-      "raw": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
+      "raw": "Relations between the neighbours have strengthened since the start of the Ukraine war.",
       "topics": [
         "World"
       ]
     },
     {
       "id": "c7819a672afc70068181512c85b11c494c29ae2e",
-      "title": "A&E did not get the basics right - now my son's life is ruined at 32",
+      "title": "A&E did not get the basics right - my son's life was ruined at 32",
       "url": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -120,27 +497,14 @@
       ]
     },
     {
-      "id": "81ae8c6fd2a6497c781dc6c0961beb24ed8c89fb",
-      "title": "‘Forced out with nowhere to go’: First Nations families face eviction as council sells homes over charity’s unpaid rates",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/08/first-nations-families-face-eviction-as-mount-isa-council-sells-homes-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-08T03:25:18.000Z",
+      "id": "562d34a4647c79e2f733aa325ed607f3ff2be12c",
+      "title": "Gauff's dominant win completes stacked US Open last eight",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-08T02:59:35.000Z",
       "summary_90w": "",
-      "raw": "Mount Isa city council to auction off first of 24 homes after Aboriginal and Torres Strait Islander Corporation for Welfare Services accrues almost $1m in unpaid debts\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA rural Queensland council is auctioning off 24 homes to recover unpaid rates, potentially forcing First Nations families into homelessness.\nResidents claim they were left in the dark about the debt, which stretches back years, until five months ago.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "07db3c5daa452ef67869d80f38f153254b5d77cb",
-      "title": "Barnaby Joyce says he’s not ‘Jesus Christ’ and admits One Nation has not modelled super policy in fiery interviews",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/08/barnaby-joyce-not-jesus-christ-one-nation-early-access-super-policy",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-08T02:18:21.000Z",
-      "summary_90w": "",
-      "raw": "Jim Chalmers says One Nation’s superannuation policy is ‘an absolute shambles’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nBarnaby Joyce, One Nation’s Treasury spokesperson, says his party has not modelled the potential impact on retirement incomes and inflation from his party’s plan to give millions of households early access to their super savings in his second combative interview in two days.\nThe morning after telling the ABC’s 7.30 program that he “was not Jesus Christ” and so could not be expected to know everything, Joyce on Tuesday ridiculed any suggestion that One Nation’s proposal should have included the economic analysis that typically accompanies major policy proposals.\n Continue reading...",
+      "raw": "Coco Gauff powers past teenage star Iva Jovic as the top six seeds reach the US Open women's quarter-finals for the first time in 28 years.",
       "topics": [
         "World"
       ]
@@ -166,7 +530,7 @@
       "source_name": "World news | The Guardian",
       "published": "2026-09-08T02:00:24.000Z",
       "summary_90w": "",
-      "raw": "Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Rhoad in Baja California in 2024\nThe suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have gone on trial, two years after the killings in a suspected robbery.\nAustralian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state.\n Continue reading...",
+      "raw": "Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Carter Rhoad in 2024\nThe suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have gone on trial, two years after the killings in a suspected robbery.\nAustralian brothers Jake and Callum Robinson, aged 30 and 33 respectively, and their 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -182,19 +546,6 @@
       "raw": "The Xiaomi 18 Fold and its Xring O3 chip.\t\n\nChina is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of development, Arm now has an AI gaming graphics accelerator inside its GPU.\nBy following Nvidia's playbook, Arm-powered phones are about to have PC-like technologies to make games run faster, at higher resolution, with advanced lighting techniques, all without using more power than they do today. The jagged edges you see in the mobile versions of popular …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "a92acc79c5f99aec47117b82e2d21c5f79e9eb60",
-      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
-      "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-08T01:50:55.000Z",
-      "summary_90w": "",
-      "raw": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -227,7 +578,7 @@
       "id": "0f125662eae03b9e1367469ebd2741fbd1976132",
       "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
       "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-09-08T01:07:47.000Z",
       "summary_90w": "",
@@ -245,19 +596,6 @@
       "published": "2026-09-08T01:05:08.000Z",
       "summary_90w": "",
       "raw": "Parts of England and Wales have seen more rain than any other week since early February but are still in drought.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "40365835e3c54a28fcd616c4973c8b4adac10aa0",
-      "title": "Prince George set for first day at Eton College",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-08T01:00:32.000Z",
-      "summary_90w": "",
-      "raw": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
       "topics": [
         "World"
       ]
@@ -296,7 +634,7 @@
       "source_name": "BBC News",
       "published": "2026-09-07T23:46:44.000Z",
       "summary_90w": "",
-      "raw": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
+      "raw": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says.",
       "topics": [
         "World"
       ]
@@ -315,36 +653,23 @@
       ]
     },
     {
-      "id": "e3bd6dc76c6b8394e63f1b799f159159b1831091",
-      "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
-      "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-07T23:06:14.000Z",
-      "summary_90w": "",
-      "raw": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5422e75d3f3d32e4cefa2067295c596cec055910",
-      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
       "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-09-07T23:05:12.000Z",
       "summary_90w": "",
-      "raw": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+      "raw": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
       "topics": [
         "World"
       ]
     },
     {
       "id": "c0fa9c1f63e8d8c5b59924bbe467dd1f18665527",
-      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+      "title": "Flight recorders recovered from Amazon cargo plane crash",
       "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-09-07T22:23:03.000Z",
       "summary_90w": "",
@@ -357,7 +682,7 @@
       "id": "a4d3815524c4f35c859c749a87a1ecf7a8f0ce43",
       "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
       "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-09-07T21:12:37.000Z",
       "summary_90w": "",
@@ -377,6 +702,19 @@
       "raw": "The boom in data centers has brought plenty of work and lots of overtime to union electricians, putting them at odds with many communities trying to block new data center construction.",
       "topics": [
         "Business"
+      ]
+    },
+    {
+      "id": "18a0278594d34355e3adfbcae8c9726f6c8a5ede",
+      "title": "Champions League returns - who are favourites and players to watch?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-07T20:30:53.000Z",
+      "summary_90w": "",
+      "raw": "The Champions League is back and BBC Sport takes a look at who the favourites are to win the title plus predictions from the experts.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -432,32 +770,6 @@
       ]
     },
     {
-      "id": "442c5b00f675a35fe50cb0c4349bb10c507b1cd9",
-      "title": "UK to adopt tougher stance on Israel with illegal settlements trade ban",
-      "url": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-07T18:34:37.000Z",
-      "summary_90w": "",
-      "raw": "Ed Miliband to reassert support for Palestinian rights and a two-state solution in move likely to draw fierce criticism from US and Israel\nEd Miliband will announce what he has described as a broad reset of the UK’s relations with Israel on Tuesday, promising the government will take a more active approach in supporting the Palestinian cause.\nIn an intervention that is expected to draw fierce criticism from the US and Israel, the foreign secretary will impose a UK ban on the trade in goods and some services from illegal Israeli settlements.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "071f1511eeaa84e44d60fa20b4a9d883fc172c30",
-      "title": "King makes clear Harry and Meghan remain non-working royals",
-      "url": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-07T18:23:31.000Z",
-      "summary_90w": "",
-      "raw": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "495d9a7ee634b3acfbd5e73797703d7e4a5ee129",
       "title": "Americanswers… on 5 Live! Why is Lindsay Clancy’s mistrial dividing America?",
       "url": "https://www.bbc.co.uk/sounds/play/p0p8g14s?at_medium=RSS&at_campaign=rss",
@@ -484,45 +796,6 @@
       ]
     },
     {
-      "id": "3baa3b42c3b899541f8a6ec266c7d7cf085711a1",
-      "title": "What we know about the journey of the Portsmouth migrant boat",
-      "url": "https://www.bbc.co.uk/news/videos/ce8xz6p23dno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-07T17:57:19.000Z",
-      "summary_90w": "",
-      "raw": "BBC Verify used ship-tracking websites to follow UK and French vessels which monitored the migrant boat in the English Channel.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6c9a03216253c4f5e2f39e42125416a0c8625211",
-      "title": "German chancellor vows to stay in office despite AfD triumph in state election",
-      "url": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-07T17:48:37.000Z",
-      "summary_90w": "",
-      "raw": "Friedrich Merz said his conservative CDU was shaken ‘to its very foundations’ after far-right victory in Saxony-Anhalt\nA “shocked” and chastened Friedrich Merz has vowed to stay in office despite the far right’s triumph in a state election that has brought anti-immigrant, pro-Kremlin politicians within striking distance of power.\nThe German chancellor, appearing ashen-faced in front of reporters in Berlin, said on Monday that the landslide victory by the Alternative für Deutschland (AfD) in Saxony-Anhalt had shaken his conservative Christian Democratic Union (CDU) “to its very foundations”.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6144899ac402ec77cfd832e4f11f728afbfba81e",
-      "title": "Ecclestone stopped by police for taking shotgun into Portugal",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-07T17:40:04.000Z",
-      "summary_90w": "",
-      "raw": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "fd1c5c1967c00656c89d5a4cb55a5604d456ca7e",
       "title": "Syrian reactor could have been used for nuclear weapons if completed, UN says",
       "url": "https://www.theguardian.com/world/2026/sep/07/syrian-reactor-could-nuclear-weapons-if-completed-un",
@@ -544,19 +817,6 @@
       "published": "2026-09-07T16:26:00.000Z",
       "summary_90w": "",
       "raw": "Chancellor John Healey aims for ‘vibes boost’ in first major economic speech.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f219766d0302793be3fa43fc28c643d1357bf067",
-      "title": "Europe’s centre fears nationalist wave after AfD victory but only has itself to blame",
-      "url": "https://www.theguardian.com/world/2026/sep/07/afd-germany-far-right-saxony-anhalt-nationalist-wave-europe-analysis",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-07T16:13:05.000Z",
-      "summary_90w": "",
-      "raw": "Saxony-Anhalt win part of wider trend driven by mainstream policy failures and gradual normalisation of far right ideas\nThe numbers speak for themselves: Alternative für Deutschland (AfD), a party that dabbles in Nazi imagery, distinguishes between “biological” and “passport” Germans, and is too extreme even for France’s far-right leader Marine Le Pen, nearly doubled its score in Sunday’s state election in Saxony-Anhalt to 43.8% of the vote.\nMeanwhile, the centre-right CDU of the chancellor, Friedrich Merz, collapsed to 17.2%, less than half its total in the same race five years ago, and the centre-left SPD – Germany’s other main party of government for the past 60-odd years – scraped 9.3%. The least that can be said is that the centre did not hold.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -601,19 +861,6 @@
       ]
     },
     {
-      "id": "d7b9a3ee9aa8799d1d61097d2fc2b4a423514870",
-      "title": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-07T15:30:44.000Z",
-      "summary_90w": "",
-      "raw": "German chancellor says vote for far-right party ‘will have repercussions’ across the country\n\nFar-right AfD wins key German state election but falls just short of majority\n\nAfD’s Chrupalla continues in this vein, saying the German public wants to see a change in direction, and specifically saying the electorate is “fed up” as the government keeps “transferring billions of our tax money to Ukraine … instead of using it for our own population.”\nHe says the party has “a clear mandate” to rule in Saxony-Anhalt and will hold discussions with others about what can be done.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "615743774397e2a1486839af873a885e7ba820d7",
       "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
       "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
@@ -640,19 +887,6 @@
       ]
     },
     {
-      "id": "37fe2ccaa9c403750661b67e86be1a387adf8ad2",
-      "title": "French winemakers forecast 30-year low harvest after severe drought and heat",
-      "url": "https://www.theguardian.com/world/2026/sep/07/french-winemakers-forecast-30-year-low-harvest-after-severe-drought-and-heat",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-07T15:10:51.000Z",
-      "summary_90w": "",
-      "raw": "Estimates suggest drop in production with vineyards also concerned ‘smoke taint’ from wildfires may affect quality\nFrench vineyards hit by severe drought and heatwaves are expected to report a 30-year low in wine production after the country’s hottest ever recorded summer, according to the agriculture ministry.\nInitial estimates suggest winemakers will produce just under 34m hectolitres from this year’s harvest: a drop of 6% on last year, and 17% less than ‌the 2021-2025 average.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "6b18d6d8aba00409fbb9cecb2b11ce6c27bb3e74",
       "title": "EcoFlow makes the miniature power station even smaller",
       "url": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
@@ -666,19 +900,6 @@
       ]
     },
     {
-      "id": "e09ebdd818ec7a353ab1c86b98fb99740590364a",
-      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-      "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-07T14:57:30.000Z",
-      "summary_90w": "",
-      "raw": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "58e356deedb567bd23cb50262c1eaab2481b5cf1",
       "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
       "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
@@ -687,32 +908,6 @@
       "published": "2026-09-07T14:50:50.000Z",
       "summary_90w": "",
       "raw": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "37484fc9c1709284c4a4f22e19f89d544cd62b59",
-      "title": "Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-07T14:36:37.000Z",
-      "summary_90w": "",
-      "raw": "Job cuts come as JLR faces falling sales and intense Chinese competition while trying to switch to electric vehicles.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "88a0d915ed05e549e4ce748eb44017d3285ff20a",
-      "title": "Why is the far-right AfD’s state victory significant and what might happen next in German politics?",
-      "url": "https://www.theguardian.com/world/2026/sep/07/why-far-right-afd-state-victory-significant-german-politics-germany-explainer",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-07T14:04:23.000Z",
-      "summary_90w": "",
-      "raw": "Aftershocks of party’s win in Saxony-Anhalt will ripple across Germany, with two more state elections this month\nGermany is reeling from the biggest far-right victory in a state election since the Nazi period after voters in Saxony-Anhalt in the former communist east gave the anti-immigration, pro-Kremlin Alternative für Deutschland (AfD) party a thumping first-place finish of 44%, just short of an absolute majority.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -752,19 +947,6 @@
       "published": "2026-09-07T13:31:16.000Z",
       "summary_90w": "",
       "raw": "One week after the deadly floods, very little is known about China's dead or missing. China's control over media and digital censorship is in stark contrast to open reporting in Nepal.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "85b9a510de6af1e849a6a22ef68bd4f55bdf2468",
-      "title": "'I have chronic cancer but I'm not going to die' - BBC presenter Maryam Moshiri",
-      "url": "https://www.bbc.co.uk/news/videos/cdr736zeljeo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-07T12:51:12.000Z",
-      "summary_90w": "",
-      "raw": "Moshiri was diagnosed in November 2024 with polycythaemia vera (PV), after her GP noticed irregularities in blood test results.",
       "topics": [
         "World"
       ]
@@ -900,32 +1082,6 @@
       ]
     },
     {
-      "id": "062a1fc76f4f28a206463b1e4a2156f0f1ed4b8a",
-      "title": "The first day of school: Bells, bikes, buses and big feelings",
-      "url": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-09-07T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Fifth graders calm school kindergartners in Los Angeles. Kids take the \"bike bus\" in Oklahoma. High school students take in a new high school building in Oregon.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d0074180b01ad498e659613f92a550fe49904b83",
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-09-07T08:44:02.000Z",
-      "summary_90w": "",
-      "raw": "Five people are dead after a cargo plane crash at Miami International Airport, Trump's top envoys go to Ukraine with hopes of restarting peace talks, Germany's far-right party wins landslide victory.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "d76b92676a1556e395abcd326f129885471f4046",
       "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
       "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
@@ -952,19 +1108,6 @@
       ]
     },
     {
-      "id": "a13a5e8a23f7a0cafd4d0a47b76c851fe9204d59",
-      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-      "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-07T07:03:44.000Z",
-      "summary_90w": "",
-      "raw": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "3ca9920f773a40cef61273cd7cec0849fcbd7625",
       "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
       "url": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
@@ -986,19 +1129,6 @@
       "published": "2026-09-07T05:37:28.000Z",
       "summary_90w": "",
       "raw": "Video footage shows the aircraft burst into flames in Sunday's deadly incident.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "757e95bca2543dff6e31488707b88b4c203f6cde",
-      "title": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-07T05:31:06.000Z",
-      "summary_90w": "",
-      "raw": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
       "topics": [
         "World"
       ]
@@ -1121,32 +1251,6 @@
       ]
     },
     {
-      "id": "17f2cf74415729fec9b840d06011ef51c68f9ad2",
-      "title": "Scene at Miami airport where five died described as 'utter devastation'",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-09-06T19:54:28.000Z",
-      "summary_90w": "",
-      "raw": "An Amazon Prime cargo plane overran the runway, crashed and rammed into vehicles, where it then caught on fire. All those who died were passengers on the ground.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fd4b700ea79f1b78ef5c95eac6ad82f1c4e70179",
-      "title": "Europe has its first commercial orbital rocket",
-      "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-06T19:04:22.000Z",
-      "summary_90w": "",
-      "raw": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport.\nCEO and Co-Founder Daniel Metzler said in a press release:\n\"Today, Isar Aerospace opened space from Continental Europe. Launch continues to be the largest bottleneck for the global space industry and from today on, there is a true alternative for commercial and institutional customers … Europe no …\n\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "971db20893eb32e424ebcda8b616a24e27897f28",
       "title": "Germany's far-right AfD celebrate projected win in state election",
       "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
@@ -1196,19 +1300,6 @@
       "raw": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "091fc3be8a65a2b218b9d5580d68ce1fa4e78908",
-      "title": "Germany's far-right achieves an electoral breakthrough in key state election",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-09-06T16:36:48.000Z",
-      "summary_90w": "",
-      "raw": "Germany's populist, far-right Alternative for Germany party has declared victory in the state of Saxony-Anhalt after more than doubling its share of the vote in the first of several regional elections this fall.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1287,32 +1378,6 @@
       "raw": "NPR's Ayesha Rascoe talks to former State Department energy envoy David Goldwyn about how the war in Iran continues to affect gas and diesel prices.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "ed040efd2ab07ca19b8ce5a9358556c76a3242b8",
-      "title": "American Muslims are giving Texas barbecue a halal makeover",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-09-06T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state's most iconic culinary traditions.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1223307291241dc9761f6398e5430ca323879d96",
-      "title": "Witkoff and Kushner call Kyiv talks 'substantive' after Moscow Putin meeting",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-09-06T09:51:04.000Z",
-      "summary_90w": "",
-      "raw": "U.S. envoys Steve Witkoff and Jared Kushner held meetings in Kyiv with Ukraine's President Zelenskyy on Sunday, a day after lengthy conversations with Russian President Putin in Moscow.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1443,19 +1508,6 @@
       "raw": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "411d7907ade693ec4ff9f84fcf3daef2949c0bec",
-      "title": "Rescuers in Nepal find two more people alive after flash flood disaster",
-      "url": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-05T11:26:30.000Z",
-      "summary_90w": "",
-      "raw": "Chinese man at Trishuli hydropower project and Nepali woman in Nuwakot found 10 days into rescue operation\nEmergency responders have rescued a Chinese man and a Nepali woman in two separate operations as authorities continued to search for thousands of people missing 10 days after massive floods hit Nepal.\nThe Nepali military said on Saturday a joint team comprising personnel from its army and South Korean disaster experts rescued the man from a 225-metre (740ft) tunnel in the Upper Trishuli-1 hydropower project, and that he was undergoing a health assessment. Pictures showed him being evacuated by helicopter after being carried out of the tunnel.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1833,19 +1885,6 @@
       "raw": "Big tech companies like Apple and Microsoft use devices, training and conferences for teachers and students to embed in schools. The New York Times' Natasha Singer discusses the impact in Coding Kids.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "5e7557083b93f6ccc87a457cc9f19e2278241e2a",
-      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-09-02T14:08:03.000Z",
-      "summary_90w": "",
-      "raw": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela.",
-      "topics": [
-        "Business"
       ]
     },
     {
