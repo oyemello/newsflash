@@ -1,7 +1,319 @@
 {
-  "version": "1789665951141",
-  "generatedAt": "2026-09-17T17:25:51.141Z",
+  "version": "1789676983033",
+  "generatedAt": "2026-09-17T20:29:43.033Z",
   "items": [
+    {
+      "id": "893a9eb468b831787a4a6c2de9965c48fd969695",
+      "title": "ICE agent appears in Minnesota court to face charges in the shooting of a Venezuelan immigrant",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5973127/ice-agent-court-extradition-minnesota-immigrant-shooting",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-17T20:23:34.000Z",
+      "summary_90w": "",
+      "raw": "Christian Castro, a federal immigration officer, made his first court appearance in Minnesota since he was booked Wednesday into a local jail. Castro faces multiple state and federal charges in connection with a shooting during the immigration surge in Minnesota.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e35d655bb9b82a8dbc2aa5487660206ae69cb087",
+      "title": "Is the AI safety debate about safety or control?",
+      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-17T20:19:37.000Z",
+      "summary_90w": "",
+      "raw": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "197a63391e1f3ac5b59cf3a8f57578a5ba747480",
+      "title": "Archbishop of Canterbury withdraws award from Muslim cleric who praised Osama bin Laden",
+      "url": "https://www.bbc.co.uk/news/articles/ckr50lrz5e6zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-17T20:08:02.000Z",
+      "summary_90w": "",
+      "raw": "The award was handed out last week, on the anniversary of the 9/11 attacks.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3088efb2a21a31f5186aab8ed9503c4aa63dfdec",
+      "title": "Residents file lawsuit challenging noise pollution from Elon Musk's data center",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5954414-e1/residents-file-lawsuit-challenging-noise-pollution-from-elon-musks-data-center",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2026-09-17T20:03:19.000Z",
+      "summary_90w": "",
+      "raw": "The loud noise from massive gas turbines never stops at Elon Musk's data center near Memphis. Residents are suing.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e0dc29e580915df1255f94b2c929e43ea80bf19f",
+      "title": "A bad year for the crypto industry just got a lot worse",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5971298/a-bad-year-for-the-crypto-industry-just-got-a-lot-worse",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2026-09-17T20:03:18.000Z",
+      "summary_90w": "",
+      "raw": "The cryptocurrency industry just suffered a major defeat in a bill they had badly wanted to get through the Senate. It's the latest setback in a terrible year for the sector.",
+      "topics": [
+        "Business"
+      ]
+    },
+    {
+      "id": "417337c28358017c2c439064235e56f51067c524",
+      "title": "White House withdraws Trump's ICE nominee as Republican senator objects",
+      "url": "https://www.bbc.co.uk/news/articles/cq23xzp55x08o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-17T20:03:08.000Z",
+      "summary_90w": "",
+      "raw": "One senator from Trump's party blocked the bid as he demands information about the fatal killings of US citizens by immigration enforcement.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c70b5555d0f05cc6fc61e96df60732e75154f909",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-17T20:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "55cb76732018548751d51aba6520fc75e14f18ef",
+      "title": "Why Canadians are ready for closer ties with Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-17T19:59:54.000Z",
+      "summary_90w": "",
+      "raw": "People the BBC spoke to are excited by the prospect of working and studying in the EU, a suggestion Carney made this week.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5cc2ac0014827b4db49d4e03c05ebffe6a1c0fca",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-17T19:46:08.000Z",
+      "summary_90w": "",
+      "raw": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "d326dbd7fa6547d941ecc5f3623bf78a53cb8cc6",
+      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+      "url": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-17T19:35:23.000Z",
+      "summary_90w": "",
+      "raw": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "95b068445802170b82a79fd19a315fb4454e6de4",
+      "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-17T19:33:30.000Z",
+      "summary_90w": "",
+      "raw": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a lifeline.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "539c5a96bbf45589eaf9bfabb98c022381aa133d",
+      "title": "The AI Superintelligence Slowdown",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-17T19:28:24.000Z",
+      "summary_90w": "",
+      "raw": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development.\nTheir motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown.\nWill these AI companies actually slow down? Will anyone step in to regulate these companies like they claim to have wanted for years? Will they manage to convince world leaders that the US must “beat China” to superintelligence and go even faster?\nRead on below for the latest updates in this AI saga.\nKing Charles says AI needs “sufficient means of control before it is all too late.”\n\t\t\t\nMicrosoft AI CEO says AI threats are real, and Anthropic is making it worse\n\t\t\t\nOpenAI reveals six more “concerning” AI incidents under its new rules for reporting safety issues.\n\t\t\t\nJensen Huang sure is getting cozy with Trump.\n\t\t\t\nA brief history of AI executives calling for regulation\n\t\t\t\nTwo Google Deepmind researchers lend voices to the AI apocalypse.\n\t\t\t\nGuy getting super rich off unfettered AI development says it doesn’t need regulation.\n\t\t\t\nZuck doesn’t want to press pause on AI.\n\t\t\t\nBarack Obama takes the middle way on AI.\n\t\t\t\nIs Big Tech’s AI slowdown a safety pact or a cartel?\n\t\t\t\nWhat execs and politicians are saying about slowing down AI development\n\t\t\t\nMicrosoft says ‘people matter more than AI’ following safety concerns\n\t\t\t\nChina: AI CEOs are “fear mongering.”\n\t\t\t\nSam Altman: Let’s slow down.\n\t\t\t\nIs it time for AI companies to press pause?\n\t\t\t\nSam Altman says OpenAI going public in 2026 would be ‘ill-advised’\n\t\t\t\nAnthropic CEO says it’s time to pump the brakes on AI",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "cc774da80403c3b2df736cb752a24151e6ef6caf",
+      "title": "Andy Burnham urged to set dementia waiting-time target",
+      "url": "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-17T19:13:59.000Z",
+      "summary_90w": "",
+      "raw": "An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "030005702ad790eba9608e626c2c1ace79414154",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-17T18:58:05.000Z",
+      "summary_90w": "",
+      "raw": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: \nUnder the hood, each thread is a Claude Code cloud session working on its own branch and copy of the repo. The coordinator keeps work organized, but if any threads work on the same code, the overlap is resolved as a merge conflict just like any other PR. Each thread can further split its delegated work …\n\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "47df997c778c00465e37f0c777bd935eb4abae1e",
+      "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-17T18:56:31.000Z",
+      "summary_90w": "",
+      "raw": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "210a82a9d289acdf5080b547aa4f5fe5d2342971",
+      "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
+      "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-17T18:30:30.000Z",
+      "summary_90w": "",
+      "raw": "The company suspended service in the city in April after one of its robotaxis got swept away.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "24df0776f6a1ff64a45e9bc106bd9fc5ee7bc922",
+      "title": "‘I’m genuinely sorry’: Australian Hyrox athlete who soiled herself apologises to China and rivals",
+      "url": "https://www.theguardian.com/sport/2026/sep/17/im-genuinely-sorry-australian-hyrox-athlete-who-soiled-herself-apologises-to-china-and-rivals",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-17T18:30:23.000Z",
+      "summary_90w": "",
+      "raw": "Joanna Wietrzyk ‘regrets’ decision to keep racing\n\n She forfeits points from her win in the Beijing race\n\n\nGet our new political email, free app or daily news podcast\n\n\nThe Australian athlete who caused a storm by winning a Hyrox event in China despite soiling herself during the race has apologised to the “people of China” and rival athletes in a statement online.\nPosting on Instagram, Joanna Wietrzyk, said she offered a “sincere apology” to the “people of China, my fellow competitors, the spectators and the Hyrox organizers for what happened during the race in Beijing”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6f8665e841a0b35c250a3a7a05557c1f2cced10f",
+      "title": "Taking on Trump: Canada and EU forge closer ties – The Latest",
+      "url": "https://www.theguardian.com/news/audio/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-17T18:22:14.000Z",
+      "summary_90w": "",
+      "raw": "Canadian prime minister, Mark Carney, has welcomed the EU’s proposal for Canada to become the bloc’s first ‘associate member’, despite threats from Donald Trump over the plan. The US president said Washington could impose ‘very serious tariffs’ or halt trade if the EU went ahead with the idea. But in a defiant speech to the European parliament, Carney called for ‘deep cooperation’ and said polling showed the overwhelming majority of Canadians supported closer ties with Europe. Lucy Hough speaks to Europe correspondent Jon Henley – watch on YouTube\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "743c0ae2c5f3974cfeea1f58fa6dd089b4d60699",
+      "title": "UK needs 'credible path' on defence spending, says Nato chief",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e35pwje2do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-17T18:02:26.000Z",
+      "summary_90w": "",
+      "raw": "Mark Rutte tells the BBC that UK ministers accept the need to make yearly steps to up spending.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8d6d421394c4abba1ebf491a990b3b72908ca23b",
+      "title": "Man, 29, jailed for raping two 14-year-old girls",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy14g039lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-17T17:58:23.000Z",
+      "summary_90w": "",
+      "raw": "One victim escaped and told a neighbour her friend was being raped by the Afghan national, the court heard.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "295bc154a7253a9fd2f895d8209b837d8a043147",
+      "title": "UK Youth Parliament looks set to be axed",
+      "url": "https://www.bbc.co.uk/news/articles/c689jke4w310o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-17T17:53:55.000Z",
+      "summary_90w": "",
+      "raw": "Some say scrapping the parliament for 11 to 18-year-olds would be a blow for democracy, while others say it is overdue.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6db70951bf71372dc20e7e654c463fe8b9f5bd57",
+      "title": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/17/ireland-to-boycott-eurovision-again-over-ongoing-deaths-in-gaza",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-17T17:32:23.000Z",
+      "summary_90w": "",
+      "raw": "Ireland joins joins Dutch broadcaster in refusing to take part in 2027 song contest, in second consecutive year of protests\nIreland is to boycott Eurovision for the second year running over the “appalling” ongoing killing in Gaza, the national broadcaster has said.\nIreland was one of five countries, along with Iceland, the Netherlands, Spain and Slovenia, that refused to take part in the competition this year in protest against Israel’s participation.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "304fa53341f57528b6f5657f2d13c6b95526e24c",
+      "title": "Even the king of England has his hesitations about AI",
+      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-17T17:26:25.000Z",
+      "summary_90w": "",
+      "raw": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "905a1767eb1047285cc2772f18d461c4fda2ae17",
+      "title": "Ukrainian guilty of vandalism at mosques linked to Russian network behind Starmer arson attack",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx5gldrk0ko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-17T17:21:54.000Z",
+      "summary_90w": "",
+      "raw": "Illia Bilyk, a 21-year-old Ukrainian man, has pleaded guilty to targeting five locations in east London.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "b237fa49f681a6cad1c5de604c50404cb8cf7e8f",
       "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
@@ -23,7 +335,7 @@
       "source_name": "TechCrunch",
       "published": "2026-09-17T17:15:00.000Z",
       "summary_90w": "",
-      "raw": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting and other changes in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "raw": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
       "topics": [
         "Technology"
       ]
@@ -42,6 +354,19 @@
       ]
     },
     {
+      "id": "0bd2b78f98d310b9d369b02e4d53149c4c9e3dbb",
+      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting ",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-17T17:08:00.000Z",
+      "summary_90w": "",
+      "raw": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "883986701047dad7899656b83b841f7f3a9b8e8d",
       "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
       "url": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
@@ -50,19 +375,6 @@
       "published": "2026-09-17T16:59:43.000Z",
       "summary_90w": "",
       "raw": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6f8665e841a0b35c250a3a7a05557c1f2cced10f",
-      "title": "Taking on Trump: Canada and EU forge closer ties – The Latest",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-17T16:52:16.000Z",
-      "summary_90w": "",
-      "raw": "Canadian prime minister, Mark Carney, has welcomed the EU’s proposal for Canada to become the bloc’s first ‘associate member’, despite threats from Donald Trump over the plan. The US president said Washington could impose ‘very serious tariffs’ or halt trade if the EU went ahead with the plan. But in a defiant speech to the European parliament, Carney called for ‘deep cooperation’ and said polling showed the overwhelming majority of Canadians supported closer ties with Europe. Lucy Hough speaks to Europe correspondent Jon Henley – watch on YouTube\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -120,14 +432,14 @@
       ]
     },
     {
-      "id": "d61e2b5182af5a8bd4bb5de9a1c6ebeeb71aa48a",
-      "title": "Watch: Is Canada about to join the EU?",
-      "url": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
+      "id": "4df0fa6d0aeab62a466230252322d3c668bb7db0",
+      "title": "Ed Sheeran's tour in 'damage control mode' after Macklemore backlash",
+      "url": "https://www.bbc.co.uk/news/videos/cq986g1npk0eo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-09-17T16:18:35.000Z",
+      "published": "2026-09-17T16:34:03.000Z",
       "summary_90w": "",
-      "raw": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
+      "raw": "US stadium owner Robert Kraft says Sheeran asked him to match his own $2m (£1.5m) donation for \"aid in the region\".",
       "topics": [
         "World"
       ]
@@ -354,19 +666,6 @@
       ]
     },
     {
-      "id": "a0651878a311cc3728027628896126c43b5ccc77",
-      "title": "Zelensky appoints new chief prosecutor after predecessor's corruption scandal",
-      "url": "https://www.bbc.co.uk/news/articles/c539mwvl10g4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-17T14:52:24.000Z",
-      "summary_90w": "",
-      "raw": "Former chief prosecutor Ruslan Kravchenko after searches of his offices by Ukrainian anti-corruption officials.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "11e2f04c3ce411a1d9919a1cbdcb405b3aa7d640",
       "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
       "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
@@ -388,32 +687,6 @@
       "published": "2026-09-17T14:29:50.000Z",
       "summary_90w": "",
       "raw": "Fred Again, PinkPantheress and Travis Scott are on CD and vinyl editions of the album, but some fans have pointed out the \"irony\" of this following a controversial decision for a digital-only release of the game.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "018bc653425b8dd927f6e393eec27b8587ffd6b2",
-      "title": "FA chair demands Infantino release World Cup sell-off documents",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-17T14:26:53.000Z",
-      "summary_90w": "",
-      "raw": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "33548d90a155a1f3364d3c2de5d2eee5c965c654",
-      "title": "Barclays workers ask for more money to return to the office",
-      "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-17T14:20:27.000Z",
-      "summary_90w": "",
-      "raw": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
       "topics": [
         "World"
       ]
@@ -539,7 +812,7 @@
       "id": "ad5a5678babb3eb0e3f6f40a3f92778f814a6ae7",
       "title": "Ninth woman's body found as South African police investigate string of deaths",
       "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-09-17T13:44:07.000Z",
       "summary_90w": "",
@@ -588,19 +861,6 @@
       ]
     },
     {
-      "id": "6db70951bf71372dc20e7e654c463fe8b9f5bd57",
-      "title": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/17/ireland-to-boycott-eurovision-again-over-ongoing-deaths-in-gaza",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-17T13:26:06.000Z",
-      "summary_90w": "",
-      "raw": "Ireland joins Netherlands in refusing to take part in 2027 song contest, in second consecutive year of protests\nIreland is to boycott Eurovision for the second year running over the “appalling” ongoing killing in Gaza, the national broadcaster has said.\nIreland was one of five countries, along with Iceland, Netherlands, Spain, and Slovenia, that refused to take part in the competition this year in protest against Israel’s participation.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "2f4b436a7e71ff7bc2dbad6538da14cf1d5e2f6c",
       "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
       "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
@@ -635,19 +895,6 @@
       "published": "2026-09-17T13:00:00.000Z",
       "summary_90w": "",
       "raw": "Bose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago. The new Ultra Open Earbuds (2nd Gen) feature a subtle redesign with improved performance in both sound quality and battery life. They're also joined by a new cheaper alternative called the Bose Sport Open Earbuds designed to provide a more secure and stable fit during physical activities.\nThe Bose Ultra Open Earbuds (2nd Gen) will be available for preorder on September 19th for $299 with availability starting on October 1st. Color options include black, white smoke, cherry chocolate, oli …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "9cf674e87fe71e479b7af0222d3744ecbe1be3ee",
-      "title": "Spotify’s Fresh Finds Forward gives artists free studio time and more",
-      "url": "https://www.theverge.com/entertainment/996505/spotify-fresh-finds-forward",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-17T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Getting added to Spotify's Fresh Finds playlists can be a huge break for artists trying to cut through the noise on streaming. Now Spotify is launching a program called Fresh Finds Forward, which aims to give artists the tools to capitalize on that exposure. Artists added to any Fresh Finds playlist after January 1st, 2026, can join the program and get 12 months of additional resources, the most extravagant of which is free studio time for US-based artists at Electric Lady Studios in NYC, The Lighthouse at Ocean Way Nashville, or Spotify Music Studios in LA.\nBeyond that, artists will get early access to Spotify tools and features, priority  …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -689,19 +936,6 @@
       "raw": "Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "d6009de4f569cde861400d0236cf9b646f05aae7",
-      "title": "Grand Theft Auto VI’s soundtrack will feature 34 brand-new tracks",
-      "url": "https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-17T12:31:30.000Z",
-      "summary_90w": "",
-      "raw": "After teasing a music-related reveal a few days ago, Rockstar has officially announced the soundtrack for Grand Theft Auto VI. Called Grand Theft Auto VI: The Album, the soundtrack will feature 34 songs, which Rockstar describes as \"brand-new, original tracks.\" Based on the first six singles, which are available today, it seems that the collection will span a pretty wide range of genres, with everyone from Keith Richards to Travis Scott contributing.\nHere's what's been confirmed so far:\nYung Lean - \"That's It\" (feat. Future & Metro Boomin)\nTravis Scott - \"RHYNO\" (prod. by Guy-Manuel de Homem-Christo)\nCA7RIEL & Paco Amoroso, PinkPant …\n\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -770,23 +1004,10 @@
       ]
     },
     {
-      "id": "b57d83f77c9c4c7b0267bb8b9d10231981aa0e9b",
-      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
-      "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-17T11:59:02.000Z",
-      "summary_90w": "",
-      "raw": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "07159b9fa37c8582cbee825f482044c6b3ab11f9",
       "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
       "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-09-17T11:05:29.000Z",
       "summary_90w": "",
@@ -913,32 +1134,6 @@
       ]
     },
     {
-      "id": "3d3fcf565ea162752450b9267aa6d6f719e7c3db",
-      "title": "A Sikh truck driver is stabbed amid a rise in anti-South Asian rhetoric",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5971866/truck-driver-attack-wyoming-sikh-south-asian",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-09-17T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The driver said he was shaken by a violent encounter at a rest stop, which he described as unprovoked.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "62da19ef2a0b95515fdc3c5e19004da2e1ff2bc8",
-      "title": "People's houses are collapsing into the ocean. FEMA gives them no other option",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5844642/fema-homes-collapse-ocean-climate-north-carolina-maine",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-09-17T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Waterfront homes are collapsing along the coast. Homeowners generally have plenty of warning before their house buckles. So why aren't most houses removed, or at least emptied, before they fall?",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "44bd45babf5b870ef42005c6b181e0cc6c780079",
       "title": "Amid growing AI fears, King Charles meets with industry leaders in Scotland",
       "url": "https://www.npr.org/2026/09/17/nx-s1-5968741/amid-growing-ai-fears-king-charles-meets-with-industry-leaders-in-scotland",
@@ -1004,19 +1199,6 @@
       ]
     },
     {
-      "id": "cc84cd2c0d4c311837b551d4abc0d59a59cfc223",
-      "title": "Queensland to create outback boot camps for youth offenders – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-17T08:05:02.000Z",
-      "summary_90w": "",
-      "raw": "This blog is now closed\n\nGet our breaking news email, free app or daily news podcast\n\nBarnaby Joyce says Labor is copying and pasting One Nation’s homework because the measures we know so far around blocking the families of international students and preventing visa hopping have some similarity to what Pauline Hanson is suggesting.\nSpeaking to the Today show a little earlier, Joyce says Burke’s last minute cancellation at the press club was “the greatest no-show since Amelia Earhart”.\n[Burke] can’t possibly be about to announce One Nation’s policy. I mean, Tony’s a great guy, right? I like Tony, but honestly, he was the greatest no-show since Amelia Earhart when he didn’t turn up to the Press Club …\nWhat I’ve heard thus far is that it’s an exact replication, but not to the extent of what One Nation is doing.\nI will be watching this with absolute fascination and some trepidation, and I’ll be waiting for Jim Chalmers to explain his new budget.\nI was on polling booths with my colleagues like Sally Sitou. I was out there in Reid with her in those last weeks of the campaign, standing there for hours at a time. She would be surrounded by men a foot taller than her, stopping her physically talking to or giving information to voters.\nI would think secretly paying known rightwing figures to disrupt events and pretend that they are just disgruntled citizens having their say is certainly immoral, if it’s not illegal.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "42efb490e60efbfb30d55c528a0569e0e047ef37",
       "title": "Abducted South African journalist found dead with gunshot wounds",
       "url": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
@@ -1069,32 +1251,6 @@
       ]
     },
     {
-      "id": "b7f905e9ac5747245034aac3016ec34f44abb0f0",
-      "title": "'My mother apologised': A survivor's journey after genital mutilation",
-      "url": "https://www.bbc.co.uk/news/articles/cq770k5rrg7po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-17T05:33:18.000Z",
-      "summary_90w": "",
-      "raw": "Sara Kahsai was 29 when she found out she had FGM as a baby.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7f981f3adda8b171abfb38026ccc072db5c692a3",
-      "title": "Mum's Facebook kidney plea prompts 'mind-blowing' gift from total stranger",
-      "url": "https://www.bbc.co.uk/news/articles/ck4gl6v10029o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-17T05:06:33.000Z",
-      "summary_90w": "",
-      "raw": "A woman has undergone a lifesaving transplant after receiving a kidney from a stranger who saw her post on social media.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "c65be4f3c7c89cba32f503971178ca9f5453f5fd",
       "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
       "url": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
@@ -1116,19 +1272,6 @@
       "published": "2026-09-17T05:04:52.000Z",
       "summary_90w": "",
       "raw": "The sight of masked young men on electric bikes or motorcycles is becoming increasingly familiar - what can be done about it?",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "2b5de424490a7628471b184d52c073fef311b872",
-      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-      "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-17T05:00:36.000Z",
-      "summary_90w": "",
-      "raw": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
       "topics": [
         "World"
       ]
@@ -1160,19 +1303,6 @@
       ]
     },
     {
-      "id": "84bd2cb388edd47e139493b826477c555401f18f",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-17T05:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "67f36cb55d18f7038fd0ce96edfa93e7dbc6b4a6",
       "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
       "url": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
@@ -1181,32 +1311,6 @@
       "published": "2026-09-17T04:00:39.000Z",
       "summary_90w": "",
       "raw": "As three siblings came of age and had to leave their pack, scientists tracked the dogs’ perilous 2,500-mile odyssey to find their own territory\nIt sounds like a Disney movie: three wild dogs, all brothers, on an epic journey to find a home of their own after their family tells them to leave. They dodge cars and hunters in search of a new life, navigating bushmeat snares and the hostility of a human-dominated landscape until they find a new haven on the African savannah.\nBut this is exactly what happened in Zambia last year, when three endangered African wild dogs made the longest-ever recorded single journey of any mammal from the continent. The brothers travelled more than 2,500 miles (4,100km) over eight months in their “dispersal” – when a young dog comes of age and must establish new territory to find a mate and start a family of their own.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "05ff914fd970caa9feaaed8e2a42010df04b1122",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-17T03:30:00.000Z",
-      "summary_90w": "",
-      "raw": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "10b3a72c0873fd2b352fdd12f7f61ed066db1094",
-      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-      "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-17T03:09:21.000Z",
-      "summary_90w": "",
-      "raw": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
       "topics": [
         "World"
       ]
@@ -1225,19 +1329,6 @@
       ]
     },
     {
-      "id": "927c7e7b592f7349bfe89e962214d7656a3b42fe",
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-17T00:58:49.000Z",
-      "summary_90w": "",
-      "raw": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "f5b6dac208dd1c22a6963f9c9d4f6f5b50db6129",
       "title": "US interest rates raised for first time in three years",
       "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
@@ -1248,45 +1339,6 @@
       "raw": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "e23bd3cfe495c338662945de7bfe1eaf28236122",
-      "title": "Why caffeine makes some people buzz - and others barely notice",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkd4zw564o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-17T00:09:43.000Z",
-      "summary_90w": "",
-      "raw": "Scientists say it all depend on caffeine habits, lifestyle and one factor we have no control over: our genes.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "2c09075dcac24b2c3ef495aca0bcbca23c1e67ff",
-      "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
-      "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-16T23:50:07.000Z",
-      "summary_90w": "",
-      "raw": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "1f5f9763886f94cf2267750556028f505528a320",
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-16T23:43:09.000Z",
-      "summary_90w": "",
-      "raw": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1313,19 +1365,6 @@
       "raw": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f1ae59a87ccd690cd08aa92f9788882f0bc04e5d",
-      "title": "Watch: Seized luxury goods up for auction in Singapore after $2.2bn money laundering case",
-      "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-16T22:13:36.000Z",
-      "summary_90w": "",
-      "raw": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for sale.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1485,19 +1524,6 @@
       ]
     },
     {
-      "id": "aa07e0c326bb8848f36f54c3c655bcd442f605b2",
-      "title": "US limits visas for South African officials over alleged anti-white discrimination",
-      "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-16T13:57:03.000Z",
-      "summary_90w": "",
-      "raw": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "d3ded6bc70a308dd6fe91fbd470f9ead618ab053",
       "title": "How are rising prices affecting you? NPR wants to know",
       "url": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
@@ -1532,45 +1558,6 @@
       "published": "2026-09-16T12:35:45.000Z",
       "summary_90w": "",
       "raw": "Announcement of visa restrictions follows Trump’s false claims of ‘white genocide’ taking place in South Africa\nThe US has announced visa restrictions on some South Africans as Donald Trump’s administration continues to claim that South Africa’s government racially discriminates against white minority Afrikaners.\nThe announcement did not specify individuals who were barred from the US. Trump has spent his second term falsely claiming there is a “white genocide” in South Africa and railing against its affirmative action policies.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "94c805b8b66af255d98e2b08ad6401b021feab97",
-      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-16T12:26:00.000Z",
-      "summary_90w": "",
-      "raw": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d2d8500b01f9bd7fa160c900c1d2db2a26f6f440",
-      "title": "Carney's new love-in with EU has everything to do with Trump",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e3rnxev27o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-16T11:08:01.000Z",
-      "summary_90w": "",
-      "raw": "The Canadian PM is in Strasbourg this week seeking a \"unique alliance\" - and there is one clear catalyst.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "02559d53ff2be5fe6fade83f9e0a20b3cf1fcce8",
-      "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-16T11:02:54.000Z",
-      "summary_90w": "",
-      "raw": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
       "topics": [
         "World"
       ]
@@ -1664,19 +1651,6 @@
       "raw": "Where does Steve Bannon fit in the debate over regulating or slowing AI? He tells Morning Edition where he breaks with Trump and what he thinks Washington should do.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "a9c7567148ad9c4bda9e7562f0be11835e551ebb",
-      "title": "Why Trump is all-in on AI despite the warnings",
-      "url": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-16T08:41:44.000Z",
-      "summary_90w": "",
-      "raw": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1797,19 +1771,6 @@
       ]
     },
     {
-      "id": "eea582b4f44ae92eb786c095e2c2c149747bd641",
-      "title": "Circuit training: How China is teaching humanoid robots to do useful things",
-      "url": "https://www.npr.org/2026/09/15/nx-s1-5961328/circuit-training-how-china-is-teaching-humanoid-robots-to-do-useful-things",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2026-09-15T19:51:56.000Z",
-      "summary_90w": "",
-      "raw": "China has made developing and selling humanoid robots an economic priority, but getting robots to work requires hours of repetitive \"training\" done by people to create data about the physical world.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "effb612279a8fe1537784aa1d51148a9f2ff0004",
       "title": "Tech Life",
       "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
@@ -1883,19 +1844,6 @@
       "published": "2026-09-15T09:00:00.000Z",
       "summary_90w": "",
       "raw": "The legislation was intended to establish rules of the road for the crypto sector for the first time. But it suffered a stinging defeat in the Senate on Tuesday.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
-      "id": "f6656889413521609f424f23675b214059ad1aec",
-      "title": "Get ready for yet another cost when buying a home: Junk fees",
-      "url": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-09-15T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Some real estate agents and researchers say home buyers and sellers should not pay this out-of-pocket fee.",
       "topics": [
         "Business"
       ]
