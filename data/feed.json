@@ -1,16 +1,159 @@
 {
-  "version": "1789761278611",
-  "generatedAt": "2026-09-18T19:54:38.611Z",
+  "version": "1789769142435",
+  "generatedAt": "2026-09-18T22:05:42.435Z",
   "items": [
     {
       "id": "d966c1faf1febd26583c34da21860d4d6776f9e3",
-      "title": "Donald Trump says he is banning CNN and Politico from White House",
+      "title": "Trump says he is banning CNN and Politico from White House",
       "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-09-18T19:40:36.000Z",
+      "published": "2026-09-18T21:45:19.000Z",
       "summary_90w": "",
-      "raw": "The US president has had a tense and fiery relationship with the US media since returning to office.",
+      "raw": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8503b185b661102da7ecdbec7fb5176e119d1746",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-18T21:44:33.000Z",
+      "summary_90w": "",
+      "raw": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2e11f02dadc677daffda218a507c9efa67415887",
+      "title": "Littler survives scare to progress at World Series Finals",
+      "url": "https://www.bbc.co.uk/sport/darts/articles/c62l8wnd45xpo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-18T21:29:55.000Z",
+      "summary_90w": "",
+      "raw": "World number one Luke Littler survives a first-round scare to overcome Danny Noppert in a thrilling World Series of Darts Finals match in Amsterdam.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d04a39ccc35ccb69f3b70c3b027e2c0a40759a6d",
+      "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-18T21:13:14.000Z",
+      "summary_90w": "",
+      "raw": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they've seen in recent memory.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-18T21:07:24.000Z",
+      "summary_90w": "",
+      "raw": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it made a \"complete mockery of the idea of fair use.\"\nMany of the most eye-catching quotes from the document come from Microsoft's Director of Applied Science, Brent Hecht. Though, the company has tried to distance itself from Hecht's assertions. Microsoft spokesperson Alex Haurek told The Verge that \"These comments ref …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "873680de2dc88342218212d61dd98ae16c60fcb7",
+      "title": "A weight off Igor Thiago's shoulders - Brentford v Chelsea ratings",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm046x9l6d6po?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-18T20:57:06.000Z",
+      "summary_90w": "",
+      "raw": "Brentford climb to third in the Premier League with a 2-0 victory over Chelsea - here are BBC Sport's player ratings.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "73b51cc8938cd62611d58567df26c4d33bd54777",
+      "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
+      "url": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-18T20:35:03.000Z",
+      "summary_90w": "",
+      "raw": "The US president on Friday announced he is \"immediately\" banning CNN, MS NOW and Politico from the White House.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2d3bc5eb22e1859e56d545c4573d1ee4fd8232e6",
+      "title": "Automattic names interim CFO after exec departures",
+      "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-18T20:25:22.000Z",
+      "summary_90w": "",
+      "raw": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "651f21e730754166d60ce617fd84a36b6553ea6b",
+      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+      "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-18T20:24:33.000Z",
+      "summary_90w": "",
+      "raw": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6ce3a720aa6ea20e021f66e08f4162de20283291",
+      "title": "World model companies are keeping a lot of secrets",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-18T20:18:14.000Z",
+      "summary_90w": "",
+      "raw": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4a7b35fbcf1b0dc3f024f242067c346115877959",
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-18T20:17:50.000Z",
+      "summary_90w": "",
+      "raw": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9437d06e1bd21a5c80f5267350a8d316835fce90",
+      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+      "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-18T20:15:53.000Z",
+      "summary_90w": "",
+      "raw": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
       "topics": [
         "World"
       ]
@@ -198,19 +341,6 @@
       ]
     },
     {
-      "id": "4a7b35fbcf1b0dc3f024f242067c346115877959",
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-18T17:31:30.000Z",
-      "summary_90w": "",
-      "raw": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f19cf989746913bd794862c461826ae99c620ca8",
       "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
       "url": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
@@ -234,6 +364,19 @@
       "raw": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
       "topics": [
         "Technology"
+      ]
+    },
+    {
+      "id": "a86a1bc6a59fa39ae8f6bb8732cd02cc23b187fe",
+      "title": "North Korean anthem played for South Korea at Asian Games",
+      "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-18T17:18:09.000Z",
+      "summary_90w": "",
+      "raw": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
+      "topics": [
+        "World"
       ]
     },
     {
@@ -744,19 +887,6 @@
       ]
     },
     {
-      "id": "f365b8be7eaaf3f4b26477329b4c7d17263da567",
-      "title": "Oxford apologise for United 93 shirt advert",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4v5v3zzr7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-18T13:05:31.000Z",
-      "summary_90w": "",
-      "raw": "Oxford United apologises for the image, which features the call sign of one of the planes used in the 9/11 attacks.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1f891687ede051657f87fa8ce42f471b37b54c6a",
       "title": "Resident Evil: The video game adaptation with a lot to prove",
       "url": "https://www.bbc.co.uk/news/articles/cm4g525l8jwwo?at_medium=RSS&at_campaign=rss",
@@ -861,19 +991,6 @@
       ]
     },
     {
-      "id": "46ee69936295cae70e008eaa7da85823e87edc95",
-      "title": "British rapper Sway dies aged 44",
-      "url": "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-18T11:03:29.000Z",
-      "summary_90w": "",
-      "raw": "Sway, whose hits included Still Speedin' and Level Up, was living in Ghana at the time of his death.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "09d56a0899798174bd3c4edee1c3df42b99e5e4b",
       "title": "Three dead and eight injured in Philippines school shooting",
       "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
@@ -897,19 +1014,6 @@
       "raw": "Some experts worry factors affecting wheat exports could push global food prices even higher than they are now\nWheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops out of his 2,500-acre (1,010-hectare) Kansas farm.\nYet even as future prices for bread-type wheat are up 39%, Nielsen is unsure whether increased prices will raise his bottom line. The price of diesel fuel, which he needs to run his tractor, has hit record highs. Then there’s the erratic weather that made him lose his entire wheat crop in the spring, and drought has overtaken the southern Great Plains.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "82da9e642a0899d34edf365beb491f4c9fe7ba13",
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-18T11:00:00.000Z",
-      "summary_90w": "",
-      "raw": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \n\"I look over to where the barn is over there, and I see pieces of my wood floating, and I was like, 'What?' And I immediately was like, 'I have to go.' Close my laptop, and I get my kids up, and I'm like, 'Something's wrong,'\" Lin recalls.\nLin and her family got out safely and sheltered at a neighbor's house, but Lanesville got over 8 inches of rain within just a few hours that day, way over the thre …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1030,29 +1134,16 @@
       ]
     },
     {
-      "id": "97ebb951d34e663c8b039323b9b9fbc253d36ddf",
-      "title": "True or false: Trump's name is now on the Kennedy Center. The quiz has the answer",
-      "url": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-09-18T09:01:00.000Z",
-      "summary_90w": "",
-      "raw": "The world made it to another Friday without an AI apocalypse, so here's the quiz! See you next week … maybe.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "62d9e9977735efbbbc2996e119a8f5fc1b79d961",
       "title": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
       "url": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-09-18T09:00:00.000Z",
       "summary_90w": "",
       "raw": "A bacterial infection is wiping out Florida's citrus trees. Growers hope a rootstock developed with gene-editing technology could keep the disease at bay.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -1103,19 +1194,6 @@
       "published": "2026-09-18T08:30:12.000Z",
       "summary_90w": "",
       "raw": "More than 180 writers sign letter renewing calls for information on 12 authors detained incommunicado since 2001 crackdown on free speech by Isaias Afwerki\nMore than 180 writers have signed a letter to Eritrean president Isaias Afwerki calling for proof of life for 12 writers arrested in 2001.\nNobel laureates Olga Tokarczuk and JM Coetzee join prominent writers including Colm Tóibín, Elif Shafak, Isabel Allende, Ben Okri, Yann Martel, Kamila Shamsie and Tsitsi Dangarembga in signing the letter organised by PEN International and dated 18 September, marking 25 years since a government crackdown on the independent press. “Within days, Eritrea’s free press and the nation’s independent voices were systematically crushed,” opens the letter.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d38002f0afc8996bbe0265b304c12f18c2d4f628",
-      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-18T07:14:57.000Z",
-      "summary_90w": "",
-      "raw": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
       "topics": [
         "World"
       ]
@@ -1186,19 +1264,6 @@
       ]
     },
     {
-      "id": "e788421bd4775bb3299e5fe792a11060291067c3",
-      "title": "Zara Larsson criticises White House for using her song in deportation video",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-18T01:20:33.000Z",
-      "summary_90w": "",
-      "raw": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e199eb5285b52c8e18b1eeba2f5f8495a926d8c7",
       "title": "YouTube star Ms Rachel to match Macklemore’s $1m Palestine aid donation",
       "url": "https://www.theguardian.com/culture/2026/sep/17/ms-rachel-macklemore-palestine-donation",
@@ -1251,19 +1316,6 @@
       ]
     },
     {
-      "id": "86e0dd7089ea54e432b627ba467e5e7f086c506b",
-      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal",
-      "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-18T00:02:36.000Z",
-      "summary_90w": "",
-      "raw": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "5cbc176f4ce7055c7b9279917ec623e0de1ade33",
       "title": "'Complete despair': Afghan female medical students fear being sent home from Pakistan",
       "url": "https://www.bbc.co.uk/news/articles/cmy0z3kez6xno?at_medium=RSS&at_campaign=rss",
@@ -1290,19 +1342,6 @@
       ]
     },
     {
-      "id": "ddc3e4450e0bc5ba1387fcd9f10c96958f20127c",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-17T23:25:52.000Z",
-      "summary_90w": "",
-      "raw": "The round values the data center giant at $30.9 billion.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "95d346ca7303c35fa71d4707226e03f419419179",
       "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
       "url": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
@@ -1326,45 +1365,6 @@
       "raw": "The military and government say the risk of conflict is growing, but we may not be mentally ready for it",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "2b6047d138bfdd63a38a0d8b0eb09c4b35a65cd3",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-17T23:21:17.000Z",
-      "summary_90w": "",
-      "raw": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "af44b5d89e6df48fe8e5b1d9d2c8a2541db1114e",
-      "title": "New wild cat species discovered - with only one known living member",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-17T23:15:55.000Z",
-      "summary_90w": "",
-      "raw": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7062d9ab536be4eb628d5678fc3228187e78a787",
-      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
-      "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-17T23:08:24.000Z",
-      "summary_90w": "",
-      "raw": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1719,19 +1719,6 @@
       ]
     },
     {
-      "id": "510d0c9e75a31e7a0bf6cddf99306334db2c4b7d",
-      "title": "The Fed raises interest rates for the first time in over three years",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-09-16T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Federal Reserve raised its benchmark interest rate Wednesday to combat stubborn inflation. That will make it more expensive to borrow money to buy a car or carry a balance on a credit card.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
       "id": "b7b4d2d7f922ab515d02ae1d987156c7e2f7bdb9",
       "title": "When students attend these colleges, taxpayers often pay. Here's why",
       "url": "https://www.npr.org/2026/09/16/nx-s1-5946419/student-loans-repayment-for-profit-college",
@@ -1753,19 +1740,6 @@
       "published": "2026-09-16T08:41:44.000Z",
       "summary_90w": "",
       "raw": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f9466bf52f4c9853088d26860cd5315e5146fb29",
-      "title": "Runaway horse captured by police on motorbikes",
-      "url": "https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-16T05:57:23.000Z",
-      "summary_90w": "",
-      "raw": "The unharmed horse escaped from its owner before the start of a parade in New Mexico",
       "topics": [
         "World"
       ]
@@ -1807,45 +1781,6 @@
       "raw": "What should children learn in a world transformed by artificial intelligence?",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "1e5e15ecd6e26f8b17c3dd0a05b590b7bdce67d0",
-      "title": "What weapon could the US have put into space?",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-15T14:23:14.000Z",
-      "summary_90w": "",
-      "raw": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "53e6bbc1b890ec9e8e032ebef8a4b0410ee9202d",
-      "title": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
-      "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-15T14:21:14.000Z",
-      "summary_90w": "",
-      "raw": "Experts tell BBC Verify the pipeline's closure could cut oil supplies by as much as 3.6 million barrels per day.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9e7024bf93e4a30a5ac1cc029b749a9b7a2d81ad",
-      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
-      "url": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-15T05:01:46.000Z",
-      "summary_90w": "",
-      "raw": "The state post service delivers pensions, medicine and letters to people just miles from the front.",
-      "topics": [
-        "World"
       ]
     },
     {
