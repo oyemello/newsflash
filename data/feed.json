@@ -1,16 +1,575 @@
 {
-  "version": "1790699625680",
-  "generatedAt": "2026-09-29T16:33:45.680Z",
+  "version": "1790715725512",
+  "generatedAt": "2026-09-29T21:02:05.512Z",
   "items": [
+    {
+      "id": "b4420c3061bb64a19f8f4e80c271632315c665d7",
+      "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+      "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-29T20:50:43.000Z",
+      "summary_90w": "",
+      "raw": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e755f49ea1f5f95c062da53eba4c689fe004442b",
+      "title": "Trump rules out joint US-China venture to develop AI",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-29T20:24:18.000Z",
+      "summary_90w": "",
+      "raw": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6421ca855574f79a50e3bb16b4917f409a122548",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-29T20:15:47.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "158d137d532cb4e37333d6e60ef83f7ae96a6bdb",
+      "title": "Journalist crowned king in Uganda after bitter succession dispute",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-29T20:09:27.000Z",
+      "summary_90w": "",
+      "raw": "Kijanangoma has been crowned amid a dispute over a young heir whom the royal clan does not recognise.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2e5767c96054678d4811f4b158dcdbb003bcc104",
+      "title": "Three teenagers die after car enters River Wear",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5zxeq5dl3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-29T20:01:45.000Z",
+      "summary_90w": "",
+      "raw": "The bodies of two teenage boys and a teenage girl have been recovered from the water, police say.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0619d62e5d828147cbec6b1d53e738e1e51d8e66",
+      "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
+      "url": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-29T19:58:58.000Z",
+      "summary_90w": "",
+      "raw": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e694f7b6caccd3afa410008146d98f84f5b956ee",
+      "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-29T19:54:07.000Z",
+      "summary_90w": "",
+      "raw": "Detectives are entering a vital stage of the investigation, with a number of options still open, the BBC's Daniel Sandford writes.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "943491695bf72b003d20980c603afbaa3d9bfb5d",
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-29T19:52:37.000Z",
+      "summary_90w": "",
+      "raw": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b544b5268733035716b5b538e8c33c095cf989b7",
+      "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
+      "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-29T19:50:58.000Z",
+      "summary_90w": "",
+      "raw": "Police say the decision to release five men on bail is one \"grounded in experience and strategy\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "441344a2babe605cd8e62463212e591b1514d50f",
+      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-29T19:36:41.000Z",
+      "summary_90w": "",
+      "raw": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "22237cad51a85d236f9cf7c48fc7c69fbd4a2442",
+      "title": "The journalist who became king in Uganda",
+      "url": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-29T19:35:19.000Z",
+      "summary_90w": "",
+      "raw": "Edward Rukidi Nyabongo I has been crowned king of Tooro in a ceremony attended by Uganda's President Museveni.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "490754c33ab02f220f5288ee62172bd191f5b8d0",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-09-29T19:30:00.000Z",
+      "summary_90w": "",
+      "raw": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "73aadc58464bd5467c70d4dbbe8c930bc69660cc",
+      "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
+      "url": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-29T19:19:37.000Z",
+      "summary_90w": "",
+      "raw": "The Supreme Court allowed the Trump administration to resume deportations of migrants to countries that are not identified in their removal orders. It also plans to hear full arguments on the case.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "079a25e8596ff86278dbd96f52d8450f7168bec8",
+      "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+      "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-09-29T19:17:43.000Z",
+      "summary_90w": "",
+      "raw": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "31bc95de6274def48c3f336c16e91bcc9885bac6",
+      "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
+      "url": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-29T19:13:14.000Z",
+      "summary_90w": "",
+      "raw": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1d4e4d47c7d3224bbed68b74de9165a0f4fa1174",
+      "title": "Soho House venue under investigation for food safety",
+      "url": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-29T19:10:06.000Z",
+      "summary_90w": "",
+      "raw": "A former chef contacted Hackney Council after complaining to managers at the members' club.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0bcc431eb8e7e1b11cc5df2012d3cf07babba16b",
+      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+      "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-29T18:48:03.000Z",
+      "summary_90w": "",
+      "raw": "Disrupt doesn’t end when you leave Moscone West. 👀\n\nFounder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week.\n\nSee what’s happening, find your people, and start building your calendar.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "66cf3fca4ff1585ed7af69a35fe9a5a70ce9d6c0",
+      "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
+      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-29T18:45:00.000Z",
+      "summary_90w": "",
+      "raw": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "447bf1aab0079f2b39adce1b711acb87567cdfd1",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-29T18:35:00.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "topics": [
+        "Technology"
+      ]
+    },
     {
       "id": "eb89ead0586ae23f601a9b751c66c3b5b7bf8c68",
       "title": "Man City guilty of 'sham' contracts and misleading accounts",
       "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-09-29T16:26:47.000Z",
+      "published": "2026-09-29T18:12:33.000Z",
       "summary_90w": "",
       "raw": "The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c2ea9e9c61c534099a4e90ac33b055c09a203232",
+      "title": "Lindsay Clancy's lawyer now questions whether she killed her 3 children",
+      "url": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-29T18:00:50.000Z",
+      "summary_90w": "",
+      "raw": "Lindsay Clancy's lawyer is arguing that there wasn't enough evidence to prove she killed her three children. It's a striking turn after a lengthy trial that focused more on her mental state than on whether she took their lives.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2354848b838aeddfc46f1b39a79b5335e0fd78dc",
+      "title": "New York Times executive fatally shot by elderly in-laws, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-29T17:48:08.000Z",
+      "summary_90w": "",
+      "raw": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b6f078daefc5deb8e813bd344d79cd05d290cd65",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-29T17:45:51.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9bf441aa06418f91dfaa49753d6b7211d17509bc",
+      "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
+      "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-29T17:39:06.000Z",
+      "summary_90w": "",
+      "raw": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1ec33cd4591ab112a7176414dc8285d2e49d6fe4",
+      "title": "Prince William and Catherine's surprise visit to Kevin Sinfield's charity run",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdv7x5r8e1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-29T17:35:43.000Z",
+      "summary_90w": "",
+      "raw": "The rugby league star is on the third day of his endurance challenge to raise funds for Motor Neurone Disease charities.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5726e15c5cb807bafd83d6cbefe5a9785809a317",
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-29T17:35:03.000Z",
+      "summary_90w": "",
+      "raw": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' capabilities and motivations, collected and launched the interviews on frominside.ai. \nSeveral of the researchers joined Irving in warning about the possibility AI could drive humans extinct. Neel Nanda, a Google DeepMind research scientist, said there's \"at least a 10 percent chance that it causes human e …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3215cc5212c0ab8f8c028ec3301e33e5f44b2cd7",
+      "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
+      "url": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-09-29T17:31:30.000Z",
+      "summary_90w": "",
+      "raw": "Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "cbc20ec61d8d4369febcc5fcd941ec3ae633545b",
+      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+      "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-29T17:27:09.000Z",
+      "summary_90w": "",
+      "raw": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7880523c2dd78f58035849342ce191cea9886542",
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-29T17:20:00.000Z",
+      "summary_90w": "",
+      "raw": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "5f7055a3afc3b92a9cd7788e9cade47bdbdac3aa",
+      "title": "Razer’s low-latency wireless gaming keyboard is almost half off",
+      "url": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-29T17:19:07.000Z",
+      "summary_90w": "",
+      "raw": "Razer’s DeathStalker V2 Pro is discounted in both black and white. | Image: The Verge\t\n\nWoot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireless connection, and low-profile linear optical switches for faster activations that require a lighter touch than regular mechanical switches. The TKL layout cuts the numpad, but affords you more desk space for your mouse.\nRazer DeathStalker V2 Pro TKL\n\nWhere to Buy:\n\n $219.99 $129.99 at Woot\n\nRazer claims the battery will last up to 200 hours with the RGB lighting off, or up to 50 hours with the lights at half brightness. If you’re interested in staying wired, or using the keyboard wirelessly with other devices, it has both USB-C and Bluetooth connectivity. You can also enable Snap Tap (Razer’s term for Simultaneous Opposing Cardinal Directions, or SOCD), which lets you quickly swap between two keys for strafing in first person shooters, for example, although it’s worth nothing that Valve has banned the tech in Counter-Strike 2.\nOther deals to consider\nThe remastered version of The Witcher 3: The Wild Hunt just released, and a number of retailers are celebrating with discounts. While the list price is $49.99, PC gamers can grab the game for $24.99 at Steam, GOG, and Epic Games, with discounts available for the Xbox and PlayStation versions as well. The remastered version includes visual upgrades, tweaks to progression and skills, and both DLC entries: Hearts of Stone and Blood and Wine.\nBest Buy has the third-generation Amazon Fire TV Cube discounted to $89.99, just over half off its usual price of $199.99. This square streamer supports 4K video with Dolby Vision and HDR, Dolby Atmos audio, and hands-free Alexa controls. With a processor that Amazon claims is twice as powerful as the Fire TV Stick 4K Max, it’s also a great option for Xbox Cloud Gaming.\nCostco members can grab the Fellow Stagg EKG electric kettle for $99.99, a $30 discount from the usual price. I use this gooseneck kettle for my morning espresso, and I’m constantly impressed by its excellent temperature control and quick heating, and it adds a stylish touch to my coffee station.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "572dce99347eb8d444446d5270b2c3295cf96632",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-29T17:17:15.000Z",
+      "summary_90w": "",
+      "raw": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6c23dfafec5e9b98ffc020666726328cf13b04be",
+      "title": "Oura pulls $15bn stock market listing days after announcement",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-09-29T17:17:07.000Z",
+      "summary_90w": "",
+      "raw": "The wearable technology company had been expected to list its shares in the US.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "35665d80d856d9fca32cb45805ea29906e448a9a",
+      "title": "Potential Taiwan tension sparked 'last minute' change in Trump-Xi National Archives visit",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-29T17:17:04.000Z",
+      "summary_90w": "",
+      "raw": "The sudden change was precipitated because of Chinese displeasure over one document that the U.S. had planned to show.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e277d681e1977582ca1b5f3d2fb7f46d9c8405a9",
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-29T17:15:00.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e2bf069c3bf035a26aa8ea9ee026d3cb6dbf02da",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-29T17:15:00.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7562a874344958009e763eb85792bdb0a3c2b0d5",
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-29T17:15:00.000Z",
+      "summary_90w": "",
+      "raw": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t\n\nOpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time.\nThe company's capable GPT-6 Astra model powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interface that's similar to the one offered by Muse, as well as hop on a voice call with it from ChatGPT on the web, desktop, or mobile. Dots ca …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "914354df00745e7d0874b7b9f1eb754ac2f6b117",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-29T17:15:00.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a6d35284813b7c7fb293f33915f881087437598b",
+      "title": "First female prime minister named in Morocco after winning elections",
+      "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-29T17:14:10.000Z",
+      "summary_90w": "",
+      "raw": "Her appointment by the king makes her only the second woman to lead a government in the Arab world.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "13cfd55ec784162d91a8642499ec0029147226b4",
+      "title": "Protesters gather at OpenAI’s DevDay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-29T17:12:27.000Z",
+      "summary_90w": "",
+      "raw": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" \nMore than a dozen organizations came together to sponsor a rally outside the entrance to the event venue at San Francisco's Fort Mason, including Bay Resistance, Tech Workers Coalition, Service Employees International Union, San Francisco Rising, and the San Francisco Labor Council. A large orange sign read \"Drop the ICE contract.\" Multiple people dressed in cardboard robot costumes waved cardbo …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2d89763130e70932ec8b0d90d420cef92d2175b8",
+      "title": "This startup wants to prove gene-editing embryos is safe for making healthy babies",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5950439/embryo-gene-editing-babies-biotech",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-09-29T17:00:08.000Z",
+      "summary_90w": "",
+      "raw": "Origin Genomics aims to prove that the potential benefits of its technology for editing disease-causing genes in human embryos outweigh the risks.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "98bd9e3b255b590d33fb4d343f6e413790e2aa53",
+      "title": "Eiffel Tower chief to quit after female staff replaced by men during religious visit",
+      "url": "https://www.bbc.co.uk/news/articles/crn8e069v7p7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-29T16:56:50.000Z",
+      "summary_90w": "",
+      "raw": "The company that runs the Eiffel Tower said the removal of female staff during the visit earlier this month was \"unacceptable\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d012ac1e215ca72ebf31b9e6a306496c26928fb7",
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-09-29T16:55:56.000Z",
+      "summary_90w": "",
+      "raw": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "475b0aa9d2698da682cf48f9d0327f32c5d59942",
+      "title": "Saudi Arabia urged to reconcile with UAE to drive back Houthi separatists in Yemen",
+      "url": "https://www.theguardian.com/world/2026/sep/29/saudi-arabia-urged-to-reconcile-with-uae-to-drive-back-houthi-separatists-in-yemen",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-09-29T16:52:37.000Z",
+      "summary_90w": "",
+      "raw": "Relations between two countries soured in January when a UAE-backed force was defeated by Saudis\nSaudi Arabia is being urged to reconcile with the United Arab Emirates over Yemen as the price Riyadh must pay to form a military alliance capable of driving the Houthis back.\nRelations between the UAE and Saudi Arabia in Yemen, where both had backed anti-Houthi forces, plummeted in January this year when a force with which the UAE had been aligned – the separatist Southern Transitional Council (STC) – was attacked and defeated by Saudi Arabia in a move intended to squash its attempt to recreate a separate southern state. The UAE subsequently in effect quit Yemen.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8fad0e89c24d2aa2c562043625f88a5e4a446797",
+      "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
+      "url": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-09-29T16:43:39.000Z",
+      "summary_90w": "",
+      "raw": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that.",
       "topics": [
         "World"
       ]
@@ -29,6 +588,19 @@
       ]
     },
     {
+      "id": "187b2e4ab7d9c09c0f2a1621721032d6ced0ace3",
+      "title": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
+      "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-09-29T16:17:01.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every original achievement for a game.\n\"Mythic Achievements have already been added to eligible games you completed in the past, including Xbox 360 titles,\" says the Xbox team. \"The next time you visit your profile, you may discover that some of your favorite games have already reached Mythic status.\"\nXbox profiles will soon include a new gaming tab that lets you track Gamerscore milestones and Mythic A …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
       "id": "d7d359db17c48aa7e758c526528e3bba05f602e1",
       "title": "Apple&#8217;s new CEO could change when it launches phones and laptops",
       "url": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
@@ -39,19 +611,6 @@
       "raw": "John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and the spring, according to a Bloomberg report detailing some of Ternus's initial plans for the company.\nApple regularly holds iPhone launch events in September and often announces products later in the year and in springtime, but \"Ternus has indicated that Apple must introduce products more quickly and become more experimental to remain competitive in the artificial intelligence era,\" Bloomberg says. The shift may not happen right away given Apple's \"long-established\" development practices. Apple is rumored to have a consider …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "e755f49ea1f5f95c062da53eba4c689fe004442b",
-      "title": "Trump rules out joint US-China venture to develop AI",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-29T16:09:26.000Z",
-      "summary_90w": "",
-      "raw": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -101,7 +660,7 @@
       "source_name": "The Verge",
       "published": "2026-09-29T16:00:00.000Z",
       "summary_90w": "",
-      "raw": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman. The company is teasing “20+ launches” with Altman saying that “we have found a new thing,”, and rumors suggest it could launch a consumer AI agent to rival Meta’s Muse. The keynote begins at 1PM ET / 10AM ET, and you can watch it on OpenAI’s website here.\nDevDay is happening at a tumultuous moment for OpenAI. The AI industry has been rocked by revelations of agents hacking outside companies, including OpenAI’s own models, which breached Hugging Face earlier this year. The hacks kicked off a broader conversation about a potential AI development slowdown. So in addition to new products, Altman and others at OpenAI could use DevDay to discuss the company’s latest stance on AI safety as well.\nYou can follow all of our coverage of DevDay 2026 right here.\nOpenAI’s AI agents need to catch up\n\t\t\t\nOpenAI’s DevDay 2026 has a date.",
+      "raw": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta’s recently-launched Muse. However, unlike Muse, which is available for free, Dots will initially be available to paid subscribers of ChatGPT Pro, Business Premium, and Enterprise. The company also revealed its GPT-6.1 Sol model, said that ChatGPT now has 1.2 billion users per week, and announced a new ChatGPT Pro plan that costs $500 per month.\nDevDay is happening at a tumultuous moment for OpenAI. The AI industry has been rocked by revelations of agents hacking outside companies, including OpenAI’s own models, which breached Hugging Face earlier this year. The hacks kicked off a broader conversation about a potential AI development slowdown.\nYou can follow all of our coverage of DevDay 2026 right here.\n\n\n\t\t\t\t\t\nChatGPT now has 1.2 billion weekly users, OpenAI says.\n\t\t\t\nOpenAI launches Dots, its Muse competitor\n\t\t\t\nOpenAI is adding a $500 / month ChatGPT Pro tier.\n\t\t\t\nProtesters gather at OpenAI’s DevDay\n\t\t\t\nOpenAI’s AI agents need to catch up\n\t\t\t\nOpenAI’s DevDay 2026 has a date.",
       "topics": [
         "Technology"
       ]
@@ -211,19 +770,6 @@
       ]
     },
     {
-      "id": "469223badc709f70bcf3865c9715b1db03bcb7e7",
-      "title": "Burnham says public body will invest in electricity grid",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-29T15:14:39.000Z",
-      "summary_90w": "",
-      "raw": "The prime minister said he wants to reduce energy costs in his first conference speech as Labour leader.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8be5080985a2f61efd891ae9122205f31dca5d19",
       "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
       "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
@@ -296,7 +842,7 @@
       "source_name": "World news | The Guardian",
       "published": "2026-09-29T15:00:53.000Z",
       "summary_90w": "",
-      "raw": "No excuses for next leader of party, Adam Bandt says, while Bob Brown warns they must also be able to take on Pauline Hanson and One Nation\n\nGet our breaking news email, free app or daily news podcast\n\nThe former Greens leader Adam Bandt says the party’s new leadership team, which could be chosen as early as today, will face mounting pressure from grassroots members to block the Labor government from approving any new coal and gas projects “by whatever means”.\nHe told Guardian Australia there would be no excuses for the new leader, likely to be elected at a two-day retreat in Sydney which begins today, to allow the Albanese government to approve any new fossil fuel development.\n Continue reading...",
+      "raw": "No excuses for next leader of party, Adam Bandt says, while Bob Brown warns they must also be able to take on Pauline Hanson and One Nation\n\nGet our new political email, free app or daily news podcast\n\nThe former Greens leader Adam Bandt says the party’s new leadership team, which could be chosen as early as today, will face mounting pressure from grassroots members to block the Labor government from approving any new coal and gas projects “by whatever means”.\nHe told Guardian Australia there would be no excuses for the new leader, likely to be elected at a two-day retreat in Sydney which begins today, to allow the Albanese government to approve any new fossil fuel development.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -316,7 +862,7 @@
     },
     {
       "id": "6d9b6862c126238890f18ce7bfe4ae012b6f02c0",
-      "title": "Oura shelves its $2.2B IPO citing ‘uncertainty’ in the market",
+      "title": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
       "url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -331,7 +877,7 @@
       "id": "bc1e1e027492fec0657b51b874c51fd2b7ffa3a3",
       "title": "Nigerian dances non-stop for seven days in world record bid",
       "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-09-29T14:50:09.000Z",
       "summary_90w": "",
@@ -445,32 +991,6 @@
       ]
     },
     {
-      "id": "7fd55519807dce1a05953c8d99d7ba6bc198e63b",
-      "title": "SteelSeries’ new mice are super light, with ultra-wideband and swappable batteries",
-      "url": "https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-29T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Each mouse is available in black, too. | Image: SteelSeries\t\n\nThe new ergonomic Rival Pro and ambidextrous Sensei Pro wireless gaming mice are some of the company's most interesting models in years. They're familiar designs that feel incredibly lightweight to hold (53 grams each in black, one gram more in white), and they ship with two signature SteelSeries features found in its other product categories: swappable batteries and a wireless base station to pair to.\nThe circular batteries are easy to use, unlocking and locking in place in the mouse and base station. The station can keep a spare charged - and you might need it sooner than you think, as each battery is rated to last for 16 hours in the 8,0 …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "a766e55195e3dcafb4bdfaa7a8c0a906098d6012",
-      "title": "The best early October Prime Day deals happening now",
-      "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-29T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT).\nOctober Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays.\nThis post will be updated multiple times ahead of October 6th as new deals become available.\nRing Battery Doorbell 2K\nAt more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C.\n\nWhere to Buy:\n\n $99.99 $39.99 at Amazon\n $99.99 $39.99 at Best Buy\n\nBissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner\nBissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range.\n\nWhere to Buy:\n\n $279.99 $209.99 at Amazon\n $279.99 $209.99 at Bissell\n\nRing Floodlight Cam 2K\nThis model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it.\n\nWhere to Buy:\n\n $199.99 $99.99 at Amazon\n\nRing Battery Doorbell 4K Pro\nThe highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges.\n\nWhere to Buy:\n\n $249.99 $149.99 at Amazon\n $249.99 $149.99 at Best Buy\n\nAmazon Fire HD 8 tablet\nThe eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it.\n\nWhere to Buy:\n\n $129.99 $79.99 at Amazon (4GB RAM, 64GB)\n $99.99 $54.99 at Best Buy (3GB RAM, 32GB)\n\nEcovacs Deebot X12 OmniCyclone\nThe X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs.\n\nWhere to Buy:\n\n $1499.99 $799 at Amazon\n $1499.99 $841.99 at Best Buy\n $1499.99 $842 at Ecovacs\n\nBlink Mini pan and tilt camera\nThe panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself.\n\nWhere to Buy:\n\n $39.99 $23.99 at Amazon\n $39.99 $23.99 at Best Buy\n\nAmazon Fire TV Stick 4K Plus\nThe latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus.\n\nWhere to Buy:\n\n $69.99 $37.99 at Amazon\n $69.99 $37.99 at Best Buy\n\nAmazon Fire TV Stick 4K Max (2023, latest model)\nAmazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch.\n\nWhere to Buy:\n\n $84.99 $44.99 at Amazon\n $84.99 $44.99 at Best Buy\n\nAmazon Fire TV Cube (2022, latest model)\nThe hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review.\n\nWhere to Buy:\n\n $199.99 $89.99 at Amazon\n $199.99 $89.99 at Best Buy\n\nAmazon Echo Spot\nAmazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review.\n\nWhere to Buy:\n\n $109.99 $54.99 at Amazon\n $109.99 $54.99 at Best Buy\n $109.99 $54.99 at Target\n\nAmazon Echo Dot Max\nThe Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box.\n\nWhere to Buy:\n\n $119.99 $79.99 at Amazon\n $119.99 $79.99 at Best Buy\n $119.99 $79.99 at Target\n\nAmazon Echo Dot (Fifth-Gen)\nAmazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review.\n\nWhere to Buy:\n\n $79.99 $39.99 at Amazon\n $79.99 $39.99 at Best Buy\n $79.99 $39.99 at Target\n\nAmazon Echo Show 11 (2025)\nThe Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review.\n\nWhere to Buy:\n\n $249.99 $149.99 at Amazon\n $249.99 $149.99 at Best Buy\n $249.99 $149.99 at Target\n\nAmazon Echo Show 15\nThe new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices.\n\nWhere to Buy:\n\n $349.99 $249.99 at Amazon\n $349.99 $249.99 at Best Buy\n $349.99 $249.99 at Target\n\nEero Pro 6E tri-band router\nEero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review.\n\nWhere to Buy:\n\n $199.99 $149.99 at Amazon (single pack)\n $499.99 $374.99 at Best Buy (three-pack)\n $499.99 $374.99 at Amazon (three-pack)\n\nSamsung 32-inch Movingstyle smart display\nSimilar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery.\n\nWhere to Buy:\n\n $699.99 $499.99 at Amazon\n\nDreame X50 Ultra\nWith high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid.\n\nWhere to Buy:\n\n $1099.99 $899.99 at Amazon (for Prime members)\n $1099.99 $849.99 at Dreame (with free account)",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "08e650677bc1683462a4543f93060fa85e80ca67",
       "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
       "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
@@ -478,7 +998,7 @@
       "source_name": "TechCrunch",
       "published": "2026-09-29T13:53:01.000Z",
       "summary_90w": "",
-      "raw": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
+      "raw": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
       "topics": [
         "Technology"
       ]
@@ -524,52 +1044,13 @@
     },
     {
       "id": "3ad0f7209405214b7bc085fa4eb5e61c56983b7b",
-      "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
+      "title": "Still running iOS 26? Update your iPhones, iPads, and Macs for this urgent security fix",
       "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "published": "2026-09-29T13:25:21.000Z",
       "summary_90w": "",
       "raw": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "158d137d532cb4e37333d6e60ef83f7ae96a6bdb",
-      "title": "Journalist crowned king in Uganda after bitter succession dispute",
-      "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-29T13:24:37.000Z",
-      "summary_90w": "",
-      "raw": "Kijanangoma has been crowned amid a dispute over a young heir whom the royal clan does not recognise.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "441344a2babe605cd8e62463212e591b1514d50f",
-      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-29T13:15:51.000Z",
-      "summary_90w": "",
-      "raw": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b921ee22c0f78b6aa39db1fba8e4a3c2f78d0e49",
-      "title": "Fairphone’s next repairable wireless earbuds will launch on October 14th",
-      "url": "https://www.theverge.com/tech/1001859/fairphone-fairbuds-2-wireless-earbuds-repairable-modular-price-release",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-29T13:11:18.000Z",
-      "summary_90w": "",
-      "raw": "The original Fairphone Fairbuds were some of the first wireless earbuds with replaceable parts. | Image: Fairphone\t\n\nFollowing leaks revealing a major redesign earlier this month and an official teaser posted to X yesterday, Fairphone has shared some exclusive details with The Verge about the first follow-up to its Fairbuds wireless earbuds that debuted over two years ago.\nA full reveal of the Fairbuds 2 is planned for October 14th, but we can confirm the new version will carry forward the same focus on repairability that made the original Fairbuds so unique with \"seven fully replaceable and modular parts.\" The new Fairbuds 2 will also expand their Bluetooth capabilities with added support for Sony's high-resolution and adaptive LDAC codec. The original F …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -588,19 +1069,6 @@
       ]
     },
     {
-      "id": "23cf8784a141f20b62be3c9c69f737844701e3d8",
-      "title": "Rayner announces crackdown on 'cowboy' leasehold property agents",
-      "url": "https://www.bbc.co.uk/news/articles/cjr4vgnq71kpo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-29T13:07:16.000Z",
-      "summary_90w": "",
-      "raw": "The housing secretary used her Labour conference speech to announce protections for leaseholders facing 'injustice'.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f92368dd830680f5a05259112d06c0fce4dad13b",
       "title": "Fireflies adds dictation to its desktop notetaking apps",
       "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
@@ -609,32 +1077,6 @@
       "published": "2026-09-29T13:00:00.000Z",
       "summary_90w": "",
       "raw": "Fireflies said that it won't charge extra for the new dictation feature, which can be used with any desktop app.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "3c9f030694d6115c3a67266bbf7bdee6a67df543",
-      "title": "Firefox just got a redesign with round tabs, new themes, and Compact Mode",
-      "url": "https://www.theverge.com/tech/1001867/mozilla-firefox-157-redesign-compact-mode",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-29T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Firefox will look a little different the next time you launch it - more bubbly, with some new pops of color. The browser's latest update brings a design overhaul to all desktop and mobile users, aimed at modernizing Firefox with bubble-like tabs, a rounded address bar, and refreshed colors, icons, and themes. The desktop and mobile versions of the browser will also now share the same design language. According to Mozilla, the design changes will have \"no cost to your browser performance.\"\nMozilla says the overhauled design is a \"renewal\" for Firefox, following major updates over the last year, like homepage widgets, Split Vie …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "7a5b7b26393e63665fa0d9e83f98275c5c605bc5",
-      "title": "Polaroid’s new instant camera has four creative shooting modes you can experiment with",
-      "url": "https://www.theverge.com/tech/1001587/polaroid-mod-instant-camera-creative-shooting-modes",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-09-29T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Polaroid announced a new instant camera that lets photographers get more creative and experimental with their shots than just changing the aperture or shutter speed. In addition to a Brightness dial on the front for adjusting exposure, the new Polaroid Mod has a dial around the lens for switching between four \"creative shooting modes\" with unique analog effects that are all captured in-camera. The Polaroid Mod is launching globally starting today for $169.99 through Polaroid's online store and will be available from other US retailers on October 6th.\nTwo of the modes combine multiple exposures into one image using a simple process that invo …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -650,19 +1092,6 @@
       "raw": "The body of the newborn was found near Siliwen Road near the Menai Strait on Sunday.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "617867c64b2ecae64a7e934c648b125e25efc0d5",
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-29T12:45:05.000Z",
-      "summary_90w": "",
-      "raw": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -689,19 +1118,6 @@
       "raw": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "7c2570d9f8b665796f8531f1dc04931f314bfca0",
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-29T12:30:00.000Z",
-      "summary_90w": "",
-      "raw": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -739,32 +1155,6 @@
       "published": "2026-09-29T11:36:24.000Z",
       "summary_90w": "",
       "raw": "The Trump administration has weakened fuel efficiency standards for new cars. And, prosecutors have reopened a Cornell University fraternity rape case.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "0329bb10de81e4ab8f282098549080ead46702b8",
-      "title": "Snooker champion Graeme Dott jailed for seven years for child sex abuse",
-      "url": "https://www.bbc.co.uk/news/articles/cv4g514pldgwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-29T11:21:41.000Z",
-      "summary_90w": "",
-      "raw": "The 49-year-old was found guilty of two charges of lewd and libidinous behaviour towards a girl and a boy between 1993 and 2010.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c520e7621091a9f8db6146aea6d551d5d22d039d",
-      "title": "Daniel Sandford on what's next in the RAF Fairford investigation",
-      "url": "https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-29T11:20:02.000Z",
-      "summary_90w": "",
-      "raw": "BBC correspondent Daniel Sandford explains where the investigation goes from here.",
       "topics": [
         "World"
       ]
@@ -809,68 +1199,16 @@
       ]
     },
     {
-      "id": "07f0426e0de8100ff214404705e104805469a217",
-      "title": "Celine Dion kicks off Paris Fashion Week with surprise performance ",
-      "url": "https://www.bbc.co.uk/news/articles/cj207qk472zpo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-29T10:20:14.000Z",
-      "summary_90w": "",
-      "raw": "The singer appeared at the end of L'Oreal's annual show as the French fashion bonanza kicked off.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b51562ac859e419c7c8bf163eeef009f1cb9300f",
-      "title": "Watch: 'Ship buster' missiles sink old US warship in live fire training off Scotland",
-      "url": "https://www.bbc.co.uk/news/articles/cmly40r3pkqxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-29T10:03:25.000Z",
-      "summary_90w": "",
-      "raw": "The 43-year-old decommissioned frigate was used for target practice off the Outer Hebrides.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "875e29a81c0fba128d744f8cb02358677d05a747",
-      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-      "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-29T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "bc8d78bfb3b1560be479561c2f1ba55a334b7f80",
-      "title": "What is the triple lock and why are people talking about it?",
-      "url": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-29T09:42:10.000Z",
-      "summary_90w": "",
-      "raw": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "fb9c5ac6a0fce181e07a53dd44d7b509bee1ce31",
       "title": "OpenAI scraps rollout of new model over safety concerns",
       "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2026-09-29T09:14:13.000Z",
       "summary_90w": "",
       "raw": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -900,19 +1238,6 @@
       ]
     },
     {
-      "id": "ec49bd497dc63724df8a3b0c444018a670862c70",
-      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-      "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-29T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "4253bc0e2def832222d1bef57f0e16a31d412338",
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/09/29/nx-s1-5979951/morning-news-brief",
@@ -926,29 +1251,16 @@
       ]
     },
     {
-      "id": "e8776cc3e65a2477db2cef7d535f74bde121c724",
-      "title": "Trump administration says it's scaling back fuel efficiency standards for new cars",
-      "url": "https://www.npr.org/2026/09/29/nx-s1-5983673/trump-administration-says-its-scaling-back-fuel-efficiency-standards-for-new-cars",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-09-29T08:46:49.000Z",
-      "summary_90w": "",
-      "raw": "The Trump administration is weakening Biden-era fuel efficiency standards for new cars and trucks.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ac8fa11c7be31780911c79766e0b5bc2c118308c",
       "title": "Democrat Pete Buttigieg criticizes Trump's rollback of fuel-economy standards",
       "url": "https://www.npr.org/2026/09/29/nx-s1-5983537/pete-buttigieg-reaction-trump-fuel-economy-standards-rollback",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-09-29T08:46:41.000Z",
       "summary_90w": "",
       "raw": "The former transportation secretary says weaker fuel-economy standards could raise long-term costs for drivers and leave U.S. automakers further behind China.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -968,13 +1280,13 @@
       "id": "1d477e7a286e8a59663e63448e1d3c8113a95ef9",
       "title": "News organizations ask court to bar White House enforcement of access ban",
       "url": "https://www.npr.org/2026/09/29/nx-s1-5984349/news-organizations-court-white-house-ban",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-09-29T08:13:11.000Z",
       "summary_90w": "",
       "raw": "Three news outlets that President Trump banished from White House grounds asked a federal court to block the ban until the case is resolved.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -1007,13 +1319,13 @@
       "id": "e7c93f17feb9aff7b8ca6af556a48d90b40626d7",
       "title": "OpenAI delays latest model over security concerns, as industry faces pressure",
       "url": "https://www.npr.org/2026/09/29/nx-s1-5984342/openai-delays-latest-model",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2026-09-29T06:34:43.000Z",
       "summary_90w": "",
       "raw": "OpenAI's decision to hold back the model, called GPT-6.1 Astra, comes amid a broader push within the industry to slow the development of increasingly autonomous systems until safety measures catch up.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -1030,40 +1342,27 @@
       ]
     },
     {
-      "id": "a54b0644eac77f891a20123fe0015d696d320535",
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-29T05:13:43.000Z",
-      "summary_90w": "",
-      "raw": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "2354848b838aeddfc46f1b39a79b5335e0fd78dc",
-      "title": "New York Times executive fatally shot by elderly in-laws, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "id": "10b405488c1184d76206641ebbb2569cd08adff4",
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration ",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2026-09-29T04:06:43.000Z",
+      "published": "2026-09-29T03:50:40.000Z",
       "summary_90w": "",
-      "raw": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+      "raw": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
       "topics": [
         "World"
       ]
     },
     {
-      "id": "10b405488c1184d76206641ebbb2569cd08adff4",
-      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration ",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+      "id": "6112be59b5e82bea2cbe13ab145d33f8de8c7525",
+      "title": "Blue Lights: The police drama hitting home in Northern Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/c6grvpppvw5eo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-09-29T03:50:40.000Z",
+      "published": "2026-09-29T03:24:39.000Z",
       "summary_90w": "",
-      "raw": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+      "raw": "As the award winning series returns, it highlights tensions between police and communities in Northern Ireland.",
       "topics": [
         "World"
       ]
@@ -1121,45 +1420,6 @@
       ]
     },
     {
-      "id": "b9ef252a9e2dfa5613b01d6821f96e0acb7f14a5",
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-29T00:30:00.000Z",
-      "summary_90w": "",
-      "raw": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "220dea2c55f4850630d6afeb60799efd7dab83b9",
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-28T23:39:20.000Z",
-      "summary_90w": "",
-      "raw": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "59cf86a3e2e0dc062bc44cc4cfe26471e5b47b07",
-      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
-      "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-28T22:58:35.000Z",
-      "summary_90w": "",
-      "raw": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "3bab7710f12279915a7fc04ddcb170bc89b9371c",
       "title": "AI has sparked anxiety, earlier generations showed us ways to manage our fears",
       "url": "https://www.npr.org/2026/09/28/nx-s1-5970031/ai-has-sparked-anxiety-earlier-generations-showed-us-ways-to-manage-our-fears",
@@ -1199,71 +1459,6 @@
       ]
     },
     {
-      "id": "a84e841eac253bfe23bfffe08ad1e80aecb65156",
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-28T21:29:18.000Z",
-      "summary_90w": "",
-      "raw": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "2f5ef06215656984c76556ba6229393c543f8f66",
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-28T20:39:33.000Z",
-      "summary_90w": "",
-      "raw": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "07c0d45eeffaeb7f18e11e40ce70812fe368003d",
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-28T19:33:57.000Z",
-      "summary_90w": "",
-      "raw": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "940ae6c6d08e397ee1877550a3befcb1fbd34849",
-      "title": "Tesla delays Roadster 2 event again due to bad weather",
-      "url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-28T19:27:27.000Z",
-      "summary_90w": "",
-      "raw": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "82272e48cc17e1a101bae770c59b735aa2c13c18",
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-09-28T19:21:59.000Z",
-      "summary_90w": "",
-      "raw": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "40c2542b6951062a895432875c4c0a32f16bac6e",
       "title": "The Frenemy: How Australia navigates superpower rivalry",
       "url": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
@@ -1272,32 +1467,6 @@
       "published": "2026-09-28T18:37:15.000Z",
       "summary_90w": "",
       "raw": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "19c83ca53546c53051bbe24391ee929482d29412",
-      "title": "People escape historic Kyiv building hit by Russian drone",
-      "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-28T17:04:14.000Z",
-      "summary_90w": "",
-      "raw": "The BBC's Paul Adams reports from the scene of the strike on Ukraine's National Academy of Sciences.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "778bf6319ab823f8728ff4281725d4404dd20bc4",
-      "title": "Women protest in the streets of Delhi after string of sexual assaults",
-      "url": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-09-28T16:15:57.000Z",
-      "summary_90w": "",
-      "raw": "BBC correspondent Azadeh Moshiri reports from Delhi, where hundreds of women are protesting.",
       "topics": [
         "World"
       ]
@@ -1480,19 +1649,6 @@
       "published": "2026-09-27T22:59:25.000Z",
       "summary_90w": "",
       "raw": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists\nHurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, flash flooding and strong winds persisted in areas of the island chain still recovering from previous storms.\nNolo was about 365 miles (585km) south-south-west of Honolulu and moving away from the Big Island at about 12mph (19km/h). But the Hawaii county civil defense agency said a high wind warning, wind advisory and high surf advisory remained in effect for parts of the island through Sunday evening as Nolo’s maximum sustained winds rose to 115mph.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f7656d113ba5c19592b865bb753bfa054835e49a",
-      "title": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-09-27T16:28:05.000Z",
-      "summary_90w": "",
-      "raw": "Waltz says Trump rejected Iran’s proposal to end war because they ‘were asking for everything up front’\nThe Trump administration’s ambassador to the United Nations said the US rejected Iran’s proposal to end the ongoing war there because Iranian negotiators “were asking for everything up front”.\nEchoing comments by Donald Trump on Saturday, the president’s UN ambassador, Mike Waltz, told CNN’s State of the Union on Sunday that Iran had asked for relief “from billions and billions of sanctions that are going into place” as part of an economic blockade on Iran. The blockade is aimed at putting pressure on Iran to stop its attacks ‌on vessels in the strait of Hormuz.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1849,32 +2005,6 @@
       ]
     },
     {
-      "id": "4396628679361642a230c7e3a23a502afb2afcdd",
-      "title": "FBI investigating claim hackers have stolen details of all its agents",
-      "url": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-09-24T12:23:52.000Z",
-      "summary_90w": "",
-      "raw": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "32b490608efb78123c92fc31ed05619fc8366b82",
-      "title": "Are we back in big tech's 'move fast and break things' era?",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-09-24T11:29:20.000Z",
-      "summary_90w": "",
-      "raw": "Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "3f20824066d1de0afddc2d7d41ff368092c08965",
       "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
       "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
@@ -1911,19 +2041,6 @@
       "raw": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "74f05b93bc0ec014532dfb8dc522602aadd168cd",
-      "title": "Breast Cancer Scandal: Exposing the Harm",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0031nqw?at_mid=WpKygoRCT9&at_campaign=Breast_Cancer_Scandal_Exposing_the_Harm&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0031nqw&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Breast_Cancer_Scandal_Exposing_the_Harm&at_bbc_team=BBC&at_creation=News",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-17T23:01:00.000Z",
-      "summary_90w": "",
-      "raw": "BBC Health correspondent Sharon Barbour investigates a deepening breast cancer scandal.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1974,19 +2091,6 @@
       "published": "2026-09-05T01:00:18.000Z",
       "summary_90w": "",
       "raw": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "7a1c0e80d3c17f722d5eb91fde57a6a742cd5252",
-      "title": "Tech Life",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-09-01T20:10:00.000Z",
-      "summary_90w": "",
-      "raw": "AI can only communicate in languages that it's been trained on.",
       "topics": [
         "Technology"
       ]
