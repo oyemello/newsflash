@@ -1,7 +1,254 @@
 {
-  "version": "1791660542948",
-  "generatedAt": "2026-10-10T19:29:02.948Z",
+  "version": "1791672608154",
+  "generatedAt": "2026-10-10T22:50:08.154Z",
   "items": [
+    {
+      "id": "e4256e6327a70194683dea867739cc9aea778c49",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-10T22:40:56.000Z",
+      "summary_90w": "",
+      "raw": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e6d319d672aadf5aa8123fe93f057bbf068f01b0",
+      "title": "Christa Pike discharged from the hospital and back in prison",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-10T22:15:04.000Z",
+      "summary_90w": "",
+      "raw": "Pike's attorneys say she is grateful for the care of first responders and her medical team.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "35dc91695d5dee44c75cb34865ccb277a31d276d",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-10-10T22:10:17.000Z",
+      "summary_90w": "",
+      "raw": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or reject. He calls for building a more transparent system where models can be contained, observed, and leaves behind \"tamper-proof human readable evidence.\"\nMany of his recommendations align with what we've heard from others in the industry: timely incident disclosure, independent audits, verifiable data, and containment. It's on that last point that he appears t …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b2308317d69bd8456725ca834cd7daaa540022cb",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-10T22:02:07.000Z",
+      "summary_90w": "",
+      "raw": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d05facb80f7a8876912cbbd02dd05b7f3996dc0a",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-10-10T21:47:51.000Z",
+      "summary_90w": "",
+      "raw": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "52073fc5af97be7771d88ce10e7beee9d7a693d3",
+      "title": "For reporters covering AI, keeping up with story is both tough and exciting",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5994366/for-reporters-covering-ai-keeping-up-with-story-is-both-tough-and-exciting",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2026-10-10T21:47:03.000Z",
+      "summary_90w": "",
+      "raw": "How NPR's team covering AI covers their increasingly important and fast moving beat.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "739b758eb78c5921df1b68a552487a874bab091a",
+      "title": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-10T21:40:58.000Z",
+      "summary_90w": "",
+      "raw": "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "dcc48233c883fd3c06fc9ba58f91096aeb9279f4",
+      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-10T21:32:53.000Z",
+      "summary_90w": "",
+      "raw": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ae5b27eac02e18127cb46c89fbdbf7098c529b79",
+      "title": "What are they saying about AI at San Francisco Tech Week?",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5995420/what-are-they-saying-about-ai-at-san-francisco-tech-week",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2026-10-10T21:27:04.000Z",
+      "summary_90w": "",
+      "raw": "Tech workers gathered in San Francisco this week to talk about the opportunities they see for their industry, their mixed feelings about AI, and the high cost of living in the Bay Area.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3acd8855c20abb354ae8008b399ddd8ade2e6e23",
+      "title": "Northern Lights stun UK down to England's south coast",
+      "url": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-10T20:57:29.000Z",
+      "summary_90w": "",
+      "raw": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b02d8c92998cecc9a60673b1e4d27f74a9c0f2e7",
+      "title": "Boos, anguish & fading belief -'worrying day' for under-pressure Carrick",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-10T20:54:46.000Z",
+      "summary_90w": "",
+      "raw": "It couldn't happen again could it? Another failure to beat 10 men increases pressure on Man Utd boss Michael Carrick after a 1-1 draw against Tottenham Hotspur.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "146f2c9cb8c754a0de5adbbf40198f84f4eb3648",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-10T20:51:12.000Z",
+      "summary_90w": "",
+      "raw": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "146f2c9cb8c754a0de5adbbf40198f84f4eb3648",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-10T20:51:12.000Z",
+      "summary_90w": "",
+      "raw": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "47f263eb417fd80de96a5d6dabd849d46c5c639c",
+      "title": "Worker paralysed in 30ft fall from pylon gets £10m payout",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4ev4llwpno?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-10T20:51:03.000Z",
+      "summary_90w": "",
+      "raw": "The HSE found Gavin Pugh's injuries could have been prevented if correct safety steps were followed.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "495ff983bc7e7e8e299a657a46c36fa16e8e83ec",
+      "title": "Trump says Ukraine needs a new leader after diesel deal with Russia",
+      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-10T20:42:55.000Z",
+      "summary_90w": "",
+      "raw": "US president suggests Ukrainian president, Volodymyr Zelenskyy, has not done enough to end war\nDonald Trump has said Ukraine needs “a new leader”, a day after making a deal with Vladimir Putin to buy large quantities of Russian diesel.\nThe US president suggested Volodymyr Zelenskyy has not done enough to end the war with Russia and blamed him for high diesel prices in the US.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9fe15a12a7df7ad023f03d054c1695ddded3004c",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-10-10T19:50:00.000Z",
+      "summary_90w": "",
+      "raw": "Is Apple hoping to get into the AI-generated podcast business?",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "66921a6a5dd52cc3cd7d2bbfafb5ac06ed39b5a1",
+      "title": "Ceremony marks return home of kiwi feather cloak",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmy790nd00o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-10T19:37:20.000Z",
+      "summary_90w": "",
+      "raw": "The kahu kiwi, given to a British doctor in 1900, was \"crying to come home\", Māori campaigners say.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8fd635139c0ba20b60817840be6dcfa7368c305c",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-10T19:28:28.000Z",
+      "summary_90w": "",
+      "raw": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bfb42042cd717ee655ad67696e2d8fb0a9b91a9f",
+      "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+      "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-10T19:25:03.000Z",
+      "summary_90w": "",
+      "raw": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "ec1d5f9a91f25261238915d84700e60c47b1354e",
       "title": "Man dies after tiger attack at wildlife park",
@@ -11,19 +258,6 @@
       "published": "2026-10-10T19:09:59.000Z",
       "summary_90w": "",
       "raw": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b2308317d69bd8456725ca834cd7daaa540022cb",
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-10T19:08:17.000Z",
-      "summary_90w": "",
-      "raw": "Isaias made landfall in Florida on late Friday before being downgraded to a post-tropical cyclone.",
       "topics": [
         "World"
       ]
@@ -78,32 +312,6 @@
       "raw": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that their non-AI works are being caught up in the purge, however.\nMusician and self-described \"Video Game boy\" McGwire reported that six of his songs had been removed from streaming. As has been the case with others, McGwire says that there was no communication from DistroKid before or after the removals, a …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "e4256e6327a70194683dea867739cc9aea778c49",
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-10T18:37:10.000Z",
-      "summary_90w": "",
-      "raw": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8fd635139c0ba20b60817840be6dcfa7368c305c",
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-10T18:36:23.000Z",
-      "summary_90w": "",
-      "raw": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -185,19 +393,6 @@
       ]
     },
     {
-      "id": "b3f20b5f66ec64462ca9fef30b2568ee826445dd",
-      "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-10T17:07:02.000Z",
-      "summary_90w": "",
-      "raw": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "858e15a4e46b63b363c1a8b0db0fb8680e95f8fb",
       "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
       "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
@@ -250,19 +445,6 @@
       ]
     },
     {
-      "id": "205dc7aa073014cca3c9941358faacbe826197ba",
-      "title": "Northampton outgun Bath in 119-point thriller",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm237zey5rgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-10T16:07:54.000Z",
-      "summary_90w": "",
-      "raw": "Northampton win a high-octane 18-try thriller at home to Bath, the second highest-scoring game in English top-flight history.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "94e53ad190f9720a606ed877968341f5e634a081",
       "title": "King warns malicious online actors are evolving tactics",
       "url": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
@@ -277,13 +459,13 @@
     },
     {
       "id": "6c4b509c4c00f1dd7bfdcb16fb4068a6fd26f77f",
-      "title": "Dozens reported injured in Yemeni Houthi attack at Riyadh airport",
+      "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
       "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2026-10-10T15:54:12.000Z",
       "summary_90w": "",
-      "raw": "Saudi authorities yet to confirm strike as government-allied forces in Yemen claim successful offensive to retake Bab al-Mandab strait\nYemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, with dozens reported wounded and a witness describing panic in the terminal.\nDonald Trump told reporters he was evaluating whether the US should join Saudi strikes against the Iran-backed Houthi rebels in neighbouring Yemen.\n Continue reading...",
+      "raw": "Donald Trump says he is evaluating whether the US should join Saudi strikes against the Iran-backed Yemeni rebels\nYemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, killing at least 12 people and leaving hundreds wounded, the Saudi Civil Aviation Authority has said.\nOperations at King Khalid international airport in Riyadh were suspended, it said, as more than a dozen ambulances rushed to the airport. More than 300 people were reported injured.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -367,19 +549,6 @@
       ]
     },
     {
-      "id": "495ff983bc7e7e8e299a657a46c36fa16e8e83ec",
-      "title": "Ukraine hit by deadly Russian strikes as ‘thanks’ for Trump diesel deal, Zelenskyy says",
-      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-10T14:45:15.000Z",
-      "summary_90w": "",
-      "raw": "Ukrainian president says money from fuel sales will intensify war as European leaders reiterate support for Kyiv\nRussia launched deadly strikes on civilians in Ukraine as “thanks” for a deal cut by Donald Trump with Vladimir Putin to buy large quantities of Russian diesel, Volodymyr Zelenskyy has said, accusing Washington of helping fund Moscow’s war.\nThe Ukrainian president has expressed outrage at the agreement announced by Trump on Friday, which the US president said was needed to reduce diesel prices, and comes ahead of November’s midterm elections in which fuel costs are a key voter issue.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "0decde66c5ee642f4b2199f4eac556d234595585",
       "title": "Anthropic is cutting off its internal evaluations from the internet",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
@@ -401,45 +570,6 @@
       "published": "2026-10-10T14:27:43.000Z",
       "summary_90w": "",
       "raw": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "146f2c9cb8c754a0de5adbbf40198f84f4eb3648",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-10T14:16:50.000Z",
-      "summary_90w": "",
-      "raw": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "146f2c9cb8c754a0de5adbbf40198f84f4eb3648",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-10T14:16:50.000Z",
-      "summary_90w": "",
-      "raw": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "049bdfe4b56e2c50c3c5412a03e4f912beb0bcd3",
-      "title": "Watch: 'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "url": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-10T14:13:13.000Z",
-      "summary_90w": "",
-      "raw": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
       "topics": [
         "World"
       ]
@@ -614,19 +744,6 @@
       ]
     },
     {
-      "id": "45e3892d49dd0f0948ea08be72f64532c229dcd0",
-      "title": "The director of Fjord takes the &#8216;risky position&#8217; of moderator",
-      "url": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-10-10T11:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Renata Reinsve (top center) and Sebastian Stan (top right) play religious Romanians living in Norway. | FLC Press\t\n\nCristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway. There is Mamma (Renate Reinsve), Tata (a bald and bespectacled Sebastian Stan), and their passel of children. They are an openly religious and proselytizing family. The parents, unfashionably, believe in punitive  consequences to actions. They would never be accused of gentle parenting. All ought to be well, only Norway in 2026 is extravagantly suspicious of the devout - their famous tolerance reserved for the secular. \nFjord starts quietly and b …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "4a13f9d45e4750e5c5c866c7bf4048ff87ec885a",
       "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
       "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
@@ -666,19 +783,6 @@
       ]
     },
     {
-      "id": "a703ac68fcb486200fc7e3a027a0b0b33a85e769",
-      "title": "Rogue Anthropic AI agent gave US police fake tip in unsolved murder case",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-10T10:06:23.000Z",
-      "summary_90w": "",
-      "raw": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "270dbf5ff757466a38a2dbbb72d717d117073989",
       "title": "How drones are hunting fires hidden beneath the Cairngorms ",
       "url": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
@@ -689,19 +793,6 @@
       "raw": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "751cc05c3e167e4355f9c48a4b10aced987c0954",
-      "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
-      "url": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-10T09:19:53.000Z",
-      "summary_90w": "",
-      "raw": "Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -770,19 +861,6 @@
       ]
     },
     {
-      "id": "d5c1cd5f0467e6187524d10758e0bdf6d123e486",
-      "title": "Photos: What a year of ceasefire in Gaza looks like",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-10-10T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8881c38e885222788a5146eb6a763c975cc663de",
       "title": "The Met puts a modern artist front and center (and there's some Jackson Pollock, too)",
       "url": "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met",
@@ -791,19 +869,6 @@
       "published": "2026-10-10T09:00:00.000Z",
       "summary_90w": "",
       "raw": "In a blockbuster show, The Metropolitan Museum of Art places the work of two major 20th century artists side by side: the married couple Lee Krasner and Jackson Pollock.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "886cb48003b999c9655b768d09c54180030e1a76",
-      "title": "India cracks down on youth protests as anger grows against Modi and election chief",
-      "url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-10-10T08:31:28.000Z",
-      "summary_90w": "",
-      "raw": "The protests focus on the Election Commission's voter list revision, which the opposition claims disenfranchises millions. The government denies the allegations, saying the revision aims to eliminate duplicate entries.",
       "topics": [
         "World"
       ]
@@ -1059,13 +1124,13 @@
       "id": "995f1408e57c76463a3e9092191ba0811142cce3",
       "title": "Kalshi taps former FBI agent to fight against money laundering",
       "url": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-10-09T22:23:11.000Z",
       "summary_90w": "",
       "raw": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -1342,19 +1407,6 @@
       ]
     },
     {
-      "id": "78ee2b9ada96f184c842a27f70afc72d1f5187fd",
-      "title": "Tornado rips through Sicilian town and city",
-      "url": "https://www.bbc.co.uk/news/videos/cm4g1wwl0lxko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-09T16:25:00.000Z",
-      "summary_90w": "",
-      "raw": "Dramatic footage shows huge tornado moving through Marsala and Petrosino, causing damage to buildings and cars.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "6149627e14ff487eca12a70f7de2e0408351a2dc",
       "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
       "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
@@ -1430,32 +1482,6 @@
       "raw": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "e489e6273d799961bdae186a259fd82ca2b5dbe3",
-      "title": "Automattic interim CFO resigns just weeks after boardroom shakeup",
-      "url": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-09T15:02:30.000Z",
-      "summary_90w": "",
-      "raw": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking another executive exit amid the organization's leadership turmoil.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "d7a1c9894fff0c1eed610ae4dd12927d044ee23b",
-      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-      "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-09T14:42:34.000Z",
-      "summary_90w": "",
-      "raw": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1901,19 +1927,6 @@
       ]
     },
     {
-      "id": "5acf3c7c379a9dbb965e15a88719610d75391629",
-      "title": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries",
-      "url": "https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2026-10-06T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "f27c32e72bd878600cc612a5458fdb1c68dc397e",
       "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
       "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
@@ -1937,19 +1950,6 @@
       "raw": "Sci-fi horror comedy, Behind, features scenes filmed in Port Glasgow's Clune Park shortly before it was demolished.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "e3b234ade77f0d876c2466e2cb168e82409f3293",
-      "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2026-10-04T18:36:48.000Z",
-      "summary_90w": "",
-      "raw": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
-      "topics": [
-        "Technology"
       ]
     },
     {
