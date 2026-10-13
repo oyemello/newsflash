@@ -1,7 +1,592 @@
 {
-  "version": "1791917965691",
-  "generatedAt": "2026-10-13T18:59:25.691Z",
+  "version": "1791933237720",
+  "generatedAt": "2026-10-13T23:13:57.720Z",
   "items": [
+    {
+      "id": "314375845b17a428945132cfd9e04c0ae379d9f0",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-10-13T23:05:34.000Z",
+      "summary_90w": "",
+      "raw": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "773e9089fce1187a7238187d7f10d7faf81fea78",
+      "title": "How long will humans be needed for translation?",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-10-13T23:05:29.000Z",
+      "summary_90w": "",
+      "raw": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3ba64607633ca566c8dbaa1cac06dec8709107ff",
+      "title": "Is it OK for jobseekers or employers to use AI?",
+      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-10-13T23:04:39.000Z",
+      "summary_90w": "",
+      "raw": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "0d4c144f008d283994b787d32212c755a601ef08",
+      "title": "Saka responds to Arteta's challenge with 'huge impact'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-13T23:03:04.000Z",
+      "summary_90w": "",
+      "raw": "Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5adf3de958a6a8084329c9e908dbde53cefa2d36",
+      "title": "Australian politics live: Hanson dismisses ‘shamed and stoned’ remark as ‘heat of moment’; PM extends ‘thoughts and prayers’ to pope",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-13T23:00:38.000Z",
+      "summary_90w": "",
+      "raw": "Follow the day’s news live.\n\nGet our breaking news email, free app or daily news podcast\n\nAustralia missing out on $45bn of revenue from resources: Greens\nAs Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being left on the table because the government won’t properly tax the resource.\nWe’re giving away billions in resource wealth while families struggle to pay the rent, put food on the table and afford basic healthcare.\nLabor can find billions to prop up the fossil fuel industry, but when it comes to making corporations like Santos, Woodside and Adani pay a fair return, suddenly it’s all too hard.\nThe prime minister has a kink for punishing small businesses and a fetish for humiliating his treasurer. So I say this is a consistent pattern of behaviour where the prime minister constantly goes in, overrides his treasurer, humiliates him in public. I suspect it’s going to sour the relationship somewhat.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3e50c67087875e42c6bc416f30561bb7ca96565e",
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-10-13T23:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8ffa5222f5cfbfa360a3dc83e24d1750c2a66820",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-10-13T22:36:59.000Z",
+      "summary_90w": "",
+      "raw": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a8608ca9a0bb1c367eae1b414558003671a39ec4",
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-13T22:29:55.000Z",
+      "summary_90w": "",
+      "raw": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6f007dcc00c9863f4279f2cb7aa1ab1650464d86",
+      "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
+      "url": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-13T22:29:26.000Z",
+      "summary_90w": "",
+      "raw": "Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3709fe4b195b00ca6e4b7c85da2732855803eb46",
+      "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-13T22:15:44.000Z",
+      "summary_90w": "",
+      "raw": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "515fc0abcfb05f4011df1ee2da9bccad60c95da8",
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-13T22:14:33.000Z",
+      "summary_90w": "",
+      "raw": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d96808fd1be72e1da0842cfec7c6ff631d698514",
+      "title": "Apple’s HomeView ad is confusing to everyone except parents",
+      "url": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-10-13T22:10:00.000Z",
+      "summary_90w": "",
+      "raw": "Nothing like a little family togetherness in the morning. | Image: Apple\t\n\nApple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos.\nBut the spot has parents - those with teen children in particular - feeling seen.\n\nI'll admit that it stressed me out the first time I watched it, too. Mornings getting my five-year-old out the door are a special breed of chaos, and usually culminate in us playing whatever ad-libbed game will get him to put his shoes on. But it's not  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "df0dfb8f3f735272eb04d7d032a0b3fd1a3136c7",
+      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+      "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-13T22:07:40.000Z",
+      "summary_90w": "",
+      "raw": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9b68d5b294a27326f0bc3d5f5980482596e5422a",
+      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+      "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-13T22:07:06.000Z",
+      "summary_90w": "",
+      "raw": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d214a3470037353429985f2fe0e4fcd8946a6ab3",
+      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-13T22:02:09.000Z",
+      "summary_90w": "",
+      "raw": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b211db9580d24d201e461155d43b0967726b1065",
+      "title": "Who's to blame for the toxic smog choking South East Asia?  ",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-13T22:01:43.000Z",
+      "summary_90w": "",
+      "raw": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1dc15906aba562a379dc32dc90728cd0cedc015b",
+      "title": "Why the lonely in China are hiring 'temporary children'",
+      "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-13T22:00:20.000Z",
+      "summary_90w": "",
+      "raw": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1d7bf81ab30e9fa5296b6ea220ecc659748c5a23",
+      "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
+      "url": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-13T21:54:12.000Z",
+      "summary_90w": "",
+      "raw": "Ukrainian president’s comments on ‘particularly vile’ strikes come after US threatened to halt intelligence sharing\nUkraine received no early warning from its partners about a second night of Russian ballistic missile strikes on civilian infrastructure in Kyiv, including a critical power plant struck after dark, Volodymyr Zelenskyy said on Tuesday.\nThe Ukrainian president had earlier described an attack involving five missiles on Monday as “particularly vile”. He emphasised that receiving intelligence from Ukraine’s western allies “helps saves lives, and this is one of the most critical issues”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "cf6706670161b1dba7097be2fab770607f5cbf31",
+      "title": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-13T21:43:09.000Z",
+      "summary_90w": "",
+      "raw": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "aa337c25492c7411bf48392fbf6a4094f5efb691",
+      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-13T21:42:49.000Z",
+      "summary_90w": "",
+      "raw": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "779a1c17bfdc8a6d584c021c128a541fb063b458",
+      "title": "Zelensky and Burnham to meet in Downing Street",
+      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-13T21:31:30.000Z",
+      "summary_90w": "",
+      "raw": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "357b50510a71a8f535cc050b63b3b7af612d4705",
+      "title": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
+      "url": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-13T21:30:35.000Z",
+      "summary_90w": "",
+      "raw": "Prime minister reiterates UK backing after the Ukrainian president’s latest round of difficulties with Donald Trump\nAndy Burnham will host Volodymyr Zelenskyy at Downing Street on Wednesday as the UK seeks to further underline its support for the Ukrainian president, in contrast to his difficulties with Donald Trump.\nThe UK prime minister said his message to Zelenskyy and his country would be: “We are with you for as long as it takes.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a5ce35ef2b5c7827bece3eac605ee211d0e9c56a",
+      "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-13T21:29:08.000Z",
+      "summary_90w": "",
+      "raw": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected\nSouthern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves battered beachside homes.\nThe remnants of Tropical Storm Rachel hit Mexico’s Baja California over the weekend as well as southern California and Las Vegas. While meteorologists noted that Rachel weakened into a post-tropical cyclone as it approached California, it still left a trail of destruction.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6bdbe72aeb9224cf295ba878e294c20180827c89",
+      "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+      "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-10-13T21:15:00.000Z",
+      "summary_90w": "",
+      "raw": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f25c43f91e7774d67ff0ed77ff353c6810df1495",
+      "title": "Man charged with murder after boy, 12, shot in the face and neck in Sydney last month",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/14/man-charged-murder-alleged-shooting-boy-12-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-13T21:09:19.000Z",
+      "summary_90w": "",
+      "raw": "A 19-year-old man was arrested and charged at Silverwater correctional facility on Tuesday\n\nGet our breaking news email, free app or daily news podcast\n\nA man has been charged with murder over the shooting death of a boy, 12, in Sydney’s north in September.\nPolice were called to a unit in Norwest on 21 September 2026 after reports of a shooting.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "217ef57279b394fdd10374190deb42d26423d305",
+      "title": "Couple and two children killed in arson attack named locally",
+      "url": "https://www.bbc.co.uk/news/articles/cq073814llkjo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-13T21:02:54.000Z",
+      "summary_90w": "",
+      "raw": "A \"multiple murder\" investigation has been launched by gardaí (Irish police) following the blaze.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ef2fc60aa90b3d09e1fa996487334820cd3f1606",
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-10-13T20:59:11.000Z",
+      "summary_90w": "",
+      "raw": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3ba9283bc7352f2de6baae38593c0f2f3b9cca61",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-13T20:46:06.000Z",
+      "summary_90w": "",
+      "raw": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "082a179fcd5888101db60c4edc2537048d7392bf",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-10-13T20:45:25.000Z",
+      "summary_90w": "",
+      "raw": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department of Justice.\nOpenAI's post about the incident says it used its AI models to \"understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier.\"\nAs noted by the DOJ, OpenAI found the device plugged into a TV's USB port in an executiv …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "41d15466fa73b3da97e93bff4f122cdf3ba48fd6",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-10-13T20:36:44.000Z",
+      "summary_90w": "",
+      "raw": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2743ea2faa76edb1dcf088e5bbd9dca6a495d4d6",
+      "title": "Pope Leo diagnosed with lung cancer as growth removed during surgery",
+      "url": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-13T20:32:36.000Z",
+      "summary_90w": "",
+      "raw": "Vatican says pontiff had lower lobe of right lung removed in ‘successful, on schedule and as planned’ operation in Rome\nPope Leo has lung cancer, the Vatican said late on Tuesday.\nLeo, 71, underwent an operation and had the lower lobe of his right lung removed, with tests confirming a diagnosis of lung adenocarcinoma, the Vatican said in a medical bulletin, which followed an earlier statement saying the pope’s operation had concluded “successfully, on schedule and as planned”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bbbe8f21bb070ce419ff9bee8099e60df61bd06a",
+      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+      "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-10-13T20:13:53.000Z",
+      "summary_90w": "",
+      "raw": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1e8b87705886d0450ad388ceb42b6e404c8839dd",
+      "title": "It looks like Apple Music is getting a new icon",
+      "url": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-10-13T20:05:02.000Z",
+      "summary_90w": "",
+      "raw": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new Apple Music logo was also spotted last month on the Apple Music Hall website, so the company could be refreshing its app icon to match.\nAccording to 9to5Mac, the new icon is a black music note on a white background in light mode, or the opposite in dark mode. The icon's not the only thing that's been drained of color, either - 9to5Mac also says Apple Music widgets now have black backgrounds and the app now …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9a6601fe2cc40dc59261f51667d9d79543805d0b",
+      "title": "What an economics Nobel Prize winner knows about pricing",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998849/what-an-economics-nobel-prize-winner-knows-about-pricing",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-13T20:03:35.000Z",
+      "summary_90w": "",
+      "raw": "NPR's Ailsa Chang chats with Michael Woodford of Columbia University, who was one of two Americans awarded the Nobel Prize in Economics.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a2dae87b302f0e1b4ef3f9bd9ec74627340de947",
+      "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
+      "url": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-10-13T20:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3af7725e1de82d5da1ff602896006c531f7ef138",
+      "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
+      "url": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-13T19:52:52.000Z",
+      "summary_90w": "",
+      "raw": "Six Democratic and six Republican senators wrote a letter calling on President Trump to withdraw from his recent deal with Russian President Vladimir Putin.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8cd415cc4ee6ae2c7984de7c21375f003bc1b1e5",
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-13T19:51:14.000Z",
+      "summary_90w": "",
+      "raw": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c94f49a1835ad5a747cf3e885d0ff72f1d94bcb0",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-10-13T19:45:00.000Z",
+      "summary_90w": "",
+      "raw": "The plan for an orbiting data centre involves linking satellites around Earth.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c839b9474faef6c76b9865cfc1203bccb490993b",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-10-13T19:42:42.000Z",
+      "summary_90w": "",
+      "raw": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images)\t\n\nMore AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions.  \nShopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists of both items on and off Shopify storefronts.) In September, Shopify announced it was partnering with Meta to allow its Muse agent to browse and purchase items on a human's behalf; now, shoppers can use any agent without a partnership integration.\nTo set up the feature, customers connect an  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f7702373b8c65163fac3f36f967c3dd81198fc05",
+      "title": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-13T19:38:18.000Z",
+      "summary_90w": "",
+      "raw": "Locals and preservationists have long opposed Trump's plan to redevelop a municipal D.C. golf course. That legal fight escalated after the government cleared hundreds of trees on short notice.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "edb8d8f854187be2005f603473f8423f9013f2e6",
+      "title": "Cornell University bans frat parties, vows to address 'disturbing' campus culture",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-6000347/cornell-rape-ban-fraternity-parties",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-13T19:23:57.000Z",
+      "summary_90w": "",
+      "raw": "In a letter, Cornell's president apologized for what happened to the student who alleges she was raped by several men at a fraternity house in 2024 and promised 'meaningful action.'",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b91386fcbef1957f44ed153ec0e83080bd73c70f",
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-13T19:23:28.000Z",
+      "summary_90w": "",
+      "raw": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ffb4af635c9ec6ee6779657304294cceedbc8e36",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-10-13T19:00:48.000Z",
+      "summary_90w": "",
+      "raw": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web browser, and the company is now officially embracing the chaos of this new AI-powered era of game modding.\nMicrosoft is putting together a new Xbox Labs group to explore the rapid emergence of these mods, many of which use AI models to help modders remix games in ways we've rarely seen before. Xbox Labs will be a \"sm …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8e37b976a6c9afeebd906ea272e254b826e50bcb",
+      "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
+      "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-10-13T19:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "130ee83d3473054ee1c8e36a70bd93f2dfafa017",
+      "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-13T18:51:55.000Z",
+      "summary_90w": "",
+      "raw": "Ukrainian President Volodymyr Zelenskyy sat down for an interview with NPR at a time of renewed tensions with the White House.",
+      "topics": [
+        "World"
+      ]
+    },
     {
       "id": "7e3cc8c15110cfb6442cdda87d49a965a6f6c85f",
       "title": "The Nothing Headphone A are half off for the first time",
@@ -29,9 +614,9 @@
       ]
     },
     {
-      "id": "afc65752a2df2ae7fd7d6ee3a9655428399f42e7",
-      "title": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
-      "url": "https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+      "id": "46770a3648867a503543bef1c01afa2cb5769a54",
+      "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+      "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "published": "2026-10-13T18:30:03.000Z",
@@ -56,13 +641,13 @@
     },
     {
       "id": "84e0fd2e237bfa5d6be2fc8df09f02b1ebad01bf",
-      "title": "Rivian spinoff Mind Robotics hires Doug Field as president",
+      "title": "Rivian partner Mind Robotics hires Doug Field as president",
       "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
       "source_id": "verge-tech",
       "source_name": "The Verge",
       "published": "2026-10-13T18:30:00.000Z",
       "summary_90w": "",
-      "raw": "Rivian spinoff Mind Robotics announced the appointment of Doug Field as president in a major coup for the EV company's secretive robotics startup. \nField was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. He had a previous stint at Apple as VP of Mac hardware engineering, but he left the company in 2013 to become Tesla's chief vehicle engineer, where he helped oversee the Model 3 sedan. He left Tesla in 2018 and rejoined Apple. In 2021, Field was hired by Ford to run the automaker's electric vehicle and software division, a p …\nRead the full story at The Verge.",
+      "raw": "Rivian CEO RJ Scaringe's startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO's secretive robotics project. \nField was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. He had a previous stint at Apple as VP of Mac hardware engineering, but he left the company in 2013 to become Tesla's chief vehicle engineer, where he helped oversee the Model 3 sedan. He left Tesla in 2018 and rejoined Apple. In 2021, Field was hired by Ford to run the automaker's electric vehicle and software di …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -76,32 +661,6 @@
       "published": "2026-10-13T18:25:28.000Z",
       "summary_90w": "",
       "raw": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a5ce35ef2b5c7827bece3eac605ee211d0e9c56a",
-      "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-13T18:25:06.000Z",
-      "summary_90w": "",
-      "raw": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected\nSouthern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves battered beachside homes.\nThe remnants of Tropical Storm Rachel hit Mexico’s Baja California over the weekend as well as southern California and Las Vegas. While meteorologists noted that Rachel weakened into a post-tropical cyclone as it approached California, it still left a trail of destruction.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3ba9283bc7352f2de6baae38593c0f2f3b9cca61",
-      "title": "Pope's surgery to remove lump on lung 'concluded successfully', Vatican says",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-13T18:24:03.000Z",
-      "summary_90w": "",
-      "raw": "Pope Leo has said the growth is \"contained\" and had been found \"at a very early stage\".",
       "topics": [
         "World"
       ]
@@ -212,7 +771,7 @@
     },
     {
       "id": "238c1ba2b0eb31396202014427ee8a2ed913e696",
-      "title": "Argentina lodges legal claim against UK's Falklands oil exploration",
+      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
       "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -238,28 +797,15 @@
     },
     {
       "id": "3da26f09f6ffc449256f516f18e62592a632941b",
-      "title": "Saudi Arabia strikes oil depots in Yemen as conflict with Houthis escalates",
+      "title": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ",
       "url": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2026-10-13T17:26:08.000Z",
       "summary_90w": "",
-      "raw": "Civilians warned to leave target area near Sana’a before attacks following deadly strike on Riyadh airport\nSaudi Arabia has launched a series of strikes on a strategic oil depot on the outskirts of Yemen’s capital Sana’a, in a fresh escalation of the conflict between Riyadh and the Iran-backed Houthi forces.\nBefore the attack on Tuesday, a Saudi spokesperson warned civilians to leave the target area, in an apparent attempt to strike fear into the local population ahead of the biggest attack so far on Houthi energy infrastructure.\n Continue reading...",
+      "raw": "Civilians warned to leave target area near Sana’a before attacks as conflict between Riyadh and Houthi forces escalates\nSaudi Arabia has launched a series of strikes on a strategic oil depot on the outskirts of Yemen’s capital, Sana’a, while later on Tuesday it said it had intercepted missiles launched toward Dharan, location of the headquarters of the huge national energy company Saudi Aramco.\nThe attacks on both sides were a fresh escalation of the conflict between Riyadh and the Iran-backed Houthi forces. Before its offensive on Tuesday, a Saudi spokesperson warned civilians to leave the target area, in an apparent attempt to strike fear into the local population before the biggest attack so far on Houthi energy infrastructure.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "4f32ced8b06b80cf75b7c349c6ba3f1a8061f6d1",
-      "title": "The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever",
-      "url": "https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-10-13T17:19:31.000Z",
-      "summary_90w": "",
-      "raw": "The Xteink X4 Pro is still matching its Prime Day price. | Photography by Andrew Liszewski / The Verge\n﻿\t\n\nIf you’re looking for an e-reader that can easily fit in your pocket (or snap onto your magnet-equipped phone), the tiny Xteink X4 Pro might be worth a look. It features a 4.26-inch, 800 x 480 E Ink display, making it significantly smaller and thinner than Amazon’s smallest six-inch Kindle. It’s also quite a bit cheaper. Right now, you can pick it up for $84.15 ($25 off) at Amazon, which is its best price to date.\nXteink X4 Pro\n\nWhere to Buy:\n\n $109 $84.15 at Amazon\n $109 at Xteink\n\nThe X4 Pro brings several welcome upgrades over its predecessors, including a touchscreen that gives readers another way to interact with it. It still has physical page-turning buttons, though. There’s also a new touch-sensitive button below the display for quickly returning to the home screen, along with a built-in light with adjustable brightness and color temperature, so you can read in the dark. It ships with the excellent CrossPoint Reader software, which makes navigating your library and reading books a much better experience than on previous Xteink models we’ve tested, though it’s still not quite as polished as Amazon’s software.\nUnderstandably, not everyone is a fan of Xteink’s decision to swap the X4 Pro’s USB-C port for a proprietary charging connector. If you can look past that, the X4 Pro is a great, little e-reader that features magnets that let you attach it to compatible smartphones, just like previous models. The magnetic connection is stronger this time around, though we still wish it were a little more secure. All the same, my colleague Andrew Liszewski still considers the X4 Pro the best tiny e-reader you can buy, calling it a device he “won’t leave the house without.”\nRead our hands-on impressions.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -273,19 +819,6 @@
       "raw": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "1d7bf81ab30e9fa5296b6ea220ecc659748c5a23",
-      "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
-      "url": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-13T17:17:13.000Z",
-      "summary_90w": "",
-      "raw": "Ukrainian president’s comments on ‘particularly vile’ strikes come after US threatened to halt intelligence sharing\nUkraine received no early warning from its partners about a Russian ballistic missile strike on Kyiv in which five missiles hit civilian infrastructure, Volodymyr Zelenskyy said on Tuesday.\nThe Ukrainian president described the attack on Monday as “particularly vile”. He emphasised that receiving intelligence from Ukraine’s western allies “helps saves lives, and this is one of the most critical issues”.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -342,20 +875,7 @@
     },
     {
       "id": "d0ee4a2b0e2a13fbfa22b72674a03dc7632303e0",
-      "title": "Inside Katie Zacharia's very brief White House briefing",
-      "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-13T17:04:37.000Z",
-      "summary_90w": "",
-      "raw": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d0ee4a2b0e2a13fbfa22b72674a03dc7632303e0",
-      "title": "Watch: Inside Katie Zacharia's very brief White House briefing",
+      "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
       "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -367,42 +887,16 @@
       ]
     },
     {
-      "id": "c9abe9b08cd34f7a691a39afaa90b8ae66719820",
-      "title": "Facebook will let you customize your feed algorithm using AI",
-      "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-10-13T17:01:31.000Z",
+      "id": "d0ee4a2b0e2a13fbfa22b72674a03dc7632303e0",
+      "title": "Inside Katie Zacharia's very brief White House briefing",
+      "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-13T17:04:37.000Z",
       "summary_90w": "",
-      "raw": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics. Your Algorithm previously launched on Instagram earlier this year, and Meta also launched a similar \"Dear Algo\" feature on Threads. \nFacebook users will be able to access Your Algorithm or select \"interested\" or \"not interested\" from the three dots menu on individual posts. The \"interested\" and \"not interested\" buttons may also appear under posts, an …\nRead the full story at The Verge.",
+      "raw": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
       "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "46b1cd4ff4e973f04ea90a922b489db58512f6aa",
-      "title": "A redesigned Play Store is coming to cars with Google built-in",
-      "url": "https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-10-13T17:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The Google Play Store is getting a big update for cars with Google built-in. On Tuesday, the company announced that the Play Store's layout will now automatically adapt to the size and layout of your car's screen while making it easier to find and download new apps.\nThe update, which is rolling out in the coming weeks, will put featured apps on the Play Store's homepage and allow you to download them with a single tap. It also comes with what Google says is a \"streamlined navigation\" menu that puts \"Apps,\" \"Games,\" \"Search,\" and \"More\" options on the left side of your screen (or on the top if your car's screen has a vertical orientation).\n …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "a3312401eb558d6990fbcf8dac551efa628ba0fd",
-      "title": "Google makes it easier to launch your vibe-coded apps",
-      "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-10-13T17:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store.\nGoogle first launched the ability to vibe-code personal Android apps in May. Even though you can now launch your custom apps in Google Play, the company notes it will continue to keep them \"secure, private, and separate from the public store catalog.\" You can also launch them using a standard Google account, and the company will soon add the ability to share your app with a select gr …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
+        "World"
       ]
     },
     {
@@ -432,32 +926,6 @@
       ]
     },
     {
-      "id": "217ef57279b394fdd10374190deb42d26423d305",
-      "title": "Murder investigation after couple and two children die in fire",
-      "url": "https://www.bbc.co.uk/news/articles/cq073814llkjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-13T16:56:47.000Z",
-      "summary_90w": "",
-      "raw": "Philip and Kim English, and two of their children, died in the fire and two more children are critically injured.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "63dc6985e48186e77e1504615366757afc688456",
-      "title": "I tried out Apple&#8217;s HomeView smart display",
-      "url": "https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-10-13T16:55:02.000Z",
-      "summary_90w": "",
-      "raw": "Apple has just announced the HomeView, its first smart home display - and I just got hands-on with the device, which features a gorgeous 7-inch square touchscreen and built-in Siri AI. It's designed as a smart home controller, personal assistant, and home hub for your household, so there was a lot to check out. \nThe first thing that struck me about the HomeView was its size. It's much smaller than I expected, and the screen almost entirely hides the small aluminum base that acts as a speaker. The Liquid Retina display is bright and responsive to touch, and it displays photos and the HomeView \"faces\" brilliantly. \nYou can swipe to change fa …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "6954fc1f09331c4cf454efa823a89523f3afe363",
       "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
       "url": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
@@ -466,19 +934,6 @@
       "published": "2026-10-13T16:34:13.000Z",
       "summary_90w": "",
       "raw": "Hundreds of people displaced in Bangka Belitung with conditions described as worst in a decade with wildlife also badly hit\nA forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official has said, as the country battles devastating blazes and haze.\nResidents first spotted the fire approaching their village in Bangka Belitung province on Saturday and tried to put it out themselves with portable water pumps, said the head of South Bangka regency, Riza Herdavid.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3f678b565d2b9543d7288e7503304cd34af819c2",
-      "title": "Man killed in tiger attack identified as William Chapman",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-13T16:30:58.000Z",
-      "summary_90w": "",
-      "raw": "A health and safety investigation is under way at Yorkshire Wildlife Park following the incident.",
       "topics": [
         "World"
       ]
@@ -536,19 +991,6 @@
       ]
     },
     {
-      "id": "c191b5454773c29cd7cf527b83dda5d42f8e9f7c",
-      "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-13T15:54:55.000Z",
-      "summary_90w": "",
-      "raw": "Ukraine’s president says his country has halted strikes on Russian oil refineries for two days after Trump’s energy ceasefire announcement\nOn frozen Russian assets, Poland’s Sikorski says the use of frozen Russian assets is “a complicated issue,” but takes a very clear stance in response to any suggestion of releasing them back to Russia.\n“We are working on it, but there is also some rumours that some people are expecting these assets to be released back to Russia. \nI don’t think I’m speaking just for myself in saying: over our dead bodies.”\n“Russia right now is not ready for ceasefire, but still, this only can encourage us to stay with Ukraine and to, strengthen, the pressure on Russia and always be ready for conversations, but and also especially for, for ceasefire negotiations.\nBut, until this doesn’t happen, we are with Ukraine. We are with the president the German government is is backing the Ukrainian government and the president, completely. He is the person to lead Ukraine, and we are with him.”\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "0b6a8a1d6cecfa388297155a846d1f7e4b152fe5",
       "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
       "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
@@ -557,19 +999,6 @@
       "published": "2026-10-13T15:52:15.000Z",
       "summary_90w": "",
       "raw": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6ad11c64c72b54ffb35da450c332529f8e9143b5",
-      "title": "Britons travelling to EU countries told not to apply for delayed Etias visa waiver",
-      "url": "https://www.theguardian.com/world/2026/oct/13/britons-travelling-to-europe-told-not-to-apply-for-delayed-etias-visa-waiver",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-13T15:21:04.000Z",
-      "summary_90w": "",
-      "raw": "Abta advice comes as more than more than 150 websites offer service of securing entry to Schengen zone\nBritons travelling to EU countries have told not to apply for an Etias visa waiver, with more than 150 websites touting the service despite its introduction being delayed.\nNon-EU citizens, including UK travellers and those from other visa-exempt countries including the US, Australia and Canada, will soon need to pay €20 (£17) for an electronic waiver to enter the Schengen zone under the European travel information and authorisation system (Etias).\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -601,27 +1030,14 @@
       ]
     },
     {
-      "id": "fa2f2083019352d79bf3a4402734d328b6e54702",
-      "title": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-13T15:01:17.000Z",
-      "summary_90w": "",
-      "raw": "How Rwanda has succeeded where Morocco and South Africa, among others, have failed by agreeing a deal to stage the African Grand Prix.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5a758cd1c5b6601b89848c91600f0a9a158d0143",
-      "title": "Family and sexual violence rates against Australian children rise sharply as researchers warn of ‘manosphere’",
+      "title": "‘Manosphere’ warnings as rates of family and sexual violence against Australian children rise sharply",
       "url": "https://www.theguardian.com/australia-news/2026/oct/14/family-and-sexual-violence-rates-against-australian-children-rise-sharply-as-researchers-warn-of-manosphere",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2026-10-13T15:00:00.000Z",
       "summary_90w": "",
-      "raw": "Study authors say increase cannot be attributed to any one factor and list income inequality and growing awareness as other likely reasons\n\nGet our breaking news email, free app or daily news podcast\n\nThe sexual assault of Australian children has accelerated sharply since the pandemic, surprising researchers who expected rates to have fallen but instead found attacks on boys had risen 15.7%.\nResearchers expected rates to have dropped in line with other countries around the world and warn the troubling findings show an urgent need to prevent the suffering of children.\n Continue reading...",
+      "raw": "Study authors say increase cannot be attributed to any one factor and list income inequality and reporting increases due to growing awareness as other likely reasons\n\nGet our breaking news email, free app or daily news podcast\n\nThe sexual assault of Australian children has accelerated sharply since the pandemic, surprising researchers who expected rates to have fallen but instead found attacks on boys had risen 15.7%.\nResearchers expected rates to have dropped in line with other countries around the world and warn the troubling findings show an urgent need to prevent the suffering of children.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -653,19 +1069,6 @@
       ]
     },
     {
-      "id": "691eac3de07f68077324d32b0ec281785cf042b6",
-      "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
-      "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-13T14:25:48.000Z",
-      "summary_90w": "",
-      "raw": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "26b7f780639cd32984e6d82c48038eddc84c5e8a",
       "title": "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
       "url": "https://www.bbc.co.uk/news/articles/cvp8gj20j2ljo?at_medium=RSS&at_campaign=rss",
@@ -680,13 +1083,13 @@
     },
     {
       "id": "00b543ac2ac1c720c520452e5777e2bfa7b7a4d3",
-      "title": "AFL tells Sportsbet to stop using players in AI generated content",
+      "title": "AFL tells Sportsbet to stop using players in AI-generated content",
       "url": "https://www.theguardian.com/australia-news/2026/oct/14/afl-tells-sportsbet-to-stop-using-players-in-ai-generated-content",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2026-10-13T14:00:06.000Z",
       "summary_90w": "",
-      "raw": "Exclusive: Gambling firm working with AFL ‘on the evolving use of AI in our content’ as it deletes video depicting Lachie Neale saying ‘I want to thank me for believing in me’\n\nGet our breaking news email, free app or daily news podcast\n\nThe AFL has told its official gambling partner, Sportsbet, to stop featuring its high-profile athletes in AI-generated social media content without their permission.\nSportsbet has also been told to delete AI videos depicting AFL stars delivering lines from movies, television shows or speeches to react to real events.\n Continue reading...",
+      "raw": "Exclusive: Gambling firm working with AFL ‘on the evolving use of AI in our content’ as it deletes video depicting Lachie Neale saying ‘I want to thank me for believing in me’\n\nGet our breaking news email, free app or daily news podcast\n\nThe AFL has told its official gambling partner, Sportsbet, to stop featuring its high-profile athletes in AI-generated social media content without player permission.\nSportsbet has also been told to delete AI videos depicting AFL stars delivering lines from movies, television shows or speeches to react to real events.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -705,84 +1108,6 @@
       ]
     },
     {
-      "id": "083eb6d9e76f3ec8f7e00b4c5255943f70a1252c",
-      "title": "TechCrunch Disrupt 2026: Day 1",
-      "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-13T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "ca06a4e7439a553a43c47b90b25a89d86069ce9f",
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-13T13:50:19.000Z",
-      "summary_90w": "",
-      "raw": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "6d14e3f899ed2e7107b532edc3207ba2c604edd6",
-      "title": "Ex-president named leader of new DR Congo rebel coalition ",
-      "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-13T13:40:45.000Z",
-      "summary_90w": "",
-      "raw": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7cc49f8437866574f7cd79fc69885a33a4b60a6b",
-      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
-      "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-13T13:38:03.000Z",
-      "summary_90w": "",
-      "raw": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "5beb6b618bd8fff0aaf96caf65c40e3ae1ac633f",
-      "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
-      "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-13T13:37:19.000Z",
-      "summary_90w": "",
-      "raw": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "16952cab26aac9234c43990e4ed0f6f55baa707d",
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-13T13:28:06.000Z",
-      "summary_90w": "",
-      "raw": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "e30f04b59ac187dbce90033fbede2c9c08075d20",
       "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
       "url": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
@@ -791,71 +1116,6 @@
       "published": "2026-10-13T13:27:31.000Z",
       "summary_90w": "",
       "raw": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "016589b0b2ce48a9190d4439c402477bb178bcc4",
-      "title": "India delays digital payments fee rollout amid retailer pushback",
-      "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-13T13:25:05.000Z",
-      "summary_90w": "",
-      "raw": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "58e51483f1308c09b46bb53f8230fc7545951be1",
-      "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-13T13:23:45.000Z",
-      "summary_90w": "",
-      "raw": "LGBTQ and human rights activists warmly welcomed the move, but call for changes to other Orbán-era laws.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "de48459db6d92449d37cc3d3f3d8cc0582f84628",
-      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
-      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-13T13:16:11.000Z",
-      "summary_90w": "",
-      "raw": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "252e9f7afa15c528b95d4ce55aa27fc4e4706ebe",
-      "title": "Apple makes another push into the smart home market with HomeView",
-      "url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-13T13:15:46.000Z",
-      "summary_90w": "",
-      "raw": "Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "1a1db69e9578c39e9488b025cea85ab86cb119ab",
-      "title": "Supreme Court hears appeal over Maids Moreton murder",
-      "url": "https://www.bbc.co.uk/news/articles/cqly384j8x3mo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-13T13:04:11.000Z",
-      "summary_90w": "",
-      "raw": "The Supreme Court is considering arguments over who legally caused Peter Farquhar’s death.",
       "topics": [
         "World"
       ]
@@ -877,7 +1137,7 @@
       "id": "1f36888f6b47e1b47c9898e77d5d6a5a334c242f",
       "title": "Watch: Emergency calls from botched Christa Pike execution released",
       "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-10-13T12:03:51.000Z",
       "summary_90w": "",
@@ -895,32 +1155,6 @@
       "published": "2026-10-13T11:58:43.000Z",
       "summary_90w": "",
       "raw": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a3069a901d415151503238d3542cbc1ea4e699ef",
-      "title": "BA flight forced to turn back over cracked window",
-      "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-13T11:48:07.000Z",
-      "summary_90w": "",
-      "raw": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "07c9add225496364bf450fed9bbe380da13abf2c",
-      "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
-      "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-13T11:18:44.000Z",
-      "summary_90w": "",
-      "raw": "El Niño has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to previous events.",
       "topics": [
         "World"
       ]
@@ -991,144 +1225,14 @@
       ]
     },
     {
-      "id": "21a3e163c81ab4566db00ba69f68527277cd6f6a",
-      "title": "Anne Aly reveals she has received 19 death threats in the last week alone",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/anne-aly-reveals-she-has-received-19-death-threats-last-week-alone-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-13T09:13:39.000Z",
-      "summary_90w": "",
-      "raw": "After an opposition MP says she should be ‘shamed and stoned’, the federal minister hits back at ‘racist and misogynistic’ language\n\nGet our new political email, free app or daily news podcast\n\nAnne Aly has condemned as “racist” and “misogynistic” comments in parliament calling for her to be “stoned in the square” – while revealing she has received 19 death threats in the last week alone.\nThe Gold Coast Liberal National MP Angie Bell, the member for Moncrieff, told the House of Representatives that Aly, the small business minister, and the prime minister should be “shamed and stoned in the square” over a decision made by the tax office.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fc64e53e06984f1e7f8919e17bb280a9b00212be",
-      "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-10-13T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "With Election Day just a few weeks away — and millions of votes already cast — midterm polls are everywhere. While polling can be a helpful tool to understand the electorate, it's not a crystal ball.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3d7f0be8015a622bb457c8532e6f6934831e189f",
-      "title": "Some of the most pristine coral reefs have a secret weapon: birds",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-10-13T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Coral reefs are facing increasing threats around the globe. But on a remote Pacific island, scientists have found that reefs can get help from a surprising ally: seabirds.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cd8825a9be1abdbec196e20b57a6c8fce16b09dd",
-      "title": "Voters here will decide whether to force cities to build cheaper, smaller homes",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-10-13T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Voters in Massachusetts will decide whether to require cities and towns to allow smaller homes on smaller lots. A growing number of states are doing the same to help ease a housing shortage.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6d6764bc50e0f44e1e95858016817c491f6ee7a6",
-      "title": "Win or lose, independent candidates want to meet voters in the middle",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-10-13T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Nearly 200 independent candidates in more than 100 congressional races are trying to prove there's an alternative to the two party system — even though the chance of winning is very low.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7e5867aaf18273ac2429dbad0b2479d18506ad59",
-      "title": "Child safety staff determined to send Elizabeth Struhs home with parents despite doctors’ concerns, inquest hears",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/elizabeth-struhs-inquest-death-religious-cult-saints-child-safety-witness-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-13T08:53:56.000Z",
-      "summary_90w": "",
-      "raw": "Queensland coronial inquest into death of eight-year-old girl continues after 14 members of religious sect were convicted of her manslaughter\n\nGet our breaking news email, free app or daily news podcast\n\nIt was impossible to change the mind of child safety staff after they had decided to send Elizabeth Struhs home with her parents despite some of her doctors’ concerns, a police officer has told a coronial inquest into the young girl’s death.\nChild safety staff decided in 2019 that it would be “more detrimental” to not return Elizabeth, aged six at the time, to her Toowoomba home upon her discharge from hospital after suffering a coma due to diabetic ketoacidosis, a Queensland coroner heard.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f28d16f61c3b3cce6a0e1ec0376ec1f9ed65df2b",
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-5998694/morning-news-brief",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-10-13T08:46:22.000Z",
-      "summary_90w": "",
-      "raw": "Trump will headline a rally in Alaska Tuesday, federal agents searched Rep. Ilhan Omar's D.C. home Monday, Trump's diesel deal with Russia frustrates European leaders.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3ced160cb32a1061290d3bd56dec8540c276545c",
-      "title": "USA prepares for Women's World Cup with matches against top team Spain",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-5992892/usa-prepares-for-womens-world-cup-with-matches-against-top-team-spain",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-10-13T08:44:08.000Z",
-      "summary_90w": "",
-      "raw": "With less than a year until the FIFA Women's World Cup kicks off in Brazil, the U.S. women's national soccer team is testing its mettle with two friendlies against the world's top team, Spain.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f87636844dfabee0049d70a9076d5ac708a1f990",
-      "title": "How much did Man City's rule breaking cost your team?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-13T08:12:53.000Z",
-      "summary_90w": "",
-      "raw": "The potential impact of Manchester City's rule breaking runs deep, including missed Champions League qualification, relegation and Premier League prize money.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "7f359cce243c93dc24098af904706cc620f07668",
       "title": "Breaking Bad actor RJ Mitte dies aged 34",
       "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-10-13T08:03:34.000Z",
       "summary_90w": "",
       "raw": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "58d42373bee323f68074b0d9aa9d082dde978d3b",
-      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
-      "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-13T07:31:10.000Z",
-      "summary_90w": "",
-      "raw": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
       "topics": [
         "World"
       ]
@@ -1142,32 +1246,6 @@
       "published": "2026-10-13T07:00:18.000Z",
       "summary_90w": "",
       "raw": "Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root. A four-month Guardian investigation reveals the true scale of a continent-wide shift\nA four-month investigation by the Guardian has revealed that the surge in cocaine trafficking to Europe is directly linked to the expanding presence of Latin American criminal networks in Europe, where they have forged close ties with local mafia organisations.\nThe investigation, utilising databases, police and intelligence agencies, along with interviews with judges, prosecutors and experts from eight countries, shows that cartels and factions from Colombia, Brazil, Ecuador, Venezuela, Mexico and the US are active in at least 12 European countries. Between 2014 and 2024, there was a 471% rise in the quantity of cocaine seized and more local laboratories processing cocaine derivatives were dismantled.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e8483d5f6e73c315622723cef5fb1adc88ebb9b9",
-      "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
-      "url": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-13T05:02:57.000Z",
-      "summary_90w": "",
-      "raw": "Women say they share stories of abuse to highlight the issue, despite social pressure and safety fears.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6c0e5653903c03c70e7e3762b2f10e6210f1b88a",
-      "title": "Where the US midterm elections will be won and lost",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-13T05:02:44.000Z",
-      "summary_90w": "",
-      "raw": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
       "topics": [
         "World"
       ]
@@ -1212,19 +1290,6 @@
       ]
     },
     {
-      "id": "fc9ba88f88a5ea846bef6b19594ffe8e68c91d43",
-      "title": "Watch: US man eyes pumpkin world record after fifth contest win",
-      "url": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-13T04:04:57.000Z",
-      "summary_90w": "",
-      "raw": "Horticulture teacher Travis Gienger hauled his pumpkin from Minnesota to Half Moon Bay, California where he won the annual event.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "cba5d058e15250f24f5f6111c1af0f2b7403302b",
       "title": "IMF warns global economy ‘could soon test the limits of resilience’",
       "url": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
@@ -1264,19 +1329,6 @@
       ]
     },
     {
-      "id": "a55388e6f0aad19b537fe16a4a8155942dfab8f7",
-      "title": "Boardroom feud tests trusted Indian business empire",
-      "url": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-12T23:10:32.000Z",
-      "summary_90w": "",
-      "raw": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "a6e1c72149817660fa79cf2b755140c8751479b8",
       "title": "The island where locals say data centres are taking their water   ",
       "url": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
@@ -1300,45 +1352,6 @@
       "raw": "President Trump says his Monday executive order temporarily suspending federal taxes on diesel will be a big relief for farmers. Some farmers call it a campaign ploy with marginal impact.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "410eece1f601213014f2d3f63818305439971b8c",
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-12T21:20:51.000Z",
-      "summary_90w": "",
-      "raw": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "993702dfd5d4747d8cf9365c0747137b4b977693",
-      "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-12T16:46:49.000Z",
-      "summary_90w": "",
-      "raw": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "18a7416e9037f97971d587553dde40c0625e1c84",
-      "title": "What could Trump's energy ceasefire mean for Ukraine?",
-      "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-12T15:51:30.000Z",
-      "summary_90w": "",
-      "raw": "The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1420,19 +1433,6 @@
       ]
     },
     {
-      "id": "f55d23bf00b19b4a7218f5af37bb1050c3ba879e",
-      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-12T05:00:52.000Z",
-      "summary_90w": "",
-      "raw": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1b0d7222026b9ef4df37578cdc33686fc33367a5",
       "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
       "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
@@ -1443,6 +1443,19 @@
       "raw": "Unidentified projectile strikes King Khalid airport, killing one and injuring 11, as escalating attacks threaten to draw more countries into Yemen conflict\n\nAnalysis: attack will force rethink of Trump strategy\n\nA projectile hit a passenger terminal at the airport in Riyadh on Sunday, the day after a deadly missile attack on the facility carried out by Yemen’s Iran-backed Houthi rebel group killed 13 people.\nAn unidentified projectile hit terminal 4 at King Khalid international airport, starting a fire, killing one person and injuring 11, according to Saudi civil aviation authorities. Air defences also intercepted a cruise missile in the vicinity of the airport. It was the latest of several attacks on the airport in the past week.\n Continue reading...",
       "topics": [
         "World"
+      ]
+    },
+    {
+      "id": "dd0867ba44ecfb054336db1f3e9934ad764125cc",
+      "title": "How personal data is being used to control what customers see and pay",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5995376/how-personal-data-is-being-used-to-control-what-customers-see-and-pay",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
+      "published": "2026-10-11T21:16:37.000Z",
+      "summary_90w": "",
+      "raw": "NPR's Joel Rose speaks with Lindsay Owens, president of the economic think tank Groundwork Collaborative, about how companies using data to transform the products and prices customers see.",
+      "topics": [
+        "Business"
       ]
     },
     {
@@ -1654,19 +1667,6 @@
       ]
     },
     {
-      "id": "5b9e15974342e6de789c56c9c14b611dbe3d4bf4",
-      "title": "How the oil industry is preparing for Hurricane Isaias",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-10-09T16:03:32.000Z",
-      "summary_90w": "",
-      "raw": "Hurricane Isaias is this season's first Atlantic hurricane, and is on a path to hit the northern Gulf Coast. How is the oil industry preparing?",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
       "id": "21442acb9316c6dcdb782dfce15a5d96d99d55ac",
       "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
       "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
@@ -1745,19 +1745,6 @@
       ]
     },
     {
-      "id": "3606b0f5cb3006d07754c11fcfbeaaefb4172129",
-      "title": "'Careless use of AI is the real threat - not the ghost stories'",
-      "url": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-10-09T07:05:01.000Z",
-      "summary_90w": "",
-      "raw": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "41c57004f861fac20280e4440b887084e245ffeb",
       "title": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
       "url": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case",
@@ -1792,19 +1779,6 @@
       "published": "2026-10-09T00:25:15.000Z",
       "summary_90w": "",
       "raw": "The company says Russian operatives used its AI chatbot to update their bosses, shedding light on influence campaigns previously not attributed to Russia.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "8c56f41da9da13c9753fc6050fc1a251cd91b828",
-      "title": "Why are more roofs not made of solar tiles?",
-      "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-10-08T23:09:56.000Z",
-      "summary_90w": "",
-      "raw": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
       "topics": [
         "Technology"
       ]
@@ -1948,19 +1922,6 @@
       "published": "2026-09-19T01:00:00.000Z",
       "summary_90w": "",
       "raw": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "effb612279a8fe1537784aa1d51148a9f2ff0004",
-      "title": "Tech Life",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-09-15T19:30:00.000Z",
-      "summary_90w": "",
-      "raw": "What should children learn in a world transformed by artificial intelligence?",
       "topics": [
         "Technology"
       ]
