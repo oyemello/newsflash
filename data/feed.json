@@ -1,16 +1,679 @@
 {
-  "version": "1792046720547",
-  "generatedAt": "2026-10-15T06:45:20.547Z",
+  "version": "1792066252915",
+  "generatedAt": "2026-10-15T12:10:52.915Z",
   "items": [
     {
+      "id": "98fb856ff261288c258257269d633d993c8c3e6e",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T12:03:51.000Z",
+      "summary_90w": "",
+      "raw": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c9a82f69cf2db9ef22231e897aa0f64d6a754c84",
+      "title": "Severe drought declared in parts of southern England",
+      "url": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T12:00:46.000Z",
+      "summary_90w": "",
+      "raw": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b6af0c3578bc7e52e6df8896beb1bea8b9cf8a13",
+      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-10-15T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And coming soon is the $99.99 Bee Eclipse, a credit-card-shaped gadget that snaps magnetically onto the back of a smartphone. \nBoth devices are framed as gadgets to help you stay present in the moment. They listen to your daily conversations and then provide summaries, transcripts, insights, and to-dos based on what ha …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a3fa54bbd59382e24fcea0089d30038f234c239e",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-10-15T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4a83422c50ee045c41b7537daa06f9c37359ba7d",
+      "title": "Ledger’s new hardware wallet is an Android phone without the phone",
+      "url": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-10-15T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The Atom couldn’t have launched at a worse time for Ledger. | Image: Ledger\t\n\nLedger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sales of some of its hardware across southeast Asia following hardware tampering in its supply chain, which has reportedly seen over $86 million worth of crypto stolen from across some users' accounts.\nWhile Ledger's previous hardware wallet signers have been compact devices, running custom software and often with E Ink displays, the Atom is the spitting image of a regular Android smartphone. In fact it  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ebce4d43dc621c472500656d089402742e750647",
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-10-15T11:34:55.000Z",
+      "summary_90w": "",
+      "raw": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "99666013afd93f36ca6b8192f3b5c928fa6a5298",
+      "title": "Australia edge New Zealand in epic World Cup opener",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crn8w411gj1yo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T11:32:50.000Z",
+      "summary_90w": "",
+      "raw": "Jack Bostock scores a hat-trick of tries as Australia fight back to win the opening game of the Rugby League World Cup against New Zealand.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1083b8525e016f998e9066b6107e533135995ac1",
+      "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-15T11:31:25.000Z",
+      "summary_90w": "",
+      "raw": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down in the midterms.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "00194e718c3faa4c7542c7ed0a1d0eba3af478d5",
+      "title": "BBC News channel launches on YouTube for viewers in UK and US",
+      "url": "https://www.bbc.co.uk/news/articles/c60merk2je80o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T11:26:30.000Z",
+      "summary_90w": "",
+      "raw": "The move forms part of the BBC's wider strategy to reach digitally-native new and younger audiences.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8697722038835d3513174c17a01415f5435faead",
+      "title": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-15T11:25:41.000Z",
+      "summary_90w": "",
+      "raw": "Zelenskyy said he felt ‘betrayed’ by the US after Trump’s diesel deal with Russia and the Starlink restrictions\nJust as the leaders sit down at the big table in Brussels, Romania has said that seven people are still missing after a fire on a vessel in Romanian territorial waters of the Black Sea.\nSuspected Russian drones have hit several ships off Romania and neighbouring Bulgaria since last week in a spillover from the Ukraine war, AFP reported.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1938d0f50d7cf2d4e55b1ce71fced85ab2eb347f",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-15T11:25:19.000Z",
+      "summary_90w": "",
+      "raw": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1938d0f50d7cf2d4e55b1ce71fced85ab2eb347f",
+      "title": "Why Starlink internet is so important on the battlefield in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T11:25:19.000Z",
+      "summary_90w": "",
+      "raw": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b00bec5be55a45c3da28ec05128afbd475924292",
+      "title": "Crew in Lewis fishing boat tragedy named by police",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv012jy04eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T11:22:17.000Z",
+      "summary_90w": "",
+      "raw": "The alarm was raised after the men's fishing boat failed to return as planned to Lewis on Tuesday.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2bc3b4bbb30fa8f852cbea89678a2397919f98b0",
+      "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-15T11:12:54.000Z",
+      "summary_90w": "",
+      "raw": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4db14e94c7820394fd9794b7465ce51270fb24ca",
+      "title": "Watch: Harry and Meghan at first joint engagement since UK return",
+      "url": "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T11:10:59.000Z",
+      "summary_90w": "",
+      "raw": "The Duke and Duchess of Sussex are making several public appearances in Nottingham.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "77ca96f19a29200d78afe8f228e906e75032cca4",
+      "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T11:07:13.000Z",
+      "summary_90w": "",
+      "raw": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4df050734ccaaa5bc13b43166ec5a1869703b38a",
+      "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-15T11:06:21.000Z",
+      "summary_90w": "",
+      "raw": "The Trump administration provided few details about its process for canceling hundreds of thousands of Affordable Care Act enrollments — even as the next stage of the anti-fraud effort is underway.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b7ff269fece18d2829c305ff4f2bd92a73983875",
+      "title": "Revealed: Serbian ruler’s secret role in ‘illegal’ effort to help Trump business",
+      "url": "https://www.theguardian.com/world/2026/oct/15/trump-kushner-vucic-belgrade-serbia",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-15T11:00:11.000Z",
+      "summary_90w": "",
+      "raw": "Exclusive: Aleksandar Vučić personally intervened to push plans for controversial $500m Trump Tower in Belgrade, which sparked protests and a criminal case\nSerbia’s authoritarian ruler personally intervened to advance an allegedly illegal scheme to hand over a protected site in Belgrade for a Trump tower, the Guardian can reveal.\nAleksandar Vučić summoned officials to a meeting at his presidential offices about the project, which has culminated in a landmark indictment of senior figures from his regime on charges of abuse of public office.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "faf4d5dfcd6c5d737812a73f9643a92b0a619451",
+      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-10-15T11:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Eiliko. | Photo by Sean Hollister / The Verge\t\n\nThere's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where hackers can easily gain access or even hijack its personality. And the company that made it, Energize Lab, doesn't seem to care.\nI bought an Eiliko from Amazon on August 29th. During a 10-minute conversation on August 30th, I asked the little bot: \"Do you ever tell anybody else what I'm saying?\"\n\"Your secrets are safe with me,\" it replied.\nWith …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "91597a30802a33ee868894f6bdaa2ecec3121923",
+      "title": "Man Utd a circus after Martinez comments - Keane",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T10:57:15.000Z",
+      "summary_90w": "",
+      "raw": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f16ee29e4b333ff77725921bb720b80d4954375a",
+      "title": "Watch: Swimmer's emotional TV plea for cancer research leads to meeting with PM",
+      "url": "https://www.bbc.co.uk/news/videos/cxnv01gylmvjo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T10:56:25.000Z",
+      "summary_90w": "",
+      "raw": "Scottish athlete, Archie Goodburn, who was diagnosed with three inoperable brain tumours two years ago, met Andy Burnham after an appeal for more investment into brain cancer research.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a865f868a016d279fb2d9ac3c0fed069568c4947",
+      "title": "Obama says drift towards extremism 'not inevitable'",
+      "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-15T10:51:53.000Z",
+      "summary_90w": "",
+      "raw": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9ea972ef1e3d882829ddca5dfab7e023fab5b16a",
+      "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+      "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-15T10:38:26.000Z",
+      "summary_90w": "",
+      "raw": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook markets\n\nBusiness news – live updates\n\nLarry Elliott: the global economy is muddling through. But a storm is coming\n\nAn accelerating sell-off of AI-linked shares has hit global markets, as fears over rising inflation and future interest rate hikes spooked traders already wary of the heavily indebted sector.\nSouth Korea’s benchmark Kospi 200 index, which is heavily skewed towards the companies that make memory chips, fell more than 8% overnight to a six-month closing low, triggering circuit breakers that brought trading to a halt at various points.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "090584bc945ef8fff488b851335de7b3ee87872a",
+      "title": "Albania’s prime minister vows not to resign over student-led protests",
+      "url": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-15T10:34:51.000Z",
+      "summary_90w": "",
+      "raw": "Demonstrators are demanding resignation of Edi Rama after three days of clashes in Tirana\nAlbania’s prime minister, Edi Rama, has said he will not resign over student-led demonstrations, as protesters and police clashed in the country’s capital for a third consecutive day.\nPolice used teargas and water cannon to disperse demonstrators marching along several main roads around Tirana, while protests spread to other cities.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e5876713c5c91030d39467f5bab0f81a6337b266",
+      "title": "Reform faces criticism after councillors filmed making racist comments",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T10:20:51.000Z",
+      "summary_90w": "",
+      "raw": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7a3afc26dea539777ad96d3af0494359bf007e06",
+      "title": "Russia and Ukraine resume energy strikes despite Trump warnings",
+      "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-15T10:14:49.000Z",
+      "summary_90w": "",
+      "raw": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries\n\nEurope live – latest updates\n\nThe White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrastructure in central Ukraine and Kyiv appeared to resume strikes on Russian oil refineries – despite warnings from Donald Trump.\nMoscow accused Ukraine of launching a strike against a Russian oil refinery in the Ryazan region, its first since Trump abruptly declared an “energy ceasefire” that neither Russia nor Ukraine said they had agreed to.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d8b18e03256d3b12ca4a1d2080dd7f17e57d4f77",
+      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-15T10:05:58.000Z",
+      "summary_90w": "",
+      "raw": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1cf796ca9a8d7255230ae284a2694fc27decd4f6",
+      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-15T10:05:29.000Z",
+      "summary_90w": "",
+      "raw": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e6451d289b95b06a5e092418970a9a0f3d7f9e31",
+      "title": "Brazil's Congress approves shorter working week in win for Lula",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T10:05:17.000Z",
+      "summary_90w": "",
+      "raw": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ba54c79d71e3f180d4050c00e6bd8fd1c3663ee3",
+      "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
+      "url": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-10-15T10:05:07.000Z",
+      "summary_90w": "",
+      "raw": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led BDS (Boycott, Divestment, Sanctions) movement, which has called to boycott Microsoft, including products under the company's gaming division.\nMicrosoft was named a priority BDS target in June last year over contracts it has with the Israeli military and government, with the boycott specifically calling out Xbox conso …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ea73f5d657307fa422f80beacd9907c868f6d781",
+      "title": "Spain bids for Rugby World Cup with Nou Camp final",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqdjv9872xg3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T10:01:05.000Z",
+      "summary_90w": "",
+      "raw": "Barcelona's Nou Camp, Madrid's Bernabeu and the Mestalla in Valencia are all on a list of possible venues as Spain bids to host the Rugby World Cup in 2035.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6e142c9ecbe2a4afa0fed806baea205475996388",
+      "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
+      "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-10-15T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "babacb5a9ed103a229b91b7cb7665cde30acd9f8",
+      "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-15T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "3e64b0135523e9256b25a1ade965706b8e3ca18d",
-      "title": "Economy grew 0.1% in August ahead of chancellor's first Budget",
+      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
       "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-10-15T06:27:32.000Z",
+      "published": "2026-10-15T09:29:54.000Z",
       "summary_90w": "",
-      "raw": "The uptick helped the economy grow by 0.7% over the three months to August, official figures show.",
+      "raw": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7ebc908bc9f2bd648d0d5b11429e365ccae2431c",
+      "title": "UK threatens to ban Eritreans over migrant return policy",
+      "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T09:17:57.000Z",
+      "summary_90w": "",
+      "raw": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "27d66edfe190f9d73fff9ce796da8ca6fbe84e68",
+      "title": "Essential items to stock in your medicine cabinet for cold and flu season",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-15T09:02:00.000Z",
+      "summary_90w": "",
+      "raw": "Cold and flu season is here. Before someone in your household gets hit, make sure you have these essential meds and comfort items in your medicine cabinet.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7ef3cbfca5d1bdaf527991257c3c08b10ac9ef62",
+      "title": "For some Christians, Hegseth's plan for public execution fits a biblical mandate",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-15T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Defense Secretary Hegseth's announcement of a livestreamed execution elicited reactions of disgust and condemnation from some faith leaders and politicians. But within his church, it's not an outlier.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e99d501bdfe4a0c20c8f079e3bc8c6a7a2515b6c",
+      "title": "These swing voters regret voting for Trump and it's influencing their midterm choices",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-15T09:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Some key voters in Georgia say deep frustration and disappointment with President Trump are motivating their election plans just weeks before Election Day.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "955d39d89b3f255cccb69dfc9f01bd47f8bfab2c",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-5998698/morning-news-brief",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-15T08:46:47.000Z",
+      "summary_90w": "",
+      "raw": "Trump's campaign tour continues as Republicans rally voters ahead of midterms, Ukraine faces limited access to Starshield technology, Houthi rebels hit Saudi oil company building.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6c1b2e285cdc91724f0ee0100d9adc824231ad11",
+      "title": "White House defends new press secretary after questions about her legal credentials",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T08:41:04.000Z",
+      "summary_90w": "",
+      "raw": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6c1b2e285cdc91724f0ee0100d9adc824231ad11",
+      "title": "White House defends new press secretary amid questions about her legal credentials",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-15T08:41:04.000Z",
+      "summary_90w": "",
+      "raw": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "51d25dbff751997f219b18b668fa2630494ce168",
+      "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-10-15T08:22:07.000Z",
+      "summary_90w": "",
+      "raw": "The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f359342799690a42b3482d658a5b07ce0868a66b",
+      "title": "What's going on between Kelly Clarkson and a Brooklyn store bird?",
+      "url": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T08:19:00.000Z",
+      "summary_90w": "",
+      "raw": "The Since U Been Gone singer claims she was \"looked at as if I couldn't afford\" an item in the store.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "be4ddbbaaa398d2ce9daefce731c546dc5865192",
+      "title": "Actor Imran Khan ordered to leave India after participating in protest",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-15T08:17:07.000Z",
+      "summary_90w": "",
+      "raw": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d2ccff900c14b37c74df320eebc6581d9bbe34a7",
+      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-15T08:00:25.000Z",
+      "summary_90w": "",
+      "raw": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports\nMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report.\nMore than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, according to HIV Justice Network, an organisation quoted in the Human Rights Watch (HRW) report. Among these, at least 84 were charged with “voluntary HIV transmission”, solely on the basis of their HIV status.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7ab304c25c3f595985193ccf57f349d0eb97bbd2",
+      "title": "Woman charged after allegedly poisoning colleague’s curry lunch with snail pellets",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/15/woman-charged-after-allegedly-poisoning-colleagues-curry-lunch-with-snail-pellets-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-15T07:47:40.000Z",
+      "summary_90w": "",
+      "raw": "Western Australian police say woman ‘experienced numbness to her tongue’ after tasting the curry at her workplace in Perth\n\nGet our breaking news email, free app or daily news podcast\n\nA woman has been charged after allegedly poisoning a co-worker’s lunch curry with snail pellets.\nWestern Australian police say a 58-year-old woman brought a container of curry to share with colleagues at her workplace in Perth’s southern suburbs in February.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "443851b1cdac1d12ea7ac34db3004485a5b1b7c8",
+      "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy435gd311o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-15T07:25:54.000Z",
+      "summary_90w": "",
+      "raw": "The body was recovered from a large blue plastic storage container - locally called a drum.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "cb506ac174b697ee584fe761a6cf818b0b3f269a",
+      "title": "ADF member ‘person of interest’ after video recorder found in HMAS Leeuwin women’s showers",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/15/adf-person-of-interest-recording-device-hmas-leeuwin-womens-showers-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-15T07:00:34.000Z",
+      "summary_90w": "",
+      "raw": "Vice Adm Buckley calls incident an ‘act of sexual violence’ and a ‘despicable betrayal of trust’\n\nGet our breaking news email, free app or daily news podcast\n\nThe defence department says a member of the Australian Defence Force is a “person of interest” in investigations after a video recording device was found in a bathroom on HMAS Leeuwin, in what the chief of navy called a “despicable betrayal of trust”.\nA day after senator Jacqui Lambie told the Senate that a hidden camera had been found in a female shower facility onboard the naval ship, docked in Cairns, navy chief Matt Buckley confirmed a “video recording device” had been located in one of the ship’s bathrooms.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "42190b3298c11ea922879b6757dac50b8505a15f",
+      "title": "ADF member ‘person of interest’ after ‘despicable betrayal of trust’ on Navy ship where camera found in women’s shower – as it happened",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-15T06:54:56.000Z",
+      "summary_90w": "",
+      "raw": "This blog is now closed\n\nGet our breaking news email, free app or daily news podcast\n\nPrivate health insurance changes ‘recalibrating precious taxpayer dollars’, says Wells\nThe health minister, Mark Butler, yesterday promised to reintroduce a bill to reduce private health insurance rebates for over-65s, after it was thrown out of the Senate by the crossbench and Coalition.\nIt’s really important we reintroduce it, because we need to raise the level of support and resourcing for aged care. I was the aged care minister before being the communications minister, we need to work urgently. There’s not enough beds being built for older Australians who need that support. It’s recalibrating precious taxpayer dollars.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8892e925967f738229ec524eafa668d71d44910a",
+      "title": "Victoria to become first state to make abortions free as Coalition matches Labor election promise",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/15/victoria-to-become-first-state-to-make-abortions-free",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-15T06:35:48.000Z",
+      "summary_90w": "",
+      "raw": "Exclusive: Out-of-pocket costs for abortion care to be covered regardless of who wins November election as Jess Wilson says Liberals and Nationals ‘will not allow Labor to play politics on this issue’\n\nFollow our Australian politics live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nVictoria will become the first state in Australia to make access to abortion care free, no matter who wins the November election, with the Coalition matching Labor’s promise just hours after it was announced as it attempts to neutralise the issue.\nThe opposition leader, Jess Wilson, on Thursday afternoon told Guardian Australia a Liberal National Coalition government would match Labor’s commitment to cover out-of-pocket costs for abortion care up to 16 weeks’ gestation. This would include GP and specialist consultations, scans, tests or medication, which can quickly add up to more than $1,000.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d9102077c8cd9b8f4c145ff3a42c26f4fcca6561",
+      "title": "Could Wenger really take on Infantino and run for Fifa presidency?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T06:35:39.000Z",
+      "summary_90w": "",
+      "raw": "Senior figures in European football tell BBC Sport they want former Arsenal manager Arsene Wenger to run as a surprise candidate against Gianni Infantino.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "34427365eb21bcc88855f3d5f2809cf73e99c2c8",
+      "title": "Doctors treating Elizabeth Struhs recommended involuntary mental health assessment of her mother, coroner hears",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/15/elizabeth-struhs-inquest-child-safety-doctors-mother-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-10-15T06:32:08.000Z",
+      "summary_90w": "",
+      "raw": "Inquest into death of Queensland girl denied insulin by her religious parents is told Kerrie Struhs believed God would heal her daughter\n\nGet our breaking news email, free app or daily news podcast\n\nDoctors were so concerned about the religious beliefs of Elizabeth Struhs’ mother they recommended she be subjected to an involuntary mental health assessment because she delusionally believed her daughter would be healed from type 1 diabetes, a coroner has heard.\nChild safety officers, nonetheless, decided to return the eight-year-old home to live with her mother, Kerrie Struhs, over the objections of Brisbane-based doctors, in 2019.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -19,7 +682,7 @@
       "id": "48d7144fded9b5e8e6d069c1ff00c0a2e5279cf8",
       "title": "North Korea and China open new bridge after 12-year delay",
       "url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-10-15T06:24:45.000Z",
       "summary_90w": "",
@@ -29,118 +692,53 @@
       ]
     },
     {
-      "id": "42190b3298c11ea922879b6757dac50b8505a15f",
-      "title": "Australian politics live: ADF member ‘person of interest’ after ‘despicable betrayal of trust’ on Navy ship where camera found in women’s shower",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-15T06:10:18.000Z",
+      "id": "eca3758b1d907772cc789d25730f2bf494b1b50e",
+      "title": "The F1 pit stop that helped save lives",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6ly0q00gj5do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-10-15T05:56:53.000Z",
       "summary_90w": "",
-      "raw": "Follow the day’s news live.\n\nGet our breaking news email, free app or daily news podcast\n\nPrivate health insurance changes ‘recalibrating precious taxpayer dollars’, says Wells\nThe health minister, Mark Butler, yesterday promised to reintroduce a bill to reduce private health insurance rebates for over-65s, after it was thrown out of the Senate by the crossbench and Coalition.\nIt’s really important we reintroduce it, because we need to raise the level of support and resourcing for aged care. I was the aged care minister before being the communications minister, we need to work urgently. There’s not enough beds being built for older Australians who need that support. It’s recalibrating precious taxpayer dollars.\n Continue reading...",
+      "raw": "How an F1 pit stop inspired changes to hospital care that have helped save lives ever since.",
       "topics": [
         "World"
       ]
     },
     {
       "id": "746492d732ddb28fa1537e48145dfde520e8b184",
-      "title": "Poland looks to economic heights in a country transformed since Soviet days",
+      "title": "Poland’s ascent from communist state to top 20 economy reverses the brain drain",
       "url": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
       "published": "2026-10-15T05:56:12.000Z",
       "summary_90w": "",
-      "raw": "In the final part of our series on the country, Poles tell how wages have soared – along with the cost of living\nAbove the rain-soaked streets of Warsaw, the observation deck of the Varso tower overlooks Joseph Stalin’s gift to Poland that has divided opinion for decades.\nFor some, the Soviet-era Palace of Culture and Science is a drunk confectioner’s nightmare; standing as a relic of oppression that should have been demolished. For others, it is an icon on the skyline and a monumental warning from history.\n Continue reading...",
+      "raw": "In the final part of our series on the country, Poles tell how wages have soared – along with the cost of living\n\nWill military spending help or hinder Poland’s growth story?\n\nPoland’s push for EU energy resilience amid Russian aggression\n\n\nAbove the rain-soaked streets of Warsaw, the observation deck of the Varso tower overlooks Joseph Stalin’s gift to Poland that has divided opinion for decades.\nFor some, the Soviet-era Palace of Culture and Science is a drunk confectioner’s nightmare; standing as a relic of oppression that should have been demolished. For others, it is an icon on the skyline and a monumental warning from history.\n Continue reading...",
       "topics": [
         "World"
       ]
     },
     {
-      "id": "39dc5135278ef5b07a0eb31af7e7ec1041592016",
-      "title": "Thursday briefing: Thanks to an erratic Trump, peace in Ukraine is still far away",
-      "url": "https://www.theguardian.com/world/2026/oct/15/thursday-briefing-thanks-to-an-erratic-trump-peace-in-ukraine-is-still-far-away",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-15T05:44:12.000Z",
-      "summary_90w": "",
-      "raw": "In today’s newsletter: As Russia resists a ceasefire and Trump’s shifting priorities unsettle allies, an end to the conflict isn’t getting any closer\nGood morning. In his usual asinine unconventional approach to international relations, Donald Trump announced on Sunday (via Truth Social, how else) an “ENERGY CEASEFIRE in the War between Russia and Ukraine”, apparently without checking with either side. Volodymyr Zelenskyy, who said any such deal was “news to me,” nonetheless declared he was “ready and we will accept it”. Vladimir Putin responded by blowing up some Ukrainian power plants.\nThis has been the tenor of much diplomacy during Trump’s tenure: false starts, U-turns, incoherent positions (and some playful flirting with Vlad). Meanwhile fighting continues, and America’s allies attempt to manage the fallout. Andy Burnham hosted Zelenskyy at Downing Street yesterday, stating the UK is doubling down on its support for Ukraine, and pointedly calling on others to “follow suit”.\nUK | Sally Rooney has said she is being forced to withdraw her books from sale in the UK because of her support for the banned organisation Palestine Action.\nGaza | Israel is refusing to allow a key military outpost project for Donald Trump’s Board of Peace to proceed in Gaza, the Guardian has learned.\nEU | Britain will benefit from much closer trading relations with the EU even if that means giving up its ability to negotiate free trade agreements, the Scotland secretary has said.\nUkraine | Ukraine’s military has suddenly had its access to Starlink satellite internet terminals restricted as the Trump administration has increased pressure on Ukraine to immediately halt long-range strikes on Russia’s oil industry.\nVaccine | Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f6dcf92939d7cc49bfa1a7d451277bca13ea2430",
-      "title": "Ex-DUP leader Donaldson to be sentenced for child sex abuse including rape",
-      "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+      "id": "7f86f4ca76b594592c62a7a96c0df0d415e5dce0",
+      "title": "Tiny critically endangered puddle frogs hatch at London Zoo",
+      "url": "https://www.bbc.co.uk/news/articles/cr2keqxggx0wo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-10-15T05:29:57.000Z",
+      "published": "2026-10-15T05:03:03.000Z",
       "summary_90w": "",
-      "raw": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "d253b8d028372a1a3d77ea8858ecb8f905e9b251",
-      "title": "Beau Lamarre-Condon allegedly asked celebrity chaser friend if he could post phone to her in WA to throw in water, court told",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/beau-lamarre-condon-asked-friend-to-dispose-of-phone-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-15T05:29:35.000Z",
-      "summary_90w": "",
-      "raw": "Stacey Parker was contacted following alleged murders, years after meeting Lamarre-Condon in Sydney and bonding over scepticism of Covid vaccines\n\nFollow our Australia politics live blog for latest updates\n\nGet our new political email, free app or daily news podcast\n\nBeau Lamarre-Condon asked a friend in Western Australia if he could post her a phone to be thrown into a body of water, and told her he’d been “set up” over the disappearance of two men, a court has heard.\nLamarre-Condon, 31, has been accused of fatally shooting Sydney couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. He has pleaded not guilty to two counts of murder and one charge of aggravated break and enter.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fd96e0b4223998c1d61c0cd635bd8790e8470bd9",
-      "title": "‘Manosphere’ podcasts and moon-landing conspiracy theories to remain online under new laws, Wells says",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/anika-wells-dismisses-gov-censorship-claims-online-safety-national-press-club-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-15T05:22:50.000Z",
-      "summary_90w": "",
-      "raw": "Communications minister rebuts claims that Labor’s digital duty of care laws would lead to government control of speech\n\nFollow our Australian politics live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAustralians could still “listen to manosphere podcasts” or “say the moon landing was fake” under proposed new online safety laws, Anika Wells has stressed as she rubbished claims they would lead to government censorship\nThe communications minister also said she was considering updates to the digital duty of care laws to allow individual Australians to directly sue big tech companies flouting the new rules. This has been a key demand from the Greens for their support for the laws, while the Coalition accuses Labor of plans to “secretly control Australian speech”.\nSign up for Guardian Australia’s Politics, really newsletter here\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "18169e3ae6673f9e6fe0c7091e82892c46a9316d",
-      "title": "My contraceptive coil saved my life after it revealed I had cancer",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8nkqlvv9qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-15T05:05:59.000Z",
-      "summary_90w": "",
-      "raw": "Caroline Bailey was diagnosed after suffering with \"a stabbing pain in the middle of my abdomen\".",
+      "raw": "The Afia Birago’s puddle frogs are a recently identified species from a single Ghanaian forest.",
       "topics": [
         "World"
       ]
     },
     {
       "id": "626f1c88462603a3f9d3b774e20185f0c84bdb95",
-      "title": "Hundreds of IDF investigations into killings without public outcome, BBC Verify finds",
+      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
       "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-10-15T05:00:23.000Z",
       "summary_90w": "",
       "raw": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "714d1f0b729fec3b5bee74d4b6756f574200eb51",
-      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-15T04:30:08.000Z",
-      "summary_90w": "",
-      "raw": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
       "topics": [
         "World"
       ]
@@ -185,66 +783,14 @@
       ]
     },
     {
-      "id": "ebce4d43dc621c472500656d089402742e750647",
-      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-15T04:19:17.000Z",
-      "summary_90w": "",
-      "raw": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e631a29868f7fcda476f6e2805be688b7cce42b6",
       "title": "Australian woman charged with lacing colleague's curry with snail poison",
       "url": "https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-10-15T04:17:45.000Z",
       "summary_90w": "",
       "raw": "The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8892e925967f738229ec524eafa668d71d44910a",
-      "title": "Victoria to become first state to make abortions free as Coalition matches Labor election promise",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/victoria-to-become-first-state-to-make-abortions-free",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-15T04:05:58.000Z",
-      "summary_90w": "",
-      "raw": "Exclusive: Out-of-pocket costs for abortion care to be covered regardless of who wins November election as Jess Wilson says Liberals and Nationals ‘will not allow Labor to play politics on this issue’\n\nFollow our Australian politics live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nVictoria will become the first state in Australia to make access to abortion care free, no matter who wins the November election, with the Coalition matching Labor’s promise just hours after it was announced as it attempts to neutralise the issue.\nThe opposition leader, Jess Wilson, on Thursday afternoon told Guardian Australia a Liberal National Coalition government would match Labor’s commitment to cover out-of-pocket costs for abortion care up to 16 weeks’ gestation. This would include GP and specialist consultations, scans, tests or medication, which can quickly add up to more than $1,000.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b2b3169c784f514c3066946f6862726f93c32bb1",
-      "title": "Greens senator Jordon Steele-John takes leave amid investigation into complaints",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/greens-senator-jordan-steele-john-leave-investigation-complaints-ntwnb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-15T04:00:50.000Z",
-      "summary_90w": "",
-      "raw": "Steele-John said he rejected the claims and had referred them to the Western Australian Greens for a ‘fair, independent process’\n\nFollow our Australian politics live blog for latest updates\n\nGet our new political email, free app or daily news podcast\n\nGreens senator Jordon Steele-John has taken leave from the party room after complaints were made, triggering an independent review.\nThe Nine newspapers reported on Thursday afternoon that seven party members demanded an investigation into allegations he made inappropriate comments to a number of women between 2017 and 2025.\nSign up for Guardian Australia’s Politics, really newsletter here\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7ae1d5f7a2579455c3dd12d1094e5291d6e16d7a",
-      "title": "Verse from the waste land: Rotterdam’s poetic bin lorries granted cultural status",
-      "url": "https://www.theguardian.com/world/2026/oct/15/rotterdam-poems-bin-lorries-granted-cultural-status",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-15T04:00:23.000Z",
-      "summary_90w": "",
-      "raw": "Lyrical lines printed on side of city’s fleet of rubbish trucks now recognised as one of Netherlands’ proud traditions\nIt is best known for its rich migration history and striking modern architecture. But now the Dutch city of Rotterdam is seeking recognition for a rather different characteristic: its tradition of printing poetry on bin trucks.\nSince a poetry festival first came up with the idea in 1988, lines of verse have been printed on all of the city’s waste vehicles. The practice was this week elevated to the status of intangible cultural heritage, with formal recognition from a Dutch body that guards the nation’s traditions.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -258,19 +804,6 @@
       "published": "2026-10-15T03:26:36.000Z",
       "summary_90w": "",
       "raw": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6c1b2e285cdc91724f0ee0100d9adc824231ad11",
-      "title": "White House defends new press secretary amid questions about her legal credentials",
-      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-15T03:03:16.000Z",
-      "summary_90w": "",
-      "raw": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
       "topics": [
         "World"
       ]
@@ -292,7 +825,7 @@
       "id": "10ec149850e55f093811979af502cf00ba6be9b4",
       "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
       "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-10-15T02:26:07.000Z",
       "summary_90w": "",
@@ -328,19 +861,6 @@
       ]
     },
     {
-      "id": "99039f9a8f599b1e5d4a84c9919d7549c25bba55",
-      "title": "The Papers: 'Zelenskyy blames Trump' and Brand a 'sex predator'",
-      "url": "https://www.bbc.co.uk/news/articles/ckwyq67e64pdo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-15T00:41:45.000Z",
-      "summary_90w": "",
-      "raw": "Volodymyr Zelensky's visit to London and the first day of Russell Brand's rape trial dominate Thursday's front pages.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "893a9fc91456278e65d66bc072001c1bc68525d4",
       "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
       "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
@@ -368,7 +888,7 @@
     },
     {
       "id": "5c21a1991d0b8cfadd902c96da72a25bd1a5a5e2",
-      "title": "Wales has a school standards crisis. Will plans to fix it actually work?",
+      "title": "Wales has an education crisis. Can it be fixed?",
       "url": "https://www.bbc.co.uk/news/articles/cw240qv4ygzmo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -381,13 +901,13 @@
     },
     {
       "id": "46c90effd3675272e5daf2ae256e94adc62b6686",
-      "title": "I'm 12 and I want to try protein powder - should I?",
+      "title": "My son wants to try protein powders - I asked experts how safe it was",
       "url": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-10-15T00:00:35.000Z",
       "summary_90w": "",
-      "raw": "We asked experts how safe it is for children and teenagers to take protein supplements.",
+      "raw": "Are protein supplements recommended for pre-teens and teenagers or is a big, juicy steak just as good?",
       "topics": [
         "World"
       ]
@@ -419,27 +939,14 @@
       ]
     },
     {
-      "id": "da02fd209c4433c866b7b62d0182025c93750590",
-      "title": "Global charity withholds report into its role in Syria's 'disappeared' children",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "id": "1fb0742a9fd0b1f27064922a813f8dfdde22945a",
+      "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+      "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2026-10-14T23:20:57.000Z",
+      "published": "2026-10-14T23:32:11.000Z",
       "summary_90w": "",
-      "raw": "SOS Children's Villages International has acknowledged that more than 140 children were taken to its facilities by Syrian security services.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "927202b861f3869a15970d2adb10c3779e9f0d0b",
-      "title": "Student protests in Albania turn violent as demonstrators clash with police",
-      "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-14T23:19:43.000Z",
-      "summary_90w": "",
-      "raw": "Dozens of people detained after government building and two banks set on fire  as tens of thousands march over education costs and corruption\nTens of thousands of students have taken to the streets of Tirana, the Albanian capital, setting alight a government building and two banks and hurling stones at police during a protest over rising education costs and ⁠corruption.\nPolice responded with water ⁠cannon and teargas to disperse protesters who started a fire at the ministry of education building, overturned bins and smashed the fronts of local businesses. A branch of Raiffeisen Bank near the education ministry also caught fire.\n Continue reading...",
+      "raw": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
       "topics": [
         "World"
       ]
@@ -458,6 +965,19 @@
       ]
     },
     {
+      "id": "e9db7b2bc5deecc410a912060a4a1b32ad0e9f8a",
+      "title": "How a Chinese-made toy gets to a US retailer",
+      "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-10-14T23:01:28.000Z",
+      "summary_90w": "",
+      "raw": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "d11f1899a6c72f9a7e96d34add249cd7c7da4f10",
       "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
       "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
@@ -468,19 +988,6 @@
       "raw": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "c162bb4d2af9f33ed8fa5195e350fbee86e41cf6",
-      "title": "Guardiola's return, Man City's defiance - and a game of glorious chaos",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-14T22:57:23.000Z",
-      "summary_90w": "",
-      "raw": "Manchester City put on a show of defiance on their return to Etihad Stadium - even in the face of a PSG masterclass, writes Phil McNulty.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -497,49 +1004,10 @@
       ]
     },
     {
-      "id": "e5876713c5c91030d39467f5bab0f81a6337b266",
-      "title": "Reform faces criticism after councillors filmed making racist comments",
-      "url": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-14T22:34:47.000Z",
-      "summary_90w": "",
-      "raw": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "755ea41b3cb06e9c943ba37bd9506d1a98bb3621",
-      "title": "Pope Leo’s recovery from lung cancer surgery ‘progressing as planned’",
-      "url": "https://www.theguardian.com/world/2026/oct/14/pope-leo-recovery-lung-cancer-surgery-progressing-as-planned",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-14T22:31:18.000Z",
-      "summary_90w": "",
-      "raw": "Pontiff has begun walking in his hospital room and is eating normally after operation to remove growth, doctors say\nPope Leo’s recovery from a lung cancer operation is progressing as planned, his doctors have said, as the pontiff received good wishes from around the world, including from Britain’s King Charles.\nLeo, who had a cancerous mass removed from his right lung late on Tuesday, began walking in his hospital room after respiratory therapy on Wednesday. He was eating normally, his doctors Luigi Carbone and Stefano Margaritoria said in a statement issued by the Vatican.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "32af9a22a73cfb52e305989ac6b508b22fab1f07",
-      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-14T22:31:10.000Z",
-      "summary_90w": "",
-      "raw": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "68e893249691a9ce85e44efc39cd2c3b1b549cb0",
-      "title": "Inside Brooklyn novelty shop at centre of 'surreal' row with Kelly Clarkson over mechanical bird",
+      "title": "At the Brooklyn novelty shop in 'surreal' row with Kelly Clarkson over mechanical bird",
       "url": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-10-14T22:19:13.000Z",
       "summary_90w": "",
@@ -601,19 +1069,6 @@
       ]
     },
     {
-      "id": "7ebc908bc9f2bd648d0d5b11429e365ccae2431c",
-      "title": "UK threatens to ban Eritreans over migrant return policy",
-      "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-14T21:30:13.000Z",
-      "summary_90w": "",
-      "raw": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "88ac6d1c3f06222f0526a1499b3df95ba78896a4",
       "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
@@ -637,19 +1092,6 @@
       "raw": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "ff4c841e83bfbac2d657c56e97577150293c6072",
-      "title": "Why Zelensky's meeting with Burnham matters",
-      "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-14T20:41:03.000Z",
-      "summary_90w": "",
-      "raw": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -718,19 +1160,6 @@
       ]
     },
     {
-      "id": "1938d0f50d7cf2d4e55b1ce71fced85ab2eb347f",
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-14T19:52:04.000Z",
-      "summary_90w": "",
-      "raw": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "10bff8f3b6e46876b67da9ec8a67ff9464951e17",
       "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
       "url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
@@ -783,19 +1212,6 @@
       ]
     },
     {
-      "id": "5bfd9745b8d05a6efc1eebec1955dd4ad08d30fd",
-      "title": "Swimmer Archie Goodburn thanks prime minister as brain cancer review announced",
-      "url": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-14T19:04:46.000Z",
-      "summary_90w": "",
-      "raw": "The Scottish athlete, who has inoperable brain tumours, previously made a tearful plea for more investment in brain cancer research on BBC Breakfast.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1c06cb477f7a4021495bf2b3581ae11c0accc0c2",
       "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
       "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
@@ -835,19 +1251,6 @@
       ]
     },
     {
-      "id": "95589d620ddd85432dbc49d6f9ea241dcdba572f",
-      "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
-      "url": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-10-14T18:38:59.000Z",
-      "summary_90w": "",
-      "raw": "The new Apple TV 4K and remote look just like the old ones and mostly have the same features.\t\n\nIt's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote locator, better home control integration - the 2022 Apple TV 4K is a great box, but there's still plenty of room for improvement. With the fourth-gen Apple TV 4K announced on Tuesday, some of those hopes were met, while others were unfortunately left out.\nColoring the announcement is the device's price. Apple eliminated the cheaper 64GB, Wi-Fi-only model, leaving just the 128GB, Wi-Fi and Ethernet model - and bumped up its p …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "55222f29942f90101ec111a9a8d59a0bcaf3b8a7",
       "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
       "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
@@ -861,36 +1264,10 @@
       ]
     },
     {
-      "id": "939ecdfa504040eb97b221ce27033ad04b2a3c83",
-      "title": "YouTube sticks new labels on AI-generated songs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-10-14T18:22:56.000Z",
-      "summary_90w": "",
-      "raw": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it includes things like \"using a generative model to create the composition and vocals.\" In its rules for music partners who upload their songs, YouTube lays out how to disclose generative AI use, and says that if there's no disclosure, it may use \"other signals\" to decide if a song is AI-generated.\nThe label is rolling out starting today in the YouTub …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "ddf812ab21d1a2f8edbb33afeb0636e217951721",
-      "title": "Save up to 20 percent on gift cards for REI, Barnes &#038; Noble, and more",
-      "url": "https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-10-14T18:20:55.000Z",
-      "summary_90w": "",
-      "raw": "While we cover a lot of deals on specific products, it’s rare that we find worthwhile savings on gift cards that let you save on essentially anything the store sells. However, until October 19th, you can save up to twenty percent on gift cards when you buy them through the Google Play store. There are a variety of discounts and retailers available, including 20 percent off $50 at Barnes and Noble, 20 percent off $100 at REI, and 10 percent off $100 at GameStop.\nYou don’t need an Android phone or tablet to save, but you’ll need to sign up for a Google Play account if you don’t have one already. In addition to the gift cards, Google is offering discounts on subscriptions like Calm and DuoLingo, as well as bonuses on in-app purchases in games like Pokémon Go and PUBG Mobile.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "19370bf04b57aeafb5f600ac09c5fc8c184f5b47",
       "title": "What if you could turn off your algorithm? Australia is about to try",
       "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-10-14T18:00:54.000Z",
       "summary_90w": "",
@@ -910,45 +1287,6 @@
       "raw": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "7956f94bfe622ccd2516b82a38880b37ec6ccfd2",
-      "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-14T17:55:53.000Z",
-      "summary_90w": "",
-      "raw": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "006fb5835ce7963e9a39e81bf14711958360d9ac",
-      "title": "Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon",
-      "url": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-10-14T17:24:42.000Z",
-      "summary_90w": "",
-      "raw": "It’s like a big Apple Watch for the home. | Image: Apple\t\n\nApple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $289.99 ($10 off) in gray and the creamy white “starlight” colorway at Amazon. Sure, it’s a small discount, but deals on new Apple devices ahead of launch are rare.\nApple HomeView\n\nWhere to Buy:\n\n $299 $289.99 at Amazon\n $299 at Apple\n $299 at Best Buy\n\nExpect a full review of the HomeView in November, but my colleague Jennifer Pattison Tuohy spent some brief time with it and likened it to an “iPhone for your home” that looks a bit like an oversized Apple Watch. It features a gorgeous seven-inch square touchscreen that can recognize up to six household members and automatically switch between personalized experiences, displaying information relevant to whoever is using it.\nAs you might already know, the HomeView also doubles as a smart home hub, with support for Matter and Thread. You can use it to control compatible smart home devices, view live feeds and recorded footage from HomeKit Secure Video cameras, and more. It also features a 12-megapixel FaceTime camera for video calls, and doubles as an entertainment device, letting you play music, display photos, and more.\nApple’s AI-powered Siri assistant is another big part of the experience, allowing you to ask questions and get information using personal context from your messages, calendar, and emails. That means you can ask it to find your lost keys, play a song someone texted you, pull up a recipe with step-by-step instructions and built-in timers, or help you keep track of your schedule without having to reach for your phone.\nRead our hands-on impressions.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "ba8c90cbcaee8df5215520c017140b42263e3159",
-      "title": "Kenya confirms second Ebola case - a relative of the first victim",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-14T17:23:01.000Z",
-      "summary_90w": "",
-      "raw": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -991,19 +1329,6 @@
       ]
     },
     {
-      "id": "204c54aedca521879ac67f11285b63b0380be199",
-      "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-14T16:56:21.000Z",
-      "summary_90w": "",
-      "raw": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "f6897a77380fd2f56b4ba6cbc60aea5db8922f00",
       "title": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
       "url": "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements",
@@ -1017,159 +1342,29 @@
       ]
     },
     {
-      "id": "fad774142212cfe66dc349de87809c3f91eeb572",
-      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-14T16:47:32.000Z",
-      "summary_90w": "",
-      "raw": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ea15db722113b21e9153b965785ae1c181375fec",
-      "title": "Prismm helps banks keep inherited money in-house",
-      "url": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-14T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "32f880d6d58b348f313d4a9eb77d06943928eaaa",
       "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
       "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2026-10-14T15:54:04.000Z",
       "summary_90w": "",
       "raw": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
       "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "14def571c6969ae3cffd2dcc0a948746deaad47d",
-      "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
-      "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-14T15:46:46.000Z",
-      "summary_90w": "",
-      "raw": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at an amusement park.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "316f0a74f5e974c6334cef8280561af265e9c8f3",
-      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-      "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-14T15:34:19.000Z",
-      "summary_90w": "",
-      "raw": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "928277f3a9d06586498aee8f7fd2869a165f12bc",
-      "title": "US inflation rises more than expected - here's what is happening with prices",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-14T15:26:14.000Z",
-      "summary_90w": "",
-      "raw": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9c18b5e1b4bfcb8e69dbf2eb34becdc39d55bff3",
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-14T15:16:04.000Z",
-      "summary_90w": "",
-      "raw": "Deezer said that the new toggle will be rolled out by the end of the year.",
-      "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "221c6cb39d0df77d97146bf2ad73e29a794c3f2d",
-      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
-      "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-14T15:12:46.000Z",
-      "summary_90w": "",
-      "raw": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8a2abc9a5276d4767d7a11a1ab8158c08329a17e",
-      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
-      "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-14T14:18:18.000Z",
-      "summary_90w": "",
-      "raw": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "881c1b6b773845dbb7f44fc427971f1e162fff9d",
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-14T13:41:51.000Z",
-      "summary_90w": "",
-      "raw": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-      "topics": [
-        "World"
       ]
     },
     {
       "id": "ff0a810e278dc4d4ece07baa7fe278a3675b87aa",
       "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
       "url": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-10-14T13:33:44.000Z",
       "summary_90w": "",
       "raw": "Consumer prices in September jumped 3.7% from a year ago.  The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.",
       "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "815a874ecea681907321b542b9005c6c09074b23",
-      "title": "Are the European Women's World Cup play-offs working?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-14T13:25:56.000Z",
-      "summary_90w": "",
-      "raw": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
-      "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -1189,117 +1384,39 @@
       "id": "83bcfbc8c438939f367c76e9a73f8995b1e7baf7",
       "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
       "url": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
       "published": "2026-10-14T13:00:00.000Z",
       "summary_90w": "",
       "raw": "We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
       "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "088a9061a2b7c2ebb8a0c754dceb9607704a8d10",
-      "title": "What we know about the Pope's lung cancer diagnosis",
-      "url": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-14T12:37:33.000Z",
-      "summary_90w": "",
-      "raw": "The Pope is recovering in hospital after a successful surgery to remove part of his right lung.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e877a5cc587a622a51faa6675fd7c63603f764bb",
-      "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
-      "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-10-14T11:38:51.000Z",
-      "summary_90w": "",
-      "raw": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e41ef7b858673a1f988dcbf661fd239ee89c1f02",
-      "title": "These workers help train robots who could one day steal their jobs",
-      "url": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-10-14T09:28:47.000Z",
-      "summary_90w": "",
-      "raw": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ab59beee9b9bfa2d05de14396bb36278f6d286ce",
-      "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-      "url": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-10-14T09:09:39.000Z",
-      "summary_90w": "",
-      "raw": "The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle's resignation on Tuesday as she faced mounting accusations of improper conduct.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f33535c582807b1ec3113dc2b07123003fbc155f",
-      "title": "Civil rights advocates plan to send thousands of observers to midterm polling places",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-10-14T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "For many election cycles, civil rights groups and political parties have fanned out to monitor polling places, but the charged midterm environment has many organizations stepping up efforts this year.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "07215a3c9c3d2c78b76d9b269e5a2f56bced3d3e",
-      "title": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-10-14T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Kansas voters could send a Democrat to the Senate for the first time in nearly a century — and flip the governor's office back to Republican control, even in what could be a tough year for the GOP.",
-      "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
       "id": "5b5e3cda67d8e54efb116c213e43fbdb0935648d",
       "title": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
       "url": "https://www.npr.org/2026/10/14/nx-s1-5550974/skincare-scheme-mazal-group-investigation",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-10-14T09:00:00.000Z",
       "summary_90w": "",
       "raw": "Free samples, high-pressure pitches and $50,000 bills: An NPR investigation reveals how a network of mall skincare stores systematically targeted older adults and people with disabilities across the U.S.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
       "id": "c4631de94171982e2cb4385f651d9feb0a921a90",
       "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
       "url": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-10-14T09:00:00.000Z",
       "summary_90w": "",
       "raw": "For years, customers have complained of aggressive sales tactics and charges at mall skincare stores. NPR investigated the business that connects many of them.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -1342,19 +1459,6 @@
       ]
     },
     {
-      "id": "b8af8fcaffbb613f40397e0cbeb0d12b469fc723",
-      "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-      "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-14T04:21:25.000Z",
-      "summary_90w": "",
-      "raw": "Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "8062c9a1f8ce22961f4f18594851ac148a1ee38d",
       "title": "Iranian woman handed death sentence for ‘blasphemy’ in social media post",
       "url": "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
@@ -1394,32 +1498,6 @@
       ]
     },
     {
-      "id": "2ce8ce3c6d043275ea224518bb08cf9923e9cdab",
-      "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
-      "url": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-13T23:42:15.000Z",
-      "summary_90w": "",
-      "raw": "One person has died and others were injured after an incident at a US amusement park.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a35224805f46271a86f2346191a447d8af65f393",
-      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
-      "url": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-13T23:26:54.000Z",
-      "summary_90w": "",
-      "raw": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "773e9089fce1187a7238187d7f10d7faf81fea78",
       "title": "How long will humans be needed for translation?",
       "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
@@ -1430,32 +1508,6 @@
       "raw": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "d214a3470037353429985f2fe0e4fcd8946a6ab3",
-      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-13T22:02:09.000Z",
-      "summary_90w": "",
-      "raw": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b211db9580d24d201e461155d43b0967726b1065",
-      "title": "Who's to blame for the toxic haze choking South East Asia?  ",
-      "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-13T22:01:43.000Z",
-      "summary_90w": "",
-      "raw": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1506,19 +1558,6 @@
       "published": "2026-10-13T17:26:08.000Z",
       "summary_90w": "",
       "raw": "Civilians warned to leave target area near Sana’a before attacks as conflict between Riyadh and Houthi forces escalates\nSaudi Arabia has launched a series of strikes on a strategic oil depot on the outskirts of Yemen’s capital, Sana’a, while later on Tuesday it said it had intercepted missiles launched toward Dharan, location of the headquarters of the huge national energy company Saudi Aramco.\nThe attacks on both sides were a fresh escalation of the conflict between Riyadh and the Iran-backed Houthi forces. Before its offensive on Tuesday, a Saudi spokesperson warned civilians to leave the target area, in an apparent attempt to strike fear into the local population before the biggest attack so far on Houthi energy infrastructure.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6954fc1f09331c4cf454efa823a89523f3afe363",
-      "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
-      "url": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-13T16:34:13.000Z",
-      "summary_90w": "",
-      "raw": "Hundreds of people displaced in Bangka Belitung with conditions described as worst in a decade with wildlife also badly hit\nA forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official has said, as the country battles devastating blazes and haze.\nResidents first spotted the fire approaching their village in Bangka Belitung province on Saturday and tried to put it out themselves with portable water pumps, said the head of South Bangka regency, Riza Herdavid.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -1649,19 +1688,6 @@
       "published": "2026-10-11T12:04:00.000Z",
       "summary_90w": "",
       "raw": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
-      "id": "c87addfe04ff232e9fa737e03f5f4d0d5821e809",
-      "title": "It's taking longer to find a new job after losing one",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-10-11T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "People who lose their jobs in this economy are taking longer to find new work. Nearly four in ten people exhaust their unemployment benefits before they land a new job.",
       "topics": [
         "Business"
       ]
@@ -1836,19 +1862,6 @@
       ]
     },
     {
-      "id": "f3d80bae88ad4025b802106a474a3d5a303a1ee3",
-      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-09T09:59:06.000Z",
-      "summary_90w": "",
-      "raw": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding\nIsaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975mb. It is expected to strengthen to a category 2 hurricane as it approaches the US’s northern Gulf coast on Friday, according to the National Oceanic and Atmospheric Administration (NOAA).\nAs a result of the strong El Niño, it has been a notably quiet Atlantic hurricane season. The first hurricane of the season has not formed this late since 8 October 1905, which pre-dates the satellite era (1960s) for tracking hurricanes that has allowed for more non-landfall hurricanes to be discovered.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b11eab44a8af81ab0c727ae1316588307dca5584",
       "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
       "url": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
@@ -1976,19 +1989,6 @@
       "raw": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "d6b94a10ab506cecdb34f725f1f0d58e311417af",
-      "title": "Unravel the secrets of a priceless piece of British history",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m00303gc?at_mid=DEZSuyo6Vd&at_campaign=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00303gc&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&at_bbc_team=BBC",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-09-10T05:00:00.000Z",
-      "summary_90w": "",
-      "raw": "As the Bayeux Tapestry travels to the UK for the first time in 950 years, historians and experts unravel its secrets",
-      "topics": [
-        "World"
       ]
     },
     {
