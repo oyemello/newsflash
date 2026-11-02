@@ -1,16 +1,913 @@
 {
-  "version": "1793607584414",
-  "generatedAt": "2026-11-02T08:19:44.414Z",
+  "version": "1793644058577",
+  "generatedAt": "2026-11-02T18:27:38.577Z",
   "items": [
     {
-      "id": "4652b6ad9bef193656a3e33d5ebdfe4a5d5d8ee2",
-      "title": "Ryanair may freeze workers' pay as fuel prices spike ",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "id": "bcc88126953af8fa19fc73faf3e228ecd9797d04",
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-11-02T18:25:01.000Z",
+      "summary_90w": "",
+      "raw": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7e4f0aba017de5ca7d785aa2dfd17d76aa1a3261",
+      "title": "MP Carla Lockhart quits DUP in Drumcree row",
+      "url": "https://www.bbc.co.uk/news/articles/cm87zn1vy28zo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-11-02T08:06:10.000Z",
+      "published": "2026-11-02T18:17:31.000Z",
+      "summary_90w": "",
+      "raw": "Lockhart had called for the DUP to remove First Minister Michelle O'Neill from office.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "16194c055af9d0c4040f9ee1bda295d41b0e3bb8",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-02T18:01:30.000Z",
+      "summary_90w": "",
+      "raw": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes.\nThe announcement comes as opposition to data centers spreads across the US, in response to massive projects that have begun development and construction, frequently with little or no input from local residents. In Utah, residents protested after Box Elder County commissioners signed off on a data center expected to consume more than double  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7584627279c216f260bf9c743ecc155b3626f315",
+      "title": "Russian bombing kills 18 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T18:01:13.000Z",
+      "summary_90w": "",
+      "raw": "Local officials say 27 people are missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e020a48117d70537569ffef368c488eec4e5acf4",
+      "title": "Labour ends power-sharing with Greens in 11 councils over Zionism row",
+      "url": "https://www.bbc.co.uk/news/articles/c63dj21yvjd3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T17:59:15.000Z",
+      "summary_90w": "",
+      "raw": "Labour's ruling National Executive Committee sets out where it is cutting ties with the Greens.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "31e60274943ce3e1a755257ec05a380485715c53",
+      "title": "What are the planned changes to immigration rules?",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly052pdx4no?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T17:55:32.000Z",
+      "summary_90w": "",
+      "raw": "The home secretary sets out plans to change requirements for permanent settlement in the UK.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "654d300021e80f6e48d07cdf4a041f8d4116d1a9",
+      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-02T17:54:11.000Z",
+      "summary_90w": "",
+      "raw": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "dc6c7ef2ed74ce881cc28c078fae36873700321f",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-02T17:51:19.000Z",
+      "summary_90w": "",
+      "raw": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.\nAccording to a complaint filed by the companies that run New York Daily News, the Chicago Tribune, and the Orlando Sentinel, Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to  \"real-time online content from the Brave Index.\" The AI companies then use that index to train their models, access content to \"respond to specific user queries,\" or bo …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "fbc6034567ac317dd60fb50bac5620ede282b16a",
+      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-02T17:49:41.000Z",
+      "summary_90w": "",
+      "raw": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ec593b6365107d39d3f1a9a606322547d23e8c6e",
+      "title": "Jamal Edwards' sister on celebrating SBTV's 20-year legacy and hopes of discovering new talent",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1xnm3pezo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T17:38:53.000Z",
+      "summary_90w": "",
+      "raw": "The online music platform helped launch the careers of acts like Dave, Ed Sheeran and Jessie J.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2bbdae702ea127519d9749a93a951da39786ff70",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T17:38:11.000Z",
+      "summary_90w": "",
+      "raw": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "63cefec1fc51a37239845969bc40d9786bbfdd03",
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T17:34:58.000Z",
+      "summary_90w": "",
+      "raw": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "980e6d03c6de258a252a6cb0faf7ca053dc4033b",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T17:33:19.000Z",
+      "summary_90w": "",
+      "raw": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5434a1d738210b2dcb185224ddd88e3c0dd897a7",
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-02T17:29:49.000Z",
+      "summary_90w": "",
+      "raw": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0c54b4c24e0fd7afd49944762057819dc49f244a",
+      "title": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T17:22:50.000Z",
+      "summary_90w": "",
+      "raw": "Brand's defence barrister told jurors that Brand \"had an immense amount of sex\", but that \"none of it was unlawful\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "fe2bd460e083f6be8b2c8e29a220f0e3948b713d",
+      "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+      "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-02T17:14:23.000Z",
+      "summary_90w": "",
+      "raw": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks\nThe oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war.\nBrent crude, the international benchmark, dropped by more than 6.5% to as low as $105.55 a barrel on Monday, the lowest since 16 October, sending shares in airline companies higher and pushing down government borrowing costs.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6a5cc98c1c720b4f9a5da65a34c16f7583c4f6ca",
+      "title": "King's role is not policy making, says Palace in slavery apology row",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynve7q1zdo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T17:14:15.000Z",
+      "summary_90w": "",
+      "raw": "Buckingham Palace says the King has a unifying role in the Commonwealth rather than making political decisions.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9233f8bfd3393adad54b523dc1d0ecf701d3e48d",
+      "title": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
+      "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-02T17:06:10.000Z",
+      "summary_90w": "",
+      "raw": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information. It says the robot's hardware \"has been finished for around two years,\" but that the software isn't ready. The device's software team has reportedly pushed to delay the launch and \"attempted to strip back some proposed features and focus the product on a few capabilities related to FaceTime and automating home tasks, like switching on a light.\"\nAccording to The Information, the device is codenamed J595, but former Apple employees predict it will be called the \"HomeView Ultra,\" taking aft …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a93ba133a22460fd3e184626d2519635adddfcb8",
+      "title": "A simple guide to the midterms",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T16:52:51.000Z",
+      "summary_90w": "",
+      "raw": "US voters will head to the polls on Tuesday in a ballot that could have a major impact on Donald Trump’s presidency.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2d1a7e8ef61fa74f5dcbcd4c7f2b7a14c2e9924c",
+      "title": "Squarespace is laying off 19 percent of employees",
+      "url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-02T16:50:47.000Z",
+      "summary_90w": "",
+      "raw": "The website-building platform Squarespace is laying off 19 percent of its employees as it works to \"simplify\" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge. The job cuts will affect around 300 of Squarespace's 1,800 employees.\n\"The changes are intended to simplify how we operate, sharpen our priorities and enable the company to move faster as we position Squarespace for its next phase of growth,\" Seedman says. \"We are grateful for the contributions of our departing colleagues and are providing comprehensive support to help them through the transition.\" Seedman adds that impacted employees will receiv …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "8f81a5b7fe99bd9723aa785db44162402934b8e5",
+      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+      "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-02T16:44:48.000Z",
+      "summary_90w": "",
+      "raw": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "993570a5e9b2d2127d587dd6ff7ee82bf5b04531",
+      "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-02T16:39:20.000Z",
+      "summary_90w": "",
+      "raw": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shops\nSupermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in some of their shops soared overnight to as high as 50C (122F), echoing a cyber-attack last month that caused millions of euros of damage in France.\nRetailers in Belgium, Estonia, Ireland, Finland, Luxembourg, the Netherlands and Sweden reported problems with their refrigeration systems on Monday, and several companies confirmed they had been hacked.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "2cdce35538dffe0d081cd8532d14824cf0b84053",
+      "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-02T16:34:17.000Z",
+      "summary_90w": "",
+      "raw": "On the eve of the Nov. 3 election, the Trump administration is hoping the Supreme Court will reverse lower courts that rejected its request to order California to set aside the ballots of thousands of people it says are \"likely\" noncitizens.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6e11dddc7a7cc4c3db7a50a73f302c67393d609e",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-02T16:30:00.000Z",
+      "summary_90w": "",
+      "raw": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a744174b61d1bffea0d6a45756cc599a454ea715",
+      "title": "No10 defends flight to Manchester to collect Andy Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/cvglwjydgk74o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T16:23:56.000Z",
+      "summary_90w": "",
+      "raw": "The trip sparked a backlash with some questioning the value for money, but No 10 says security, cost and \"operational requirements\" were all factored in.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3059ef1574cb12baae8aa942f582b7661187b583",
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-02T16:23:21.000Z",
+      "summary_90w": "",
+      "raw": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "cc0d6d4d3c641eaea763e1b56d45bb185c34207e",
+      "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-02T16:17:14.000Z",
+      "summary_90w": "",
+      "raw": "Supermarkets across Europe have experienced temperature-control meddling\nThe fake nuclear threats to Ukraine came as Russia resumed its attacks on the southern city of Kherson, just hours after the end of a ceasefire during which hundreds of people were evacuated from the nearby Kremlin-controlled town of Oleshky.\nKherson’s military administration said a Russian drone hit a hospital at 7.40am. Video footage showed wrecked rooms, with windows blown out, doors broken, and debris on the street. Nobody was hurt, officials said.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "31bcb1b94d4a95566116284745239b5fac62c87f",
+      "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T16:00:07.000Z",
+      "summary_90w": "",
+      "raw": "Under-pressure Michael Carrick says it might be \"crazy\" but he is looking forward to Manchester United's Champions League match against Roma at Old Trafford.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0adae2bf5ad81bf4772ff28ed19f38da890b9fb9",
+      "title": "Why Peacock is making a huge bet on YouTube",
+      "url": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-02T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Today, I’m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt’s second time joining me on the show, and there’s been a whole lot of organizational and structural change at NBCU since the last time he and I spoke just two years ago — pure Decoder bait.\nFirst, about a month after Matt was on the show, Comcast spun off most of the NBCU cable channels into something called Versant. That’s when Matt’s title changed from heading up just the direct-to-consumer offering — meaning Peacock, plus some other streaming services — to heading up the whole thing, across all distribution. And now, Comcast is spinning off the NBCU business entirely into a whole new standalone company.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nThat’s a lot to have going on all at once! And meanwhile, it’s only just this year that Peacock became an actual profitable business at all — and it’s still pretty far away from being anything like the juggernaut that Netflix is.\nBut what NBCU has, and what Peacock has, that the rest of the streaming industry is still trying to wrap its head around, is live sports. Sports are huge. They held up the cable industry for years, they held up broadcast, and now they’re the big thing that could make streaming a winner for NBC.\nOne thing before we start: You’ll hear me ask Matt about the red company and the blue company. That’s just my way of getting Matt to talk about Netflix and Skydance, the company that now owns both Paramount and Warner Bros. Discovery. I think he did a good job playing along.\nBefore we get going, do me a favor and subscribe to Decoder on YouTube, where we put out new episodes every Monday and Thursday.\nOkay: Matt Strauss, chairman of the NBCU Media Group. Here we go.\n\n\nThis interview has been lightly edited for length and clarity.\nMatt Strauss, you are the chairman of the NBCUniversal Media Group. Welcome back to Decoder.\nThank you so much, Nilay. It’s great to be back.\nI am very excited to talk to you. There’s a lot going on in the media. It is a tumultuous time in Hollywood. I have to tell the audience that you and I are speaking minutes after Anthropic filed its S-1, and all of humanity is going to be turned into AI. Who knows what entertainment we’ll be watching in the future?\nThere’s a lot going on. Let’s start at the very beginning of this. You have a new job since last time you were on the show. Last time, you were the head of Direct-to-Consumer — you were basically the head of Peacock and the other apps inside the family. Now you’re the chairman of NBCUniversal Media Group.\nWhat’s the new job? What does that mean?\nNBCUniversal Media Group is comprised of certain services within NBC. It’s the broadcast network, it’s Bravo, it’s Peacock, it’s NBC Sports. We also have NBC News and Telemundo. One of the things that we recognized, especially when we spun off some of our cable assets last year into Versant, was that the assets we had truly worked better together. NBC has been like a megaphone. Given the reach of NBC, it’s been incredibly strategic in growing Peacock, which is a bit ironic because I think so many people believed that broadcasting was a bit of a relic of the past in this digital world, but it’s actually proven to be the opposite. As things have gotten more fragmented, having a broadcast network is actually a superpower because we’re continuing to see ratings growth. That has been really helpful as we’ve been building out Peacock.\nBut actually, Peacock was also finding new audiences, like cord cutters or people who maybe didn’t grow up watching NBC or some of our cable networks. So, Peacock’s also been really strategic in reaching and driving people back to NBC and Bravo. So, I think that flywheel is where we recognized that we needed to start operating differently. I’ve been a huge advocate of what I like to call “centers of excellence” in how I like to structure the business, which is, content first and platform second. How do we get maximum reach, maximum engagement? That really required us thinking differently about how we were running the business.\nEssentially, instead of having a programming group within broadcast and a programming group within streaming, we just collapsed the business. Now you’ve got one programming team, one marketing team, one product and technology team, one decision sciences and research team, and one advertising team. They’re all incentivized around continuing to grow the portfolio, get that maximum reach, maximum engagement, and drive top-line revenue. I think that structure, which we put in place about 18 months ago, is contributing to a lot of the success that we’re seeing now.\nEven if you look at 2026, NBC is the number one network in total viewers. We had an unbelievable early part of the year with “Legendary February,” which you might remember. That’s when we had the Super Bowl, the Milan Cortina Olympics, and the NBA All-Star Game. In 17 days, we reached over 225 million viewers. This summer, we had Love Island, which was the number one show of the summer for streaming. You had the World Cup, which was the number one Spanish-language sporting event in US history on Telemundo and Peacock. We had a show called The Five-Star Weekend, which was our number one scripted drama.\nNow, we’ve led ourselves into the fall, where we have Sunday Night Football, which has been the number one show for 15 consecutive years. We had a great kickoff with over 25 million viewers. We just had the NBA tip-off last week with the Knicks and the Sixers, which is the number one rated tip-off in NBA history. So, it does feel like we’re firing on all cylinders in how we’re trying to operate with this, again, content-first-platform-second mantra.\nBut just to go one level deeper, a big part of this strategy is figuring out how do we move audiences across platforms. For example, when I mentioned that Love Island was the number one streaming show of the summer, 40 percent of those Love Island viewers also tuned in to watch the World Cup. So, migrating viewers back and forth across the portfolio is a critical part of how we see ourselves continuing to grow. But to effectuate that, you need to structure yourself in a way where people are incentivized along that vision. We’re still evolving as an organization, but I’m really proud of some of the milestones and accomplishments that we’ve made as a team. I love my job. I feel like I’ve got the best job in the industry at the moment.\nIt is a tumultuous time in Hollywood, and you seem like one of the happiest people in the industry right at the second. That is very notable. You’re a Decoder pro, you brought up structure. I’m dying to ask you about the Decision Sciences Group. That’s the other question I ask everybody.\nBut let me just back out for one second. You’re describing quite a lot of freedom in rethinking how something like NBCUniversal would work. You mentioned the Versant spin, so CNBC, MS Now, and a bunch of channels went that way. I’m on its networks all the time. I would describe the folks at Versant as feeling more free. They’re disconnected from the battleship that was Comcast and NBCUniversal. They can go try whatever they want to try. They’re energized by it in some ways.\nThen, Comcast looked at NBCUniversal and said, “We’re going to spin off that off as well. We’re going to be the cable business and NBCUniversal will be the entertainment business, and now you’re in charge of that.” You’re like a 20-year Comcast veteran. I think you got your start doing cable boxes.\nYep. I started in 2004 at Comcast.\nJust tell me about that process. We spun off CNBC and MS Now into Versant. Now we’re looking at this company. We ought to spin off NBCUniversal as well. Just tell me about how that came about. What was that moment like? Did you all sit in a boardroom? Did it come down from on high? How did that happen?\nWell, that decision really was made by Brian Roberts and Mike Cavanagh. Candidly, I was not in the room when that decision was made, but I think if you were to ask people at NBCUniversal, it makes strategic sense.\nDo you feel that same sense of freedom?\nYou know what? I think that there’s an energy. When people show up here, they feel very passionate about what they do. They believe in our strategy, they believe in our portfolio. Look at NBCUniversal more broadly. Before, I was describing the Media Group, but that is one piece of the broader company. You have Universal Pictures and Universal Television, which have obviously been having an unbelievable summer with The Odyssey and Obsession. You’ve got Universal’s theme parks and experiences. We opened up Epic Universe last year. We opened up a kids theme park in Texas. We announced we’re going to open up a theme park in the UK. We have Sky, which was part of the company but more squarely sat within Comcast Cable. Now that’s going to migrate over to the new NBCUniversal as part of this restructure. Then, you have these media assets, which I spoke about earlier.\nSo, you’ve got this unbelievable portfolio. I think that people here really believe in our growth and that if we’re a separate company, it’s going to allow us to move faster. It’s going to let us have more clarity around where we want to make capital allocations and decisions. There are a few areas that really play to our strengths as an organization. One of them is live sports and live events. That’s always been a part of NBCUniversal that we’re really known for. If you just look at the sports portfolio that we have, Nilay, we’ve got NFL, NBA, MLB, the Big Ten Conference, the Premier League. We’ve got the Olympics with the IOC. You’ve got this unbelievable portfolio of sports content, and that’s a strategic asset when we’re partnering with the leagues because we believe in broadcast. We believe in broad reach. We’re not trying to put everything exclusively on a streaming platform. In 2026, we’ve demonstrated across almost every single sport that we can actually continue to grow ratings and reach new audiences, which is something that’s becoming more and more complicated.\nCan I ask about that? Because you also run Peacock, which is a paid streamer where you can access sports. When you say grow ratings on broadcast, are more people putting up antennas to watch sports over the air?\nNo. What I mean… By the way, about 20 percent of TV households in this country do still use over-the-air antennas as—\nOh, we have lots of listeners who are going to tell you that’s the best picture quality you can get.\nYeah. It is amazing picture quality, especially if you live in the right look angle where you could pick up the signal.\nIt comes back to what I said earlier about managing as a portfolio. We don’t think of it as a broadcast business sitting next to a streaming business. We really position ourselves as a digital-first company trying to get that maximum reach. When we look at the ratings, we’re combining what you would think of as more traditional ratings for linear television with streaming and all of our digital platforms. Whether that’s DVR or TV Everywhere, we aggregate it into one platform. When you look at it through that lens, which is just audience, we’ve actually demonstrated that across almost every sport — NFL, NBA, or MLB — the total viewers that we are reaching now are, in some cases, the highest they’ve been in decades.\nEven the Super Bowl, which we had earlier this year on NBC, reached about 137 million viewers at its peak, and that’s across all of our platforms. That Super Bowl was the highest-rated live event in NBC’s 100-year anniversary, which is this year. It’s kind of counterintuitive, but what we’re showing is that when we start operating as one, we can reach new audiences and we can aggregate them. We are demonstrating that not just across sports. There’s even something like the Thanksgiving Day Parade, which has been an institution on NBC for 99 years. This past Thanksgiving Day Parade was the highest-rated parade we have had in the company’s history. So, there’s a renaissance happening around live. In a world of instant gratification, on demand, and watching what you want when you want, the fact that you’re now seeing more and more viewers wanting the collective consciousness of social viewing, things that still matter in today’s society, that actually plays to our strengths. And we’re seeing that manifest itself with higher ratings.\nBut as I mentioned, it’s also a big part of our strategy. It was a big part of our Peacock strategy, which was a bit of an anomaly when we launched Peacock six years ago. It’s also a huge part of what I think NBC does well, which is that we create these big tentpole events and we’re able to shine a light on them and get huge audiences that are continuing to show up, even in a world of fragmentation and cord-cutting.\nIt’s interesting that you’ve described it as content first and platform second, and then you’re describing your approach to ratings as agnostic to distribution. You’re just sort of combining everything and saying, “This is the number of people we reached.”\nWell, take something like the Milan Cortina Olympics. This is an interesting example. If you were to look at that Winter Olympics, we had roughly 3,200 hours of content. There’s no way we can make all of that available on one network. There’s no way to daypart 3,200 hours. If you remember what we did with the Paris Olympics, we made the decision to make every event available live. When you make it all available live, we put it all on Peacock. This was a very controversial decision because the question has always historically been that if people tune in to watch this live during the day on Peacock, are they going to tune in to watch NBC primetime? Are we going to cannibalize our ratings or are we going to grow the ratings? This is where we really tested this strategy. If we’re truly indifferent, then what should happen is that we should be able to expand the funnel during the day, get more people into the Olympics, and try to create an experience that we’re very proud of.\nWe really do believe, whether it was the Gold Zone or Multiview, that we were able to surprise and delight viewers and make it really easy to navigate and find all of the choices on Peacock. But then what happened was that people were tuning in to watch NBC during primetime because there’s a difference between what NBC does and what Peacock does. NBC was more about storytelling. It was more about, “Let’s talk about what happened today. What about the backstory of the athletes? How’s Mike Tirico going to address his perspective on things?” When you combine these two things together —  putting all the content on Peacock and then having the primetime show —  this Winter Olympics had about a 96 percent higher rating. About 25 million viewers were tuning in to watch the Milan Cortina Olympics, which was about 96 or 97 percent higher than Beijing. On the digital side, it was double the digital minutes of every other Winter Olympics combined. We also doubled the advertising revenue.\nYou’ve got to be willing to break some glass. This is going to seem so obvious, but it starts with the consumer. It starts with, “How do we approach the consumer and give them the best experience?” And if you build it, they will come. The only reason I’m using the Olympics as an example is because if you were to look at the past, this was a real pain point where we didn’t make everything available on streaming or it was confusing for some viewers to figure out how to navigate all of the choices. We really, as an organization, decided to put our shoulder behind this, and I think the results ultimately speak for themselves. But again, it ladders back up to this vision of really starting to manage as one portfolio. If you can drive that maximum reach and engagement, that’s also going to be where you’ll get the best monetization.\nThe Verge team in particular was addicted to Gold Zone, which was the whip-around coverage of every medal event. It was very fun.\nLet me ask you about this. A big Decoder trope is that your distribution fundamentally affects what you make, right? That the medium is essentially the message, and I know what a YouTuber makes because they’re on YouTube, and I know what a TikToker makes because they’re on TikTok. I could stretch this all the way back and say I know what broadcast TV looks like because the medium of broadcast TV has fundamentally shaped the content that gets made there. I know what cable shows on Bravo look like, and they’re not the same thing and they haven’t been for a while.\nYou’re describing, “We’re going to bring programming in, we’re going to centralize that, we’re going to be agnostic to distribution — or indifferent I think is the word you used — and that’s going to increase viewership.” But the pressure of the different distributions is still there, right? Running the broadcast network over the air is still different and reaches different people than distributing on YouTube TV, than running Peacock as a paid platform unto itself. How do you manage that tension? Because it is real.\nYeah, it is very real. It’s a really insightful question. The tension is real, but actually, I don’t view it as tension. I view it as an opportunity because you’ve got different audiences. If it’s a Venn diagram and you look at who’s the audience on broadcast versus the audience on cable versus the audience on streaming, there’s some overlap, but it’s not as much as you would think. That actually speaks to this broader strategy, which is, “How do we reach?” If we reach all these different viewers but they’re on different platforms, how do we start bringing this together into one?\nNow there’s multiple ways to effectuate that kind of a strategy. One is you start sharing content and window content differently across platforms. For example, we have a show on Peacock called The Paper. Greg Daniels created it, who also created The Office. It’s a really great comedy and it’s an original. If you were to look at how streaming services typically make originals available, they’re exclusive. You premiere it on your streaming platform, and it typically stays on that platform forever.\nWhat we’re starting to experiment with is, well, what if we premiere The Paper on Peacock but then introduce it onto NBC six months later? Now you’re bringing a show that was created for streaming and making it available on NBC to a new audience. You also have this added message, which is that if you want to watch next week’s episode now, go get Peacock. All of a sudden, NBC is not only reaching new audiences but it’s also becoming a sales channel for driving people back to sign up for Peacock.\nDo you give that to Greg Daniels? The feedback loop of a YouTuber is so blunt. I’ve made a handful of Instagram Reels in my life. I literally open and look at the retention chart and think, “Oh, I should put another hook in there in the middle to keep my viewers,” and it’s immediate. That’s not even how my brain works. It’s immediate that the data makes you think this way. If you say to Greg Daniels, “Hey, make sure episode two of The Office ends on a cliffhanger so that I can advertise watching the next episode right away on Peacock.\nWell, Donna Langley, who oversees all of the entertainment programming, would be the one calling Greg Daniels and giving him that feedback. But here would be a different way to answer that question. I don’t think we’re necessarily trying to change the framework of how some of the shows are being created on NBC or Peacock. There’s still something about premium content and how that’s being created that I think resonates with a lot of people.\nBut here’s what we’re thinking differently. Take a show like Saturday Night Live. We had the 50-year anniversary for SNL a couple of years ago, and it’s unbelievable what Lorne Michaels has created. You still have SNL that’s on at 11:30PM ET, but what if we now take that content and we format it for vertical video on Peacock? We know that there’s a whole cohort of people that are watching on their phone, holding it vertically, and likely using their forefinger or their thumb to navigate because of TikTok or Reels. They’re watching a show like SNL on YouTube in some cases as well. Instead of trying to recreate or tell viewers how to watch the content, why don’t we just take that content and reformat it in a way that’s more akin to them? So now, you can go to Peacock and you can watch content in a vertical video format. That may not be for you, but it might be for somebody else who wants to swipe from sketch to sketch because that’s how they enjoy it.\nLet me give you another example, which is sports. I mentioned earlier about how we tried to introduce new features around sports because it’s such a passionate fandom. You can’t change the way somebody watches an NBA game. People want to watch an NBA game in the way that it was produced, but the lines are getting blurred around what’s a live event and what’s a video game, especially if you grew up playing NBA 2K. We’ve introduced something called Performance View, which is on Peacock. You could watch the NBA game or you can enable Performance View. If you enable Performance View, an overlay comes down on top of the game, and now it looks like a video game where we’re pulling in real-time sports data from sports radar, calculating the probability of somebody making a shot, using graphical overlays to show the trajectory of the ball, or putting the names over the player’s heads just so it’s a little bit easier to follow what’s going on.\nYou’re not changing the core production, you’re enhancing it. The enhancement of all these types of tactics and features — whether it’s through something like Performance View, something like I’m describing with SNL, or it’s rethinking the windowing of the content —  is allowing us to reach new viewers but also allow them to consume the content on their terms. And the way you watch may be different than the way I watch, and we’re just trying to give viewers different choices to enhance their experience.\nOne thing I always think about in terms of distribution is that every distribution channel is more or less valuable. The monetization is more or less lucrative. I can make 1 million Instagram Reels today and they will make me $0. But more people will see my face, and then maybe I will sell them a The Verge subscription, the Decoder book, or whatever it is in the future. That’s the creator economy, right? It’s 10 million little ad agencies. Instagram doesn’t pay for the content, and they all have to monetize it some other way.\nThen there’s, I don’t know, Peacock or Netflix where I pay a subscription fee and the content is there, so there’s that monetization model. There’s the movies. You can go and pay to watch one movie one time and that’s going to be very lucrative for Christopher Nolan —  maybe nobody else, but it’s very lucrative for Christopher Nolan. Which one is most valuable for you? You’re describing everything, but some have to make more money than others and some attract more new audiences than others. You’re trying to bring people from the biggest audience to the most revenue.\nI want to give a lot of credit to our ad sales team and Mark Marshall, who oversees ad sales. Several years ago we recognized that if you really want to have this kind of a strategy and vision (like I said, content first, platform second), you need to become almost agnostic around where the consumption is happening. We made the decision to actually sell as one portfolio. When you’re buying advertising, we are combining the audiences across broadcast, cable, streaming, and digital, and that’s how we sell it and go to market. That’s actually been the way that we’ve been doing this now for several years.\nIs advertising the number one line of revenue here? Because on cable, when you were part of Comcast where I’m sure the rates were not as high as you could get now that you’re split, Comcast just paid you carriage fees.\nWe are a dual-revenue stream business. Advertising is very much a material part of the overall revenue stream, not just of NBC and cable but of Peacock. If you remember, this was a big part of our strategy when we launched Peacock six years ago because the streaming market was very focused on ad-free, binge viewing, scripted dramas, and growing subscribers at any cost. That was the future. We zigged while the rest of the market zagged. We believed the white space was actually going to look more like broadcast television. From the beginning, we saw Peacock as an extension of the broadcast business instead of trying to build a standalone streaming business. If you look at it through that lens, that has influenced all of our programming decisions around live events and sports, and around why we wanted to have movies and scripted but also unscripted and news. The belief was that streaming was going to look a lot more like television.\nIf the viewership moved to streaming, why wouldn’t the advertisers move to streaming? Eighty percent of the subscribers on Peacock are on our ad tier, which is a higher mix of advertising subs than I think almost any other streaming service, but that’s because of decisions we made six years ago. The platform that we built for Peacock was designed for live. When you see something like an exclusive NFL playoff game, the Olympics, or the NBA tip-off, the reason why our platform scales and why you’re probably not talking about pixelation, buffering, long latency, or high app crashes is because we spent years doing nothing but wanting to harden the platform because we believed that we needed to build a live platform for scale.\nTo your question, all of this kind of compounded itself. Whether you’re watching something on NBC or Peacock, we sell it as one. That has allowed us to go to market in a way that I think really does allow us to punch above our weight when it comes to advertising and monetization. It’s a critical part of our strategy. I think about 30 percent of our advertising revenue six years ago came from sports and streaming. Now it’s probably closer to 60 percent of our advertising revenue is coming from streaming and sports. So, all of that gets aggregated as part of this broader portfolio approach.\nI’m curious about the sports piece of it, the NFL in particular. The NFL just keeps getting  more expensive. That’s the business it’s in. It’s going to keep charging you more money for rights. I think all the other sports would like to keep getting more expensive. They maybe don’t have the leverage the NFL seems to have. That made sense in a world of carriage fees. The NFL would say, “We’re going to cost a lot of money. We’re going to go out to broadcast networks.” Then, the broadcast networks are going to turn around to their distributors and say, “Well, if you want the NFL games, you’ve got to pay what they cost plus our margin.” Then, my price all the way at the bottom at the consumer end would go up, and my cable bill would go up. I think everyone understands that is the thing that happened for years and years.\nThat is unbundled, right? You are describing the unbundling of that entire business model. But the price of NFL rights, for example, keeps going up. A lot of analysts I talk to are basically saying, “Look, at some point Amazon and Apple are the only companies that are going to have enough money to buy the NFL package.” NBCUniversal — standing alone outside the Comcast revenue that would keep it afloat — is going to have to raise rates to some extraordinarily high level just to compete with the big tech giants that own the own streaming platforms and run them at a loss. That is very challenging mathematics, right? If your business is based on live, you’ve got to stand up live events that people definitely want to watch. Sports is at the top of that list. The sports leagues know that, and they’re going to keep coming at you with higher and higher demands. How do you manage that without making Peacock’s price skyrocket?\nIf you look at our strategy (we’re looking at this across our entire portfolio and our entire ecosystem), I think one of the benefits that we bring to the table with the leagues is that we’re not looking to make the content available on just streaming or broadcast. It’s both. That allows us to grow reach, which is a good thing for the leagues. I think all of that has to be taken into consideration when they’re looking at how they want to go to market with their rights.\nI mean, we have a very long history with the NFL. It’s a strong partner of ours. Sunday Night Football has been number one on NBC for 15 consecutive years, but we also entered into an 11-year arrangement with the NBA. As I mentioned, I think it’s been very happy with the relationship. We’ve been happy with the first year of the NBA relationship because it grew audience for us. It allowed us to manage how we’re thinking about having a weekly cadence of premium sports on Sundays with the NFL, the NBA, and now the MLB. It’s allowed us to grow more advertising. When the flywheel works, it allows us to partner with the leagues in creative ways.\nEverything has to be evaluated when you’re looking at this, whether it’s sports or entertainment programming. But I think of it like a mutual fund. What’s the content that’s going to drive acquisition? What’s the content that’s going to drive engagement? What’s the content that’s going to drive frequency? The answer to that question could change depending on where you are in the life cycle of your business. You might have certain content that’s a loss leader, but it’s adding value elsewhere in the portfolio. That’s generally how we’re evaluating when we’re going into a rights negotiation.\nI’ll give you another example of this. When we were launching Peacock, we entered into a relationship with the WWE. We thought that the WWE would be a really great addition to Peacock for a few reasons. I wanted to have something that was on every month. It’s got their premium live events, which it does every month. That would create a cadence, which we thought was critical in streaming. How do you get somebody to open up your app? How do you build habituation? We thought the WWE could do that with premium live events. It also had a huge catalog of WWE programming, which gave us more tonnage. We were also able to look at the addressable market for the WWE and estimate what percent we thought we could penetrate. Then we know the CLV of a customer, so you can calculate the return on the investment when you’re going to go after a certain rights package.\nFor the listener, what’s the CLV?\nThe consumer lifetime value. What’s the Average Revenue Per Unit (ARPU), multiplied by the number of months that you retain a customer before they would churn. That’s generally the formula that you would look at.\nThe reason I’m kind of laying it out this way is that if you’re making decisions that are longer term, you’re thinking about how does this fit into a broader portfolio view. In the case of the WWE, it was actually a real win-win because we acquired subscribers through the WWE. I think the WWE was happy with it because we were also able to bring in new viewers to sample and experience it. But when that deal came up for renewal, tthe license fees went up pretty dramatically, and it ended up going to another streaming service. We were actually okay with that because what we really focused on was how to take those WWE viewers and habituate them. What we found was that WWE fans really like The Fast and the Furious. They really like Yellowstone. They like other stuff.\n[Laughs] I’m sorry, did you need to open the spreadsheet and figure that out or did you just intuit that one?\n[Laughs] Well, we have assumptions, but you have to test these hypotheses.\nThe elegance of this strategy for us was that what we were really calculating, well, if I don’t renew this content, how many subscribers can I retain? We were able to retain the majority of those subscribers. We ended up licensing a much smaller package of WWE programming. We were able to retain those subscribers because we had habituated them into other content. Then, we took the money that we were utilizing to license the premium live events, and we reallocated it into other parts of the portfolio.\nThat’s the mindset for how we are approaching these deals. If the economics make sense, they make sense. If the economics don’t make sense, then we look to how we reallocate that investment into other parts of the portfolio and try to find a comparable or better return. It’s an evolving, living, breathing strategy and approach for how we go to market when we’re looking at any type of content, whether it’s sports or entertainment.\nYou’ve brought me to the other Decoder question. I think you’ve talked a lot about structure already. The other question I ask everybody is how they make decisions.\nYou oversee a group called the Decision Sciences Group. You are describing a lot of decisions that take time to pay off, right? This is a strategy you set ages ago when you bet on live. You built a platform around it. You’re saying the flywheel is spinning now. How do you make decisions? What’s your framework, and how does that decision sciences group play into it?\nIt’s interesting. When I came to NBC, there was a research department, which did what I think a lot of media companies would focus on. They would look at the ratings and the demographics and take more of a traditional approach to how they’re measuring performance. That, to me, is different than the muscle that I think we needed to build inside of NBCUniversal, which was, “No, I need to better understand what drives acquisition, what drives engagement, what drives frequency, what drives retention or what causes someone to churn. What’s the propensity for somebody to upgrade? What’s the propensity for someone to downgrade?” These are very different skills.\nWhen I talked about early on having centers of excellence, at one point there were two different groups: one doing research and one doing decision sciences. I would go into meetings, and they would have two different conclusions around how certain things were performing because they were evaluating them differently. One group might say, “Hey, this is doing really well because we grew the audience.” Then, the other group would say, “No, it missed its mark on the paid subscriber additions, and it’s not generating the right return.”\nThe solution was to bring them together as one team. It’s managed by Will Gonzalez, who has done an unbelievable job in managing this as one holistic decision sciences and research team. When we were building Peacock, we were maybe at a grade school level of sophistication, if I’m being a little cagey about it. I think we’re now at a graduate school level. The sophistication of this team and their ability to predict and forecast across multiple different KPIs is just unbelievable.\nDonna Langley really oversees all the greenlighting for entertainment, but when we partner together across all of these decisions, we are looking at multiple variables,  whether it’s paid subs, advertising, or what is the brand benefit. What is the cohort for this content and what other content do we think this cohort may watch on the platform? What do we think that this does to the frequency or the habituation? There are multiple KPIs that we’re evaluating when we’re greenlighting a show.\nIt also comes back to who are the audiences we’re trying to reach. One of the things that we’ve been able to do is… We’re not trying to cast a broad net and be all things to all people. We’re not a flea market. We’re trying to be very purposeful around how we super-serve the fandoms and the franchises that we think play to our strengths. A lot of the decision-making is around how do we grow those audiences? I wouldn’t say that the decision sciences and research teams are the decision-maker, but they are providing us the information to make better informed decisions.\nThere’s still an art to the science, and so in my opinion, you don’t want to swing the pendulum so far that you’re just using data to make predictions. I think that there’s a real skill around understanding the creative process, but then how do we utilize something like decision sciences and research to make better strategic bets? That’s something you’re not going to get right every time, but we’ve done a pretty good job, in my opinion, in building out our portfolio and predicting where we thought the market was going to go.\nWe predicted that the market was going to move towards bundling. I talked about that in 2019, where I said this great unbundling of cord-cutting is likely going to give rise to a great re-bundling of streaming. I saw a lot of data that drew me to that conclusion. When we were building Peacock, I was not building Peacock to win a streaming war. I was building Peacock for growth after a streaming war. Where do we think the market was going to be? If you look at where we are now, where you’ve got the market that’s shifted more towards wholesale bundling and towards advertising where almost every streaming service is now ad-supported with a tier. You’ve got this real focus now on live events and driving content, whether it’s unscripted content or various dayparted content. I would argue that a lot of what streaming looks like today is replicating a broadcast network: There’s a broad household demographic where there’s something for everyone in the home with a dual-revenue stream. That market is moving towards bundling — the more you get, the better the price — which is exactly how the cable industry was built.\nEverything old is new again. I think this is back to the future, but we designed ourselves in a way where we bet that’s where the market would go. Equally important, we believed that would at least play to our strengths, and that’s what would work for us at NBCUniversal.\nHow do you make decisions? What’s your framework?\nWell, my framework involves looking at the hallmarks I mentioned earlier: How do we drive reach, engagement, and monetization? Those are some of the most critical components. When I project out over the next several years, if there’s a streaming war, so to speak, I don’t think it’s going to be around subscribers or reach. It’s going to be about engagement. It’s going to be about how to grow share of time. How do you grow share of time when there’s only 24 hours in a day and the average consumer spends five to six hours a day consuming media / video? That number’s been pretty consistent over the past decade.\nHow we consume that media is obviously very different, especially based on where you are demographically. As more people are spending time on social media, user-generated content, gaming, podcasting, what are the things that we need to do to continue to grow share of time? I know the value of one extra hour per user per month, so a lot of my decisioning is around how to grow that share of time. That’s where everything hangs off of the monetization, the retention, and, ultimately, how I see ourselves continuing to grow as a portfolio.\nI was looking at our past conversation just before we started, and you are an all-star champion of not talking about your competitors. So, I’m just going to say there’s a red company and a blue company. You can guess who they are. I can just tell you who they are. There’s a red company and there’s a new blue company that just consolidated. They’re hypothetical.\nThe red company is going through some tumult. They were built on the idea, “We want one extra minute of your time.” They were built for the attention economy. They would famously say things like, “Our only competition is sleep.” They’ve added things like video games and podcasts, and it doesn’t seem to be working for them. If you ran the red company, what would you do?\nWell, in my opinion, the red company is an incredible company. I think they’ve done an unbelievable job —\nThis hypothetical company is doing such a good job!\nWell, every company goes through changes, but I don’t think I would lose sight of what they’ve built. You have some incredibly smart people in that company, and I would not bet against them. I think that if anybody could figure out how to continue growing share of time, I think it’s the red company, I think that they are poised for continued growth.\nBut to me, that doesn’t mean that there’s a winner that takes it all. It’s kind of like broadcast. There wasn’t one broadcast company, there were four broadcast companies. There wasn’t one cable network, there were dozens of cable networks. I don’t think somebody else has to lose for us to win as a company.\nLet me give you an example of what I mean when I think of growing share of time. The way I would think of it, Nilay, is that you shouldn’t think of us as a streaming platform. To me, streaming is too limiting. Think of it as an entertainment platform. On this entertainment platform, you’ve got tens of thousands of hours of premium video content. You could watch what you want when you want it, and there’s also all this great live programming. But what we do, in my opinion, with this premium content is partially fuel the share of time that’s happening off of my platform. Take for example a show like Love Island—\nWait, let me actually ask you about Love Island. I’m only interrupting you because we’ve only got a few minutes left. Is it a win for you when the clippers clip Love Island onto TikTok?\nIt’s a win for me in the sense that you’re growing more share of audience. You’re opening up the sales funnel. If somebody sees that clip, they may have a higher propensity to  tune in and watch it on Peacock, so that would be the benefit.\nDoes the Love Island marketing team clip its own show on to TikTok? One of my beliefs is that this happens a lot.\nWe do. We make our content available on almost every platform because, again, you’ve got to go where the audiences are. You can’t go in with the assumption that you’re going to be a closed ecosystem and everything has to happen on your platform. I think you’ve got to go where the viewers are, but in my opinion, our platform should be the best place to experience the content.\nLet me use Love Island just as an example to build on the point that you’re making. hat was the number one show for the summer. It was a bit of a phenomenon. It’s a good reminder that must-see TV still exists. Appointment TV still exists even with younger demographics. Love Island was also an interesting show because a very high portion of the audience consumed that on mobile devices. That might seem obvious, but in a world where you can watch on an 80-inch television, you still have people who are very comfortable consuming that content on mobile-only devices.\nSo what happens? Somebody watched that show, and it was on six days a week. When the show is over, what we do and what every streaming service does is we say, “Oh, you like this show? You should watch another show. You should watch The Real Housewives.” But that’s not what a lot of these viewers wanted. What they wanted at the end of the show was to talk about what just happened. So, they leave the streaming platform and go to social media, they’ll look for a podcast, or they’ll even play a game if they could. By the way, the number one app over the summer was the Love Island app. It was not ChatGPT. It was not Claude. It was the Love Island app for several weeks over the summer. That speaks to what I’m describing around these fandoms.\nWe are creating this demand, but I would argue we’re not doing a good enough job super-serving them. Then, we are fueling this what I would call “dark matter engagement” on these other platforms. This is what’s leading us to say, “What if we put the clips on Peacock and we offer it in a vertical video format? What if we create a podcast for Love Island? What if we create gaming?” But it’s not any game. These games are derivatives of the fandoms and content that we have on our platform. Can we better super-serve those fans and then grow our share of time? I think that’s the opportunity. That’s the ambition. It doesn’t mean that we’re not going to work with YouTube, TikTok, Reels, or other platforms.\nI would argue that the best place for our content, franchises, IP should be on our platforms. But to do that, you have to expand the aperture of what you deliver as a platform, which is why I think streaming is too limiting. You should really think of it more as an entertainment platform designed to maximize share of time and retention. I think the partnership we announced with YouTube this summer is going to be an example of how we see ourselves continuing to drive more of that audience and engagement across our platform but also working very closely with YouTube.\nThat YouTube deal looks like the rebundling you’re talking about, right? Peacock will be available to YouTube Premium subscribers. I have YouTube TV. I imagine that will somehow connect the dots. YouTube is fascinating because it has the user-generated content platform and TV. Those things are starting to compete with each other, right? I look at the viewership charts, and classic, user-generated YouTube is skyrocketing, just eating up everyone’s time all day long. Everyone has to be there. I’m assuming the economics of YouTube TV look like cable for you. They have to be far more lucrative. When you go into a room with [YouTube CEO] Neil Mohan and say, “Well, there’s the platform that’s very lucrative and there’s a platform I have to be on,” how do you reconcile the economics of the two?\nFrom my point of view, it’s not one or the other. It’s both. It comes back to what I said about how they’re not exactly the same audiences. There’s some overlap, but somebody who is subscribing to YouTube TV is not necessarily the same person who is subscribing to YouTube Premium or consuming content on main YouTube. I agree with you that when you look at this through the share of time lens, YouTube has done an unbelievable job creating a platform and business model that allows it to continue to grow. I don’t see anything that would indicate that’s going to slow down.\nWhen you look at it from my point of view, so much of our content and IP lives on YouTube in some form, whether it’s SNL or Love Island, whether it’s clips from The Traitors or any of our NBC shows. But those viewers don’t necessarily subscribe to Peacock. They don’t necessarily watch NBC or Bravo. So, I think that was the opportunity. That was the unlock. How actually can we transform ourselves to reimagine what it could look like to partner with YouTube?\nOne of the things that I was talking about earlier with this great rebundling — which we talked about and somewhat predicted seven years ago — was that the one thing that held the bundle together in cable television for many years was sports. What you don’t want to do is a bundle deal without getting the right underlying wholesale economics. What will happen is that you could take a very high ARPU, direct-to-consumer subscriber and end up cannibalizing them for a low, wholesale bundled subscriber. What you’re really looking for is incrementality. Is this going to drive incremental subscribers, and can I get the right wholesale economics where this is also incremental on the revenue side?\nWhat’s interesting about YouTube is that I think it’s a win-win. It’s a win-win because there’s multiple components to this deal. One aspect is that there’s going to be a bundle launched next year with the ad-supported tier of Peacock and a tier of YouTube Premium. Now, you’re going to get access to all of the benefits of YouTube Premium with the ad-supported version of Peacock. We believe that these are mostly incremental subscribers, or people who do not necessarily have Peacock today. So, it’s going to grow Peacock while adding more value to YouTube Premium. My prediction is that if you and I have a conversation a year from now, Peacock will be one of the top distributed streaming services in the United States.\nDo you care that you don’t own your last-mile customer that way? This was a big reason everyone went to streaming. They were selling their content to Netflix, and they realized Netflix owned the customer. Now we’ve all got to stand up our own streaming services because we want to own the customer and the cable bundle is falling apart. Do you care now that as you rebundle, YouTube will own the customer in some important way?\nI think that when you say “own the customer,” really what you’re talking about is, “How do I get the ability to personalize the experience so that I could super-serve an individual both with content and with advertising? What’s ultimately going to create the monetization engine that we need?” I was describing the value of Peacock and the fact that 80 percent of our subs are on the ad platform and that we typically charge premium CPMs (cost per mille) because we have this ability to super-serve our fandoms and franchises, and we have the data to do it.\nI think that the relationship with YouTube that we announced this summer is going to allow us to have a much deeper integration with YouTube on the data side as well as the integration with FreeWheel. So, we’re at a point where we’re almost indifferent again about where somebody consumes the content—\nFreeWheel is your programmatic advertising business.\nYes. That was a critical part to this unlock with YouTube because we can create a bundle that is going to drive incremental subscribers and value. To your point, YouTube TV is the fastest-growing pay TV distributor. I think the pay TV ecosystem has been declining at a 6-7 percent CAGR. Over the past five years, YouTube TV has grown at a 26-27 percent CAGR. It has over 10 million subscribers and are likely going to be the number one pay TV distributor in the next couple of years. We extended our linear portfolio agreement with YouTube TV, which is going to provide us stability and growth on that part of our portfolio as well. What we were just describing around having a much deeper integration with the data, analytics, and targeting is going to allow us to monetize our inventory.\nIt’s all of these pieces. We think this is an example of how we’re trying to think differently, or how we’re trying to be innovative and identify strategic partners. I don’t know if the red company or the blue company would be in a position to do the kind of deal that I’m describing, but it’s precisely because we are independent and looking to be more flexible. I think that actually becomes a calling card for how we could work with other companies in a way that is really transformative.\nLet me ask you, I think the red company hypothetically got turned upside down because it relied on data too much for the programming and now it’s going to change a bunch of programming executives, so we’ll see where it goes. The hypothetical blue company led by the hypothetical son of a billionaire is out in the market. It made a big content acquisition. He’s saying, “Oh, we’re going to invest in technology and we’ll compete with Northern California. We’ll compete with any of the platforms based on our technology bet.” To me, that seems like an old story where I know the ending. Trying to run at TikTok’s technology without the content is just going to get you backwards. If you were running the blue company, how would you think about technology in that way?\nWell, I’m going to answer the question based on how I’m running our company.\nThe blue company’s new. Anything could happen with the blue company.\nI think my answer, though, would not change depending on where I sat within this industry. I believe that we need to be an open ecosystem, that you’ve got to go where the viewers are. That’s what led us to make a lot of strategic decisions, whether it’s the deal that I just described with YouTube, or the channel deals for the ad-free tier of Peacock with Amazon and Roku. We’ve done bundling deals. We’ve done a bundle deal with Apple. We’ve done a bundle deal with Walmart. You’re trying to give consumers choices. Everything I’ve done in my career has always been around the north star of giving consumers choice: what they want, when they want, where they want. That, to me, has been the mantra for how we’re trying to build our company.\nAll of that being said, I am still also a huge believer in the product, the technology, and the experience. You may be able to watch the Olympics on another platform through NBC or Peacock, but I truly believe the best experience was on Peacock.\nAre you allowed to say that on other people’s networks? Can you go on to Amazon channels and say, “This is great, but if you want the first class, get out of this app and open Peacock?” Do they let you say that?\nWell, I wouldn’t say it that way, though. First of all, I think when somebody subscribes to Peacock, they should be able to access our service regardless of the platform. In that respect, we do cross-authentication — meaning you can subscribe and watch on Peacock, or you could subscribe and access our service through channels. I’m not here to tell the consumer what the best experience is. I think that we lead by example. The consumers vote based on where they ultimately decide to engage. If you want to get access to some of these cool features that I’m describing, if you want to play a game that we created, or if you want to listen to a podcast, or… I’ll give you another example. We’re testing our membership program because we shouldn’t think of viewers as subscribers, we should think of them as members.\nWhat are the other values that you can get as part of being a member? Well, maybe some of those values could be based on your tenure or your level of engagement. Maybe you get discounts to NBC merchandise. Maybe you get special access when you go to Universal theme parks. Maybe you get discounts from some of our advertising partners, like Domino’s. How do we start to add more value? But maybe that membership is only available when you’re on our platform. I think of it more as needing to give consumers the choice. At the same time, we are investing in product and technology and on experiences that are really meant to be delivered upon the platform that we have created.\nWe’ve got an unbelievable team, in my opinion, that has created a best-in-class, scalable platform that not only powers Peacock, but also powers Sky’s Now TV. It’s the same platform that we’ve also distributed to dozens of countries around the world. We’ve got a world-class team that is really trying to transform, surprise, and delight viewers in a way that I’m not sure other platforms are going to be able to do around our content and franchises, especially when it comes to especially these major tentpole events.\nI want to end by asking maybe the most important question of all. We’re talking a lot about internet-distributed businesses and consumers signing up for services and being able to churn and quit. There are a lot of free market dynamics there, which I think are very powerful and very important. That means you get to program whatever you want to program. You have chosen live in sports and, importantly, you mentioned news at the top of this conversation. NBC News is part of this portfolio.\nNBC News is also distributed over broadcast. It’s distributed over the air. The Trump administration and FCC Chairman Brendan Carr, in particular, has expressed a lot of desire to pressure broadcast networks because you use the public spectrum, particularly news networks. He’s withheld the broadcast licenses for ABC stations, for example. He has threatened the other broadcast networks. There’s a lot of pressure on NBC News. How are you handling that? Are you pushing back? Because that is the one place where you’re not allowed to just do whatever you want, right? The government gets to tell you what to say in an increasingly uncomfortable way.\nYeah. Look, I think I give a lot of credit to [NBCUniversal News Group Chairman] Cesar Conde and the NBC News organization who are big believers in freedom of speech and  freedom of the press. I think they’re doing a fantastic job. When it comes to distribution of our content, especially our news programming, I think that’s an example where it’s available everywhere. I mean, we truly make it available not only on Peacock, NBC, and over the air, but through Fast TV, NBC News Now—\nHave you made this argument to the administration? Because I’ve met a lot of FCC chairmen over the years, and until Carr showed up, the argument they would make is that we have to get away from overthinking broadcast because the audience is everywhere, and they don’t actually make a distinction between broadcast television and cable. That was a Republican talking point for years and years. This is nonsense.\nThe other version is that everyone’s on TikTok and the industry has to contend with that in some way. We should get more people internet access because that will actually even the playing field. Now we’ve come to, “You have to use the spectrum in the public interest.” It is different and the government should impose some speech pressure — which again, I think is inappropriate — but that is a new argument. I’m wondering if you have said to the administration, “Look, the consumer doesn’t make this distinction and we as a company aren’t making this distinction.”\nWell, I’ve not had those direct conversations myself. Obviously, we have a government affairs team that works very closely with regulators in DC. There’s probably no better time to be alive than right now when it comes to being able to access content through multiple modalities, whether it’s over-the-air broadcast, social media platforms, or free. If you were to look at Peacock, not only do we distribute NBC News, we distribute all of our own stations as well. I could be watching the Los Angeles local news in New York or I could be watching the Philadelphia local news.\nThere’s no shortage of ways that we are supporting the public good in giving them multiple ways and choices in how they want to consume and access their news programming, and I don’t think that’s going to change. I think we’re going to continue to advocate for freedom of speech and freedom of the press. I think our news organization has been doing an unbelievable job in the product and the service that they’re doing for the public.\nYeah. Matt, you can tell that’s an important topic for me for a lot of reasons. What’s next for NBCUniversal Media Group? What’s next for Peacock? What should people be looking for?\nI think what’s next for NBCUniversal Media Group is, as we talked about, we will likely be a separate company as part of the new NBC this time next year.\nYou’ve got to come back. There’s a bunch of questions where I knew I wasn’t going to get answers because the deal isn’t closed yet. When that closes, you’ve got to come back because I have a million questions.\nI will definitely come back. I’m really looking forward to it. I think the other piece, as you know, is that we had our Q3 earnings last week. We talked a lot about Peacock and how we had a very different strategy with Peacock from the others when we launched our service six years ago. I’m really proud to share that Peacock was profitable in Q3 for the second consecutive quarter. We had $261 million of EBITDA. That’s $470 million better year-over-year. I think the team has done an unbelievable job, and I feel really good about our momentum and continuing to grow. It’s good proof that there’s not one way to go to market. There’s not one strategy or approach. You’ve got to play your hand and to your strengths, and you’re going to see us continue to do that at NBCUniversal.\nYeah. We didn’t even talk about what AI might do to the cost structure of video. When you come back, we’re going to get into it. Matt, thank you so much for being on Decoder.\nThank you so much.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9a1094ace6a570e173978a2fc3e7ea0939beab69",
+      "title": "Driver who dragged head teacher to his death jailed for life",
+      "url": "https://www.bbc.co.uk/news/articles/c893z5y94nxko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T15:44:59.000Z",
+      "summary_90w": "",
+      "raw": "Simon Richardson is told he will have to serve at least 25 years for the murder of Michael Mullins.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "92245d9b1fd594202ef615139dcd4cbe040349f2",
+      "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
+      "url": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-02T15:15:00.000Z",
+      "summary_90w": "",
+      "raw": "The X500 Pro Max is the first Vivo flagship to sit between its Pro and Ultra tiers. | Photo: Dominic Preston / The Verge\t\n\nWhen I declared this spring that Vivo's X300 Ultra had the best cameras in any phone, two things made it stand out in my mind: its excellent main camera with a narrow 35mm focal length and what remains the most capable ultrawide in any phone worldwide.\nYou won't find either in the new X500 Pro Max. It has an impressive camera system with world-leading dynamic range and the same great telephoto lens found in the Ultra. But it's lost a little something of what made its predecessor quite so special.\nVivo X500 Pro Max\n\n\n\nProsCons\n\n\nFantastic telephoto camera\n17 stops of dynamic range on the main camera\nBig 7,800mAh battery\n1440p, 144Hz display\n\nUltrawide …\n\n\n\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "df540285b08d9eaef5093582ca7883989fef08b1",
+      "title": "Huntingdon train attacker said 'I am the baddest', trial hears",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynd5y102lo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T15:13:31.000Z",
+      "summary_90w": "",
+      "raw": "Police responded to fears about Anthony Williams on a train the day before the attack, jurors hear.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7ffb9fb9f52776cd642b3571aa558e53d686814f",
+      "title": "Could data center backlash flip Florida?",
+      "url": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-02T15:05:00.000Z",
+      "summary_90w": "",
+      "raw": "Patti Zirhut, a lifelong Republican, has been studying her ballot for weeks. Zirhut eagerly voted for President Donald Trump in 2016, 2020, and 2024, but she isn't toeing the party line this year. \"My ballot is all mixed up,\" she says. She's voting for some Republicans, some independents, and even a few Democrats. Zirhut remains undecided on a few races, but of one thing she is absolutely certain: \"I will not vote for Byron Donalds,\" she tells me. \"No way will I ever vote for him.\"\nDonalds, the Republican nominee in Florida's gubernatorial election, has Trump's endorsement, the party's backing, and $148 million in campaign funds, much of it …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a43a012fc6e71ef2ac2d3dbe8355131549def54f",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-02T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b706826d40032a62fac758554f9c316921c961d0",
+      "title": "YouTuber Druski is going to make exclusive content for Netflix",
+      "url": "https://www.theverge.com/streaming/1023777/youtube-druski-netflix-deal",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-02T15:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Comedian/actor Druski is seen during MLB All-Star Week on July 13th, 2026, in Philadelphia, Pennsylvania. | Photo by Gilbert Carrasquillo / GC Images\t\n\nNetflix today announced a multiyear deal with the YouTuber, comedian, and influencer Druski, and he'll create original content \"exclusively\" for the streaming service. The announcement is the latest in Netflix's efforts to bring creators onto the platform, having previously landed deals with YouTubers including Mark Rober, Ms. Rachel, and Good Mythical Morning.\nDruski's first show coming to Netflix is Collect & Praise, a semi-scripted comedy series where Druski plays a megachurch pastor, and it will debut on December 1st. It will be the first of \"several original projects\" planned by Druski and his production company, 4LIFERS Entertainment, …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "dc429f8f7e6df01337c8bc905f9dcf4ebd127e01",
+      "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+      "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-02T14:42:38.000Z",
+      "summary_90w": "",
+      "raw": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e590481c47705dfd8195e6a77cfbc10841264cec",
+      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+      "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-02T14:35:38.000Z",
+      "summary_90w": "",
+      "raw": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e590481c47705dfd8195e6a77cfbc10841264cec",
+      "title": "Wizz Air flight from Luton makes emergency landing with fighter jet escort after bomb threat",
+      "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T14:35:38.000Z",
+      "summary_90w": "",
+      "raw": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5916ec6e788cd4e2f3bdcf8cce2e1f9e0d7ce55a",
+      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-02T14:35:01.000Z",
+      "summary_90w": "",
+      "raw": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b98972249986cabd5b2a7da4dee5984f7ee15645",
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T14:24:25.000Z",
+      "summary_90w": "",
+      "raw": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ea0f04f8ce2f9552bef32a0096b33d792a9f51d4",
+      "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
+      "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-02T14:22:35.000Z",
+      "summary_90w": "",
+      "raw": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3891d8b1706f305db698a8b4c0f2b16f595c5237",
+      "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
+      "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-02T14:08:52.000Z",
+      "summary_90w": "",
+      "raw": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9abb81eaf70eecba06cc77b7cff7cde51539c890",
+      "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
+      "url": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-02T14:07:22.000Z",
+      "summary_90w": "",
+      "raw": "The Raspberry Pi 5 with 16GB of RAM now costs $385 after an $80 price hike, the latest in a string of increases driven by the ongoing RAM shortage. This configuration launched at $120 and now costs more than triple that price. The 16GB versions of the Raspberry Pi Compute Module 5 also got a $40 price hike and now cost between $375 and $415.\nAccording to Raspberry Pi CEO Eben Upton, these price hikes were driven specifically by a lack of \"alternative supply\" for 16GB DRAM, on top of shortages for other components. Upton says, \"Though these increases are unavoidable, we know they are unwelcome news for our customers. We encourage you to make …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ac70b8f6919bf5d49cae7f4e83fe255b670d4a60",
+      "title": "To dive or not to dive? Football's big dilemma",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T14:06:47.000Z",
+      "summary_90w": "",
+      "raw": "Liverpool feel Alexander Isak should have been awarded a penalty against Arsenal but with the striker not appealing for the decision and the VAR staying out of it, should he have made more of it?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "909cb1cec82bdd6d7649483a2bf0a69b3060e5db",
+      "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
+      "url": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-02T14:05:34.000Z",
+      "summary_90w": "",
+      "raw": "SpaceX has discussed a deal with Boost Mobile to launch its own service through the budget-friendly carrier, according to a report from The Washington Post. The deal, which comes as SpaceX aims to make Starlink a \"major\" mobile carrier, reportedly involves the Elon Musk-owned company acquiring Boost Mobile or accessing its network.\nMusk discussed the potential agreement with Charlie Ergen, chairman of Boost Mobile parent company EchoStar, last month, as reported by The Washington Post. Boost Mobile's network is currently powered by T-Mobile and AT&T, meaning SpaceX may need permission from the two carriers to launch its service.\nNeither  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9cac8335096eb1afa722ea070eb25d7fe67e70da",
+      "title": "Guardian Essential poll: record number of Australians are turning their backs on the Melbourne Cup",
+      "url": "https://www.theguardian.com/sport/2026/nov/03/melbourne-cup-2026-poll-record-numbers-turn-their-backs",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-02T14:00:46.000Z",
+      "summary_90w": "",
+      "raw": "Growing disdain for gambling and animal cruelty concerns drive sliding interest in race that once ‘stopped the nation’\n\nGet our breaking news email, free app or daily news podcast\n\nA record number of Australians are turning their backs on the Melbourne Cup, with more than two-thirds surveyed saying they have low or zero interest in the annual horse race.\nSupport for the Melbourne Cup has been sliding consistently for a number of years, but the Guardian Essential poll found just 9% of Australians said they had high interest in the race now – nearly half the proportion in 2025.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "cc8589c041731897634457ccf311cd06216a8298",
+      "title": "NSW council refuses to show world-renowned Gaza artwork over ‘unacceptable’ safety risk",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/shoalhaven-council-refuses-to-show-wall-of-tears-gaza-artwork-safety-risk-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-02T14:00:44.000Z",
+      "summary_90w": "",
+      "raw": "Exclusive: Shoalhaven council says Wall of Tears installation by Phil Buehler posed risk to staff, visitors and tenants\n\nGet our breaking news email, free app or daily news podcast\n\nA New South Wales local council has refused to show a world-renowned artwork about children killed in Gaza after asking organisers to investigate hiring “armed guards” to counter the risk of “community conflict” over the mural.\nThe group, Shoalhaven Friends of Palestine, was aiming to show the Wall of Tears installation by American artist Phil Buehler at the Shoalhaven Regional Gallery in Nowra on Tuesday, following the work being exhibited around Australia, including on the front lawns of Parliament House in Canberra in September.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f900a71a99e05b1260cbea507dfafba2bf563bda",
+      "title": "Reddit and libertarian group challenge Australia’s under-16s social media ban in high court",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-02T14:00:44.000Z",
+      "summary_90w": "",
+      "raw": "Social network and Digital Freedom Project, led by NSW state MP John Ruddick, seek to overturn ban on grounds of implied freedom of political communication\nAustralia’s world-leading under-16s social media ban will face its first major legal challenge on Tuesday, as Reddit and an advocacy group headed by a libertarian politician seek to overturn the law in the high court.\nNearly 11 months ago, 10 platforms – Snapchat, TikTok, YouTube, Facebook, Instagram, Reddit, Kick, X, Twitch and Threads – were required to deactivate or suspend the accounts of users they determined to be aged under 16 years.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f7151c69ed83cd048bcbfeb76eafcdad4fc24fbe",
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-02T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "869219a7f13345d5b106abb1d5965da98332024c",
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-02T13:57:53.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "53a97de1acea45ba24da3c13b0288c84b57c2e53",
+      "title": "Nowak family say police failed them multiple times",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg0x7rd402o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T13:54:40.000Z",
+      "summary_90w": "",
+      "raw": "The murdered student's family say they feel \"manipulated\" and \"failed\" by Hampshire Police.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "222a1f590571178199dff58fdfd34d9235ddc009",
+      "title": "A Paralympian vs a former TV news anchor - and other US Senate races to watch",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T13:49:19.000Z",
+      "summary_90w": "",
+      "raw": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c3f155abed880409056015b309b63f936be7cff7",
+      "title": "Ryanair faces clash with unions as it mulls pay freezes amid soaring fuel costs",
+      "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-02T12:57:53.000Z",
+      "summary_90w": "",
+      "raw": "Airline also weighs up reducing crew on flights and increasing use of AI as part of cost-cutting measures\n\nBusiness live – latest updates\n\nRyanair has said it is considering implementing pay freezes, setting the scene for a confrontation with unions as the airline tries to offset soaring fuel costs driven by the Middle East conflict.\nThe airline is also considering reducing crew numbers on flights and increasing the use of AI, in a cost-cutting drive.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a9122468632dfb66a6fdea185b44da847924b001",
+      "title": "Mother told to book appointment to give birth to her baby who had died",
+      "url": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T12:51:10.000Z",
+      "summary_90w": "",
+      "raw": "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4652b6ad9bef193656a3e33d5ebdfe4a5d5d8ee2",
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-02T12:22:10.000Z",
       "summary_90w": "",
       "raw": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "94f3a475eae4e9f0f276d88043be763fad8d0626",
+      "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+      "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-02T12:19:54.000Z",
+      "summary_90w": "",
+      "raw": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "96587d36c55ea4342ebfe828b57cc83d37a91f45",
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-02T12:05:34.000Z",
+      "summary_90w": "",
+      "raw": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b24c0f09b14dd6778edc1775247be791580c20a2",
+      "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
+      "url": "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-02T11:30:00.000Z",
+      "summary_90w": "",
+      "raw": "What happens in California could shape how America taxes the superrich. But will its billionaire tax fill state coffers — or drain them?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3cddf518efc21288f91cea8495fd286afbf4cfcf",
+      "title": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+      "url": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-02T11:11:28.000Z",
+      "summary_90w": "",
+      "raw": "Residents in Kyiv also warned of chemical attack and street-to-street fighting in false message sent by unknown party\n\nEurope live – latest updates\n\nUnknown hackers have targeted Ukraine’s nationwide emergency alert mobile app, sending residents in Kyiv a warning that they were at risk of an imminent nuclear strike.\nThe app reported a high possibility of nuclear radiation late on Sunday. It also wrongly warned of a chemical threat to the Ukrainian capital and street-to-street fighting. The messages were written in English with spelling mistakes, as well as in Ukrainian.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6dcd2d3063c0fe01cac2fea10f5872f80969bce2",
+      "title": "Europe could face colder weather as polar vortex weakens",
+      "url": "https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-02T11:00:54.000Z",
+      "summary_90w": "",
+      "raw": "Disruption to winds above Arctic threatens to alter weather patterns across parts of continent in coming weeks\nThe stratospheric polar vortex over the northern hemisphere is facing the prospect of an unusually early weakening. Forecast models suggest it could weaken significantly over the next 10 days, when it would typically be strengthening.\nA major sudden stratospheric warming (SSW) event is possible. This could influence weather patterns in the following weeks, increasing the likelihood of persistent areas of high pressure across the mid-latitudes and colder conditions weeks later.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9e1ddd41050ed9dbc17179c0e9cc15ee3037bbcd",
+      "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+      "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-02T11:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f73f7f29aaeb116e69e11332d9a8fc9cfe373022",
+      "title": "Five arrested after South African farmer shot and tortured",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-02T10:48:47.000Z",
+      "summary_90w": "",
+      "raw": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8a763b9b530f09bc057957abdf8c83aa2e81db94",
+      "title": "6 things to watch for on election night",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-02T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Some of the key storylines to watch will center around various voters groups that have soured on President Trump during his second turn out.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "766fbd99c7199f744584d5c80e966dceda1b0f78",
+      "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-02T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Many people are swapping out their fluoride dental products for ones made with a mineral called hydroxyapatite. What do dentists say about it?",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7990e03e3d00e1f222e1f82bfc912291269f6627",
+      "title": "What Vance's midterm push reveals about his potential 2028 bid",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6023159/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-02T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Vance's delivery is different from the president's but his speeches contain plenty of MAGA DNA.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "32152f54f9d575dce158d8bc03db44ce1e849267",
+      "title": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-02T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The districts that will decide control of the House and Senate next year are spread across the country. Voting officials in those places may face scrutiny and pressure they've never experienced.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b04f611df94e33a90e825d4c7d03cd0803b8c21a",
+      "title": "With students scarce, college admissions offices get friendlier, less intimidating",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-02T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that's open, easier — and downright friendly.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a3433d85d55c0fc78d810adf32625666b6c23980",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6023084/morning-news-brief",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-02T09:42:20.000Z",
+      "summary_90w": "",
+      "raw": "Democratic Rep. Haley Stevens endorses GOP candidate in Michigan race, key races remain close in last day before midterm election, Gulf states concerned about possible U.S. attack on Iran.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4ac847ad97bbe90b881e09347bff7fec63e3f88f",
+      "title": "What Americans are voting for in this election",
+      "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-02T09:22:55.000Z",
+      "summary_90w": "",
+      "raw": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4ac847ad97bbe90b881e09347bff7fec63e3f88f",
+      "title": "What are Americans voting for in this election?",
+      "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-02T09:22:55.000Z",
+      "summary_90w": "",
+      "raw": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
       "topics": [
         "World"
       ]
@@ -29,14 +926,14 @@
       ]
     },
     {
-      "id": "10c9dc39c9a3d9f934c73388078a8bb32e15529b",
-      "title": "Five teenagers stabbed at Halloween party",
-      "url": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-02T07:48:13.000Z",
+      "id": "144149f79ef1439889193279b4b75ff977146921",
+      "title": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-02T08:01:34.000Z",
       "summary_90w": "",
-      "raw": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
+      "raw": "Jasper Jones writer sent multiple messages about his sexual desire for young boys, Western Australian district court hears\n\nWarning: This article contains graphic content\n\nGet our breaking news email, free app or daily news podcast\n\n\nThe award‑winning author Craig Silvey sent multiple messages about his sexual desire for young boys and was caught with explicit images of children and adults.\nThe young adult novelist was jailed on Monday for seven months after pleading guilty to distributing and possessing child exploitation material earlier this year.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -45,24 +942,11 @@
       "id": "bc46b33a5267d126263b976474e2a0a7ab1e6153",
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-11-02T07:42:33.000Z",
       "summary_90w": "",
       "raw": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "27c8c1facaf47ae55f92de85e5f215f2713fef60",
-      "title": "Nine killed as small jet crashes on Florida street",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-02T07:33:17.000Z",
-      "summary_90w": "",
-      "raw": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
       "topics": [
         "World"
       ]
@@ -81,21 +965,8 @@
       ]
     },
     {
-      "id": "0b16ee26aeb42e4e0ea2bc80f9c9ad2f8d62435c",
-      "title": "‘Traitors in every family’: Hungary to unmask communist-era informants and confront past",
-      "url": "https://www.theguardian.com/world/2026/nov/02/hungary-informant-names-revealed-communist-era-past",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-02T07:09:25.000Z",
-      "summary_90w": "",
-      "raw": "From 1945 to 1989 security police relied on tens of thousands of spies to suppress dissent. To rebuild trust, their files will finally be made public\nHungary’s new government will on Wednesday reveal the names of tens of thousands of state informants from the communist era in an attempt to confront the past and rebuild public trust.\nFrom 1945 to 1989, Hungary’s communist state-security services relied on an extensive network of informants to monitor society and suppress dissent. Some were blackmailed or coerced into reporting on neighbours, friends, colleagues and even family members; others were recruited through promises of various advantages.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "349c9bdc69f0409b36e360aa21348fb25a20a9d4",
-      "title": "‘Sharper, longer slowdown’ predicted for economy as fifth interest rate hike looms",
+      "title": "‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms",
       "url": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
@@ -120,53 +991,27 @@
       ]
     },
     {
-      "id": "a9122468632dfb66a6fdea185b44da847924b001",
-      "title": "Mother told to book appointment to give birth to her dead baby",
-      "url": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
+      "id": "685e62736205df2bafca0d5f38a3930a0a051fb3",
+      "title": "Drugs, cash and weapons found in raids as e-bikes 'blight' communities",
+      "url": "https://www.bbc.co.uk/news/articles/cmn068ywr9e1o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-11-02T06:18:34.000Z",
+      "published": "2026-11-02T06:13:55.000Z",
       "summary_90w": "",
-      "raw": "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected.",
+      "raw": "A senior police officer says e-bikes and associated crimes are \"blighting\" communities across the UK.",
       "topics": [
         "World"
       ]
     },
     {
-      "id": "bde9c950f0395c9fa9a773f0f274d852892c98fa",
-      "title": "9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida",
-      "url": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-02T06:13:28.000Z",
+      "id": "16c7e336609aa4c8bb132c22d642b4ff210bf301",
+      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+      "url": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-02T06:05:34.000Z",
       "summary_90w": "",
-      "raw": "U.S. Transportation Secretary Duffy says all nine people died aboard a business jet that crashed into a Florida neighborhood. The aircraft departed from Austin, Texas, and was headed to the Bahamas.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "544f18cf151f97db586ee83d73cba8d2c482bd47",
-      "title": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-02T06:12:52.000Z",
-      "summary_90w": "",
-      "raw": "Deployments of surveillance vans over five months resulted in nine false alerts and led officers to engage with 146 registered sex offenders\n\nGet our breaking news email, free app or daily news podcast\n\nMore than a million people have had their faces scanned in a trial of real-time facial recognition technology in Western Australia, resulting in 122 arrests and nine incorrect alerts.\nWA police said under the five-month trial, which concluded on Saturday, the technology scanned 1,380,882 faces after 100 deployments across 43 regional and metropolitan locations.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b716deb6a6b59788692bde0f6d55ef04f21c08c8",
-      "title": "Minns warns expected RBA rate rise will see ‘shops close that don’t reopen’ as pressure mounts on PM",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-02T06:08:33.000Z",
-      "summary_90w": "",
-      "raw": "Frustration grows over the economy with one Labor MP saying voter anger is already high ahead of Reserve Bank of Australia decision\n\nGet our daily political email, free app or daily news podcast\n\nThe NSW premier, Chris Minns, has warned an expected interest rate increase will force job losses and cause businesses to close, insisting the federal government and states should rein in spending to take pressure off the economy.\nThe intervention from the leader of the country’s biggest state will heap yet more pressure on the Albanese government ahead of the Reserve Bank of Australia’s cash rate decision on Tuesday.\nSign up for Guardian Australia’s Politics, really newsletter here\n Continue reading...",
+      "raw": "BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.",
       "topics": [
         "World"
       ]
@@ -211,45 +1056,6 @@
       ]
     },
     {
-      "id": "c22e5e7d6e8110bcbb1889f0584308615ecc2353",
-      "title": "Jackery made its portable power stations even smaller",
-      "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-02T05:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4 inches and weighing just 1.87 pounds. Its size and 96Wh (30,000mAh) of battery capacity means you can squeeze it into your carry-on and power multiple devices during a long flight.\nThe Jackery Explorer 100D will be available starting November 15th through Walmart for $99. The power station is already available from Costco if you don't want to wait, …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "6e47d7dacf31e70defd0ac52141200a6519d4542",
-      "title": "Senator Chris Murphy expected to make full recovery after stroke ",
-      "url": "https://www.bbc.co.uk/news/articles/cw78pyy73d4xo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-02T04:53:20.000Z",
-      "summary_90w": "",
-      "raw": "The Connecticut Democrat had been campaigning around the country for Democrats on the ballot this midterm election.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "660903c7e4d948df45839ae533260cb51b7aebb7",
-      "title": "How a Democrat in Michigan rocked the party days before the US midterms",
-      "url": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-02T04:40:00.000Z",
-      "summary_90w": "",
-      "raw": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "6ecb156b783c39ec3b299c0a9ddd952ce8b5516b",
       "title": "Borrowed reading: stories from our extended colleagues",
       "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
@@ -263,36 +1069,10 @@
       ]
     },
     {
-      "id": "007212f454a0570aec18c384580be667d7725fcc",
-      "title": "‘I want to slap you around a bit, too’: Victorian magistrate reprimanded over language in court",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/victorian-magistrate-reprimanded-over-language-in-court-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-02T04:05:01.000Z",
-      "summary_90w": "",
-      "raw": "Judicial commission finds against Vicky Prapas over a series of comments, including one made when school children were present\n\nGet our breaking news email, free app or daily news podcast\n\nA magistrate who told a court user “I want to slap you around a bit, too” has come under fire for her offensive and inappropriate language.\nThe remark was one of several made by Victorian magistrate Vicky Prapas that the state’s judicial watchdog has found to be inappropriate.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "192330b7d972e8b5f48a1d38877e81ac34879e80",
-      "title": "Trump makes fevered campaign push in final weekend before election ",
-      "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-02T04:04:28.000Z",
-      "summary_90w": "",
-      "raw": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "0ce37b8d2ba2f05d4870a315e96a49a6aec35220",
       "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
       "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-11-02T03:58:38.000Z",
       "summary_90w": "",
@@ -302,86 +1082,8 @@
       ]
     },
     {
-      "id": "a356ffda134f13e9085482187b701ee9ec940b17",
-      "title": "Million-dollar fish caught by Darwin man ‘just fishing and talking’ at night with brother",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/million-dollar-fish-caught-by-darwin-man-just-fishing-and-talking-at-night-with-brother",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-02T03:45:51.000Z",
-      "summary_90w": "",
-      "raw": "‘I’m just happy to catch fish,’ Matthew Maurice says after landing 80cm barramundi as part of Northern Territory competition\n\nGet our breaking news email, free app or daily news podcast\n\nA Darwin man is $1m richer after angling an 80cm, red-tagged barramundi during a night-time fishing trip with his brother.\nMatthew Maurice, a 26-year-old from the Northern Territory, had finished football training and decided to take a boat out on Thursday evening with his sibling, who was visiting from overseas.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "91c1e511698f20e3bf8759c0b9a36f996313ae01",
-      "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
-      "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-02T02:46:55.000Z",
-      "summary_90w": "",
-      "raw": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4fcd6c2b54fb76b4975e87697f0723d6b0d0faf8",
-      "title": "Watch: King Charles III caught in torrential downpour at Antigua and Barbuda parade",
-      "url": "https://www.bbc.co.uk/news/videos/cxnv090q9qelo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-02T02:43:54.000Z",
-      "summary_90w": "",
-      "raw": "King Charles III and Queen Camilla were standing in an open-air stadium when the rain came on.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "02a958ebb180deb84576259eaecf26d9f94d412a",
-      "title": "The Papers: 'A family's pain' and 'EU students in return for trade'",
-      "url": "https://www.bbc.co.uk/news/articles/cm79py0q2wqwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-02T01:59:50.000Z",
-      "summary_90w": "",
-      "raw": "The parents of Henry Nowak speaking for the first time about the moment they learnt he had been murdered leads Monday's Daily Mirror.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "2ac1ec93ce681c6e814066a35502dea4bcccbaf5",
-      "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
-      "url": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-02T01:06:13.000Z",
-      "summary_90w": "",
-      "raw": "The train disaster, one of Europe’s deadliest rail incidents this century, killed 69 people, including 54 Spaniards\nFour US citizens and one each from Canada, Japan, Argentina, Mexico, Tunisia and the Czech Republic were among the 69 killed in last week’s high-speed train collision in Spain, authorities said.\nWednesday’s disaster – one of Europe’s deadliest rail accidents this century – has seen victims’ relatives endure an agonising wait as forensics teams identify the dead, sometimes from individual body parts.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6fd2582ecaa7946821704fe97e20dc68397e812f",
-      "title": "A&E warning system to flag sick children deteriorating quickly",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-02T00:51:24.000Z",
-      "summary_90w": "",
-      "raw": "The initiative, in England, will help busy staff identify children who are deteriorating quickly as they wait for emergency care.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "6648c7f54618228fbca0e1c7be3e61578c48c5d4",
-      "title": "Anthony Zurcher: Democrats have high hopes for midterms, but polls have let them down before",
+      "title": "Democrats have high hopes - but are the polls right?",
       "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
@@ -409,63 +1111,11 @@
       "id": "1d395cb90e29828aaed9ccb2ac97c8f757d42c00",
       "title": "France launches attempted murder investigation after petrol bomb thrown at police",
       "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-11-02T00:15:30.000Z",
       "summary_90w": "",
       "raw": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fa2bf972f5a8432e18e38b8e82f9ef6e661d3710",
-      "title": "No windows and steel doors - life at NI's 'most-attacked Orange hall'",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6833ekrwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-02T00:02:18.000Z",
-      "summary_90w": "",
-      "raw": "Orangemen are frustrated by attacks and have lost confidence in the police's ability to protect them.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a8062c895b5b02df80bdd1f31dd032cd4d949cd2",
-      "title": "Don't get caught out by new Buy Now Pay Later rules",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-01T23:34:49.000Z",
-      "summary_90w": "",
-      "raw": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f4a522df986d18f3d3b3c92514fb618fde7bc704",
-      "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-01T23:31:31.000Z",
-      "summary_90w": "",
-      "raw": "The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "2b18ed8cb45f7ef39e509c5e5366b7e1446db44d",
-      "title": "Antonelli becomes youngest world champion as Verstappen wins in Mexico",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-01T23:20:54.000Z",
-      "summary_90w": "",
-      "raw": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.",
       "topics": [
         "World"
       ]
@@ -497,32 +1147,6 @@
       ]
     },
     {
-      "id": "ef58a7b02961bdd11df0721d1a438928b0a4cfaf",
-      "title": "Do you know signs of a stroke? BE FAST are the words to remember",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-01T22:22:12.000Z",
-      "summary_90w": "",
-      "raw": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "5c1a12d656f9f53f7de36d9a569c102c4c989ba9",
-      "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-01T22:19:13.000Z",
-      "summary_90w": "",
-      "raw": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "33c086ca1438f5286ce40820959099172cf43def",
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
@@ -531,19 +1155,6 @@
       "published": "2026-11-01T21:55:23.000Z",
       "summary_90w": "",
       "raw": "Data centers are deeply unpopular. But what if we called them something else?",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "3604bfbf152b4f6efac5eb39b4de1c10d2ece9d7",
-      "title": "NASA hopes the commercial space industry can help save Hubble",
-      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-01T21:09:21.000Z",
-      "summary_90w": "",
-      "raw": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from the private sector to see if anyone can save it.\nIn a post on NASA's site, Administrator Jared Isaacman said:\n\"Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible … If there are innovative and cost-effective ways to extend the life of an asset …\n\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -562,110 +1173,6 @@
       ]
     },
     {
-      "id": "5c5502d97d0c28175a11fce5dc9e5eeb73c627df",
-      "title": "Flock keeps ignoring requests to cancel its contracts",
-      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-01T19:58:02.000Z",
-      "summary_90w": "",
-      "raw": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city had received no acknowledgment from the company. So, Police Chief Eric Fadden took matters into his own hands and physically disconnected the cameras.\n\"After hearing nothing for more than a week, I directed our staff to disconnect the power cords from the cameras in order to be sure that they are not functioning  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "d8b0142e3f47816db9bcb23eac61f8eac890766e",
-      "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-01T19:49:15.000Z",
-      "summary_90w": "",
-      "raw": "Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "744b3c145f8ccb86d09db6be3fc4f493f85ef4e1",
-      "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
-      "url": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-01T19:36:46.000Z",
-      "summary_90w": "",
-      "raw": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology\nAn “inspiring” University of Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people.\nDr Marta Shahbazi, 41, an affiliate associate professor at the Cambridge Stem Cell Institute and a group leader at the city’s Medical Research Council Laboratory of Molecular Biology (LMB), was travelling on one of the trains involved in the crash near Urda in Toledo province.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "c98af1e327c93aaf28ed05abc22df908242bf953",
-      "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-01T19:00:58.000Z",
-      "summary_90w": "",
-      "raw": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "94fc68f0ffa8a7994958dc9f885ad342612f76f1",
-      "title": "Peaceful protests in Germany spiral into violence and looting",
-      "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-01T18:51:56.000Z",
-      "summary_90w": "",
-      "raw": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "cbffe98f293b1b21b2ded26b2575cde0d68b0907",
-      "title": "How to think about the midterms — and the political moment the country is in",
-      "url": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-01T18:27:06.000Z",
-      "summary_90w": "",
-      "raw": "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3b80dbee180b769428f274f49735fc487133d6f3",
-      "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-01T18:00:37.000Z",
-      "summary_90w": "",
-      "raw": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1e75199a810df8cfd32e4b359ca0367bf04bd0cd",
-      "title": "The midterms will test the nation's political direction and confidence",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-01T17:57:58.000Z",
-      "summary_90w": "",
-      "raw": "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1a07280e2088c82f54a3736cc749ce835aa0f7b3",
       "title": "Armed police start patrols in Sydney after Bondi Beach attack",
       "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
@@ -674,19 +1181,6 @@
       "published": "2026-11-01T17:56:47.000Z",
       "summary_90w": "",
       "raw": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "4c0f28d8bf973d341d63d22fa4e9d1ad5aee5a74",
-      "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
-      "url": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-01T17:53:55.000Z",
-      "summary_90w": "",
-      "raw": "His family describe the night police told them of his death, and watching him being handcuffed.",
       "topics": [
         "World"
       ]
@@ -702,58 +1196,6 @@
       "raw": "Third day of indirect talks as Qatar tries to negotiate release of $6bn in Iranian assets that could lead to waterway’s reopening\nOfficials from the Gulf states are “braced for the worst” as they wait for Washington’s response to an Iranian proposal that could reopen the strait of Hormuz before the US midterm elections on Tuesday.\nIndirect talks in Doha ran into a third day on Sunday with Qatar trying to negotiate the release of more than $6bn in Iranian assets, which could lead to the reopening of the strait of Hormuz and the restart of negotiations on Iran’s nuclear programme.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "aa851a7b7a7fdac3d116d7cc366b4725d2ff4fae",
-      "title": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-01T17:33:21.000Z",
-      "summary_90w": "",
-      "raw": "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "53a9518b1d447af7eece659ca5a3c7fd242bd9cc",
-      "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
-      "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-01T17:20:18.000Z",
-      "summary_90w": "",
-      "raw": "Kremlin says Kyiv is ‘simply ignoring’ US wishes days before midterm elections after reported strikes on two oil sites\nUkraine has resumed its attacks on Russian oil refineries in defiance of pressure from Donald Trump ahead of the US midterm elections, as a ceasefire in the occupied town of Oleshky ended on Sunday night.\nRussian state media said on Sunday Ukrainian long-range drones had set fire to the Kstovo refinery in Nizhny Novgorod oblast overnight, soon after a major strike against another big refinery in Samara oblast, owned by the Russian state energy giant Rosneft.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "998a9577fd1b8c8b1a2173e3d851d8eb98daf8e3",
-      "title": "After a 28-year trek around the world, homebound Karl Bushby crosses the Humber Bridge",
-      "url": "https://www.bbc.co.uk/news/articles/c9146yve236lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-01T17:18:16.000Z",
-      "summary_90w": "",
-      "raw": "The British adventurer is due to complete his 31,000-mile challenge in Hull on Monday.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "08a98f93893b580a778cba4c42e05aa72f593c02",
-      "title": "Apple’s HomeView could add security camera features",
-      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-01T17:16:07.000Z",
-      "summary_90w": "",
-      "raw": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that even explicitly reads: \"Your HomeView can be used as a security camera with HomeKit Secure Video.\"\nSupposedly, the video feeds will only be visible to members of the home, and will both show an indicator light and play a sound when either someone is watching the camera feed or when it starts to record. Home members will also ge …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -796,32 +1238,6 @@
       ]
     },
     {
-      "id": "5a23598834c45a6b6de956d7be1aa4afc2e30a04",
-      "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
-      "url": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-01T17:00:16.000Z",
-      "summary_90w": "",
-      "raw": "Exclusive: Plan to allow students from bloc pay same fees as Britons contingent on entry to industrial programme, officials say\nMinisters are prepared to spend as much as £450m a year to give students from the EU discounted university fees, the Guardian has learned, but only if Brussels allows the UK access to its Made in Europe industrial programme.\nThe UK government has drawn up plans to allow students arriving from the continent pay the same fees as British students, sources say, and is willing to spend hundreds of millions of pounds compensating universities to do so.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "87765374da3c3c58ac319c6a3cec910423d76f18",
-      "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
-      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-01T16:57:14.000Z",
-      "summary_90w": "",
-      "raw": "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "66d53076d9326c9480b0c17c60a28ff83091d867",
       "title": "Binance resumes withdrawals following $6.3 billion breach",
       "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
@@ -835,53 +1251,14 @@
       ]
     },
     {
-      "id": "a53a40d9d648ac2acbae8d585c175b856366aa61",
-      "title": "A fully playable version of Portal prequel F-Stop leaked",
-      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-01T16:19:21.000Z",
-      "summary_90w": "",
-      "raw": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nearly complete version to be pieced together. \nSome dialog and elements of F-Stop eventually found their way into Portal 2. But it differs dramatically from the mainline Portal games in that it's built around a camera mechanic that lets you capture an item by taking its picture and place it elsewhere using the resulting Polaroid …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "54706283c2b1c1b37d377547b2b7b3293cdef7a7",
-      "title": "‘My vote still matters’ - Americans weigh in on the power of their ballot",
-      "url": "https://www.bbc.co.uk/news/videos/cw62yd964e55o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-01T16:08:19.000Z",
-      "summary_90w": "",
-      "raw": "The BBC asked voters from across the United States what voting means to them and whether they think it matters in the midterm elections.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5d82caa07468e19d3d3e83f8e999d5acf46bcc4b",
-      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide, wide world",
       "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "published": "2026-11-01T15:00:00.000Z",
       "summary_90w": "",
       "raw": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "d47dca67557a5eeb57ab6453dcb80e54bac9220b",
-      "title": "North Korea linked to massive Binance crypto heist",
-      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-01T14:33:11.000Z",
-      "summary_90w": "",
-      "raw": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other details or evidence. The statement says:\nNorth Korea Responsible for $6 Billion+ Binance Attack\nThe Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from crypto …\n\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -900,19 +1277,6 @@
       ]
     },
     {
-      "id": "9bf5871ddb73de522a386bd0fa7c12f182296a80",
-      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-01T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Apple’s second-generation HomePod Mini is a nice upgrade, but the biggest improvement hasn’t arrived yet. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nWhen I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than the original, which launched at $99, Apple didn't even upgrade the sound system. It felt like the company phoned this one in.\nNow that I've got my hands on a couple and set them up in my home office, I'm more enthused. The Mini 2 is so much faster than the first-gen Mini, playing music in a few seconds and responding to smart home commands just as …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "641fcec3e146e5fcf937e0494fe186c79946d607",
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
@@ -923,32 +1287,6 @@
       "raw": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "144d2253b8d65284e3791af598a972f6ba927650",
-      "title": "New Zelda and GTA represent a games industry that no longer exists",
-      "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-01T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe two biggest games of 2026 are set to launch just a few weeks apart in November.\nOn the one side you have the behemoth that is Grand Theft Auto VI, an experience 13 years in the making, and the sequel to one of the best-selling games in history. Its predecessor, GTA V, has sold a staggering 230 million copies since it launched in 2013, and was re-released …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "cd3bd1b497c0af25a2a3a29e5fb2e6b3c9f06d83",
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-01T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn.\nProposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects and make it more difficult for residents to challenge those projects in court. Proponents say passing the measure would help alleviate the state's housing shortage and meet rising electricity demand with new renewable energy projects. Environmental groups and some legal experts, however, warn that data center developers backing the pr …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1012,19 +1350,6 @@
       "published": "2026-11-01T07:00:55.000Z",
       "summary_90w": "",
       "raw": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "63401d82373666bcf4fc6fa89edb75827054fa70",
-      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-      "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-01T05:26:02.000Z",
-      "summary_90w": "",
-      "raw": "The supermodel and TV host provided a gory new shock at her New York event.",
       "topics": [
         "World"
       ]
@@ -1095,6 +1420,19 @@
       ]
     },
     {
+      "id": "3e459f1ff83bb50facb238578196be681b0c11ab",
+      "title": "The iconic 2005 Oasis concert from the City of Manchester Stadium",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0033vld?at_mid=Rz7rKyFuqA&at_campaign=Oasis_Live_at_Manchester_City_Stadium&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0033vld&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Oasis_Live_at_Manchester_City_Stadium&at_bbc_team=BBC",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-01T00:07:28.000Z",
+      "summary_90w": "",
+      "raw": "One of the world's biggest touring bands pulls out all the stops on their 2005 world tour.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "f350c354610b7c700839d8d7dac0a95d95cc2d3e",
       "title": "Why Is Andy Burnham Saying He's Open To A Slavery Apology?",
       "url": "https://www.bbc.co.uk/sounds/play/p0pjpxll?at_medium=RSS&at_campaign=rss",
@@ -1105,58 +1443,6 @@
       "raw": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "89c6cb6d297171130673cedd27338e7c73c10633",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-31T21:41:00.000Z",
-      "summary_90w": "",
-      "raw": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "cefcb0bd2478e838db5f828361cd0cf5f2d9a2ab",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-31T21:36:07.000Z",
-      "summary_90w": "",
-      "raw": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "3ef1a8112a73b9ce27dddd9d66104897dd253df8",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-31T21:29:01.000Z",
-      "summary_90w": "",
-      "raw": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "bc398a80a0dffe88b2995d064e5ec05a3334eb66",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-31T21:17:03.000Z",
-      "summary_90w": "",
-      "raw": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1173,19 +1459,6 @@
       ]
     },
     {
-      "id": "691dfa44ca49e397b0a87ef8e79acc6961372a30",
-      "title": "Get in the spooky spirit with these horrors from YouTube",
-      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-10-31T21:06:58.000Z",
-      "summary_90w": "",
-      "raw": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or classic viral clips, you're bound to find something below that will get you in the Halloween spirit.\n\nPossibly in Michigan\nThis 1983 short film from Cecelia Condit found its audience over 30 years later when it was uploaded to YouTube and eventually found its way to Reddit. If you've ever wondered what a feminist mu …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "5ba806be5a377f0c2dd70e0193fdf7bfbdefb1a2",
       "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
       "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
@@ -1196,58 +1469,6 @@
       "raw": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector.",
       "topics": [
         "Business"
-      ]
-    },
-    {
-      "id": "763a99da6625bb996630857a6e433e06b71bd9f4",
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-31T17:53:35.000Z",
-      "summary_90w": "",
-      "raw": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "896568e9efb4f58271138b911284227e876b7a17",
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-31T16:55:47.000Z",
-      "summary_90w": "",
-      "raw": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "344dcf79744aa216bc087f2becb65a1d9368f165",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-31T16:12:55.000Z",
-      "summary_90w": "",
-      "raw": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "5690fa4bc638870cf3b22ee34e3a93cbf4ec3dcb",
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-31T15:41:57.000Z",
-      "summary_90w": "",
-      "raw": "TikTok may be working to become the app that people use for most of their digital activities.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1264,32 +1485,6 @@
       ]
     },
     {
-      "id": "93f7b4ba334ed2fa749c04783ea7080a3f7d9ab5",
-      "title": "Ethiopian PM puts ministers through military training",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-31T14:28:15.000Z",
-      "summary_90w": "",
-      "raw": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7d23de49dd5749ba77112b5614bf34e12e182bab",
-      "title": "I took two iPhones on vacation. The Duo won me over.",
-      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-31T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "225eb5e3434250963582cb0ffef46ede2f8e9b7d",
       "title": "Wild West crypto: Staggering Binance heist exposes sector fragility",
       "url": "https://www.npr.org/2026/10/31/nx-s1-6023330/wild-west-crypto-staggering-binance-heist-exposes-sector-fragility",
@@ -1300,19 +1495,6 @@
       "raw": "A massive cyber heist of crypto exchange Binance is exposing some of the fragilities of the sector and reinforcing perceptions of the industry as a financial Wild West, critics warn.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "5c635865d006baaac78c752e54f69924b51f04e0",
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-31T09:16:14.000Z",
-      "summary_90w": "",
-      "raw": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1355,32 +1537,6 @@
       ]
     },
     {
-      "id": "fe78595c0baf2e76c0fb7a01b6c7a6845fc87cf2",
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-31T05:44:21.000Z",
-      "summary_90w": "",
-      "raw": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f95b91c9a43348ba5a0c08a6d6c355863d82c262",
-      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-31T04:16:50.000Z",
-      "summary_90w": "",
-      "raw": "The money behind the money is thrilled, mostly.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "a2f28390745f4faf33fffb3dce6a7f1806c5f263",
       "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
       "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
@@ -1389,84 +1545,6 @@
       "published": "2026-10-31T02:12:19.000Z",
       "summary_90w": "",
       "raw": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "b2887bbff8a98993d34000b17e3bd3cc281497c8",
-      "title": "Global nature talks reach deal but money remains an issue",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-10-31T01:27:05.000Z",
-      "summary_90w": "",
-      "raw": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6336aff37e57b820d2d0761227023cb850f29bf7",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-31T01:20:05.000Z",
-      "summary_90w": "",
-      "raw": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "d32a73c825024427968211fd05a3379abd2c7156",
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-30T23:21:23.000Z",
-      "summary_90w": "",
-      "raw": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "43523836c60442d994b31149b374385c3be8fb72",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-30T22:56:13.000Z",
-      "summary_90w": "",
-      "raw": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "6198118eee1371c7c83ba7694dac3bc3ce2d0ccb",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-30T21:54:34.000Z",
-      "summary_90w": "",
-      "raw": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "60ba719a05749cde81a8bd416760ab53d453775b",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-10-30T21:52:03.000Z",
-      "summary_90w": "",
-      "raw": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
       "topics": [
         "Technology"
       ]
@@ -1641,19 +1719,6 @@
       ]
     },
     {
-      "id": "37a71f33840a25fb985aebf31b07dc0ce2b731a1",
-      "title": "What's at stake for Trump in the US midterms?",
-      "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-30T10:19:48.000Z",
-      "summary_90w": "",
-      "raw": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "dc4941fcf4015bc4e74a841efeb068a31a441b77",
       "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
       "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
@@ -1677,32 +1742,6 @@
       "raw": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "23850c9487bf1eb7790ea4babc61729dc360fa43",
-      "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
-      "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-10-30T09:00:50.000Z",
-      "summary_90w": "",
-      "raw": "Oxygen, food and water supplies running low and massacres taking place, says Nabil Shamsan\nThe Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long siege.\nNabil Shamsan said massacres were taking place in Yemen’s third city, that oxygen and water supplies were running out and that rubbish was piling up in the streets due to landfill sites being either full or inaccessible.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "30927e59f61d9fea56cf695a4c7528955e1d671e",
-      "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
-      "url": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-10-30T09:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Prices for candy, the most popular Halloween purchase, and gum have risen 7.7% in one year and are up more than 18% in two years, according to the latest federal data.",
-      "topics": [
-        "Business"
       ]
     },
     {
@@ -1849,19 +1888,6 @@
       ]
     },
     {
-      "id": "b069f02850bf3824447baae5a65a0729117ed99c",
-      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-10-28T19:15:58.000Z",
-      "summary_90w": "",
-      "raw": "The Russian President praised Musk and said they are in \"close\" contact.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "73a6520b75a6e6900962e5236edf5893a25af690",
       "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
       "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
@@ -1937,19 +1963,6 @@
       "raw": "The prediction market has hired a former FBI official to make sure political insiders don't use the platform for profit from confidential election information.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "a93ba133a22460fd3e184626d2519635adddfcb8",
-      "title": "A simple guide to the midterms",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-10-26T16:53:37.000Z",
-      "summary_90w": "",
-      "raw": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
-      "topics": [
-        "World"
       ]
     },
     {
