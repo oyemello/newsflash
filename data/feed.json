@@ -1,29 +1,627 @@
 {
-  "version": "1793897610952",
-  "generatedAt": "2026-11-05T16:53:30.952Z",
+  "version": "1793917830420",
+  "generatedAt": "2026-11-05T22:30:30.420Z",
   "items": [
     {
-      "id": "c0beb4b560911cb6ff95d536615dad1c6b7ec69c",
-      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-11-05T16:44:38.000Z",
+      "id": "8e75ec02fc50e91f564b65594b8bfad6b6d5d78d",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-05T22:26:50.000Z",
       "summary_90w": "",
-      "raw": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+      "raw": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use.\nTeammates integrate with Perplexity Computer, an AI system that can deploy agents on your device to complete tasks. But Perplexity says Teammates \"build on top\" of Computer by offering the ability to collaborate and complete \"ongoing, large-scale work.\" You can assign each Teammate different jobs that they can perform simultaneously - much like OpenAI's Dots and Claude Duet. Perple …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
     },
     {
+      "id": "c0beb4b560911cb6ff95d536615dad1c6b7ec69c",
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-05T22:13:38.000Z",
+      "summary_90w": "",
+      "raw": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d3137c5031e9efc6b67ccaa0b33fa734711cd7ac",
+      "title": "Salon is shutting down after 31 years",
+      "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-05T22:08:14.000Z",
+      "summary_90w": "",
+      "raw": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication.\nThe company said that the \"business realities of independent digital journalism have changed profoundly over the years,\" and it decided that its publishing model is \"no longer sustainable.\" It didn't go into detail about why, but many websites are grappling with \"Google Zero\" and the impact of AI tools. When reached for comment, Salon general manager Amanda Wolfe pointed The Verge to today's announcement post.\n\"Thirty-one years is a remarkable run, but what matters most is what happene …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "290c024f69f4e9adc1d51415439846f8779fa0f7",
+      "title": "King relishes 'politically charged' deployments, Palace aide says",
+      "url": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-05T22:04:44.000Z",
+      "summary_90w": "",
+      "raw": "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bff786783671e4793da48d89bf277dfe60ab4a9b",
+      "title": "The midterms proved once and for all that X is not real life",
+      "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-05T21:55:00.000Z",
+      "summary_90w": "",
+      "raw": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and maybe that's why Vance couldn't help himself. When a college student earnestly asked how the right expected young people like her to settle down and have kids, given the ever-growing cost of living, Vance replied with a quip about Jon Husted's ass.\nThe student, Kate White, introduced herself as the vice president of the Texas Christian University chapter of Turning Point USA, the conservative group started by Donald Trump all …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e2d358c24f9020a7a803d19cad543c8fa23aaabf",
+      "title": "UK doctor infected with Ebola being treated at London hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-05T21:26:09.000Z",
+      "summary_90w": "",
+      "raw": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a49f25ad0c4a5ca1e2f62c21669d8b1bea3b4cf0",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-05T21:25:48.000Z",
+      "summary_90w": "",
+      "raw": "California has historically had the largest population of people on death row in the US.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "20c66b35275dc3e5f600d08703dbcb786735b8e3",
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-05T21:15:00.000Z",
+      "summary_90w": "",
+      "raw": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3bca1d9e7322db6c868bc8d00a60589336cf7efc",
+      "title": "Blue Origin’s next launch now won’t happen until 2027",
+      "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-05T20:47:14.000Z",
+      "summary_90w": "",
+      "raw": "Blue Origin CEO reportedly sent a memo to staff about the new timeline. | Anadolu via Getty Images\t\n\nBlue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would have brought Amazon Leo satellites into space.\nIn October, Blue Origin founder Jeff Bezos told Fox News that the company was aiming for a December New Glenn launch, joking that it could be \"probably December 31st.\" The new, revised launch window is \"about 10 days later than Blue Origin's earlier launch target,\" CNBC reports. Limp also reportedly cite …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "80e31c36d48d02e9e5b7858307c64b42e1d5c3be",
+      "title": "More Mandelson papers set to be published before Christmas",
+      "url": "https://www.bbc.co.uk/news/articles/c60meenj1ke8o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-05T20:15:56.000Z",
+      "summary_90w": "",
+      "raw": "Documents were published in March and June - but others were withheld because they were part of a police investigation.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "413516c6ba4184724eb3f233c4cfb42e3274a54c",
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-05T19:58:40.000Z",
+      "summary_90w": "",
+      "raw": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9d6202c03434e451435a6d69a0d970de47f1bff0",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-05T19:48:28.000Z",
+      "summary_90w": "",
+      "raw": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "e8dc674b6f90dbd64fafd4417cc110d5c055ebad",
+      "title": "Zimmer frame thrown at train attacker, jury hears",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly37727nk3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-05T19:40:26.000Z",
+      "summary_90w": "",
+      "raw": "One of the stabbing victims says \"all hell's broken loose\" as people locked themselves in toilets.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b191861c3b26642695409b388acaac7a5e5d269d",
+      "title": "Eight killed in series of shootings in western Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-05T19:32:54.000Z",
+      "summary_90w": "",
+      "raw": "Victims are found in several locations in three separate vehicles, according to local reports.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d2eb167f95935bcb3ef12d8b04036f469ab91fe3",
+      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-05T19:12:58.000Z",
+      "summary_90w": "",
+      "raw": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest we’ve seen. Considering the device only launched a few months ago, you’re saving a significant amount of cash on the unlocked device, and you can also opt for the 512GB model, doubling the storage, for just $200 more (Amazon, Best Buy). Best Buy currently has all three colors in stock, while the 256GB model is currently sold out on Amazon in cream.\nSamsung Galaxy Z Fold 8\n\nWhere to Buy:\n\n $1899.99 $1599.99 at Amazon\n $1899.99 $1599.99 at Best Buy\n $1899.99 at Samsung\n\nThe shorter and wider passport-style shape (similar to the iPhone Duo) quickly became natural and comfortable to handle, according to our reviewer Dominic Preston’s experience with the Z Fold 8. Despite its thin and light construction, it doesn’t skimp on battery life, with a 4,800mAh battery that still had 40 percent charge remaining after a full day of use. The interior 4:3 screen has the same ratio as most Apple iPads, which is great for watching movies or TV, but even better for reading. There’s no telephoto lens on this model (it’s present on the pricier Z Fold 8 Ultra), and it only has an IP48 rating, so you’ll want to be careful near the beach, but those are small compromises to make given the discounted price.\nRead our Samsung Galaxy Z Fold 8 review.\nOther deals to consider\nBoth Amazon and Best Buy are selling the Beats Pill for a discounted $99.95 and $99.99 respectively, a sizable break from the usual $149.99 price point. The 2024 edition of this iconic Bluetooth speaker adds in lossless audio over USB-C, as well as native feature support for both iOS and Android devices. It’s rated IP67 for dust and water resistance, and comes in three different colors to match your other Beats devices. Read our review.\nThe Ring Battery Doorbell 2K is on sale for $39.99 at Amazon, over half off its $99.99 list price. This battery-powered doorbell camera is easy to install, and shoots clear 2K resolution video with a 140-degree field of view and up to 6X digital zoom. You’ll get real-time notifications on your phone for any activity the camera spots, with live view and two-way talk in case you need to have a chat with your neighbors or delivery folks without coming to the front door.\nYou can pick up the Lego Star Wars: Ahsoka Chopper set for just $66.99 at Amazon, the lowest price we’ve seen yet for this 1,039-piece building kit. This brick-based droid has great play features, like detachable arms and center wheel for different display positions, and a head that spins and bobs realistically. It stands at over 8.5 inches when fully built, making it a fun addition to your existing Lego display or bookshelf.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ea881b03ae961dac0fd3621170b4032fd696327a",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-05T19:12:39.000Z",
+      "summary_90w": "",
+      "raw": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "5a56f3812c17115cc8728c98c8c9873f7d634b87",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-05T19:08:08.000Z",
+      "summary_90w": "",
+      "raw": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8f7798ef97e413356d7752ac29ba6d8cac2559d6",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-05T19:06:12.000Z",
+      "summary_90w": "",
+      "raw": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c6134d61030c25d12108c1db8331d0ab72d8b866",
+      "title": "Muse has a voice mode now",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-05T19:03:04.000Z",
+      "summary_90w": "",
+      "raw": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today.\nThe feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of your conversation animates in time with the words that it's saying. You can also change the tone of the voice by just asking your agent about what you want and letting it decide or by browsing through a bunch of options in the avatar settings.\n\n\n\n\n\nIn my brief tests, my Muse agent responds quickly over voice, though it occasionally pauses while it's looking up infor …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "1e81d551b39189f517c740cd44112231e0e0407e",
+      "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-05T18:53:47.000Z",
+      "summary_90w": "",
+      "raw": "Judges ruled Vickrum Digwa's original term was unduly lenient and refused his bid to have it cut.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1187877bbc536b6c9cc8ce22d9233e8769d72f24",
+      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-05T18:48:34.000Z",
+      "summary_90w": "",
+      "raw": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "fa785fffcec5f960a7db63769bda5689396c67b6",
+      "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+      "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-05T18:48:07.000Z",
+      "summary_90w": "",
+      "raw": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse\nParaguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days.\nAt the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an obscure digital bank to one of the country’s largest lenders, claiming to have about 60% of Paraguay’s adult population as customers.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "29bba3c89545fee340371602623a71009012d836",
+      "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-05T18:30:16.000Z",
+      "summary_90w": "",
+      "raw": "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "742472373ce5a719e4c845619635b1c5ffcbc011",
+      "title": "EA is bringing 25 classic PC games to Steam",
+      "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-05T18:30:00.000Z",
+      "summary_90w": "",
+      "raw": "This Road Rash screenshot rules. | Image: EA\t\n\nElectronic Arts is launching 25 classic games on Steam, including \"Anniversary Editions\" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve \"the original look, feel and creative intent of the game\" but also have quality-of-life updates to support modern systems and controls and improve performance, according to EA.\nThe seven new editions were \"inspired\" by the discovery of a \"physical media vault\" with \"thousands\" of Betacam, VHS, and D1 tapes and \"other media assets,\" EA says. As part of the digitization process, EA was able to recover master FMV sequences and reedited them to restore more  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "40a7cee6e0108727f0c08697616e5b24cf9a7226",
+      "title": "Russell Brand found guilty of rape and sexual assault",
+      "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-05T18:28:35.000Z",
+      "summary_90w": "",
+      "raw": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b4bb7442d6a0d2528ef51ec1f45d7f48a812dd37",
+      "title": "Messages reveal how hoax threat was passed on by air traffic control",
+      "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-05T18:22:46.000Z",
+      "summary_90w": "",
+      "raw": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "155e203a7518751b25ebbff63a70ca47cfd13e09",
+      "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-05T18:17:36.000Z",
+      "summary_90w": "",
+      "raw": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel\n\nWhy have more than 30 European flights been hit by bomb threats this week?\n\nHoax bomb threats have caused at least 25 flights across Europe to be disrupted, with some forced to make emergency landings, as questions mount over an apparently coordinated effort to cause chaos for travellers.\nThe series of warnings on Thursday affected flights between Italy, Ireland, the UK, Spain, Bulgaria, Romania, Poland, Finland, Austria, Denmark, Belgium, Portugal, France, Greece, Serbia and Czechia.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b4dcd993f8681f204a30defb8594fd870109a23a",
+      "title": "Herzog to meet Israeli election rivals as decision nears on path to power",
+      "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-05T18:13:01.000Z",
+      "summary_90w": "",
+      "raw": "President calls on all parties to help avoid new election after Netanyahu and Eisenkot blocs fell short of majority\nIsrael’s president, Isaac Herzog, was due to meet Benjamin Netanyahu and his chief political rival, Gadi Eisenkot, on Thursday with less than a week left before he decides which of the two men should first try to form a government.\nA bitterly contested election last month, seen by many observers as one of the most consequential for Israel in many decades, ended with neither Netanyahu nor Eisenkot, a former military general and chief of staff, securing a clear pathway to power.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "bf7e9a38adde58876732768030ead3a16026052b",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-05T18:02:27.000Z",
+      "summary_90w": "",
+      "raw": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ec64e77a6fc295d9f7a4ab3d43838439aaf96562",
+      "title": "Head of Justice Department office on Civil Rights resigns",
+      "url": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-05T18:01:57.000Z",
+      "summary_90w": "",
+      "raw": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f49d817c3fd35c35c529d05e1ee19860b7a20991",
+      "title": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-05T18:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview with a breakdown of spending by category, including rent and utilities, shopping, and food. Claude can also answer broader questions around what bills are left before your next payday, if you can afford big purchases like holiday trips, and how much money you could be saving each month.\nIts access is read-only, and with Plaid facilit …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b0e121b3a461c115e0db0be99761e67686ed1b09",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-05T18:00:00.000Z",
+      "summary_90w": "",
+      "raw": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7f7ad02b026457deb696b277a27c49fb244be9cc",
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-05T18:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "ba26403f95e15c7c9e3cc4797c84abbb63efa1e4",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-05T17:59:53.000Z",
+      "summary_90w": "",
+      "raw": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
       "id": "3284095eed7875361b8e1300c113ef14c5e483ae",
-      "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+      "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
       "source_id": "guardian-world",
       "source_name": "World news | The Guardian",
-      "published": "2026-11-05T16:37:17.000Z",
+      "published": "2026-11-05T17:57:54.000Z",
       "summary_90w": "",
       "raw": "EU transport commissioner says ‘too early’ to say if bomb threats to 20 flights are linked\n\nTell us: have you been affected by the bomb threats?\n\nAnd the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats this morning: that’s a WizzAir service from Milan Malpensa to Warsaw, which reportedly landed in Vienna, and a Finnair flight from Helsinki to Rome Fiumicino.\nBelgian newspaper Le Soir also reported a bomb threat against a LOT Polish Airline flight from Warsaw, which now landed at Zaventem.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e174163944b16a9f0fb843b93ff65601f5d6afdc",
+      "title": "Harbinger raises $240M after expanding into defense",
+      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-05T17:52:44.000Z",
+      "summary_90w": "",
+      "raw": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "23696f011bd98b05f7d3c69f4921a62a4a341cb8",
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-05T17:51:52.000Z",
+      "summary_90w": "",
+      "raw": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to a Democrat after 30 years in office. In these and other campaigns, one theme kept coming up: holding AI companies accountable to the American people. Now, the AI industry is left considering the prospect of regulation, data center construction slowdowns, and more.\nPublicly, most major AI company CEOs have remained silen …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a4593b6d18d00c5718871702a6eaafc902ba82a4",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-05T17:40:40.000Z",
+      "summary_90w": "",
+      "raw": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f360b43ad7dfb1eb8e54c3f9ad8755397da064e2",
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-05T17:39:48.000Z",
+      "summary_90w": "",
+      "raw": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "3d218e3750d110d425d5efbb25bc8c089174e58b",
+      "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
+      "url": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-05T17:37:27.000Z",
+      "summary_90w": "",
+      "raw": "Philippine official says there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but he’s not yet being treated as a suspect\nThe Duchess of Sussex’s estranged half-brother, Thomas Markle Jr, has been named as a “person of interest” in the Philippine authorities’ inquiry into child sexual abuse image allegations made against her father, Thomas Markle Sr.\nThe country’s interior and local government secretary, Jonvic Remulla, told a press conference in Manila there were “signs that point that the son is involved in the crime as well”.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "379d61d967e588710f8c66cb85a4977701cda0ef",
+      "title": "Ember’s smallest self-heating mug is on sale for just $33",
+      "url": "https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-05T17:34:23.000Z",
+      "summary_90w": "",
+      "raw": "We’ve been fans of Ember’s temperature-controlled mugs for years, though given the price tag, we admit that they’re somewhat of a luxury purchase. Thankfully, if you’ve been looking for a more affordable option, Woot is selling the Ember Cup in black for $32.99 ($67 off) with a 90-day warranty through November 7th. You can potentially save even more as part of Woot’s larger Home and Kitchen Sale, which lets you save an additional $20 off orders of $100 or more when you use code COOK at checkout.\nEmber Cup (six-ounce)\n\nWhere to Buy:\n\n $99.99 $32.99 at Woot\n\nGranted, six ounces isn’t much, but the smaller, handle-free cup is well-suited for cappuccinos, cortados, flat whites, and other espresso-based drinks. It’s also a perfectly fine option if you don’t mind refilling your cup of coffee, cocoa, or tea throughout the day. I’m actually tempted to pick one up myself at this price, especially since I’ve been trying (with varying degrees of success) to cut back on coffee.\nLike Ember’s larger mugs, the smart cup lets you choose and set your drinking temperature between 120 and 145 degrees Fahrenheit using a companion app, then remembers your setting for future drinks. It can then maintain that temperature for up to 95 minutes on a charge, up to four hours with a lid, or even all day if you leave it on the included charging dock. The cup also automatically enters sleep mode after two hours of inactivity to conserve power. Just keep in mind that, despite its IPX7 water-resistance rating, the cup is hand-wash only.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "97501052a508baaaf1389f4b61e2650f792ffb99",
+      "title": "Farage says he is worried Trump will step up Iran war after midterm 'disaster'",
+      "url": "https://www.bbc.co.uk/news/articles/cqz0vz55jpglo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-05T17:23:49.000Z",
+      "summary_90w": "",
+      "raw": "Donald Trump \"broke a promise\" to the American electorate by launching the war, Reform UK leader adds.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "dd7f854fb23ebfd787530f0233cf65bd62077200",
+      "title": "Protesters march in cities across France as unions stage general strike",
+      "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-05T17:21:45.000Z",
+      "summary_90w": "",
+      "raw": "Hundreds of thousands demonstrate over cost of living and cuts to public services as 70,000 police officers deployed\nHundreds of thousands of people have marched in cities across France in the latest round of street demonstrations, as trade unions put pressure on the government with a general strike over the cost of living and cuts to public services.\nStriking teachers, hospital staff and rail workers joined high school and university students in largely peaceful demonstrations in Paris and other cities on Thursday amid a high police presence of 70,000 officers.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a85489020ca6edfccd4e077e7f8a012fecd10eb0",
+      "title": "Beware ‘sun, sea and surgery’ cosmetic tourism packages, experts advise",
+      "url": "https://www.theguardian.com/society/2026/nov/05/beware-cosmetic-surgery-tourism-packages-experts-advise",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-05T17:17:00.000Z",
+      "summary_90w": "",
+      "raw": "British College of Aesthetic Medicine launches checklist as part of ‘vet it before you get it’ campaign\nCosmetic tourism is often sold as a package of sun, sea and surgery, but experts have said travelling overseas for procedures can end in infections, disfigurement and death.\nNora Nugent, a consultant plastic surgeon and former president of the British Association of Aesthetic Plastic Surgeons, said travelling to countries such as Turkey for surgery came with myriad risks – and not just on the operating table.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5e96a35d94b6ea6d77520c70bc9501be5869712b",
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-05T17:11:48.000Z",
+      "summary_90w": "",
+      "raw": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "127db0d325a8b61e95eb4c0d59e8c45a938df826",
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-05T17:09:55.000Z",
+      "summary_90w": "",
+      "raw": "Most analysts expected the increase from 3.75% to 4%.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "d67f13e39240331f83acf482c3deedbe00108289",
+      "title": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
+      "url": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-05T17:08:29.000Z",
+      "summary_90w": "",
+      "raw": "New report finds that record label Ador stripped child protections from group’s contracts when they were minors\nThe superstar K-pop group NewJeans signed restrictive record label contracts that waived their right to “sleep, rest and free choice”.\nA new report from the New York Times found that the contracts were signed when the members of the record-breaking girl group were aged 14 to 17.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a09ac2cdda652bedacf15b5d873cb26dbac2f541",
+      "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+      "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-05T16:58:54.000Z",
+      "summary_90w": "",
+      "raw": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\n\nUK politics live – latest updates\n\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.\nAt a meeting of senior EU diplomats on Wednesday, at least six member states called for a clear commitment from the UK by the time of the summit that EU students will pay the lower domestic rate of university tuition fees.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -37,19 +635,6 @@
       "published": "2026-11-05T16:30:00.000Z",
       "summary_90w": "",
       "raw": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: How Yung Miami's summer bop became a sweeping indictment.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a09ac2cdda652bedacf15b5d873cb26dbac2f541",
-      "title": "EU presses UK to guarantee discounted university tuition fees for European students",
-      "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-05T16:22:47.000Z",
-      "summary_90w": "",
-      "raw": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\n\nUK politics live – latest updates\n\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.\nAt a meeting of senior EU diplomats on Wednesday, at least six member states opposed delaying a deal on tuition fees until after the summit. Many believe a failure to reach an agreement should delay the highly prized food and drink deal to cut Brexit red tape coming into force.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -82,39 +667,13 @@
     },
     {
       "id": "7cde59c44613b3deb1e29cd94fd3a077c068b40f",
-      "title": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
+      "title": "Team-mates carry coffin at funeral of Tenerife striker Jesus de Miguel",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-11-05T16:12:37.000Z",
       "summary_90w": "",
       "raw": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7cde59c44613b3deb1e29cd94fd3a077c068b40f",
-      "title": "'A void that is impossible to fill' - tributes paid at De Miguel's funeral",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-05T16:12:37.000Z",
-      "summary_90w": "",
-      "raw": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "127db0d325a8b61e95eb4c0d59e8c45a938df826",
-      "title": "Interest rates hiked to 4% in first increase in over three years",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-05T16:08:54.000Z",
-      "summary_90w": "",
-      "raw": "Most analysts expected the increase from 3.75% to 4%.",
       "topics": [
         "World"
       ]
@@ -128,45 +687,6 @@
       "published": "2026-11-05T16:01:56.000Z",
       "summary_90w": "",
       "raw": "Brand was found guilty of one count of rape and three sexual assaults at Southwark Crown Court.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "82f92c375719ca94386cd31a0916e303286bc510",
-      "title": "Camp Snap made a smaller kid-friendly version of its retro digital camcorder",
-      "url": "https://www.theverge.com/tech/1027575/camp-snap-cs-8-mini-retro-film-camera-kid-friendly",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-05T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "After introducing new color options for its screen-free CS-8 video camera last month, Camp Snap announced a miniature version today that's less than half the size of the original. The new CS-8 Mini carries forward the retro design of the larger version that was inspired by Canon and Kodak Super 8mm film cameras from decades ago, but features a smaller grip that's easier for smaller hands to hold, and a step down in resolution. While the original can capture 4K videos, the Mini's 1/2.7-inch sensor is limited to 2.7K.\nThe CS-8 Mini is available now through Camp Snap's online store and Target for $149.99 in bright blue, orange, pink, and green …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "87896d97a90406839d39fa91158356c69ae9ba5c",
-      "title": "Sony’s retro headphones brought me back to my childhood in the best way",
-      "url": "https://www.theverge.com/tech/1026958/sony-mdr-3r-headphones-review",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-05T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Even though I used a phone instead of a Walkman to listen on the Sony MDR-3R, the experience brought back familiar memories.\t\n\nMany of my childhood summer afternoons were spent riding around my hometown on my Huffy bike or, in later years, taking the bus into Harvard Square to walk around and hang out at The Garage. My Sony Walkman was always in my jacket pocket, and a pair of headphones were always on my head. For many of those years, they were a pair of Sony MDR-3L2 handed down (or maybe \"borrowed\") from my older brother. I wore them constantly - until the cable caught on my handlebars, pulled off my head, and I ran them over with my bike. But now I can relive those days with the release of the Sony MDR-3R wired headphones.\nThe Sony MDR-3R are remarkably similar  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "e734c8bbebbe0d04d2ebc5973598367f900b409c",
-      "title": "Emery close to agreeing new Aston Villa contract",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-05T15:45:22.000Z",
-      "summary_90w": "",
-      "raw": "Aston Villa manager Unai Emery is close to agreeing a contract extension at the club.",
       "topics": [
         "World"
       ]
@@ -198,19 +718,6 @@
       ]
     },
     {
-      "id": "ba26403f95e15c7c9e3cc4797c84abbb63efa1e4",
-      "title": "France holds new strikes and protests as unions demand immediate answers",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-05T15:43:15.000Z",
-      "summary_90w": "",
-      "raw": "Five of France's unions join a wave of strikes and protests in a national day of action.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "5c7ffb4c519e0d62af6cf3027ca664841f04f94a",
       "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
       "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
@@ -232,19 +739,6 @@
       "published": "2026-11-05T15:39:20.000Z",
       "summary_90w": "",
       "raw": "A coroner rules Second Lt Max George's death on Salisbury Plain was an accident.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e8dc674b6f90dbd64fafd4417cc110d5c055ebad",
-      "title": "Football fan tried to stop Huntingdon train attack, jury hears",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly37727nk3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-05T15:34:46.000Z",
-      "summary_90w": "",
-      "raw": "Stephen Crean says his grapple with the attacker was \"like Come Dancing, we were all over the place\".",
       "topics": [
         "World"
       ]
@@ -273,19 +767,6 @@
       "raw": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "385a3186a94823c1c4315d1a9aff4789416c5937",
-      "title": "Six dead and others injured in fire at New York City building",
-      "url": "https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-05T15:00:12.000Z",
-      "summary_90w": "",
-      "raw": "The cause of the blaze is not yet clear, after 230 fire and emergency medical personnel went to the scene.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -328,86 +809,8 @@
       ]
     },
     {
-      "id": "56c190950731d79b338446e5eed0131ce86a11fc",
-      "title": "The hidden supply chain costs of the AI boom",
-      "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-05T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains.\nWilly is one of my all-time favorite Decoder guests — his way of looking at the world through our supply chains is just a fascinating way of making sense of the global economy. I first met Willy in 2019, while The Verge was covering Foxconn’s promise to build an LCD fab in Wisconsin. That obviously never happened, but Willy called it right away because he could see the supply chain to support a fab simply wasn’t in place. We also had Willy on the show in 2021 to talk about what was then the pandemic-era chip shortage.\nNow, five years later, we’re in another manufacturing mess, as we stand in the middle of a political fight over whether globalization is coming to an end. Trumps’ tariffs keep changing, the factories that were supposed to reshore in America mostly haven’t materialized, and AI is devouring the planet’s computing resources during an unprecedented infrastructure buildout.\nWilly’s new book is all about the economics underlying these complex systems, which our politicians and regulators seem to insistently ignore. You’ll hear us talk about why the markets have reacted to all these disruptions the way they have, and why China remains a global manufacturing powerhouse even though every other country thinks that’s so risky. I loved this conversation — it’s in the weeds, and Willy really knows his stuff.\nOkay: economist Will Shih on his new book Where Does My Stuff Come From? Here we go.\n\n\nThis interview has been lightly edited for length and clarity. \nWilly Shih, you’re an economist and professor of management practice at Harvard. You’re also the author of the new book, Where Does My Stuff Come From: The Powerful Economics Behind Global Supply Chains. Welcome back to Decoder.\nWell, thanks for having me back.\nI am very excited to talk to you. You and I first started talking ages ago when The Verge was covering Foxconn in Wisconsin. You are a reliable source of information on what it takes to actually build an LCD plant anywhere, not just in Wisconsin.\nThe Foxconn in Wisconsin thing was funny because I tend to go on first principles on these things. Once I knew they weren’t going to build a glass plant across the street, it’s like there’s no way there’s going to be a factory.\nNow, what happened afterwards, of course, is people heard your show, and then I started getting calls from people who live in the community. They went to the zoning hearings in town, then sent me the plans and asked, “Is this going to be a panel factory?” I said, “No, I told you it’s not going to be a panel factory.” So they sent me the plans. I said, “Well, there’s not enough concrete to make this a panel factory.” For a panel factory, you need stability, so you gotta have all this structural steel, and you have to have all this concrete.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nMy favorite part of the Foxconn story — and I don’t mean to rehash it, but it’s just fun to talk to you about it again — is when you said there’s not enough concrete and steel. It’s great. We should actually talk about LCD manufacturing a little bit. There’s an entire chapter in your book about why all of it is in China and China’s investment in that. But I want to just take a big step back for a second.\nIt seems to me that you’ve written a book about the end of globalization in one particular way. We had big global supply chains. The pandemic came and shocked the just-in-time manufacturing system to its core. And then the Trump administration, in the second round, has imposed a whole bunch of tariffs.\nI’ve had several guests on the show straightforwardly tell me we’re de-globalizing the economy. That’s what’s happening here. We can’t rely on it anymore. Your book, as you read it, is a little bit of a reaction to that, but you’re also pointing out how globalization is one of the smartest ways to do it based on first principles of economics.\nTell me about the state of the world and the state of our supply chains right now from your point of view.\nWell, I think the point about first principles of economics is actually spot on. I often tell people my father was an economist, and I used to see him come home from work, and I thought, “I never want to do that. I’m going to go into science and technology.” So I went into science and technology and took all these engineering classes. And I was in product businesses only to discover, to my horror, that if you don’t get the economics right, then it doesn’t matter for science and technology.\nThe book’s subtitle is “the powerful economics behind global supply chains.” I talk about all these principles behind global supply chains, but they’re all actually driven by economics. In fact, what you see today is market forces responding to all this stuff.\nSo, for example, when we put tariffs on stuff coming out of China, then manufacturers say, “Okay, let me move that supply chain, and I’ll do my assembly in Vietnam, or I’m going to do my assembly in Mexico, or let me find some way to circumvent these tariffs.” What I really find is that when you look at how these supply chains are structured, like why do cashew nuts say they come from Vietnam when they were actually grown in the Ivory Coast or Ghana? Well, there was an economic reason for all of these things. It’s why frozen fish that are caught off the coast of Alaska go to Qingdao, China, for processing before they come back. Again, it’s because it’s cheaper to do it that way.\nWhen we put up these trade barriers, the first reaction tends to be, “How can I circumvent that?” We saw a lot of that, especially last year. I remember Liberation Day was April 2nd, and if you look at the quarter right before, people knew stuff was going to be happening.\nWe have this circumvention going. That’s why in the first quarter of 2025, we had all-time-record imports from Ireland, and then the first half of 2026 showed slow imports from Ireland. That’s because we’re burning off all the stuff we imported in the first half of 2025.\nIt all gets down to economics. I’m getting all these TV set ads because the holiday season is coming up. Great, and they’re all coming from Mexico. It’s like, “How can they all be coming from Mexico?” I know the flat panel factories that supply all these TV sets these days are all in China, and they’re all in China because the plants have been subsidized so heavily or because of industrial policies that have encouraged those plants to be there.\nIf you watch the trade lanes, you’ll see this stuff. What happens is there’ve been all these new shipping routes from China to Mexico over the last two years. Direct ocean container service from China to Mexico. It’s like, “Huh, I wonder what that’s about.” I’ll tell you what it’s about. It’s about moving parts and components from China to Mexico so that I can assemble them in Mexico and then bring them in under the USMCA agreement.\nSo what you’re actually seeing is that these supply chains are organized the way they are partly because some places have the capabilities, but more often than not, a lot of these are just responding to economic forces. If I’m going to add on tariffs or I’m going to make it more expensive to ship something between two points, the market will find a way around that.\nThat’s something I want to come back to several times in this conversation. “It’s cheaper” was a real driving force of globalization. Americans like cheap things. They like cheap flat-panel TVs. The fact that I can go to Costco right now and get a 50-inch TV for $300 is a miracle of the modern supply chain and of modern manufacturing.\nIt is a miracle, right? And it’s cheaper, and it’s because there’s a place that, for better or for worse, can make it cheaper. By the way, American consumers benefit from that.\nOne of the reasons that we pursued free trade and globalization so heavily in the United States is that we thought that creating economic ties between all these various countries would reduce the potential for an armed conflict. There are a lot of ways to think about that, but in general, if you tie the economies together, the price of having a war shoots up, and then you won’t have free or cheap TVs, and maybe the public won’t like that.\nThat is under pressure now, right? We’re sitting here in the middle of an AI conversation, where China is routinely invoked as the great threat that will rise up if they get to AGI before us. We are putting up tariffs, particularly on China. In the United States, the policy administration is to bring manufacturing back to the United States through the use of tariffs. Your point of view is that simple economics will provide enough contortions to avoid that blunt outcome.\nWhen we seal the borders for some products everywhere, then the price is going to go up. So, for example, putting tariffs on steel. Initially, when we just put tariffs on imported steel and aluminum, then what happened was, “Well, gee, I happen to be making construction equipment. More than half of the cost of that construction equipment is medium carbon steel, so therefore it makes it easier for me to import construction equipment from somewhere else.” We then say, “Okay. Now we’re going to tariff stuff based on your steel content.”\nEventually, when you close off all those things, which means you’re basically tariffing everything, then stuff gets more expensive domestically. You could look back on the period from 2000 until really 2012 to 2014; we had relatively low inflation. Part of it is because we were getting cheaper stuff from China.\nI think there are a couple of things that drove a breakdown of this model, if you will. One is that people didn’t really recognize that the connection between moving work out of the US to China meant you’re leaving people behind who don’t have any more work. That cost was spread over people who, by the way, also shop at Walmart and benefit from the cheap goods. But we as a country didn’t think about it like, how are we going to retrain all those people who weren’t making furniture in North Carolina or who were making castings and forgings in Kentucky or wherever?\nThat was one part of the problem. The other part of the problem is that we have this gigantic trade deficit. Now, a lot of that is fueled by government spending and borrowing and so on. But typically, in some respects, you would’ve expected the exchange rate or some other adjustment mechanism to compensate for that.\nI remember the last time exchange rates moved was in the 1980s. That was also the last time the US ever had a trade surplus, when the dollar got a lot cheaper relative to the Japanese yen, especially at that time. That had an adjustment on trade flows as well.\nSo now you have China running this ginormous trade surplus. Basically, what they’re doing is exporting their economic problems in China to the US, and they’re exporting that at the expense of jobs elsewhere. The Europeans have suddenly woken up to that. Now go to a place like Germany, where half the economy revolves around the auto industry, and they now have figured it out, and it’s like, “Wait a minute, this is an existential crisis for us.”\nBut on those two things, the controls you would’ve expected to rebalance things didn’t pan out. That’s why we have so much discussion about this right now and a view of this as a problem.\nIt feels like my entire teen experience was a conversation about NAFTA, and we should open free trade in North America. Later on, I got to college, and all the economic discussion was about the EU and creating the single market in the EU: “We’re going to set up these big open markets, and there’s going to be free trade inside of those markets, and that will lead to a kind of economic prosperity.”\nFast forward to 2026, and the desire to tear a lot of that down has gone way up, right? Particularly as you look at the USMCA and Chinese goods coming to Mexico to come to the United States, nakedly circumventing the entire policy goal of imposing tariffs. \n\nThe goal is to build the iPhone in the United States. The goal is to build manufacturing in the United States. I know that you have never really thought that’s an achievable goal, but that is the goal. That is what the administration promised. We’ve created these trade groups, trade associations, that allow that goal to be circumvented. Do you think the walls are going to keep going up, or do you think they’re going to come back down?\nI think we’re going to see more pressure to moderate our behavior a little bit because, let’s face it, there are a lot of goods that we, as a country, need access to inexpensive labor. So I’m actually very pro-USMCA as a successor to NAFTA because I actually think there are things that we need inexpensive labor for. Mexico is a good place to source things like that. There are things that we need from Canada.\nSo if we were to look at North America as a trading bloc, then what you would see is the benefits of specialization, which is the whole rationale for trade in the first place. We’re better at doing this, you’re better at doing that; you specialize in that, we’ll specialize in this. We trade; everybody is better off. If you can do that with a community of countries that understand the need for that type of balance, then everybody is better off.\nI think the problem with China is they’re very happy to have this imbalance, where they want the world to be dependent on them, but they don’t want to buy stuff from the rest of the world. When you have that, then trade doesn’t really work. So I think that’s the problem.\nI’m hoping we’re going to realize that we’re better off among a group of like-minded countries where we can trade within that bloc. So for example, if the US were to view North American partners and European partners in Japan — and countries in Southeast Asia, Australia, New Zealand, parts of Central and South America, and even Africa — and say, “Okay, let’s trade across this bloc,” then we’d have access to most of what we need, whether it’s critical minerals, low-cost labor, or a lot of technology specialties. We could do much better with that, much better than a go-it-alone strategy in my view.\nThe first part of your book — which I highly recommend the audience read; it’s a fun read — is just setting up the first principles of why we trade at all in the very concept of labor arbitrage. It seems like we’re having a national policy conversation that is 500 steps removed from these basic ideas of why we would trade.\nIt is entirely centered around: can you bring manufacturing back to America because we let all the manufacturing jobs go to Mexico and China, particularly in high tech? And we’re behind. There might be some extraordinarily bad event, like a war, where it’s exposed how little manufacturing capability we have in the United States.\nThat has nothing to do with the basics of specialization in various countries around the world. It’s another problem, and the blunt instrument is, “Boy, it’s bad that all of our drones are made in China. We’re going to prevent drones from being sold here. Of course, our industry will set up drone manufacturing in the United States.” I don’t see that connection. Do you see that working?\nNo. I think that’s a transactional view where you look at one piece at a time as opposed to looking at the bigger picture. I think we have to start with a core principle that the US is a high-cost country. Therefore, if you want manufacturing jobs coming to the US, then you’ve got to have high labor productivity.\nIn fact, if you look at the types of jobs that are coming back to the US, they tend to use a lot of automation, a lot of sophisticated manufacturing processes, and stuff that is high-skill that can justify the high labor cost. Either that, or they are things where we have a technological lead that nobody else knows how to do in the world.\nI was looking at the high-temperature superalloys that are used in the hot section of jet engines. There are only three companies in the world that know how to cast those, and two of them are in the US, and one of them is in the UK. There are things like that the rest of the world has to buy from us. So if you have high labor productivity or highly differentiated products, those we can make in the US; we can make them successfully. By the way, most of them never left the country.\nThe US, France, and the UK are major suppliers of jet engines to the entire world market. Even the Chinese buy those from the West. So if we have these things that we do better than anybody else, we should invest in those and make sure that we’re always in the lead, and then everybody else will buy from us, and then you’ll have some balance where you can’t be held up.\nThere’s a lot of this thinking like, “I wish I could turn the clock back to the 1980s or the 1970s, when manufacturing was the path to the middle class in the US.” But manufacturing has changed worldwide, and for those jobs that you want to have manufacturing in the US, you’ve got to have high labor productivity or the high differentiation that’ll go with it.\nI want to stay on the iPhone for one more second. Apple just inked a new deal where they’re going to source a bunch of titanium from a Pennsylvania-based company called Perryman for the iPhone 18 Pro and the new iPhone Duo. They’re going to source that titanium here. They’re then going to ship it to China. They’re going to assemble the phone in China, and they’re going to ship the phones back to us. They do that with Corning and glass as well.\nI’ve always looked at that. Tim Cook’s job, in particular, is that he’s a statesman. He has to negotiate with Donald Trump and Xi Jinping about iPhone production and tariffs in these supply chains, and the iPhone holds the global economy together. If the price of the iPhone gets too high because of tariffs, maybe there’s an electoral impact in the United States.\nHow do you see products like that? Are they as load-bearing as it feels to me, or are they just examples of the larger system?\nI think the iPhone is a terrific example of how difficult this problem is. Because right now you have components that have high technological complexity. The iPhone uses the most advanced chips produced by Taiwan Semiconductor Manufacturing Company. By the way, most of those chips are still going to be made in Taiwan. TSMC has a fab in Arizona, but its capacity is piddly compared to what it has in Taiwan.\nThose chips come from one place and require the most sophisticated processing tools that come from ASML in the Netherlands, but also companies like Lam Research and Applied Materials in the US. So it’s that global thing. But the key thing is iPhones also require assembly labor. They require manual assembly because we’re not at the point yet where you can assemble the whole thing with a robot.\nThere’s actually a chapter in my book where I talk about what Henry Ford and the lifestyles of the Chinese Communist Party have to do with assembling iPhones. It turns out it’s a lot. The lifestyles of the Chinese Communist Party have to do with how they mobilize workers in what’s called the Danwei model, which was established after the Communist Revolution. It’s where you have a production site, a walled city with housing for workers, a means of production, warehouses, ways to feed them, and stuff like that.\nIf you ever go to a phone factory in China, the real question is: how do I mobilize 100,000 to 200,000 workers to do this manual assembly on a scale that an Apple needs? They’re trying to do it in India. They’re having some success with India, but that was really hard. Once again, it’s: how do I mobilize manual labor at that level of scale?\nSo the iPhone, as you point out, is a great example of a global product because it needs the highest level of tech, and it also needs the huge workforce to do the manual assembly.\nThere’s actually a great book called Apple in China, which I also recommend. The narrative is that the Chinese government subsidized an awful lot of manufacturing in China. They built these cities, and they built the culture that enables the labor at scale. Your example in the book, again, is LCD factories, where the Chinese government invested in overcapacity, and that drove the price of LCD manufacturing down. Basically, it’s all centered in China now.\nThe flip side of that is, boy, it’s pretty obvious that they stole a bunch of American intellectual property along the way. They developed these manufacturing capabilities. They took a lot of the know-how that Apple imported into that country. They did the same with Tesla in a lot of ways. They stood up an entire electric car industry on the back of the innovation Tesla had started through manufacturing in that country. Now they have those capabilities, and they’re racing ahead of our companies because we don’t actually have the manufacturing know-how.\nCan you rebalance that? I hear this concern a lot: that you can’t rebalance it. If all the manufacturing happens there, they will actually be state-of-the-art, and we will fall behind.\nI’m not sure if “stole” is the best description of how they got these capabilities. I would say they learned it, and in many cases we taught it to them. Being a supplier to Apple is often referred to as a golden ticket, and people say, “Well, why is it a golden ticket?” Well, obviously you get cash flow from selling products to them.\nBut the other thing is that Apple is a real taskmaster. By making you work hard to improve your products, improve your specs, meet their performance specs, and meet their cost targets, you get better. The same thing happened when Tesla set up their factory in Shanghai. The fact that they qualified local suppliers raised the game in the Chinese EV market.\nAnother thing I think a lot of people miss about China is that there is actually this very interesting competition going on. Beijing sets policies and objectives, but then all the regional governments, the provinces, and the major cities are competing with each other. They set up this free market dynamic, and so you have this fierce competition between regions.\nThe regions are also very smart about setting objectives. They keep raising the bar for people so the technology gets better. You have a dynamic where there’s really cutthroat competition in the Chinese market, and it’s about survival to make better products at lower prices. That’s something that’s really driving it right now.\nTo your point about how, to the extent we’ve lost the ability to make things, the Chinese have a lot of capabilities. You should walk through some Chinese factories these days. They’re way ahead of the US in terms of using automation, because they’re investing like crazy.\nI had a student I was talking to about his father’s factory in Shanghai, and he said his father’s answer to everything, every competitive threat, was just more CapEx: “I’m going to throw more capital at it. I’m going to buy the latest machine.” I was in one factory a couple of months ago where the equipment was two or maybe three years old, and they were ripping it out and upgrading it to the latest generation because they said, “This is how we’re going to survive. We have to make the product more efficiently, and we have to make a better product.”\nSo there’s this internal competition in the Chinese marketplace that is really fearsome, and it’s hard for Western companies to compete there, but that is an important dynamic that’s going on as well.\nThe interesting thing about that, as I compare and contrast China with the United States, is that the system in China is understood. It’s stable. You can make a lot of criticisms of that system. I think you can make an endless number of human rights criticisms of the Chinese government. It’s obviously a repressive government in a lot of ways.\nBut the economic system is understood, and it’s controlled at the top in a meaningfully stable way. The goals are apparent, the investment is apparent, and there’s a lot of competition to achieve those goals with that investment.\nThere are two things about that which I think are significant. The first is that China engages in long-term planning, five-year plans. Now, when I was a kid, I used to look at China’s five-year plans, and I thought, “This is a big joke,” because they would make a lot of mistakes, like Mao Zedong’s Great Leap Forward, and they were doing this new type of tillage in farming, and they caused this huge famine and millions of people died.\nBut to the credit of the government there, when they do this type of long-range planning, they learn from their mistakes, and they get better. If you look at their current five-year plans and the last couple of five-year plans, they’re good plans. They understand what’s important, and they focus on those things that are important.\nThen the second point is about what kinds of people they have implementing these plans. I was in one of these third-tier cities some number of years ago, and I was having dinner with the economic development commission there. At the beginning of dinner, I said, “Hey guys, just for fun, let’s go around the table and talk about what you studied in school.” It was mechanical engineering, industrial engineering, electrical engineering, metallurgy, metallurgy, mechanical engineering. You go to Washington and ask what people studied in school, and it’s political science, economics, and government.\nSo you have these technocrats competing in technology-intensive businesses and having that understanding. By the way, that’s one of the reasons I wrote this book: I was serving on these committees appointed by the Commerce Secretary on supply chains, and I realized we have civil servants who don’t have the exposure to supply chains and how stuff is actually made.\nChina had this plan that was called the 863 plan. The 863 plan was when four scholars went to the government in Beijing in March of 1986 — that’s why it’s called “863”; it was ‘86, March. I remember the first time I looked at the 863 plan, and it was, “If we want to be a modern economy, we have to be good at these things.”\nI looked at that plan in the 1990s, and I said, “This is a good plan.” And they’ve executed every one of those things. They said, “We need to be good at all these things, like information technology, biotechnology.” In semiconductors, they still have a way to go, but they identified civil aircraft. But they identified all these different technologies like communications technology, software, and robotics.\nI would contrast that with the Trump administration here in Trump’s second term, where… We already talked about Liberation Day. Howard Lutnick is on television saying, “We’re going to move manufacturing back to the United States. This is the goal of the tariffs.”\nThree weeks later, there are 900 lawsuits about the tariffs, and Howard Lutnick is back on TV saying, “Robots will do all the manufacturing now. This is the goal. We’re going to do heavy automation.” And then the tariffs get struck down, and they find a new law for different tariffs.\nIt does not seem like the same long-term planning that can be stuck to, or the same environment where businesses understand the stability of the trading system such that they can compete ferociously. Every CEO who does manufacturing and comes on the show usually ends up talking to me about how they scrambled to buy RAM at affordable prices to make their products, which has to keep them from doing anything else.\nHow would you contrast that? Can we get out of this moment where it’s a pure scramble, or is this fully shaking everything up?\nWe’re in a very transactional environment. Everything is short-term, and these rapid changes that you see in the tariffs… If you look at a map of 2025 and 2026 and put a dot everywhere there was some tariff action, it looks like a shotgun hit the wall. There are all these spots all over the place.\nThe problem with that is when you have that type of instability, it’s very hard for a company to make any long-term plans. Before I build a factory, I want to know that I’m going to have stable demand for a couple of years, at least until I have a chance of earning a return on that thing. I’ve talked to a couple of companies about this. These were overseas companies thinking about coming into the US market, and they said, “Well, I can’t do it because things keep changing. Do I go to Mexico? Do I go to the US? What part of the US do I go into?”\nEspecially with things like semiconductor fabs, you need to know that you’re going to be able to get 10 to 20 years out of it. When things change every couple of weeks, what that does instead is say, “I’m just going to hold off on an investment because it’s just too uncertain. It changes too often.”\nAre you seeing that slow down in investment? Are you seeing companies say, “We can’t actually invest in manufacturing in the United States”?\nIt varies. I see that with a lot of companies asking, “Where do I want to put my production operations?” Okay, now we see some things like car plants coming into the US, and usually that’s a function of the pain being too great.\nBut the whole auto tariff thing is also a little bit crazy. If you look historically at production strategies in the auto industry, typically when you build a plant, you size it to build about 200,000 to 250,000 units of a model or a model family, because that’s like the efficient scale for an auto plant.\nThen what you have is a company like BMW that says, “Great, I’m going to build all my X Series SUVs in South Carolina. I’ll build the 3 Series somewhere else. I’ll build the 5 Series somewhere else, and I’ll build the 7 Series somewhere else. And then what I’ll do is exchange them.”\nSo BMW in South Carolina or Mercedes in Alabama, they build certain models in the US, export them to the rest of the world, and then import other models so that you have the whole product line. Toyota does that. For example, they build more Camrys in the US than anywhere else, and they were exporting some of those as well.\nBut then when you start putting tariffs on imports, that screws up that whole strategy. Again, it’s a decision that was made without understanding how the automakers had laid out that strategy.. You need to understand how the supply chain is structured and why it’s structured the way it is, and then you can be more thoughtful..\nDo you see tariffs as mostly protectionist? I was in France earlier this year, and I took an Uber, and I think it was a BYD Seal, a Chinese EV. I asked the French Uber driver, “How do you like this car?” He was very French, and he literally did the thing. He goes, “Peugeot is shit.” I almost started clapping because it was amazing. He’s like, “If the French government would just allow the Chinese government to sell these cars here, these companies would all be dead.”\nIn the United States, I think Jim Farley, the CEO of Ford, is running around saying the Chinese EVs are superior to American products. It’s the tariffs that protect our markets and protect our manufacturers, because you could import the cars, but you’d pay such high tariffs that they’re economically infeasible.\nThat’s just pure protectionism. That goes against what you’re saying, which is that you need to protect your industry until their products are good enough to compete on the global scale. But we’re not doing that with our carmakers. We’re just protecting them.\nYeah, and there’s a cost associated with that. So, for example, one of the famous tariffs is a so-called chicken tax. I talk about this in the book as well. The chicken tax resulted from this trade spat where we put tariffs on imported light trucks.\nSUVs are built on that platform. It’s one of the reasons the Detroit automakers have focused on SUVs and light trucks. That’s their profit center because there’ve been tariffs on that, and it’s only happened in the last decade or so that Toyota and Nissan and others have made more light trucks in the US and Mexico. So that’s one of the results of that type of tariff distortion.\nWait. But that’s a policy victory, right? Toyota, Nissan, and all the other foreign manufacturers are going to make trucks in the United States. You’ve gotten some economic benefit; they can compete, and maybe all the trucks are going to get better.\nYou get some economic benefit, but one of the reasons the Detroit guys still make so many trucks and SUVs on those platforms is because they’re more profitable, which says the price is higher than it might otherwise have been. But I do see the benefit of that.\nAlthough I have to say, I was walking around the Toyota factory in Georgetown, Kentucky. I’m walking around with the plant manager, and I said, “You’re making sedans here?” He said, “Yep,” and a lot of the Detroit guys have given up making sedans because they can’t make any money. I said, “And you’re using parts that mostly come from Kentucky, Ohio, Indiana, Alabama, Mississippi, and Texas, and some from Mexico and Japan, but mostly domestic content.” He’s like, “Yep.” I said, “And you’re using American workers.” He said, “Yep.” I said, “You’re using American-made steel.”\nI’m trying to get out of him that, okay, look, I know American steel costs a lot more than imported steel because I’ve been in other factories that are still importing steel despite the steel tariffs because they say it’s still cheaper in Asia. But I said, “You’re using American-made steel.” So I’m trying to get that out of him: how much he’s paying for steel.\nObviously, he’s not going to tell me, but he does say, “We have a strategic long-term relationship with our supplier.” That tells you a lot, which is that there are ways you can do these things. You have to work with your suppliers. You have to give them longer-term arrangements, be less transactional, more strategic on things like that. So I think you can do it, but it really takes a comprehensive and more thoughtful approach.\nI understand the rationale for putting tariffs on foreign goods that undercut our markets. You’re just going to increase the cost, and then maybe the consumer will buy the domestic product, and that’s better for our economy. It just hasn’t seemed to have worked.\nI don’t see Liberation Day as having done anything except generally raise prices on everything. We haven’t actually remapped the global economy. And a lot of what you’re describing is, well, the system is pretty resilient. The system was pretty resilient to COVID. The system was pretty resilient to an oil tanker getting stuck in the Suez Canal. The system has been pretty resilient to the war in Iran. The system has been pretty resilient to absolutely chaotic tariffs.\nMaybe some prices have risen, and I’m sure we’re going to get listeners pointing out that all the prices have risen. It feels like the only thing the system isn’t resilient to is the AI industry wanting every scrap of RAM that the whole world can produce. And so now there’s not going to be inexpensive cell phones.\nWhat will push the system over the breaking point? Because globalization has seemed generally resilient to a bunch of people who want it to be over.\nI think what you’re highlighting is that it’s really the power of the market. In the case of closing the Strait of Hormuz, Brent North Sea crude prices didn’t go to $150 a barrel like I was afraid they would, and a lot of people were afraid they would because the market adjusted.\nWe applied a lot of tariffs on Liberation Day. The first response was circumvention or front-running. The next response was tariff engineering. The next response is like, “Okay, let me move production to Vietnam or let me move production to Mexico, and I’ll find a way around that.” Now, eventually, when you close down all those things, then prices eventually have to rise.\nIn the case of memory chips, that’s a different problem because the demand far outstripped the capacity. I used to always buy memory cards on Black Friday. Forget that this year.\nYeah, it’s all over.\nI’m just glad I stocked up on a previous Black Friday.\nIf you want to know my prediction for when the AI industry will meet its true political end, it’s when Grand Theft Auto VI comes out. Everyone goes out to buy a PS5, and they realize it’s more expensive now at the end of its life cycle than it was at the beginning because the price of memory has skyrocketed.\nYeah, no kidding. We’re talking about huge amounts. But that’s the same thing. We’re in a phase where we see all these tactical actions taken by the government, very transactional, without necessarily understanding all the complex interconnections and interdependencies.\nYou may have noticed, for example, that the administration temporarily suspended the Jones Act. I don’t know if you remember that. Why did they temporarily suspend the Jones Act? Because oil refineries on the East Coast of the US couldn’t get their oil from Texas cheaply because there were no domestic supertankers.\nThe Jones Act requires that if you move stuff from Texas to New Jersey, you have to have a US-owned, US-crewed, US-built, very large crude carrier. There aren’t any because we don’t build those in the US. So that’s why it’s cheaper to bring oil from Algeria to New Jersey than it is to bring it from Texas. And that’s why they suspended the Jones Act for a while. At least they understood that.\nI know at least some of our audience is going to be listening to this conversation, and you’re steeped in global trade. You wrote a book to educate our government about how it works from the basics, which I think is sorely needed.\nBut a lot of the promise for young people in our politics lately is that we will rebuild American capacity. We will rebuild manufacturing capacity. We will bring back a bunch of jobs where you don’t need an advanced degree in AI prompt engineering or whatever to see the future. We will bring back the dignity of work.\nPoliticians on both sides are making these promises all the time, and a lot of that requires closing down trade, forcing that economic activity back within our borders. It just seems like that isn’t likely. So I’m not going to ask you whether or not that is totally likely. I’m going to ask: what’s more likely instead?\nWell, I think what’s more likely is that we will see efforts as you describe. I would love to sit down with people and say, okay, we want to move this type of production back to the US. Let’s take a more strategic, more nuanced approach, understanding the bigger picture, considering what levers are available.\nThe US is still a big, attractive market. It is the largest market in the world. It is the most attractive market in the world. That’s, by the way, why the Chinese all want to come here: because they can make some money here that they can’t make elsewhere. So then how do we harness that market power and that market pull with a more nuanced understanding of why our supply chains are organized the way they are today? Recognizing that, can I build a strategy to bring important things that are very strategic for the US to know how to do?\nLet’s think about how we fix this problem with an understanding of that bigger picture.\nWilly, it’s been great to talk to you. It is always just a pleasure. We have to have you back faster than five years. Thank you so much for being on Decoder.\nThanks for having me.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "08aa0853fb18010d19a2c122a7522a8ad57c0856",
-      "title": "WhatsApp will let you invite friends to events who aren’t on the app",
-      "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-05T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "WhatsApp is rolling out a new feature that allows you to invite friends and family members to events in the app - even if they don't have the messenger installed. When you create an event in WhatsApp, you can share a link with a friend or family member without the app, and they can still view all the details.\nWhatsApp will let you manage your events through a new Events Home, where you can create and send invites, as well as manage RSVPs. You can use the new hub to send custom reminders and include an option for guests to add a plus-one. WhatsApp says you can view a complete list of past and upcoming events by navigating to your Settings me …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "49dbbd04a6b486104416dafe2b9e5958311a22aa",
-      "title": "You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
-      "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-05T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Instagram's standalone video editing app is now available on macOS, where you can plug in your AI agent of choice to assemble your videos. Instagram's Matthew Simari, head of product management for Edits, said in an interview with The Verge, \"One of the things we're releasing with Edits Desktop is a MCP for all the tools within Edits Desktop. You can use any agent you want, you can use Muse - we would love you to - but really any agent you want of [your] choice, to edit, tweak, work with your video.\"\nThe Edits app originally launched on mobile platforms last year. Simari said creators have been \"heavily\" requesting a desktop version, but AI …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "f8f8c085e2e5be1c3c8777a4e226291c2fe03870",
-      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-05T15:00:00.000Z",
-      "summary_90w": "",
-      "raw": "BERLIN, GERMANY - JANUARY 16: In this photo illustration the logo of the music streaming service SoundCloud is displayed on a smartphone on January 16, 2019 in Berlin, Germany. (Photo by Thomas Trutschel/Photothek via Getty Images) | Photothek via Getty Images\t\n\nAfter partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly. As part of the partnership, SoundCloud Artist Pro subscribers are also getting three months of ElevenMusic Pro for free, so they can experiment with generative AI and potentially alienate their fans. Songs published from ElevenLabs directly to SoundCloud will be labeled as such, making clear their AI origins. \nThe integration between SoundCloud and ElevenLabs isn't as deep  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "147681f613345c267a42f469b0aaa63da28b52df",
-      "title": "What Harry Kane's new Bayern Munich contract means for England and the Premier League",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-05T14:44:34.000Z",
-      "summary_90w": "",
-      "raw": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "147681f613345c267a42f469b0aaa63da28b52df",
-      "title": "What new Kane deal means for England and the Premier League record",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-05T14:44:34.000Z",
-      "summary_90w": "",
-      "raw": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "0f2052ea73f7a4c11ac6c2904d4be5cb1bbb4bf5",
-      "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
       "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -432,23 +835,10 @@
       ]
     },
     {
-      "id": "ee39a0d8accabdb631a9f873e3819af34011f285",
-      "title": "Southport and Nottingham attack victims demand end to data breaches",
-      "url": "https://www.bbc.co.uk/news/articles/c60qkxkl9kkno?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-05T14:37:02.000Z",
-      "summary_90w": "",
-      "raw": "Families described the unauthorised access of confidential medical records as an \"abuse of power\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ac06689408ba8f5604af2f14db88d99b11259eca",
       "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-11-05T14:29:40.000Z",
       "summary_90w": "",
@@ -484,32 +874,6 @@
       ]
     },
     {
-      "id": "9ec4400439f9aad39d273b09b0663f9210d8c1af",
-      "title": "Tech is about to get hammered in Congress",
-      "url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-05T14:11:27.000Z",
-      "summary_90w": "",
-      "raw": "Tech CEO hearings. Tougher AI and data center guardrails. Investigations of Elon Musk's DOGE cuts. The gates are open for Democrats once they regain control of committee gavels come January after a historic win of majorities in both the House and Senate on Tuesday.\n\"LAWYER UP,\" the top Democrat on the House Oversight Committee wrote on X in a message aimed at the Trump administration as well as \"corporate corruption\" shortly after networks like NBC News projected Democratic control of the House. \"Subpoenas,\" Senate Finance Ranking Member Ron Wyden (D-OR) posted. It's clear tech executives will also be caught in Democrats' crosshairs. \"They  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "890248094acce96cdc31a7ac7df9be8c2871efb7",
-      "title": "The X-70 is NASA’s next experimental X-plane",
-      "url": "https://www.theverge.com/tech/1027426/nasa-experimental-x-70-fractal-aircraft",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-05T14:10:12.000Z",
-      "summary_90w": "",
-      "raw": "Yesterday NASA announced the latest addition to its X-series of experimental aircraft that have included the Bell X-1 that first broke the sound barrier nearly 80 years ago, and the more recent X-59 quiet supersonic demonstrator. The new X-70 Fractal is designed to be a \"high-performance, highly adaptable research platform\" that NASA can use as a testbed for the development and testing of next-generation aviation technologies.\nThe agency only released an AI-generated image of the X-70 shrouded in smoke and shadows, but confirmed several of the plane's capabilities. It will be a crewed aircraft with a cruising speed of Mach .75 that can reac …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "43dcc0a8895d293f386f511f9b228cd4849f9063",
       "title": "Australians are yet to see the benefits of AI and datacentres – and US midterms show they could be political kryptonite",
       "url": "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia",
@@ -517,7 +881,7 @@
       "source_name": "World news | The Guardian",
       "published": "2026-11-05T14:00:26.000Z",
       "summary_90w": "",
-      "raw": "Albanese should tread carefully as he struggles to make case for how the new technology will benefit ordinary voters\n\nGet our daily political email, free app or daily news podcast\n\nWhen will Australia see the benefits of the AI and datacentre boom? So far, all we’ve seen is the possibility of changes to copyright which would hurt Australian creatives, special rules about power and water use, and the threat of mass displacement or replacement of workers, with the trade-off being a mere 10% chance of human extinction.\nNow add the Reserve Bank’s assessment this week that datacentres were part of growing “inflationary pressures” when lifting interest rates to an 18-year high.\nSign up for Guardian Australia’s Politics, really newsletter here\n Continue reading...",
+      "raw": "Albanese should tread carefully as he struggles to make case for how the new technology will benefit ordinary voters\n\nGet our daily political email, free app or daily news podcast\n\nWhen will Australia see the benefits of the AI and datacentre boom? So far, all we’ve seen is the possibility of changes to copyright that would hurt Australian creatives, special rules about power and water use, and the threat of mass displacement or replacement of workers, with the trade-off being a mere 10% chance of human extinction.\nNow add the Reserve Bank’s assessment this week that datacentres were part of growing “inflationary pressures” when lifting interest rates to an 18-year high.\nSign up for Guardian Australia’s Politics, really newsletter here\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -531,19 +895,6 @@
       "published": "2026-11-05T14:00:26.000Z",
       "summary_90w": "",
       "raw": "Transparency experts raise concerns about plans to use NDA to gag attendees at event featuring Pauline Hanson in lead-up to NSW election\n\nGet our breaking news email, free app or daily news podcast\n\nOne Nation is attempting to gag donors from ever revealing details of discussions at an invite-only, cocktail-dress fundraiser with the party’s senior leadership team, in a move described as a “worrying precedent” for democracy.\nInvitations to the “very special evening” at an undisclosed central Sydney venue next Thursday show donors will be charged $3,000 for a “private and very discrete” four-hour event.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "dd7f854fb23ebfd787530f0233cf65bd62077200",
-      "title": "Protesters join street demonstrations across France on day of strike action",
-      "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-05T14:00:13.000Z",
-      "summary_90w": "",
-      "raw": "Hospital workers, air traffic and rail staff expected to join industrial action as 70,000 police officers deployed\nHundreds of thousands of people are expected to march in demonstrations across France as trade unions call for a nationwide strike expected to extend to hospital workers, air traffic control, the post office, teachers and rail staff.\nA total of 70,000 police officers were deployed across France on Thursday morning as street demonstrations began in cities including Marseille, Grenoble and Lyon.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -575,58 +926,6 @@
       ]
     },
     {
-      "id": "dcc26fe9b0c44e25a7e6fd975f58aa3e09d2cadd",
-      "title": "The new iMac is a good desktop computer that needs a redesign",
-      "url": "https://www.theverge.com/tech/1027177/2026-imac-m6-review",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-05T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The 2026 iMac.\t\n\nI'm a simple guy. I usually work from my MacBook Neo wherever I end up sitting in my house. And while I have monitors, mice, and keyboards to plug it into, I often end up leaning over the MacBook and doing none of that. I rarely even sit at my office desk, which has done wonders for my posture.\nBut over the past week, I've found myself returning to my desk more and more often to use Apple's latest iMac. With the iMac, I have a far bigger screen and solid built-in speakers that are much better than what I have on my laptop.\nWhen The Verge last reviewed the iMac, we asked: \"Who is this for, exactly?\" It's still true that it's often cheaper a …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "ba5d4e4457d09095432328ad6fbd1f901aa14bd2",
-      "title": "The touchscreen MacBook Pro is a winner",
-      "url": "https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-05T14:00:00.000Z",
-      "summary_90w": "",
-      "raw": "You can look, and you can touch. (Note: all the photos in this review are of the 16-inch PROLED Pro.) | Photo: Owen Grove / The Verge\t\n\nI keep forgetting the MacBook Pro with PROLED XDR Display has a touchscreen. I've been testing this new laptop, one of the most impressive Apple has ever created, for the better part of a week. I can't stop noticing some of its other features: the slimmer design, the improved display, the Dynamic Island that somehow catches my eye more than the notch ever did. But I keep forgetting that as I go about my day, I can now reach out and poke the screen.\nCome to think of it, that might be exactly what Apple intended. Steve Jobs said touch laptops were a bad idea; some subset of users demanded one anyway. Now the MacBook Pro has one. But not in a  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "9631abe2ea7d6f74bce5ff73d71c76b8b1c7e687",
-      "title": "'You've had a wonderful life Tommy, but it's over' - Sir Tom feared he was dying",
-      "url": "https://www.bbc.co.uk/news/articles/c8qlnwng5pzwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-05T13:56:50.000Z",
-      "summary_90w": "",
-      "raw": "The singer from Pontypridd told the audience just how serious his \"bad case of the flu\" was.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "79e2afd271239c11825002e7295f28c189665a15",
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-05T13:51:03.000Z",
-      "summary_90w": "",
-      "raw": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "97a61a9c26a187c3734a1fcfddc228f1e66cdd67",
       "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
       "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
@@ -635,19 +934,6 @@
       "published": "2026-11-05T13:47:00.000Z",
       "summary_90w": "",
       "raw": "Dismissals follow Houthi victories and pressure from southern Yemenis for more power\nThe UN-recognised government of Yemen has shaken up its political and military leadership in an attempt to regain territory lost to the Houthis in September and lift the four-week siege of Taiz, the country’s third largest city.\nA counteroffensive launched on 5 October and aimed at liberating the entire country from Houthi control has failed amid fighting that has left thousands dead on both sides. The air superiority of the government’s ally Saudi Arabia – which has had to fend off near-daily Houthi attacks on its airports and military bases – has not translated into progress on the ground.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "16b67c918e8fd4e14115b04515ce4ef3fd53a8ae",
-      "title": "Europe’s far right has a Trump problem after Republican US midterms wipeout",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/republican-wipeout-donald-trump-us-midterms-europe-far-right-message",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-05T13:36:31.000Z",
-      "summary_90w": "",
-      "raw": "European far-right leaders quick to distance themselves from US president and stress their own priorities\n\nEurope live – latest updates\n\nUS midterms live – latest updates\n\nThe historic Republican defeat in the US midterm elections has forcibly reminded Europe’s far-right leaders of their perennial Donald Trump dilemma: they may love his nativist agenda, but the man himself is a toxic electoral liability.\nSince his re-election in 2024, European populist leaders such as Marine Le Pen in France and Giorgia Meloni in Italy have carefully calibrated their public postures towards the US president, walking a delicate transatlantic tightrope.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -666,40 +952,14 @@
       ]
     },
     {
-      "id": "ee3c582c3a59655261cb9c40d4a246741f3b77f9",
-      "title": "Three ways the interest rate rise could affect you",
-      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+      "id": "3907f2874c01933e90787b4e8664d7aca8fb3912",
+      "title": "Faisal Islam: How high will interest rates go? ",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-11-05T13:08:30.000Z",
+      "published": "2026-11-05T13:17:10.000Z",
       "summary_90w": "",
-      "raw": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b06af2d45cd2abb56f1e7dbc9cbb73cc39e02cae",
-      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-05T13:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "155e203a7518751b25ebbff63a70ca47cfd13e09",
-      "title": "Bomb threats disrupt at least 15 flights across Europe, raising hybrid war fears",
-      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-05T12:44:30.000Z",
-      "summary_90w": "",
-      "raw": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel\n\nEurope live – latest updates\n\nBomb threats have caused diversions and emergency landings for at least 15 flights across Europe, renewing questions about a possibly coordinated effort to disrupt travel.\nThe series of warnings on Thursday morning affected flights between Italy, Ireland, the UK, Spain, Bulgaria, Romania, Poland, Finland, Austria, Denmark, Belgium, Portugal, Greece and Czechia.\n Continue reading...",
+      "raw": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
       "topics": [
         "World"
       ]
@@ -744,16 +1004,16 @@
       ]
     },
     {
-      "id": "956cb223c580c4f0e9ff999ea6776f9f0ff62380",
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-05T12:00:00.000Z",
+      "id": "e3ce75333f3f08ad2d7c5eb38e8fd1f6973d06d0",
+      "title": "After sweeping midterm wins, here's what Democrats hope to get done in the majority",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6029331/democrats-have-a-long-to-do-list-when-they-take-over-congress-next-year",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-05T11:45:35.000Z",
       "summary_90w": "",
-      "raw": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+      "raw": "Democrats ran on lowering costs and stamping out corruption. Now that they've won, party leaders will have to unite a sometimes fractious caucus to fulfill those pledges.",
       "topics": [
-        "Technology"
+        "World"
       ]
     },
     {
@@ -793,19 +1053,6 @@
       "raw": "Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff\nIt had been nearly a decade since Celia de Oliveira Soares last voted, and months since the 101-year-old great-grandmother last left her home.\nBut on 25 October, when Brazil held what many considered its most important presidential election in decades, relatives helped Soares into a wheelchair and drove her to a nearby school to make sure the far-right candidate, Flávio Bolsonaro, did not prevail.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "11c4cff40ea4d0cedbc63a2d1a3e0bbb2c7b5f1a",
-      "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
-      "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-05T11:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -851,39 +1098,26 @@
       "id": "a089703df4d273e5ad17dc31c24af9e06beb5645",
       "title": "As budgets tighten, people are breaking out their library cards",
       "url": "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-11-05T10:00:00.000Z",
       "summary_90w": "",
       "raw": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
       "id": "1a4f739261ff7d7649e41b832d828f064c68aaaf",
       "title": "Does the blue wave mean lower gasoline and diesel prices soon? Don't hold your breath",
       "url": "https://www.npr.org/2026/11/05/nx-s1-6029365/gas-diesel-price-congress-midterms",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-11-05T10:00:00.000Z",
       "summary_90w": "",
       "raw": "A new Democratic majority in Congress could pressure the president to end the war in Iran. But it will be harder for them to directly affect fuel prices, which are tied to a complex international oil market.",
       "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1b4f762d6ad34c373a52ac1ecc02b74e27165241",
-      "title": "The South flexes political power in midterms, sets regional influence in 2028 election",
-      "url": "https://www.npr.org/2026/11/05/nx-s1-6029818/blue-wave-south-carolina-georgia-mississippi-texas",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-05T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Tuesday's dramatic midterm results have transformed the electoral map, ensuring the path to future power for Democrats and Republicans must run through the South and its diverse voting population.",
-      "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -939,32 +1173,6 @@
       ]
     },
     {
-      "id": "11dc676eb2028f1fd2fb5dc38d4342422a08b7c5",
-      "title": "Altar Stone mystery continues as Stonehenge theory overturned",
-      "url": "https://www.bbc.co.uk/news/articles/c54g14v42ykgo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-05T06:37:54.000Z",
-      "summary_90w": "",
-      "raw": "It was thought the Stonehenge artefact was from north east Scotland but a new study disputes that.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1d509ee1bd6b4831d34a6beca8aad5f9943a653f",
-      "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
-      "url": "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-05T06:07:19.000Z",
-      "summary_90w": "",
-      "raw": "The Pulp Fiction director and Spinning Around singer caused a stir in a Welsh seaside town.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "01ea23767caf265e03e248817672a079ad49d5ca",
       "title": "‘Bring it on’: Pauline Hanson to appeal Mehreen Faruqi racial discrimination ruling in high court",
       "url": "https://www.theguardian.com/australia-news/2026/nov/05/pauline-hanson-to-appeal-mehreen-faruqi-racial-discrimination-ruling-high-court-ntwnfb",
@@ -1004,19 +1212,6 @@
       ]
     },
     {
-      "id": "5f23d19d21511f6fc762f740e2f7e0ae1b0f3789",
-      "title": "Pound rises to its highest level since the Brexit referendum",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-05T04:21:35.000Z",
-      "summary_90w": "",
-      "raw": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e8db9958c58d55ef39a4879c0658065c395fe7b2",
       "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
       "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
@@ -1040,32 +1235,6 @@
       "raw": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "1c7da4acfcdd25cb9b092b0b51afc8ab8ca2fb3a",
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-05T01:26:22.000Z",
-      "summary_90w": "",
-      "raw": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "2c368bf7ce92124498a23aa585e77ae3f2055ebd",
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-05T01:02:14.000Z",
-      "summary_90w": "",
-      "raw": "Data center opposition crossed party lines in Tuesday’s midterms.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1095,71 +1264,6 @@
       ]
     },
     {
-      "id": "f22a5b47adbf10dbdfab5f5107a7c664a9844564",
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-04T23:12:47.000Z",
-      "summary_90w": "",
-      "raw": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "33a7076609087ff9ed30894035b4972dbe851d9a",
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-04T22:45:09.000Z",
-      "summary_90w": "",
-      "raw": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "90248c1ffce43a9b9c965fdd3c5d7b7d15b47a8d",
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-04T22:13:16.000Z",
-      "summary_90w": "",
-      "raw": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "f3f4f568585b6de902951f7834c487f4b0b43816",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-04T21:56:01.000Z",
-      "summary_90w": "",
-      "raw": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "907828307bc3a56285284833eb5fa91cad793564",
-      "title": "Snapchat surpasses 30M paid subscribers",
-      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-04T21:49:29.000Z",
-      "summary_90w": "",
-      "raw": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "a3e2b24eafb54c15045476f89f9a8821864ad8b2",
       "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
       "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
@@ -1168,19 +1272,6 @@
       "published": "2026-11-04T21:41:15.000Z",
       "summary_90w": "",
       "raw": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "6050c43be029e7506e60effc32989a246e6ba0a6",
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-04T21:25:44.000Z",
-      "summary_90w": "",
-      "raw": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
       "topics": [
         "Technology"
       ]
@@ -1233,19 +1324,6 @@
       "published": "2026-11-04T18:18:37.000Z",
       "summary_90w": "",
       "raw": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit\nA British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.\n“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement on Wednesday. “The UK has well-established procedures for dealing with cases like this, and those processes have been activated … The risk to the UK public from Ebola remains low.”\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "be5639c6e2976d19c5d330ca365820318cf28ca6",
-      "title": "What Democrats can and can't do with their new power after taking Congress",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-04T18:01:27.000Z",
-      "summary_90w": "",
-      "raw": "Democrats can vote legislation through. But Trump still has veto power.",
       "topics": [
         "World"
       ]
@@ -1433,19 +1511,6 @@
       ]
     },
     {
-      "id": "13698c50167a7661cfd5f24c208fa575a1461cd8",
-      "title": "Trump claims US will end military aid to Israel by end of this year",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-03T17:17:11.000Z",
-      "summary_90w": "",
-      "raw": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment\nDonald Trump has said that the US will end military aid to Israel at the end of this year in a surprise election day announcement that appeared to be targeted at voters sceptical of US support for Israel and the war in Gaza.\nIn a phone interview with Fox News as voting began on Tuesday morning, the US president said the US would cut nearly $4bn (£2.96bn) in military aid to Israel because “they don’t need it”.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "45baadbacc99900f95a48619f6990011b486d97b",
       "title": "When caring for aging family members becomes cost prohibitive",
       "url": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
@@ -1469,19 +1534,6 @@
       "raw": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "66a6b6965c1389b8417823e70aff58f218c5cff1",
-      "title": "Trump’s troubles with Iran could open the door to China",
-      "url": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-03T13:13:50.000Z",
-      "summary_90w": "",
-      "raw": "Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the region\nChina has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the Middle East.\nThe diplomatic salvo comes before a highly anticipated meeting between Donald Trump and Xi Jinping when the US president is expected to attend the Apec conference in Shenzhen, China, on 18 and 19 November.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1576,19 +1628,6 @@
       ]
     },
     {
-      "id": "aee040e6858b439e64341d1520a1f01889384c30",
-      "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
-      "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-02T20:00:27.000Z",
-      "summary_90w": "",
-      "raw": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body\nIt could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and traces of the molecule that gives the beast’s blood its distinctive crimson hue.\nBut that is what researchers are claiming to have discovered after analysing the hind leg bones of a small, meat-eating dinosaur called an Aratasaurus that lived and died in what is now north-eastern Brazil 115m years ago.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "bcc88126953af8fa19fc73faf3e228ecd9797d04",
       "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
       "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
@@ -1638,19 +1677,6 @@
       "raw": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "325bf9aefa6f6354faffc36a1be86bc0203545c6",
-      "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-      "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-01T12:00:12.000Z",
-      "summary_90w": "",
-      "raw": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities\nDonald Trump’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the Federal Reserve cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears, about Trump ending American democracy, AI killing us all and stuff like that.\nThe sense of calm is misleading. Under the radar, the world is marching toward an economic war of potentially epic proportions, one that, history suggests, could well spill over into the real thing.\n Continue reading...",
-      "topics": [
-        "World"
       ]
     },
     {
