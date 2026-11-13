@@ -1,44 +1,889 @@
 {
-  "version": "1794558024505",
-  "generatedAt": "2026-11-13T08:20:24.505Z",
+  "version": "1794587991753",
+  "generatedAt": "2026-11-13T16:39:51.753Z",
   "items": [
     {
-      "id": "61a45c6679ae340f592499444c5386e38bd4e145",
-      "title": "Asylum centre on military base near Piddington approved",
-      "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+      "id": "8f0035b4d43259c40eac54fd24075831db112fb2",
+      "title": "Police investigating David Walliams over alleged serious sexual offences",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-11-13T08:13:44.000Z",
+      "published": "2026-11-13T16:29:30.000Z",
       "summary_90w": "",
-      "raw": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+      "raw": "The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "0b3759f8bed346b22a12b9967152180b7601e1fc",
+      "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-13T16:24:34.000Z",
+      "summary_90w": "",
+      "raw": "Kaja Kallas warns against agreeing to Russia’s proposed sequence of events on talks on Ukraine\nHungary’s Péter Magyar is also here, looking very elegant as always…\n… but it looks like he took a slight detour on the way back to hotel last night to try and pour a perfect pint of Guinness.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "7d27a1bab190a50d6dcb549f5fb678c258dd408e",
+      "title": "Does Europe regret its bet on U.S. defense?",
+      "url": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-13T16:17:43.000Z",
+      "summary_90w": "",
+      "raw": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "4be096efb99e6f368343c04e19b1f141e7fe760a",
+      "title": "Microsoft&#8217;s massive Outlook outage continues",
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-13T16:17:11.000Z",
+      "summary_90w": "",
+      "raw": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook mail might be delayed while efforts to fully fix the outage continue.\nCharles Lamanna, Copilot, agents, and platform leader at Microsoft said in a statement to The Verge that the situation is continuing to improve:\n\"We're seeing encouraging recovery progress, with service availability and email deliver …\n\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "97c81ae6fd259b02c3196e946c2e6a94ce028be3",
+      "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
+      "url": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-13T16:00:19.000Z",
+      "summary_90w": "",
+      "raw": "Signing of agreement to smooth movement of food, plants and animals next week will not recoup huge sums firms were forced to spend\nThe removal of border checks and paperwork on plant imports will “dissolve” £60m of annual costs for the horticulture industry when the UK and EU’s new post-Brexit deal comes in, the environment secretary has said.\nBefore the UK-EU summit on 20 November, Angela Eagle said she hopes paperwork headaches for importers will “disappear” after the changes, although the move will not help businesses recoup the large sums they spent to deal with border controls.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c231d25e54b9ad3f2848bb1e8db8beaf5c2cc7f1",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-13T16:00:12.000Z",
+      "summary_90w": "",
+      "raw": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "3c6b38c586115b3129eefb36f7907b2118396f97",
+      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
+      "url": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-13T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Paprika 4 for several weeks while it was in open beta, and the update recently launched across Android (the version I've been using), iOS, Windows, and macOS.\nWhere Paprika 3 was a one-time purchase per platform, accessing most of the new features in Paprika 4 requires an annual subscription fee of $14.99 (it can also be gifted). With the subscription, you can access the app on any supported platform. New users, as well as those …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b8d97a97ed48ea9c4eb874a561437eb8f16039f7",
+      "title": "The Verge’s 2026 gift guide for dads",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-13T16:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you.\nWe've curated this year's gift list with the modern father in mind, whether he's a gamer, creator, chef, or simply a gadget lover. There's a lot in here we think he'll like, from noise-canceling headphones like the Sonos Ace Ultra and an autonomous drone to a brilliant QD-OLED monitor and a nifty light that's perfect for illuminating his next campsite. Whatev …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "59c58e3f39cc6e58a783c75a9a943a4b3b30b92c",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-13T15:58:00.000Z",
+      "summary_90w": "",
+      "raw": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "705d64dc302e995d281f1b5444f3d160c6b30347",
+      "title": "Former Hamas bodyguard guilty of UK knife attack",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T15:51:24.000Z",
+      "summary_90w": "",
+      "raw": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "b10ebf43407e6161b71f01c1458139e291c6d207",
+      "title": "The best early Black Friday deals you can already shop",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-13T15:49:27.000Z",
+      "summary_90w": "",
+      "raw": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low price. But we’re still seeing worthwhile discounts on a host of tried-and-tested gear, with more expected in the coming weeks.\nBelow, we’ve rounded up the best early Black Friday deals we’ve found so far. Prices could drop further as Black Friday approaches, as is always the case, but these deals are worth considering if you’d rather shop early and beat the holiday rush. We’ll continue to update this guide as more retailers launch their holiday sales, too, so be sure to check back regularly as we get closer to the main event.\nWD_Black SN850P 2TB M.2 SSD with heatsink\nThe SN850P M.2 SSD with a heatsink is a great, competitively-priced option for PlayStation 5 and PC owners alike. It offers fast performance and a bunch of extra storage at a price we don’t commonly see these days.\n\nWhere to Buy:\n\n $599.99 $299.99 at Best Buy\n\nNothing Ear 3A earbuds\nYou likely won’t find wireless earbuds with a more striking appearance than Nothing’s Ear 3A. Additionally, these sound fantastic, and boast active noise cancellation. Read our review.\n\nWhere to Buy:\n\n $99 $69 at Amazon\n $99 $69 at Walmart\n $99 $69 at Best Buy\n\nMeta Quest 3S\nThe Quest 3S is a standalone VR headset with the same chipset as the pricier Quest 3, but with the same lenses and screen resolution as the Quest 2. There are plenty of great Meta Store VR games, and it can also be connected to a gaming PC to play demanding games like Half-Life Alyx. Read our review.\n\nWhere to Buy:\n\n $349.99 $297.99 at Amazon (128GB)\n $349 $297.99 at Best Buy (128GB, w/ $50 gift card)\n\nBose SoundLink Max SE speaker\nThis more affordable, more streamlined version of the Max has a slightly smaller battery (16 hours versus 20), and lacks external power bank functionality, but is otherwise the same as the pricier Max, and just as good at delivering excellent audio.\n\nWhere to Buy:\n\n $349 $229 at Best Buy\n\nLG B6E OLED TV\nDespite being an entry-level variant of the B6 OLED, this model features four HDMI 2.1 ports, a 120Hz refresh rate, a capable processor, and pixel-perfect image quality and contrast for any content you want to watch. Lower brightness is likely the biggest compromise with getting a cheaper OLED.\n\nWhere to Buy:\n\n $1399.99 $699.99 at Best Buy (55-inch)\n\nEmber Mug 3 (14-ounce)\nEmber’s latest smart mug is designed to keep your coffee at the ideal temperature for up to three hours, with five temp settings between 120 and 145 degrees Fahrenheit. The third-gen version is similar to prior models; however, you can now adjust the heat settings directly on the mug and throw it in the dishwasher, which wasn’t the case before.\n\nWhere to Buy:\n\n $149.95 $99.99 at Amazon\n $149.95 $99.99 at Best Buy\n $149.95 $99.99 at Ember\n\nHisense CanvasTV (2026)\nHisense’s 2026 CanvasTV is a 4K QLED TV that doubles as wall art when you’re not watching. It features a matte, anti-glare display and runs on Google’s excellent TV software; it’s also a great pick for gamers thanks to its snappy 144Hz variable refresh rate and a pair of HDMI 2.1 ports.\n\nWhere to Buy:\n\n $1499.99 $797.99 at Amazon (55-inch)\n $1499.99 $799.99 at Best Buy (55-inch)\n $1999.99 $997.99 at Amazon (65-inch)\n\nElegoo Centauri Carbon 2 Combo\nThe Elegoo Centauri Carbon 2 Combo is a beginner-friendly 3D printer that supports four filament spools. It features an enclosed build chamber, automatic bed leveling, and a large touchscreen, making it easy to produce reliable prints.\n\nWhere to Buy:\n\n $449 $369 at Elegoo\n\nMoft Trackable Tripod Wallet\nMoft’s Trackable Tripod Wallet is a MagSafe-compatible wallet that holds two cards and folds into an adjustable phone stand or small tripod. It also supports both Apple’s Find My network and Google’s Find Hub, offers Qi wireless charging, and includes a detachable shutter remote for taking photos.\n\nWhere to Buy:\n\n $59.99 $50.99 at Amazon\n\nGovee Christmas String Lights 2\nGovee’s Christmas lights offer over 130 preset lighting effects, though you can also create your own custom light displays. The IP65-rated lights feature Matter support, so they’ll work with any major smart home platform, and are sold in lengths up to 328 feet with up to 1,000 LED beads.\n\nWhere to Buy:\n\n $99.99 $74.99 at Amazon (66-foot)\n $129.99 $96.99 at Amazon (99-foot)\n $199.99 $149.99 at Amazon (164-foot)\n\nGovee Table Lamp 2\nGovee’s Table Lamp 2 is way more fun than your average table lamp. The color-changing device boasts built-in scheduling and more than 60 dynamic lighting effects, including preset scenes for various holidays. You can even create custom color combos for when “Dandelion” and other presets just aren’t cutting it.\n\nWhere to Buy:\n\n $79.99 $63.99 at Amazon\n $79.99 $63.99 at Govee\n\nBirdfy Feeder Metal 2 4K\nBirdfy’s metal smart bird feeder features a wide-angle 4K camera that lets you get an up-close look at visiting birds, along with a 1.8-liter seed capacity and a built-in solar panel for charging. It also offers free AI-powered recognition of more than 6,000 bird species.\n\nWhere to Buy:\n\n $279.99 $219.99 at Amazon\n $279.99 $199.99 at Birdfy\n\nTessan Voyager 205 Universal Travel Adapter\nTessan’s universal travel adapter delivers up to 205W of combined USB charging power and can charge up to eight devices, including a pair of laptops, at the same time. It features six USB-C ports, including two that can deliver up to 140W individually, a USB-A port, and an AC outlet. It also works in over 200 countries and regions.\n\nWhere to Buy:\n\n $128 $89 at Tessan (with code TSWTA13S)\n\nBambu Lab P2S Combo\nBambu Lab’s P2S Combo is a 3D printer that can print in multiple colors and automatically dry its materials to help improve print quality. It also features a 5-inch touchscreen, a built-in camera for monitoring prints remotely, and AI-powered tools that can detect printing problems.\n\n\nWhere to Buy:\n\n $779 at Amazon\n $749.99 $649.99 at Best Buy\n $749 $649 at Bambu Lab\n\nDreame X60 Ultra\nThe Dreame X60 Ultra is a powerful robot vacuum and mop that does a great job of cleaning carpets, thanks to its dual roller brushes and 35,000Pa of suction. It can climb over tall thresholds, squeeze under low furniture, and automatically detach its mop pads when vacuuming carpets.\n\nWhere to Buy:\n\n $1499.99 $999.99 at Amazon\n $1499.99 $1059.99 at Best Buy\n $1499.99 $999.99 at Dreame\n\nEight Sleep Pod 6\nEight Sleep’s Pod 6 automatically adjusts your bed’s temperature based on your sleep patterns, heart rate, and breathing. It features a redesigned hub that’s half the size of its predecessor and adjusts temperatures faster. The system also tracks sleep quality, detects snoring, and lets couples control the temperature on each side of the bed independently.\n\nWhere to Buy:\n\n $2899 $2699 at Eight Sleep\n\nFlextail Zero Pump 2\nFlextail’s Zero Pump 2 might weigh a mere 1.7 ounces, but it can quickly inflate and deflate a sleeping pad. It comes with six nozzles and a replaceable battery that recharges via USB-C, allowing you to inflate up to 30 pads on a single charge.\n\nWhere to Buy:\n\n $56.99 $50.15 at Flextail (with code BF12)\n\nLitter-Robot 4 Starter Bundle\nThe last-gen Litter-Robot 4 can monitor your cat’s visits, track their weight, and automatically separate waste from clean litter after each use, so you can go up to eight days without emptying your cat’s litter box. The so-called starter bundle also includes 20 pounds of litter, 25 waste drawer liners, a host of odor-control accessories, a litter-trapping mat, and a three-year warranty.\n\nWhere to Buy:\n\n $963 $838 at Whisker\n\nHeadspace subscription\nHeadspace makes it easier to build mindfulness into your everyday life, whether you’re looking to manage stress, improve focus, or get a better night’s sleep. An annual subscription gives you access to hundreds of guided meditations, breathing exercises, and other tools for beginners and experienced users alike.\n\nWhere to Buy:\n\n $69.99 $34.99 at Headspace (12 months)\n\nCasetify Moonaries illo Edition 2 phone case\nPart of Casetify’s early Black Friday sale, which offers up to 50 percent off select phone case styles, this Moonaries Illo case features playful artwork from the illustrator behind Mocha Cat. It’s available for the iPhone 17 Pro, iPhone 16 Pro, and other iPhone models.\n\nWhere to Buy:\n\n $100 $50 at Casetify\n\nSharge Icemag 3 Power Bank\nThe Icemag 3 can wirelessly deliver up to 25W of power to compatible smartphones and up to 35W wired charging via USB-C. The 10,000mAh Qi2 charger can also act as a foldable kickstand, comes with an integrated USB-C cable that serves as a lanyard, and sports a transparent design with colorful RGB lighting.\n\nWhere to Buy:\n\n $79.9 $69.9 at Amazon (black, with Prime)\n $79.9 $69.9 at Amazon (white, with Prime)\n $79.9 $67.9 at Sharge\n\nUpdate, 10:49AM ET, November 13th: Fleshed out our list of early Black Friday deals with a handful of new additions located near the top of the article. More will be added in the coming days.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "78e1bf4bf8a10a9b261836c274215efe54ecaeec",
+      "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-13T15:46:35.000Z",
+      "summary_90w": "",
+      "raw": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader. He spoke to NPR about his foreign aid vision.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "02d4156e7999b1f2ed7410195078d422ccd242be",
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T15:44:48.000Z",
+      "summary_90w": "",
+      "raw": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "dabb9c42293eb206d2f8003eb5890635ee255e1a",
+      "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-11-13T15:40:08.000Z",
+      "summary_90w": "",
+      "raw": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "dabb9c42293eb206d2f8003eb5890635ee255e1a",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T15:40:08.000Z",
+      "summary_90w": "",
+      "raw": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8ada344f9030ec17fba26c92edf6c97c447ddbb3",
+      "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T15:28:06.000Z",
+      "summary_90w": "",
+      "raw": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e2b845af25e385343c7a7e0c2a5d1b9793a2156c",
+      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+      "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-13T15:22:14.000Z",
+      "summary_90w": "",
+      "raw": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, with delivery expected in mid-December. Apple announced the collection a month ago as part of a stronger push into the smart home space that's led by its new Siri AI-powered HomeView smart display which is also now available starting today.\nOf all the Apple Home Collection devices currently listed on its online store, only a handful of LG accessories are available for preorder. These include the $299.95 LG Outdoor Cam and $199. …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a351355edf69d9b051c3aedb1575cffb15b5c5a9",
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-13T14:57:55.000Z",
+      "summary_90w": "",
+      "raw": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "388c180a1aeca5f9ee417d3c29a472ee8fc82717",
+      "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-13T14:56:42.000Z",
+      "summary_90w": "",
+      "raw": "Tech firm says it is making progress in attempts to restore services and there is no indication problem was caused by cyber-attack\n\nMicrosoft outage hits UK hospitals, GPs, schools and police\n\nMicrosoft outage – live updates\n\nTell us: have you been affected by the outage?\n\nMicrosoft is scrambling to fix an outage of some of its systems that has caused huge disruption to users, organisations and businesses across the globe.\nIn its latest update, the tech company said it was making progress in its attempts to restore services after a global outage affected millions of users from Thursday evening and into Friday.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "627c324df106de1bc68820ac5fa02b8bf79463e2",
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-13T14:47:16.000Z",
+      "summary_90w": "",
+      "raw": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness to turn a lot of blind eyes to protect a powerful ally, and about the very stability of the AI industry as a whole. It's a lot.\nOn this episode of The Vergecast, David and Nilay start by trying to unpack the many parts of the story. We're all going to learn a lot more about Megaspeed than we ever planned or wanted, and we're goin …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2ed1d1877da7e8bcb94e980e74c697900bcc18de",
+      "title": "Watch: BBC undercover reporter is offered fake art and awards for talent visa",
+      "url": "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T14:45:19.000Z",
+      "summary_90w": "",
+      "raw": "Companies are offering to help migrants pose as talented artists to make fraudulent UK visa applications, the BBC has found.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "744da6a2871c93b3ee8cae16532a4df574edee39",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-13T14:44:48.000Z",
+      "summary_90w": "",
+      "raw": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "c77dbdaf3c7fe4dc40dd108d68cee059b18dbc8c",
+      "title": "'Hardest challenge of my life' - Owain Wyn Evans completes Children in Need ride",
+      "url": "https://www.bbc.co.uk/news/articles/cr86895201y9o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T14:38:39.000Z",
+      "summary_90w": "",
+      "raw": "Owain Wyn Evans cycled almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e59f8f2c07da2d7d448d9966b3e3a7f069bd04fe",
+      "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
+      "url": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T14:34:21.000Z",
+      "summary_90w": "",
+      "raw": "Reform's Zia Yusuf and Tory Chris Philp were speaking against converting a former military site into asylum accommodation.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "6b02a4a21b1840385bc538e61bc63f75c95d9317",
+      "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
+      "url": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-13T14:30:00.000Z",
+      "summary_90w": "",
+      "raw": "Three years ago, Meta apparently considered a plan to turn public opinion against one of its most influential opponents, Jonathan Haidt. But since the proposal was revealed in court filings last month, it's backfired. In fact, if there's one thing Anxious Generation author Haidt and his critics can agree on, it's being mad at Meta.\nRecent court filings in California revealed that Meta employees had discussed in 2023 a \"Whisper strategy\" to \"turn academics against Haidt,\" who would soon publish a bestselling book arguing that platforms like Meta's were hurting kids. Haidt had spent years popularizing his theory that social media and smartpho …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "80ea855e4de70678052cf269f33c82c75b844135",
+      "title": "Banned books from Ireland’s room of ‘evil literature’ finally see the light of day",
+      "url": "https://www.theguardian.com/world/2026/nov/13/ireland-banned-books-room-censorship",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-13T14:25:24.000Z",
+      "summary_90w": "",
+      "raw": "Censored books spanning 1926-96 contained themes ‘likely to corrupt or deprave’, or references to contraception or violence\nFor almost a century, an Irish government building in the heart of Dublin has hosted a secret sanctum: the banned books room.\nThe department of justice, on St Stephen’s Green, did not grant public access, because the shelves contained 12,000 books deemed indecent or obscene.\n Continue reading...",
       "topics": [
         "World"
       ]
     },
     {
       "id": "e1efe6f1af4bbd764b20b0baf9f02e20ee310e69",
-      "title": "What we know about the global Microsoft outage",
+      "title": "Why is the Microsoft outage lasting so long?",
       "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-11-13T08:01:25.000Z",
+      "published": "2026-11-13T14:21:26.000Z",
       "summary_90w": "",
-      "raw": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "raw": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c22c9f451b1ae85df00c375dc7947b9d8e553a93",
+      "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+      "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-13T14:14:44.000Z",
+      "summary_90w": "",
+      "raw": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security\n\nEurope live – latest updates\n\nThe EU’s foreign policy chief has warned against “walking into the traps that Russia is setting” as she said Moscow was trying to start a debate about European security in order to divert attention from its aggression.\n“We have one aggressor and one victim, and the aggressor does not have security concerns,” Kaja Kallas said on arrival at an EU leaders’ summit in Dublin. “Nobody has ever attacked them. They have attacked others. I mean, keep the focus, people.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "cd9d1a105b69dd290c13f542ef43e519ad02c1fe",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-13T14:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Let’s get to work. | Photo: Allison Johnson / The Verge\t\n\nNormally, the products I test don't offer to help me write up my experience with them. Duet is different.\nClaude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us an impressive text-based assistant, Meta offered us its cute little guy, Muse, to help us buy things, and OpenAI gave us the more work-oriented Dots. Claude Duet is even more focused on work than those. It's also more consumer-friendly than Claude Cowork, which was more consumer-friendly than Claude Code - the co …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "bdd0e4592905336137e6a03b34f58604d840c751",
+      "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+      "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-13T13:52:11.000Z",
+      "summary_90w": "",
+      "raw": "First direct attack on US military installations for months was in response to US airstrike on communications tower\nIran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Sirik overlooking the strait of Hormuz. It is Iran’s first direct attack on US military installations for months.\n“This is a serious warning to the aggressor enemy to end its aerial mischief and oil smuggling in the strait of Hormuz,” the IRGC said. “In the event of repeated violations and aggression, the IRGC aerospace force is on full alert to confront the enemy without constraint.”\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f30d860720b4a25f5e18290045201d7b09a3fcf9",
+      "title": "NHS, schools and police forces hit by Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T13:41:25.000Z",
+      "summary_90w": "",
+      "raw": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "e7c1062d1c2bfadf8adf6dede4f7c8f56978f017",
+      "title": "Remembering singer and actor Peggy King",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6038917/remembering-singer-and-actor-peggy-king",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-13T13:35:22.000Z",
+      "summary_90w": "",
+      "raw": "King, who died Oct. 25, got her start singing in big bands in the 1950s. She had a string of hits, a contract with MGM and was a popular fixture on TV variety shows. Originally broadcast in 1983.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "28d13b454da8cbc30bc738c5f69c3f318c231ea8",
+      "title": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-13T13:32:23.000Z",
+      "summary_90w": "",
+      "raw": "Mauricio Pochettino is out as head coach of the U.S. men's national soccer team. Pochettino led the U.S. to the round of 16 at last year's World Cup. He's departing to coach Manchester United.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "ab323bb591ac51e4dc79ec42e386e26c1258987e",
+      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-13T13:15:20.000Z",
+      "summary_90w": "",
+      "raw": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "16223011e76436ec472eed563fdaf5fdd7545ca7",
+      "title": "Russia hit by second car bomb in as many days as peace talks continue",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T13:11:23.000Z",
+      "summary_90w": "",
+      "raw": "A former adviser to Ukraine's pro-Putin ex-prime minister Mykola Azarov was seriously hurt, Russia says.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "31f629be9e1cc7141d896961c12357d6370cd8d0",
+      "title": "Apple should have made the MacBook logo RGB",
+      "url": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-13T13:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Get that apple back to its rainbow roots, but for a new generation. | Image: The Verge\t\n\nWhen Apple CEO John Ternus announced the first touchscreen Mac last month, the biggest reaction in the room wasn't for the PROLED MacBook Pro's OLED touchscreen or the thinner and lighter chassis; it was for the illuminated lid logo. It's a throwback to the light-up logos on the old MacBooks, which Apple started phasing out in 2015, and which were completely gone by the 2018 MacBook Air redesign. It's a nostalgia play, but boy did it work. It's fun!\nJust like in the old days, the new logo's brightness is linked to the screen's: The brighter or dimmer the screen, the brighter or dimmer the logo. But the light-up logo on the old MacBooks was  …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f240bb31094b1ee35ea9d5d4dc508339ace3c279",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-13T12:52:19.000Z",
+      "summary_90w": "",
+      "raw": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7ed19effff532e6f494f613a54a6372f56e8f6a8",
+      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+      "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T12:28:28.000Z",
+      "summary_90w": "",
+      "raw": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "025949940b1ff6f30fad570684901a7db4a44908",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "published": "2026-11-13T12:28:23.000Z",
+      "summary_90w": "",
+      "raw": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "b11f78109a56b0bd45d0c21e73a847235f228b83",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T12:22:30.000Z",
+      "summary_90w": "",
+      "raw": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "9978203e36e2f83635db5e134eaf4e9950090f3f",
+      "title": "More women make allegations against Russell Brand",
+      "url": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T12:14:17.000Z",
+      "summary_90w": "",
+      "raw": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "61212767e0948e3881547423a0c80874ccf70a0e",
+      "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-13T12:07:12.000Z",
+      "summary_90w": "",
+      "raw": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "97507d872f87a6193ac2649eb6c71b0ef59a39f2",
+      "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-13T12:06:28.000Z",
+      "summary_90w": "",
+      "raw": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "71dad9da95c2fbfe808ecd8e3f2bb76d187e947e",
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "source_id": "verge-tech",
+      "source_name": "The Verge",
+      "published": "2026-11-13T12:00:00.000Z",
+      "summary_90w": "",
+      "raw": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If things don't decelerate soon, we may be looking at existential risk. Maybe the future of AI really does depend on Jensen's sex life, but not in the way I was thinking!\nAs much fun (?) as we are having with all the assorted ladies, it's important to stay focused on what's really important: Chips and China. President Donald Trump was repor …\nRead the full story at The Verge.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "5c38415ce1076192b258b2d8c05cf482864f0a86",
+      "title": "Colette Kress becomes Nvidia's interim CEO after Jensen Huang resigns",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2026-11-13T11:47:38.000Z",
+      "summary_90w": "",
+      "raw": "Nvidia's CEO Jensen Huang is out, and the company's chief financial officer Colette Kress is taking over as interim CEO. She'll have to guide the company through an exceptionally challenging time.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "4089e8cfbf9a5274dccb14796075cfb6b5bfd5d0",
+      "title": "Nvidia's CEO resigns after alleged spy scandal. What's next for the company?",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidias-ceo-resigns-after-alleged-spy-scandal-whats-next-for-the-company",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2026-11-13T11:47:00.000Z",
+      "summary_90w": "",
+      "raw": "NPR's Michel Martin speaks with NYU professor emeritus and AI writer Gary Marcus about the fallout of the Nvidia scandal.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a18aa197b559419b8705ba1d1cd838bc16b05ac8",
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T11:43:27.000Z",
+      "summary_90w": "",
+      "raw": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "a18aa197b559419b8705ba1d1cd838bc16b05ac8",
+      "title": "What we know so far about the Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-11-13T11:43:27.000Z",
+      "summary_90w": "",
+      "raw": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "766dd7e674efa83a0c1beabdf3793a0de07b75a6",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T11:38:54.000Z",
+      "summary_90w": "",
+      "raw": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "943b53a2aad0598825ab3bfbb9417a300ea314df",
+      "title": "Nigerian university in mourning after four students die at post-exam party",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-13T11:37:08.000Z",
+      "summary_90w": "",
+      "raw": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "20fe8e3b7cd05c71af68a930e1f417800e43c231",
+      "title": "What’s behind Australia’s surge in teen extremism?",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-13T11:33:57.000Z",
+      "summary_90w": "",
+      "raw": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says\n\nGet our breaking news email, free app or daily news podcast\n\nIn March, Guardian Australia revealed that most people who have been charged with the new federal crime of possession of violent extremist material are under 18.\nThis week Australian federal police sounded the alarm about a surge in teen extremism: 32 of the 37 young people prosecuted in counter-terrorism cases since 2020 were charged in the past two years.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "95aa27001df825b73a5d3bc0a8098924203585af",
+      "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+      "url": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-13T11:24:30.000Z",
+      "summary_90w": "",
+      "raw": "Volodymyr Zelenskyy says speed restrictions on Starshield system made it harder for Ukraine to shoot down drones\n\nEurope live – latest updates\n\nRussia has attacked a hospital in the centre of Kyiv, close to several western embassies, after Volodymyr Zelenskyy said speed restrictions on SpaceX’s Starshield system had made it harder for Ukraine to shoot down enemy drones.\nThree people were injured when a drone smashed into the National Institute of Traumatology and Orthopedics at 3am, hitting the second floor of the hospital and an adjoining 19th-century building.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "f117f08c4f0e76399baecd2503ac49edf97e16ee",
+      "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-13T11:00:00.000Z",
+      "summary_90w": "",
+      "raw": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That's started to change. A crackdown for some highly potent products related to kratom is coming.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "5e06d7a8695a85691bb66a14114011e662104e98",
+      "title": "Former NSW Liberal MP Rory Amon found guilty of raping 13-year-old boy",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/13/former-nsw-liberal-mp-rory-amon-found-guilty-of-raping-13-year-old-boy",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-13T10:45:48.000Z",
+      "summary_90w": "",
+      "raw": "The 37-year-old was convicted in the state’s supreme court months after a different jury failed to reach a verdict on the same charges\n\nGet our breaking news email, free app or daily news podcast\n\nA former NSW Liberal politician is facing the possibility of a significant jail term after a jury found him guilty of raping a 13-year-old boy.\nThe former MP Rory Amon was found guilty by a jury, after about four hours of deliberation on Friday, of one count of sexual intercourse with a person aged between 10 and 14 and indecently assaulting a child.\nSupport for anyone affected by the subject matter of this report is available at Full Stop Australia (1800 385 578).\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "1d9c2415c795f5fd1493439cbfd9b6c3144e6b75",
+      "title": "Water firm pleads guilty after four killed in blast",
+      "url": "https://www.bbc.co.uk/news/articles/cm8x0l0jp150o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T10:44:00.000Z",
+      "summary_90w": "",
+      "raw": "Wessex Water admits failing to ensure employee safety over an explosion at its Bristol site.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "59143f34f02f861956f59f6df55a8a3560191da0",
+      "title": "Hegseth awards medal to soldier who chastised him",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-13T10:27:08.000Z",
+      "summary_90w": "",
+      "raw": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has\ngiven him a medal.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "294de21ebaf5bbcbd0efe5fb118c38f7a698b872",
+      "title": "'I feel it's a sign of what's to come': Office workers on Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/videos/cmge3y5rxg5jo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T10:16:29.000Z",
+      "summary_90w": "",
+      "raw": "Insurance brokers tell Nicky Campbell how their jobs are completely disrupted by the Microsoft outage.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "703395d9badb877826284ae134ce0707fdaad128",
+      "title": "Man charged over multiple sex assaults at university",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1jp7p5yko?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T10:14:02.000Z",
+      "summary_90w": "",
+      "raw": "Sophan Akbash, 29, from Huddersfield, is due to appear before Leeds Magistrates Court later.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "cba0a771f29d77a2b74f0c2532b376621b036cbb",
+      "title": "Boy died from multiple injuries in Cyprus hotel fall",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x30q9z9wo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-top",
+      "source_name": "BBC News",
+      "published": "2026-11-13T10:05:50.000Z",
+      "summary_90w": "",
+      "raw": "An Essex coroner describes Jaxon Foster's death as \"particularly tragic\" as he opens an inquest.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "8cb9d55d5b81bcc697191364c8275ad95ec08b8e",
+      "title": "Rivers in the sky are raining down on the Pacific Northwest. What are they?",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-13T10:01:00.000Z",
+      "summary_90w": "",
+      "raw": "Atmospheric rivers are large bands of water vapor in the sky. They are dumping trillions of gallons of water on Washington and Oregon, just as high tides and winds batter shorelines.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "101ef19f377d0b09981c49b2c79d833f82fb8856",
+      "title": "SpaceX's giant rocket may leave NASA in the dust",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
+      "source_id": "npr-top",
+      "source_name": "NPR Topics: News",
+      "published": "2026-11-13T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "As it races to develop its new massive rocket, the space launch company is preparing to retire NASA's main ride to the International Space Station.",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "95935896633c7184e7a5efbde65a266142277649",
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2026-11-13T10:00:00.000Z",
+      "summary_90w": "",
+      "raw": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "5414e821b36ed8a192e4677f246310dd88cbbda3",
+      "title": "Microsoft investigating widespread outage that took email and other apps offline",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6039350/microsoft-investigating-widespread-outage-that-took-email-and-other-apps-offline",
+      "source_id": "npr-tech",
+      "source_name": "NPR Topics: Technology",
+      "published": "2026-11-13T09:43:44.000Z",
+      "summary_90w": "",
+      "raw": "NPR's A Martinez speaks with Andrew Couts of WIRED about a widespread outage of Microsoft products that has disrupted the life and work of thousands of people.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "de06bec5ec8071c844f837b38a963960d05a26fe",
+      "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-13T09:41:22.000Z",
+      "summary_90w": "",
+      "raw": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist\n\nUS politics – live updates \n\nThe US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spying scandal as other Trump administration officials publicly raise questions over his decisions.\nJensen Huang resigned from Nvidia on Thursday, and was replaced on an interim basis by the company’s chief financial officer, Colette Kress, after reports emerged of his multiple affairs, most importantly with Alice Huang (no relation), who is suspected of being a Chinese spy.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "c5f13dab1a6aec34b5c632c5a52c092ca0f0a331",
+      "title": "Heat pumps: How much heat does your home really need?",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-11-13T09:29:25.000Z",
+      "summary_90w": "",
+      "raw": "Knowing how much heat your home loses is important before installing a new heating system.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "f7724812b97d9d208f7f358da0768019f1a01a7d",
+      "title": "Storm Charles causes floods and flight cancellations across southern Europe",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
+      "source_id": "guardian-world",
+      "source_name": "World news | The Guardian",
+      "published": "2026-11-13T08:49:19.000Z",
+      "summary_90w": "",
+      "raw": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week \nStorm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Madeira, before the system headed towards the mainland on 11 November. A wind gust of 84.5mph (136 km/h) was recorded at Funchal airport, alongside rainfall totals reaching 355mm (13.97in) in 12 hours. In Lisbon, 183 flights were cancelled on Wednesday, about a third of its normal daily traffic, while Madrid Barajas airport had 155 cancellations.\nAfter causing widespread flooding in Spain and Portugal, the system moved on a north-easterly track through southern France and then towards northern Italy. This resulted in significant flooding in parts of Cannes, some of which caused rock falls and led to the closure of roads along the French Riviera. The Italian weather service issued a red rainfall warning, its highest level, for the area extending from Tuscany to Venezia. Further heavy rain is expected to fall in Italy and the Balkans over the next few days, with the latest forecast models indicating an additional 100mm could accumulate widely, while totals close to 200mm are likely in more mountainous areas.\n Continue reading...",
+      "topics": [
+        "World"
+      ]
+    },
+    {
+      "id": "487771498d600cf0e680fd42309f45836e49b8c2",
+      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+      "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-13T08:20:28.000Z",
+      "summary_90w": "",
+      "raw": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
       "topics": [
         "World"
       ]
     },
     {
       "id": "bdf9d3831b97c8b5183d6fd4e1414955515287ce",
-      "title": "What happened overnight with the Microsoft global outage",
+      "title": "What happened overnight with the Microsoft global outage?",
       "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2026-11-13T07:18:17.000Z",
       "summary_90w": "",
       "raw": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -58,7 +903,7 @@
       "id": "0abcd0e4029c0b5216ae679dfdfb74ad9aacb777",
       "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
       "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-11-13T07:01:43.000Z",
       "summary_90w": "",
@@ -68,27 +913,14 @@
       ]
     },
     {
-      "id": "d678813eddb262b964d19c91e7a24e9d78b8928f",
-      "title": "Liverpool and Van Dijk have a decision to make",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss",
+      "id": "3790c1d2571d8b078161d89ee05d7df014ea4f9f",
+      "title": "My physical deformity left me feeling invisible - but one surgeon saw me",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmyy4ee1pwo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
-      "published": "2026-11-13T06:57:25.000Z",
+      "published": "2026-11-13T06:22:12.000Z",
       "summary_90w": "",
-      "raw": "Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "de06bec5ec8071c844f837b38a963960d05a26fe",
-      "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-13T06:34:59.000Z",
-      "summary_90w": "",
-      "raw": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk\n\n Nvidia scandal – latest updates\n\nAnalysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?\n\nNvidia’s ousted CEO Jensen Huang and Donald Trump’s commerce secretary are expected to testify before Congress in the coming weeks, as the fallout from Huang’s reported affair with an alleged Chinese spy reverberated across the US, sparking bipartisan concerns for national security and calls for a tougher stance against Beijing.\nSenate Democratic leader Chuck Schumer said Huang and Nvidia must answer as to whether America’s security had been jeopardised, adding that the Trump administration also must account for what it did once it learned about Huang’s reported relationship with Alice Huang, who is accused of spying for China.\n Continue reading...",
+      "raw": "Charlie Clarke says the physical and emotional effects of pectus excavatum have been \"unimaginable\".",
       "topics": [
         "World"
       ]
@@ -108,39 +940,13 @@
     },
     {
       "id": "5ebb2733bab967740f925f866f3597c3c008a8c5",
-      "title": "Whatever happened to the diamond that went missing in F1 crash?",
+      "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-11-13T06:12:20.000Z",
       "summary_90w": "",
       "raw": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "334d4853ca166972a79a9ffe419dc8495e809960",
-      "title": "Migrants offered help to fake artworks to gain UK 'talent' visas - BBC investigation finds",
-      "url": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-13T06:00:44.000Z",
-      "summary_90w": "",
-      "raw": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "8420cc9107cad9885e919dcfbb788a8937f0f094",
-      "title": "Children’s exposure to home wood-burning could be as significant as traffic exhaust, study suggests",
-      "url": "https://www.theguardian.com/environment/2026/nov/13/wood-burning-stoves-pollution-traffic-exhaust-children",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-13T06:00:12.000Z",
-      "summary_90w": "",
-      "raw": "Research finds highest levels of cancer-related PAH pollutants in cities that have widespread wood heating\nChildren’s exposure to home wood-burning could be as significant as exposure to traffic exhaust, suggests new research across six European towns and cities.\nScientists measured the air in buildings where children spend much of their time; in schools, sports centres and homes. Specifically, they looked at polycyclic aromatic hydrocarbons (PAH), a family of pollutants that are given off when fuels are burned.\n Continue reading...",
       "topics": [
         "World"
       ]
@@ -159,92 +965,14 @@
       ]
     },
     {
-      "id": "29239493e10c76cd0c2f76ad992bdc48adf250cd",
-      "title": "‘If I wanted to plan a murder’: Beau Lamarre-Condon tells court what he would have done",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-13T05:33:48.000Z",
-      "summary_90w": "",
-      "raw": "Former police officer tells court ‘it was never a plan to murder anybody’ as prosecution repeatedly suggests to him he planned to kill Jesse Baird \n\nGet our breaking news email, free app or daily news podcast\n\nBeau Lamarre-Condon has told a Sydney court he never planned to murder anybody and if he did, he reiterated he would use stolen vehicles and a gun not linked to him.\nBut the prosecutor responded: “No one’s saying it was a good plan, that’s why you’re sitting here.”\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "32abfda572c1f8c3b122d14b7511834b20e2dc4d",
-      "title": "More than 60% of Germany’s female soldiers report harassment or abuse",
-      "url": "https://www.theguardian.com/world/2026/nov/13/more-than-60-of-germanys-female-soldiers-report-harassment-or-abuse",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-13T05:00:09.000Z",
-      "summary_90w": "",
-      "raw": "Defence minister says extent of sexual misconduct found by study is ‘unacceptable’, as military tries to attract more recruits \nGermany’s defence minister has promised a “zero tolerance” approach to sexual abuse in the armed forces after a study found soldiers, particularly women, faced extensive harassment within the ranks.\nThe first comprehensive study of its kind into the Bundeswehr, conducted by the Centre for Military History and Social Sciences in Potsdam and released this week, comes as the military is trying to attract new recruits in response to global threats.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "31f6bfd7bdcb2002a7e3fbf661a10dcdfaeeccb3",
-      "title": "Minister’s office said contractor should handle CFMEU or lose work in Victoria, Big Build inquiry hears",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/13/big-build-royal-commission-vida-construction-workers-fearful-cfmeu-ntwnfb",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-13T04:51:17.000Z",
-      "summary_90w": "",
-      "raw": "Royal commission also hears from construction company employee who says workers were ‘fearful’ of union\n\nGet our breaking news email, free app or daily news podcast\n\nA major contractor on a troubled Victorian rail project shut down by union officials was warned that the minister’s office felt it would not “have any more work” in the state if it did not resolve the industrial dispute, a royal commission has heard.\nThe royal commission into the integrity of major public and civil infrastructure construction projects in Victoria heard from a Victorian Infrastructure Delivery Authority (Vida) official for the first time on Friday.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7a3c0cfff71572bd0b27c10be76eeb5562b34ff2",
-      "title": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-13T04:40:14.000Z",
-      "summary_90w": "",
-      "raw": "Government services and schools impacted by Outlook and Teams issue as company says fix not ‘taking as expected’\n\nMicrosoft outage – live updates\n\nMicrosoft struggles to fix huge outage affecting Outlook and Teams\n\nAustralian schools, courts and government services have been hurled back in time to how business used to be done after a global Microsoft outage caused emails and online meetings to go dark.\nAustralians began reporting issues with Microsoft 365 – which includes Outlook and Teams – just before 5am AEST on Friday, according to Down Detector. The problem appeared to peak at 9.22am with more than 5,500 reports of problems, including trouble opening and sending emails, before reports began to dip.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "1a0ea11b10d86b59a576393b807738ac4fc7c0de",
-      "title": "The Papers: 'Nvidia chief quits' and 'Six women say they too were preyed on by Brand'",
-      "url": "https://www.bbc.co.uk/news/articles/cm702zql1l0lo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-13T04:36:28.000Z",
-      "summary_90w": "",
-      "raw": "The resignation of Jensen Huang following reports he had an affair with a suspected spy leads a number Friday's papers.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ea7faee116327d54f8f00365820dfba2e0a4601b",
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
       "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-11-13T03:57:01.000Z",
       "summary_90w": "",
       "raw": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6c48175ae0bc8c53f58cfb58bb76954b735246be",
-      "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-13T03:52:25.000Z",
-      "summary_90w": "",
-      "raw": "Van Hollen, a progressive from Maryland, said voters sent a clear message in the midterm elections — that they want \"change from the status quo.\"",
       "topics": [
         "World"
       ]
@@ -302,23 +1030,10 @@
       ]
     },
     {
-      "id": "0dca1b56a1f4c5c6c6edb2ac9ccf771211bd3864",
-      "title": "US doctor kills building manager after long-running dispute over mould, police say",
-      "url": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-13T02:35:34.000Z",
-      "summary_90w": "",
-      "raw": "Authorities say the shooting in Washington DC left four people injured, with the suspect dying of a self-inflicted gunshot wound.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "afc6113367917cdf11468924a351ca826756da88",
       "title": "Will the Eurovision Song Contest succeed in Asia?",
       "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-11-13T02:24:11.000Z",
       "summary_90w": "",
@@ -331,7 +1046,7 @@
       "id": "af7b2cf6eba9b4c23983d481fd813979fdecf17d",
       "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
       "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
       "published": "2026-11-13T02:01:35.000Z",
       "summary_90w": "",
@@ -341,66 +1056,27 @@
       ]
     },
     {
-      "id": "21e5fdddc37a7e94f8623d464cec0e56cd2b929d",
-      "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "id": "6a8f5fb2a4c07a81ea82ed47f407fa19d086dde0",
+      "title": "A negative Outlook: Microsoft scrambles to fix email outage",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/outlook-down-widespread-outage-microsoft-email",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-11-13T01:26:24.000Z",
       "summary_90w": "",
-      "raw": "A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts.",
+      "raw": "Early Friday, after Outlook had been down for more than 12 hours, Microsoft reported \"marginal success.\"",
       "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "fa758c4e46ad02663d5aed9d806f49d48cd13ea8",
-      "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-13T01:17:58.000Z",
-      "summary_90w": "",
-      "raw": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
-      "topics": [
-        "World"
+        "Business"
       ]
     },
     {
       "id": "be1b4353533996ab6393a18215d021f3c1973516",
-      "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+      "title": "Doctor burnout putting maternity patients at risk, says regulator",
       "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-11-13T00:55:31.000Z",
       "summary_90w": "",
       "raw": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a9d7394cfcaddff22aa02fe7e4bc0cb64ac139fa",
-      "title": "MI5 will need proof to be believed in future, says Leveson after BBC investigation",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7dlj6v2go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-13T00:54:50.000Z",
-      "summary_90w": "",
-      "raw": "The BBC exposed how the security service had lied to three courts concerning Agent X.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "406e50570f5f8a99474efce24c06a7c55b7993fc",
-      "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
-      "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-13T00:54:04.000Z",
-      "summary_90w": "",
-      "raw": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
       "topics": [
         "World"
       ]
@@ -419,16 +1095,16 @@
       ]
     },
     {
-      "id": "9abbe395b09ce067f9c7c8fe38a3e3165745d314",
-      "title": "Donald Trump really wants Tim Cook to run Nvidia",
-      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-13T00:46:07.000Z",
+      "id": "5a2a146e81eeb09a56a4ff620b7d3c0c2454b8a9",
+      "title": "Why midterm vote-counting is taking so long in America's largest state",
+      "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
+      "source_name": "BBC News",
+      "published": "2026-11-13T00:35:05.000Z",
       "summary_90w": "",
-      "raw": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim Cook, who stepped down from leading the company on September 1st and moved into an executive chairman role.\nShortly after Huang's resignation was announced today, Trump posted his idea about Cook on Truth Social: \"NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take …\nRead the full story at The Verge.",
+      "raw": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
       "topics": [
-        "Technology"
+        "World"
       ]
     },
     {
@@ -445,14 +1121,14 @@
       ]
     },
     {
-      "id": "cd6e206ce3452404773a1e450486061586a51c0b",
-      "title": "Brand will face 'hell on earth' in Wandsworth prison, says former inmate",
-      "url": "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "id": "0b8313c2139d12a71b79bc1c02d202edf213029a",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2026-11-13T00:15:27.000Z",
+      "published": "2026-11-13T00:20:24.000Z",
       "summary_90w": "",
-      "raw": "The disgraced entertainer was sentenced to 10 years and six months for rape and sexual assault.",
+      "raw": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
       "topics": [
         "World"
       ]
@@ -474,6 +1150,19 @@
       "id": "9f4b56b09619a770bdbeb0ec126743e1a02e1b0b",
       "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
       "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "source_id": "bbc-tech",
+      "source_name": "BBC News",
+      "published": "2026-11-13T00:13:35.000Z",
+      "summary_90w": "",
+      "raw": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "topics": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "9f4b56b09619a770bdbeb0ec126743e1a02e1b0b",
+      "title": "The rise of 'housefishing': How AI-enhanced property listings are taking off",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-11-13T00:13:35.000Z",
@@ -481,45 +1170,6 @@
       "raw": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "dca781018f4f981503fa9217504c7d294a8d9a4e",
-      "title": "Xbox announces Wolfenstein 3",
-      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-13T00:11:44.000Z",
-      "summary_90w": "",
-      "raw": "A screenshot from Wolfenstein II: The New Colossus.\t\n\nIt's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel.\nIn a post, Xbox CEO Asha Sharma announced the name and a photo of a script. \"Looking forward to sharing more,\" she said. MachineGames also announced the game in a post, saying the game is \"in production\" and sharing a photo from a motion-capture session. IGN reports that Brian Bloom (who plays protagonist William  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "843242122378d506cb943da8d220a1f3874a51b9",
-      "title": "Police officers sacked for 'despicable' on-duty filming of vulnerable people",
-      "url": "https://www.bbc.co.uk/news/articles/c52e8kdp2kjzo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-13T00:05:14.000Z",
-      "summary_90w": "",
-      "raw": "The behaviour of the two male officers is branded \"utterly despicable\" by the police ombudsman.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "e7ee854152044798c9e52aa1d66acff4ba7acce6",
-      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-12T23:43:22.000Z",
-      "summary_90w": "",
-      "raw": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts.\nWhoop claims its platform is \"entirely human,\" unlike other social media platforms that are \"saturated with artificial intelligence, automated accounts and bots, and manufactured content.\"\nWhoop CEO Will Ahmed says Humans is \"the most verifiably human network ever launched. Every account represents a real person with a verified …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -531,84 +1181,6 @@
       "published": "2026-11-12T23:42:52.000Z",
       "summary_90w": "",
       "raw": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "963b7e75e1f84fb58c1d5af66726fe0cf6917d0f",
-      "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-      "url": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-12T23:36:19.000Z",
-      "summary_90w": "",
-      "raw": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6aa468f69c7b038fa805f5ec56b2b4e4ce2d8243",
-      "title": "Humble Bundle redesign removes two-factor verification from settings",
-      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-12T23:30:52.000Z",
-      "summary_90w": "",
-      "raw": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer for the publication said that they had set up two-factor verification on the old version of the site.\nHowever, it does appear that, at least as of now, there is some form of two-factor verification. When I tried logging into my Humble Bundle account while writing this article, I was prompted to check my email for …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "b96b7d9fc07a01bfa93e781db920a37ff3d7f78c",
-      "title": "Microsoft Outlook is still down",
-      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-12T23:24:13.000Z",
-      "summary_90w": "",
-      "raw": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors.\"\nThere were also some reports of problems with Teams, but not to the same extent, while Microsoft's official updates said customers may experience issues across its suite of 365 business services. Microsoft comms director Ben Hope said in  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "cc63e755ea2d073c1ca6bd3282cb45affa9cd066",
-      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-      "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-12T23:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side.\n\"Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically,\" says Eden Marie, principal software engineering lead at Xbox. \"You can also choose Shuffle at the start of any background category. Have your background change each time you sign in, or set it to change hourly, daily, or weekly.\"\nMicrosoft is also improving how you organize disc-to-digital  …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "77c871299b2b22a8640d2fcf30a4c9c0bd34eac4",
-      "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-      "url": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-12T22:52:49.000Z",
-      "summary_90w": "",
-      "raw": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6bfbffd60088c171c10647085d6b5787a450b6e5",
-      "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-12T22:45:40.000Z",
-      "summary_90w": "",
-      "raw": "Jensen Huang, CEO of Nvidia, the leading AI chipmaker, resigned after admitting an extramarital affair with a woman the U.S. says is a Chinese spy. This espionage tactic is known as a honey trap.",
       "topics": [
         "World"
       ]
@@ -627,19 +1199,6 @@
       ]
     },
     {
-      "id": "4222657b9900979052b8291bf35023fa5874b757",
-      "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-      "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-12T22:26:37.000Z",
-      "summary_90w": "",
-      "raw": "Russian president says he would target any foreign troops sent to Ukraine and refuses to soften territorial demands\nVladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine, in a series of hardline remarks that came as the Ukrainian military faced renewed disruptions to Elon Musk’s Starlink satellite service.\nDuring the talks at the Kremlin with the US envoys Jared Kushner and Steve Witkoff on Thursday, the Russian president refused to soften his territorial demands, insisting on full control over four Ukrainian regions that Moscow claims to have annexed.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "1a628d755dc37d52cf4e65d9812fd51f0bc17b8e",
       "title": "Muse can now place calls to US businesses — if you pay",
       "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
@@ -650,19 +1209,6 @@
       "raw": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "1b02f96ace1df333dc746dd110399759ed52f775",
-      "title": "Where does Kane rank among all-time England greats?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-12T22:09:59.000Z",
-      "summary_90w": "",
-      "raw": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -692,19 +1238,6 @@
       ]
     },
     {
-      "id": "ce619eba8b16aa70368067278505b699fc3ba83f",
-      "title": "‘Win-win’ deal with EU could be done, Andy Burnham says",
-      "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-12T22:01:39.000Z",
-      "summary_90w": "",
-      "raw": "Prime minister says reset could be a deal ‘like the Brexit people thought they were voting for in 2016’ \nAndy Burnham has said he believes a “win-win” deal could be done with the EU that could be “more like the Brexit that people thought they were voting for in 2016”.\nThe prime minister was meeting fellow leaders at the European Political Community summit in Dublin, ahead of a keenly anticipated EU-UK summit next week, where he hopes to bring Britain closer to Europe.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "0fa281e47ede82d97f53ad9bf939fe26d74ee567",
       "title": "China rules out hosting Cop33 climate summit in 2028",
       "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
@@ -718,71 +1251,6 @@
       ]
     },
     {
-      "id": "3403360ccc1df753cef2b348364e95c4489ba5c7",
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-12T21:55:32.000Z",
-      "summary_90w": "",
-      "raw": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, says it's \"now the new default model in AI Mode & being used for your hardest questions in AI Overviews.\"\nGoogle says Gemini 4 Hydrog …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "c03d0c3333a00d9dc9690e4809bda23e7d270cfb",
-      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
-      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-12T21:45:00.000Z",
-      "summary_90w": "",
-      "raw": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were \"close\" before other dominoes started to fall, leading to a swift fall from grace for one of the biggest names in technology. (Hours after Huang's resignation was announced, Reuters reported that he also had an \"intimate relationship\" with another Nvidia employee.)\nProminent voices in technology have come out in support of Huang, w …\nRead the full story at The Verge.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "5e5f306d785f115749339982ef601db8700953a5",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-12T21:35:00.000Z",
-      "summary_90w": "",
-      "raw": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "9238e6bd416ec8591b7051fadca9fcf516edf074",
-      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
-      "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-12T21:28:53.000Z",
-      "summary_90w": "",
-      "raw": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest price between sizes 8 and 13. Best Buy also has an exclusive deep blue “midnight” color in stock for $279. If you’re not sure about your size, you can pick up an Oura Ring 4 sizing kit for $10 at Amazon or Target, which includes $10 in store credit towards an Oura Ring 4 purchase.\nOura Ring 4\nThe last-gen Oura Ring 4 is a little thicker, but offers much of the same software, sensors, and a wider range of sizes.\n\nWhere to Buy:\n\n $349 $249 at Amazon\n $349 $249 at Best Buy\n\nMy colleague Victoria Song tested six different smart rings to compare their health and fitness tracking features, and Oura beat them all handily. The Oura Ring 4 improved on its predecessor with more accurate sensors, a slimmer design that leaves the competition in the dust, not to mention frequent software and feature updates. Accessing all of the features requires an active subscription, which is either $5.99 per month or $69.99 per year. The newer Oura Ring 5 is lighter and thinner, but otherwise includes the same sensors and software features as the Oura Ring 4. That makes this previous-generation deal even more appealing, \nRead our Oura Ring 4 review.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "a843e42ce0e9f0dcfce9ed43ce927471ed8599cd",
-      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-12T21:27:21.000Z",
-      "summary_90w": "",
-      "raw": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "412b4e746837e240d98cd02c33ed37a9de039ddd",
       "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
       "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
@@ -791,32 +1259,6 @@
       "published": "2026-11-12T21:27:10.000Z",
       "summary_90w": "",
       "raw": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0752b83f5acd1887d46329faeb7328f7e411192b",
-      "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
-      "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-12T21:00:12.000Z",
-      "summary_90w": "",
-      "raw": "Move by Norway ‘a further tightening’ of current rules\n\nRussians ‘have no business’ in Finland, says minister\n\nNorway’s government announced that it would prevent Russian and Belarusian professional athletes from coming to Norway to compete, hours after neighbouring Finland announced a similar move.\nThe government said it intended to prevent athletes from these countries coming to Norway as long as the war in Ukraine continues. In a statement, it noted that while Norway already had strict rules for visas for Russian and Belarusian citizens, recent “relaxations introduced by international sports federations” meant that more athletes and support staff from the two countries may come to the Scandinavian nation to compete.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "ebff1920ee377b28548ef0f62f3fdca92dfc6e28",
-      "title": "Here are the 25 original Xbox games you can now play on PC",
-      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
-      "source_id": "verge-tech",
-      "source_name": "The Verge",
-      "published": "2026-11-12T21:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The first 25 original Xbox on PC games. | Image: Microsoft\t\n\nFor the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. \nIn July, Microsoft originally launched the idea with just four Xbox games, so 25 is progress, and Microsoft says all these games are now playable with keyboard and mouse.\nPlus, Microsoft says it's adding achievements to original Xbox games for the first time, starting with four games: Star Wars: Knights of the Old Republic and its sequel, Blinx: The Time Sweeper, and Conker: Li …\nRead the full story at The Verge.",
       "topics": [
         "Technology"
       ]
@@ -861,19 +1303,6 @@
       ]
     },
     {
-      "id": "a071c05d950f2fa941aad8ec33072c3ea7cfa660",
-      "title": "Jensen Huang has resigned, what's next for Nvidia?",
-      "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-12T19:33:37.000Z",
-      "summary_90w": "",
-      "raw": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "ce9a468b53e9785d338c2900287075aa8b7382e5",
       "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
       "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
@@ -884,19 +1313,6 @@
       "raw": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "f532866572ca90b1597dbe700c093586cee7e3c8",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-12T19:23:02.000Z",
-      "summary_90w": "",
-      "raw": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -926,32 +1342,6 @@
       ]
     },
     {
-      "id": "a20ff2b991b55d372eae09b597238730556a7cfd",
-      "title": "Microsoft’s Outlook email hit by new outage",
-      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-12T19:03:39.000Z",
-      "summary_90w": "",
-      "raw": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "d613e4ff356a28053a72473a196e605a9f425e52",
-      "title": "Duran Duran drummer quits band due to tinnitus",
-      "url": "https://www.bbc.co.uk/news/articles/crwy499k504do?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-12T19:00:15.000Z",
-      "summary_90w": "",
-      "raw": "Roger Taylor says his condition has been getting steadily worse, and he must now \"listen to my body and my doctors\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b2a849cb17105da8e06ee2e02f3e9c4ef57a9305",
       "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
       "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
@@ -968,13 +1358,13 @@
       "id": "94f5df7c1e8cd307ac3c042538b636b794601bf6",
       "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
       "url": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
+      "source_id": "npr-business",
+      "source_name": "NPR Topics: Business",
       "published": "2026-11-12T18:44:00.000Z",
       "summary_90w": "",
       "raw": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
       "topics": [
-        "World"
+        "Business"
       ]
     },
     {
@@ -988,19 +1378,6 @@
       "raw": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "73d14eafca6f86be4cfa5f884726ce61389d71c6",
-      "title": "Casualties continue to rise after Brooklyn building collapses",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-12T18:15:00.000Z",
-      "summary_90w": "",
-      "raw": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured.",
-      "topics": [
-        "World"
       ]
     },
     {
@@ -1043,29 +1420,16 @@
       ]
     },
     {
-      "id": "68db99753eb8a865e3fb1b6d767992f62a7ab1cf",
-      "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-12T17:13:54.000Z",
-      "summary_90w": "",
-      "raw": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "b04f871e66a6a66af06317d43bfe96155c1642f1",
       "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
       "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2026-11-12T17:11:48.000Z",
       "summary_90w": "",
       "raw": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -1095,29 +1459,16 @@
       ]
     },
     {
-      "id": "b8bb9c4cdad0231b3071da251c6d834c9adea24a",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-12T16:54:12.000Z",
-      "summary_90w": "",
-      "raw": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "388a48be7bb7c99f5b2dd633643c82b5aa518343",
       "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
       "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
+      "source_id": "bbc-tech",
       "source_name": "BBC News",
       "published": "2026-11-12T16:43:36.000Z",
       "summary_90w": "",
       "raw": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
       "topics": [
-        "World"
+        "Technology"
       ]
     },
     {
@@ -1142,149 +1493,6 @@
       "published": "2026-11-12T16:32:33.000Z",
       "summary_90w": "",
       "raw": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "e02f04ed8a17ad37e41aac1493ccf635d73cb234",
-      "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
-      "url": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-12T16:20:04.000Z",
-      "summary_90w": "",
-      "raw": "A ship bigger than the Titanic is being sunk off the coast of Florida to make an artificial reef.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "3cb3f9869576fc9bf084effbfa1cd44ee9f9c84c",
-      "title": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
-      "source_id": "npr-top",
-      "source_name": "NPR Topics: News",
-      "published": "2026-11-12T16:12:53.000Z",
-      "summary_90w": "",
-      "raw": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "a5ee8976426905143d28d08fd6cd6d6b02dbfd4b",
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-12T16:12:44.000Z",
-      "summary_90w": "",
-      "raw": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "c1ab305c8c1e5e397a68f946d19f3dab28b17af9",
-      "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-11-12T16:12:39.000Z",
-      "summary_90w": "",
-      "raw": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "44c5c5c963e85d2185e1bd1c7baccdc41dc61c3e",
-      "title": "Whoop just launched a social network",
-      "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-12T16:00:00.000Z",
-      "summary_90w": "",
-      "raw": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "15b0384fb53fdc16335bf74c60a6ccf7551098e1",
-      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-12T15:37:29.000Z",
-      "summary_90w": "",
-      "raw": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "2965feb8b5ecf244bb99beb25fe8990f3827c64d",
-      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-11-12T15:26:39.000Z",
-      "summary_90w": "",
-      "raw": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "d08f5826855b436f048d03940baf44a95c75c9b2",
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-12T15:18:20.000Z",
-      "summary_90w": "",
-      "raw": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "62c34abfa66e72c124337b944fbbe9835ea9c60c",
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-12T15:18:14.000Z",
-      "summary_90w": "",
-      "raw": "This is the investment firm's largest fund to date.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "a020bde73133da7371aec5cb93d47b1fedbf3d9c",
-      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-11-12T15:10:32.000Z",
-      "summary_90w": "",
-      "raw": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "023d1c79ca20cb05e6182888453906096dd0785c",
-      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "published": "2026-11-12T15:02:28.000Z",
-      "summary_90w": "",
-      "raw": "This is Fireworks' second data breach in as many months.",
       "topics": [
         "Technology"
       ]
@@ -1329,14 +1537,14 @@
       ]
     },
     {
-      "id": "9301dff8cd420a171a925f5cd078360f6e4344db",
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+      "id": "e0cf9582f4a425d2c81392b2f1ceabe0a84fbfdb",
+      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
       "source_id": "bbc-world",
       "source_name": "BBC News",
-      "published": "2026-11-12T13:58:49.000Z",
+      "published": "2026-11-12T14:12:55.000Z",
       "summary_90w": "",
-      "raw": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+      "raw": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
       "topics": [
         "World"
       ]
@@ -1368,71 +1576,6 @@
       ]
     },
     {
-      "id": "e4a5945bc19cd4a58cc53079ba024a5fb47a7349",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-12T12:56:55.000Z",
-      "summary_90w": "",
-      "raw": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "7cf80c14f947f13ba936869de6362501ffdb04c0",
-      "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-      "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-12T12:19:01.000Z",
-      "summary_90w": "",
-      "raw": "Hospital director says 28 wounded in attack on one of few remaining medical facilities in the strip\nAn Israeli airstrike on Nasser hospital in southern Gaza killed six people, including a surgeon and a disabled man, and wounded 28 others, according to the hospital director.\nThe Israeli military carried out the attack on the hospital, in Khan Younis, early on Thursday saying in a statement it had struck a Hamas commander and other fighters there, without providing evidence.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "51b8fbeeee2fd4d95f6f9e47d494bb92d7bca91c",
-      "title": "Five new miniature frog species found in eastern Himalayas",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-12T11:07:19.000Z",
-      "summary_90w": "",
-      "raw": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "f20ccf018a740af05477d845e2209437deb0a66b",
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-12T08:46:57.000Z",
-      "summary_90w": "",
-      "raw": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6b361174c90506db6c5d1635edaa7d937f49db33",
-      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-12T07:45:52.000Z",
-      "summary_90w": "",
-      "raw": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "2d88c88109c5c9e20f72cb5b3e38b278e3c957c3",
       "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
       "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
@@ -1446,32 +1589,6 @@
       ]
     },
     {
-      "id": "e8d0b12d49faf422b5f325e31455eaed46d5273f",
-      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-12T04:03:13.000Z",
-      "summary_90w": "",
-      "raw": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "06aaf836ff3dafffd5e359a68f4c9227c7e0e31e",
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-12T02:40:18.000Z",
-      "summary_90w": "",
-      "raw": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "2f369d508278da65728367204262771deb35dd05",
       "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
       "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
@@ -1480,32 +1597,6 @@
       "published": "2026-11-11T22:50:37.000Z",
       "summary_90w": "",
       "raw": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats \nTwo skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but whose remains were taken to the United States and used in racist eugenics studies at Harvard University, were repatriated on Wednesday.\nThe remains had been outside Brazil since the 19th century. One was taken about 190 years ago from Salvador, the capital of the state of Bahia; the other, about 160 years ago, from Rio de Janeiro – and were welcomed back in moving, subdued ceremonies in both cities.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "6867e075ed2c7d65d346e434e1a127bed1463221",
-      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-      "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-11-11T22:26:18.000Z",
-      "summary_90w": "",
-      "raw": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "23565797d1ba8e8e5f4563b347d2313a702e8a1c",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-11T22:07:37.000Z",
-      "summary_90w": "",
-      "raw": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
       "topics": [
         "World"
       ]
@@ -1550,45 +1641,6 @@
       ]
     },
     {
-      "id": "c57d9b9b4f448e1072fc00c82ca68c83fb3d29c5",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-11T18:38:45.000Z",
-      "summary_90w": "",
-      "raw": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "77d2e141ffd8aa791ec6a3fce0250d84d7f8ab11",
-      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-      "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-11T18:10:57.000Z",
-      "summary_90w": "",
-      "raw": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "9e192a2ac325acbc8859393429d880ab0bd627c9",
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-11T16:45:11.000Z",
-      "summary_90w": "",
-      "raw": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "e9dd6f9958cd5edaf3e44e5e75632af375d59102",
       "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
       "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
@@ -1597,19 +1649,6 @@
       "published": "2026-11-11T16:05:45.000Z",
       "summary_90w": "",
       "raw": "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans\nBritain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici, Argentina has told an international tribunal.\nMarcelo Kohen, representing Argentina at a hearing in Hamburg, mocked Britain for apparently believing in the historic doctrine that the British crown has sovereignty over expansive parts of the oceans.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "bc93c941a230ca7970f19afe824a76cf1143f0e0",
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-11T14:56:11.000Z",
-      "summary_90w": "",
-      "raw": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
       "topics": [
         "World"
       ]
@@ -1625,45 +1664,6 @@
       "raw": "Tomás Beltrán was shot dead amid gang warfare that has turned Latin American country into one of its most violent\nTomás Beltrán was manoeuvring his car into his garage on Sunday night when the Ecuadorian journalist was shot dead.\nBeltrán ran a Facebook page with news about Calceta, a small city in the province of Manabí, whose Pacific coastline has made it a key flashpoint in the gang warfare over drug trafficking routes that has transformed one of Latin America’s safest countries into one of its most violent.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "c7c5ecc656163395b3a0c5370750ce095829d71e",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-11T13:24:29.000Z",
-      "summary_90w": "",
-      "raw": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "90dc2babdee0dbb448d30a4668666eba4218f2bf",
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-world",
-      "source_name": "BBC News",
-      "published": "2026-11-11T12:53:11.000Z",
-      "summary_90w": "",
-      "raw": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-      "topics": [
-        "World"
-      ]
-    },
-    {
-      "id": "b0b00dc134b0a7ac271113913ee64cec41276a00",
-      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-11-11T11:33:24.000Z",
-      "summary_90w": "",
-      "raw": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1719,19 +1719,6 @@
       ]
     },
     {
-      "id": "87a3474e76ddb534adf495acdb886ea43b05cf9c",
-      "title": "Robot vessels take on the dangerous work of mine hunting",
-      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-11-11T00:19:13.000Z",
-      "summary_90w": "",
-      "raw": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "15ad0fffc682a4caefc1b89a16a8b848053da64b",
       "title": "The scandal surrounding the head of Nvidia could have wide-ranging implications",
       "url": "https://www.npr.org/2026/11/10/nx-s1-6035694/the-scandal-surrounding-the-head-of-nvidia-could-have-wide-ranging-implications",
@@ -1740,32 +1727,6 @@
       "published": "2026-11-10T23:43:58.000Z",
       "summary_90w": "",
       "raw": "NPR's Sacha Pfeiffer speaks with Bloomberg tech reporter Ian King about the unusually overarching role of Nvidia CEO Jensen Huang at his company and within the American tech industry at large.",
-      "topics": [
-        "Business"
-      ]
-    },
-    {
-      "id": "d68f526af6ae195ea57b84d71eb2acbfe7870d83",
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "source_id": "bbc-tech",
-      "source_name": "BBC News",
-      "published": "2026-11-10T22:52:15.000Z",
-      "summary_90w": "",
-      "raw": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "0a88620863705ba6fcd317c7c60237f0fbc27947",
-      "title": "Should you trust new AI agents with your money and data?",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-11-10T21:44:32.000Z",
-      "summary_90w": "",
-      "raw": "Tech companies want agentic AI to be the new way you shop. But should you trust AI when your money's involved?",
       "topics": [
         "Business"
       ]
@@ -1784,19 +1745,6 @@
       ]
     },
     {
-      "id": "1080ea75cd5fd772540fc9ca4fb24f608daeebd5",
-      "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
-      "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-      "source_id": "guardian-world",
-      "source_name": "World news | The Guardian",
-      "published": "2026-11-10T19:01:33.000Z",
-      "summary_90w": "",
-      "raw": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute\nThe people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking development of its offshore oilfield, the attorney general for England and Wales has told an international tribunal.\nEllie Reeves, representing the British government at a hearing of the international tribunal for the law of the sea (Itlos), said billions of pounds vital to the future of the British overseas territory would be lost.\n Continue reading...",
-      "topics": [
-        "World"
-      ]
-    },
-    {
       "id": "76dd978295b6cc0afa8e0b9aab43f8e40ffc9365",
       "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
       "url": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
@@ -1807,19 +1755,6 @@
       "raw": "Drone makers are testing new, big drones that can deliver water or fire retardant with AI assistance. Aspen, Colorado is the first place trying them out. Cool and expensive? Yes. Effective? TBD.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "dbb84efbb07a4986a97a6f8394b39d9da4d18379",
-      "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
-      "source_id": "npr-business",
-      "source_name": "NPR Topics: Business",
-      "published": "2026-11-10T17:46:25.000Z",
-      "summary_90w": "",
-      "raw": "Mona Chalabi spent five years following Americans living paycheck to paycheck, as well as those earning top wages. Her new book, Ten Lives, explores why financial security can feel so elusive.",
-      "topics": [
-        "Business"
       ]
     },
     {
@@ -1849,45 +1784,6 @@
       ]
     },
     {
-      "id": "5b51937e7c4a6f4a392cc65e7b184c07a09d3253",
-      "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
-      "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2026-11-09T10:47:00.000Z",
-      "summary_90w": "",
-      "raw": "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy…before it unravels beyond repair.\"",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "72b339d6556f7b6f4d0680e9cac9af4c21bf26ce",
-      "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-      "url": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2026-11-09T10:00:00.000Z",
-      "summary_90w": "",
-      "raw": "The secretive software company has been accused of letting its powerful tools be used by the Trump administration to surveil Americans. Now it's hiring former Sen. Jon Tester to burnish its image.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "618b565a0c85188ca8bc8ceb861f8bfcb60d3755",
-      "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
-      "url": "https://www.npr.org/2026/11/09/nx-s1-6034057/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2026-11-09T09:42:57.000Z",
-      "summary_90w": "",
-      "raw": "Chipmaker Nvidia is launching an investigation of its CEO Jensen Huang after news reports he had an affair with a Chinese woman who was recruited to spy for Beijing.",
-      "topics": [
-        "Technology"
-      ]
-    },
-    {
       "id": "ff406199a7cc3594a8222bd4d51693ac2feb1fc9",
       "title": "Collision of two trains in Egypt kills at least seven",
       "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
@@ -1911,19 +1807,6 @@
       "raw": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives\nAfrican philosophies including exploring how lessons from the past can shape the present and near future have inspired a film festival coming to Manchester.\nSee My World, a day dedicated to independent creators from across the African diaspora in the north of England, will take place at the Contact theatre on 21 November.\n Continue reading...",
       "topics": [
         "World"
-      ]
-    },
-    {
-      "id": "ec3968efb37b3141b02f1cac6d291aed8d3788fa",
-      "title": "Google, Meta and TikTok sue to block California youth social media law",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6032764/google-meta-and-tiktok-sue-to-block-california-youth-social-media-law",
-      "source_id": "npr-tech",
-      "source_name": "NPR Topics: Technology",
-      "published": "2026-11-07T12:41:13.000Z",
-      "summary_90w": "",
-      "raw": "Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.",
-      "topics": [
-        "Technology"
       ]
     },
     {
@@ -1966,9 +1849,9 @@
       ]
     },
     {
-      "id": "4a31455a278e2545a49a5fea7ac1b4c569352310",
-      "title": "Are Under-25s About to Lose Sickness Benefits?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pm3s8y?at_mid=8p9AcX1WWS&at_campaign=Newscast_Are_Under_25s_About_to_Lose_Sickness_Benefits_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Are_Under_25s_About_to_Lose_Sickness_Benefits_news_rail&at_bbc_team=BBC&at_creation=News",
+      "id": "2a71d2c2ccfffa3c28f8c7c37f756b276d0035b7",
+      "title": "Welfare Plans and EU Deals",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pm3sfz?at_mid=i6Gf40TZKZ&at_campaign=Newscast_The_Week_Welfare_Plans_and_EU_Deals_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Week_Welfare_Plans_and_EU_Deals_news_rail&at_bbc_team=BBC&at_creation=News",
       "source_id": "bbc-top",
       "source_name": "BBC News",
       "published": "2026-10-25T00:00:00.000Z",
@@ -2041,19 +1924,6 @@
       "raw": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
       "topics": [
         "Technology"
-      ]
-    },
-    {
-      "id": "9f44df8e768c41341848906c5296eaab47eed437",
-      "title": "The mammoth effort to entomb the ruins of the Chernobyl nuclear power plant",
-      "url": "https://www.bbc.co.uk/iplayer/episode/b08650s6?at_mid=gEXl0ndPjx&at_campaign=Inside_Chernobyls_Mega_Tomb&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b08650s6&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Inside_Chernobyls_Mega_Tomb&at_bbc_team=BBC",
-      "source_id": "bbc-top",
-      "source_name": "BBC News",
-      "published": "2026-01-07T22:00:23.000Z",
-      "summary_90w": "",
-      "raw": "Film following the team racing to entomb the ruins of the Chernobyl nuclear power plant.",
-      "topics": [
-        "World"
       ]
     },
     {
